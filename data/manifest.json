@@ -1,0 +1,387 @@
+{
+  "schemaVersion": 1,
+  "snapshotId": "20260817T200507524Z-c36f2ac6ef",
+  "generatedAt": 1786997107524,
+  "lastSuccessfulSyncAt": 1786855966375,
+  "status": "partial",
+  "defaultThreshold": 3,
+  "cutoffSetId": "hgss4",
+  "setCount": 62,
+  "dealCount": 2153,
+  "detailCount": 474,
+  "eventCount": 0,
+  "setStatuses": [
+    {
+      "setId": "base1",
+      "status": "partial",
+      "finishedAt": 1786853098373,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "base2",
+      "status": "partial",
+      "finishedAt": 1786853710905,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "basep",
+      "status": "partial",
+      "finishedAt": 1786854003461,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "base3",
+      "status": "partial",
+      "finishedAt": 1786854108218,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "base4",
+      "status": "partial",
+      "finishedAt": 1786854412327,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "base5",
+      "status": "partial",
+      "finishedAt": 1786854683686,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "gym1",
+      "status": "partial",
+      "finishedAt": 1786855047374,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "gym2",
+      "status": "error",
+      "finishedAt": 1786855425351,
+      "error": "eBay scraper backoff engaged"
+    },
+    {
+      "setId": "neo1",
+      "status": "error",
+      "finishedAt": 1786855714789,
+      "error": "eBay scraper backoff engaged"
+    },
+    {
+      "setId": "neo2",
+      "status": "error",
+      "finishedAt": 1786855851046,
+      "error": "eBay scraper backoff engaged"
+    },
+    {
+      "setId": "si1",
+      "status": "ok",
+      "finishedAt": 1786855966375,
+      "error": null
+    },
+    {
+      "setId": "neo3",
+      "status": "partial",
+      "finishedAt": 1786855994173,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "neo4",
+      "status": "partial",
+      "finishedAt": 1786856191654,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "base6",
+      "status": "error",
+      "finishedAt": 1786856449363,
+      "error": "eBay scraper backoff engaged"
+    },
+    {
+      "setId": "ecard1",
+      "status": "error",
+      "finishedAt": 1786856607237,
+      "error": "eBay scraper backoff engaged"
+    },
+    {
+      "setId": "bp",
+      "status": "error",
+      "finishedAt": 1786856789538,
+      "error": "eBay scraper backoff engaged"
+    },
+    {
+      "setId": "ecard2",
+      "status": "partial",
+      "finishedAt": 1786856835002,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "ecard3",
+      "status": "partial",
+      "finishedAt": 1786857143377,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "ex1",
+      "status": "partial",
+      "finishedAt": 1786917913069,
+      "error": "2 of 87 eBay card searches failed or were not attempted (non-authoritative=2)"
+    },
+    {
+      "setId": "ex2",
+      "status": "partial",
+      "finishedAt": 1786918066455,
+      "error": "2 of 92 eBay card searches failed or were not attempted (non-authoritative=2)"
+    },
+    {
+      "setId": "np",
+      "status": "missing",
+      "finishedAt": null,
+      "error": "One or more sync stages have not completed."
+    },
+    {
+      "setId": "ex3",
+      "status": "ok",
+      "finishedAt": 1786918229460,
+      "error": null
+    },
+    {
+      "setId": "ex4",
+      "status": "partial",
+      "finishedAt": 1786918378369,
+      "error": "59 of 77 eBay card searches failed or were not attempted (incomplete=59)"
+    },
+    {
+      "setId": "ex5",
+      "status": "partial",
+      "finishedAt": 1786918539757,
+      "error": "2 of 93 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=1)"
+    },
+    {
+      "setId": "ex6",
+      "status": "partial",
+      "finishedAt": 1786918692300,
+      "error": "3 of 99 eBay card searches failed or were not attempted (non-authoritative=3)"
+    },
+    {
+      "setId": "pop1",
+      "status": "partial",
+      "finishedAt": 1786864322197,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "ex7",
+      "status": "partial",
+      "finishedAt": 1786918874231,
+      "error": "35 of 97 eBay card searches failed or were not attempted (incomplete=30, non-authoritative=5)"
+    },
+    {
+      "setId": "ex8",
+      "status": "partial",
+      "finishedAt": 1786919090279,
+      "error": "8 of 96 eBay card searches failed or were not attempted (non-authoritative=2, incomplete=6)"
+    },
+    {
+      "setId": "ex9",
+      "status": "partial",
+      "finishedAt": 1786919280319,
+      "error": "4 of 86 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=3)"
+    },
+    {
+      "setId": "ex10",
+      "status": "partial",
+      "finishedAt": 1786919475096,
+      "error": "3 of 97 eBay card searches failed or were not attempted (non-authoritative=3)"
+    },
+    {
+      "setId": "pop2",
+      "status": "partial",
+      "finishedAt": 1786864351598,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "ex11",
+      "status": "partial",
+      "finishedAt": 1786919671147,
+      "error": "46 of 95 eBay card searches failed or were not attempted (incomplete=35, non-authoritative=11)"
+    },
+    {
+      "setId": "ex12",
+      "status": "partial",
+      "finishedAt": 1786919886212,
+      "error": "3 of 82 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=2)"
+    },
+    {
+      "setId": "pop3",
+      "status": "partial",
+      "finishedAt": 1786864381662,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "ex13",
+      "status": "partial",
+      "finishedAt": 1786920061640,
+      "error": "4 of 90 eBay card searches failed or were not attempted (non-authoritative=1, incomplete=3)"
+    },
+    {
+      "setId": "ex14",
+      "status": "partial",
+      "finishedAt": 1786920318833,
+      "error": "4 of 82 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=2)"
+    },
+    {
+      "setId": "pop4",
+      "status": "partial",
+      "finishedAt": 1786864412054,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "ex15",
+      "status": "partial",
+      "finishedAt": 1786920487785,
+      "error": "19 of 81 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=17)"
+    },
+    {
+      "setId": "ex16",
+      "status": "partial",
+      "finishedAt": 1786920785427,
+      "error": "3 of 81 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=1)"
+    },
+    {
+      "setId": "pop5",
+      "status": "partial",
+      "finishedAt": 1786860632462,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "dpp",
+      "status": "error",
+      "finishedAt": 1786860661976,
+      "error": "dpp: TypeError: fetch failed"
+    },
+    {
+      "setId": "dp1",
+      "status": "partial",
+      "finishedAt": 1786860695688,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "dp2",
+      "status": "partial",
+      "finishedAt": 1786860988123,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "pop6",
+      "status": "partial",
+      "finishedAt": 1786861248395,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "dp3",
+      "status": "partial",
+      "finishedAt": 1786861304421,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "dp4",
+      "status": "partial",
+      "finishedAt": 1786861580966,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "pop7",
+      "status": "partial",
+      "finishedAt": 1786861784395,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "dp5",
+      "status": "partial",
+      "finishedAt": 1786861812615,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "dp6",
+      "status": "partial",
+      "finishedAt": 1786862012325,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "pop8",
+      "status": "partial",
+      "finishedAt": 1786862299401,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "dp7",
+      "status": "partial",
+      "finishedAt": 1786862334312,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "pl1",
+      "status": "partial",
+      "finishedAt": 1786862532172,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "pop9",
+      "status": "partial",
+      "finishedAt": 1786862777193,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "pl2",
+      "status": "error",
+      "finishedAt": 1786862807880,
+      "error": "eBay scraper backoff engaged"
+    },
+    {
+      "setId": "pl3",
+      "status": "partial",
+      "finishedAt": 1786863043468,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "pl4",
+      "status": "partial",
+      "finishedAt": 1786863333063,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "ru1",
+      "status": "partial",
+      "finishedAt": 1786863536620,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "hsp",
+      "status": "error",
+      "finishedAt": 1786863558029,
+      "error": "hsp: TypeError: fetch failed"
+    },
+    {
+      "setId": "hgss1",
+      "status": "error",
+      "finishedAt": 1786863585741,
+      "error": "eBay scraper backoff engaged"
+    },
+    {
+      "setId": "hgss2",
+      "status": "partial",
+      "finishedAt": 1786863766807,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "hgss3",
+      "status": "partial",
+      "finishedAt": 1786863952763,
+      "error": "Some eBay searches were incomplete"
+    },
+    {
+      "setId": "hgss4",
+      "status": "partial",
+      "finishedAt": 1786864129969,
+      "error": "Some eBay searches were incomplete"
+    }
+  ]
+}
