@@ -1,135 +1,135 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260817T200507524Z-c36f2ac6ef",
-  "generatedAt": 1786997107524,
-  "lastSuccessfulSyncAt": 1786855966375,
+  "snapshotId": "20260819T185311524Z-e619a8c723",
+  "generatedAt": 1787165591524,
+  "lastSuccessfulSyncAt": null,
   "status": "partial",
   "defaultThreshold": 3,
   "cutoffSetId": "hgss4",
   "setCount": 62,
-  "dealCount": 2153,
-  "detailCount": 474,
-  "eventCount": 0,
+  "dealCount": 1581,
+  "detailCount": 556,
+  "eventCount": 537,
   "setStatuses": [
     {
       "setId": "base1",
-      "status": "partial",
-      "finishedAt": 1786853098373,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162252767,
+      "error": "69 of 69 eBay card searches failed or were not attempted (bot-challenge=2, transport=6, unattempted=61)"
     },
     {
       "setId": "base2",
-      "status": "partial",
-      "finishedAt": 1786853710905,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162502317,
+      "error": "base2: WorkerTransportError: PokeWorker-08: controller could not reach worker: fetch failed"
     },
     {
       "setId": "basep",
-      "status": "partial",
-      "finishedAt": 1786854003461,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162504387,
+      "error": "basep: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "base3",
-      "status": "partial",
-      "finishedAt": 1786854108218,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162504390,
+      "error": "base3: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "base4",
-      "status": "partial",
-      "finishedAt": 1786854412327,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162504394,
+      "error": "base4: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "base5",
-      "status": "partial",
-      "finishedAt": 1786854683686,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162504397,
+      "error": "base5: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "gym1",
-      "status": "partial",
-      "finishedAt": 1786855047374,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162504401,
+      "error": "gym1: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "gym2",
       "status": "error",
-      "finishedAt": 1786855425351,
-      "error": "eBay scraper backoff engaged"
+      "finishedAt": 1787162504406,
+      "error": "gym2: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "neo1",
       "status": "error",
-      "finishedAt": 1786855714789,
-      "error": "eBay scraper backoff engaged"
+      "finishedAt": 1787162504410,
+      "error": "neo1: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "neo2",
       "status": "error",
-      "finishedAt": 1786855851046,
-      "error": "eBay scraper backoff engaged"
+      "finishedAt": 1787162504414,
+      "error": "neo2: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "si1",
-      "status": "ok",
-      "finishedAt": 1786855966375,
-      "error": null
+      "status": "error",
+      "finishedAt": 1787162504417,
+      "error": "si1: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "neo3",
-      "status": "partial",
-      "finishedAt": 1786855994173,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162504420,
+      "error": "neo3: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "neo4",
-      "status": "partial",
-      "finishedAt": 1786856191654,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162504424,
+      "error": "neo4: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "base6",
       "status": "error",
-      "finishedAt": 1786856449363,
-      "error": "eBay scraper backoff engaged"
+      "finishedAt": 1787162504427,
+      "error": "base6: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ecard1",
       "status": "error",
-      "finishedAt": 1786856607237,
-      "error": "eBay scraper backoff engaged"
+      "finishedAt": 1787162504431,
+      "error": "ecard1: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "bp",
       "status": "error",
-      "finishedAt": 1786856789538,
-      "error": "eBay scraper backoff engaged"
+      "finishedAt": 1787162504437,
+      "error": "bp: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ecard2",
-      "status": "partial",
-      "finishedAt": 1786856835002,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162504439,
+      "error": "ecard2: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ecard3",
-      "status": "partial",
-      "finishedAt": 1786857143377,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162504445,
+      "error": "ecard3: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ex1",
-      "status": "partial",
-      "finishedAt": 1786917913069,
-      "error": "2 of 87 eBay card searches failed or were not attempted (non-authoritative=2)"
+      "status": "error",
+      "finishedAt": 1787162504451,
+      "error": "ex1: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ex2",
-      "status": "partial",
-      "finishedAt": 1786918066455,
-      "error": "2 of 92 eBay card searches failed or were not attempted (non-authoritative=2)"
+      "status": "error",
+      "finishedAt": 1787162504455,
+      "error": "ex2: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "np",
@@ -139,249 +139,249 @@
     },
     {
       "setId": "ex3",
-      "status": "ok",
-      "finishedAt": 1786918229460,
-      "error": null
+      "status": "error",
+      "finishedAt": 1787162504460,
+      "error": "ex3: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ex4",
-      "status": "partial",
-      "finishedAt": 1786918378369,
-      "error": "59 of 77 eBay card searches failed or were not attempted (incomplete=59)"
+      "status": "error",
+      "finishedAt": 1787162504464,
+      "error": "ex4: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ex5",
-      "status": "partial",
-      "finishedAt": 1786918539757,
-      "error": "2 of 93 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=1)"
+      "status": "error",
+      "finishedAt": 1787162504467,
+      "error": "ex5: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ex6",
-      "status": "partial",
-      "finishedAt": 1786918692300,
-      "error": "3 of 99 eBay card searches failed or were not attempted (non-authoritative=3)"
+      "status": "error",
+      "finishedAt": 1787162504470,
+      "error": "ex6: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "pop1",
-      "status": "partial",
-      "finishedAt": 1786864322197,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162504475,
+      "error": "pop1: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ex7",
-      "status": "partial",
-      "finishedAt": 1786918874231,
-      "error": "35 of 97 eBay card searches failed or were not attempted (incomplete=30, non-authoritative=5)"
+      "status": "error",
+      "finishedAt": 1787162504476,
+      "error": "ex7: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ex8",
-      "status": "partial",
-      "finishedAt": 1786919090279,
-      "error": "8 of 96 eBay card searches failed or were not attempted (non-authoritative=2, incomplete=6)"
+      "status": "error",
+      "finishedAt": 1787162504479,
+      "error": "ex8: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ex9",
-      "status": "partial",
-      "finishedAt": 1786919280319,
-      "error": "4 of 86 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=3)"
+      "status": "error",
+      "finishedAt": 1787162504482,
+      "error": "ex9: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ex10",
-      "status": "partial",
-      "finishedAt": 1786919475096,
-      "error": "3 of 97 eBay card searches failed or were not attempted (non-authoritative=3)"
+      "status": "error",
+      "finishedAt": 1787162508606,
+      "error": "ex10: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "pop2",
-      "status": "partial",
-      "finishedAt": 1786864351598,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162510553,
+      "error": "pop2: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ex11",
-      "status": "partial",
-      "finishedAt": 1786919671147,
-      "error": "46 of 95 eBay card searches failed or were not attempted (incomplete=35, non-authoritative=11)"
+      "status": "error",
+      "finishedAt": 1787162510554,
+      "error": "ex11: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ex12",
-      "status": "partial",
-      "finishedAt": 1786919886212,
-      "error": "3 of 82 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=2)"
+      "status": "error",
+      "finishedAt": 1787162514936,
+      "error": "ex12: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "pop3",
-      "status": "partial",
-      "finishedAt": 1786864381662,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162515321,
+      "error": "pop3: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ex13",
-      "status": "partial",
-      "finishedAt": 1786920061640,
-      "error": "4 of 90 eBay card searches failed or were not attempted (non-authoritative=1, incomplete=3)"
+      "status": "error",
+      "finishedAt": 1787162515323,
+      "error": "ex13: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "ex14",
-      "status": "partial",
-      "finishedAt": 1786920318833,
-      "error": "4 of 82 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=2)"
+      "status": "error",
+      "finishedAt": 1787162515691,
+      "error": "ex14: BurnError: eBay bot challenge detected: all eligible workers are quarantined or unavailable"
     },
     {
       "setId": "pop4",
-      "status": "partial",
-      "finishedAt": 1786864412054,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162516174,
+      "error": "scraper backoff window is active"
     },
     {
       "setId": "ex15",
-      "status": "partial",
-      "finishedAt": 1786920487785,
-      "error": "19 of 81 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=17)"
+      "status": "error",
+      "finishedAt": 1787162531323,
+      "error": "scraper backoff window is active"
     },
     {
       "setId": "ex16",
       "status": "partial",
-      "finishedAt": 1786920785427,
-      "error": "3 of 81 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=1)"
+      "finishedAt": 1787162551763,
+      "error": "5 of 81 eBay card searches failed or were not attempted (incomplete=2, unknown=3)"
     },
     {
       "setId": "pop5",
-      "status": "partial",
-      "finishedAt": 1786860632462,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162868073,
+      "error": "pop5: Error: PokeWorker-01: This operation was aborted"
     },
     {
       "setId": "dpp",
       "status": "error",
-      "finishedAt": 1786860661976,
-      "error": "dpp: TypeError: fetch failed"
+      "finishedAt": 1787162894899,
+      "error": "dpp: Error: PokeWorker-01: This operation was aborted"
     },
     {
       "setId": "dp1",
-      "status": "partial",
-      "finishedAt": 1786860695688,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162921466,
+      "error": "dp1: Error: PokeWorker-01: This operation was aborted"
     },
     {
       "setId": "dp2",
-      "status": "partial",
-      "finishedAt": 1786860988123,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162948496,
+      "error": "dp2: Error: PokeWorker-04: This operation was aborted"
     },
     {
       "setId": "pop6",
-      "status": "partial",
-      "finishedAt": 1786861248395,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787162975047,
+      "error": "pop6: Error: PokeWorker-01: This operation was aborted"
     },
     {
       "setId": "dp3",
-      "status": "partial",
-      "finishedAt": 1786861304421,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163005117,
+      "error": "dp3: Error: PokeWorker-04: This operation was aborted"
     },
     {
       "setId": "dp4",
-      "status": "partial",
-      "finishedAt": 1786861580966,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163031798,
+      "error": "dp4: Error: PokeWorker-01: This operation was aborted"
     },
     {
       "setId": "pop7",
-      "status": "partial",
-      "finishedAt": 1786861784395,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163058748,
+      "error": "pop7: Error: PokeWorker-04: This operation was aborted"
     },
     {
       "setId": "dp5",
-      "status": "partial",
-      "finishedAt": 1786861812615,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163085212,
+      "error": "dp5: Error: PokeWorker-01: This operation was aborted"
     },
     {
       "setId": "dp6",
-      "status": "partial",
-      "finishedAt": 1786862012325,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163111581,
+      "error": "dp6: Error: PokeWorker-04: This operation was aborted"
     },
     {
       "setId": "pop8",
-      "status": "partial",
-      "finishedAt": 1786862299401,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163138377,
+      "error": "pop8: Error: PokeWorker-01: This operation was aborted"
     },
     {
       "setId": "dp7",
-      "status": "partial",
-      "finishedAt": 1786862334312,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163167441,
+      "error": "dp7: Error: PokeWorker-04: This operation was aborted"
     },
     {
       "setId": "pl1",
-      "status": "partial",
-      "finishedAt": 1786862532172,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163197294,
+      "error": "pl1: Error: PokeWorker-01: This operation was aborted"
     },
     {
       "setId": "pop9",
-      "status": "partial",
-      "finishedAt": 1786862777193,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163224083,
+      "error": "pop9: Error: PokeWorker-04: This operation was aborted"
     },
     {
       "setId": "pl2",
       "status": "error",
-      "finishedAt": 1786862807880,
-      "error": "eBay scraper backoff engaged"
+      "finishedAt": 1787163254284,
+      "error": "pl2: Error: PokeWorker-01: This operation was aborted"
     },
     {
       "setId": "pl3",
-      "status": "partial",
-      "finishedAt": 1786863043468,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163284572,
+      "error": "pl3: Error: PokeWorker-04: This operation was aborted"
     },
     {
       "setId": "pl4",
-      "status": "partial",
-      "finishedAt": 1786863333063,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163314110,
+      "error": "pl4: Error: PokeWorker-01: This operation was aborted"
     },
     {
       "setId": "ru1",
-      "status": "partial",
-      "finishedAt": 1786863536620,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163340444,
+      "error": "ru1: Error: PokeWorker-04: This operation was aborted"
     },
     {
       "setId": "hsp",
       "status": "error",
-      "finishedAt": 1786863558029,
-      "error": "hsp: TypeError: fetch failed"
+      "finishedAt": 1787163366830,
+      "error": "hsp: Error: PokeWorker-01: This operation was aborted"
     },
     {
       "setId": "hgss1",
       "status": "error",
-      "finishedAt": 1786863585741,
-      "error": "eBay scraper backoff engaged"
+      "finishedAt": 1787163395559,
+      "error": "hgss1: Error: PokeWorker-04: This operation was aborted"
     },
     {
       "setId": "hgss2",
-      "status": "partial",
-      "finishedAt": 1786863766807,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163422422,
+      "error": "hgss2: Error: PokeWorker-01: This operation was aborted"
     },
     {
       "setId": "hgss3",
-      "status": "partial",
-      "finishedAt": 1786863952763,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163448881,
+      "error": "hgss3: Error: PokeWorker-04: This operation was aborted"
     },
     {
       "setId": "hgss4",
-      "status": "partial",
-      "finishedAt": 1786864129969,
-      "error": "Some eBay searches were incomplete"
+      "status": "error",
+      "finishedAt": 1787163475600,
+      "error": "hgss4: Error: PokeWorker-01: This operation was aborted"
     }
   ]
 }
