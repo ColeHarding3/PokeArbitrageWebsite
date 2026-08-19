@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T185311524Z-e619a8c723",
-  "generatedAt": 1787165591524,
+  "snapshotId": "20260819T205122489Z-1ee34ff623",
+  "generatedAt": 1787172682489,
   "data": {
     "deal": {
       "variantId": 4077,
@@ -31,20 +31,7 @@
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    4 sales per year\"}",
         "fetchedAt": 1787061370817
       },
-      "bestCgc10": {
-        "itemId": "177129864144",
-        "title": "2006 Pokemon Blaziken Attack Series No. 258 Glitter Ensky CGC 10 *POP 1*Opens in a new window or tab",
-        "priceC": 17995,
-        "shippingC": 595,
-        "landedC": 18590,
-        "url": "https://www.ebay.com/itm/177129864144?_skw=%28blaziken%29+%281%2Cpop%2Cseries%29+%28CGC%2CPSA%29&itmmeta=01M0DNSXWX60323BT09WA8T30J&hash=item293dc33bd0:g:O-QAAOSwLMNoNbwZ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAbs6jf4NkvH6K8qXyhbutF9ZLfljFbjV8Kaam%2BoNDLflHnTNxMe6dKbAQd4F93FTwkFIJuAsqIDAKLWCyrW7nYTbgjCbPpKlrUioDcLCgkwwWC3KeOhriQuyxdjUdwMBPU5hqkvBJURu5o9I%2F2XOOWc4%2FjtZgAERGJ7k6ZXLrsdOoKa6GqJelL42Fp9fT%2B2spWIcGaMeD4SA7acRkfSw5e0fXZRYt47HPNhVM0t%2FL5AI8QX%2B2IAEBEGnyxjfg4jDhRG1zK2CJWrFfOYJWpkry8%7Ctkp%3ABk9SR_De57WDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/O-QAAOSwLMNoNbwZ/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "gemMint10",
-        "freshness": "live",
-        "firstSeen": 1787061558184,
-        "lastSeen": 1787165573087
-      },
+      "bestCgc10": null,
       "bestPsa10": {
         "itemId": "117088937435",
         "title": "2004 Pokemon POP Series 1 Blaziken Art PSA 10 GEM MINTOpens in a new window or tab",
@@ -74,29 +61,15 @@
         "lastSeen": 1787165573087
       },
       "counts": {
-        "cgc10Bin": 1,
+        "cgc10Bin": 0,
         "cgc10Auction": 1,
         "pristine10": 0,
         "psa10Bin": 1,
         "psa10Auction": 0,
         "psa9Bin": 1
       },
-      "ratio": {
-        "ok": true,
-        "tier": {
-          "id": "superExpress",
-          "label": "Super Express",
-          "feeC": 34900,
-          "declaredValueCapC": 500000,
-          "turnaroundBizDays": 15
-        },
-        "cgc10CostC": 18590,
-        "submissionFeeC": 34900,
-        "totalCostC": 53490,
-        "psa10ValueC": 500000,
-        "ratio": 9.347541596560104
-      },
-      "firstOpportunityAt": 1787061558184,
+      "ratio": null,
+      "firstOpportunityAt": null,
       "updatedAt": 1787165573087
     },
     "prices": {
