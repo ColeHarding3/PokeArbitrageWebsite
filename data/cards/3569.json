@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 3569,
@@ -29,7 +29,7 @@
         "psa10Pop": 38,
         "cgc10Pop": 16,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per month\":\"volume: \\n    6 sales per year\"}",
-        "fetchedAt": 1787058514590
+        "fetchedAt": 1787213425958
       },
       "bestCgc10": {
         "itemId": "286715831998",
@@ -37,34 +37,21 @@
         "priceC": 200000,
         "shippingC": 999,
         "landedC": 200999,
-        "url": "https://www.ebay.com/itm/286715831998?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=11043365447&itmmeta=01M0AG80B8XE05M2TT5SESKK8B&hash=item42c19866be:g:ahYAAeSwSy1oerOb&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xANERXq08R2mYowqK79lOimjjBP2T9QaYr2BUNX0aOaGyLQD3UDd%2Br%2F62S%2FPEtID97BuRpkYJ8osB22UHv21T38tF5YqZgsInckg8LMQUjno1YqwrDlJOnPl8sV2PH1xZb2KzFeAZmR12tgV4yYkqpamur8kCkW9WWq8yMW%2Fnpr1ADMZ%2F6psS%2FW%2Bh3HWU%2BBICrmkhf1%2FJTfEbvqrwm53RdA6%2FDDtnrBW31cCq48hulgfNZbtUYBQXeZ1MzRWO9dJENeJaOh70aS2oXoHJ3jn6CZ%7Ctkp%3ABk9SR-6FoNCCaA",
+        "url": "https://www.ebay.com/itm/286715831998?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=11043365447&itmmeta=01M0F3KCA9RMP1G8ACY7RHAT5K&hash=item42c19866be:g:ahYAAeSwSy1oerOb&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAUMwRlraFpFrNGUBZqfI%2Fo4vcqywUSaJG7b6NGcHWxp4HwZNuhl3XxLhzSNvO83UkOAFE6I%2FgZCTADkhMzzSd%2Fl70jZH25MmmfepAh2zybGEynbg4F%2BNPSZdi5d%2BuPXEVbm%2Ft2wRtoKFCO7Gi3gGbtT5ZTdQ6eVzo4UDIucmA33P3O1kkhoTYIyRWORc%2FZrvUGCZxDG3rFJcRO%2F58f1sYenOYBOQasXSpKaY5nWkf0uPRCM5uEPMdL6jLA8EL1cEY%2Bw7Y8u3B%2FGXpJvO7LcF0vJhqe%2B5vbOKxfb0EwbtqLLGDZA%2B5QysZQkYbsSKSCWOI%3D%7Ctkp%3ABk9SR7zFzeODaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ahYAAeSwSy1oerOb/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787059396087,
-        "lastSeen": 1787094587473
+        "lastSeen": 1787213596114
       },
-      "bestPsa10": {
-        "itemId": "287418443261",
-        "title": "Pokemon Sceptile EX Holo Team Magma Vs Team Aqua 93/95 PSA 10 Gem MintOpens in a new window or tab",
-        "priceC": 1000000,
-        "shippingC": 999,
-        "landedC": 1000999,
-        "url": "https://www.ebay.com/itm/287418443261?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=11043365447&itmmeta=01M0AG80B87HMEHV7AEXSH9WWY&hash=item42eb7965fd:g:XjMAAeSw6zxqPVE8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDZuCrVL9bu2UDtuq%2FTk13xsPss8Afulxo%2BG7n2n7Ca9qgba6%2FGKulFco%2F9JJ6CllxMkbS5WrQnnqEljS2iNvPZgAU6irYa%2F9a8xoiew3wAreQtrlFI8xOlUnAgOCiOFuAyWu8gjEdrKQEXEoYXZ%2BuoMdRRKa1n0yN0GWDZzYtNtqUhXRo7dwQh290%2F7ufTHUPIdCg0s8A%2FShRrhZo5q704nT6y3WyX70Go6dj%2BPjO4WBjoPHO9LnVRM2o%2FCOWYaBJaABatCNd%2FQFLRVTjAVPGF%7Ctkp%3ABk9SR-6FoNCCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/XjMAAeSw6zxqPVE8/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787059396087,
-        "lastSeen": 1787094587473
-      },
+      "bestPsa10": null,
       "bestPsa9": null,
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 1,
+        "psa10Bin": 0,
         "psa10Auction": 0,
         "psa9Bin": 0
       },
@@ -84,7 +71,7 @@
         "ratio": 2.2230824955250883
       },
       "firstOpportunityAt": 1787059396087,
-      "updatedAt": 1787094587473
+      "updatedAt": 1787213596114
     },
     "prices": {
       "variantId": 3569,
@@ -99,7 +86,7 @@
       "cgc10Pop": 16,
       "bgs10C": 754000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per month\":\"volume: \\n    6 sales per year\"}",
-      "fetchedAt": 1787058514590
+      "fetchedAt": 1787213425958
     },
     "listings": [
       {
@@ -108,31 +95,30 @@
         "priceC": 200000,
         "shippingC": 999,
         "landedC": 200999,
-        "url": "https://www.ebay.com/itm/286715831998?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=11043365447&itmmeta=01M0AG80B8XE05M2TT5SESKK8B&hash=item42c19866be:g:ahYAAeSwSy1oerOb&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xANERXq08R2mYowqK79lOimjjBP2T9QaYr2BUNX0aOaGyLQD3UDd%2Br%2F62S%2FPEtID97BuRpkYJ8osB22UHv21T38tF5YqZgsInckg8LMQUjno1YqwrDlJOnPl8sV2PH1xZb2KzFeAZmR12tgV4yYkqpamur8kCkW9WWq8yMW%2Fnpr1ADMZ%2F6psS%2FW%2Bh3HWU%2BBICrmkhf1%2FJTfEbvqrwm53RdA6%2FDDtnrBW31cCq48hulgfNZbtUYBQXeZ1MzRWO9dJENeJaOh70aS2oXoHJ3jn6CZ%7Ctkp%3ABk9SR-6FoNCCaA",
+        "url": "https://www.ebay.com/itm/286715831998?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=11043365447&itmmeta=01M0F3KCA9RMP1G8ACY7RHAT5K&hash=item42c19866be:g:ahYAAeSwSy1oerOb&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAUMwRlraFpFrNGUBZqfI%2Fo4vcqywUSaJG7b6NGcHWxp4HwZNuhl3XxLhzSNvO83UkOAFE6I%2FgZCTADkhMzzSd%2Fl70jZH25MmmfepAh2zybGEynbg4F%2BNPSZdi5d%2BuPXEVbm%2Ft2wRtoKFCO7Gi3gGbtT5ZTdQ6eVzo4UDIucmA33P3O1kkhoTYIyRWORc%2FZrvUGCZxDG3rFJcRO%2F58f1sYenOYBOQasXSpKaY5nWkf0uPRCM5uEPMdL6jLA8EL1cEY%2Bw7Y8u3B%2FGXpJvO7LcF0vJhqe%2B5vbOKxfb0EwbtqLLGDZA%2B5QysZQkYbsSKSCWOI%3D%7Ctkp%3ABk9SR7zFzeODaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ahYAAeSwSy1oerOb/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787059396087,
-        "lastSeen": 1787094587473
-      },
-      {
-        "itemId": "287418443261",
-        "title": "Pokemon Sceptile EX Holo Team Magma Vs Team Aqua 93/95 PSA 10 Gem MintOpens in a new window or tab",
-        "priceC": 1000000,
-        "shippingC": 999,
-        "landedC": 1000999,
-        "url": "https://www.ebay.com/itm/287418443261?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=11043365447&itmmeta=01M0AG80B87HMEHV7AEXSH9WWY&hash=item42eb7965fd:g:XjMAAeSw6zxqPVE8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDZuCrVL9bu2UDtuq%2FTk13xsPss8Afulxo%2BG7n2n7Ca9qgba6%2FGKulFco%2F9JJ6CllxMkbS5WrQnnqEljS2iNvPZgAU6irYa%2F9a8xoiew3wAreQtrlFI8xOlUnAgOCiOFuAyWu8gjEdrKQEXEoYXZ%2BuoMdRRKa1n0yN0GWDZzYtNtqUhXRo7dwQh290%2F7ufTHUPIdCg0s8A%2FShRrhZo5q704nT6y3WyX70Go6dj%2BPjO4WBjoPHO9LnVRM2o%2FCOWYaBJaABatCNd%2FQFLRVTjAVPGF%7Ctkp%3ABk9SR-6FoNCCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/XjMAAeSw6zxqPVE8/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787059396087,
-        "lastSeen": 1787094587473
+        "lastSeen": 1787213596114
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 1265477,
+          "saleDate": "2026-08-18",
+          "priceC": 30474,
+          "title": "Sceptile ex 93/95 Team Magma Vs Team Aqua Pokemon Card NM 93/95",
+          "url": "https://www.ebay.com/itm/178402968079?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 511421,
           "saleDate": "2026-08-17",
@@ -312,6 +298,19 @@
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 1265643,
+          "saleDate": "2026-07-23",
+          "priceC": 19900,
+          "title": "PSA 1 Sceptile ex 93/95 2004 Team Magma VS Team Aqua Ultra Rare Pokemon Card #93",
+          "url": "https://www.ebay.com/itm/227299517271?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 1,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1666,32 +1665,6 @@
           "gradingGrade": 7,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 511549,
-          "saleDate": "2025-02-03",
-          "priceC": 13995,
-          "title": "2004 POKEMON EX TEAM MAGMA VS TEAM AQUA 93/95 SCEPTILE EX-HOLO PSA 7 93/95",
-          "url": "https://www.ebay.com/itm/235846506454?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 511588,
-          "saleDate": "2025-01-30",
-          "priceC": 5999,
-          "title": "PSA 1 Sceptile Ex Holo Team Magma Vs Team Aqua 93/95 Pokemon Card 93/95",
-          "url": "https://www.ebay.com/itm/326421536847?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 1,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1736,9 +1709,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 169,
+      "englishSaleCount": 171,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787058512625
+      "lastCapturedAt": 1787213423639
     }
   }
 }

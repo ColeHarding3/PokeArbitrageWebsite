@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 3245,
@@ -18,9 +18,9 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/e71f370e10992b90ddd04145ad7846159c5d1ec41875f3bd55800934eb70cb78/1600.jpg",
       "popularityScore": 76,
       "market": {
-        "ungradedC": 1999,
-        "grade9C": 7459,
-        "grade95C": 8200,
+        "ungradedC": 1886,
+        "grade9C": 8080,
+        "grade95C": 8900,
         "cgc10C": 9500,
         "cgc10PristineC": 30000,
         "psa10C": 112500,
@@ -29,81 +29,41 @@
         "psa10Pop": 22,
         "cgc10Pop": 28,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787068840128
+        "fetchedAt": 1787213114481
       },
-      "bestCgc10": {
-        "itemId": "398221221206",
-        "title": "Pokemon 2003 TCG Shiftry Holo Rare Card 12/100 EX Sandstorm CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 22500,
-        "shippingC": 562,
-        "landedC": 23062,
-        "url": "https://www.ebay.com/itm/398221221206?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=10043375599&itmmeta=01M0ASRKHQG4XJ2AQQ7K3R21BM&hash=item5cb7d59d56:g:1pUAAeSw3CxqZ8hq&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAMAxnD4Ij8A4O110dRGlOvy8iGuVLAIcUbD3IAHnMGpExh%2Fudt06uNvu82RBWCUqVjKwi5MCGoNfc4%2F9L6J2pvPxGRrJsRAO468mLMz7miXo0HLKPBv%2BtwAC9wsBduEtIkud%2BKC6fcib1GeKJOEm8oGCBmZidAZMdRJc4h%2BLAAM89xx%2BrQu5y46T9sGoK7LdcItrlIIenzPKKKak3wBTGKDyTtOX8yL9SQarm7KHr6SUW7zTrwJbfAOL%2BxmxIDGWPmG44MN1JHmiUfsOYpfH7Kkq2pSDL%2FH4G5Hxc2samGb11Vlc%2FlSUw4ZUmh%2BzcVzy0%3D%7Ctkp%3ABk9SR5S54tmCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/1pUAAeSw3CxqZ8hq/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "gemMint10",
-        "freshness": "live",
-        "firstSeen": 1787057553322,
-        "lastSeen": 1787094585479
-      },
-      "bestPsa10": {
-        "itemId": "800187325940",
-        "title": "2006 Pokemon Shiftry EX Legend Maker Holo Rare #12 PSA 10 Gem MintOpens in a new window or tab",
-        "priceC": 124999,
-        "shippingC": 945,
-        "landedC": 125944,
-        "url": "https://www.ebay.com/itm/800187325940?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=17043372237&itmmeta=01M0ASRKHRAVCCDCC4YV5MD7M2&hash=itemba4ee19df4:g:UPMAAeSwfyhqMKz9&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAjqd4vr6WSoDabCA2gVVirzcGnYhHaY85D0aYQ7Skz%2FS1Os8GBGvB70XRa6QKbRESYpQhH45tSwmb6hnsIuTr1O8CAfPfNvgE552Yb9vCdRZ00h0M%2F7%2FtqUUi%2BtJe2j9WdVUDdD0eA1BXQLM45Mgx%2BcQGbbbGdSK6L0mJmOJNjvxOwT8peLjOJZLp6y60HQdLmHq1nwzorN1lD1b%2BmzrVofP%2F7KJk1dcdXABkQuc666F6TmI%2F8aRmntyEVMjfmfvsE1OqGy9viabxIgL6w3EU7rXeQLSfe20yodM1VOHEoB3qgOO0fZQgm8JZ9%2FQGveNc%3D%7Ctkp%3ABk9SR5S54tmCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/UPMAAeSwfyhqMKz9/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787057553322,
-        "lastSeen": 1787094585479
-      },
+      "bestCgc10": null,
+      "bestPsa10": null,
       "bestPsa9": {
-        "itemId": "286909684037",
-        "title": "Pokemon Shiftry EX Sandstorm Holo Rare #12 PSA 9 MintOpens in a new window or tab",
-        "priceC": 10500,
-        "shippingC": 599,
-        "landedC": 11099,
-        "url": "https://www.ebay.com/itm/286909684037?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=10043375599&itmmeta=01M0ASRKHQKV22NA3QX4KBKMP2&hash=item42cd265945:g:CuIAAeSwXKdpBRfq&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBa1TvMz9tMzO2GW9Pe--iJPjGSdOzHAv4Pd0ASphFp26TKY9qASxZBq7CHgs4XwTw3TJKQiUu4LY0T6l4skwC1AH9NBDmHMzZZD90q1jHQVLnhykvYfj1sYTpEFwHGX1UWdyH9YalaNA9Xz3w3erai5ryh7hamSpxh%2FSbVrpJr%2FW3Km%2FTu7L9BD1D%2FOtZ7GUxaF8M01vQMh%2BAg5Zmvb51Y6f2umcL2hOJEO9z332V%2Bkn%2FCL5ObtuHY5eUtiy%2B0fw9Y6bOhPptlx0vpbqYjAju0PxyaS0q8%2BLBxRn5qNIq7a8MjdFUatfeKcb5E47S%2BlsM%3D%7Ctkp%3ABk9SR5K54tmCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/CuIAAeSwXKdpBRfq/s-l500.webp",
+        "itemId": "406666104781",
+        "title": "PSA 9 Shiftry 12/100 EX Sandstorm Pokemon Card Holo MINTOpens in a new window or tab",
+        "priceC": 10477,
+        "shippingC": 2645,
+        "landedC": 13122,
+        "url": "https://www.ebay.com/itm/406666104781?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=21052760734&itmmeta=01M0F3AM7X8KJXCGGPR6TN83FH&hash=item5eaf304fcd:g:gLUAAeSwUBJpglWh&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDzvNq9QgaDF%2FBPc3LeiT5mMzjwc4ufalyrTRAm3rs%2FicfR8Eo1X5GHvdaV%2Fb4EUWEjdfWTvRLdfa0WA24YoDB%2Fqe5DJZBmmSGS5qSYhQb8zj4B6jaVvCnxM3T9pIYShQS%2FEN%2BbGIPhtceFRf5ZQ9nmnzgepg5M9blJYj0mQmyw2UMLKiDPeoCdNdHM%2BUBPA9ohZVq3l5aT1mJmCNY9HKCOjS%2BAneVQb9Ee0R1BXL1HB6O3m4jsjA1CPvoCEpxcGMllarT4rszkTMmTFOPO0xCD%7Ctkp%3ABk9SR6bEquODaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/gLUAAeSwUBJpglWh/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787057553322,
-        "lastSeen": 1787094585479
+        "lastSeen": 1787213250072
       },
       "counts": {
-        "cgc10Bin": 1,
+        "cgc10Bin": 0,
         "cgc10Auction": 1,
         "pristine10": 0,
-        "psa10Bin": 1,
+        "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 7
+        "psa9Bin": 2
       },
-      "ratio": {
-        "ok": true,
-        "tier": {
-          "id": "regular",
-          "label": "Regular",
-          "feeC": 7999,
-          "declaredValueCapC": 150000,
-          "turnaroundBizDays": 50
-        },
-        "cgc10CostC": 23062,
-        "submissionFeeC": 7999,
-        "totalCostC": 31061,
-        "psa10ValueC": 112500,
-        "ratio": 3.6219052831525063
-      },
-      "firstOpportunityAt": 1787057553322,
-      "updatedAt": 1787094585479
+      "ratio": null,
+      "firstOpportunityAt": null,
+      "updatedAt": 1787213250072
     },
     "prices": {
       "variantId": 3245,
-      "ungradedC": 1999,
-      "grade9C": 7459,
-      "grade95C": 8200,
+      "ungradedC": 1886,
+      "grade9C": 8080,
+      "grade95C": 8900,
       "cgc10C": 9500,
       "cgc10PristineC": 30000,
       "psa10C": 112500,
@@ -112,148 +72,50 @@
       "cgc10Pop": 28,
       "bgs10C": 146300,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787068840128
+      "fetchedAt": 1787213114481
     },
     "listings": [
       {
         "itemId": "137619604653",
         "title": "SHIFTRY POKEMON COMPANY/WIZ.OF THE COAST 12/100 2003 EX SANDSTORM HOLO EN CGC 10Opens in a new window or tab",
-        "priceC": 1795,
-        "shippingC": 4631,
-        "landedC": 6426,
-        "url": "https://www.ebay.com/itm/137619604653?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&itmmeta=01M0ASRKHR4Y47XSB8G3CV6QZ0&hash=item200ac484ad:g:-ooAAeSwk8ZqY0hl&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDyMC5BnFSXVcGujcbWDNRRxR9DRzsmMQHLRl%2BEOrZhOFCUiQ4K8Nz7%2BslKrVfpxq3iiePaGbnLMXeD%2BLfLjdO7EGJyv5mbxyzbEWw39xu2RMvxnUHnuyXqVey74VbUx0nq14yOBi0NC3abIDOf%2BgqOeNNJkr7zSwyoLt3xItLCvTM2Z9KGHE9h4xWg2FFmn%2B3gdqnhShlPnPuW6OuBsfwwFq5xh%2F%2B0cjY7y9dRJ6DN44u8WvjHOG4k9TxlzhtksgXLwpJIBf%2FYb%2FFMS987z0KsVhWhpSSiKjV%2F7SKKaWp3PIqY%2FleE19xcfqCUfFacNAc%3D%7Ctkp%3ABk9SR5S54tmCaA",
+        "priceC": 1810,
+        "shippingC": 4670,
+        "landedC": 6480,
+        "url": "https://www.ebay.com/itm/137619604653?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&itmmeta=01M0F3AM7XEYSX2WW040DW8BJH&hash=item200ac484ad:g:-ooAAeSwk8ZqY0hl&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCmtRorsezFX1UpWycs1PZR7FRm0lSA0r9L718H8yRvD%2B4rU80uj9wDqxEDt5epM2l448pLABCLc5zk2a6Jq%2BWkB9aGnLZ%2FnvvTpnE4ZyIWSWIiRP0FKHDOUVyebAfkQ%2BWGq47EIZgYTdCMePc%2FGcsi1psNT9XGEJ9WHS%2BLMnBeU6cHrKo69f5qyRcSJAfkozxf7YhH1Qqe817h%2B34va4C%2BDrBbCjFJua8Sku1T3YRzyEMIUJnedOyvG6%2BsWcyGlzMmy9K7zxutPsQh8g4LGjRx%7Ctkp%3ABk9SR6bEquODaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-ooAAeSwk8ZqY0hl/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787057553322,
-        "lastSeen": 1787094585479
-      },
-      {
-        "itemId": "286909684037",
-        "title": "Pokemon Shiftry EX Sandstorm Holo Rare #12 PSA 9 MintOpens in a new window or tab",
-        "priceC": 10500,
-        "shippingC": 599,
-        "landedC": 11099,
-        "url": "https://www.ebay.com/itm/286909684037?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=10043375599&itmmeta=01M0ASRKHQKV22NA3QX4KBKMP2&hash=item42cd265945:g:CuIAAeSwXKdpBRfq&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBa1TvMz9tMzO2GW9Pe--iJPjGSdOzHAv4Pd0ASphFp26TKY9qASxZBq7CHgs4XwTw3TJKQiUu4LY0T6l4skwC1AH9NBDmHMzZZD90q1jHQVLnhykvYfj1sYTpEFwHGX1UWdyH9YalaNA9Xz3w3erai5ryh7hamSpxh%2FSbVrpJr%2FW3Km%2FTu7L9BD1D%2FOtZ7GUxaF8M01vQMh%2BAg5Zmvb51Y6f2umcL2hOJEO9z332V%2Bkn%2FCL5ObtuHY5eUtiy%2B0fw9Y6bOhPptlx0vpbqYjAju0PxyaS0q8%2BLBxRn5qNIq7a8MjdFUatfeKcb5E47S%2BlsM%3D%7Ctkp%3ABk9SR5K54tmCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/CuIAAeSwXKdpBRfq/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787057553322,
-        "lastSeen": 1787094585479
+        "lastSeen": 1787213250072
       },
       {
         "itemId": "406666104781",
         "title": "PSA 9 Shiftry 12/100 EX Sandstorm Pokemon Card Holo MINTOpens in a new window or tab",
-        "priceC": 10429,
-        "shippingC": 2633,
-        "landedC": 13062,
-        "url": "https://www.ebay.com/itm/406666104781?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=21052760734&itmmeta=01M0ASRKHR81CSFFGGZJPVHPFM&hash=item5eaf304fcd:g:gLUAAeSwUBJpglWh&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDzvNq9QgaDF%2FBPc3LeiT5mMzjwc4ufalyrTRAm3rs%2FianCoUQntMHsxGiidQToyBTkB6XBIKZO26dO4O7a%2FrVBJuPJRk9CbNOF0KIbRIL1lDsc2%2BVYLAyNZ0jNFJW7H2MtB7Kdi2z9HUXPuWpsNX9IqOqX2Ytwi2uASzk%2BqFp%2BjCMUoitoCEyH3j5LeotutadQc3MGB121G8HEQ%2BtWzcJnRsDG2qBW0BVy0Gm2ujjs7G9eOApySMwG2QIZSB1zXSEjIBwlVHEySdfOKv2TQHFn%7Ctkp%3ABk9SR5a54tmCaA",
+        "priceC": 10477,
+        "shippingC": 2645,
+        "landedC": 13122,
+        "url": "https://www.ebay.com/itm/406666104781?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=21052760734&itmmeta=01M0F3AM7X8KJXCGGPR6TN83FH&hash=item5eaf304fcd:g:gLUAAeSwUBJpglWh&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDzvNq9QgaDF%2FBPc3LeiT5mMzjwc4ufalyrTRAm3rs%2FicfR8Eo1X5GHvdaV%2Fb4EUWEjdfWTvRLdfa0WA24YoDB%2Fqe5DJZBmmSGS5qSYhQb8zj4B6jaVvCnxM3T9pIYShQS%2FEN%2BbGIPhtceFRf5ZQ9nmnzgepg5M9blJYj0mQmyw2UMLKiDPeoCdNdHM%2BUBPA9ohZVq3l5aT1mJmCNY9HKCOjS%2BAneVQb9Ee0R1BXL1HB6O3m4jsjA1CPvoCEpxcGMllarT4rszkTMmTFOPO0xCD%7Ctkp%3ABk9SR6bEquODaA",
         "imageUrl": "https://i.ebayimg.com/images/g/gLUAAeSwUBJpglWh/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787057553322,
-        "lastSeen": 1787094585479
-      },
-      {
-        "itemId": "197204987098",
-        "title": "2006 Pokemon EX Legend Maker #12 Shiftry holo PSA 9 MintOpens in a new window or tab",
-        "priceC": 13999,
-        "shippingC": 599,
-        "landedC": 14598,
-        "url": "https://www.ebay.com/itm/197204987098?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=17043372237&itmmeta=01M0ASRKHQH5CSZDV1M22J64NM&hash=item2dea554cda:g:b4IAAeSwvl9qeYDL&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDaldctQ9cPyEqNm%2Bw%2BfKAIrR6rARwVhHzJQC%2BN7wJvIbZDRa6fZ%2B69MMtFgoC4oVhlLjxj6oiEZHZNyIrpgKPALq0LGQkArAo1vq3WEwfiBu7J%2FqMk1v20q3vxau%2Bvb5Dd2Mo7BvkZagKeAwUYN0ooNR6V%2B2lQ1w1Y%2BNh6EatDbe0b0p0SnNqBp61YkNlHbse%2BDgPlNtlJ5CrgRRRFaBmRprin2ECwnaqqFC8Rp5QTO%2BefTBlueW6W6TYwReJAAYZWRpS7zBSwZB83BoHp2zm8jmrOv5%2BMljbVcsFP83lcoaQ5SeSqdY8wy%2B5gyVvkuX0%3D%7Ctkp%3ABk9SR5S54tmCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/b4IAAeSwvl9qeYDL/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787057553322,
-        "lastSeen": 1787094585479
+        "lastSeen": 1787213250072
       },
       {
         "itemId": "157639318503",
         "title": "PSA 9 Shiftry 12/100 EX Sandstorm Pokemon Card Holo MINTOpens in a new window or tab",
-        "priceC": 13537,
-        "shippingC": 1789,
-        "landedC": 15326,
-        "url": "https://www.ebay.com/itm/157639318503?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=21052760734&itmmeta=01M0ASRKHR1V6V6C8V16HYHH3Y&hash=item24b4091be7:g:8~oAAeSwXUppd6as&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBFG3--G2j14wDLHQpL4I57YXioRboKcK5xnBePUbUe5hDQwo8vtSda04IyVaf%2FAQ49vb5DaqQfybujm6QXQshSm6ZDA2KkvT0RpNbFqVjj%2Fbs5eoUcFPjTAjKY8sst0djGRdFcOt6zj7vsPtp1P5f0y2uhaUe8JafvEcFz0u02Sw4eUlzJON1I8hxXy8%2FSzy3bD2aMZH7m8egRmxcS%2ByBmhKfJYACubq0J452LxMOa%2F5GSQanMsH0gSLfSNfLCzBQlEx6452zyguH0mOyZsx%2F7%7Ctkp%3ABk9SR5a54tmCaA",
+        "priceC": 13599,
+        "shippingC": 1797,
+        "landedC": 15396,
+        "url": "https://www.ebay.com/itm/157639318503?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=21052760734&itmmeta=01M0F3AM7XJ9S7QH991R6XJGVK&hash=item24b4091be7:g:8~oAAeSwXUppd6as&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAzGXiOcwfX0cIKL33K4D%2FJ3XpCOzl5XF19lSoh%2F5iUHWxnQ5Skf%2BSpMD5JYKC%2FFB6w49yAu8dtKBCxHB%2BlU%2FUs7N4xO2FcYum8xLIRCntr61rNilC%2B3qoaM7QJeMoN6XwjOmvKkG5h8xijGSFwIEqSv0tvudogbjNgwhgQfx%2BIANlEBbJ2aNbT5XQT8fAfSsdlgHz%2Fr68FBr9aMjfbUkTEXDTwj1pVSx3YqrBo4B%2Fn%2FTRVlLYuJAFRi5%2FiGqgeYR7IxCToa6Rm3puO89UZM1ciTBWQP2wcLtAkb9BnARksYw1cOXwAfHHTIL4rW%2BEUC58%3D%7Ctkp%3ABk9SR6bEquODaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8~oAAeSwXUppd6as/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787057553322,
-        "lastSeen": 1787094585479
-      },
-      {
-        "itemId": "366555993120",
-        "title": "Pokémon Shiftry #12 - Holo - Sandstorm - PSA 9 MINT *POP 107*Opens in a new window or tab",
-        "priceC": 17763,
-        "shippingC": 1347,
-        "landedC": 19110,
-        "url": "https://www.ebay.com/itm/366555993120?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&itmmeta=01M0ASRKHRP3M9RP179NGSA6SE&hash=item5558709420:g:Vl8AAeSwRT1qX0UB&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC%2B%2Bcwf7CUMkG3r6AZTBqZmAUvHu2q899QM4Mbt6w6sxfBCcMcG0FY5t%2BTr0WriXYgVYQ2ZF8D%2Bc2tEcaLnAZV8MdniacejJDvU0dG3qBP0SL8%2FMh81LDJY%2BBYNHK8jcYXfrwAleLH96wZGpH%2Bv5qs8BIEwybKem3FQKOJoOyAvLXQtCP3QyYjQ%2Fw%2F9zzyYL%2BqIjg28pbi1YIOpMr2d0hP3xT%2FVhI8SmmG5HNyhr4RHVR4gNlRadjA0g9O19%2Fxk2db4YnPWDYi5SQIavL%2FIgjZz%7Ctkp%3ABk9SR5a54tmCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/Vl8AAeSwRT1qX0UB/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787057553322,
-        "lastSeen": 1787094585479
-      },
-      {
-        "itemId": "197727185934",
-        "title": "2003 Pokemon EX Sandstorm #12 Shiftry Holo PSA 9 MintOpens in a new window or tab",
-        "priceC": 19999,
-        "shippingC": 599,
-        "landedC": 20598,
-        "url": "https://www.ebay.com/itm/197727185934?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=10043375599&itmmeta=01M0ASRKHQ2F4HGWCF16P8ZQMQ&hash=item2e09756c0e:g:tVcAAeSw~sRo1jr7&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDYa67wBibW%2Bk0pmRIKkp9LdIE6vnkQIHhHZqtL4a0YwUQX9M%2FBdkKQDTbGZ74mnSCz59wxgPD9CgyFuVapwA6sa6ooPBIdRqcO6kktqbyWHWk26bbdoBhVttCahAN%2B5K19noTU4z7UYhCDZobBZrVXCwjEY9DSQtimqqSfWfV1s%2BTtn5bA3F%2BX5%2BRxg5MARHnKhXCiPb9uupv4RGB%2BKtg4OfqTBeG5pVGzYBsX9WrAoWauQ5eZ3R%2BHMvCtsKb%2BU1uo8mrgYlhYlT1K%2Bv45fG40%7Ctkp%3ABk9SR5S54tmCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/tVcAAeSw~sRo1jr7/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787057553322,
-        "lastSeen": 1787094585479
-      },
-      {
-        "itemId": "398221221206",
-        "title": "Pokemon 2003 TCG Shiftry Holo Rare Card 12/100 EX Sandstorm CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 22500,
-        "shippingC": 562,
-        "landedC": 23062,
-        "url": "https://www.ebay.com/itm/398221221206?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=10043375599&itmmeta=01M0ASRKHQG4XJ2AQQ7K3R21BM&hash=item5cb7d59d56:g:1pUAAeSw3CxqZ8hq&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAMAxnD4Ij8A4O110dRGlOvy8iGuVLAIcUbD3IAHnMGpExh%2Fudt06uNvu82RBWCUqVjKwi5MCGoNfc4%2F9L6J2pvPxGRrJsRAO468mLMz7miXo0HLKPBv%2BtwAC9wsBduEtIkud%2BKC6fcib1GeKJOEm8oGCBmZidAZMdRJc4h%2BLAAM89xx%2BrQu5y46T9sGoK7LdcItrlIIenzPKKKak3wBTGKDyTtOX8yL9SQarm7KHr6SUW7zTrwJbfAOL%2BxmxIDGWPmG44MN1JHmiUfsOYpfH7Kkq2pSDL%2FH4G5Hxc2samGb11Vlc%2FlSUw4ZUmh%2BzcVzy0%3D%7Ctkp%3ABk9SR5S54tmCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/1pUAAeSw3CxqZ8hq/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "gemMint10",
-        "freshness": "live",
-        "firstSeen": 1787057553322,
-        "lastSeen": 1787094585479
-      },
-      {
-        "itemId": "134674471646",
-        "title": "2003 Pokemon EX Sandstorm - Shiftry Holo #12 PSA 9 MINTOpens in a new window or tab",
-        "priceC": 21315,
-        "shippingC": 3553,
-        "landedC": 24868,
-        "url": "https://www.ebay.com/itm/134674471646?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&itmmeta=01M0ASRKHRPYM96GYD1443C6FY&hash=item1f5b395ade:g:W5QAAOSwflhkyJ~w&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xClqQaJh2GufmYYW4Q4yuOXqKdhO8VD9Xruc4DOXOp2AjlaZVz8n7MJnvo3xWVnGvxYhuSya94f%2B7sPIdhbQ96r%2Fr5kvYXTlnikBXSejJ8kLql3in4%2Bn3tjtHNBvTZdPWOMlNi6pWHqquPgx%2Bd1%2BrNEEFy1VEkLifPcSJ9ok64Gy8E9O%2BtQiavSzvRL6vJ5iAjGqDakJsbfMTcJstAjHMrt6Yl2TXigZA%2B9yMMaPiSWVfRPaoc78%2FzttaznssEZyVVntBriepOwdMuTm7XqVuNS%7Ctkp%3ABk9SR5a54tmCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/W5QAAOSwflhkyJ~w/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787057553322,
-        "lastSeen": 1787094585479
-      },
-      {
-        "itemId": "800187325940",
-        "title": "2006 Pokemon Shiftry EX Legend Maker Holo Rare #12 PSA 10 Gem MintOpens in a new window or tab",
-        "priceC": 124999,
-        "shippingC": 945,
-        "landedC": 125944,
-        "url": "https://www.ebay.com/itm/800187325940?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=17043372237&itmmeta=01M0ASRKHRAVCCDCC4YV5MD7M2&hash=itemba4ee19df4:g:UPMAAeSwfyhqMKz9&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAjqd4vr6WSoDabCA2gVVirzcGnYhHaY85D0aYQ7Skz%2FS1Os8GBGvB70XRa6QKbRESYpQhH45tSwmb6hnsIuTr1O8CAfPfNvgE552Yb9vCdRZ00h0M%2F7%2FtqUUi%2BtJe2j9WdVUDdD0eA1BXQLM45Mgx%2BcQGbbbGdSK6L0mJmOJNjvxOwT8peLjOJZLp6y60HQdLmHq1nwzorN1lD1b%2BmzrVofP%2F7KJk1dcdXABkQuc666F6TmI%2F8aRmntyEVMjfmfvsE1OqGy9viabxIgL6w3EU7rXeQLSfe20yodM1VOHEoB3qgOO0fZQgm8JZ9%2FQGveNc%3D%7Ctkp%3ABk9SR5S54tmCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/UPMAAeSwfyhqMKz9/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787057553322,
-        "lastSeen": 1787094585479
+        "lastSeen": 1787213250072
       }
     ],
     "marketHistory": {
@@ -1858,7 +1720,7 @@
       ],
       "englishSaleCount": 123,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787068838425
+      "lastCapturedAt": 1787213112168
     }
   }
 }

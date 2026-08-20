@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 1981,
@@ -29,14 +29,14 @@
         "psa10Pop": 47,
         "cgc10Pop": 23,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787049778711
+        "fetchedAt": 1787211951371
       },
       "bestCgc10": null,
       "bestPsa10": null,
       "bestPsa9": null,
       "counts": {
         "cgc10Bin": 0,
-        "cgc10Auction": 1,
+        "cgc10Auction": 2,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
@@ -44,7 +44,7 @@
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787049778711
+      "updatedAt": 1787211951371
     },
     "prices": {
       "variantId": 1981,
@@ -59,22 +59,36 @@
       "cgc10Pop": 23,
       "bgs10C": 1566500,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787049778711
+      "fetchedAt": 1787211951371
     },
     "listings": [
       {
+        "itemId": "298598499566",
+        "title": "2002 POKEMON LEGENDARY COLLECTION-REVERSE HOLO #38 DARK DRAGONAIR CGC 9.5Opens in a new window or tab",
+        "priceC": 225,
+        "shippingC": 599,
+        "landedC": 824,
+        "url": "https://www.ebay.com/itm/298598499566?_skw=%28dark%2Cdragonair%29+%2838%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369496&itmmeta=01M0F27C23Q2TGFP8F8BAN9ZKZ&hash=item4585db84ee:g:hCUAAeSw2rZqhGqO&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDbsPBVWmvj3JhY6k8UTaUuuyET%2Fe5p%2BXDPXyKMHQq3n7YeGLp4i0%2B7LMx7K0PDYYF4crVDo%2FDOniLKVTma%2Bf56bLVmDqZkEnfSb7HuclfymvZKSPdfDZfayOodhHMSEGTKo32UC8DjU92yLoNhfwA6uN1SXPDk4lfn81vQQZ7LXXthhY7RzTOwqUkkxf9qUUO5yAO64vLWa2l7o%2F27ZKdjAhytWhAufvn9C5udKVrnb0JE2FI9CYLfkCI9U8PKXnurKRO0obd2XOJ7fW3cx%2Fd5yHazHEgWOynKdSWC9CRkZvvGIBGd1HQTJB77NsGuX0LGK7OXCM2eBJLABZIJTg5k%7Ctkp%3ABk9SR6rBneKDaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/hCUAAeSw2rZqhGqO/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787212132335,
+        "lastSeen": 1787212132335
+      },
+      {
         "itemId": "287524901684",
         "title": "Pokemon Dark Dragonair Legendary Coll. 38/110 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 10000,
+        "priceC": 10550,
         "shippingC": 999,
-        "landedC": 10999,
-        "url": "https://www.ebay.com/itm/287524901684?_skw=%28dark%2Cdragonair%29+%2838%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369496&itmmeta=01M0A864X47ZYB8VR12FJ4STN4&hash=item42f1d1d334:g:wREAAeSwTHhqfyoD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDAVBtPbJh0K1eLWQqxzvVHd9wEJaXokubeZWfMWogiC2tLLJ7%2Fxmel4QcXqXb4rUCoIPXo8xKcKkNCgSCd8mMnacIXI%2BtSQXBtWOc5NKwdCreyREZOvYdeMrVPWTVxCZEbeOqdmnT8F6vKt2FXw%2BybfZxV4qwpDi5tSh%2FYiLZ6yZsoQH%2FrKYsfgQ3w3uyRZNDAsxGAEB2BjAdj1YWt4%2BU%2FoctRmUCdLSyNHfgMSTEIDBkNWeITbSZuMHhf2fP7vMw5zqeUQTDDCbybE5MV0iK%2FJ1Uubis647uSFhwd%2BJAZqf8tefdIfaTka7NZtcL%2BoeROa500nZjnhC84TaMeaghw%7Ctkp%3ABk9SR_DOmMiCaA",
+        "landedC": 11549,
+        "url": "https://www.ebay.com/itm/287524901684?_skw=%28dark%2Cdragonair%29+%2838%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369496&itmmeta=01M0F27P8C838KY44EJM113PM6&hash=item42f1d1d334:g:wREAAeSwTHhqfyoD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDAVBtPbJh0K1eLWQqxzvVHd9wEJaXokubeZWfMWogiC2tLLJ7%2Fxmel4QcXqXb4rUCoIPXo8xKcKkNCgSCd8mMnacIXI%2BtSQXBtWOc5NKwdCreyREZOvYdeMrVPWTVxCZGNnukU2tl7Ep2G8P8UYK3o1Udic%2Bkb7laS4qoxic7S6H%2F6gYiBR2AccBiEo%2FSnq%2BKJSU4CmW1lcn2r%2FCTS6Yt4HQbvKzyRWhMU32zwcP%2FBvEmjJvd%2BK3TSjqKiLIuNPrdfAnD9cAGyaykeFnWI7DRM2xmptVIykT7wd4hCx0UB2njqf7HRB4%2BUvTn4jUs%2B59rSxEoNShrdJVKkpiS2%2FeSo%7Ctkp%3ABk9SR77knuKDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/wREAAeSwTHhqfyoD/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787094567887
+        "lastSeen": 1787212132335
       }
     ],
     "marketHistory": {
@@ -1694,7 +1708,7 @@
       ],
       "englishSaleCount": 217,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787049776789
+      "lastCapturedAt": 1787211949154
     }
   }
 }

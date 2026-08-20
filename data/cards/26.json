@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 26,
@@ -29,7 +29,7 @@
         "psa10Pop": 4,
         "cgc10Pop": 2,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    3 sales per week\",\"volume: 3 sales per week\":\"volume: \\n    1 sale per month\"}",
-        "fetchedAt": 1787162280560
+        "fetchedAt": 1787209268984
       },
       "bestCgc10": {
         "itemId": "236374614756",
@@ -37,36 +37,49 @@
         "priceC": 950000,
         "shippingC": 2605,
         "landedC": 952605,
-        "url": "https://www.ebay.com/itm/236374614756?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M09W7QZ6KWNSMKEDA5QJ29PE&hash=item37090662e4:g:3VQAAeSwz51o5V3-&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAXlKCDQXwi2FVlguPW%2B9yPufrFSfVAH88mOIDGsK2Bpoq8NM8jDl%2BiA8AOI7Qa1DXEGgw7ZweC3TsG1L%2FkuRhK9Y7t46Wgy%2FZbsQ7oVIwkWOBo1TR5tBeObUehz4qgDlwQl4fCsCHkY54wbq9%2BWPaD%2Fa9aQHuf3bdLJPTw2CMzT5D8SfANCElLXFuGCT6qRCE%2BOtuOBLgTNmr3dvztG4jpLNYww9PkGYWi0GBVheKkE6jMSBwf2aULCp2C7Y2ogzPWQCIU0v%2F5dtNIdAvez3TSzgJgILAb4kqGPNKatoUFHBCVi0repITUW3H9wWJNWmM%3D%7Ctkp%3ABk9SR5aAn7yCaA",
+        "url": "https://www.ebay.com/itm/236374614756?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFK32CMR1GJPEWKR429B5T&hash=item37090662e4:g:3VQAAeSwz51o5V3-&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBN1dVFvaoMmtVwnmA%2Fd4DCetzpodN70G6yMPNEmJa4ZoBNP9HhDYH%2FgLxvS7oklCzeyBFB8%2BOI3wG3XYcYt38fiTGK02FNzS6x7x6RRMaMSoAXK4KReU1U3OsFwaKg2vcDyLE%2FeNWsLlnW9vX9%2FAu%2B5BiDNbDFlwi41JtfH7qP54yLPtBTSo70TAkg3Wk190u2N%2FL7f9K0jXeYYhj2qnqIrYHhbD90IpC2AMDUzD4zHvCObJ%2B4asFAmd5elubBTUHRwFENG84IvgwEuSgekbbM%7Ctkp%3ABk9SR8KxzO-DaA",
         "imageUrl": "https://i.ebayimg.com/images/g/3VQAAeSwz51o5V3-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787227384326
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "398201347829",
+        "title": "Pokemon Nidoking Base Set Unlimited Holo Rare #11 PSA 10 Gem MintOpens in a new window or tab",
+        "priceC": 199800,
+        "shippingC": 589,
+        "landedC": 200389,
+        "url": "https://www.ebay.com/itm/398201347829?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFK32BF8CJD4BZ9R70Y7XE&hash=item5cb6a65ef5:g:HrgAAeSwqLFpwdl~&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC9atLFDFPX3RFUgJm5gTG3b4o%2Fc0SOU%2BXL8tP9AWoFH5PK23y4xXt%2FFNZxWrDILjI3GvsEkY%2FNjPf9bJqdWqMFNT6KQWahlKBQDwL%2BjQdBl9D4tQAt8GEuMqS3jxCMuKO1gmV8aaeq9pmpjecveaD963V8Qf8%2Brx0n7lvXBJeOL7VTY0YYnSZE0SMQjfxnOtPhum%2B3NuRb3E7DL10IULd8jek6i%2BhNbLD5XoPZ%2B6%2F0sXqeQcn03DP5s9HxaZohNUxr4MRj4lfMI3gqheblSMbM%7Ctkp%3ABk9SR8CxzO-DaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/HrgAAeSwqLFpwdl~/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787038168986,
+        "lastSeen": 1787227384326
+      },
       "bestPsa9": {
-        "itemId": "147511739474",
-        "title": "Pokemon Base Set Nidoking PSA 9Opens in a new window or tab",
-        "priceC": 20000,
+        "itemId": "325988133457",
+        "title": "Pokemon Card Poison Type Nidoking Golbat #11 Sealdass Series 2 PSA 9 MINTOpens in a new window or tab",
+        "priceC": 9995,
         "shippingC": 0,
-        "landedC": 20000,
-        "url": "https://www.ebay.com/itm/147511739474?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M09W7MDTDFEKH4ZQ8ZP0QQBM&hash=item2258628452:g:w6UAAeSwiCJqg6Dz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC%2FfzoPiYAEMHV5%2B6OzdmdTCoBOLF%2F%2BNdW9f9bmR3R8328g4LFxtCOl1nHAGo87j4OD3wJWjD4TEAV2Nqjy%2BxiPbREC3%2Fin%2BL8u0ZiKBjqigK7V5QiWl2HUrr%2FqtUGG%2BIrapDDwADYJ3dN9h1bKjDmuEL%2BCnu%2BDMaUVlI3EHwHKWA78JzwQgqCaDpaG3fQWACablYr46WiaKno6QmVLqQyEW3LNBBqq2IgNL7nbY%2FOgPM3PJH%2BVCy%2FDP0VtvdQysZWmMzxBHHdyoMkDd92wvhOYz%2BWCP3jV0WLsrUo8N7WJ0s%2FKRADT4JaTIpoy19mbrmQ%3D%7Ctkp%3ABk9SR6DHnryCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/w6UAAeSwiCJqg6Dz/s-l500.webp",
+        "landedC": 9995,
+        "url": "https://www.ebay.com/itm/325988133457?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M0FFJS313WC3Q5SEVE2GZ29V&hash=item4be6682a51:g:b2UAAOSwN5JlubZi&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAx36e6Av9r5KOew9AvI0C18IadKhD6jZfUUxGpWKBNXTvQUF1R3WMv6IFPQIoBtAQeY1wCq%2BwkCGIw7Nl%2FDuiuE%2FY9yMDsXJ%2BC6jUbJcZ95IeRaevtvlhC2tPEP6JZop7JItZBkiKoaSuOfWPrysEToAHWzAtcuhpcgKZcfJ1dq0PhY9BFFll3qK%2BeoHoXHudL0SxuHVjdzSbQCftmcv3TmvtmnroCsiHUhIELn9pPRvL0vfto1nT4jVMFUyEI7bcMvxVGJ8dF9lTV8hC3V%2BH6%7Ctkp%3ABk9SR4KSy--DaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/b2UAAOSwN5JlubZi/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787227384326
       },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
-        "pristine10": 0,
-        "psa10Bin": 0,
+        "pristine10": 1,
+        "psa10Bin": 1,
         "psa10Auction": 0,
-        "psa9Bin": 4
+        "psa9Bin": 9
       },
       "ratio": {
         "ok": true,
@@ -84,7 +97,7 @@
         "ratio": 0.11742299636478716
       },
       "firstOpportunityAt": 1787038168986,
-      "updatedAt": 1787162280560
+      "updatedAt": 1787227384326
     },
     "prices": {
       "variantId": 26,
@@ -99,22 +112,50 @@
       "cgc10Pop": 2,
       "bgs10C": 146600,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    3 sales per week\",\"volume: 3 sales per week\":\"volume: \\n    1 sale per month\"}",
-      "fetchedAt": 1787162280560
+      "fetchedAt": 1787209268984
     },
     "listings": [
+      {
+        "itemId": "800536042383",
+        "title": "1999 POKEMON NIDOKING-HOLO GAME #11 PSA 9Opens in a new window or tab",
+        "priceC": 125,
+        "shippingC": 795,
+        "landedC": 920,
+        "url": "https://www.ebay.com/itm/800536042383?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFJENZAAQ9VXDJ4VP15N5E&hash=itemba63aa9b8f:g:2EMAAeSwx7pqZY93&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCW%2BUD%2Fhv5yp6BQC6r4%2FVfUtJYbTfwvtPWbvKm6JQIQED07lmJilvIDdJYSeGhoMmqk1%2B3flzwQVE2t7xpaQMFrBj2Ddqg11lNUuh5qZExgwE%2Fia5y3KgXNriKdP0fsiJmlHElTdRbPJImRPzCcwImB9CDvx%2FNTxDoXNVbaoj5aLviTaTjpv0QM%2Bsij0FsarToMcwYECcqsliHYJdBmLvjjhEQ7%2Bnh0tnAsjn8VdwyCMHtwHSGdBY6WdpYiT3vUXui3KJDqlijCHQm%2B%2FTW1fqomBCIVXT3SbwceNsPoYOXdK%2BfS6KEDvwisAtiBW0dNpSY%3D%7Ctkp%3ABk9SR6brye-DaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/2EMAAeSwx7pqZY93/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787209549665,
+        "lastSeen": 1787227384326
+      },
       {
         "itemId": "178414396538",
         "title": "NIDOKING - 11/102 - BASE - Pokemon Card - PSA 9 ID:51269877Opens in a new window or tab",
         "priceC": 225,
         "shippingC": 1000,
         "landedC": 1225,
-        "url": "https://www.ebay.com/itm/178414396538?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=3043380423&itmmeta=01M09W7HEGAWPHDYJ71GGEY8ZJ&hash=item298a53a47a:g:nLEAAeSwVDJqaGU5&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBLQrLL7ALxqb1FQXgmm0Roy54jIEu2rKNZ6LFfdRcXdKuKWQf5HO%2BxHZVqz1Su1eAR9IyEJkayPDDraTCrv%2FWpqo52rmpB0LK9ksZXLlj1oDDP9aQ%2FhpA9iUyVI%2FyDAlpFDhiSFsy9pf8MiXA%2BUhdQjSc3A37u5FBVfKEZsSMk4xHapoU7OiV54yTY7WA6A%2FZx1BtoH8bwEuim3xzrR2%2BQjTg0oGMj4%2FBVFhu2wnknki7IIoDFsCKimg3ay67bZvFal%2B6H6iiXDBK2fgw%2BQhuD%7Ctkp%3ABk9SR8yXnryCaA",
+        "url": "https://www.ebay.com/itm/178414396538?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=3043380423&itmmeta=01M0FFJENZPDKQZX2SSGERQWEP&hash=item298a53a47a:g:nLEAAeSwVDJqaGU5&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBLQrLL7ALxqb1FQXgmm0Roy54jIEu2rKNZ6LFfdRcXdOmdzguZhk2fChYg%2FO8MaFu3FZIeg86J2zd9Ipbl2lpmMkTV2FERSNSoUEhkoF%2Fr6Tu9Wg4YzTi87tXRege0X%2Bpl4KETZeWSUn8MHHU45Ztn4leOIGNlbws7am%2FwUeB8zdD3vtkulydIJ9eKZG1GwfUHw0VSodatphhH8ZJBadB4rpdZ12iFRY6fqfAobvigrn%2FLRs3MEcSqmTeDj2eNiDs%2BegrQ59Sn%2FB%2BM%2BfG8rpJw%7Ctkp%3ABk9SR6brye-DaA",
         "imageUrl": "https://i.ebayimg.com/images/g/nLEAAeSwVDJqaGU5/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787227384326
+      },
+      {
+        "itemId": "325988133457",
+        "title": "Pokemon Card Poison Type Nidoking Golbat #11 Sealdass Series 2 PSA 9 MINTOpens in a new window or tab",
+        "priceC": 9995,
+        "shippingC": 0,
+        "landedC": 9995,
+        "url": "https://www.ebay.com/itm/325988133457?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M0FFJS313WC3Q5SEVE2GZ29V&hash=item4be6682a51:g:b2UAAOSwN5JlubZi&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAx36e6Av9r5KOew9AvI0C18IadKhD6jZfUUxGpWKBNXTvQUF1R3WMv6IFPQIoBtAQeY1wCq%2BwkCGIw7Nl%2FDuiuE%2FY9yMDsXJ%2BC6jUbJcZ95IeRaevtvlhC2tPEP6JZop7JItZBkiKoaSuOfWPrysEToAHWzAtcuhpcgKZcfJ1dq0PhY9BFFll3qK%2BeoHoXHudL0SxuHVjdzSbQCftmcv3TmvtmnroCsiHUhIELn9pPRvL0vfto1nT4jVMFUyEI7bcMvxVGJ8dF9lTV8hC3V%2BH6%7Ctkp%3ABk9SR4KSy--DaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/b2UAAOSwN5JlubZi/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787038168986,
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "147511739474",
@@ -122,13 +163,41 @@
         "priceC": 20000,
         "shippingC": 0,
         "landedC": 20000,
-        "url": "https://www.ebay.com/itm/147511739474?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M09W7MDTDFEKH4ZQ8ZP0QQBM&hash=item2258628452:g:w6UAAeSwiCJqg6Dz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC%2FfzoPiYAEMHV5%2B6OzdmdTCoBOLF%2F%2BNdW9f9bmR3R8328g4LFxtCOl1nHAGo87j4OD3wJWjD4TEAV2Nqjy%2BxiPbREC3%2Fin%2BL8u0ZiKBjqigK7V5QiWl2HUrr%2FqtUGG%2BIrapDDwADYJ3dN9h1bKjDmuEL%2BCnu%2BDMaUVlI3EHwHKWA78JzwQgqCaDpaG3fQWACablYr46WiaKno6QmVLqQyEW3LNBBqq2IgNL7nbY%2FOgPM3PJH%2BVCy%2FDP0VtvdQysZWmMzxBHHdyoMkDd92wvhOYz%2BWCP3jV0WLsrUo8N7WJ0s%2FKRADT4JaTIpoy19mbrmQ%3D%7Ctkp%3ABk9SR6DHnryCaA",
+        "url": "https://www.ebay.com/itm/147511739474?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFJS3448JJQ2B9FHFSZEXN&hash=item2258628452:g:w6UAAeSwiCJqg6Dz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC%2FfzoPiYAEMHV5%2B6OzdmdTCoBOLF%2F%2BNdW9f9bmR3R8328g4LFxtCOl1nHAGo87j4OD3wJWjD4TEAV2Nqjy%2BxiPbREC3%2Fin%2BL8u0ZiKBjqigK7V5QiWl2HUrr%2FqtUGG%2BIrxORR4ZcxvPYZ8xh1sSlzgnnG5poXPqqKrLDo21reBE5vT%2BnRi0qOz1ql8bdyvmPETdsN4nfLoi1fDJweX%2B9O1pBBv4RPSiyndXvUM5xJOja30VSUgnkLDuhHIuK4%2B2wCfTwrAlQ852FCXmSojTUKTknbkCikYdCHHG1kPtVenmAymTOXM7jEGm0zMO4Qrksg%3D%7Ctkp%3ABk9SR4ySy--DaA",
         "imageUrl": "https://i.ebayimg.com/images/g/w6UAAeSwiCJqg6Dz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787227384326
+      },
+      {
+        "itemId": "396909980555",
+        "title": "1999 POKEMON BASE SET UNLIMITED #11 NIDOKING-HOLO PSA 9Opens in a new window or tab",
+        "priceC": 20000,
+        "shippingC": 572,
+        "landedC": 20572,
+        "url": "https://www.ebay.com/itm/396909980555?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFJS34YJPB55M6AZYQ5RCJ&hash=item5c69adab8b:g:xvcAAeSwDGZoiF0a&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xB%2Bu5gJuC%2FhEksn6PENMGdL%2Ft4wrMJRgLbOOGfMBNYYX%2FSv1w1rek4bSyMK08On%2B4m1ATUGr0ZAhFZGfIz8EA2WSIJIQ89oZ5P3mAHugdSj8RyGJfj41MBBs7UpkWg1Y03zx55LmvfLaP%2FEGpUkz8V3Cm5kqViMrbjtV3ET6VTun034CSZ8MKnc%2BfbKWRC1vvYdB%2FTgSg1fvIiDtRGKBwnTSZBQGayD2OD2ExA1yuf8OCkktVAgQkACn%2F4qxTfWVw%2FVksFT1HcFNeblvNYfZM3c%7Ctkp%3ABk9SR4ySy--DaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/xvcAAeSwDGZoiF0a/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787038168986,
+        "lastSeen": 1787227384326
+      },
+      {
+        "itemId": "168619077988",
+        "title": "PSA 9 Pokemon 1999 Base Set Unlimited Nidoking Holo Holographic #11 MINT 🍃Opens in a new window or tab",
+        "priceC": 27500,
+        "shippingC": 607,
+        "landedC": 28107,
+        "url": "https://www.ebay.com/itm/168619077988?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFK328EW6XVM315XBGMFXW&hash=item27427af164:g:THYAAeSwCDFpiVVd&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCF75Pr%2F0iP8OazRs9CwD2Z1FmfooiAnExJarAbI%2Bb63ERl%2BKj7%2FKbUxhAA15TLa%2FMXAHOv9n0Vg0SbPFvUxXTYCjJHswxspi3AWiRQaunZ9HvxgEZztgnrH7uscJagvnFdwsb3JP14g3yfI4yWBEZYL%2FgOYHHFxYwslaoygbRNnRbktDUug4zQknk2anJU0Sne6rcOy8a35EBiL7sXNFwfGtEj8tEQUMXpXWw7g7OQ5P3DEp7V%2F3KGD6IOhw8Xrgr%2BXOjnj99CQTCnfEuyWdPI%7Ctkp%3ABk9SR7ixzO-DaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/THYAAeSwCDFpiVVd/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787038168986,
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "298582727952",
@@ -136,13 +205,41 @@
         "priceC": 29000,
         "shippingC": 517,
         "landedC": 29517,
-        "url": "https://www.ebay.com/itm/298582727952?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M09W7QZ2EMF9NBNTHRVD5C88&hash=item4584eadd10:g:7oEAAeSwSJFqfNCl&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAN84zzALy1NnI5QJ7bI3A%2BgVCXi3IE3h4UCctrhsitceoYB11bvrMxFzziqjfqcWZdTJbcLuFYY9sxRid7HHxfseMMJZ3q57kTkBcBpe6R6xkxcNesVVviqr9SrtEsAkZkeQZECN7DrlbR%2FCocT90Vb2mBf09PXJP5M4UIg39QDsUr9g8kjWfBcR3VGjq63Eb8aOa8PA%2B4u%2BW2GYbSN1%2FoNcpc4Qxp9qRzC1pp%2BnE2DB0XvuwtwNYFzrtWxfIGtPdhv229SpTIkKy04%2Fyu5mlL%7Ctkp%3ABk9SR4yAn7yCaA",
+        "url": "https://www.ebay.com/itm/298582727952?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFK3280RGDP00YA6WWSBB6&hash=item4584eadd10:g:7oEAAeSwSJFqfNCl&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAN84zzALy1NnI5QJ7bI3A%2BgVCXi3IE3h4UCctrhsitcTVWdJhxa282I7CF%2FhL5rnXLbfqK5YJ83x%2FKTa4ib2QpeywmCTI54AwUEDv2QGHMYucAReT1ayRxDKoqgvc1joWswQgdEHvDkx3wLcSr64A%2B9nM6pHK6ze9fr7b40CsKAEqeGCdkyXd4ug84JrqtmH2mzO8knXVRmlVUDcljbQO4w%2BWQ6Uh8yg4hxt9izUWDABwYO6E7SqjoRuJtM8RDBR4rUDoE0qgEuDr3PM52pd5Y%7Ctkp%3ABk9SR7ixzO-DaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7oEAAeSwSJFqfNCl/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787227384326
+      },
+      {
+        "itemId": "398282745408",
+        "title": "PSA 9 MINT Nidoking #11 Holo 1999 Base Set Unlimited Pokemon TCGOpens in a new window or tab",
+        "priceC": 29999,
+        "shippingC": 0,
+        "landedC": 29999,
+        "url": "https://www.ebay.com/itm/398282745408?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFK3283M31F8105JS7ZGXW&hash=item5cbb806640:g:jc4AAeSwxbxpzev9&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAJDP6%2BR4yzGBrsKsqXfuZqYwo1ItQ12%2Fsse8PD6rbvoqWZrbgcT6ecWBoosq5Eh7eFp%2Fxuf4Mov3pFGCktB5gthg3b84uIQF7bEPYeqzspBIKZyJnBnxmDGV1UbhyY37rq6xmeSFlXsK2DAYl5mwAq4s7UWv%2B%2BuxA--8FoIlEknB2uytsWUJeHOY19EQYW4fNrP7%2Bd8WZdHiOfPQL92nmV11i3KhZVksGIEXgHhioFtRBdLbMjaDS59J3UqTsPk14s8%2F6hCBuXLPaM6rwuBiS%2F%7Ctkp%3ABk9SR7ixzO-DaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/jc4AAeSwxbxpzev9/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787038168986,
+        "lastSeen": 1787227384326
+      },
+      {
+        "itemId": "336543735792",
+        "title": "1999 Pokemon Game Nidoking PSA 9 Mint Holo #11Opens in a new window or tab",
+        "priceC": 33888,
+        "shippingC": 562,
+        "landedC": 34450,
+        "url": "https://www.ebay.com/itm/336543735792?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFK328XM817WDV9X6JXMQW&hash=item4e5b91dff0:g:mJUAAeSw7LFp3BQU&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBuYYHtLSi30vOhrhDa%2BD39u2wqgcM9UhpyBPWd1JlgJ3rWtBVgBLuETEYI2enRgCpiOfwaVnfnnFwKPCav0gklueNCF%2B4WJK%2Fmei0xNbqusW4VZ447f9zBToSfNVs9zHZ64PpcxPDkGHu5ybngJ%2Fydwsbtm7QBowLZLP07cdxXfN1YECjURb7Y35go8hK4%2FQX5ahc7SnRdRmz1gkjMNem41WUdo60pUB7jMJkhyRIcBavdu2we4pgZPXcsx50q1Nsv1fzkHDAmvEoS5Ncmz2Mx%7Ctkp%3ABk9SR7qxzO-DaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/mJUAAeSw7LFp3BQU/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787038168986,
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "373139747062",
@@ -150,13 +247,27 @@
         "priceC": 70000,
         "shippingC": 540,
         "landedC": 70540,
-        "url": "https://www.ebay.com/itm/373139747062?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M09W7QZ4BSCJ67YFQX4F4WGD&hash=item56e0dcb0f6:g:pmwAAOSw3Zxg5qZd&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDQIvuuGdWjIawIQEoTCvqxmJLlTT7jjAxA8wtq4kSh993k2%2BX05SiHgquXy7GuWdJHyk%2B4jDuAVXXMttvrw0YgXFVc410oU4VKnSUUarUAfkx%2Fxkg02aM%2BwwWIL%2FmHniRx5PS9t5s%2FSH1ho51r8Rk71cbl1KgNNtIbvKChMZK%2FsBQRIRhX71Y0dpNdf6UFVB%2FCigaq0GbaWrxNDx6exbCHfd4DJvSjogeEZUz861g0bTZ8h5tUaFW4oU5Tdpo%2BUleRs9w0teR2CoFbdRC0%2BW%2BAXFjsyGeR4FaXlR0IpT0bjV9h0cq%2Fhlx8HfOxWl9jspI%3D%7Ctkp%3ABk9SR5KAn7yCaA",
+        "url": "https://www.ebay.com/itm/373139747062?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFK32A6K7WMMQP2H0C0KN7&hash=item56e0dcb0f6:g:pmwAAOSw3Zxg5qZd&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDQIvuuGdWjIawIQEoTCvqxmJLlTT7jjAxA8wtq4kSh993k2%2BX05SiHgquXy7GuWdJHyk%2B4jDuAVXXMttvrw0YgXFVc410oU4VKnSUUarUAfkx%2Fxkg02aM%2BwwWIL%2FmHniRLAdSH%2FMh5s5EUpJ3WTMuQWw3UjZ%2FApp5k3EQKQNLigSj6PU4VoPA%2BlcbiRXD4Jdh%2BbVqDWQnuQavM3xGsWvyE8auNUQ%2F76qQAr9fOyEiQD0RkJ%2BdBFkDKzh1saMIRKxpnYAcaa%2BcOvETiHw%2BP3Aam%2FBSJThvS5lc%2BkI%2FMbzztM70hORVfcrpqjFQybtgh9pY%3D%7Ctkp%3ABk9SR7yxzO-DaA",
         "imageUrl": "https://i.ebayimg.com/images/g/pmwAAOSw3Zxg5qZd/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787227384326
+      },
+      {
+        "itemId": "278293398620",
+        "title": "1999 POKEMON BASE SET NIDOKING #11 HOLO PSA-9 MINTOpens in a new window or tab",
+        "priceC": 65000,
+        "shippingC": 6500,
+        "landedC": 71500,
+        "url": "https://www.ebay.com/itm/278293398620?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFK32ARYAGQXR9JKBRDHP9&hash=item40cb94445c:g:WsYAAeSw0BpqhLPo&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC6LmJiJxIYgQoqT3RH4kyX1RpqXi4T4IA3RjVZYDxHaHJhvNQHuI%2FKvsCOSSDSxffMdvl2stPPDt0k6Up2hOycn0SougxYI%2Brqvl%2Fan7a9ycfxHnFlAyZAxCGxM%2FH6am3%2Fqqmbdx9p0BbJyp9xbIxxdVNpTFtTog%2FMp0kOfCe9rCEYHk9vGugoA9oeUGEtNLG9bkH%2FAV2vhCZTWwolow4BmEHQimFlD50uGh9JnpFreJTBo0s8OglgF9dO7IUKHRgU9d%2FddR5yqeVtXPcQ01Fc%7Ctkp%3ABk9SR76xzO-DaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/WsYAAeSw0BpqhLPo/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787209549665,
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "127910990217",
@@ -164,13 +275,41 @@
         "priceC": 91816,
         "shippingC": 800,
         "landedC": 92616,
-        "url": "https://www.ebay.com/itm/127910990217?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M09W7QZ5PJMJFJRXF3F6TYN7&hash=item1dc816d189:g:puAAAeSwM8pqKyuc&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBllsLE598krH%2FMDOaHibQUFb9yN8QGLhS8QTK2Dib6OOIlO%2Fpks0bqz1Q59wJYwuMzuw%2FFWz4wYEvdztByDHV4OVbaik%2BuUbIeiCO03jhc8DjHdLZBXDHmF%2BneIu4OvMZN3EJSWzsNVxnlKcSegZMR3o7EB97i3r9eqTSenVl4iLP53VnoaNYXN0pwROIXoeLrOAYGOapO%2BFLD5rTQ7jnIPwVp8LvhI4SqsLXov7tnze7Axt%2FXNPoH6us81dX22Lqcvsjt9oeeTtGenL2mVNxG%7Ctkp%3ABk9SR5KAn7yCaA",
+        "url": "https://www.ebay.com/itm/127910990217?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFK32A2J96PGNPZ033BCV6&hash=item1dc816d189:g:puAAAeSwM8pqKyuc&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBllsLE598krH%2FMDOaHibQUFb9yN8QGLhS8QTK2Dib6OCjiTc7PIw9kpqliONIqszr29D%2FHdRo7bHD2Hj1qcoaYQ%2BT1uODWeN7v1Tx%2BCmd4AI%2BIRnU9XZRJswDztO8OMYtP6zYF9WVa5ogWe7z5OtS45IH8fEOIqj1NkdQLxHgiCF5sMQrsO30xHcWcP%2BdNIJLoPz%2FSX8J7xLjWDc9SNIDHRBvV4lhMyTnYtV8PrYL39ZHa%2FDwhWgHSJmmfIGJ0K8oq12qTdu1Oqq7QKbXbNTMg%7Ctkp%3ABk9SR76xzO-DaA",
         "imageUrl": "https://i.ebayimg.com/images/g/puAAAeSwM8pqKyuc/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787227384326
+      },
+      {
+        "itemId": "398201347829",
+        "title": "Pokemon Nidoking Base Set Unlimited Holo Rare #11 PSA 10 Gem MintOpens in a new window or tab",
+        "priceC": 199800,
+        "shippingC": 589,
+        "landedC": 200389,
+        "url": "https://www.ebay.com/itm/398201347829?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFK32BF8CJD4BZ9R70Y7XE&hash=item5cb6a65ef5:g:HrgAAeSwqLFpwdl~&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC9atLFDFPX3RFUgJm5gTG3b4o%2Fc0SOU%2BXL8tP9AWoFH5PK23y4xXt%2FFNZxWrDILjI3GvsEkY%2FNjPf9bJqdWqMFNT6KQWahlKBQDwL%2BjQdBl9D4tQAt8GEuMqS3jxCMuKO1gmV8aaeq9pmpjecveaD963V8Qf8%2Brx0n7lvXBJeOL7VTY0YYnSZE0SMQjfxnOtPhum%2B3NuRb3E7DL10IULd8jek6i%2BhNbLD5XoPZ%2B6%2F0sXqeQcn03DP5s9HxaZohNUxr4MRj4lfMI3gqheblSMbM%7Ctkp%3ABk9SR8CxzO-DaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/HrgAAeSwqLFpwdl~/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787038168986,
+        "lastSeen": 1787227384326
+      },
+      {
+        "itemId": "116919370223",
+        "title": "1999 Pokemon Base Set Unlimited Nidoking #11 Holo Rare CGC 10 PRISTINE LOW POPOpens in a new window or tab",
+        "priceC": 499900,
+        "shippingC": 900,
+        "landedC": 500800,
+        "url": "https://www.ebay.com/itm/116919370223?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFK32BG6HEE7YNGTFMKV2Z&hash=item1b38f001ef:g:ygYAAeSwOJtpN6w3&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDCazznrfMrM9LxtiPMZMWlhiLhIlkvtneqK%2B6arPvhAfH%2B6W5NZb7ZJbbKrIxGDvrAfwzHfNmKZPyOuqqK2%2Bx%2F0KSKcoYh0T3LETkmVW2mS2utacoxxemU8koGMyDN2hN4UcjV6yS0rNrr8fcBb1cs3pmg7v6o2V2C6Olbyr%2BQPtXcUFFSuK5B1Zu2D%2FCUVm35LHqiBXQLZIzRhcZ9XfdQBNBT20CYrmAHccA0Cy5njaqFHRdX3wNgbf4hUEeAIfYmDC7Aa0gDF9voLoQInLMs2891KXoHfseZ54wwz1R79BmRKqZPMiBpbCH4xKziN74%3D%7Ctkp%3ABk9SR8KxzO-DaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/ygYAAeSwOJtpN6w3/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "pristine10",
+        "freshness": "live",
+        "firstSeen": 1787038168986,
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "236374614756",
@@ -178,13 +317,13 @@
         "priceC": 950000,
         "shippingC": 2605,
         "landedC": 952605,
-        "url": "https://www.ebay.com/itm/236374614756?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M09W7QZ6KWNSMKEDA5QJ29PE&hash=item37090662e4:g:3VQAAeSwz51o5V3-&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAXlKCDQXwi2FVlguPW%2B9yPufrFSfVAH88mOIDGsK2Bpoq8NM8jDl%2BiA8AOI7Qa1DXEGgw7ZweC3TsG1L%2FkuRhK9Y7t46Wgy%2FZbsQ7oVIwkWOBo1TR5tBeObUehz4qgDlwQl4fCsCHkY54wbq9%2BWPaD%2Fa9aQHuf3bdLJPTw2CMzT5D8SfANCElLXFuGCT6qRCE%2BOtuOBLgTNmr3dvztG4jpLNYww9PkGYWi0GBVheKkE6jMSBwf2aULCp2C7Y2ogzPWQCIU0v%2F5dtNIdAvez3TSzgJgILAb4kqGPNKatoUFHBCVi0repITUW3H9wWJNWmM%3D%7Ctkp%3ABk9SR5aAn7yCaA",
+        "url": "https://www.ebay.com/itm/236374614756?_skw=%28nidoking%29+%2811%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=4043368193&itmmeta=01M0FFK32CMR1GJPEWKR429B5T&hash=item37090662e4:g:3VQAAeSwz51o5V3-&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBN1dVFvaoMmtVwnmA%2Fd4DCetzpodN70G6yMPNEmJa4ZoBNP9HhDYH%2FgLxvS7oklCzeyBFB8%2BOI3wG3XYcYt38fiTGK02FNzS6x7x6RRMaMSoAXK4KReU1U3OsFwaKg2vcDyLE%2FeNWsLlnW9vX9%2FAu%2B5BiDNbDFlwi41JtfH7qP54yLPtBTSo70TAkg3Wk190u2N%2FL7f9K0jXeYYhj2qnqIrYHhbD90IpC2AMDUzD4zHvCObJ%2B4asFAmd5elubBTUHRwFENG84IvgwEuSgekbbM%7Ctkp%3ABk9SR8KxzO-DaA",
         "imageUrl": "https://i.ebayimg.com/images/g/3VQAAeSwz51o5V3-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787227384326
       }
     ],
     "marketHistory": {
@@ -1844,7 +1983,7 @@
       ],
       "englishSaleCount": 389,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787162278423
+      "lastCapturedAt": 1787209266413
     }
   }
 }

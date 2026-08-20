@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 41,
@@ -29,7 +29,7 @@
         "psa10Pop": 89,
         "cgc10Pop": 30,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787162287536
+        "fetchedAt": 1787209275706
       },
       "bestCgc10": {
         "itemId": "287520981552",
@@ -37,23 +37,36 @@
         "priceC": 750000,
         "shippingC": 999,
         "landedC": 750999,
-        "url": "https://www.ebay.com/itm/287520981552?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=11043366055&itmmeta=01M09VV9887E44B0GH8015CNT7&hash=item42f1960230:g:zy8AAeSwgsZqfLbF&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAMmW7ah9PU%2F45tAe8PIGwaMKHgORt3AlhXE9KUPUBtv%2F0tJzw4ywIu1dGZqn3m7q9LSLkyNBWaRFZTEpXUE684ytbTY7mfng3HS74HgZ8IFnRKk1xOGK6Lh6Gt%2BfcPQbWngpgS4HjddGTJyq5nM9YT4fOSbDNHdHUHrRIqeg7cnc673PpkBpGDozPf3bElwZB73kRlQgRg73rEZOLIm2Sa7su2%2FGjjHcLff6eenox5txi78KJaIMb2jIi%2BAwCagcqeUZ0dfKyHVpN7Yjrc%2F6GCacqJERGgWXPu%2F91vJ20bkAAERjdtZepXKhh1crAuGzM%3D%7Ctkp%3ABk9SR76U7buCaA",
+        "url": "https://www.ebay.com/itm/287520981552?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=11043366055&itmmeta=01M0EZQE964X4NQT0D8HS2RJ60&hash=item42f1960230:g:zy8AAeSwgsZqfLbF&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAMmW7ah9PU%2F45tAe8PIGwaMKHgORt3AlhXE9KUPUBtv%2F0tJzw4ywIu1dGZqn3m7q9LSLkyNBWaRFZTEpXUE684ytbTY7mfng3HS74HgZ8IFnRKk1xOGK6Lh6Gt%2BfcPQbXdgEhur70zp0ClEkAeJ2SNNfUDkw%2FRlWUcwYN3EJe2RXDxj30iY1BDpRm%2B8KQsQEpum2EGPJshJhodecAcsQsCCzye2GWkLUJbanOm1oF%2BGJft9Ae13cqO8iSi0QqrfZZt676vMXrb9WLboJVtY3YdvvdCA1O4hND6pr0ZQ3nnw2p%2B1sPfsBdq8fGW606L1D0%3D%7Ctkp%3ABk9SR_rk3d-DaA",
         "imageUrl": "https://i.ebayimg.com/images/g/zy8AAeSwgsZqfLbF/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787209549665
       },
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "318757616263",
+        "title": "Raichu 14/102 - PSA 9 - 1st Edition Shadowless Base Set Pokémon Card Opens in a new window or tab",
+        "priceC": 429900,
+        "shippingC": 540,
+        "landedC": 430440,
+        "url": "https://www.ebay.com/itm/318757616263?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M0EZQE969VJXZ8KZ24VVBX42&hash=item4a376f3a87:g:UC8AAeSw1Llqhpqe&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAh6c11vFGUgq%2BGBYjt9fIfOftiJNLSuC1bfJ4qNizpAaw0UZy%2FlBkaSjsgekrlOql%2FqqeS6eu%2BDNAi%2BQdrV4UIiXsSoVmSsvAdnXS7ZChhSXjYAK2cC1dvwyu8vDl2G8Ip%2F%2BsrHixhHIaD5CJC9oeVnMi7ffVadPLK5GT6XrnzXhIrvkDr3zV%2FOfUrRqgykfrnl%2ByU5zS5BVpcePfnfcdNSZYgnV4%2FsSK2wcpC1AmUw7SVEJwUY08I6UIhzsyy4vuSToCE%2BOvs3BF6%2BoKwLDd4TmxxJbiSvkPZIx0vRbYp7Nn1SHx8caJRi11jD%2B5PiQk%3D%7Ctkp%3ABk9SR_jk3d-DaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/UC8AAeSw1Llqhpqe/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787209549665,
+        "lastSeen": 1787209549665
+      },
       "counts": {
         "cgc10Bin": 3,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -71,7 +84,7 @@
         "ratio": 2.4374220677189653
       },
       "firstOpportunityAt": 1787038168986,
-      "updatedAt": 1787162287536
+      "updatedAt": 1787209549665
     },
     "prices": {
       "variantId": 41,
@@ -86,22 +99,36 @@
       "cgc10Pop": 30,
       "bgs10C": 2696200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787162287536
+      "fetchedAt": 1787209275706
     },
     "listings": [
+      {
+        "itemId": "318757616263",
+        "title": "Raichu 14/102 - PSA 9 - 1st Edition Shadowless Base Set Pokémon Card Opens in a new window or tab",
+        "priceC": 429900,
+        "shippingC": 540,
+        "landedC": 430440,
+        "url": "https://www.ebay.com/itm/318757616263?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M0EZQE969VJXZ8KZ24VVBX42&hash=item4a376f3a87:g:UC8AAeSw1Llqhpqe&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAh6c11vFGUgq%2BGBYjt9fIfOftiJNLSuC1bfJ4qNizpAaw0UZy%2FlBkaSjsgekrlOql%2FqqeS6eu%2BDNAi%2BQdrV4UIiXsSoVmSsvAdnXS7ZChhSXjYAK2cC1dvwyu8vDl2G8Ip%2F%2BsrHixhHIaD5CJC9oeVnMi7ffVadPLK5GT6XrnzXhIrvkDr3zV%2FOfUrRqgykfrnl%2ByU5zS5BVpcePfnfcdNSZYgnV4%2FsSK2wcpC1AmUw7SVEJwUY08I6UIhzsyy4vuSToCE%2BOvs3BF6%2BoKwLDd4TmxxJbiSvkPZIx0vRbYp7Nn1SHx8caJRi11jD%2B5PiQk%3D%7Ctkp%3ABk9SR_jk3d-DaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/UC8AAeSw1Llqhpqe/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787209549665,
+        "lastSeen": 1787209549665
+      },
       {
         "itemId": "287520981552",
         "title": "Pokemon Raichu Base Set Shadowless 1st Edition 14/102 Holo CGC 10 Gem MintOpens in a new window or tab",
         "priceC": 750000,
         "shippingC": 999,
         "landedC": 750999,
-        "url": "https://www.ebay.com/itm/287520981552?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=11043366055&itmmeta=01M09VV9887E44B0GH8015CNT7&hash=item42f1960230:g:zy8AAeSwgsZqfLbF&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAMmW7ah9PU%2F45tAe8PIGwaMKHgORt3AlhXE9KUPUBtv%2F0tJzw4ywIu1dGZqn3m7q9LSLkyNBWaRFZTEpXUE684ytbTY7mfng3HS74HgZ8IFnRKk1xOGK6Lh6Gt%2BfcPQbWngpgS4HjddGTJyq5nM9YT4fOSbDNHdHUHrRIqeg7cnc673PpkBpGDozPf3bElwZB73kRlQgRg73rEZOLIm2Sa7su2%2FGjjHcLff6eenox5txi78KJaIMb2jIi%2BAwCagcqeUZ0dfKyHVpN7Yjrc%2F6GCacqJERGgWXPu%2F91vJ20bkAAERjdtZepXKhh1crAuGzM%3D%7Ctkp%3ABk9SR76U7buCaA",
+        "url": "https://www.ebay.com/itm/287520981552?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=11043366055&itmmeta=01M0EZQE964X4NQT0D8HS2RJ60&hash=item42f1960230:g:zy8AAeSwgsZqfLbF&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAMmW7ah9PU%2F45tAe8PIGwaMKHgORt3AlhXE9KUPUBtv%2F0tJzw4ywIu1dGZqn3m7q9LSLkyNBWaRFZTEpXUE684ytbTY7mfng3HS74HgZ8IFnRKk1xOGK6Lh6Gt%2BfcPQbXdgEhur70zp0ClEkAeJ2SNNfUDkw%2FRlWUcwYN3EJe2RXDxj30iY1BDpRm%2B8KQsQEpum2EGPJshJhodecAcsQsCCzye2GWkLUJbanOm1oF%2BGJft9Ae13cqO8iSi0QqrfZZt676vMXrb9WLboJVtY3YdvvdCA1O4hND6pr0ZQ3nnw2p%2B1sPfsBdq8fGW606L1D0%3D%7Ctkp%3ABk9SR_rk3d-DaA",
         "imageUrl": "https://i.ebayimg.com/images/g/zy8AAeSwgsZqfLbF/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787209549665
       },
       {
         "itemId": "257524459860",
@@ -109,13 +136,13 @@
         "priceC": 1050000,
         "shippingC": 4812,
         "landedC": 1054812,
-        "url": "https://www.ebay.com/itm/257524459860?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=27073645958&itmmeta=01M09VV988VC9B06JEQ7WHHVHN&hash=item3bf5a76954:g:crkAAeSw2wNqE1l3&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB%2BM9qhdlbjhE4109WIwJg2PpQDQpHG9k0JOsDiaN4HL7GnE3ztYeUdkuNdjWZt2ITldPqiE8e67WLrXHKm6rPCH%2BPOF4OJ0YKiyQ1POt6Weji3%2B4rskrc7NCmqvtQ9PMk5y%2BFrcCJfzHwXOfjk%2FWSEFCw%2FcgUvhQ848HtiwgApGGNd%2BQtoOcGe7h53CozlUsZxd9AplupaTgKWtGU%2BQdW%2Fqz0WvVAxrzI4V%2BpMPfnljj5cLK3hS2N3Dgo0upb8K%2BWqvPnr%2FKuLravP9P5JacN8OWBotb6SBT50HPSF2hm2wvlpG3dwKqGIfNwfsmXC5DU%3D%7Ctkp%3ABk9SR76U7buCaA",
+        "url": "https://www.ebay.com/itm/257524459860?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=27073645958&itmmeta=01M0EZQE977MEZHTSR5S4M8EVQ&hash=item3bf5a76954:g:crkAAeSw2wNqE1l3&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB%2BM9qhdlbjhE4109WIwJg2PpQDQpHG9k0JOsDiaN4HL7GnE3ztYeUdkuNdjWZt2ITldPqiE8e67WLrXHKm6rPCH%2BPOF4OJ0YKiyQ1POt6Weji3%2B4rskrc7NCmqvtQ9PMnzh%2BlikQy7T34xJqjdVWO4mhiS8Wgi8p%2FhVi%2BDV8N4NE2YXf1Os0rGRgOoc%2BXrSJTMh58i3LdYmUpH56KrmRVSWVHbZJx7tmbuKOXc3o4PFS5A4V%2BGwVtraxyF9ljMxbRI3hm8p6zUEfyKYv73L1%2BJV2ML8faZLdnDWaR2VIgNzm5Oi3SK5oO%2FNXECAgx5kdw%3D%7Ctkp%3ABk9SR_zk3d-DaA",
         "imageUrl": "https://i.ebayimg.com/images/g/crkAAeSw2wNqE1l3/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787209549665
       },
       {
         "itemId": "336737212442",
@@ -123,13 +150,13 @@
         "priceC": 1590595,
         "shippingC": 0,
         "landedC": 1590595,
-        "url": "https://www.ebay.com/itm/336737212442?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=11043366055&itmmeta=01M09VV988BCD3FM48146M298D&hash=item4e671a181a:g:UU0AAeSw6fRqeyU1&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xASYqfW2vcNcb88lRyOMVDrnFW3Olv15LYQIwqRBvdBm%2BiruSlNP4qRTnBvHC4NJflWkL%2FUGW5xqOnY6zpyfTwcPzJHsvv3%2BbjdkU5fzlixa3d1nTjDCWxiEPeKql%2BacJbp7cQXfKZ7sHZ%2FYbqzq2ookHqR25kmB5L88yMJJPa0u4MAWW1XEzJp1Rl26rseDy3yX5bEfVAt3%2FAv6o6qCN968eLFMTCGvFsrtSL%2BjqOW3Cr7WUaaq8Pfv7W1a%2FQ0QFonVsqpgvQ3KMT%2FbpKv2eGe%7Ctkp%3ABk9SR76U7buCaA",
+        "url": "https://www.ebay.com/itm/336737212442?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=11043366055&itmmeta=01M0EZQE972DBN6H9WTRACMS5G&hash=item4e671a181a:g:UU0AAeSw6fRqeyU1&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xASYqfW2vcNcb88lRyOMVDrnFW3Olv15LYQIwqRBvdBm6fFvg1tBBq1ub1btNeusWIK6%2BcwQOiEsxqO004Bv8Dk15cM0PCgMeoKL0ivs63Mw3MO2Q1%2BPZqAHcIHSuKwze%2FJbJrD79GSEV2%2F1F%2Bw8Ybsh22FX5ozobC5YAOGlbb0vHxdM6PQkhCxsF9s%2FZS0vZV2XJgN3fNpaba9Hi4z1sMdmGAJtOcQGwcs%2B%2BEnK0UwNpgzRKueklDBONgR%2B8PpwoPe4Jy2tPYIM1VsXlKXn2kQ%7Ctkp%3ABk9SR_zk3d-DaA",
         "imageUrl": "https://i.ebayimg.com/images/g/UU0AAeSw6fRqeyU1/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787209549665
       }
     ],
     "marketHistory": {
@@ -1784,7 +1811,7 @@
       ],
       "englishSaleCount": 292,
       "excludedLanguageCount": 2,
-      "lastCapturedAt": 1787162285817
+      "lastCapturedAt": 1787209273600
     }
   }
 }

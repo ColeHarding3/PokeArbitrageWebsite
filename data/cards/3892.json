@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 3892,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/42f09c25ed8d183dca5adc7fb1731ea5a040d12ddebf10b1a2df1362b6fb789f/1600.jpg",
       "popularityScore": 93,
       "market": {
-        "ungradedC": 6948,
+        "ungradedC": 8177,
         "grade9C": 35942,
         "grade95C": 39500,
         "cgc10C": 27500,
         "cgc10PristineC": 80500,
-        "psa10C": 282017,
-        "bgs10C": 366600,
+        "psa10C": 267750,
+        "bgs10C": 348100,
         "psa9Pop": 483,
         "psa10Pop": 114,
         "cgc10Pop": 29,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787060361875
+        "fetchedAt": 1787213793238
       },
       "bestCgc10": {
         "itemId": "287520981563",
@@ -37,34 +37,47 @@
         "priceC": 80000,
         "shippingC": 999,
         "landedC": 80999,
-        "url": "https://www.ebay.com/itm/287520981563?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0AJ5ES80XFK5J19DA2MB3TS&hash=item42f196023b:g:3fMAAeSwXudqfLcB&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBN6Fy685TwdGvLyQTUQvtD8h1LwciRF2UEtaJzRI%2FURPTfGET6BVFgD6g3sjUiKCwIjGm0CAxxxSmVwctnf38JCuSTgbo0qHIS2%2BTNaMdUKxjfTgELEqWmhn2BhWM0eTse7xHOaGBNkYwRMZV2YOCaD8heVLAH1YpKACcshkwQjL2ZGWJ1juWA7dxBF85B4CSgudGFWnmgsW%2BOOPrm5m5DGflsypUn6FIGNBgh%2BXWY6wCOA3qXbcLMNMiSaZ2m%2FJdrLn%2BEgihmVe0b%2FHExK5SSXkFIcZOAx9HWRH08FCzoz65FI2Mx8Ts1%2BljZp04vzgacg1HCLyAaEgv8TXYKlaHa%7Ctkp%3ABk9SR5DtldKCaA",
+        "url": "https://www.ebay.com/itm/287520981563?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0F3ZRZYRMX0B5YW7AXTEMW8&hash=item42f196023b:g:3fMAAeSwXudqfLcB&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAFp0nT736t1nqX63ejPu7HBLuHxrkNQ1XHtLYHOrKdzo9XepM01KuuIaJPtqEowisZmDNjEB%2BuekR%2B3zeByqXvR%2Bu1KTZzwbNKaBKyXfBceaNSe7wA%2BwYyOOGDchLpBYxL3%2B3QqR%2BsFYW3OyxDcttlCMAMHxDnilZElM6kfgH7j0caKwKkRR4f25VuY6h5sTINTtGl%2BoRhg4xOAnxuty6FFjbY6JabzBwENX%2BIZwitI89kiTO4PZxG7pFz%2BORve1FVhsk%2FSRQ4GAdviGm0%2F%2BCCUTr0f3yMNBOhm6Yq6g4KdA%3D%3D%7Ctkp%3ABk9SR7CQ_-ODaA",
         "imageUrl": "https://i.ebayimg.com/images/g/3fMAAeSwXudqfLcB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "227481784080",
+        "title": "Pokemon Charmander Holo Card 113/112 Fire Red & Leaf PSA 10Opens in a new window or tab",
+        "priceC": 315800,
+        "shippingC": 597,
+        "landedC": 316397,
+        "url": "https://www.ebay.com/itm/227481784080?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0F3ZRZZNFD420250B2PV9PN&hash=item34f6f88f10:g:BooAAeSwicVqhQGE&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBi5CtqY4TYWcnRG%2FrRGavJql9y072I1HSftiUbigQuG0pacCUI567UQ9bJwcupx88Lgy5Gm9LMOYduix%2BKWTNM%2BMrqwIdPJJsLxeJY7bp9u%2BR%2BCbpyAo229EI%2BGWOSD1i6JLJyXGI6%2FYr%2FEG%2BRspVQfxhY2eDHWJcHT2zP3Pn4I%2BA1Z802Ta%2F6pQ%2BkheI8%2BdppxQ8RW%2FRiGrguCEXBBapveFCTtwuobUx0zdlbxgeErlTrPv2F7bVmptUpCYrUNhpBElMGV22Gw9R75HpBdJFWF1z2IENuic87AA%2Fia0hz3aeX9Mq3MKC9H1X40Q1wI4XOAaVnaRlSn1JR4xCSdH1I%7Ctkp%3ABk9SR7SQ_-ODaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/BooAAeSwicVqhQGE/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787213991251,
+        "lastSeen": 1787213991251
+      },
       "bestPsa9": {
         "itemId": "198559998087",
         "title": "2004 POKEMON CHARMANDER HOLO FIRE RED & LEAF GREEN #113 PSA 9Opens in a new window or tab",
-        "priceC": 49900,
+        "priceC": 45999,
         "shippingC": 942,
-        "landedC": 50842,
-        "url": "https://www.ebay.com/itm/198559998087?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0AJ5ES7KTGMJBHHRNHPFTQH&hash=item2e3b192087:g:~WYAAeSwDp1qeTJD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBbWJK%2FFfnCtF2SoDDSlg1EhRE6sBx7VKAoxU4DoHbPgRmQQrUxZ4ysuK%2F5AqJD2SpX%2BJQYoVRxLjW4jOdQELUp%2BOGxE6kC2oRuPq4S9DNaEWflBlFjNhWu77BMk7ws3CkcPZQFsf2tAcjiY5%2FBpGFV7JD1vKrypGSRHooDU%2BfTzprnuR9R8mmZRo8NF0OIr6jCW4ex7r%2BP6iZwkQmay6Qw%2FvmWnWK8l5cDWZ8nhYfyWdnSWTXo8Sef3U708S81Sj8fP1GC%2FeDcrxsS6ZJo%2Fo2u4cA9J2l1PgTyvIVKvWTgUg%3D%3D%7Ctkp%3ABk9SR47tldKCaA",
+        "landedC": 46941,
+        "url": "https://www.ebay.com/itm/198559998087?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0F3ZRZX0CRB6Q1KSTJY0DEQ&hash=item2e3b192087:g:~WYAAeSwDp1qeTJD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBir9%2Fl%2BqmbQ2iPSsUKuLKn20agvO9sfOqv%2BaZzhiYI0atBCeMLFa7O%2BE6tGy6RTRHeqEzRgWzCtkuLSTfPICFQ3RgUtpCsjW7waq4UUhP9AeKxBpaj693iFWsXGlnilyKwfaw8sL9Ry%2BL2DGfxXmbuSpdtiwuLamLeeRMP1xoKhp5UfYwE8NpHlOudyHysPV7dlPuG28RTl9LD4zWovSRwThgSaPF%2FuZWcY9q4bTnuzNtkqrqdHI3GgqpBwGWc41r%2F1ofeaPgWTdycRj9a1IeeSOJDfDPIswXpGqdp4VHttk42e%2Bg%2BCK1TQaly2vvVOZgbUKI3qQWVuwkP5BgWzX9P%7Ctkp%3ABk9SR66Q_-ODaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~WYAAeSwDp1qeTJD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
       },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
         "psa9Bin": 3
       },
@@ -80,69 +93,69 @@
         "cgc10CostC": 80999,
         "submissionFeeC": 34900,
         "totalCostC": 115899,
-        "psa10ValueC": 282017,
-        "ratio": 2.4332996833449814
+        "psa10ValueC": 267750,
+        "ratio": 2.3102011233919186
       },
       "firstOpportunityAt": 1787061354691,
-      "updatedAt": 1787094589964
+      "updatedAt": 1787213991251
     },
     "prices": {
       "variantId": 3892,
-      "ungradedC": 6948,
+      "ungradedC": 8177,
       "grade9C": 35942,
       "grade95C": 39500,
       "cgc10C": 27500,
       "cgc10PristineC": 80500,
-      "psa10C": 282017,
+      "psa10C": 267750,
       "psa9Pop": 483,
       "psa10Pop": 114,
       "cgc10Pop": 29,
-      "bgs10C": 366600,
+      "bgs10C": 348100,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787060361875
+      "fetchedAt": 1787213793238
     },
     "listings": [
       {
         "itemId": "298588075944",
         "title": "2004 POKEMON EX FIRE RED & LEAF GREEN #113 CHARMANDER-HOLO PSA 9Opens in a new window or tab",
-        "priceC": 425,
+        "priceC": 950,
         "shippingC": 599,
-        "landedC": 1024,
-        "url": "https://www.ebay.com/itm/298588075944?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0AJ5ES1Q8HZWDXHVCGA0JBZ&hash=item45853c77a8:g:pPsAAeSwg3Nqf1Bs&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB81imyvtj%2B2RfQgWxX%2BUhznKRzzwuW%2Fa764W4qJ8KpegEXlFEcoOp6%2BnIsF63KlsL%2B8RnokjZ0Mio%2BulXjaFtt%2FBq8LuO7bJg4DlMLHsV6Ql2ZDC0LCnSlKWSr66gLg0R8On5VFApchs%2BnL1MaKp13YUMw6cCt%2BkNGcb%2B21WsuqoIp%2FcuWQ7xU11h0uCb%2BgXKoNW0O5Lpbklb8vRwSEifXSdDAYHxXBRmIvPgZRGBLSfrFrTrXrcjVRZA9c%2BvsZlZBxGbPtTTvIiRQZL5A7Ns4ISJ3ZavhlitD%2FDZbR6UcPA%3D%3D%7Ctkp%3ABk9SR4TtldKCaA",
+        "landedC": 1549,
+        "url": "https://www.ebay.com/itm/298588075944?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0F3ZRZR1YMXD8XQZS3JPCHR&hash=item45853c77a8:g:pPsAAeSwg3Nqf1Bs&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD0zsQarsOiIfPnij1qaArMA0pdp2JY%2FC9rbPddQk5va4M9pt3VOJxgP5Ipn1LihGq5pEAB6KE6S0wCzxpKte6i6GHX%2FM6QgwJ88wHOwodYwvIjwXD2ffi3RoZZXBKA0R86Iu2LHF8VhtupM8dq87uphn0llM7r4MO83RYz8cs9b5sE3UECsF0JJgjzN5pnZxgYJ0nedNocyvU%2BRkRuvVT0uDaVLkPdjAw2wqM9eCo4%2Ffe33kO3igoM9osPShmnKKlAUvxeW%2FxmkSs4X8%2B0NZDsFaVUSG8yThLCNsshUQVm53qgKdvGgdvU8ycosSCSe6w1z5QsISipdchM2zWQXrcK%7Ctkp%3ABk9SR6CQ_-ODaA",
         "imageUrl": "https://i.ebayimg.com/images/g/pPsAAeSwg3Nqf1Bs/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
       },
       {
         "itemId": "198559998087",
         "title": "2004 POKEMON CHARMANDER HOLO FIRE RED & LEAF GREEN #113 PSA 9Opens in a new window or tab",
-        "priceC": 49900,
+        "priceC": 45999,
         "shippingC": 942,
-        "landedC": 50842,
-        "url": "https://www.ebay.com/itm/198559998087?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0AJ5ES7KTGMJBHHRNHPFTQH&hash=item2e3b192087:g:~WYAAeSwDp1qeTJD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBbWJK%2FFfnCtF2SoDDSlg1EhRE6sBx7VKAoxU4DoHbPgRmQQrUxZ4ysuK%2F5AqJD2SpX%2BJQYoVRxLjW4jOdQELUp%2BOGxE6kC2oRuPq4S9DNaEWflBlFjNhWu77BMk7ws3CkcPZQFsf2tAcjiY5%2FBpGFV7JD1vKrypGSRHooDU%2BfTzprnuR9R8mmZRo8NF0OIr6jCW4ex7r%2BP6iZwkQmay6Qw%2FvmWnWK8l5cDWZ8nhYfyWdnSWTXo8Sef3U708S81Sj8fP1GC%2FeDcrxsS6ZJo%2Fo2u4cA9J2l1PgTyvIVKvWTgUg%3D%3D%7Ctkp%3ABk9SR47tldKCaA",
+        "landedC": 46941,
+        "url": "https://www.ebay.com/itm/198559998087?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0F3ZRZX0CRB6Q1KSTJY0DEQ&hash=item2e3b192087:g:~WYAAeSwDp1qeTJD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBir9%2Fl%2BqmbQ2iPSsUKuLKn20agvO9sfOqv%2BaZzhiYI0atBCeMLFa7O%2BE6tGy6RTRHeqEzRgWzCtkuLSTfPICFQ3RgUtpCsjW7waq4UUhP9AeKxBpaj693iFWsXGlnilyKwfaw8sL9Ry%2BL2DGfxXmbuSpdtiwuLamLeeRMP1xoKhp5UfYwE8NpHlOudyHysPV7dlPuG28RTl9LD4zWovSRwThgSaPF%2FuZWcY9q4bTnuzNtkqrqdHI3GgqpBwGWc41r%2F1ofeaPgWTdycRj9a1IeeSOJDfDPIswXpGqdp4VHttk42e%2Bg%2BCK1TQaly2vvVOZgbUKI3qQWVuwkP5BgWzX9P%7Ctkp%3ABk9SR66Q_-ODaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~WYAAeSwDp1qeTJD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
       },
       {
         "itemId": "800234318299",
         "title": "Charmander Holo #113/112 - 2004 Pokémon EX Fire Red Leaf Green - PSA 9Opens in a new window or tab",
-        "priceC": 52500,
+        "priceC": 46500,
         "shippingC": 1059,
-        "landedC": 53559,
-        "url": "https://www.ebay.com/itm/800234318299?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0AJ5ES7KXA6JPZ2ZM0E7YFK&hash=itemba51aea9db:g:42sAAeSw9h5qO1w0&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAQPFvD5YklQJjColGhmRNQuOa6%2BSQtMQp1Bt2%2FcBGu1VRRajig2wb2JvShsr5xIjZwOE2ISjyUZYalnf3vcX1yWPx7VvMyUr%2BAT3QoP5zr8rAi1Rzxu%2BhmQwwv0okvOm6gWQOB%2BzZHA5hzKJqAocl2I7A0N%2FNf7Bwc4r22pFbYM50lCVGu4xgq8oG%2Bb8KfV7TFbFOMttqy51WdB61JBEK%2FrQscEhCUH9Z9bCTDG3L2VNk8H3Z4A4dEdHEwRFhmg5lV8B7sly2gY9%2FVg058yW24jKfZswOGUZJN%2BegxYEamsQ%3D%3D%7Ctkp%3ABk9SR47tldKCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/42sAAeSw9h5qO1w0/s-l500.webp",
+        "landedC": 47559,
+        "url": "https://www.ebay.com/itm/800234318299?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0F3ZRZXN7AW5S9BPSM7ANDS&hash=itemba51aea9db:g:EgwAAeSwUjRqhLW0&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAQPFvD5YklQJjColGhmRNQuOa6%2BSQtMQp1Bt2%2FcBGu1UwxVMmx%2FIJKNQPXHooDex7EHINc96SvG5jZy6aTY%2FipuoNyUmUtx2Qv%2B9mbgQ3Sei1%2Bj2l%2FV%2BzeYAVWOcnUTEtuKHLR4cGR77lRKTRAjTa2krVO6HO8GDIjo1cH8QTGN8gqwlG7taw6eUiy%2Fqwhc4kiQXzOt1U2%2BMDtRwNZV1pSmRG3Uw%2Bi8goovRhWTtMwdeyNimgJFNtzL8SgSZAzgBuKnKx0S%2Blq%2FpcPBBAqukVqYe4F46YmSPsE0YCMePQh7w%3D%3D%7Ctkp%3ABk9SR66Q_-ODaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/EgwAAeSwUjRqhLW0/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
       },
       {
         "itemId": "287520981563",
@@ -150,13 +163,13 @@
         "priceC": 80000,
         "shippingC": 999,
         "landedC": 80999,
-        "url": "https://www.ebay.com/itm/287520981563?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0AJ5ES80XFK5J19DA2MB3TS&hash=item42f196023b:g:3fMAAeSwXudqfLcB&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBN6Fy685TwdGvLyQTUQvtD8h1LwciRF2UEtaJzRI%2FURPTfGET6BVFgD6g3sjUiKCwIjGm0CAxxxSmVwctnf38JCuSTgbo0qHIS2%2BTNaMdUKxjfTgELEqWmhn2BhWM0eTse7xHOaGBNkYwRMZV2YOCaD8heVLAH1YpKACcshkwQjL2ZGWJ1juWA7dxBF85B4CSgudGFWnmgsW%2BOOPrm5m5DGflsypUn6FIGNBgh%2BXWY6wCOA3qXbcLMNMiSaZ2m%2FJdrLn%2BEgihmVe0b%2FHExK5SSXkFIcZOAx9HWRH08FCzoz65FI2Mx8Ts1%2BljZp04vzgacg1HCLyAaEgv8TXYKlaHa%7Ctkp%3ABk9SR5DtldKCaA",
+        "url": "https://www.ebay.com/itm/287520981563?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0F3ZRZYRMX0B5YW7AXTEMW8&hash=item42f196023b:g:3fMAAeSwXudqfLcB&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAFp0nT736t1nqX63ejPu7HBLuHxrkNQ1XHtLYHOrKdzo9XepM01KuuIaJPtqEowisZmDNjEB%2BuekR%2B3zeByqXvR%2Bu1KTZzwbNKaBKyXfBceaNSe7wA%2BwYyOOGDchLpBYxL3%2B3QqR%2BsFYW3OyxDcttlCMAMHxDnilZElM6kfgH7j0caKwKkRR4f25VuY6h5sTINTtGl%2BoRhg4xOAnxuty6FFjbY6JabzBwENX%2BIZwitI89kiTO4PZxG7pFz%2BORve1FVhsk%2FSRQ4GAdviGm0%2F%2BCCUTr0f3yMNBOhm6Yq6g4KdA%3D%3D%7Ctkp%3ABk9SR7CQ_-ODaA",
         "imageUrl": "https://i.ebayimg.com/images/g/3fMAAeSwXudqfLcB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
       },
       {
         "itemId": "127839602157",
@@ -164,13 +177,27 @@
         "priceC": 100000,
         "shippingC": 524,
         "landedC": 100524,
-        "url": "https://www.ebay.com/itm/127839602157?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0AJ5ES82NRK90HYQRRS1ZET&hash=item1dc3d585ed:g:0TMAAeSwcY5p9HFf&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD04cZrEwZiyXojSTc%2Bk2hPulmwlnuTOwM0HFmyemSeKbxbp3I3dhaZJCMoFs%2FYgXZ5vFNNz9UFs%2Fqj%2BDYP4o3kr%2FZqWUhPMT3eyVu7uHzbZdf3xhFyjBzfkvIzgjTOtn9tB9qddKm1E%2FbSaNEzCQQ6BsFPDpOXNuMgYbb8CZc0vhcfgK4tRevd%2BbhVh2gbOBhGgvWMLhAsInyGkusns%2B%2BmwJdqP5evTOoUPAL37aM4ItChS0RW8wFoposFzemnSjmDs%2FP7qJhhYO%2BM%2BLXFQ1ZXcoHX%2F5Y3bWVTdm40WLR3EurUlSxdtMsQnzD%2FCqH0ZCid0otvhEENJ%2BiMGbULXcT8%7Ctkp%3ABk9SR5DtldKCaA",
+        "url": "https://www.ebay.com/itm/127839602157?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0F3ZRZYNXYDYG32A3Y6FJE2&hash=item1dc3d585ed:g:0TMAAeSwcY5p9HFf&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD04cZrEwZiyXojSTc%2Bk2hPulmwlnuTOwM0HFmyemSeKbxbp3I3dhaZJCMoFs%2FYgXZ5vFNNz9UFs%2Fqj%2BDYP4o3kr%2FZqWUhPMT3eyVu7uHzbZdf3xhFyjBzfkvIzgjTOtn--RF3RdJIptvu9RUz7ASiekqsBcnrk82CzimfQ3pQv9hDzwml06jIB9EYoJHF2TzPWLndaP4ngs1M4VPmWVU%2FIETu%2Bo4%2FlItPwg80nmFG3dCLUdmv9TjXevBRzAfWeSlq8uAAi69YSbAqKOlP4nCOqm%2BkfRoDZqAfzBurue9nC%2BXI3wF0n4Ad2%2F3VR%2Bc8OewzL45cWvMJxUw59Tjn86EZY%7Ctkp%3ABk9SR7KQ_-ODaA",
         "imageUrl": "https://i.ebayimg.com/images/g/0TMAAeSwcY5p9HFf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
+      },
+      {
+        "itemId": "227481784080",
+        "title": "Pokemon Charmander Holo Card 113/112 Fire Red & Leaf PSA 10Opens in a new window or tab",
+        "priceC": 315800,
+        "shippingC": 597,
+        "landedC": 316397,
+        "url": "https://www.ebay.com/itm/227481784080?_skw=%28charmander%29+%28113%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=19043376102&itmmeta=01M0F3ZRZZNFD420250B2PV9PN&hash=item34f6f88f10:g:BooAAeSwicVqhQGE&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBi5CtqY4TYWcnRG%2FrRGavJql9y072I1HSftiUbigQuG0pacCUI567UQ9bJwcupx88Lgy5Gm9LMOYduix%2BKWTNM%2BMrqwIdPJJsLxeJY7bp9u%2BR%2BCbpyAo229EI%2BGWOSD1i6JLJyXGI6%2FYr%2FEG%2BRspVQfxhY2eDHWJcHT2zP3Pn4I%2BA1Z802Ta%2F6pQ%2BkheI8%2BdppxQ8RW%2FRiGrguCEXBBapveFCTtwuobUx0zdlbxgeErlTrPv2F7bVmptUpCYrUNhpBElMGV22Gw9R75HpBdJFWF1z2IENuic87AA%2Fia0hz3aeX9Mq3MKC9H1X40Q1wI4XOAaVnaRlSn1JR4xCSdH1I%7Ctkp%3ABk9SR7SQ_-ODaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/BooAAeSwicVqhQGE/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787213991251,
+        "lastSeen": 1787213991251
       }
     ],
     "marketHistory": {
@@ -1835,7 +1862,7 @@
       ],
       "englishSaleCount": 198,
       "excludedLanguageCount": 3,
-      "lastCapturedAt": 1787060359763
+      "lastCapturedAt": 1787213791215
     }
   }
 }

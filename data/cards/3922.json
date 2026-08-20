@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 3922,
@@ -29,7 +29,7 @@
         "psa10Pop": 131,
         "cgc10Pop": 37,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\"}",
-        "fetchedAt": 1787060463104
+        "fetchedAt": 1787213810487
       },
       "bestCgc10": {
         "itemId": "366599207829",
@@ -37,34 +37,47 @@
         "priceC": 75000,
         "shippingC": 500,
         "landedC": 75500,
-        "url": "https://www.ebay.com/itm/366599207829?_skw=%28electrode%29+%28107%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24043367195&itmmeta=01M0AJ8DNNXR9WD9WV8A04P25M&hash=item555b03fb95:g:9kkAAeSwBJRqeyGj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBX%2BH9el3YkaeIOdDVNOzkK5WBV8df0Sw9Tw%2BpCzLi9Rdk0Oc7FiZ4xpyBlhpwfs0cM3yWzjhGOUuJEtpslxT4FfKYci9N62IwYHJQ46T396K03L9tRmxZ5Q0821%2FHsWCDGk1iDHv%2FEO%2FMj%2F4Yi%2BmSg9OLf9PbXlE3uRfXuBc1TwgQh%2FA3ykIs2%2FQ0kFze6SgJ2%2BJVJV0kXzM2mAGe6mlEJdr81LpwSnsZdeIgU5r1Axh%2F7R%2FFnRomN0GmjBglC2yK0zYGEQRTbfHZCY53Bb3daxvdy6D6HnMruCxvR0KK9Fw%3D%3D%7Ctkp%3ABk9SR5DbodKCaA",
+        "url": "https://www.ebay.com/itm/366599207829?_skw=%28electrode%29+%28107%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24043367195&itmmeta=01M0F40HX1QEQETY7HDGVTNYFH&hash=item555b03fb95:g:9kkAAeSwBJRqeyGj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBX%2BH9el3YkaeIOdDVNOzkK5WBV8df0Sw9Tw%2BpCzLi9RRcfyGLLUa8ZDXVL7Ir1o01laWsgwcAOjJDQzf7fHNmixWXhuxznk3ymPf1gacKL40j91F4mCGmt6odtBRN5X2yStaHIgGEjMx5vHQS37xLL6do5fgUaJkKPw5J%2B%2FeVOW6zgxCsuPP7i%2BaAKgG5w4dt5yeNNNdszn%2BIIXrrygM13vg2GAgmOQ9d8ALdVJeT7fLYsD0IVRrCiJM%2FxvaPy5LjMtK7OjaIt1WJc%2BqFDIzy6fjg5nN7EWhdJn3WqsfLnXw%3D%3D%7Ctkp%3ABk9SR-aeguSDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/9kkAAeSwBJRqeyGj/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "800537336032",
+        "title": "PSA 10 Pokemon Electrode ex EX Fire Red & Leaf Green Holo Ultra Rare #107Opens in a new window or tab",
+        "priceC": 500000,
+        "shippingC": 597,
+        "landedC": 500597,
+        "url": "https://www.ebay.com/itm/800537336032?_skw=%28electrode%29+%28107%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24043367195&itmmeta=01M0F40HX14QXCCTPZWT6AQQ7K&hash=itemba63be58e0:g:cVcAAeSwbr9qhl~s&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAojQ7HmjpisetAq7O4flSYXnwrY4KV0TRgI4j%2BK7t5ws82s27jLqRr0qBc1FD7EojHcraNlL2eU%2FczkQOpbnT5qZAsRd%2FJcRP3xZbjqoGV9zl8fuh3YfqPxVIHAWFb6hSSxmAQdfdGWv3tVgoVhOwOnADq%2BUT8TB55%2Ba8x9pMbzIEbIF0vj2FHN5eF6848Y7Q9vDAj%2Fbe2DD8A6sNOUWvBV0yjtmQX7MALWyIVekFKSJ5%2FuVm9fM70Mrdvpo3GSqZxXInsnJ5GQVxIV1uJYPQYNR5J8AsUhIBP0qQZ%2Fs%2FHTg%3D%3D%7Ctkp%3ABk9SR-ieguSDaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/cVcAAeSwbr9qhl~s/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787213991251,
+        "lastSeen": 1787213991251
+      },
       "bestPsa9": {
         "itemId": "178410990433",
         "title": "PSA 9 Electrode EX Fire Red & Leaf Green Holo Foil 107/112 2004 Pokemon MintOpens in a new window or tab",
         "priceC": 79999,
         "shippingC": 1999,
         "landedC": 81998,
-        "url": "https://www.ebay.com/itm/178410990433?_skw=%28electrode%29+%28107%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24043367195&itmmeta=01M0AJ8DNN0A2TJF5YRP3SVTJK&hash=item298a1fab61:g:eqMAAeSw-MdqgPVs&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDGcbpON2P85z3d7Db4JWs9iUbjk2Pk9U8zI%2FdB%2FBBGDar%2FH%2BqHsDbhP4j6kj1wifDRv1xPg9oNpQUplu5s1ILG2ZOxwbZe4LFtXCuS4BjU26ajbfRtXOnbfIi6FQtcb6nUTxLgMHFeQouDJf%2FDjPtNG0o6gcB58xP2XUHRGYWb3QRy0NlvU1i6o93TqdphN2e6rqM%2BqG8P2A%2FmaGpz3e16hFTQ1DvzipRcRuYqOq3zbZpuLGORoEF7b1%2B83Ehu2v3v6V%2BGPk%2B4XiaPklA99JM8Pp196Z8N1%2FTg1HljKPwY4uVHTFzDBM0kXEnpUdegmg%2BZx0B1h9vTRGPasDdtnTSD%7Ctkp%3ABk9SR5DbodKCaA",
+        "url": "https://www.ebay.com/itm/178410990433?_skw=%28electrode%29+%28107%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24043367195&itmmeta=01M0F40HX1DBEQDFS5BEQQ3SVJ&hash=item298a1fab61:g:eqMAAeSw-MdqgPVs&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDhBEVCZ7M8AoVnBVVLtKNpsTGodFlbvmvTz0MPo4VLVaa6Xwi8Fkqzxbz7m3e11Tp9R%2Fdpfdrnqv9NrQBeyOmoGCRwcicat3KFxsw1K3HgOaTQYyfp2hlqMZmAfZ5QD3dgkO8vm4zbbPHz4OC8wO%2Fcvpg7BA%2BE4LUef4FMl84P%2BAWRrN5jTcQVw01jIPjHgX4Pgvkv9JvwuxeQVaZBi0dR3XOiQn1nlJhjQKJEaf1yir0jRo3VmYJenmSzKfDu5rPa24CFR%2Bngf4Ex%2Bqzb8NlZbTNtwOdghy9R0YRNK8b%2BYw%3D%3D%7Ctkp%3ABk9SR-ieguSDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/eqMAAeSw-MdqgPVs/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
       },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
         "psa9Bin": 1
       },
@@ -84,7 +97,7 @@
         "ratio": 2.0199446902654867
       },
       "firstOpportunityAt": 1787061354691,
-      "updatedAt": 1787094589964
+      "updatedAt": 1787213991251
     },
     "prices": {
       "variantId": 3922,
@@ -99,22 +112,36 @@
       "cgc10Pop": 37,
       "bgs10C": 237400,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\"}",
-      "fetchedAt": 1787060463104
+      "fetchedAt": 1787213810487
     },
     "listings": [
+      {
+        "itemId": "820020320539",
+        "title": "2004 Pokemon TCG Electrode ex EX FireRed & LeafGreen 107/112 Holo PSA 9Opens in a new window or tab",
+        "priceC": 25500,
+        "shippingC": 540,
+        "landedC": 26040,
+        "url": "https://www.ebay.com/itm/820020320539?_skw=%28electrode%29+%28107%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24043367195&itmmeta=01M0F40HX1G5QQM6M9H8RXXNV1&hash=itembeed05191b:g:UlAAAeSw1INqgrJl&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAdU3YvEyqmP0K1HVq%2BqGj0uwtEum15KbyHS3qt%2B6EJH1VtvMTyuIeKEKcuXAlkcRiXu7oDTfcQTgdHwo1HWsLKQGWlcIfoNKYrNQgt%2B8H1v8VgXy%2FZDZkf%2FqVIdsdOJk0GO5eK2%2FxKEvcKlPQXL%2F8Qvt0gHzBDeyIKwzSndnBdGLugegO3VNPJYDYtQrkkqZ4deR2lA%2BPFHqZVgMuI3L5ZtavrH4SmFlNcNSxo8WemmDzs8cruT7lOoFbvqRdYfon67HWaXRAz9lrQ0vfc--G1bCaOPiNy5F32mG8%2F06RR5Q%3D%3D%7Ctkp%3ABk9SR-aeguSDaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/UlAAAeSw1INqgrJl/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787213991251,
+        "lastSeen": 1787213991251
+      },
       {
         "itemId": "366599207829",
         "title": "Electrode ex 107/112 CGC 10 - 2004 Pokemon EX Fire Red Leaf Green Opens in a new window or tab",
         "priceC": 75000,
         "shippingC": 500,
         "landedC": 75500,
-        "url": "https://www.ebay.com/itm/366599207829?_skw=%28electrode%29+%28107%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24043367195&itmmeta=01M0AJ8DNNXR9WD9WV8A04P25M&hash=item555b03fb95:g:9kkAAeSwBJRqeyGj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBX%2BH9el3YkaeIOdDVNOzkK5WBV8df0Sw9Tw%2BpCzLi9Rdk0Oc7FiZ4xpyBlhpwfs0cM3yWzjhGOUuJEtpslxT4FfKYci9N62IwYHJQ46T396K03L9tRmxZ5Q0821%2FHsWCDGk1iDHv%2FEO%2FMj%2F4Yi%2BmSg9OLf9PbXlE3uRfXuBc1TwgQh%2FA3ykIs2%2FQ0kFze6SgJ2%2BJVJV0kXzM2mAGe6mlEJdr81LpwSnsZdeIgU5r1Axh%2F7R%2FFnRomN0GmjBglC2yK0zYGEQRTbfHZCY53Bb3daxvdy6D6HnMruCxvR0KK9Fw%3D%3D%7Ctkp%3ABk9SR5DbodKCaA",
+        "url": "https://www.ebay.com/itm/366599207829?_skw=%28electrode%29+%28107%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24043367195&itmmeta=01M0F40HX1QEQETY7HDGVTNYFH&hash=item555b03fb95:g:9kkAAeSwBJRqeyGj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBX%2BH9el3YkaeIOdDVNOzkK5WBV8df0Sw9Tw%2BpCzLi9RRcfyGLLUa8ZDXVL7Ir1o01laWsgwcAOjJDQzf7fHNmixWXhuxznk3ymPf1gacKL40j91F4mCGmt6odtBRN5X2yStaHIgGEjMx5vHQS37xLL6do5fgUaJkKPw5J%2B%2FeVOW6zgxCsuPP7i%2BaAKgG5w4dt5yeNNNdszn%2BIIXrrygM13vg2GAgmOQ9d8ALdVJeT7fLYsD0IVRrCiJM%2FxvaPy5LjMtK7OjaIt1WJc%2BqFDIzy6fjg5nN7EWhdJn3WqsfLnXw%3D%3D%7Ctkp%3ABk9SR-aeguSDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/9kkAAeSwBJRqeyGj/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
       },
       {
         "itemId": "178410990433",
@@ -122,13 +149,13 @@
         "priceC": 79999,
         "shippingC": 1999,
         "landedC": 81998,
-        "url": "https://www.ebay.com/itm/178410990433?_skw=%28electrode%29+%28107%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24043367195&itmmeta=01M0AJ8DNN0A2TJF5YRP3SVTJK&hash=item298a1fab61:g:eqMAAeSw-MdqgPVs&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDGcbpON2P85z3d7Db4JWs9iUbjk2Pk9U8zI%2FdB%2FBBGDar%2FH%2BqHsDbhP4j6kj1wifDRv1xPg9oNpQUplu5s1ILG2ZOxwbZe4LFtXCuS4BjU26ajbfRtXOnbfIi6FQtcb6nUTxLgMHFeQouDJf%2FDjPtNG0o6gcB58xP2XUHRGYWb3QRy0NlvU1i6o93TqdphN2e6rqM%2BqG8P2A%2FmaGpz3e16hFTQ1DvzipRcRuYqOq3zbZpuLGORoEF7b1%2B83Ehu2v3v6V%2BGPk%2B4XiaPklA99JM8Pp196Z8N1%2FTg1HljKPwY4uVHTFzDBM0kXEnpUdegmg%2BZx0B1h9vTRGPasDdtnTSD%7Ctkp%3ABk9SR5DbodKCaA",
+        "url": "https://www.ebay.com/itm/178410990433?_skw=%28electrode%29+%28107%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24043367195&itmmeta=01M0F40HX1DBEQDFS5BEQQ3SVJ&hash=item298a1fab61:g:eqMAAeSw-MdqgPVs&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDhBEVCZ7M8AoVnBVVLtKNpsTGodFlbvmvTz0MPo4VLVaa6Xwi8Fkqzxbz7m3e11Tp9R%2Fdpfdrnqv9NrQBeyOmoGCRwcicat3KFxsw1K3HgOaTQYyfp2hlqMZmAfZ5QD3dgkO8vm4zbbPHz4OC8wO%2Fcvpg7BA%2BE4LUef4FMl84P%2BAWRrN5jTcQVw01jIPjHgX4Pgvkv9JvwuxeQVaZBi0dR3XOiQn1nlJhjQKJEaf1yir0jRo3VmYJenmSzKfDu5rPa24CFR%2Bngf4Ex%2Bqzb8NlZbTNtwOdghy9R0YRNK8b%2BYw%3D%3D%7Ctkp%3ABk9SR-ieguSDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/eqMAAeSw-MdqgPVs/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
       },
       {
         "itemId": "287372812540",
@@ -136,17 +163,70 @@
         "priceC": 100000,
         "shippingC": 999,
         "landedC": 100999,
-        "url": "https://www.ebay.com/itm/287372812540?_skw=%28electrode%29+%28107%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24043367195&itmmeta=01M0AJ8DNNA6SAPSVGFMVZTHPC&hash=item42e8c120fc:g:u90AAeSwFrRqIJLN&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDvBQN33Xhnm0A0YBiq%2FbetG%2FRIiLJlRcGdzGlUE7TirJOSZcN2YP85Ht02FTIJHNWhVxK9ghcg9AzrBx6CIh5LZ6E2N7EPlgNJt4r7PuKyi4uudaq4Ezp830j9XoEjS7AipcOyGiAXxGIjOjbyxaO7df%2Foup3%2F79%2BUZg31wazVlqZejAaMbZtvpBcAxg4An25Yk5FBMoIYDEvz44gkAfLvksS5ybRi7esHy5kmAW1%2BIgDhA7SSo2IBmNJJaiSyfq2O5n6zeBOHfUUCc66yRMKQscZice28IlHnP4rPo2V53g%3D%3D%7Ctkp%3ABk9SR5DbodKCaA",
+        "url": "https://www.ebay.com/itm/287372812540?_skw=%28electrode%29+%28107%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24043367195&itmmeta=01M0F40HX1Y4KCZWNN46RB3E9V&hash=item42e8c120fc:g:u90AAeSwFrRqIJLN&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDp40%2BQfYO3cnQSSEC8ZCKtM%2BgBzukP6YJbQZLu%2BAeLixBmi0bdkMIwZpUDXtyCJB%2B9TdKFkLDsp4du4w3Cwlpb6LRYoWaiv0%2BcmjfwlE6frxSAZvVTLtDwfcC7P8WnQ3C333udlEq2EqwoL2h5FsW%2BCa6fv06tXyrxSXjLSR7Yok8F4ZajgTqUSCM3ke1mph%2Fkemc4WbIbLxk1x%2ByufqE%2BOYBPpVKmFSrxxg%2B0KT5decpkmZw%2FdGEuQIegc2TnPWffXhcAEE6Bu8pR%2BzcvP%2FP%2BbANqMAy8NNwwswGNToxAJzygHfqLgGJvthjG0k%2B2JDFXT3vWCeVcX06DSVFcFXj0%7Ctkp%3ABk9SR-ieguSDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/u90AAeSwFrRqIJLN/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
+      },
+      {
+        "itemId": "800537336032",
+        "title": "PSA 10 Pokemon Electrode ex EX Fire Red & Leaf Green Holo Ultra Rare #107Opens in a new window or tab",
+        "priceC": 500000,
+        "shippingC": 597,
+        "landedC": 500597,
+        "url": "https://www.ebay.com/itm/800537336032?_skw=%28electrode%29+%28107%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24043367195&itmmeta=01M0F40HX14QXCCTPZWT6AQQ7K&hash=itemba63be58e0:g:cVcAAeSwbr9qhl~s&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAojQ7HmjpisetAq7O4flSYXnwrY4KV0TRgI4j%2BK7t5ws82s27jLqRr0qBc1FD7EojHcraNlL2eU%2FczkQOpbnT5qZAsRd%2FJcRP3xZbjqoGV9zl8fuh3YfqPxVIHAWFb6hSSxmAQdfdGWv3tVgoVhOwOnADq%2BUT8TB55%2Ba8x9pMbzIEbIF0vj2FHN5eF6848Y7Q9vDAj%2Fbe2DD8A6sNOUWvBV0yjtmQX7MALWyIVekFKSJ5%2FuVm9fM70Mrdvpo3GSqZxXInsnJ5GQVxIV1uJYPQYNR5J8AsUhIBP0qQZ%2Fs%2FHTg%3D%3D%7Ctkp%3ABk9SR-ieguSDaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/cVcAAeSwbr9qhl~s/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787213991251,
+        "lastSeen": 1787213991251
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 1295668,
+          "saleDate": "2026-08-18",
+          "priceC": 7500,
+          "title": "Pokémon TCG Electrode ex 107/112 Holo EX FireRed & LeafGreen 2004 EN 90 HP 107/112",
+          "url": "https://www.ebay.com/itm/398265514139?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 1295667,
+          "saleDate": "2026-08-18",
+          "priceC": 4500,
+          "title": "Pokemon Electrode EX 107/112 Fire Red & Leaf Green 2004 Rare Holo BC24 107/112",
+          "url": "https://www.ebay.com/itm/298567537689?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 1295666,
+          "saleDate": "2026-08-18",
+          "priceC": 4999,
+          "title": "Pokémon TCG Electrode ex 107/112 Holo Ultra Rare FireRed & LeafGreen 2004 107/112",
+          "url": "https://www.ebay.com/itm/366597466422?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 541411,
           "saleDate": "2026-08-15",
@@ -180,6 +260,19 @@
           "title": "2004 Pokemon EX FireRed & LeafGreen Electrode Holo #107/112",
           "url": "https://www.ebay.com/itm/128015264599?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 1295671,
+          "saleDate": "2026-08-12",
+          "priceC": 20000,
+          "title": "Electrode ex w/ photos and notes #107 Near Mint English",
+          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F85165%2F-&sharedId=web&subId1=completed",
+          "sourceMarketplace": "TCGPlayer",
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
@@ -1654,58 +1747,6 @@
           "gradingGrade": 10,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 541496,
-          "saleDate": "2025-05-02",
-          "priceC": 17500,
-          "title": "CGC 10 GEM MINT Electrode ex Fire Red & Leaf Green 107/112 Holo SWIRL Pokemon 107/112",
-          "url": "https://www.ebay.com/itm/326351709818?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 541511,
-          "saleDate": "2025-04-30",
-          "priceC": 10995,
-          "title": "[SWIRL] Pokémon EX Fire Red Leaf Green Electrode EX Holo 107/112 PSA 9 MINT 107/112",
-          "url": "https://www.ebay.com/itm/226717985276?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 541476,
-          "saleDate": "2025-04-28",
-          "priceC": 30500,
-          "title": "Pokemon Electrode ex EX Fire Red & Leaf Green Ultra Rare #107 PSA 10 Gem Mint",
-          "url": "https://www.ebay.com/itm/286502551447?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 541578,
-          "saleDate": "2025-04-20",
-          "priceC": 5699,
-          "title": "Pokemon 2004 Ex Fire Red and Leaf Green Electrode ex 107/112 PSA 6 MINT 107/112",
-          "url": "https://www.ebay.com/itm/165640715718?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 6,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1805,9 +1846,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 184,
+      "englishSaleCount": 188,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787060461566
+      "lastCapturedAt": 1787213808586
     }
   }
 }

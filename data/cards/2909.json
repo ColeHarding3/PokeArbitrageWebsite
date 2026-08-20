@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 2909,
@@ -18,32 +18,32 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/rzcrysdkozjsny7w/1600.jpg",
       "popularityScore": 75,
       "market": {
-        "ungradedC": 25487,
-        "grade9C": 32100,
-        "grade95C": 35300,
+        "ungradedC": 20250,
+        "grade9C": 32550,
+        "grade95C": 35800,
         "cgc10C": 129950,
         "cgc10PristineC": 233900,
-        "psa10C": 549197,
-        "bgs10C": 714000,
+        "psa10C": 810926,
+        "bgs10C": 1054200,
         "psa9Pop": 48,
         "psa10Pop": 1,
         "cgc10Pop": 7,
         "salesVolumeJson": "{\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787054876662
+        "fetchedAt": 1787212802316
       },
       "bestCgc10": {
         "itemId": "287450948217",
         "title": "Pokemon Meowth Skyridge 78/144 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
         "priceC": 300000,
-        "shippingC": 999,
-        "landedC": 300999,
-        "url": "https://www.ebay.com/itm/287450948217?_skw=%28meowth%29+%2878%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376541&itmmeta=01M0ACX2BPNJDBJ6KGSFTMSW4V&hash=item42ed696279:g:4BEAAeSwxLNqUApa&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDPyzhh3RvHehk%2BOCz00vJg--mWd8NfVr6cHR5umDmue9du%2Bx8SU3%2FJpNpDqjXl9TDqqQM9P9261k9FrOvHGj91JNSLvdvCYLzF891pHOggTFGOejI%2B5nOMotBUpOVo7zj%2FenYUir0ct7nXa6fkDpB7ofZcTAPTFQMvOJz3mPm58hzOFChYioRq%2B9cTIxzBDvI1sZI06sjshV1Qql%2FnGBcduZhcAEiq27umEsztEYFfNaFjDrV3i80%2BGwr0H1%2Bm5yAa8nkJkEWeeD2clqSxOJSG%7Ctkp%3ABk9SR4Sm9MyCaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/287450948217?_skw=%28meowth%29+%2878%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376541&itmmeta=01M0F30SZ7ATD1D2G27GFJ6WZ8&hash=item42ed696279:g:4BEAAeSwxLNqUApa&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDPyzhh3RvHehk%2BOCz00vJg--mWd8NfVr6cHR5umDmue5BnqtNFKMNg3O8CqwumlLopyMmoNl4HofL5KCJ5gjv7r99e4YDvG%2BIRa1LkB2QjAhsdAhf44soO7VkUQvF7jZDYGEQopgzF3E6nyHW8wiEo9CKOiHnrufE0dquBkRTgsb7LMA1bt4sD8DoQUdWwNXf21ikc7sGeFoIkvMiSQJi13N54MDB5reEe1O%2BnKp4Mwv7kV47ZyksWO5iAp7toFhGUaveXDbBZ1DtfhBMyudGQ%7Ctkp%3ABk9SR9qfg-ODaA",
         "imageUrl": "https://i.ebayimg.com/images/g/4BEAAeSwxLNqUApa/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787094577812
+        "lastSeen": 1787212943224
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -55,53 +55,39 @@
         "psa10Auction": 0,
         "psa9Bin": 0
       },
-      "ratio": {
-        "ok": true,
-        "tier": {
-          "id": "walkThrough",
-          "label": "Walk-Through",
-          "feeC": 59900,
-          "declaredValueCapC": 1000000,
-          "turnaroundBizDays": 10
-        },
-        "cgc10CostC": 300999,
-        "submissionFeeC": 59900,
-        "totalCostC": 360899,
-        "psa10ValueC": 549197,
-        "ratio": 1.5217470815934653
-      },
+      "ratio": null,
       "firstOpportunityAt": 1787055777278,
-      "updatedAt": 1787094577812
+      "updatedAt": 1787212943224
     },
     "prices": {
       "variantId": 2909,
-      "ungradedC": 25487,
-      "grade9C": 32100,
-      "grade95C": 35300,
+      "ungradedC": 20250,
+      "grade9C": 32550,
+      "grade95C": 35800,
       "cgc10C": 129950,
       "cgc10PristineC": 233900,
-      "psa10C": 549197,
+      "psa10C": 810926,
       "psa9Pop": 48,
       "psa10Pop": 1,
       "cgc10Pop": 7,
-      "bgs10C": 714000,
+      "bgs10C": 1054200,
       "salesVolumeJson": "{\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787054876662
+      "fetchedAt": 1787212802316
     },
     "listings": [
       {
         "itemId": "287450948217",
         "title": "Pokemon Meowth Skyridge 78/144 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
         "priceC": 300000,
-        "shippingC": 999,
-        "landedC": 300999,
-        "url": "https://www.ebay.com/itm/287450948217?_skw=%28meowth%29+%2878%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376541&itmmeta=01M0ACX2BPNJDBJ6KGSFTMSW4V&hash=item42ed696279:g:4BEAAeSwxLNqUApa&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDPyzhh3RvHehk%2BOCz00vJg--mWd8NfVr6cHR5umDmue9du%2Bx8SU3%2FJpNpDqjXl9TDqqQM9P9261k9FrOvHGj91JNSLvdvCYLzF891pHOggTFGOejI%2B5nOMotBUpOVo7zj%2FenYUir0ct7nXa6fkDpB7ofZcTAPTFQMvOJz3mPm58hzOFChYioRq%2B9cTIxzBDvI1sZI06sjshV1Qql%2FnGBcduZhcAEiq27umEsztEYFfNaFjDrV3i80%2BGwr0H1%2Bm5yAa8nkJkEWeeD2clqSxOJSG%7Ctkp%3ABk9SR4Sm9MyCaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/287450948217?_skw=%28meowth%29+%2878%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376541&itmmeta=01M0F30SZ7ATD1D2G27GFJ6WZ8&hash=item42ed696279:g:4BEAAeSwxLNqUApa&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDPyzhh3RvHehk%2BOCz00vJg--mWd8NfVr6cHR5umDmue5BnqtNFKMNg3O8CqwumlLopyMmoNl4HofL5KCJ5gjv7r99e4YDvG%2BIRa1LkB2QjAhsdAhf44soO7VkUQvF7jZDYGEQopgzF3E6nyHW8wiEo9CKOiHnrufE0dquBkRTgsb7LMA1bt4sD8DoQUdWwNXf21ikc7sGeFoIkvMiSQJi13N54MDB5reEe1O%2BnKp4Mwv7kV47ZyksWO5iAp7toFhGUaveXDbBZ1DtfhBMyudGQ%7Ctkp%3ABk9SR9qfg-ODaA",
         "imageUrl": "https://i.ebayimg.com/images/g/4BEAAeSwxLNqUApa/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787094577812
+        "lastSeen": 1787212943224
       }
     ],
     "marketHistory": {
@@ -1124,7 +1110,7 @@
       "monthlyPsa10": [],
       "englishSaleCount": 78,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787054874671
+      "lastCapturedAt": 1787212800738
     }
   }
 }

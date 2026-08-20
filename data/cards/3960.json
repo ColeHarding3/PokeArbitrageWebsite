@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 3960,
@@ -29,28 +29,28 @@
         "psa10Pop": 48,
         "cgc10Pop": 29,
         "salesVolumeJson": "{\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\",\"volume: 6 sales per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787060588633
+        "fetchedAt": 1787213832974
       },
       "bestCgc10": {
         "itemId": "188710601529",
         "title": "MAROWAK [KUSUBE ART POP 20s!] #7 REVERSE HOLO EX FIRE RED & LEAF GREEN CGC 10Opens in a new window or tab",
         "priceC": 68000,
-        "shippingC": 999,
-        "landedC": 68999,
-        "url": "https://www.ebay.com/itm/188710601529?_skw=%28marowak%29+%287%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=11043365933&itmmeta=01M0AJ9Q8N4MYY5S19A2RDF1XE&hash=item2bf0074339:g:7X0AAeSwwrlqaYVW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAb22LjPRxlqHF2cPUJGAuOKeAnbZAGLiO20EHX06T5Go3jRQaZnuWj4idYwJ%2FNdpBrwFVXQIcttjeIGE4in8H0cmh3ZnTP7PpLtdl5LSP9zFxiGoJ%2FB1xJBVPmPoVoUfr8Hpm7UqcQ8zmvkAvKnFXaHj3QmHI8Awnwu7sci0l4iiN8Yh9YToSEihTr7zd%2FLM5LuEjzG7UzDHwMb4aKLyjdrIdGNlRyCCVTVKihEonItO7s2UYA%2BuOMwk5OouWowtqz11D4en%2BchvkYGlpj8KhAizross9qxhu94ZgvJpXydlM4p6%2F6d1TkaPJDxFYkdYzS4ylsUwjA2GHBfcXyNH2I%7Ctkp%3ABk9SR9T0ptKCaA",
+        "shippingC": 0,
+        "landedC": 68000,
+        "url": "https://www.ebay.com/itm/188710601529?_skw=%28marowak%29+%287%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=11043365933&itmmeta=01M0F40VCPE5M90HHM262A12Q2&hash=item2bf0074339:g:7X0AAeSwwrlqaYVW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAb22LjPRxlqHF2cPUJGAuOKeAnbZAGLiO20EHX06T5Go3jRQaZnuWj4idYwJ%2FNdpBrwFVXQIcttjeIGE4in8H0cmh3ZnTP7PpLtdl5LSP9zFxiGoJ%2FB1xJBVPmPoVoUfppf5R3RBY%2FJ7Pbl6%2BkMcE2Tkm5evTTCdwqtBTGnlV9%2Fc1cnvO7XBP%2BS7%2Bd3SVIUc9lG3kjvu7W4Dt4paosawNqHxVPQ4o9HWbFfLS1bbDdEb8X3DH5PArIT90G2b29FLhL1stCHTEHdIYl4UXhSFElPdKwSudBPmo60mnqD%2FNPvMDW%2BPPaAEM5KeuEKOekfY4VECyhSU9Vqfbc8enZjMfF%7Ctkp%3ABk9SR862g-SDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7X0AAeSwwrlqaYVW/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
       },
       "bestPsa10": null,
       "bestPsa9": null,
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
-        "pristine10": 1,
+        "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
         "psa9Bin": 0
@@ -64,14 +64,14 @@
           "declaredValueCapC": 150000,
           "turnaroundBizDays": 50
         },
-        "cgc10CostC": 68999,
+        "cgc10CostC": 68000,
         "submissionFeeC": 7999,
-        "totalCostC": 76998,
+        "totalCostC": 75999,
         "psa10ValueC": 102500,
-        "ratio": 1.3312034078807242
+        "ratio": 1.3487019566046923
       },
       "firstOpportunityAt": 1787061354691,
-      "updatedAt": 1787094589964
+      "updatedAt": 1787213991251
     },
     "prices": {
       "variantId": 3960,
@@ -86,36 +86,22 @@
       "cgc10Pop": 29,
       "bgs10C": 133300,
       "salesVolumeJson": "{\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\",\"volume: 6 sales per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787060588633
+      "fetchedAt": 1787213832974
     },
     "listings": [
       {
         "itemId": "188710601529",
         "title": "MAROWAK [KUSUBE ART POP 20s!] #7 REVERSE HOLO EX FIRE RED & LEAF GREEN CGC 10Opens in a new window or tab",
         "priceC": 68000,
-        "shippingC": 999,
-        "landedC": 68999,
-        "url": "https://www.ebay.com/itm/188710601529?_skw=%28marowak%29+%287%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=11043365933&itmmeta=01M0AJ9Q8N4MYY5S19A2RDF1XE&hash=item2bf0074339:g:7X0AAeSwwrlqaYVW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAb22LjPRxlqHF2cPUJGAuOKeAnbZAGLiO20EHX06T5Go3jRQaZnuWj4idYwJ%2FNdpBrwFVXQIcttjeIGE4in8H0cmh3ZnTP7PpLtdl5LSP9zFxiGoJ%2FB1xJBVPmPoVoUfr8Hpm7UqcQ8zmvkAvKnFXaHj3QmHI8Awnwu7sci0l4iiN8Yh9YToSEihTr7zd%2FLM5LuEjzG7UzDHwMb4aKLyjdrIdGNlRyCCVTVKihEonItO7s2UYA%2BuOMwk5OouWowtqz11D4en%2BchvkYGlpj8KhAizross9qxhu94ZgvJpXydlM4p6%2F6d1TkaPJDxFYkdYzS4ylsUwjA2GHBfcXyNH2I%7Ctkp%3ABk9SR9T0ptKCaA",
+        "shippingC": 0,
+        "landedC": 68000,
+        "url": "https://www.ebay.com/itm/188710601529?_skw=%28marowak%29+%287%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=11043365933&itmmeta=01M0F40VCPE5M90HHM262A12Q2&hash=item2bf0074339:g:7X0AAeSwwrlqaYVW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAb22LjPRxlqHF2cPUJGAuOKeAnbZAGLiO20EHX06T5Go3jRQaZnuWj4idYwJ%2FNdpBrwFVXQIcttjeIGE4in8H0cmh3ZnTP7PpLtdl5LSP9zFxiGoJ%2FB1xJBVPmPoVoUfppf5R3RBY%2FJ7Pbl6%2BkMcE2Tkm5evTTCdwqtBTGnlV9%2Fc1cnvO7XBP%2BS7%2Bd3SVIUc9lG3kjvu7W4Dt4paosawNqHxVPQ4o9HWbFfLS1bbDdEb8X3DH5PArIT90G2b29FLhL1stCHTEHdIYl4UXhSFElPdKwSudBPmo60mnqD%2FNPvMDW%2BPPaAEM5KeuEKOekfY4VECyhSU9Vqfbc8enZjMfF%7Ctkp%3ABk9SR862g-SDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7X0AAeSwwrlqaYVW/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
-      },
-      {
-        "itemId": "397714051410",
-        "title": "CGC 10 PRISTINE Marowak EX Fire Red & Leaf Green 7/112 Reverse Holo PokemonOpens in a new window or tab",
-        "priceC": 149999,
-        "shippingC": 945,
-        "landedC": 150944,
-        "url": "https://www.ebay.com/itm/397714051410?_skw=%28marowak%29+%287%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=11043365933&itmmeta=01M0AJ9Q8NNNR0VPCSH0BGGN1C&hash=item5c999ad152:g:AqMAAeSwy8FptYxS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAOVAYFDIRD03qxXHkwnGlBVLh2uz9Yk%2FtaL038lejE%2FHoMB2YtKBDhn9nWtze%2Bl8%2BYylECOZUjwhSCsWZMYsWI9xC7w4dA%2Ft7vGFvlzJJNFZhuEV3l3S7kgqrpXbvtncnPDGhl5iE4B6WLYYRMPVj42FMla3KovMhypnS0oI2t2v9kR%2B7Yrn%2FZj86fnK0KkjLN6S9Mfnlq9sqyWlVynnCiZF7%2BR4%2BiYwQFZCElZ71miMcoLLFzliJRvPAXz5fNAFMSNqzAiQytIK1NtbhKFRwf%2F0z79tKckJt6OeVqLt4kRA%3D%3D%7Ctkp%3ABk9SR9T0ptKCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/AqMAAeSwy8FptYxS/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "pristine10",
-        "freshness": "live",
-        "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
       }
     ],
     "marketHistory": {
@@ -1770,7 +1756,7 @@
       ],
       "englishSaleCount": 124,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787060587206
+      "lastCapturedAt": 1787213830754
     }
   }
 }

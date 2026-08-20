@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 4874,
@@ -29,7 +29,7 @@
         "psa10Pop": 74,
         "cgc10Pop": 16,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 2 sales per month\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787087774113
+        "fetchedAt": 1787215919837
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -44,7 +44,7 @@
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787087774113
+      "updatedAt": 1787215919837
     },
     "prices": {
       "variantId": 4874,
@@ -59,7 +59,7 @@
       "cgc10Pop": 16,
       "bgs10C": 208000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 2 sales per month\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787087774113
+      "fetchedAt": 1787215919837
     },
     "listings": [
       {
@@ -137,6 +137,19 @@
           "priceC": 8968,
           "title": "Gardevoir 6/113 - ex Delta Species Stamped Reverse Holo Rare Pokemon TCG HP 6/113",
           "url": "https://www.ebay.com/itm/178328711145?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 1406662,
+          "saleDate": "2026-08-02",
+          "priceC": 30000,
+          "title": "2005 Pokemon Gardevoir Reverse Foil EX Delta Species Stamped 6/113 - Near mint + 6/113",
+          "url": "https://www.ebay.com/itm/800310558677?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1625,19 +1638,6 @@
           "gradingGrade": 7,
           "gradingDesignation": "nm-mt",
           "agreementStatus": "match"
-        },
-        {
-          "id": 639059,
-          "saleDate": "2024-02-12",
-          "priceC": 3999,
-          "title": "CGC 7 NM Gardevoir 6/113 EX Delta Species REVERSE HOLO Pokemon Card 206",
-          "url": "https://www.ebay.com/itm/276302585987?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 7,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1752,9 +1752,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 143,
+      "englishSaleCount": 144,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787087772127
+      "lastCapturedAt": 1787215917204
     }
   }
 }

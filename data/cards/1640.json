@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 1640,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/090c1b32ed3e1a17e613bb609e9181fea58a4abf34195f4db504b94581a13cdd/1600.jpg",
       "popularityScore": 75,
       "market": {
-        "ungradedC": 12149,
-        "grade9C": 50000,
-        "grade95C": 55000,
-        "cgc10C": 235680,
-        "cgc10PristineC": 424200,
+        "ungradedC": 11659,
+        "grade9C": 55567,
+        "grade95C": 61100,
+        "cgc10C": 235197,
+        "cgc10PristineC": 423400,
         "psa10C": 350000,
         "bgs10C": 455000,
         "psa9Pop": 404,
         "psa10Pop": 43,
         "cgc10Pop": 13,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787047213902
+        "fetchedAt": 1787211481204
       },
       "bestCgc10": {
         "itemId": "278204118266",
@@ -37,13 +37,13 @@
         "priceC": 130000,
         "shippingC": 0,
         "landedC": 130000,
-        "url": "https://www.ebay.com/itm/278204118266?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M0DNEPTXHDYANKBSXSHGRKGX&hash=item40c641f4fa:g:~jcAAeSwb-JqDzO2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAiUl8fpSfNDAOyl9K7LQDAXqh6C5vlWATrHWu4kQt2nb9Mi2wztOA252ORuiP4d9v%2FYfrR5I%2Bvvktv4wsKZnCbxwkpFq%2BXSnQtGwGiDFZBTRetAmsbz41b3yIUTovVKwYNE%2Bn1B3r%2FPQqBQ7oa%2FyCi%2BZ%2Bztqk5Wbequ8imXQhhF9fT9RhHN0BfC5K7t%2Fbpx7B4HMkggGQN52R6ADkhwdEH5s8iQNQakAxCFOgCYEszjXJ4ZYbKCB2Z2KC5u5mdZ7T0AXHTYJ2K8pOHlVgDs%2Bzm%7Ctkp%3ABk9SR9DuurWDaA",
+        "url": "https://www.ebay.com/itm/278204118266?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M0FG7T7D7E7SPATFR4RJQTFX&hash=item40c641f4fa:g:~jcAAeSwb-JqDzO2&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAqjcsplTU35M8MDEm60MUZ8%2Fki62v0x1dwtQEqxvJKvkT%2FWYlLN8ETWmLiBW50yAoaroVDrINWU%2BFTNcfBpNFwlsJEUODDN7DQpKuS6ZS825cC38%2B9D2LiSJELn7%2BkIWbFl0w%2FhtXyb2Nfnf8bfi0UjdpfhH72HS0FCbP1mCLLG54fkQk8%2F4A4GZt%2BTgYfrqvNY5yT9yX%2BzUNX5yBDFkojaNgtTlKH3q4vY7vO5879sbbUDSvIksM0CdBgYQCAkXxNmoyFR0QzFSaBBCOnRRWVGg8Jb9gOHhvnLaEcC3JG41gfKRf%2BUoORtbGHEoDXSUA%3D%7Ctkp%3ABk9SR7Kkn_CDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~jcAAeSwb-JqDzO2/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787048058606,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       "bestPsa10": null,
       "bestPsa9": {
@@ -52,13 +52,13 @@
         "priceC": 59999,
         "shippingC": 999,
         "landedC": 60998,
-        "url": "https://www.ebay.com/itm/287416431145?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M0DNEPTVNCX98H9D2VK12WF0&hash=item42eb5ab229:g:GjEAAeSwEiJqPCAf&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCPSN4n6ZLqSs8nbwJExEFdzqoSxwbMZcoMV268iAYQ05kbEIVNcxoWvbnzYFuMp2Xjm2qKny%2F4RDoWXPqW3oL59Mb10q2uSHbIrTUEJqFFLdSpDxGqu9%2FlAi%2FDin0gREy56Fl77QzNFRP2WRtgAoZKwAF7i%2BPyrBUdtvbbkh5L%2BJ3VdqKYNkP2uXqoHYmL%2FHMm0ebqn%2BM6BQj57JkNyWfRrM8McvPZe9aJaPKHtZYOLFBY3pwKSSju59szFEUNTRyyRNxJG64EnR3pS56B8m3U%7Ctkp%3ABk9SR8ruurWDaA",
+        "url": "https://www.ebay.com/itm/287416431145?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M0FG7T7CSN453R9D5W7P82A8&hash=item42eb5ab229:g:GjEAAeSwEiJqPCAf&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCPSN4n6ZLqSs8nbwJExEFdzqoSxwbMZcoMV268iAYQ02syivYdVkrDU4lGyfj4f0UH87MghnI2c939H8C8XO4WIFlO3fVgHSqX7CXNwld6RDY8aLYHsKgbBBxt2FEJ4Zfv3qG6oElU3iHgwDSZHTqeXJqYfpiPInO%2BuXNkCb28C%2BF83ayWZI4LvUTS%2F1ivV7HTXeV5ce5td8ykANiwkE5Q0mIa3hj7XYBmn%2FySa2lFett1tgcO9vz5BcoMd6G%2BGaQbd87ONA2g9vmPmwuHtSW7%7Ctkp%3ABk9SR66kn_CDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GjEAAeSwEiJqPCAf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787048058606,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       "counts": {
         "cgc10Bin": 3,
@@ -84,22 +84,22 @@
         "ratio": 2.1224984839296543
       },
       "firstOpportunityAt": 1787048058606,
-      "updatedAt": 1787165573087
+      "updatedAt": 1787227384326
     },
     "prices": {
       "variantId": 1640,
-      "ungradedC": 12149,
-      "grade9C": 50000,
-      "grade95C": 55000,
-      "cgc10C": 235680,
-      "cgc10PristineC": 424200,
+      "ungradedC": 11659,
+      "grade9C": 55567,
+      "grade95C": 61100,
+      "cgc10C": 235197,
+      "cgc10PristineC": 423400,
       "psa10C": 350000,
       "psa9Pop": 404,
       "psa10Pop": 43,
       "cgc10Pop": 13,
       "bgs10C": 455000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787047213902
+      "fetchedAt": 1787211481204
     },
     "listings": [
       {
@@ -108,13 +108,13 @@
         "priceC": 59999,
         "shippingC": 999,
         "landedC": 60998,
-        "url": "https://www.ebay.com/itm/287416431145?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M0DNEPTVNCX98H9D2VK12WF0&hash=item42eb5ab229:g:GjEAAeSwEiJqPCAf&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCPSN4n6ZLqSs8nbwJExEFdzqoSxwbMZcoMV268iAYQ05kbEIVNcxoWvbnzYFuMp2Xjm2qKny%2F4RDoWXPqW3oL59Mb10q2uSHbIrTUEJqFFLdSpDxGqu9%2FlAi%2FDin0gREy56Fl77QzNFRP2WRtgAoZKwAF7i%2BPyrBUdtvbbkh5L%2BJ3VdqKYNkP2uXqoHYmL%2FHMm0ebqn%2BM6BQj57JkNyWfRrM8McvPZe9aJaPKHtZYOLFBY3pwKSSju59szFEUNTRyyRNxJG64EnR3pS56B8m3U%7Ctkp%3ABk9SR8ruurWDaA",
+        "url": "https://www.ebay.com/itm/287416431145?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M0FG7T7CSN453R9D5W7P82A8&hash=item42eb5ab229:g:GjEAAeSwEiJqPCAf&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCPSN4n6ZLqSs8nbwJExEFdzqoSxwbMZcoMV268iAYQ02syivYdVkrDU4lGyfj4f0UH87MghnI2c939H8C8XO4WIFlO3fVgHSqX7CXNwld6RDY8aLYHsKgbBBxt2FEJ4Zfv3qG6oElU3iHgwDSZHTqeXJqYfpiPInO%2BuXNkCb28C%2BF83ayWZI4LvUTS%2F1ivV7HTXeV5ce5td8ykANiwkE5Q0mIa3hj7XYBmn%2FySa2lFett1tgcO9vz5BcoMd6G%2BGaQbd87ONA2g9vmPmwuHtSW7%7Ctkp%3ABk9SR66kn_CDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GjEAAeSwEiJqPCAf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787048058606,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "278204118266",
@@ -122,13 +122,13 @@
         "priceC": 130000,
         "shippingC": 0,
         "landedC": 130000,
-        "url": "https://www.ebay.com/itm/278204118266?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M0DNEPTXHDYANKBSXSHGRKGX&hash=item40c641f4fa:g:~jcAAeSwb-JqDzO2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAiUl8fpSfNDAOyl9K7LQDAXqh6C5vlWATrHWu4kQt2nb9Mi2wztOA252ORuiP4d9v%2FYfrR5I%2Bvvktv4wsKZnCbxwkpFq%2BXSnQtGwGiDFZBTRetAmsbz41b3yIUTovVKwYNE%2Bn1B3r%2FPQqBQ7oa%2FyCi%2BZ%2Bztqk5Wbequ8imXQhhF9fT9RhHN0BfC5K7t%2Fbpx7B4HMkggGQN52R6ADkhwdEH5s8iQNQakAxCFOgCYEszjXJ4ZYbKCB2Z2KC5u5mdZ7T0AXHTYJ2K8pOHlVgDs%2Bzm%7Ctkp%3ABk9SR9DuurWDaA",
+        "url": "https://www.ebay.com/itm/278204118266?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M0FG7T7D7E7SPATFR4RJQTFX&hash=item40c641f4fa:g:~jcAAeSwb-JqDzO2&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAqjcsplTU35M8MDEm60MUZ8%2Fki62v0x1dwtQEqxvJKvkT%2FWYlLN8ETWmLiBW50yAoaroVDrINWU%2BFTNcfBpNFwlsJEUODDN7DQpKuS6ZS825cC38%2B9D2LiSJELn7%2BkIWbFl0w%2FhtXyb2Nfnf8bfi0UjdpfhH72HS0FCbP1mCLLG54fkQk8%2F4A4GZt%2BTgYfrqvNY5yT9yX%2BzUNX5yBDFkojaNgtTlKH3q4vY7vO5879sbbUDSvIksM0CdBgYQCAkXxNmoyFR0QzFSaBBCOnRRWVGg8Jb9gOHhvnLaEcC3JG41gfKRf%2BUoORtbGHEoDXSUA%3D%7Ctkp%3ABk9SR7Kkn_CDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~jcAAeSwb-JqDzO2/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787048058606,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "287136299629",
@@ -136,13 +136,13 @@
         "priceC": 150000,
         "shippingC": 999,
         "landedC": 150999,
-        "url": "https://www.ebay.com/itm/287136299629?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M0DNEPTX4QTJQNSCQKGMJFZS&hash=item42daa83a6d:g:U-kAAeSwDwtpjM~B&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCEpxl8axrbmi8r7SSJKWdGVCizOfoX7rwTMyQ3wZMmVvJnutFmRLIAIOmsTDhOk5B1YzVGUoFKCJxEI%2FFVd5D84PbnajsqyEHnMaOAyqTVHkLoZrqogQhMN7NfKvnG5u6dqOli25BaBguHK8svbzdJdKr83gHM4F6uBNysgEqep0SUOrueIttU7J4NORc4r9JdIzKSVt14U77WfoTqEER3I66npRbEoHPnDrwwggwNsG359nV27G71%2FwK1Tfpa0YHwZvYtT8POd5L5vWsZ9uKz%7Ctkp%3ABk9SR9DuurWDaA",
+        "url": "https://www.ebay.com/itm/287136299629?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M0FG7T7ESHAHKSMRVN197N7F&hash=item42daa83a6d:g:U-kAAeSwDwtpjM~B&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCEpxl8axrbmi8r7SSJKWdGVCizOfoX7rwTMyQ3wZMmVhUr1qXBBSmL3WMmL3WaQmwxn4QpmcSFZJspJC8Dj9MdLhX6JTPaJ1zqLF7cevVZ7nMnnsAIzUz9IeScmjrG8NUnVfS1AmnnuHw8aiBoUleXo2USfm%2FfVe0rdKM5Qz5ar7A9LYMKrt9PZZhty1spLDgb1w5r2y5RDDFNIb1NmYSfYbY68ahlPfTa7abh76k95x9iftQaATy%2BseBisnexKirI6qYeGhW1qGfJvqVonEhQ%7Ctkp%3ABk9SR7Skn_CDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/U-kAAeSwDwtpjM~B/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787048058606,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "318643630210",
@@ -150,17 +150,30 @@
         "priceC": 250000,
         "shippingC": 1500,
         "landedC": 251500,
-        "url": "https://www.ebay.com/itm/318643630210?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=6097408114&itmmeta=01M0DNEY8CAXW8KBF7JZYPAKSC&hash=item4a30a3f082:g:W54AAeSwzOhqZ9uJ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCvQMU982qdN0KzSx%2FxaidJFRAtcK8raNsr9IkUoP8pDJgT%2BupN00tcSMSNPed%2B1pF217Sc38PPVGW86kybD1XqveD8CarpV2ShuQjIaTYPS%2BVTChCnfXRo5gNTh7xxh56qj%2FR3UIaMu99QhCg9zv%2BVGDyFCvAbdj8l3keLp%2FG3EI3pRb7IlAbPVUkEgCJ2CqSX8%2BdBjjbc8CiwHqY9Solkq0Jfxpd9aK1FAUp%2Bd%2BrKXjTlqeTK2xuSIotAf5MFmFQkGvQPEamQGa4QAOQNM0Xi%7Ctkp%3ABk9SR6jku7WDaA",
+        "url": "https://www.ebay.com/itm/318643630210?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=6097408114&itmmeta=01M0FG856G258JQRQ2NYHBTPWZ&hash=item4a30a3f082:g:W54AAeSwzOhqZ9uJ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDpKane8cNcbS0kiFt2hxd%2B7zK9RjVizxPhkza%2FwdzXbeHF%2FSnyDfhNCdxVv0JGfOJYQm0buO2l%2FN2X8QpgbCuIBrbAguyfEXUaeciNE1B1ZyDmCHhhCJErcSSeq7k435pvVskM15apk3PIl8rKE4JJ1mLmm09ohG9R%2FEPfrpRGkcqSqP5Qr1q1zEXXbvT7w8Mv1x6sOrkBl6GlRYK6wHD9HNty7GE18F5fKHELNgy2dVPr%2BbcuEkfqVBqYpb%2Fepzbpi0vOiuDk8vsGoFMLuYPqHAwT6rqYzV7PVSc%2Fhp%2BCMHlqgNMgHF7iVh%2FhYY4%2FT1M%3D%7Ctkp%3ABk9SR8LToPCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/W54AAeSwzOhqZ9uJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094602715,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 1037289,
+          "saleDate": "2026-08-20",
+          "priceC": 315000,
+          "title": "2001 POKEMON NEO REVELATION #3 CELEBI-HOLO PSA 10 #3",
+          "url": "https://www.ebay.com/itm/298579965739?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 10,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 283624,
           "saleDate": "2026-08-18",
@@ -1707,19 +1720,6 @@
           "gradingGrade": 3,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 283650,
-          "saleDate": "2026-04-12",
-          "priceC": 9499,
-          "title": "Pokemon - Celebi- Unlimited Holo #3/64 - Neo Revelation 2001 - CGC 8.5 NM #**",
-          "url": "https://www.ebay.com/itm/388960518425?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8.5,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "mismatch"
         }
       ],
       "monthlyPsa10": [
@@ -1817,11 +1817,16 @@
           "month": "2026-07",
           "medianC": 430000,
           "count": 1
+        },
+        {
+          "month": "2026-08",
+          "medianC": 315000,
+          "count": 1
         }
       ],
-      "englishSaleCount": 267,
+      "englishSaleCount": 268,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787047212247
+      "lastCapturedAt": 1787211479096
     }
   }
 }

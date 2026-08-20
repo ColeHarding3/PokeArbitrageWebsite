@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 4853,
@@ -18,9 +18,9 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/410022de9fbcb62e8dd209a4aa89e7c53df557fed639df87c7fbca0eb604d5ba/1600.jpg",
       "popularityScore": 84,
       "market": {
-        "ungradedC": 8313,
-        "grade9C": 35500,
-        "grade95C": 39100,
+        "ungradedC": 8500,
+        "grade9C": 32570,
+        "grade95C": 35800,
         "cgc10C": 39000,
         "cgc10PristineC": 168600,
         "psa10C": 162500,
@@ -29,7 +29,7 @@
         "psa10Pop": 103,
         "cgc10Pop": 18,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787087703863
+        "fetchedAt": 1787215864612
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -44,13 +44,13 @@
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787087703863
+      "updatedAt": 1787215864612
     },
     "prices": {
       "variantId": 4853,
-      "ungradedC": 8313,
-      "grade9C": 35500,
-      "grade95C": 39100,
+      "ungradedC": 8500,
+      "grade9C": 32570,
+      "grade95C": 35800,
       "cgc10C": 39000,
       "cgc10PristineC": 168600,
       "psa10C": 162500,
@@ -59,22 +59,22 @@
       "cgc10Pop": 18,
       "bgs10C": 211300,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787087703863
+      "fetchedAt": 1787215864612
     },
     "listings": [
       {
         "itemId": "298580487535",
         "title": "2025 Pokemon Play! Prize Pack #7 Prismatic Evolutions Jolteon ex CGC 10Opens in a new window or tab",
         "priceC": 99,
-        "shippingC": 895,
-        "landedC": 994,
-        "url": "https://www.ebay.com/itm/298580487535?_skw=%28jolteon%2Cdelta%29+%287%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&itmmeta=01M0BDCY8TD80V1TCJP0CQ44MA&hash=item4584c8ad6f:g:SqIAAeSw5UJqe-CT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAz1WnOwjDAzJYjJWgexFZ034ySH0lHIqa8zcIjh%2B55Hnr1uZ1HMd3nyum3y%2FaoC%2Bd6p73vY6pMbzftjJjYXysYDQzX%2B3D7PNXAsdqio4p2GHEZyNmwTk%2BGOPiot9RPWNooF5PCmQUjQZEOuXMA18arbO2NLBygTp8Ejp5uO4T9Mf0PQzs%2FabB%2Bcc0NN2FohKszWbqLDbZwuhnoVKKzg8snNQytWxxX%2FHKei7nfODfl8bVXL4EPqnt0g0QzfFud2%2F4kZ8%2FasYpff5qj0448cs%2FPvSkEsxAa%2FPyI3w7V5371yvBOGngZnyx%2B9Di32Se5hkUr4zlAPwxQaBOdOwmQBt3h%7Ctkp%3ABk9SR5Dls-2CaA",
+        "shippingC": 945,
+        "landedC": 1044,
+        "url": "https://www.ebay.com/itm/298580487535?_skw=%28jolteon%2Cdelta%29+%287%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&itmmeta=01M0FGSNH1F59WPVEA0854708K&hash=item4584c8ad6f:g:SqIAAeSw5UJqe-CT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAz1WnOwjDAzJYjJWgexFZ034ySH0lHIqa8zcIjh%2B55Hnr1uZ1HMd3nyum3y%2FaoC%2Bd6p73vY6pMbzftjJjYXysYDQzX%2B3D7PNXAsdqio4p2GHEZyNmwTk%2BGOPiot9RPWNrtiz%2B7KbuPCc%2FsC71bPQLgyQjgomyri2HF2TGTra20sVpnJmuYwTBEuEs6EfLHGm2k%2BRjeDP07F9dM%2FKr9q29sprtn9%2BTaRm%2FGoBh%2FUAZjeXor3XOeExETFWcMjiMg%2Ff7iR37t1LkoYYWtQyTgLt2l4hOAy9DlvfBIKl5j0U2ymyvki6SbHRKulVBNLd3WjCUl9XdaGfboMGVzeSV%2BbFTV%7Ctkp%3ABk9SR_rY5vCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/SqIAAeSw5UJqe-CT/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787094580234
+        "lastSeen": 1787227384326
       }
     ],
     "marketHistory": {
@@ -1754,7 +1754,7 @@
       ],
       "englishSaleCount": 203,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787087702459
+      "lastCapturedAt": 1787215862944
     }
   }
 }

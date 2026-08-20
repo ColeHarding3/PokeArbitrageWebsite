@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 1994,
@@ -29,7 +29,7 @@
         "psa10Pop": 12,
         "cgc10Pop": 11,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787049822698
+        "fetchedAt": 1787211957074
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -44,7 +44,7 @@
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787049822698
+      "updatedAt": 1787211957074
     },
     "prices": {
       "variantId": 1994,
@@ -59,22 +59,22 @@
       "cgc10Pop": 11,
       "bgs10C": 194000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787049822698
+      "fetchedAt": 1787211957074
     },
     "listings": [
       {
         "itemId": "287524901465",
         "title": "Pokemon Meowth Legendary Coll. 53/110 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 10250,
+        "priceC": 22250,
         "shippingC": 999,
-        "landedC": 11249,
-        "url": "https://www.ebay.com/itm/287524901465?_skw=%28meowth%29+%2853%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369392&itmmeta=01M0A87VJXG6BKP3QHJERV9FEX&hash=item42f1d1d259:g:B5YAAeSwjgRqfyov&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDAZoJRmMv0wj9tV%2BaqyNgdxXw1DNWTo6%2FTphkL7sGM%2BvQuwQG%2BjflxneEraQN0j37HwA8KGbBlNpe21W09g%2BMgdtuE0%2F6t6PgKzPJ2vb93YxQnI4LH9nPXmSdsy5aHcIo4scjFsNNZtHpCc6g1X%2BSL6WBHAwUcSyRjDtZjJwHofF%2BkfPQvVrO4Xzxw2zDsEW1WU9yGHF46mdCdwn0qoY22HN%2FFhyq%2F2D5KzzZwJepWwUDwmHwaX70sqEI5MKw71P5HRZsKPAHdtvjbcfQIzwt0xUrR7hfWY7oqsP22lYGm4A%3D%3D%7Ctkp%3ABk9SR9y5n8iCaA",
+        "landedC": 23249,
+        "url": "https://www.ebay.com/itm/287524901465?_skw=%28meowth%29+%2853%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369392&itmmeta=01M0F27S3Q03D8BHZ2GA0R36E3&hash=item42f1d1d259:g:B5YAAeSwjgRqfyov&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAKHAxu6%2BASk5Acqv2KtYM%2FF7JSgLvr6ojBWP5%2Biv1NMZ8yd3HESwPrB4dQz6ftaZdPTcJMw5SSYIieU7kbmPbS6WNTCvHvmU6AbseElineZf47%2F2%2BkNZDmNTxj0ehnhXhbOeTSoE7t%2FJ78jxGGnrNr2%2FJmj%2BV9PE5oGz0wzWLoVPtA8N32YOFJRH1VwL6q%2Bmo9lHKHYyzz6qFdoZGRjc2uQnedpRdI01aksId0kQNNmyYGl0AJt3CDgG9YwKcIoutpWS4tOJIRHauDTfoMRjh1F4Cj9UkEYxWgVIHYXrwkkSi1M1pBSCxqcQMcsvxDq%2FaVU87kJHVsWETVzph4dPOv%7Ctkp%3ABk9SR5aSn-KDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/B5YAAeSwjgRqfyov/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787094567887
+        "lastSeen": 1787212132335
       }
     ],
     "marketHistory": {
@@ -1654,7 +1654,7 @@
       ],
       "englishSaleCount": 173,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787049820934
+      "lastCapturedAt": 1787211955434
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 1316,
@@ -19,8 +19,8 @@
       "popularityScore": 79,
       "market": {
         "ungradedC": 9410,
-        "grade9C": 30404,
-        "grade95C": 33400,
+        "grade9C": 30763,
+        "grade95C": 33800,
         "cgc10C": 484000,
         "cgc10PristineC": 871200,
         "psa10C": 806700,
@@ -29,7 +29,7 @@
         "psa10Pop": 22,
         "cgc10Pop": 19,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787045051884
+        "fetchedAt": 1787211039048
       },
       "bestCgc10": {
         "itemId": "178213852932",
@@ -51,17 +51,17 @@
         "priceC": 3499700,
         "shippingC": 19000,
         "landedC": 3518700,
-        "url": "https://www.ebay.com/itm/327316777061?_skw=%28feraligatr%29+%285%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=23043383429&itmmeta=01M0DNCM736NWZG1DJDM7ZBDHD&hash=item4c3599a865:g:HDIAAeSwGEZqhONw&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xACbC810gVdWMEgg5uPBvh05AxMQzjIuu7eAPRMecZ1x4SE6JRjXYPueYLai3X4y4uuMIwhhJrJgc2nEUbfQiE1SCf2%2FAHDes5R3uw%2BkngWruf7Bz%2BWTLym61VvSJ6A6usHUwKTAB2CH%2FIctf%2Fuk%2FPFGu1SXuYN3D0maeRnbP35WB4MP5CcQatEVcOfBqtOmHKuy6uR4h%2FWRVn4TG7ODcR5mMutUf5%2FcLkIjm4r%2F9DfUVzbvPTKA8BYQ5%2Fq9AQ%2BZk3ySKRpivJ9TjDsy0gTPYD1ITwPF4dd85dtYoImebb3ja84p26hhoUCegJknFnXlnTINeN2bvALkNa%2BkIvaXbq3%7Ctkp%3ABk9SR_zEsrWDaA",
+        "url": "https://www.ebay.com/itm/327316777061?_skw=%28feraligatr%29+%285%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=23043383429&itmmeta=01M0FG53PNP9FEABJSNWA2WBHQ&hash=item4c3599a865:g:HDIAAeSwGEZqhONw&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xACbC810gVdWMEgg5uPBvh05AxMQzjIuu7eAPRMecZ1x4SE6JRjXYPueYLai3X4y4uuMIwhhJrJgc2nEUbfQiE1SCf2%2FAHDes5R3uw%2BkngWruf7Bz%2BWTLym61VvSJ6A6uttji7kWt5uTiusa%2B7dUOFfiw0wjAoxEhfygbR9U%2FgYjayJyvxnLfQ9ofxf7e9%2FlDz9JBp2B%2Fnvhgexjx8fXGlcuUVB7SP%2BHyfT2EiJiqHG379up9ACYDxiGW6cVFxiGyyMPHxkq9%2Bioqj6GMJS6vLr0G%2B1lx0HfoeDJFX17%2Bhg1oj8LTlKqkc5iMWB7I44uCxyyPZ38FSbv11DhiHNk1q9%7Ctkp%3ABk9SR-67lPCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HDIAAeSwGEZqhONw/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       "bestPsa9": null,
       "counts": {
-        "cgc10Bin": 2,
+        "cgc10Bin": 3,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 1,
@@ -84,13 +84,13 @@
         "ratio": 7.300716768027802
       },
       "firstOpportunityAt": 1787094598564,
-      "updatedAt": 1787165573087
+      "updatedAt": 1787227384326
     },
     "prices": {
       "variantId": 1316,
       "ungradedC": 9410,
-      "grade9C": 30404,
-      "grade95C": 33400,
+      "grade9C": 30763,
+      "grade95C": 33800,
       "cgc10C": 484000,
       "cgc10PristineC": 871200,
       "psa10C": 806700,
@@ -99,7 +99,7 @@
       "cgc10Pop": 19,
       "bgs10C": 1048700,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787045051884
+      "fetchedAt": 1787211039048
     },
     "listings": [
       {
@@ -117,18 +117,32 @@
         "lastSeen": 1787165573087
       },
       {
+        "itemId": "178343679408",
+        "title": "CGC 9.5 MINT+ Feraligatr 5/111 Holo 2000 Pokemon Neo Genesis Pop 7Opens in a new window or tab",
+        "priceC": 49999,
+        "shippingC": 597,
+        "landedC": 50596,
+        "url": "https://www.ebay.com/itm/178343679408?_skw=%28feraligatr%29+%285%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=23043383429&itmmeta=01M0FG4Q36QGJ8WGD5EX0R6PHN&hash=item29861c95b0:g:skUAAeSwf4JqZThs&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDl7aqrUvcZRiKSZVVOVcWSD17u%2BA4msR9IOiI1ZW0Wltkwk61MTTH24PDVYaFylcLQ%2BBIBugFxA7Q5FWFQXvm7LfFqzeTPz97H5kuFPzbPf8xdjxqzEhivZzTaYhuppi1WoN122VL5Hp1kF1lML62ElHZqYMxaA23Nm4TXuiKh2vc%2BIHi09WZpLIosNvJ7rh1l50eJWNdqY91R5znyTDKH6Wa%2BKcfTDUCqQp6zFsBREUn%2Btjlu07b7Qk2nRkGxPhwiIeoNckAxQv%2BEm0AI5ik4nIsj%2F2vbmWRAg6Eaf3eZYfI6pyX5Svhs614d95KPiliVskrpaI8SEVa%2FGRABvGcd%7Ctkp%3ABk9SR_bxkvCDaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/skUAAeSwf4JqZThs/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787211216789,
+        "lastSeen": 1787227384326
+      },
+      {
         "itemId": "177967766867",
         "title": "Feraligatr 5/111 Neo Genesis, holo rare, CGC 10, Pokémon, 2000 POPULATION 17Opens in a new window or tab",
         "priceC": 100000,
         "shippingC": 624,
         "landedC": 100624,
-        "url": "https://www.ebay.com/itm/177967766867?_skw=%28feraligatr%29+%285%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=23043383429&itmmeta=01M0DNCM71J6PANHGNXAWDREWV&hash=item296fb49d53:g:Z3wAAeSw635puNMx&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBfZK36ly%2BUPvoW0XMoJSCVAH85bOTgN6cc3UAtHN6IZmNALRtyK3zVTpqh1XyvyOmwLPUcyeXPgXQ%2BuNBNuEn8Xfd8DP%2BFBmY2gKDoT5ihhmkFbIjfG%2FL%2BUPDab0vtR647ROO8FKwPrxOrPr%2FM5CyCrtFlqYtZ0NPQQtA29C2jHVFM0MMuaQ3d9k1XUIwzZ0n3xMP%2B1zp8I4jkWZskYe%2BmwdmXI3ZD%2FEVV8TljfJA1h0uRP9IXuM%2BPAM0Z1GqpbKKYx33NKYMCYlHn0gMcfDmsGOirMERkqAG%2FoI5KdFiFG1SFppu73QLAI04jDL%2BvjY0%3D%7Ctkp%3ABk9SR_jEsrWDaA",
+        "url": "https://www.ebay.com/itm/177967766867?_skw=%28feraligatr%29+%285%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=23043383429&itmmeta=01M0FG53PM75GQ8299SRERT7Z9&hash=item296fb49d53:g:Z3wAAeSw635puNMx&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBfZK36ly%2BUPvoW0XMoJSCVAH85bOTgN6cc3UAtHN6IZmNALRtyK3zVTpqh1XyvyOmwLPUcyeXPgXQ%2BuNBNuEn8Xfd8DP%2BFBmY2gKDoT5ihhmkFbIjfG%2FL%2BUPDab0vtR65iCx1x8jVGHZi3YabvBOxLfJLfsXlNq%2FYgwFudReXZMsrdf5K8WaP7L8aaf6qcJEQg6LYm2BlTBdY5VM8U8JStrc7VP9VeTWl3UiY%2B2S35J81dhG405vEq82B7OqTZQz3XqpSEvh2Ete32MuQZpCFvz%2FHLBZOrEFh%2BL%2FGaRiovr8FhwkomTMeyvnuK4Wa3Z6A%3D%7Ctkp%3ABk9SR-i7lPCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Z3wAAeSw635puNMx/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "327316777061",
@@ -136,13 +150,13 @@
         "priceC": 3499700,
         "shippingC": 19000,
         "landedC": 3518700,
-        "url": "https://www.ebay.com/itm/327316777061?_skw=%28feraligatr%29+%285%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=23043383429&itmmeta=01M0DNCM736NWZG1DJDM7ZBDHD&hash=item4c3599a865:g:HDIAAeSwGEZqhONw&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xACbC810gVdWMEgg5uPBvh05AxMQzjIuu7eAPRMecZ1x4SE6JRjXYPueYLai3X4y4uuMIwhhJrJgc2nEUbfQiE1SCf2%2FAHDes5R3uw%2BkngWruf7Bz%2BWTLym61VvSJ6A6usHUwKTAB2CH%2FIctf%2Fuk%2FPFGu1SXuYN3D0maeRnbP35WB4MP5CcQatEVcOfBqtOmHKuy6uR4h%2FWRVn4TG7ODcR5mMutUf5%2FcLkIjm4r%2F9DfUVzbvPTKA8BYQ5%2Fq9AQ%2BZk3ySKRpivJ9TjDsy0gTPYD1ITwPF4dd85dtYoImebb3ja84p26hhoUCegJknFnXlnTINeN2bvALkNa%2BkIvaXbq3%7Ctkp%3ABk9SR_zEsrWDaA",
+        "url": "https://www.ebay.com/itm/327316777061?_skw=%28feraligatr%29+%285%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=23043383429&itmmeta=01M0FG53PNP9FEABJSNWA2WBHQ&hash=item4c3599a865:g:HDIAAeSwGEZqhONw&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xACbC810gVdWMEgg5uPBvh05AxMQzjIuu7eAPRMecZ1x4SE6JRjXYPueYLai3X4y4uuMIwhhJrJgc2nEUbfQiE1SCf2%2FAHDes5R3uw%2BkngWruf7Bz%2BWTLym61VvSJ6A6uttji7kWt5uTiusa%2B7dUOFfiw0wjAoxEhfygbR9U%2FgYjayJyvxnLfQ9ofxf7e9%2FlDz9JBp2B%2Fnvhgexjx8fXGlcuUVB7SP%2BHyfT2EiJiqHG379up9ACYDxiGW6cVFxiGyyMPHxkq9%2Bioqj6GMJS6vLr0G%2B1lx0HfoeDJFX17%2Bhg1oj8LTlKqkc5iMWB7I44uCxyyPZ38FSbv11DhiHNk1q9%7Ctkp%3ABk9SR-67lPCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HDIAAeSwGEZqhONw/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       }
     ],
     "marketHistory": {
@@ -1717,7 +1731,7 @@
       ],
       "englishSaleCount": 253,
       "excludedLanguageCount": 3,
-      "lastCapturedAt": 1787045050220
+      "lastCapturedAt": 1787211037072
     }
   }
 }

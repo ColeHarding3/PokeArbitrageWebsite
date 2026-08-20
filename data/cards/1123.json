@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 1123,
@@ -18,9 +18,9 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/7001fe2bb2c7b3af85355971e5b7efcda2f96d9a6e3d42a42ecccf44eee49a9b/1600.jpg",
       "popularityScore": 91,
       "market": {
-        "ungradedC": 8100,
-        "grade9C": 30847,
-        "grade95C": 34372,
+        "ungradedC": 9302,
+        "grade9C": 32049,
+        "grade95C": 34417,
         "cgc10C": 36500,
         "cgc10PristineC": 199900,
         "psa10C": 256200,
@@ -28,8 +28,8 @@
         "psa9Pop": 637,
         "psa10Pop": 69,
         "cgc10Pop": 53,
-        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787043846868
+        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    4 sales per year\"}",
+        "fetchedAt": 1787210822289
       },
       "bestCgc10": {
         "itemId": "336738072591",
@@ -37,13 +37,13 @@
         "priceC": 47999,
         "shippingC": 0,
         "landedC": 47999,
-        "url": "https://www.ebay.com/itm/336738072591?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=14043372157&itmmeta=01M0DNB40R1TDVZXXS88C39JFM&hash=item4e6727380f:g:WnQAAeSwlC5qe96u&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC%2FHAyiYJLbdyok%2FXDnNbohBQaffhr8nmaxjgfxvltPLf1MIyoW5AoNyKWkKFKoeQUA%2BGnsoKYOGy65SVUutnwQUVCWDMACA3ElF4UV%2BUM%2FWFUti%2FAHURXZr32yTehdk4Qld%2BFy3BlZdo2NP8MFCCeMLkxYcYaj22OXRZwvED30Kan5jABQ%2FZ2VypSPcBoLUj4t2vn23WE9ghfcHB5nGFGMbtz3Zs9x%2F7VfLHN5SzeeAE5eZ0Mk33Bt5iif0RJ%2FYEnqIvsVxK%2FGzC1byqSOWEDEDR%2FNI7yU03p%2FbMDrJSI5bA06KGhhGxXeFn6uGt36BPZcGaSw12XidkE5qFImhmks%7Ctkp%3ABk9SR9DArLWDaA",
+        "url": "https://www.ebay.com/itm/336738072591?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=14043372157&itmmeta=01M0FG38F9BBP17W51CDMGVVYN&hash=item4e6727380f:g:WnQAAeSwlC5qe96u&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA7LJ0qyaHF7Gu54j6YXMBBpinPx4zhz21QQJ8PLBtjz5xjZNZNx2qXlNBSO4RokKDrWyvL9O2ecEbwKxz1eUBYnCkVaexo8hiD0vpXsS7652rbOdK5ktYRIId6zITMzt9Si9MgTdOxX%2BxqwQElpMMy6%2BRwseYeL%2BAgykjtoSDKjERhNH2K7X6s1v3SQwyRPQ5etS%2F%2BH1SwXC%2BGnAmO4M8YRrYPHo%2Fhnesli3vpqw0cD1hNXOZXNipn869H5xTooULcyVSyNZKaorXK%2BfzPTBEE0xNS7W%2Fss8ox9gdqsUvNMw%3D%3D%7Ctkp%3ABk9SR5SIjfCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/WnQAAeSwlC5qe96u/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787045007404,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       "bestPsa10": null,
       "bestPsa9": {
@@ -84,13 +84,13 @@
         "ratio": 3.0905077262693155
       },
       "firstOpportunityAt": 1787045007404,
-      "updatedAt": 1787165573087
+      "updatedAt": 1787227384326
     },
     "prices": {
       "variantId": 1123,
-      "ungradedC": 8100,
-      "grade9C": 30847,
-      "grade95C": 34372,
+      "ungradedC": 9302,
+      "grade9C": 32049,
+      "grade95C": 34417,
       "cgc10C": 36500,
       "cgc10PristineC": 199900,
       "psa10C": 256200,
@@ -98,8 +98,8 @@
       "psa10Pop": 69,
       "cgc10Pop": 53,
       "bgs10C": 333100,
-      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787043846868
+      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    4 sales per year\"}",
+      "fetchedAt": 1787210822289
     },
     "listings": [
       {
@@ -108,13 +108,13 @@
         "priceC": 6100,
         "shippingC": 699,
         "landedC": 6799,
-        "url": "https://www.ebay.com/itm/287526891040?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=14043372157&itmmeta=01M0DNAJF1FVZRPJDAQFHDYB2S&hash=item42f1f02e20:g:XL0AAeSwcUpqbQSf&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCMDI3BWHeN7HdD1M4sFxEpEPsam2F%2FwkilVZfnmTFHv5dFzpDnGY7Dk2CJIgcUQAkAm6Wxc9V9Hcx1wvn%2F%2B3X%2FqN%2BRanrDdk5IwYUvbDAdB9PHVG%2BMuGJ9rM94YIqb4h8gS%2BJulP%2FPG0Em5TP8X77mAB4PVvmM1f1ljJ%2B3xTI1YxaFJjSxEYH3TXptTDGbE5zc%2BDJuMZBx4JVleuoQ%2F9y8nVtHa1OQdfviSbotcmSN4D46cZgrkU2ssulKiEg%2BKhnCdojednd2TCLa6PvuoBhqHB4MDtIiDwakZ55BBrwsZ8YTHkfsOG46HeWe7vEZ0Q60IMkCVjfdMP4yXGpxvzjy%7Ctkp%3ABk9SR-qnqrWDaA",
+        "url": "https://www.ebay.com/itm/287526891040?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=14043372157&itmmeta=01M0FG2KN87YXS0R1PEG4SM8F3&hash=item42f1f02e20:g:XL0AAeSwcUpqbQSf&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA35TYS9qiWgWSGT3pytqz1pxYpoGaBVnMSGKlRUyo8nbMBWu9Iwgl9io8HzvNCwWfyt27VR6TUn6LNAoBorMbxRgj1YfLivKkasJ6ifGjhvnnT4wdhr0%2BRgP6Sm45YbSleIjBfrxOSTDrRyWyrjnu%2FnbfGzS7RLk1Cy3uNhL%2BQZC0yW2CK5gAkPbXrFH4OBv%2F3q7pTfXyD9ybhGgM0qvSZqaX1Zyr5i8goL6APLpiafCfxkiYdlZtcNOqZXgtUCTPQR%2FSPKr0%2F5h1hGOsIxw9l1FmHgdJ6LOairBWTHiLgOQ%3D%3D%7Ctkp%3ABk9SR_y6ivCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XL0AAeSwcUpqbQSf/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787045007404,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "407142933726",
@@ -122,13 +122,13 @@
         "priceC": 20000,
         "shippingC": 699,
         "landedC": 20699,
-        "url": "https://www.ebay.com/itm/407142933726?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=14043372157&itmmeta=01M0DNATWXC1SZBM16JTNNVVP8&hash=item5ecb9c24de:g:yycAAeSww5NqfnF8&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBBLdN5tYxE%2B9jHGaPh4jyy1nrkvldCveVHiYjZBQz7EfhiGKYt7F3MW7tc57sMjgi0%2FpZudx8WAK0iONALG91inR7sPm%2F%2BGrW%2BJEcCOvHkadMeH3%2BL45IQ2tU%2FM8U%2F7xB6CwN1QkhctC656nMHU16J0u%2FcGo4SOwA%2BJk%2BrybG5bXKtpZ3aFdHM3hdw4i9bpGehi5Kt2RU57kvLFqFsyxrIk8bhiA7u%2BfwmgdmJvTBf166SDjI6ep0RXnKeUVzFVb9ETieEroCTZHipl%2FcfWSatAA8BcvwnwB8z3LWc3dYqEedpc6qX1mOSEAfo5iFBBNkWAWcih%2B7ZeK%2BgkeXjdUhi%7Ctkp%3ABk9SR9auq7WDaA",
+        "url": "https://www.ebay.com/itm/407142933726?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=14043372157&itmmeta=01M0FG2XH8F1PWZPZ3P10MRFV0&hash=item5ecb9c24de:g:yycAAeSww5NqfnF8&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAUxIrvyZLkZn1zUXqiv1%2B%2BdH%2BieVlasuelyscI1Nos51bAsvc1rZputsNIvW74bqoBlBs1djv%2FGK%2Bk4YiZORnDZ3QHlqwgJXKRdoOnixjqO8eglCYf9Vsx3uCyDludBSxsA79Fl1gU9RzVDC26CtVimiVtUf4YTbe9YUl9V5lQkJDZYsxe7W2PU79gmZnKyJrqsSIYQcyyftdOzooOm1NBfDg48w3ZeoVSs0bubyjSSooKdhxZgC7wjOZ9b7A0R5BSqMo0aGOY%2B7wU5TBNX2ocglk96gFOQ1hwozjswO%2Fr7A%3D%3D%7Ctkp%3ABk9SR_rYi_CDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/yycAAeSww5NqfnF8/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787045007404,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "147509923079",
@@ -150,27 +150,27 @@
         "priceC": 47999,
         "shippingC": 0,
         "landedC": 47999,
-        "url": "https://www.ebay.com/itm/336738072591?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=14043372157&itmmeta=01M0DNB40R1TDVZXXS88C39JFM&hash=item4e6727380f:g:WnQAAeSwlC5qe96u&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC%2FHAyiYJLbdyok%2FXDnNbohBQaffhr8nmaxjgfxvltPLf1MIyoW5AoNyKWkKFKoeQUA%2BGnsoKYOGy65SVUutnwQUVCWDMACA3ElF4UV%2BUM%2FWFUti%2FAHURXZr32yTehdk4Qld%2BFy3BlZdo2NP8MFCCeMLkxYcYaj22OXRZwvED30Kan5jABQ%2FZ2VypSPcBoLUj4t2vn23WE9ghfcHB5nGFGMbtz3Zs9x%2F7VfLHN5SzeeAE5eZ0Mk33Bt5iif0RJ%2FYEnqIvsVxK%2FGzC1byqSOWEDEDR%2FNI7yU03p%2FbMDrJSI5bA06KGhhGxXeFn6uGt36BPZcGaSw12XidkE5qFImhmks%7Ctkp%3ABk9SR9DArLWDaA",
+        "url": "https://www.ebay.com/itm/336738072591?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=14043372157&itmmeta=01M0FG38F9BBP17W51CDMGVVYN&hash=item4e6727380f:g:WnQAAeSwlC5qe96u&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA7LJ0qyaHF7Gu54j6YXMBBpinPx4zhz21QQJ8PLBtjz5xjZNZNx2qXlNBSO4RokKDrWyvL9O2ecEbwKxz1eUBYnCkVaexo8hiD0vpXsS7652rbOdK5ktYRIId6zITMzt9Si9MgTdOxX%2BxqwQElpMMy6%2BRwseYeL%2BAgykjtoSDKjERhNH2K7X6s1v3SQwyRPQ5etS%2F%2BH1SwXC%2BGnAmO4M8YRrYPHo%2Fhnesli3vpqw0cD1hNXOZXNipn869H5xTooULcyVSyNZKaorXK%2BfzPTBEE0xNS7W%2Fss8ox9gdqsUvNMw%3D%3D%7Ctkp%3ABk9SR5SIjfCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/WnQAAeSwlC5qe96u/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787045007404,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "287367502493",
         "title": "Pokémon TCG Giovanni's Gyarados Unlimited Holo 5/132 Gym Challenge PSA 9 Swirl!!Opens in a new window or tab",
         "priceC": 50000,
-        "shippingC": 540,
-        "landedC": 50540,
-        "url": "https://www.ebay.com/itm/287367502493?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=14043372157&itmmeta=01M0DNB40SB89KBQSFGKJNV4R9&hash=item42e8701a9d:g:UwQAAeSwAdRqHY46&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBOumQKrKBathBcfYtEzku6%2FH2tes04Q%2BcM7RRw1IZnGIHQBh0chkMPOPUuNJz%2F1dve68zBkdNVXmM%2FjXOhbw021%2Bk8R1IVxAMNDOeeM3NBYG%2By7mQgTMp8DeLpPe%2BDIVOYqWf3652j8tLAab5eJeeV38UP1V7TJzVDluUoNvYYMYXgDTTjMbXck6DxCSV0hIs2%2B6ggDhHNBUruxRlIOdOWCQ7pU9p4AP56gRtVj8UbcYM0gd%2FOGb19UBWhCk9dOYBZp3Gw2Ql8lt%2FWyvHEwn%2FkLnZIoNugcK5Jcdtb8dGOSw%3D%3D%7Ctkp%3ABk9SR9LArLWDaA",
+        "shippingC": 548,
+        "landedC": 50548,
+        "url": "https://www.ebay.com/itm/287367502493?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=14043372157&itmmeta=01M0FG38FAHS2EBZCY9JME9PMM&hash=item42e8701a9d:g:UwQAAeSwAdRqHY46&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBOumQKrKBathBcfYtEzku6%2FH2tes04Q%2BcM7RRw1IZnGG8xCSyjMbTA7fMZBlPbHVHxxZvtEvKOLsCBgXu6nQWzxssV%2FtCs3gz3pHOOPC1cFCBCWjJG%2FPI92QpYFPYp5W7SzCiDUiBzrCGcPSSmUYb0LmpneZDsZP55aQGgrY46DkJUIpoxyHPY3onh5TBbfioS4h%2FQdNwwYwJvmx0KoHx4g%2BUP1IMvixgA8xj8MvXCrqnn%2BwIxFW3xJ4YWh60R5s1ex4CrTa0BPd1Pyqe2pHBcMe%2BeqCkkJGBARtTPPb2cog%3D%3D%7Ctkp%3ABk9SR5SIjfCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/UwQAAeSwAdRqHY46/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787045007404,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "157819425274",
@@ -178,13 +178,13 @@
         "priceC": 57497,
         "shippingC": 0,
         "landedC": 57497,
-        "url": "https://www.ebay.com/itm/157819425274?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=14043372157&itmmeta=01M0DNB40SRGG2AFRWJENCB66B&hash=item24bec551fa:g:e7QAAeSwuEFp1Qhr&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDtBs%2B38pYV3VU5oqTUzrgGaDcBUWi1p2Cve5sicwJC2sEJrDmQYvj5uO5AES9ZtJia4OYCCjgclUORk7Ospz%2F9ZV5PHER%2FVTLEtxMm035L2wYMo%2Bz5CChaTsNE%2F%2BTmqQxyDV0P1oe4F7tiWz%2B%2BBjDXIyXpi0xbfhneEgNJ4wLkQo3XqQNlGC3xs7lwxWzGQlyjaEzhhb5FbaSO2iuYgxMbmyox6gC%2Bv4z5m1LH58%2BLVHQ9EYWDKYpJCpf%2F5FkFvc6CUgxQrBFHYXJxXad3iD6NHNufhTZwLzYsGHSQBeykmA%3D%3D%7Ctkp%3ABk9SR9TArLWDaA",
+        "url": "https://www.ebay.com/itm/157819425274?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=14043372157&itmmeta=01M0FG38FAZFQQQYYVET0482EN&hash=item24bec551fa:g:e7QAAeSwuEFp1Qhr&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDtBs%2B38pYV3VU5oqTUzrgGaDcBUWi1p2Cve5sicwJC2kL0gKrCmWcgV6sITPNu3wjMOsQWFDMNBBq4SXQz%2BijskLk8wfdt%2FNlqO0CMM9qfkcdkF%2FIDFNCRE2i8pDIHTvlWJP1%2FQC9b7HbeKucp5kLdNcaKd%2FAJErmNUubFqvoZzusa9SxmGwEELRVsgsDsMgUWNpgSFJtMKU0oS7PuJQwFqCq6863YLXxgUsFW%2B%2BFvL%2BBN4MvgLoUqYfbvDVLKI2o5FNvguyULW2r6kntaZRu0SwAo5KhlJf4ZqTJj5CDGDA%3D%3D%7Ctkp%3ABk9SR5iIjfCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/e7QAAeSwuEFp1Qhr/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787045007404,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "366359523398",
@@ -192,17 +192,30 @@
         "priceC": 80000,
         "shippingC": 860,
         "landedC": 80860,
-        "url": "https://www.ebay.com/itm/366359523398?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=14043372157&itmmeta=01M0DNB40TA0NG1E1NCKFBVW37&hash=item554cbab046:g:crwAAeSwf8Fp5vkG&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCt4RQg%2F2HaXd632G31QphBNz4Wut35m7mHB3kgMNsCbsB%2FOApo0uDTaJwGtN5YRxUJesENQ6je6jMY4v2puu9Wt4owrOFcEjm1AKmX0mNYetJZ%2FFdZzwcX1gU515OBZSXQzGCvqNgy1B0EGAAFoUl5IXYwY0ZG7%2BQle%2Fo%2F8IRAnb%2Bz14TO%2BAH6YgKqe4ZHoM4yu8zDivoEhA6HFxDbiI9n2a2nxmj2uLOQPvYd4nMWKv1UQ7ew7u3eVenWcvFMIwl3NNGP2gVw%2B32MQYSr3GX5KeSlM9yLruCeKCKAfRZ3XY%2FStqmD2%2F7J3Ys1pm%2BCnt4NYNcw6nJ446KNiSr5DnDF%7Ctkp%3ABk9SR9bArLWDaA",
+        "url": "https://www.ebay.com/itm/366359523398?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=14043372157&itmmeta=01M0FG38FB1QZ30M5CF5VMS5ZA&hash=item554cbab046:g:crwAAeSwf8Fp5vkG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDNfo%2BH0dvV%2FYxwEirne%2F5Py4P1VQuc0gTMlZUEdlAlOyVaGoSGBsmcqm9Ks172%2F9pOpG6XVAQfMmtwpNIf5MA%2FMSesdyrYPR79qtMbmnk0sfK9xC1nRPL%2FxeBmAR29KDfCY25vyuKTIQLvr%2BXI6LNuc19nRWHj7Rc1eFKaSED8ryUI39AuSVZDvCEkIxEWoRgm52o%2BBr53jdw0ivBK0GrNaW91TYkSGm2AvtQRyJ70asP2NuLYBCuv7nizhDGz7nnLQ%2BBvWji9GE5yjrcm2PigDmmYasTvjkQ54weEuw6%2B4w%3D%3D%7Ctkp%3ABk9SR5qIjfCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/crwAAeSwf8Fp5vkG/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787045007404,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 960473,
+          "saleDate": "2026-08-19",
+          "priceC": 9200,
+          "title": "2000 Pokemon Giovanni's Gyarados 5/132 Gym Challenge Holo Rare Unlimited 5/132",
+          "url": "https://www.ebay.com/itm/257674510092?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 207485,
           "saleDate": "2026-08-18",
@@ -1749,19 +1762,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 207600,
-          "saleDate": "2026-05-24",
-          "priceC": 7400,
-          "title": "2000 POKEMON GYM CHALLENGE HOLO #5 GIOVANNI'S GYARADOS PSA 1 #5",
-          "url": "https://www.ebay.com/itm/298319384412?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 1,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1881,9 +1881,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 301,
+      "englishSaleCount": 302,
       "excludedLanguageCount": 2,
-      "lastCapturedAt": 1787043845332
+      "lastCapturedAt": 1787210820358
     }
   }
 }

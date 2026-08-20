@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 3932,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/1a32eeb5a772dfc70dffe426397c6d9e38f0b5b4ccf8f05580587b3d598ba0d6/1600.jpg",
       "popularityScore": 93,
       "market": {
-        "ungradedC": 8736,
+        "ungradedC": 8723,
         "grade9C": 29625,
         "grade95C": 32600,
-        "cgc10C": 43880,
-        "cgc10PristineC": 79000,
+        "cgc10C": 43777,
+        "cgc10PristineC": 78800,
         "psa10C": 224248,
         "bgs10C": 291500,
         "psa9Pop": 110,
         "psa10Pop": 31,
         "cgc10Pop": 31,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787060496125
+        "fetchedAt": 1787213815898
       },
       "bestCgc10": {
         "itemId": "287043123532",
@@ -37,13 +37,13 @@
         "priceC": 149999,
         "shippingC": 600,
         "landedC": 150599,
-        "url": "https://www.ebay.com/itm/287043123532?_skw=%28charmander%29+%2857%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=17043371394&itmmeta=01M0AJ8ZT5G4J60NEQ25N1RHJB&hash=item42d51a794c:g:EFgAAeSw-9VpU~Bn&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCJASxdTmGEFVPFcPO6nd4RyGFugIfQZHX9615YF95KlJpkvmo9mDB%2F6bWHnzTHMXjMLLNcgTV06Xep--Ry4kuJzvLV0VgjLtEEvwbCC2qoYv87ktg%2BZD7iJZC3Y5YgvQx1Hu2mRNMgoAAIX%2FA6IBWbyWGLFKxyhSyIj2oU1zKf877Z2NeUFyCr6vuzmOuxGjYY3MIhU%2FPMS5tLv1vMH3yAA68%2FCD8iYOLbVhX3V8JIpeYdhvBt%2Fp4I1fjNDVCVCzQqDggzMnNXEMOyvF%2FL4tvChnhqgiwY04yLhZYLhqBw5kVnUBQahSfUK%2F2osZHrjVIlF%2BwefOKCzCK1mX2nLlio%7Ctkp%3ABk9SR6L9o9KCaA",
+        "url": "https://www.ebay.com/itm/287043123532?_skw=%28charmander%29+%2857%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=17043371394&itmmeta=01M0F40KQ7MRF2TPRBFMFB7MZR&hash=item42d51a794c:g:EFgAAeSw-9VpU~Bn&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCJASxdTmGEFVPFcPO6nd4RyGFugIfQZHX9615YF95KlJpkvmo9mDB%2F6bWHnzTHMXjMLLNcgTV06Xep--Ry4kuJzvLV0VgjLtEEvwbCC2qoYv87ktg%2BZD7iJZC3Y5YgvQyj2%2FddnIdIKbg9DRDlCqZScLa%2Bxn%2FR14vEzCUvlSvvrQG7jy7kkSJxgN2ovLj1uM8bGuMLtqAYz4uEkcw0GQ1Y3sIhHa2iiloE2BZYhDVvG3hR%2FQ7ynSUMmgiuHem8I7NVc1%2F8gb%2BKKzi9G8HrcBeLHZKTJBdvHxE96GGvSuL43zfkDlX7xHfmSMgXmcwBlXeaXLQU7sJ54pv49kWedYP4%7Ctkp%3ABk9SR_67guSDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EFgAAeSw-9VpU~Bn/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -52,7 +52,7 @@
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
-        "psa10Auction": 0,
+        "psa10Auction": 1,
         "psa9Bin": 0
       },
       "ratio": {
@@ -71,37 +71,51 @@
         "ratio": 1.3549809968640294
       },
       "firstOpportunityAt": 1787061354691,
-      "updatedAt": 1787094589964
+      "updatedAt": 1787213991251
     },
     "prices": {
       "variantId": 3932,
-      "ungradedC": 8736,
+      "ungradedC": 8723,
       "grade9C": 29625,
       "grade95C": 32600,
-      "cgc10C": 43880,
-      "cgc10PristineC": 79000,
+      "cgc10C": 43777,
+      "cgc10PristineC": 78800,
       "psa10C": 224248,
       "psa9Pop": 110,
       "psa10Pop": 31,
       "cgc10Pop": 31,
       "bgs10C": 291500,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787060496125
+      "fetchedAt": 1787213815898
     },
     "listings": [
+      {
+        "itemId": "128033267910",
+        "title": "2004 Leaf Green Charmander Reverse Holo #57/112 PSA 10 GEM MINTOpens in a new window or tab",
+        "priceC": 102500,
+        "shippingC": 499,
+        "landedC": 102999,
+        "url": "https://www.ebay.com/itm/128033267910?_skw=%28charmander%29+%2857%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=17043371394&itmmeta=01M0F40KQ7PSZZ05NPEQ503P77&hash=item1dcf60a0c6:g:qjQAAeSwdK5qhL5I&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDh6OOQ3vPqrYDYovundV0StHeFp7iNinwVIL7NQUkuWJQ5LmyA%2F47RIhxEy8V2ciQdwGUGh7WhaM07clFJxMqfM%2FPXUswaesBbqDpPTEDM6YXfSGOce0%2BD9SDyb36%2BP5YuNYtIZNq69S8eXGsRoSSXk5ayVjLneLrT3dty90YGc2%2BXzHZAE6uyCXTgEP%2FN1nPChX%2FEYFblpndU3Jdpr2rpRIW3GIgh3O2nJ%2FIwJAiTCamXWbg%2BPJX9%2BsgpGoCmy%2F21mC340tb%2Bsf2pMbpbBZMrWN%2FF4gmrc2KhgOlmxdPJwLvXP8HBXPAtAlzdnACgYLXckIB30M105R2k7FdR7d%2FW%7Ctkp%3ABk9SR_67guSDaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/qjQAAeSwdK5qhL5I/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787213991251,
+        "lastSeen": 1787213991251
+      },
       {
         "itemId": "287043123532",
         "title": "CGC GEM MINT 10 Signed Michael Haigney - Charmander (57/112) Reverse HoloOpens in a new window or tab",
         "priceC": 149999,
         "shippingC": 600,
         "landedC": 150599,
-        "url": "https://www.ebay.com/itm/287043123532?_skw=%28charmander%29+%2857%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=17043371394&itmmeta=01M0AJ8ZT5G4J60NEQ25N1RHJB&hash=item42d51a794c:g:EFgAAeSw-9VpU~Bn&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCJASxdTmGEFVPFcPO6nd4RyGFugIfQZHX9615YF95KlJpkvmo9mDB%2F6bWHnzTHMXjMLLNcgTV06Xep--Ry4kuJzvLV0VgjLtEEvwbCC2qoYv87ktg%2BZD7iJZC3Y5YgvQx1Hu2mRNMgoAAIX%2FA6IBWbyWGLFKxyhSyIj2oU1zKf877Z2NeUFyCr6vuzmOuxGjYY3MIhU%2FPMS5tLv1vMH3yAA68%2FCD8iYOLbVhX3V8JIpeYdhvBt%2Fp4I1fjNDVCVCzQqDggzMnNXEMOyvF%2FL4tvChnhqgiwY04yLhZYLhqBw5kVnUBQahSfUK%2F2osZHrjVIlF%2BwefOKCzCK1mX2nLlio%7Ctkp%3ABk9SR6L9o9KCaA",
+        "url": "https://www.ebay.com/itm/287043123532?_skw=%28charmander%29+%2857%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=17043371394&itmmeta=01M0F40KQ7MRF2TPRBFMFB7MZR&hash=item42d51a794c:g:EFgAAeSw-9VpU~Bn&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCJASxdTmGEFVPFcPO6nd4RyGFugIfQZHX9615YF95KlJpkvmo9mDB%2F6bWHnzTHMXjMLLNcgTV06Xep--Ry4kuJzvLV0VgjLtEEvwbCC2qoYv87ktg%2BZD7iJZC3Y5YgvQyj2%2FddnIdIKbg9DRDlCqZScLa%2Bxn%2FR14vEzCUvlSvvrQG7jy7kkSJxgN2ovLj1uM8bGuMLtqAYz4uEkcw0GQ1Y3sIhHa2iiloE2BZYhDVvG3hR%2FQ7ynSUMmgiuHem8I7NVc1%2F8gb%2BKKzi9G8HrcBeLHZKTJBdvHxE96GGvSuL43zfkDlX7xHfmSMgXmcwBlXeaXLQU7sJ54pv49kWedYP4%7Ctkp%3ABk9SR_67guSDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EFgAAeSw-9VpU~Bn/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787094589964
+        "lastSeen": 1787213991251
       }
     ],
     "marketHistory": {
@@ -1579,7 +1593,7 @@
       ],
       "englishSaleCount": 111,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787060494682
+      "lastCapturedAt": 1787213814252
     }
   }
 }

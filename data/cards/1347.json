@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 1347,
@@ -19,8 +19,8 @@
       "popularityScore": 80,
       "market": {
         "ungradedC": 12800,
-        "grade9C": 47185,
-        "grade95C": 89999,
+        "grade9C": 45823,
+        "grade95C": 88177,
         "cgc10C": 90700,
         "cgc10PristineC": 175000,
         "psa10C": 420000,
@@ -29,7 +29,7 @@
         "psa10Pop": 92,
         "cgc10Pop": 65,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\"}",
-        "fetchedAt": 1787045155379
+        "fetchedAt": 1787211056045
       },
       "bestCgc10": {
         "itemId": "327201138466",
@@ -37,34 +37,47 @@
         "priceC": 99900,
         "shippingC": 724,
         "landedC": 100624,
-        "url": "https://www.ebay.com/itm/327201138466?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0DND9WVS08GH27GBMQ0PW3S&hash=item4c2eb52722:g:dmUAAeSw0-1qJao2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAHAp8ZSnwfV9PhpyHwvC5tuosBF%2BLJUGQXZOuP2oNjZ8SgfC7ldjvHLZ1UhNpYH4Yri4D8%2BQziJUUoM8%2F7R9A%2FDbE2DJ48xZVtHJ2HsiBWO3VERLfCiPuMV0QHTAjpzFKf5ADBvQGjis0ADEgygP3SU7vWx%2FO8I7tjJGQupv%2BVHfPh4J2mUPyHkQmQA%2BlRsX1yIl%2BF5hXApHMwo2mIl%2FLy788g7t1Udi70ZiSxUaCmgz6QbdGzhcRlPoUYyHFA6kPXaZnTKYROhmD0NsNYnWcF%7Ctkp%3ABk9SR8qetbWDaA",
+        "url": "https://www.ebay.com/itm/327201138466?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0FG5Z8BB9RD4H3JJDQ3KJY3&hash=item4c2eb52722:g:dmUAAeSw0-1qJao2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAHAp8ZSnwfV9PhpyHwvC5tuosBF%2BLJUGQXZOuP2oNjZwNuZ5UiTQBjefKbPF5G6txMNOz%2ByX8e4FvSae5izd2BQg2deF7ILSlVHSfwAzqM6uupaTEyut39pClJUyc1f0IW71VhRmylXzxSZn0DfsC41b%2BUoAiakaFWAhGxCiJ4WumW8D%2BW82siIVJMtOhRgWOWC8jiGFDZtR8DqPdbvcUl9ksdNeUe2aXfOmEba0mjeK82tMBFpE9fEW5OmeHWG07LSUsqoUrniEqAt2Msfo16%7Ctkp%3ABk9SR5j1l_CDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/dmUAAeSw0-1qJao2/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094598564,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "307123703183",
+        "title": "2000 POKEMON NEO GENESIS 1ST EDITION #11 MEGANIUM-HOLO PSA 10Opens in a new window or tab",
+        "priceC": 570000,
+        "shippingC": 599,
+        "landedC": 570599,
+        "url": "https://www.ebay.com/itm/307123703183?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0FG5Z8CYM9QFRZF4KH8J39F&hash=item4781ffcd8f:g:xWEAAeSwqhJqfTrL&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCc8U6bp4VFF1EtING73lKOxsm6vnk8hgBokLZ53p%2Fs64ODMHJwgS89cfexa8crPYemlzheV%2F9Vy49EX0RHW%2Fwl59DZTFMgJBH%2FOGT4pmIKrUyAqxE2TaGOBHTVsDITKhDRg85cQSy2ANtqbYzU46zHP%2FKStLum2M9xc41YtZ0FoAooA6Koqv47cmBK6L4h3ThhnzoInQDqhcKPDz91LWZRVFAxQ2F1wRxvadJax5Zq9CCPeEy46DhpUCuuKpvj4I%2Bl3gG8mAmXjE%2F4xNe9GWLl%7Ctkp%3ABk9SR5j1l_CDaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/xWEAAeSwqhJqfTrL/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787211216789,
+        "lastSeen": 1787227384326
+      },
       "bestPsa9": {
         "itemId": "267741040744",
         "title": "1st Edition Meganium PSA 9 Holo Neo Genesis 11/111 (SWIRL) pokemonOpens in a new window or tab",
         "priceC": 54000,
         "shippingC": 597,
         "landedC": 54597,
-        "url": "https://www.ebay.com/itm/267741040744?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0DND0F5K5XSJWJGHER0RGSY&hash=item3e569c1068:g:e~gAAeSw3jFqaBah&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBhAhuJeC4XoZh6d1nLn0fvIMguP8CVqzI4zMdLwQZbHS9RFQlkwSmwQm452OUrqelv2TVaYNlPK5EYMGz5bR8pWHY9aPKJFcL0y15TVPSFuSVf%2FIhyFptHG4zbRNWoTRjUYUygIJ7HVk7Sll5iwOUQnPk2AM8s0pu0RIR5IhZ%2BrRZzRMsqAgW5f285FFdPFfVJ7hgtui1tQUKR2P8vR%2BeB9MPDukJRCmXmoTVk5RPPv92s9YeX5bCzCuKr5Sjys3QZ5MbzMbjqiTXSjz6mpq8BZ0%2FjJFF1Bbri9J6k6DOCUX9%2FNak2sYARczvkV2QpDms%3D%7Ctkp%3ABk9SR-iHtLWDaA",
+        "url": "https://www.ebay.com/itm/267741040744?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0FG5M9KPC83YEFYRGD27J9A&hash=item3e569c1068:g:e~gAAeSw3jFqaBah&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDtj5z0rTU%2BMwFkthweI%2FaCTE9pcZGrGxOApw1YU3%2Fl%2FaI9Ae1Xfew6dq30AC1p1zKKs%2B11RIceZUyMt%2FzaiZmQgHmLfiDouNopvzgzhY9LJyHCSurMg95peNWKgi3iJFe3cABaTUOt2A6zZozS5LxQGv6Ftc8Ir0mhWwfCEKkZOjNAt5xx%2B6kXwIuf7%2BCbFndiB6cnSl29UIqfE681k2cYzg1bEGrmqrVOJRs4xv0lQKhCsWbBkI2TXxPdgi5AgCzQSKSuxSB8ZxQipLCd8bhW%7Ctkp%3ABk9SR4zFlvCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/e~gAAeSw3jFqaBah/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 1,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
         "psa9Bin": 5
       },
@@ -84,13 +97,13 @@
         "ratio": 3.099082081402556
       },
       "firstOpportunityAt": 1787094598564,
-      "updatedAt": 1787165573087
+      "updatedAt": 1787227384326
     },
     "prices": {
       "variantId": 1347,
       "ungradedC": 12800,
-      "grade9C": 47185,
-      "grade95C": 89999,
+      "grade9C": 45823,
+      "grade95C": 88177,
       "cgc10C": 90700,
       "cgc10PristineC": 175000,
       "psa10C": 420000,
@@ -99,22 +112,22 @@
       "cgc10Pop": 65,
       "bgs10C": 546000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\"}",
-      "fetchedAt": 1787045155379
+      "fetchedAt": 1787211056045
     },
     "listings": [
       {
         "itemId": "158197654626",
         "title": "Pokémon Neo Genesis 1st Edition Meganium 11/111 CGC 10 Gem Mint 💎Opens in a new window or tab",
-        "priceC": 1050,
+        "priceC": 1150,
         "shippingC": 1059,
-        "landedC": 2109,
-        "url": "https://www.ebay.com/itm/158197654626?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0DNCR09WBN3Q8MKTDNEMJWY&hash=item24d550a462:g:ojEAAeSwdjxqSii3&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDsrFp%2B1relmQFyvTr8x3unv7jiZpTeg8aui3%2BFhwCXwslb2Gymi1L1ATAkwfgdoz5wySKY0RhcF4IYHW1EjZ%2FNZJ31k0N4famvRGeDKKQnNcTYernaJgh0MZJq%2B6e%2BjiTy6slW9A%2BIJAOnGtThjQy7imd%2FRSmqTWZosSybnI9iJQYSjw7F1lbpK32TfFDz7zhOtkXLQwKfHzt3uyjp2no97he7fe2nXCqe9GyVACiN549NM8rweVB3c3g2d5VrB3fjYeN%2FjSuJu%2FyaxuTQsAqb70LEGp0cMBvzwHR0Ywzg73CMkbxHavNVgG036R6JM9A%3D%7Ctkp%3ABk9SR8KAs7WDaA",
+        "landedC": 2209,
+        "url": "https://www.ebay.com/itm/158197654626?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0FG58954CMBF77V3GPEZ0VT&hash=item24d550a462:g:ojEAAeSwdjxqSii3&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCNq6aXC%2Bl1uogmpWf%2Fg%2Fus7UhF3R2uaB0Uu47pmIXkJF55E%2Bt0dMu7umd4QhEpSsWCbXwZM96WIfKEZzdLxKVUGP39yGkF3%2Fb1sS3IfmckxD9EZSvwD2fmHmDuGPtHtq%2FpKRszhyEuwyZWLmIdTMTRLdnY3m0rRv8EevnF%2BscpbQfEb9iH%2BdZ%2Bx4Gy38gRNpBs2HUY%2B1hiTCTA%2BgWKn0LpKX%2BGTRCK7KckG6MQBHpTPKQK%2FisMHuJ66HWLRUHMUSNsdPPB8EjpscuqDyXo3yXY%7Ctkp%3ABk9SR7SFlfCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ojEAAeSwdjxqSii3/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "267741040744",
@@ -122,13 +135,13 @@
         "priceC": 54000,
         "shippingC": 597,
         "landedC": 54597,
-        "url": "https://www.ebay.com/itm/267741040744?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0DND0F5K5XSJWJGHER0RGSY&hash=item3e569c1068:g:e~gAAeSw3jFqaBah&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBhAhuJeC4XoZh6d1nLn0fvIMguP8CVqzI4zMdLwQZbHS9RFQlkwSmwQm452OUrqelv2TVaYNlPK5EYMGz5bR8pWHY9aPKJFcL0y15TVPSFuSVf%2FIhyFptHG4zbRNWoTRjUYUygIJ7HVk7Sll5iwOUQnPk2AM8s0pu0RIR5IhZ%2BrRZzRMsqAgW5f285FFdPFfVJ7hgtui1tQUKR2P8vR%2BeB9MPDukJRCmXmoTVk5RPPv92s9YeX5bCzCuKr5Sjys3QZ5MbzMbjqiTXSjz6mpq8BZ0%2FjJFF1Bbri9J6k6DOCUX9%2FNak2sYARczvkV2QpDms%3D%7Ctkp%3ABk9SR-iHtLWDaA",
+        "url": "https://www.ebay.com/itm/267741040744?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0FG5M9KPC83YEFYRGD27J9A&hash=item3e569c1068:g:e~gAAeSw3jFqaBah&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDtj5z0rTU%2BMwFkthweI%2FaCTE9pcZGrGxOApw1YU3%2Fl%2FaI9Ae1Xfew6dq30AC1p1zKKs%2B11RIceZUyMt%2FzaiZmQgHmLfiDouNopvzgzhY9LJyHCSurMg95peNWKgi3iJFe3cABaTUOt2A6zZozS5LxQGv6Ftc8Ir0mhWwfCEKkZOjNAt5xx%2B6kXwIuf7%2BCbFndiB6cnSl29UIqfE681k2cYzg1bEGrmqrVOJRs4xv0lQKhCsWbBkI2TXxPdgi5AgCzQSKSuxSB8ZxQipLCd8bhW%7Ctkp%3ABk9SR4zFlvCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/e~gAAeSw3jFqaBah/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "117341561936",
@@ -136,13 +149,13 @@
         "priceC": 55000,
         "shippingC": 0,
         "landedC": 55000,
-        "url": "https://www.ebay.com/itm/117341561936?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0DND0F51KGV163Q2TCT3KE0&hash=item1b521a2450:g:XCkAAeSwzY5qcsu~&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xApAWh97ZZr5k0Bp4nXuYhD2reSjFFp%2BTLtN6s6SGGRG3lEfkhlWBKg7h0wvM7c3%2FNKFeUVyhvEq8ONVzYku6PATNMFDXs9ZbNBsgz%2FWJZMTZqSLNV2b4tuBqzB4d5JDTs6n1GwRZau3BMlSctcOewUm5b1Mv%2F6rxO3NnV9%2B4scetTwX3do5b4l96ukgE0IhuvyeVXXilRmlcaC1molJaiqIoSrxy6oPJr4gheEgBo%2Fdm%2FDtxpjqP61QXK%2FbqFLZ0Ww7%2FBFRLbzAhw%2BW%2BzEQBm6RmRlKw0tbGIAtJYt8V1pU7RophHWzIQjkHsmvhfDlKo%3D%7Ctkp%3ABk9SR-iHtLWDaA",
+        "url": "https://www.ebay.com/itm/117341561936?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0FG5M9K4FZV0C6TY6ZFYQB8&hash=item1b521a2450:g:XCkAAeSwzY5qcsu~&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDPf3GYrRmuYLYrUamvo8GhVRQFx3f9tM315TOr6%2BvNr0EVsQ43ZfZDm3%2B6ayrWoAbMOqbg2AXJWsjLHz04Mn4pWad9jNLpJxWupGRWQqSpLiDWJo%2FWI1IWXuTwN1keGNPWGDYn%2F2mqEZatWdtmsOZIeREzP0JP%2BB5aulmh8Pc5m4rNkyuTdbvMst7ICacUeHczW0Kesr7hY5i28dSdk%2Fjf%2BNDYVUq9VE6QpTZF6uMhmiRVMaWs4hb4Q7r%2FwTE4jO1pnwaIbquKHe8BqtCV1ixB%7Ctkp%3ABk9SR4zFlvCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XCkAAeSwzY5qcsu~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "278274238742",
@@ -150,13 +163,13 @@
         "priceC": 67500,
         "shippingC": 697,
         "landedC": 68197,
-        "url": "https://www.ebay.com/itm/278274238742?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0DND0F61890CKVMZFFA8740&hash=item40ca6fe916:g:mnYAAeSwIVVqfQKJ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAxwU2eOam6asonh7TOgoBbpisTSJ2DhvztFiWu1Cf1HIYfvDs285jPoH0b4PAr3UUS6YhKvCxJsnsJiIvuZljIQdP%2FteGXk%2Fq5ZXt7xV9mJsY2ELODLnbMamQoUETTz4UVglTI7w1Yjmy%2FtKjCdiUBcBbbOUhUqTGFZGJophz6LZtOIwrbTdizqjxurnJTfzE1Eec%2BgrUqlxYcn0OkUFjxXgbkofozFrh%2B%2F8ggvcxrBLj92EtJ%2FW2FLUAbuiskWgNDoA3YjB63rjEeYCrz2Pyg%7Ctkp%3ABk9SR-qHtLWDaA",
+        "url": "https://www.ebay.com/itm/278274238742?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0FG5M9K302DKRC9MXTHY8J3&hash=item40ca6fe916:g:mnYAAeSwIVVqfQKJ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAxwU2eOam6asonh7TOgoBbpisTSJ2DhvztFiWu1Cf1HLRFf0C6ifaHKjaob%2Fs5i9I6n4li%2BbzitL28jIWGcWOvwkqsnaUrjrUM%2BlZfq88CZWkl6m5EdT40LEYKNw20Pfb3qAlAqgKXi9cBNJCh7WXCED9p6QiV2XiQUNPKAOv7Tiy7CSeyYES3W4naOYXLi8UzTAOdSiD25VvTMycMM--e7m86VljufJaC0C5olfPLqrUUdnrssxGc58ZVgV3FZiBLkJyq5lVGBRmCd0DhMZxk%7Ctkp%3ABk9SR4zFlvCDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/mnYAAeSwIVVqfQKJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "298340231424",
@@ -164,13 +177,13 @@
         "priceC": 99999,
         "shippingC": 0,
         "landedC": 99999,
-        "url": "https://www.ebay.com/itm/298340231424?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0DND9WV1X21Y5MM14CTDEQN&hash=item457676a900:g:DWgAAeSwFd5qD1NP&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCvl8YXkwO3Le5fH%2FazXcBc3zRoqGhZK4Xz0SBtOC8IwC9TiROM4Lamer7o19xGthBgkXnA8BsvZ9PdsB9BxMMHeDr1wUMXOJsIOtgizMb1MWSAhBuInw0AmKaY3YrLTfK%2FEgpPi%2B%2F5VROFZBQdcCjTGLb6z0dqzXi304Tzb4i1h8sYC1HhrpWOGbJ2jxedzH%2Bg6hC43u8y4JsGM4K%2BsOG9Me%2Bj9c5iGYcGuLliAELZgxLUX6OHFTFsuchDnweVTsYBqYeRUTYIAUS3E%2BysKOEg%7Ctkp%3ABk9SR8qetbWDaA",
+        "url": "https://www.ebay.com/itm/298340231424?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0FG5Z8BDV528BRG6WC4HDHF&hash=item457676a900:g:DWgAAeSwFd5qD1NP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCtW84j8mXV9G9YIGvA%2BWVzDA4WcUeVAMzQY8TgU3QJeNkqXrUJmRF5zQ2gzJ3H7fqjZxT9FgjSf25ff%2FqJe58n%2BObiJwv2Cp5%2F1%2F3WU3xoPqKN2HY3w%2FqDI7xHKR8LdUqDq4Msis8TnI5p4U710qb5BAA9XAYrJChZB%2FHeLogXgj5uovfbe%2FEMnGhibE%2FxPBnfzNpI1wFWjzPJ%2FvDU5UygcXLoH1%2FeLpLT37o4qjwfkKGA41GTTle0Ri3FbJzfheQAHn0NagOpRsi2va3zcDoLzxHiT9jHwgy4t2DkUEkzGabmD14nH31mz%2BPx0Hcf8jk%3D%7Ctkp%3ABk9SR5j1l_CDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/DWgAAeSwFd5qD1NP/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "327201138466",
@@ -178,13 +191,13 @@
         "priceC": 99900,
         "shippingC": 724,
         "landedC": 100624,
-        "url": "https://www.ebay.com/itm/327201138466?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0DND9WVS08GH27GBMQ0PW3S&hash=item4c2eb52722:g:dmUAAeSw0-1qJao2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAHAp8ZSnwfV9PhpyHwvC5tuosBF%2BLJUGQXZOuP2oNjZ8SgfC7ldjvHLZ1UhNpYH4Yri4D8%2BQziJUUoM8%2F7R9A%2FDbE2DJ48xZVtHJ2HsiBWO3VERLfCiPuMV0QHTAjpzFKf5ADBvQGjis0ADEgygP3SU7vWx%2FO8I7tjJGQupv%2BVHfPh4J2mUPyHkQmQA%2BlRsX1yIl%2BF5hXApHMwo2mIl%2FLy788g7t1Udi70ZiSxUaCmgz6QbdGzhcRlPoUYyHFA6kPXaZnTKYROhmD0NsNYnWcF%7Ctkp%3ABk9SR8qetbWDaA",
+        "url": "https://www.ebay.com/itm/327201138466?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0FG5Z8BB9RD4H3JJDQ3KJY3&hash=item4c2eb52722:g:dmUAAeSw0-1qJao2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAHAp8ZSnwfV9PhpyHwvC5tuosBF%2BLJUGQXZOuP2oNjZwNuZ5UiTQBjefKbPF5G6txMNOz%2ByX8e4FvSae5izd2BQg2deF7ILSlVHSfwAzqM6uupaTEyut39pClJUyc1f0IW71VhRmylXzxSZn0DfsC41b%2BUoAiakaFWAhGxCiJ4WumW8D%2BW82siIVJMtOhRgWOWC8jiGFDZtR8DqPdbvcUl9ksdNeUe2aXfOmEba0mjeK82tMBFpE9fEW5OmeHWG07LSUsqoUrniEqAt2Msfo16%7Ctkp%3ABk9SR5j1l_CDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/dmUAAeSw0-1qJao2/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094598564,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "178404233145",
@@ -192,13 +205,13 @@
         "priceC": 150000,
         "shippingC": 548,
         "landedC": 150548,
-        "url": "https://www.ebay.com/itm/178404233145?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0DND9WVF34YN64NW78KDCRA&hash=item2989b88fb9:g:DtcAAeSwR01qfjuK&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCAh41PT%2FufgmNFUvMbmEF1ZE%2FnhiOT6LscGIOVIY%2FmKItcQAxPsf%2FmuML8mxlnm8mr%2BhGBzx9kJBTR%2FS%2B9i2jAdQlI41Nhl03mUdkJQU9YR04aeWyuoAr0RIxvF5ValRyRho6%2FeZyeSINNim8bzYy%2FXxV5vroJn6SC6ORsZIdCLFhH%2FFcnWnFNkzXt%2BEnd9lZO6enqIVdJnc%2FwQZyEzJdcuQUlQPd5%2FqrcPjXhMYWo9%2B1xMtw7lPzIpGflxKySAb3vGERRwUbm7dQyRsXXycmX%7Ctkp%3ABk9SR8qetbWDaA",
+        "url": "https://www.ebay.com/itm/178404233145?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0FG5Z8BWEQEBTN083XKQN3G&hash=item2989b88fb9:g:DtcAAeSwR01qfjuK&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCAh41PT%2FufgmNFUvMbmEF1ZE%2FnhiOT6LscGIOVIY%2FmKKPNRJz%2B3kQxIB2idvP6TvzmjwkQoLyxXzK2emVG7twv6uu0UYYybKcRwgbMJeMUCu32irNxFY0uf8vKeTSN49Aj8C1QZF8cRq0QlDXSElOt8ni0ddvIeh%2BAZ860cMBEfi2n2bmK1DP4FDV7xsQvVJ7h7ceJBFeOyQQd4VMT6otB%2FxLb%2BKp4EKH0hj4aaGoSI%2BQX6sD9pZBp8%2BxtXPH6tF9VR8X65xdNZnRml5%2FQIVr4%7Ctkp%3ABk9SR5j1l_CDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/DtcAAeSwR01qfjuK/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
       },
       {
         "itemId": "389828786023",
@@ -206,17 +219,44 @@
         "priceC": 200000,
         "shippingC": 558,
         "landedC": 200558,
-        "url": "https://www.ebay.com/itm/389828786023?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0DND9WW9BB5DEXMQ6WKKEF8&hash=item5ac39b3767:g:FtUAAeSwf7JpzHj6&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBDcmfotZ7qD%2BSdyOQFJn31nJprfAJpVgHBIg50QqaIyUlboljULduJnszhPFxPsgUXOFYqAwjO%2F0Ne6sRM%2BIZ6FCNRWfd4%2FexBCwLhIMmU5cnfiFA4uikozo1MoCd4c371RwPKqcj9Jrl9Jly7AG9lcL9EjX8RRYl0%2FOSYjq5khVEIfjUBGsOWIGBlnE2A9hWHWzV2UEq4S%2BS7VOS%2Bkdn4l00ow3TskAPGi9yAOytJ6mZ2qF6e3MhpWJC3HMU0eiGE8LNNaYlo4Dua1eBSBtz9xou%2BLJf44NiwdBEanUD4cYXymOEpjkNPdaGSXkB2wqg%3D%7Ctkp%3ABk9SR8qetbWDaA",
+        "url": "https://www.ebay.com/itm/389828786023?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0FG5Z8BFG5S4GF4PNE3JE5Z&hash=item5ac39b3767:g:FtUAAeSwf7JpzHj6&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBDcmfotZ7qD%2BSdyOQFJn31nJprfAJpVgHBIg50QqaIyUlboljULduJnszhPFxPsgUXOFYqAwjO%2F0Ne6sRM%2BIZ6FCNRWfd4%2FexBCwLhIMmU5cnfiFA4uikozo1MoCd4c366PVXI17%2F1%2BmtF1EDXwLaDFNcOVypM8zHM1peSj0SqVFsZFoR%2Bc%2F7sadWJgnxrnSn46HEDNX7ZB2sEjqpiONebwMhOysuTXeqmsTejsb1I3%2BgOhcnbwUUx1V30UldSL4W%2BFJR6wKzQ0R4PsImFq0nOzpDKm3itrKc27LjKqkZ7vWtpQiUB1xUptS3FIYO4z%2Bk%3D%7Ctkp%3ABk9SR5j1l_CDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/FtUAAeSwf7JpzHj6/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787165573087
+        "lastSeen": 1787227384326
+      },
+      {
+        "itemId": "307123703183",
+        "title": "2000 POKEMON NEO GENESIS 1ST EDITION #11 MEGANIUM-HOLO PSA 10Opens in a new window or tab",
+        "priceC": 570000,
+        "shippingC": 599,
+        "landedC": 570599,
+        "url": "https://www.ebay.com/itm/307123703183?_skw=%28meganium%29+%2811%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=6043385631&itmmeta=01M0FG5Z8CYM9QFRZF4KH8J39F&hash=item4781ffcd8f:g:xWEAAeSwqhJqfTrL&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCc8U6bp4VFF1EtING73lKOxsm6vnk8hgBokLZ53p%2Fs64ODMHJwgS89cfexa8crPYemlzheV%2F9Vy49EX0RHW%2Fwl59DZTFMgJBH%2FOGT4pmIKrUyAqxE2TaGOBHTVsDITKhDRg85cQSy2ANtqbYzU46zHP%2FKStLum2M9xc41YtZ0FoAooA6Koqv47cmBK6L4h3ThhnzoInQDqhcKPDz91LWZRVFAxQ2F1wRxvadJax5Zq9CCPeEy46DhpUCuuKpvj4I%2Bl3gG8mAmXjE%2F4xNe9GWLl%7Ctkp%3ABk9SR5j1l_CDaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/xWEAAeSwqhJqfTrL/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787211216789,
+        "lastSeen": 1787227384326
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 996818,
+          "saleDate": "2026-08-19",
+          "priceC": 6300,
+          "title": "2000 Pokemon 1st Edition Meganium 11/111 Neo Genesis Holo 11/111",
+          "url": "https://www.ebay.com/itm/267753874014?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 242953,
           "saleDate": "2026-08-16",
@@ -1763,19 +1803,6 @@
           "gradingGrade": 9.5,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 242982,
-          "saleDate": "2026-03-11",
-          "priceC": 55000,
-          "title": "2000 POKEMON NEO GENESIS 1ST EDITION #11 MEGANIUM-HOLO PSA 9 #11",
-          "url": "https://www.ebay.com/itm/117066778703?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1880,9 +1907,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 268,
+      "englishSaleCount": 269,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787045153636
+      "lastCapturedAt": 1787211053847
     }
   }
 }

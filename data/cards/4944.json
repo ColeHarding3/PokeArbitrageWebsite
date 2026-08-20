@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260819T205122489Z-1ee34ff623",
-  "generatedAt": 1787172682489,
+  "snapshotId": "20260820T135958049Z-843544fc09",
+  "generatedAt": 1787234398049,
   "data": {
     "deal": {
       "variantId": 4944,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/babe66103420253d98e602c2dd4ddad67993bedd23631505252523ffae2be657/1600.jpg",
       "popularityScore": 84,
       "market": {
-        "ungradedC": 3100,
-        "grade9C": 11871,
+        "ungradedC": 3114,
+        "grade9C": 11916,
         "grade95C": 13100,
         "cgc10C": 19900,
         "cgc10PristineC": 35800,
-        "psa10C": 120957,
-        "bgs10C": 157200,
+        "psa10C": 119853,
+        "bgs10C": 155800,
         "psa9Pop": 60,
         "psa10Pop": 43,
         "cgc10Pop": 15,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 5 sales per year\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787088016268
+        "fetchedAt": 1787215936105
       },
       "bestCgc10": {
         "itemId": "405100542435",
@@ -37,13 +37,13 @@
         "priceC": 49999,
         "shippingC": 500,
         "landedC": 50499,
-        "url": "https://www.ebay.com/itm/405100542435?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0BD4QXPCYZPWCX4EP0607Y1&hash=item5e51dfb9e3:g:tKQAAOSweRlmk~e-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDvGH9DBpCA4xT2ctc0U12Ut7eubgYjK9pVbUUaAfP05KCiQC7%2BPnIoBGxmM98z4fsOBPT1C9aDoKRbfbChTUjGlrFWYBOL6ytY9YrHA77Ef0pniPWdJ4bCP%2Bc9ibeB1Pa4puR1zqejhkAiuzM9tS93LhQZ48Iq8XU79vDetKUlQHl7ENQdHjJqugoGF9QJP5CJ8NEGpu49Wg%2F%2BJfA2dRgb5yz0jexSiB9nYOjgBZ%2B8VV8vx36s7zpYARAhMVdxBoiMsIxQA48LtRSZkO1ebxONGwj32sKgg%2F4stvDYG4HsYQ%3D%3D%7Ctkp%3ABk9SR4j_ku2CaA",
+        "url": "https://www.ebay.com/itm/405100542435?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0F62P44YBJ2WES2TDZSGQJW&hash=item5e51dfb9e3:g:tKQAAOSweRlmk~e-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDvGH9DBpCA4xT2ctc0U12Ut7eubgYjK9pVbUUaAfP05L4kjzBxMv%2FYUEOCij2pjdOflink7JqlevLnsegZ27zSqp71kOttManTS2TJQeYYMMWGS%2BhGfa7tPXd2Q9p4xF2Hp5wgh4nxF1zaD82tRuThEaFClPVC2Es63KC8XUFE3JOyfTxnVVqF%2BY%2BFe2kJ90SUOo7LZxPv%2BrhomqGhLRw5a5oP9%2FToLHfGLACa03vZi2zWRdtPsABmg3yYc87QJj5c7p8S1A9Guk25pVEBomo%2BToQMv8WHLhZAyYGmGFdCFg%3D%3D%7Ctkp%3ABk9SR6jiiuaDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/tKQAAOSweRlmk~e-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094580234,
-        "lastSeen": 1787094580234
+        "lastSeen": 1787216261391
       },
       "bestPsa10": {
         "itemId": "117345008950",
@@ -51,13 +51,13 @@
         "priceC": 245000,
         "shippingC": 599,
         "landedC": 245599,
-        "url": "https://www.ebay.com/itm/117345008950?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0BD4QXP9J25G6P2P05XBJ0J&hash=item1b524ebd36:g:CjYAAeSw9jhqdShn&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBEgP7AdAs7ELO6KFbYKUuW5WPDzxyX6wKmE2iHIXiQKhJ3jEm%2BhhxbxkoDVJkC6ruz8FgQH2wXTEp4nXhhgl0k7GPtzpwCz%2BCF643q6%2B4WUtsQIl%2F9IosRqZ41TRVVlSmjFVmS0Qc0ctspG7t2Edazvtb3wMsO5lkn85g0kQcyh1RaYa04U25Wh1M8dPaNgUQphSLibOyrpSFjCptGhoIOO97QZtnNa9ExhLp8h%2FcDbqesNvo7j%2B66IicZEOqa9fwi79CItX3nI0oq5T5Ye6PqvQA6Kax4jQyTgMmTevVHrw%3D%3D%7Ctkp%3ABk9SR4j_ku2CaA",
+        "url": "https://www.ebay.com/itm/117345008950?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0F62P44YG8NDJFRJ1AQF1TW&hash=item1b524ebd36:g:CjYAAeSw9jhqdShn&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBEgP7AdAs7ELO6KFbYKUuW5WPDzxyX6wKmE2iHIXiQKsk3B5Djiln4Ix3CupeoYBElXwjS%2BtWr1zKk0Ejs6CgPaXHrOgdyUbAda8%2BQ5bTlVEy4yFlhPCfmeBrv3ecSnWHYKjHj7Dfw%2FvP8sNKGylIs3gf1q3K9Nys%2BgufqTlMctZDaswWvMtK4%2Bd2VQNZ1GllVvmKQfLK7OmqdzsH%2FVGRBR01%2FB6ke1G5NoV2BeU9PHVWbaN9FFKTXpZJUHZhEci%2BbT%2Fq5cwAsyLQxC39s1BaPpyS%2Fb5C1yq%2FCilaQKEp1Ug%3D%3D%7Ctkp%3ABk9SR6jiiuaDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/CjYAAeSw9jhqdShn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787094580234
+        "lastSeen": 1787216261391
       },
       "bestPsa9": {
         "itemId": "175340191328",
@@ -65,13 +65,13 @@
         "priceC": 11500,
         "shippingC": 840,
         "landedC": 12340,
-        "url": "https://www.ebay.com/itm/175340191328?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0BD4QXPSN8GVY1VQ3MAD78S&hash=item28d316fe60:g:YD4AAOSwVd9iwnzX&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAJYjah1v2dqlGoq1G5bjWDWH8TYDzw0fgpzk4PuCmRZ07l5yaxTmNbkpcVKX0qKzh%2FJ8OaG5LiCCHHJ9UMvy5XDLjEkI7u7x8LRLV1LqizS0Ar9SXB0xxeRza4%2BCIsqqXhoCNpnFzQfRxn%2BCewRCe%2FZF%2B24jE6OzYgA%2FETqNjPhtJa6lW%2BjNDj1q4AgmMrfuDUoRHzIK0GUZMe0jT2r3yEl8IF6sChDIi%2FUNwzw5BM83NJUfbx0ESCTQmtK%2BMxqCsevvYjcogBhiMHx40%2BlwE3%7Ctkp%3ABk9SR4b_ku2CaA",
+        "url": "https://www.ebay.com/itm/175340191328?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0F62P44CZ2SXN4KVWCCN6NX&hash=item28d316fe60:g:YD4AAOSwVd9iwnzX&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAJYjah1v2dqlGoq1G5bjWDWH8TYDzw0fgpzk4PuCmRZ0xt7Ap%2BcrXeJUnP2P3dY7jq666Wdy2hX48gclbCLbif2n%2FUe%2BgpPhRUTYzFP7R0DUVKOP0vTHK2%2FYnIw5BbiiGC8GwS3xdFXY9GyybdzTD3X0BiOLJmQqadzITKHZJ2fHed0%2F5xAChhcmcer4TIHm81Rbp5l%2BtQPm4mViI8WDrJkcbJd3BrwBhhjXq3DL37T97%2BMFyTnhXLRq%2FsfA%2BXfO18J7BUadShOCViTSl13LhT%7Ctkp%3ABk9SR6biiuaDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/YD4AAOSwVd9iwnzX/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787094580234
+        "lastSeen": 1787216261391
       },
       "counts": {
         "cgc10Bin": 1,
@@ -93,26 +93,26 @@
         "cgc10CostC": 50499,
         "submissionFeeC": 7999,
         "totalCostC": 58498,
-        "psa10ValueC": 120957,
-        "ratio": 2.0677117166398853
+        "psa10ValueC": 119853,
+        "ratio": 2.0488392765564636
       },
       "firstOpportunityAt": 1787094580234,
-      "updatedAt": 1787094580234
+      "updatedAt": 1787216261391
     },
     "prices": {
       "variantId": 4944,
-      "ungradedC": 3100,
-      "grade9C": 11871,
+      "ungradedC": 3114,
+      "grade9C": 11916,
       "grade95C": 13100,
       "cgc10C": 19900,
       "cgc10PristineC": 35800,
-      "psa10C": 120957,
+      "psa10C": 119853,
       "psa9Pop": 60,
       "psa10Pop": 43,
       "cgc10Pop": 15,
-      "bgs10C": 157200,
+      "bgs10C": 155800,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 5 sales per year\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787088016268
+      "fetchedAt": 1787215936105
     },
     "listings": [
       {
@@ -121,13 +121,13 @@
         "priceC": 11500,
         "shippingC": 840,
         "landedC": 12340,
-        "url": "https://www.ebay.com/itm/175340191328?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0BD4QXPSN8GVY1VQ3MAD78S&hash=item28d316fe60:g:YD4AAOSwVd9iwnzX&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAJYjah1v2dqlGoq1G5bjWDWH8TYDzw0fgpzk4PuCmRZ07l5yaxTmNbkpcVKX0qKzh%2FJ8OaG5LiCCHHJ9UMvy5XDLjEkI7u7x8LRLV1LqizS0Ar9SXB0xxeRza4%2BCIsqqXhoCNpnFzQfRxn%2BCewRCe%2FZF%2B24jE6OzYgA%2FETqNjPhtJa6lW%2BjNDj1q4AgmMrfuDUoRHzIK0GUZMe0jT2r3yEl8IF6sChDIi%2FUNwzw5BM83NJUfbx0ESCTQmtK%2BMxqCsevvYjcogBhiMHx40%2BlwE3%7Ctkp%3ABk9SR4b_ku2CaA",
+        "url": "https://www.ebay.com/itm/175340191328?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0F62P44CZ2SXN4KVWCCN6NX&hash=item28d316fe60:g:YD4AAOSwVd9iwnzX&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAJYjah1v2dqlGoq1G5bjWDWH8TYDzw0fgpzk4PuCmRZ0xt7Ap%2BcrXeJUnP2P3dY7jq666Wdy2hX48gclbCLbif2n%2FUe%2BgpPhRUTYzFP7R0DUVKOP0vTHK2%2FYnIw5BbiiGC8GwS3xdFXY9GyybdzTD3X0BiOLJmQqadzITKHZJ2fHed0%2F5xAChhcmcer4TIHm81Rbp5l%2BtQPm4mViI8WDrJkcbJd3BrwBhhjXq3DL37T97%2BMFyTnhXLRq%2FsfA%2BXfO18J7BUadShOCViTSl13LhT%7Ctkp%3ABk9SR6biiuaDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/YD4AAOSwVd9iwnzX/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787094580234
+        "lastSeen": 1787216261391
       },
       {
         "itemId": "147169202762",
@@ -135,27 +135,27 @@
         "priceC": 30000,
         "shippingC": 597,
         "landedC": 30597,
-        "url": "https://www.ebay.com/itm/147169202762?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0BD4QXPZBH804CK5H9AQPXY&hash=item2243f7d24a:g:X48AAeSwyRppnNvM&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDpyzAoFEZz%2BinxrdgIaTYPzR9ivPotqjfMpmZrmmkC2u7jv%2FhGNxiBCYpZaY6Jju2rHoh5AlC5%2BJtH7NpsekjxloUHwpfhBYpn5YPj2TZ5lc5JQS3mRGq3L5ddnTl1aAiYrwKg3TuFRwZhOasfWvvO8ErHck2fdReGQS91NzjrI6n6F98yy%2B2dWKlCTj%2Fk44LIKHb8nEIAnBYkSpmbB5XTbNEbHn6Eub975l6kpYPHHxM8BaLItLULZZXaQ1946gMvIhL3wZw1SbAp79mv%2FFbbboTVi7uDAg4G06AFDvDmK0ybcjuBadYCTMZXcaGjviQ%3D%7Ctkp%3ABk9SR4j_ku2CaA",
+        "url": "https://www.ebay.com/itm/147169202762?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0F62P44JVKJXF1XGFTMDWHA&hash=item2243f7d24a:g:X48AAeSwyRppnNvM&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xARn0SGoO6DSLzwrgXPGapNZ09xBjMSqbKgljFGWrBQzj5PJbZruluQQRuV1rMYe%2F7gyv%2FNVwgnrYCSCrLTVjUyHt5RDaY8jKldZWEfA2E6eqSRsPkIFEM%2B5vJlHfiWHMXuO0dOGV9crqPxOBMMRy%2F8mfrqR8R6Nu5WQ91SJSipnPNzWQwRb1tWUC7nGF9RlbmuVWNbiPyesiR6UZbQFDiCuyIUtqVpF7lpPLMMpEu0kRTFpDQDAJO3rqiGT6XImvZB4SoZvfXYDo9MRK3EJLB9%7Ctkp%3ABk9SR6jiiuaDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/X48AAeSwyRppnNvM/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787094580234
+        "lastSeen": 1787216261391
       },
       {
         "itemId": "406770806056",
         "title": "2005 POKEMON EX DELTA SPECIES #55 SKARMORY-REVERSE FOIL PSA 9Opens in a new window or tab",
-        "priceC": 28759,
-        "shippingC": 1945,
-        "landedC": 30704,
-        "url": "https://www.ebay.com/itm/406770806056?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&itmmeta=01M0BD4QXP8AHH1SVVGHVJ83TZ&hash=item5eb56ded28:g:G3UAAeSwcIZpty0X&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xB2jdI85mqOwbm86QA8qJuIdOipFSdVYaYL3dn46qcOfSGQHvbxpQyyVDrXYy30uxxxPWIRe1veMc9H4vdsroGlU75PvTks%2FDOTn6GvJolez5dTGLYJPrXMyHsYriSSMcuFuRBPYxRzuBpgH4AwhtCy%2B6bLNbDK%2FtbOhiVhS3EMXVpXnUjDNMo4A0Tfx6ndNWpz3dJcy5DgnYy569kdvCgry2GJcAWbPVlFbo3YDqeAkH5do4%2BUyigmPBoP63cQjSWL4IBeTadrGMOA99WxbEyQ%7Ctkp%3ABk9SR4j_ku2CaA",
+        "priceC": 28894,
+        "shippingC": 1955,
+        "landedC": 30849,
+        "url": "https://www.ebay.com/itm/406770806056?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&itmmeta=01M0F62P44V0TCY44WB3CC4EX0&hash=item5eb56ded28:g:G3UAAeSwcIZpty0X&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAYkYDoQJvfEcba5wda7u4u7ksPl7EopsnX7W%2Fn5fGsy9y3Jjn0vN0iRtrC5FwtLdFKBv1kv96fpXH6lg88%2BjB1jyETVCjtXlwG3STBkc6JfK65HjqRzMefgTlgLq%2BSw2ZjR%2BjbF9ZIxXzelR0Xe4Sfs02I8pZjj5ZtYCJ0IDXStgFiyErziaYkrjOnEPyYYFefLOBHrlZRiPet3%2FORrKC25X7eylOQMTlTDCUAl8UK2bLo7Vv%2FK9fErawIaor87sMofadVpc3qo0asISLJkYibeOmY9VwyAREEDxfPJpfh9ayLlOmTqwN3nqeY%2BW4mnVg%3D%7Ctkp%3ABk9SR6jiiuaDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/G3UAAeSwcIZpty0X/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787094580234
+        "lastSeen": 1787216261391
       },
       {
         "itemId": "405100542435",
@@ -163,13 +163,13 @@
         "priceC": 49999,
         "shippingC": 500,
         "landedC": 50499,
-        "url": "https://www.ebay.com/itm/405100542435?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0BD4QXPCYZPWCX4EP0607Y1&hash=item5e51dfb9e3:g:tKQAAOSweRlmk~e-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDvGH9DBpCA4xT2ctc0U12Ut7eubgYjK9pVbUUaAfP05KCiQC7%2BPnIoBGxmM98z4fsOBPT1C9aDoKRbfbChTUjGlrFWYBOL6ytY9YrHA77Ef0pniPWdJ4bCP%2Bc9ibeB1Pa4puR1zqejhkAiuzM9tS93LhQZ48Iq8XU79vDetKUlQHl7ENQdHjJqugoGF9QJP5CJ8NEGpu49Wg%2F%2BJfA2dRgb5yz0jexSiB9nYOjgBZ%2B8VV8vx36s7zpYARAhMVdxBoiMsIxQA48LtRSZkO1ebxONGwj32sKgg%2F4stvDYG4HsYQ%3D%3D%7Ctkp%3ABk9SR4j_ku2CaA",
+        "url": "https://www.ebay.com/itm/405100542435?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0F62P44YBJ2WES2TDZSGQJW&hash=item5e51dfb9e3:g:tKQAAOSweRlmk~e-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDvGH9DBpCA4xT2ctc0U12Ut7eubgYjK9pVbUUaAfP05L4kjzBxMv%2FYUEOCij2pjdOflink7JqlevLnsegZ27zSqp71kOttManTS2TJQeYYMMWGS%2BhGfa7tPXd2Q9p4xF2Hp5wgh4nxF1zaD82tRuThEaFClPVC2Es63KC8XUFE3JOyfTxnVVqF%2BY%2BFe2kJ90SUOo7LZxPv%2BrhomqGhLRw5a5oP9%2FToLHfGLACa03vZi2zWRdtPsABmg3yYc87QJj5c7p8S1A9Guk25pVEBomo%2BToQMv8WHLhZAyYGmGFdCFg%3D%3D%7Ctkp%3ABk9SR6jiiuaDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/tKQAAOSweRlmk~e-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094580234,
-        "lastSeen": 1787094580234
+        "lastSeen": 1787216261391
       },
       {
         "itemId": "117345008950",
@@ -177,13 +177,13 @@
         "priceC": 245000,
         "shippingC": 599,
         "landedC": 245599,
-        "url": "https://www.ebay.com/itm/117345008950?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0BD4QXP9J25G6P2P05XBJ0J&hash=item1b524ebd36:g:CjYAAeSw9jhqdShn&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBEgP7AdAs7ELO6KFbYKUuW5WPDzxyX6wKmE2iHIXiQKhJ3jEm%2BhhxbxkoDVJkC6ruz8FgQH2wXTEp4nXhhgl0k7GPtzpwCz%2BCF643q6%2B4WUtsQIl%2F9IosRqZ41TRVVlSmjFVmS0Qc0ctspG7t2Edazvtb3wMsO5lkn85g0kQcyh1RaYa04U25Wh1M8dPaNgUQphSLibOyrpSFjCptGhoIOO97QZtnNa9ExhLp8h%2FcDbqesNvo7j%2B66IicZEOqa9fwi79CItX3nI0oq5T5Ye6PqvQA6Kax4jQyTgMmTevVHrw%3D%3D%7Ctkp%3ABk9SR4j_ku2CaA",
+        "url": "https://www.ebay.com/itm/117345008950?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0F62P44YG8NDJFRJ1AQF1TW&hash=item1b524ebd36:g:CjYAAeSw9jhqdShn&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBEgP7AdAs7ELO6KFbYKUuW5WPDzxyX6wKmE2iHIXiQKsk3B5Djiln4Ix3CupeoYBElXwjS%2BtWr1zKk0Ejs6CgPaXHrOgdyUbAda8%2BQ5bTlVEy4yFlhPCfmeBrv3ecSnWHYKjHj7Dfw%2FvP8sNKGylIs3gf1q3K9Nys%2BgufqTlMctZDaswWvMtK4%2Bd2VQNZ1GllVvmKQfLK7OmqdzsH%2FVGRBR01%2FB6ke1G5NoV2BeU9PHVWbaN9FFKTXpZJUHZhEci%2BbT%2Fq5cwAsyLQxC39s1BaPpyS%2Fb5C1yq%2FCilaQKEp1Ug%3D%3D%7Ctkp%3ABk9SR6jiiuaDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/CjYAAeSw9jhqdShn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787094580234
+        "lastSeen": 1787216261391
       },
       {
         "itemId": "277820983779",
@@ -191,13 +191,13 @@
         "priceC": 325000,
         "shippingC": 0,
         "landedC": 325000,
-        "url": "https://www.ebay.com/itm/277820983779?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0BD4QXPXAZMPDTQN4E6JEBM&hash=item40af6bc9e3:g:gnsAAeSwE2Bpvc7~&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBClIxcHBYorlZt7F9wHIz6DUy6ZL%2BP%2BPdLb3UnvuutKeitnCOBolq6dIP7OQ2Wvtaqz8hPbFwTDHUDdLcC4MgI8kdaqmXOcGSoxABPxhaD8XMCt6oK2m88Lj33d%2Bd0b7iCbGYCn%2BHmN4P4qDiLsA447v5sa%2BvYYMU1DaNwqiXtgrhbob1J0ID4OeBxMV7FqUHh6%2Bj9qp57dCyo57qYKLjqN%2FmKX2pAvko%2FpkOAWRfsOy6z71CIXOloEz8Ich1IqKRoABuCymFM2x0KusHtD%2FszpGZ5D%2BP5dQEZZ0RVehuNm2OIFS33Ji93DbC2MJEaqrvVP9dD2yOWwkII7kT2OB1I%7Ctkp%3ABk9SR4j_ku2CaA",
+        "url": "https://www.ebay.com/itm/277820983779?_skw=%28skarmory%29+%2855%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383637&itmmeta=01M0F62P446TBF4RVE1EXGVEV3&hash=item40af6bc9e3:g:gnsAAeSwE2Bpvc7~&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBClIxcHBYorlZt7F9wHIz6DUy6ZL%2BP%2BPdLb3UnvuutKeitnCOBolq6dIP7OQ2Wvtaqz8hPbFwTDHUDdLcC4MgI8kdaqmXOcGSoxABPxhaD8XMCt6oK2m88Lj33d%2Bd0b7irM2ZGyjuGHXUHveIpGhPByfbc9jWxoEeex35dzVyKbp%2B0%2BgfYPvpt9u19IXij2AVCiynO20mLQUJinF8QSCkufwMK9D4feUuq984k6wFAln2bg%2Fo9BCHS8s%2B6uZT0RkwejkErE%2FZLOlJ8OSqw%2F9AigmyJ2%2Fd25ibzkz5rDkDGjQr75UXym7cu6r0MkdaXiDj9%2BY7qzezRwPWY8FPz6%2BAo%7Ctkp%3ABk9SR6jiiuaDaA",
         "imageUrl": "https://i.ebayimg.com/images/g/gnsAAeSwE2Bpvc7~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787094580234
+        "lastSeen": 1787216261391
       }
     ],
     "marketHistory": {
@@ -1605,7 +1605,7 @@
       ],
       "englishSaleCount": 101,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787088014315
+      "lastCapturedAt": 1787215933937
     }
   }
 }
