@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T103728953Z-dc83d8663c",
-  "generatedAt": 1787567848953,
+  "snapshotId": "20260824T133803318Z-9ae948ebe8",
+  "generatedAt": 1787578683318,
   "data": {
     "deal": {
       "variantId": 4458,
@@ -43,7 +43,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787559609190,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       },
       "bestPsa10": {
         "itemId": "307136038060",
@@ -57,7 +57,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787214704655,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       },
       "bestPsa9": {
         "itemId": "377265428367",
@@ -71,14 +71,14 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 1,
         "pristine10": 0,
-        "psa10Bin": 6,
-        "psa10Auction": 1,
+        "psa10Bin": 9,
+        "psa10Auction": 2,
         "psa9Bin": 4
       },
       "ratio": {
@@ -97,7 +97,7 @@
         "ratio": 1.281254735565995
       },
       "firstOpportunityAt": 1787559609190,
-      "updatedAt": 1787559609190
+      "updatedAt": 1787573081272
     },
     "prices": {
       "variantId": 4458,
@@ -127,7 +127,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787474416137,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       },
       {
         "itemId": "800530435928",
@@ -141,7 +141,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787214704655,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       },
       {
         "itemId": "377265428367",
@@ -155,7 +155,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       },
       {
         "itemId": "307136038060",
@@ -169,7 +169,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787214704655,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       },
       {
         "itemId": "236873663981",
@@ -183,7 +183,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       },
       {
         "itemId": "318457417273",
@@ -197,7 +197,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       },
       {
         "itemId": "377244768698",
@@ -211,7 +211,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       },
       {
         "itemId": "267653414455",
@@ -225,7 +225,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       },
       {
         "itemId": "137576278918",
@@ -239,7 +239,21 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
+      },
+      {
+        "itemId": "237012033584",
+        "title": "rayquaza & deoxys legend clash of the summit japenese 75 PSA 10Opens in a new window or tab",
+        "priceC": 400000,
+        "shippingC": 597,
+        "landedC": 400597,
+        "url": "https://www.ebay.com/itm/237012033584?_skw=%28rayquaza%29+%28102%2Cdeoxys%29+%28CGC%2CPSA%29&epid=23074156340&itmmeta=01M0SDKP9PSV2C5R3625AA1917&hash=item372f04a030:g:VCUAAeSwtFxqgyQB&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAatoMwf5Q7%2BW44DqBLtsrC%2FoGC50dy%2B%2B1t%2Fhp5rFvdThzU8vTvROrSVb0hpRoLIh2v1oUyFo8rIJUBImTpk5AkLeWJRQdh%2Bjp19SL8shHLMpJ%2FqovH1aW5nf7hoabqW5WFz2VamqPIpHZ7BoaF5ULtC5kpfwe1UDnqGhlZO8hzyigfQCFGKcfCuswBbdJENvAAhFElKVQGOlviytYkz1q2aKjABZSPQASgEjGtVxayExDsVXwh0yaOGcG7dubH7LfH7BtqVJo4EemIWI8GREPd%7Ctkp%3ABk9SR5blzq2GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/VCUAAeSwtFxqgyQB/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787066511306,
+        "lastSeen": 1787573081272
       },
       {
         "itemId": "278262936135",
@@ -253,7 +267,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       },
       {
         "itemId": "147522272997",
@@ -267,7 +281,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787559609190,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       },
       {
         "itemId": "287480045962",
@@ -281,7 +295,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787559609190,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       },
       {
         "itemId": "267720777154",
@@ -295,7 +309,49 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
+      },
+      {
+        "itemId": "117364828984",
+        "title": "2011 POKEMON WORLD CHAMPIONSHIPS PROMO TWINBOAR RAYQUAZA & DEOXYS LEGEND PSA 10Opens in a new window or tab",
+        "priceC": 649999,
+        "shippingC": 599,
+        "landedC": 650598,
+        "url": "https://www.ebay.com/itm/117364828984?_skw=%28rayquaza%29+%28102%2Cdeoxys%29+%28CGC%2CPSA%29&epid=10043376182&itmmeta=01M0SDKTF1Y136YMKZDAB5KYKY&hash=item1b537d2b38:g:ADYAAeSw9SVqg1lH&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDzAWt9WCPXbqDJ02sE%2FnFeC2QFVUUxziFbTkjvAsvI8fH4TqPXrMkH%2BGeIYVzsIC3gCwuCTgP8dJ34AuXRDNiirzkNMAQh4HIg1n7i4L85Pj9bS2zewhtM5v2Xm6sMyDpQU8ACr73V676ld%2BHT52vDvqdFGvUbeM1MhPbPaxBp0NtekAn4k4Eo5Y8l0Hpk9gJOKz4HDeQC0imQ0YQjps9KnjkrPs5XZyl9mntCzm1bbwu1c1zlzbm8OXF%2FRTj9HxyHlxCM4In6g04gTl4k%2BTPR%7Ctkp%3ABk9SR-Cnz62GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/ADYAAeSw9SVqg1lH/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787165573087,
+        "lastSeen": 1787573081272
+      },
+      {
+        "itemId": "188814425278",
+        "title": "POKEMON HEARTGOLD & SOULSILVER RAYQUAZA & DEOXYS LEGEND-HOLO PSA 10 and 9Opens in a new window or tab",
+        "priceC": 1000000,
+        "shippingC": 572,
+        "landedC": 1000572,
+        "url": "https://www.ebay.com/itm/188814425278?_skw=%28rayquaza%29+%28102%2Cdeoxys%29+%28CGC%2CPSA%29&epid=13043374878&itmmeta=01M0SDKTF1P7PJVKD7J9M06XTJ&hash=item2bf6377cbe:g:VH4AAeSwxARqRG4Y&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCc6GET%2FvEkh95B1F2nhvlz7i2t4JSSveH6C7tyR7HGKO3AivI%2Be1%2FLdCKGLyE%2FN7oPxmR1NDUwSuVpyXAx5E%2BOq4uCj6XMgO%2Bj6dZSaxbyC9OkROE8Em0%2FDuPuD7PIRxDmF%2BBn4D331ArvKOAxnn8Cmw%2F0Vy1SodcbwfN5GIeeBNC31hwsG%2F0Md1P2zrF0kOoNOsmGCNlN%2BTssDWAdcVlT0gHsIYSwG2eEnTTxXZzZonakfDQiE8lPnSNNW%2BE9KK3R23SxikknjGpZrEWByNaf%7Ctkp%3ABk9SR-Knz62GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/VH4AAeSwxARqRG4Y/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787165573087,
+        "lastSeen": 1787573081272
+      },
+      {
+        "itemId": "197826981436",
+        "title": "SEQUENTIAL PSA 10 Rayquaza & Deoxys LEGEND 2010 Holo Clash of the Summit 1st SetOpens in a new window or tab",
+        "priceC": 1999997,
+        "shippingC": 1199,
+        "landedC": 2001196,
+        "url": "https://www.ebay.com/itm/197826981436?_skw=%28rayquaza%29+%28102%2Cdeoxys%29+%28CGC%2CPSA%29&itmmeta=01M0SDKTF2MD51RA8EFP8DR7K9&hash=item2e0f682e3c:g:KHUAAeSwww5pG~P2&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBCuER2bGfSOCZg3xFk2Wx1g9eGpDsztLZ2ea9y6flpty7TUnF8DaoUn35ywTFE9KZ1RpReRkV1QSrg%2BMVDdBwLAtl6Lqk0QKrkuzI1lowhHV4hc08LZhf1YD1YuePX6Jeeu%2F9MiaRboE9Juz%2FHyi3fGXIJCCImcqq1z5ykaEF16D8wVpefZHD64fiygzW3vtrLSUcNiGV%2FWapfq9iwbe8QXlLrFo%2FsSPhYcg5RTT8eOn8nXrEDWSLySvEuuMcInGIz5ftjkI%2FXbfmyVAfSn4jbQfzJpotZNWmC%2BJ3jsf2BE1FSnde1bc5n73li5uXzjOw%3D%7Ctkp%3ABk9SR-Knz62GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/KHUAAeSwww5pG~P2/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787066511306,
+        "lastSeen": 1787573081272
       },
       {
         "itemId": "267760284470",
@@ -309,7 +365,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787559609190
+        "lastSeen": 1787573081272
       }
     ],
     "marketHistory": {

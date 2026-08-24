@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T103728953Z-dc83d8663c",
-  "generatedAt": 1787567848953,
+  "snapshotId": "20260824T133803318Z-9ae948ebe8",
+  "generatedAt": 1787578683318,
   "data": {
     "deal": {
       "variantId": 38,
@@ -43,7 +43,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094427972,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       "bestPsa10": {
         "itemId": "117370932992",
@@ -57,7 +57,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787295958915,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       "bestPsa9": {
         "itemId": "128039783709",
@@ -71,15 +71,15 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787468745147,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       "counts": {
         "cgc10Bin": 2,
-        "cgc10Auction": 1,
+        "cgc10Auction": 0,
         "pristine10": 1,
         "psa10Bin": 16,
         "psa10Auction": 0,
-        "psa9Bin": 10
+        "psa9Bin": 9
       },
       "ratio": {
         "ok": true,
@@ -97,7 +97,7 @@
         "ratio": 2.7617894073013742
       },
       "firstOpportunityAt": 1787094427972,
-      "updatedAt": 1787555120782
+      "updatedAt": 1787572999566
     },
     "prices": {
       "variantId": 38,
@@ -127,21 +127,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787555120782,
-        "lastSeen": 1787555120782
-      },
-      {
-        "itemId": "377422267460",
-        "title": "1999 Pokemon 1st Edition Squirtle Shadowless #63/102 CGC 9.5 MINT+Opens in a new window or tab",
-        "priceC": 33500,
-        "shippingC": 499,
-        "landedC": 33999,
-        "url": "https://www.ebay.com/itm/377422267460?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M0PPXTC27Z1R5CPTETPSB31F&hash=item57e01ec444:g:83EAAeSwls1qgW6I&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAPMd3WqDyVu6h0DXUVMGviNKav3LEeP%2BJ63L7b1tG7sUJP1o3n3XUFk23H6a%2F6geAMU0LgW337d9IX%2F97l63XOnDCBosaDfSmyLDQhugazUzSQ4OGqrKlJcWfyVqXT3EdRvc99HT1cq72ln5tGFNg3lJ%2FLC4eT4lDGcshuCnEIBMM96HY4LfdsPLV0DY3CyWqyZ5LTZ4APVvoi3sx%2FmPc3b5XbjQRBcy0AnXMrjCR3upi4uHiY9QvaSTg7Tp1WLYmfPobEYeaTyYvVnWTHG3FgcMtPsqCC%2Bgi1V1CXLWOmCVpNY0mhyp0fgjBZ2ojQH9A%3D%7Ctkp%3ABk9SR7Cm99aFaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/83EAAeSwls1qgW6I/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "gemMint10",
-        "freshness": "live",
-        "firstSeen": 1787094427972,
-        "lastSeen": 1787468745147
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "128039783709",
@@ -155,49 +141,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787468745147,
-        "lastSeen": 1787555120782
-      },
-      {
-        "itemId": "206504840652",
-        "title": "1999 Pokemon PSA 9 1st Edition Squirtle - 63/102 Base Set MINTOpens in a new window or tab",
-        "priceC": 57500,
-        "shippingC": 1000,
-        "landedC": 58500,
-        "url": "https://www.ebay.com/itm/206504840652?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M0M4HX4ZHR6FP36MTNA52G3V&hash=item3014a5cdcc:g:SUQAAeSw0FZqhnwD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAdJ7%2BOYM0OEj2t8w0hu79mRmyqUIHf7Q1utsN6EZX1itqvOdXwpUwo85Pqxufv%2BfjdGRFaygYl8sCWnWNeXsfjhWhKj1n4eJ2%2FyM9XMarAfGppi0Pn9NFEUtwgdRg3pOkNFQRNOSbCAB0rG91Ef%2FWIDRHsq1LA9GafzO1gEuZSJikUTT9S%2FhYYsjNio9CFjCtC4qk9wByRuyesoWGQmLulRdsIVEUkTb5tEJ2tvUxGUjowZoWDzyTml59KuoSbTndrYIDoXuxDSZWJP3M4qcC4%7Ctkp%3ABk9SR-zSx4SFaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/SUQAAeSw0FZqhnwD/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787209549665,
-        "lastSeen": 1787382384815
-      },
-      {
-        "itemId": "398228119291",
-        "title": "Pokemon 1999 Squirtle 63/102 Base Set 1st Edition PSA 9Opens in a new window or tab",
-        "priceC": 57900,
-        "shippingC": 1088,
-        "landedC": 58988,
-        "url": "https://www.ebay.com/itm/398228119291?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M09VWK5JVXM5Q5YXTDFPPAPC&hash=item5cb83edefb:g:N1MAAeSwc5lqajso&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA1sBIlpYxlqubgW57MMCPrn4Kj7AC37VU6E7NlHeY2mO47o2nggizFREMsYUkShbLpma67OFMv%2FZZreZWuGHfKhnFPuVCSL7u2Go1H5whQJyEQh%2BKlC0fI2X257nk2jKNPWm%2BBEyJYBQp8uqeKayNtrDKSX%2BfcDUyxFsZrDyyvfGEobbuhuh0fr6BEWffqUoiHj7X7cVluIQnWk2F4cM6EJZ76h1gmIgOhA7i7fdsfKdM4IfvZDlDZAwK0cC6HPt267YSdmKQQmxJcCguM6GVw%7Ctkp%3ABk9SR4Kz8ruCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/N1MAAeSwc5lqajso/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "stale",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
-      },
-      {
-        "itemId": "178380016419",
-        "title": "1999 POKEMON GAME 1ST EDITION Shadowless Squirtle #63 PSA 9Opens in a new window or tab",
-        "priceC": 59000,
-        "shippingC": 945,
-        "landedC": 59945,
-        "url": "https://www.ebay.com/itm/178380016419?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M09VWK5JGVSXZ8N4X85895Q4&hash=item2988470b23:g:I3MAAeSw1cJqdKLc&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xClPt1EosfWST50%2BNPlT7MKTPWXehQuLBVhShFmTAdiAbBiM83PLnr5CiSf0PzpoADJGQu0KlJ44VeeokHV0el04cGImJhJWTBjIxWmo34N%2FAtjoJ%2FB2m0Jm3Jk6O8%2BGqYMRZhQKleJP0Y%2BC7ky1YOHmpdWz7qklAVQUaqMGDeASBbOJYVFI7q5neH9vWTmK2qtPpyrPjWcKqqcLumPc%2BDyb1T21s1vMuyOEK9GHaFY6BNrii4dhtt9tPWxL%2BRSaRtc%2B6BDRZG8blcA%2ByHT0t1l%7Ctkp%3ABk9SR4Kz8ruCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/I3MAAeSw1cJqdKLc/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "stale",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "178380014390",
@@ -211,7 +155,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787209549665,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "358693796759",
@@ -225,21 +169,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
-      },
-      {
-        "itemId": "298594563392",
-        "title": "1999 POKEMON GAME 1ST EDITION #63 SQUIRTLE PSA 9Opens in a new window or tab",
-        "priceC": 60000,
-        "shippingC": 599,
-        "landedC": 60599,
-        "url": "https://www.ebay.com/itm/298594563392?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=9073824153&itmmeta=01M09VWK5J9RM4ZKN9FBFHYJ0V&hash=item45859f7540:g:KIAAAeSwNtZqgoRM&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCU%2BXU%2BoVXuwm4SE2290ds58VfVxpebY4x%2BqyDIwdGIlGizSQ5fJbRZ5OY7g3UizrUMZddVjSnmIS9FMi2J3KGeW%2BJNeaxQNZQN8iQ9ifMGj%2F9n94%2FJckg3QyxKDu8AkXq%2FcMarZOzIgW7rRb6Ms9quCvJGAJ7eHov2UjAp1ljrWHsWSZiiFTdLLxlVsDCIIbkk4tjuPeBbmaEuSCj9vEymagyVhbkY59z6whygvm9jgD6ymxJRc0ZG4Ya4747FggbNNJ9tQXy4%2FEmRWO%2Fa1gz3%7Ctkp%3ABk9SR4Kz8ruCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/KIAAAeSwNtZqgoRM/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "stale",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "298379835577",
@@ -253,7 +183,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094427972,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "127976415081",
@@ -267,7 +197,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "298308679283",
@@ -281,7 +211,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "227301165759",
@@ -295,7 +225,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "358897754458",
@@ -309,7 +239,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "327000739901",
@@ -323,7 +253,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094427972,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "373622811879",
@@ -337,7 +267,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "303821753500",
@@ -351,35 +281,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
-      },
-      {
-        "itemId": "377415177215",
-        "title": "1999 Pokemon Game 1st Edition Shadowless #63/102 Squirtle PSA 10 GEM MINTOpens in a new window or tab",
-        "priceC": 280000,
-        "shippingC": 2000,
-        "landedC": 282000,
-        "url": "https://www.ebay.com/itm/377415177215?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M09VWK5M3X77X3AFCXMD2N06&hash=item57dfb293ff:g:q38AAeSwFN5qfceq&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDR6tmb1jS%2B2xvBNbXoRLlG5RDr7oM%2BARv5Kl%2BhvIa3SPxUBn6Qt48yf6BZ%2B9FR0D7poyv5KN7SAmMSngYbLNGsYGnzsDcPHT69U2Ehc31RTkhBDN9RDwdnCoGg7lOW3vA%2F%2Bi34N0V3QtjhrTfjlNEv6zmxQufzdulfD6SdjTcgANke5f4V2Pgl2F1hfpyC85HqoQWdtcKmiCTT0ZQ7HLx%2B9BHDP9C6TZDt0X7QK71mRP6DgfCt2YqyTcMt9H897R498QhKyJ7e910ZpzUSltYD67zEY5jOViAhIN%2BHF6nfR%2BtOX2NmuGW3h6quul%2FxaX8%3D%7Ctkp%3ABk9SR4iz8ruCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/q38AAeSwFN5qfceq/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "stale",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
-      },
-      {
-        "itemId": "157982556439",
-        "title": "Pokemon PSA 10 GEM MINT Squirtle #63/102 Shadowless 1st Edition *Thick Stamp*Opens in a new window or tab",
-        "priceC": 297499,
-        "shippingC": 1963,
-        "landedC": 299462,
-        "url": "https://www.ebay.com/itm/157982556439?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M09VWK5MX383A08XR8E1G9VS&hash=item24c87e8117:g:6PsAAeSwEQRqJ2Hk&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAdPANUTSzeMYNPMvUzsoDlJ%2B1tfXnxoXwx%2BbAJnEqc26UhYg5Tn3%2BlbKgIR48iSwOb%2Brgt1wsqEidi%2FaVycP7TDggC7CmdMkk8VlYzZfuMT%2BiqVJYebx4bzJeZJz%2BVJ90brip3HpMEl1jZnf%2FIavQEHt%2Bx49XASn%2Bxd1mCjuJy%2Fb%2FQ3IZ9O%2B2JFmh8xaY3kOZ8h3SfxNjw%2BPe81xG%2BO1AOagPVuAX4U9bWlm5nYj60KJ%2FZYLXHT%2BTeGFNXzmw0HfaLivDeRuByC2LzCbxH8DIamnb9550GY3sQfHY2NlKrt1ZWzD2AtSzA3H9bWWUR3P8%3D%7Ctkp%3ABk9SR4iz8ruCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/6PsAAeSwEQRqJ2Hk/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "stale",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "117370932992",
@@ -393,7 +295,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787295958915,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "227481463449",
@@ -407,7 +309,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787295958915,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "188564490900",
@@ -421,7 +323,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787295958915,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "407122797575",
@@ -435,7 +337,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787295958915,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "278153980677",
@@ -449,7 +351,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787295958915,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "157801164792",
@@ -463,7 +365,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787295958915,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "158003423510",
@@ -477,7 +379,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787382384815,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "365877876519",
@@ -491,7 +393,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787382384815,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "287109708513",
@@ -505,7 +407,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787382384815,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "303821668309",
@@ -519,7 +421,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787382384815,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "287158311315",
@@ -533,7 +435,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787382384815,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "396879957156",
@@ -547,7 +449,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787382384815,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "116685685303",
@@ -561,7 +463,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787468745147,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "116940907368",
@@ -575,7 +477,7 @@
         "bucket": "pristine10",
         "freshness": "live",
         "firstSeen": 1787468745147,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "188384751159",
@@ -589,7 +491,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787555120782,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "156837166051",
@@ -603,7 +505,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787468745147,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "184808383533",
@@ -617,7 +519,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787468745147,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       }
     ],
     "marketHistory": {

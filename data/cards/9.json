@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T103728953Z-dc83d8663c",
-  "generatedAt": 1787567848953,
+  "snapshotId": "20260824T133803318Z-9ae948ebe8",
+  "generatedAt": 1787578683318,
   "data": {
     "deal": {
       "variantId": 9,
@@ -43,7 +43,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787209549665,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       "bestPsa10": null,
       "bestPsa9": {
@@ -58,7 +58,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       "counts": {
         "cgc10Bin": 2,
@@ -66,7 +66,7 @@
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 8
+        "psa9Bin": 7
       },
       "ratio": {
         "ok": true,
@@ -84,7 +84,7 @@
         "ratio": 5.660377358490566
       },
       "firstOpportunityAt": 1787209549665,
-      "updatedAt": 1787555120782
+      "updatedAt": 1787572999566
     },
     "prices": {
       "variantId": 9,
@@ -103,62 +103,6 @@
     },
     "listings": [
       {
-        "itemId": "128038585617",
-        "title": "1999 Pokemon Unlimited Gyarados Holo Rare #6/102 PSA 9Opens in a new window or tab",
-        "priceC": 125,
-        "shippingC": 499,
-        "landedC": 624,
-        "url": "https://www.ebay.com/itm/128038585617?_skw=%28gyarados%29+%286%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M0PPWRSNT7QJCQXCK57KEQ0A&hash=item1dcfb1c511:g:5PgAAeSwoxhqiNSI&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xB%2BvR1oDOiCh8mx6xilVgP%2BX7Z22V7k7TYRjE%2BNW8DrDEQbDspg3RleMPio%2FOrvg40OYnWbydMoxJSsdEMo3V%2Bqo46TT%2FPU%2FcWeHLsjaYZIPQb%2BHmoCRTIH8oMsogv9dkWl5IT%2BBQBpP2%2BaLE8ErIGs3Olf3ocdKi8fWC6K8R1tk%2F%2BRGHGoyvunPywaPYY0oqze99ETLe%2FYedUdSHb8h8WhRQvAK04rbrZAQ2%2FZQfxETOA%2FKWKpolwf%2FKj3LJ%2FscLlzP5vE9Rjo0iui7KIzmqIU%7Ctkp%3ABk9SR5yN89aFaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/5PgAAeSwoxhqiNSI/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787468745147,
-        "lastSeen": 1787468745147
-      },
-      {
-        "itemId": "318642192491",
-        "title": "Gyarados ex Ultra Rare Pokemon Scarlet & Violet Base Set SV1 PSA 9 MINTOpens in a new window or tab",
-        "priceC": 5200,
-        "shippingC": 499,
-        "landedC": 5699,
-        "url": "https://www.ebay.com/itm/318642192491?_skw=%28gyarados%29+%286%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=3059507772&itmmeta=01M0EZPFKCYSYWPYRXF4HW3H1P&hash=item4a308e006b:g:SFYAAeSw24RqZ3ZL&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC3PSmyPZgbRe1aZmKBxVR96McaMIwfElg7XFl9HLqDoVfaK%2F0NmZ2lyM5TBBy0UmN48bZzs6b7p7axMU%2BS7naY1F72Nqf4aqOPMzlsBhrt3E4KyWuJ166rRnkbrRifI1nIsnnGQJIcnAE7CpEhPtrYh3IiyoWzsU3QdQZI%2BLanJJOyooa2wTUgDon4VAmHkq7HHSXKhQsCY7FC7KUL1woZALRGFeV%2BHzZ0wzg0%2FY1%2FmYximzohhspKRAaxwPpx9gBl8UWEBCyr8gUlFn3179ng%7Ctkp%3ABk9SR_752d-DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/SFYAAeSw24RqZ3ZL/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "stale",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787209549665
-      },
-      {
-        "itemId": "128028641442",
-        "title": "1999 Pokemon Unlimited Gyarados Set #6/102 Rare Holo PSA 9Opens in a new window or tab",
-        "priceC": 10250,
-        "shippingC": 599,
-        "landedC": 10849,
-        "url": "https://www.ebay.com/itm/128028641442?_skw=%28gyarados%29+%286%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M0M4GXE927SBN9A9PJC330Y4&hash=item1dcf1a08a2:g:WagAAeSwQOlqgP4-&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBHhlfcuFgcTRgS6XuWiKrdG1Zu2vQrVcyIVbQjIhk4JCU2pqXXSCznMjzULgEus8uinJKQZJ4Uy3wwu11FzDeX494HOH2xMqphqKCb2b8dMLNEJ5y%2B4mCWp5w8KGXXsL6ALcM0v5SYkd4pQhmdc5jB%2B3UsQVOqu0F35GiZmjhwCq0ILEUjPYLk0DSGG4hp9ZEBST0jJN82D9xGsgMl7L5AcYt72t2cNdNx%2BD8J%2BbTTJL5WlR8dVdkzk2Hw%2FD714NN9ccm2KJzu8rIBLNjDhD7l%7Ctkp%3ABk9SR9DXw4SFaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/WagAAeSwQOlqgP4-/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787382384815
-      },
-      {
-        "itemId": "147510036616",
-        "title": "Pokemon Base Set Gyarados PSA 9Opens in a new window or tab",
-        "priceC": 24900,
-        "shippingC": 0,
-        "landedC": 24900,
-        "url": "https://www.ebay.com/itm/147510036616?_skw=%28gyarados%29+%286%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M09VS609K6WDGE8AY2W2P4GK&hash=item2258488888:g:3fAAAeSw-h9qgplp&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDwY2bYg7cyCNYR8l7Jp9R3kXZ9M3VcrWNSraGMgmpmFolLVMaPPLyapXr2iimO8MhyPzeOqqviWUC7I6OeHy9hDQ%2FsgTyhb5nfBc0j%2Ff2U8FBd8uux6J5Txn%2BCnYletldNF2nIcakqPjtnbrPsL8DP3hoIKc%2BgoKIv9hdsZa2FrLoyN1kcV%2Fy51yTU45o0cb%2F8FHANw1HabwZ9BUxSdlWW5%2F9ogdtPLqRb9cwnHE5nOuaF1e4mwwRwJOw0Q9K5QNN27AiT14k5BW%2Fut22MmMkOt1JsHh0vsSAd83AHNtXBpsDLoXIccaspNISkTQE9Znk%3D%7Ctkp%3ABk9SR-zg5LuCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/3fAAAeSw-h9qgplp/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "stale",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
-      },
-      {
         "itemId": "206481305519",
         "title": "1999 Pokémon TCG Gyarados Holo Base Set PSA 9 Mint Opens in a new window or tab",
         "priceC": 25407,
@@ -170,21 +114,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
-      },
-      {
-        "itemId": "407139747817",
-        "title": "Pokemon 1999 Gyarados 6/102 Holo Base Set PSA 9Opens in a new window or tab",
-        "priceC": 25999,
-        "shippingC": 699,
-        "landedC": 26698,
-        "url": "https://www.ebay.com/itm/407139747817?_skw=%28gyarados%29+%286%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M0HJ3TK6EM0F2YHSZ65DHJ6M&hash=item5ecb6b87e9:g:E~YAAeSw5ctqfNHv&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAtMqm8gZkzORwBvREcbttTpd2OUNySX15LqLA%2BRPYaepDTogw5yQdkTQmj4cbmty3cIUuZUbEMT8isMUnResNFW8w2D5%2BnmoNkSeCFDo0wQTKIeIJY2WFe5FrKyO2FzZ65AgMireMFc5zm9qHFT0snPGnOlDzcthZhX6A%2B9y8IShUOHeWbJNUutZEgEk%2BM4JF9Ad47DriKerleqMMM3mqEaNj5AxodOOzaTge3evqYS%2BUYFLXCTNigmkdlKWYxvVpohk8iGa%2FKzXH2CTv75FbLbFQtXhrVXEWM6ZHAr%2Fa%2BHNUVb7iMJnwjOuGj6fa3JOY%3D%7Ctkp%3ABk9SR7Sqj7KEaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/E~YAAeSw5ctqfNHv/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "stale",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787295958915
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "327299718142",
@@ -198,7 +128,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787209549665,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "278299460359",
@@ -212,21 +142,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787295958915,
-        "lastSeen": 1787555120782
-      },
-      {
-        "itemId": "820024649557",
-        "title": "1999 Pokemon Base Set Unlimited Gyarados Holo 6/102 PSA 9 MINTOpens in a new window or tab",
-        "priceC": 27500,
-        "shippingC": 562,
-        "landedC": 28062,
-        "url": "https://www.ebay.com/itm/820024649557?_skw=%28gyarados%29+%286%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M0M4H20WRAXQ2GDMWAXE56XF&hash=itembeed472755:g:sfMAAeSwEQFqhkRy&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCv3pm3DEycgaf6TTZqvICz%2BYp9NpEk1vGsXww1mV%2BhJ2GEZvpecEAWT1spTmrrJQZAz6nlvRvbMpgRvABhTMtaz6PJdbG4vGA%2FfCUoiBPaa%2FPStWQwpOLKh0UbAfgKcxRLNj3R%2Bb3j%2BpgUvGP5oZdxDsp0pudq1pzOGQJ%2B5jzVKQBXzhp%2FBQsUq0Q7y5hPmjQ1mJeFtdnOjxUqbTIvFW9FrrSQ5G6NuWFT%2FKC%2FhF44raVLH12K8Hkk89b50edRUZFjmW84UQvKMDESHtM16j3%2ByuZ9nXQ%2FPxn0fgDtGHVzyXixwx8%2FYr6ztyENtM0UphM%3D%7Ctkp%3ABk9SR-ygxISFaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/sfMAAeSwEQFqhkRy/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787209549665,
-        "lastSeen": 1787382384815
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "206483432590",
@@ -240,7 +156,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "307120131338",
@@ -254,7 +170,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "284130646354",
@@ -268,7 +184,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "206443660324",
@@ -282,7 +198,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "264928309151",
@@ -296,7 +212,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "206419633074",
@@ -310,7 +226,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094427972,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       }
     ],
     "marketHistory": {

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T103728953Z-dc83d8663c",
-  "generatedAt": 1787567848953,
+  "snapshotId": "20260824T133803318Z-9ae948ebe8",
+  "generatedAt": 1787578683318,
   "data": {
     "deal": {
       "variantId": 4891,
@@ -43,7 +43,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787560190120,
-        "lastSeen": 1787560190120
+        "lastSeen": 1787573053425
       },
       "bestPsa10": null,
       "bestPsa9": {
@@ -58,7 +58,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787560190120
+        "lastSeen": 1787573053425
       },
       "counts": {
         "cgc10Bin": 1,
@@ -66,7 +66,7 @@
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 3
+        "psa9Bin": 4
       },
       "ratio": {
         "ok": true,
@@ -84,7 +84,7 @@
         "ratio": 2.372437984111669
       },
       "firstOpportunityAt": 1787560190120,
-      "updatedAt": 1787560190120
+      "updatedAt": 1787573053425
     },
     "prices": {
       "variantId": 4891,
@@ -114,7 +114,21 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787560190120
+        "lastSeen": 1787573053425
+      },
+      {
+        "itemId": "398315071619",
+        "title": "2005 Pokemon EX Delta Species Slowking #28 Reverse Holo PSA 9 MINT StampedOpens in a new window or tab",
+        "priceC": 39999,
+        "shippingC": 540,
+        "landedC": 40539,
+        "url": "https://www.ebay.com/itm/398315071619?_skw=%28slowking%29+%2828%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367537&itmmeta=01M0SE52KJEMDBWBNA34YGJ3S1&hash=item5cbd6da883:g:~fcAAeSwdUJqd9n2&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAelIb%2FLvE7%2BvI4yUapIEf5EFJzC9U6RgZ8BSuiVTJaeEBKiJSSDRw4ggtdKYWyKI4VlZXUZChEwV89ekUyxLlEqbFt1xum2%2Bf6Gr81yu5TnZSFy8Ib3oUMRBzqUjn3WtNj7TzmldwvTwTaGgJJ8YLDd4m8Qkap5BL8Cgzt%2FWOcVFvqF8a0xHjhKvw4ZPPn7eGo5YMUs6bB%2BatanJ9LXRe%2BBUDIdsytcaGhhn4LEijmuq69W54cCXVLH7M5hvum80ePIOq6BxrpSWzpIV2dArFVeMY30rCWW4qGxaZJKSrXzL5py2hcahpR0RUMyF1Y7OfOQVIwuLwrtnf%2FDGYy3GB5%7Ctkp%3ABk9SR_yplK6GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/~fcAAeSwdUJqd9n2/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787475034667,
+        "lastSeen": 1787573053425
       },
       {
         "itemId": "327282076315",
@@ -128,7 +142,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787560190120
+        "lastSeen": 1787573053425
       },
       {
         "itemId": "287396674962",
@@ -142,7 +156,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787560190120,
-        "lastSeen": 1787560190120
+        "lastSeen": 1787573053425
       },
       {
         "itemId": "397862398269",
@@ -156,7 +170,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787560190120
+        "lastSeen": 1787573053425
       }
     ],
     "marketHistory": {

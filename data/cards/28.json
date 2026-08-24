@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T103728953Z-dc83d8663c",
-  "generatedAt": 1787567848953,
+  "snapshotId": "20260824T133803318Z-9ae948ebe8",
+  "generatedAt": 1787578683318,
   "data": {
     "deal": {
       "variantId": 28,
@@ -43,7 +43,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       "bestPsa10": {
         "itemId": "227253020699",
@@ -57,7 +57,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       "bestPsa9": {
         "itemId": "127838777906",
@@ -71,7 +71,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       "counts": {
         "cgc10Bin": 1,
@@ -79,7 +79,7 @@
         "pristine10": 0,
         "psa10Bin": 2,
         "psa10Auction": 0,
-        "psa9Bin": 11
+        "psa9Bin": 10
       },
       "ratio": {
         "ok": true,
@@ -97,7 +97,7 @@
         "ratio": 1.3831792882228393
       },
       "firstOpportunityAt": 1787038168986,
-      "updatedAt": 1787555120782
+      "updatedAt": 1787572999566
     },
     "prices": {
       "variantId": 28,
@@ -127,35 +127,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
-      },
-      {
-        "itemId": "147511711445",
-        "title": "Pokemon Base Set Clefairy PSA 9Opens in a new window or tab",
-        "priceC": 22000,
-        "shippingC": 0,
-        "landedC": 22000,
-        "url": "https://www.ebay.com/itm/147511711445?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=9043370266&itmmeta=01M0M4KQ6NZSJN62A0YR2VA5E7&hash=item22586216d5:g:SvsAAeSwvk9qgpxH&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBLFfc2OMbjrnW74Sv9Cavy1Wzmlz48lKn%2FrWLISCj027uCs6heTcT6EeVxOXZgarThJUROFGsy9dEAKQ40sXaIti16wnum5XXeJHsp20tW%2BWfG6I6hgIZFtU0pRmLayVV9qH0tqeS6cZI%2Bg0xHNQr%2BNVMFnKaAzNZvjFUkdw%2FNunQTckUMS99%2BdkppuJnvLDUL5io8iSgVBSN2V43BcSNTEV9zpR%2FDxL7VxLDfUk2CIjdPcj5zBmAq0NIjude18%2B9ffHGJdTjn8EwRpSwjCi2h4l1D%2Brk%2BTlSRSqlZNK5Hvh0oAsKZPCjv6XaG08KcwZ8%3D%7Ctkp%3ABk9SR9zzzoSFaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/SvsAAeSwvk9qgpxH/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787382384815
-      },
-      {
-        "itemId": "128024011485",
-        "title": "1999 POKEMON GAME #5 CLEFAIRY-HOLO PSA 9 PokemonOpens in a new window or tab",
-        "priceC": 25000,
-        "shippingC": 800,
-        "landedC": 25800,
-        "url": "https://www.ebay.com/itm/128024011485?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=9043370266&itmmeta=01M09VY6XXC1FVXZRD9EJB4K6D&hash=item1dced362dd:g:rf0AAeSwQZpqKywp&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBDMOr0CBkim0XLP2sfM8iX6WdC7rxmGmBWixENa9CQE4mcoJC0e5FfEDQfqTNDpIJrX5zukb%2Bn5ON6NBGE16Lfj%2BkuV%2F2wEbAnh85HpgdkzBG1T0CmQ3RL%2FLyc0NEtUBCPRU8Tbgp1DgcwGcwHNdJjc7QlS3bv0cYACxBeFoEfe%2FfSbb2AJ%2Bq%2Bb9x2HeBx3Ml0HcZ%2BJZs2Ib8alSdOGPe%2FKSSPr6FquxX8BKY0FtG3qKoqK1cyOWwfxiz9YglkDqAqrdQw2ZW2EDm8iwOriY%2BOTDKViOAcSNUDB2tvlcsYJj6FlcglW%2FzTCkg3T1OIwUw%3D%7Ctkp%3ABk9SR6zv-LuCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/rf0AAeSwQZpqKywp/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "psa9",
-        "freshness": "stale",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "206355379362",
@@ -169,7 +141,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "158010840171",
@@ -183,7 +155,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "188829920153",
@@ -197,7 +169,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787468745147,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "295443200771",
@@ -211,7 +183,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "800508401316",
@@ -225,7 +197,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "377148814393",
@@ -239,7 +211,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "278293541781",
@@ -253,7 +225,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787209549665,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "373643327286",
@@ -267,7 +239,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "287285841418",
@@ -281,35 +253,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
-      },
-      {
-        "itemId": "188807882440",
-        "title": "Clefairy 5/102 Holo 1999 Base Set Unlimited Pokemon English CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 54999,
-        "shippingC": 0,
-        "landedC": 54999,
-        "url": "https://www.ebay.com/itm/188807882440?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=9043370266&itmmeta=01M09VY9ZA6Z53HPYG9EMZKXDF&hash=item2bf5d3a6c8:g:rhkAAeSwLBFqg1tF&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD2AsdXNZ23mMRI%2FxCbj1S32ppFUleqHqg2ayWdowIQFrv%2B52xSuhC4Xuca3nCJ8rzVahjZVtRJwPeiqQZm8QsFvmKguYt22IEo5R8Asouzz1yxtoffYwpbC2B7n3SI%2FQpJr4vAHN1CdEU2giobPk3gqPf7mpZwaFPt6W%2Fw3xM%2FUAKn3W%2BGzW31oVdVQnmIeu9yVa7oZ5QPT6X4JGORLWz3ubsVozu%2BEtVFlDKPOuFCqOnkOreDONAnFzUDcQbcdeCiqiPco3e8EQH2P60VVgnN%7Ctkp%3ABk9SR_if-buCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/rhkAAeSwLBFqg1tF/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "gemMint10",
-        "freshness": "stale",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
-      },
-      {
-        "itemId": "278153969843",
-        "title": "1999 Pokemon Clefairy 5/102 Base Set Holo CGC 10 Gem Mint Rare WOTCOpens in a new window or tab",
-        "priceC": 59500,
-        "shippingC": 1165,
-        "landedC": 60665,
-        "url": "https://www.ebay.com/itm/278153969843?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=9043370266&itmmeta=01M09VY9ZA7BDRR8JEE58K0SRR&hash=item40c344c0b3:g:3A0AAeSwsUZqSVo5&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xATInba%2BtC3kwMCiuaITMnS%2BpB276Ic51GufZRH8iyzaT7Q7ZffLHqpmww1T6QbOuC%2FiP%2BeIDynv1Hw2d1VTRZJAxgiqbbNgDNX10Q3cRtW4aX8J%2F3ULOziUt9%2BlqY9Uy6l2o5y6h4fdXW9O%2BrlTaVGB0C8sioUNtSzkklG7f5b%2FuVGJlSuPeTHAFfkvz%2Fp7XgxJq2h7WOcSahF3Xg6cpo691LYGaQWR5YAlZ4vA8XIeoWSfBkurpPMvrNhNT16oZ6%2B3CcVVeBIt0kO0b21zgCF%7Ctkp%3ABk9SR_qf-buCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/3A0AAeSwsUZqSVo5/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "gemMint10",
-        "freshness": "stale",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787094427972
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "227253020699",
@@ -323,7 +267,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "377415098850",
@@ -337,7 +281,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       },
       {
         "itemId": "287380250504",
@@ -351,7 +295,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787555120782
+        "lastSeen": 1787572999566
       }
     ],
     "marketHistory": {

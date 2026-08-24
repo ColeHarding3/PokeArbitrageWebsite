@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T103728953Z-dc83d8663c",
-  "generatedAt": 1787567848953,
+  "snapshotId": "20260824T133803318Z-9ae948ebe8",
+  "generatedAt": 1787578683318,
   "data": {
     "deal": {
       "variantId": 3228,
@@ -43,15 +43,28 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787558576390,
-        "lastSeen": 1787558576390
+        "lastSeen": 1787573070579
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "306886861381",
+        "title": "2003 POKEMON EX SANDSTORM #5 FLAREON-REVERSE FOIL PSA 10Opens in a new window or tab",
+        "priceC": 2500000,
+        "shippingC": 599,
+        "landedC": 2500599,
+        "url": "https://www.ebay.com/itm/306886861381?_skw=%28flareon%29+%285%2Csandstorm%29+%28CGC%2CPSA%29&epid=16043369989&itmmeta=01M0SCN3QDTXV6YDR9D2NC6YJS&hash=item4773e1e245:g:2wAAAeSwLDppyXrF&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC7960bX1pfIWpaT5Q0N26cCKmocozyGE29oG2xkfJhtBRGzcUV4xQHvoXpOGnYZ0ANtIwQsfXS3Eajz76iEvFl6Y39F4gltT3UHtCqZ3gq3IgotipuGSVSrbSm1XFhADqbjmqs5TLmSXiklyWQK8YhTAp79Ve60dQ981A1iH3rNDrXznCFPyZ445laTqfJo%2F0Tc3X7y%2Fg1LthG94Vf70Y0IlyCNEq%2BFKTRUd75HZgvrKEjotVjtcO5pxrae3zKbRwDiOVjy4MXuK0BrvEP89B1%7Ctkp%3ABk9SR5K81KyGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/2wAAAeSwLDppyXrF/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787558576390,
+        "lastSeen": 1787573070579
+      },
       "bestPsa9": null,
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
         "psa9Bin": 0
       },
@@ -71,7 +84,7 @@
         "ratio": 1.170721649484536
       },
       "firstOpportunityAt": 1787558576390,
-      "updatedAt": 1787558576390
+      "updatedAt": 1787573070579
     },
     "prices": {
       "variantId": 3228,
@@ -101,7 +114,21 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787558576390,
-        "lastSeen": 1787558576390
+        "lastSeen": 1787573070579
+      },
+      {
+        "itemId": "306886861381",
+        "title": "2003 POKEMON EX SANDSTORM #5 FLAREON-REVERSE FOIL PSA 10Opens in a new window or tab",
+        "priceC": 2500000,
+        "shippingC": 599,
+        "landedC": 2500599,
+        "url": "https://www.ebay.com/itm/306886861381?_skw=%28flareon%29+%285%2Csandstorm%29+%28CGC%2CPSA%29&epid=16043369989&itmmeta=01M0SCN3QDTXV6YDR9D2NC6YJS&hash=item4773e1e245:g:2wAAAeSwLDppyXrF&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC7960bX1pfIWpaT5Q0N26cCKmocozyGE29oG2xkfJhtBRGzcUV4xQHvoXpOGnYZ0ANtIwQsfXS3Eajz76iEvFl6Y39F4gltT3UHtCqZ3gq3IgotipuGSVSrbSm1XFhADqbjmqs5TLmSXiklyWQK8YhTAp79Ve60dQ981A1iH3rNDrXznCFPyZ445laTqfJo%2F0Tc3X7y%2Fg1LthG94Vf70Y0IlyCNEq%2BFKTRUd75HZgvrKEjotVjtcO5pxrae3zKbRwDiOVjy4MXuK0BrvEP89B1%7Ctkp%3ABk9SR5K81KyGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/2wAAAeSwLDppyXrF/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787558576390,
+        "lastSeen": 1787573070579
       }
     ],
     "marketHistory": {

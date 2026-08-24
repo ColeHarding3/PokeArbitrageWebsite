@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T103728953Z-dc83d8663c",
-  "generatedAt": 1787567848953,
+  "snapshotId": "20260824T133803318Z-9ae948ebe8",
+  "generatedAt": 1787578683318,
   "data": {
     "deal": {
       "variantId": 550,
@@ -43,7 +43,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094434764,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       },
       "bestPsa10": {
         "itemId": "117345748583",
@@ -57,7 +57,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       },
       "bestPsa9": {
         "itemId": "198526371510",
@@ -71,13 +71,13 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
-        "pristine10": 0,
-        "psa10Bin": 4,
+        "pristine10": 1,
+        "psa10Bin": 5,
         "psa10Auction": 0,
         "psa9Bin": 7
       },
@@ -97,7 +97,7 @@
         "ratio": 5.532071831825016
       },
       "firstOpportunityAt": 1787094434764,
-      "updatedAt": 1787555685458
+      "updatedAt": 1787573011625
     },
     "prices": {
       "variantId": 550,
@@ -127,7 +127,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787555685458,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       },
       {
         "itemId": "298391748071",
@@ -141,7 +141,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094434764,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       },
       {
         "itemId": "198526371510",
@@ -155,7 +155,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       },
       {
         "itemId": "188819348930",
@@ -169,7 +169,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787210174793,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       },
       {
         "itemId": "377355676578",
@@ -183,7 +183,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       },
       {
         "itemId": "127977034767",
@@ -197,7 +197,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       },
       {
         "itemId": "318569784382",
@@ -211,7 +211,21 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
+      },
+      {
+        "itemId": "157637069577",
+        "title": "Pokémon 1999 Fossil Era Karuta 1st Edition Ditto CGC Pristine 10 POP 1✨CUTE RAREOpens in a new window or tab",
+        "priceC": 49999,
+        "shippingC": 583,
+        "landedC": 50582,
+        "url": "https://www.ebay.com/itm/157637069577?_skw=%28ditto%29+%283%2Cfossil%29+%28CGC%2CPSA%29&itmmeta=01M0S9V5Z4G1J09HHK9ZSYS3PN&hash=item24b3e6cb09:g:X6EAAeSwmJRpdmMa&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBDMPuZ09BI85ym%2B2vPMJlrzKvmE%2FHBHcWLkGorLXf%2BiLFTWslDf3SDemsOgOFJw4CUlk6uYLs1pAVX1pMSpYMhjjyrgs2TNW%2FushbbPd13ALIERAevduzCJJjTQMYQ2p7WKhPabLIeFbIr%2FWQZUk3usu6emhAuHfTCXh%2F8fjppEjbiEIZ0NM6X95teRXO6zTAMmzNSxB4qZHPheQsjRgBbMLl1NhgjjUjM6JR00n%2BwHxWBbVBuZwqdSyLnkdox%2FNghkTF5zwubQvFAySbCYIvQNP19FIE4ED7gtprFuxIRzImMt6ZtEKlEZyP5LzrPhtg%3D%7Ctkp%3ABk9SR_Df7KmGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/X6EAAeSwmJRpdmMa/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "pristine10",
+        "freshness": "live",
+        "firstSeen": 1787040561909,
+        "lastSeen": 1787573011625
       },
       {
         "itemId": "117368926266",
@@ -225,7 +239,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787210174793,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       },
       {
         "itemId": "236873794800",
@@ -239,7 +253,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       },
       {
         "itemId": "267628549958",
@@ -253,7 +267,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       },
       {
         "itemId": "117345748583",
@@ -267,7 +281,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       },
       {
         "itemId": "407066225818",
@@ -281,7 +295,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       },
       {
         "itemId": "267746586623",
@@ -295,7 +309,21 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
+      },
+      {
+        "itemId": "298462296707",
+        "title": "Pokemon Ditto Holo 3 Fossil 1st Edition PSA 10Opens in a new window or tab",
+        "priceC": 500000,
+        "shippingC": 572,
+        "landedC": 500572,
+        "url": "https://www.ebay.com/itm/298462296707?_skw=%28ditto%29+%283%2Cfossil%29+%28CGC%2CPSA%29&epid=26043384146&itmmeta=01M0S9V5Z6CPB8WH9H2301A8FN&hash=item457dbd3a83:g:Lm0AAeSwAbNqQegs&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBWuFL7s56VvkT9Ao4PedjEJaHzWSA%2B5GgN6szErNz5k6tgH68oJ2N09FJ8NLrcawg3X0HYItID2oxXuHgd%2B8EqQaATRkuP1LOCDmfUr94inNafn4r%2FoOruRJnZfiYR1dlz0a4qd6ABHX7p45vqOasUyr4xDaUXvnpX2EXpCyBmO1FJ2rjUUuOVs%2Bi1YBZGofn6qq7DJYg2LKALBSNApXI97cHtVHPQpSJm5wdsos6UrAO3MtLVsfscXBnMDzrwAAZJGpk%2F83NsZlylVEJYKKR3FA5%2B5xE2G%2FS7%2BqIUhYwS%2BQgBjpNfK0XUZW5dSXHfoLs%3D%7Ctkp%3ABk9SR_Tf7KmGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/Lm0AAeSwAbNqQegs/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787040561909,
+        "lastSeen": 1787573011625
       },
       {
         "itemId": "377203971545",
@@ -309,7 +337,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787555685458
+        "lastSeen": 1787573011625
       }
     ],
     "marketHistory": {

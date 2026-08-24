@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T103728953Z-dc83d8663c",
-  "generatedAt": 1787567848953,
+  "snapshotId": "20260824T133803318Z-9ae948ebe8",
+  "generatedAt": 1787578683318,
   "data": {
     "deal": {
       "variantId": 336,
@@ -43,7 +43,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094433513,
-        "lastSeen": 1787555336878
+        "lastSeen": 1787573007589
       },
       "bestPsa10": {
         "itemId": "267744015817",
@@ -57,7 +57,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787555336878
+        "lastSeen": 1787573007589
       },
       "bestPsa9": {
         "itemId": "168626917207",
@@ -71,14 +71,14 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787209778058,
-        "lastSeen": 1787555336878
+        "lastSeen": 1787573007589
       },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 1,
-        "psa10Auction": 1,
+        "psa10Auction": 0,
         "psa9Bin": 3
       },
       "ratio": {
@@ -97,7 +97,7 @@
         "ratio": 4.969808266390482
       },
       "firstOpportunityAt": 1787094433513,
-      "updatedAt": 1787555336878
+      "updatedAt": 1787573007589
     },
     "prices": {
       "variantId": 336,
@@ -116,20 +116,6 @@
     },
     "listings": [
       {
-        "itemId": "168609515880",
-        "title": "Pokemom PSA 9 1st Edition Scyther Jungle #10 Holo RareOpens in a new window or tab",
-        "priceC": 49999,
-        "shippingC": 597,
-        "landedC": 50596,
-        "url": "https://www.ebay.com/itm/168609515880?_skw=%28scyther%29+%2810%2Cjungle%29+%28CGC%2CPSA%29&epid=14043372054&itmmeta=01M09WZ152QE3B30J1X3Q6DXV5&hash=item2741e90968:g:q1UAAeSwRQxqfSUr&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAnKDq%2BaPLs%2FvejBl8ujm1Y1Hswc9euzkAaCKCnJUb2Y1m8SBCkb4HExkJyzu8VmnImG5tiEblxP26cgoWhmGP71eVmq%2FxJG0jyTiZ7SmnQrpTAEOErPP4vQbYng0GOxtO85uppwz5GbA8ETu%2F1h1RgXAasry6Y4hxHWQtE1myH0E5pE%2BW5jG2PpakGf0Nbbzviq0X%2BxeGoPO6FLMZK5xjhy5iyI6UEL5L%2FNBYYwWEC2j%2FUq7VjPbGFMm5PjVfF3411bCddg7f2GfamQnUQjlnf%2BnsP15M%2FR%2Bff3CXUSEAoGtVcNO54u6NdFtpgWvyajAI%3D%7Ctkp%3ABk9SR-qS_LyCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/q1UAAeSwRQxqfSUr/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "stale",
-        "firstSeen": 1787038800668,
-        "lastSeen": 1787094433513
-      },
-      {
         "itemId": "168626917207",
         "title": "Pokemom PSA 9 1st Edition Scyther Jungle #10 Holo RareOpens in a new window or tab",
         "priceC": 49999,
@@ -141,7 +127,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787209778058,
-        "lastSeen": 1787555336878
+        "lastSeen": 1787573007589
       },
       {
         "itemId": "318732547383",
@@ -155,7 +141,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094433513,
-        "lastSeen": 1787555336878
+        "lastSeen": 1787573007589
       },
       {
         "itemId": "137562111392",
@@ -169,7 +155,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094433513,
-        "lastSeen": 1787555336878
+        "lastSeen": 1787573007589
       },
       {
         "itemId": "398106129933",
@@ -183,7 +169,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787555336878
+        "lastSeen": 1787573007589
       },
       {
         "itemId": "800397108292",
@@ -197,35 +183,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787555336878
-      },
-      {
-        "itemId": "257674881148",
-        "title": "1999 POKEMON JUNGLE 1ST EDITION SCYTHER PSA GEM MT 10Opens in a new window or tab",
-        "priceC": 80000,
-        "shippingC": 597,
-        "landedC": 80597,
-        "url": "https://www.ebay.com/itm/257674881148?_skw=%28scyther%29+%2810%2Cjungle%29+%28CGC%2CPSA%29&epid=14043372054&itmmeta=01M09WZ44M2VCCYTJSDS20YWE9&hash=item3bfe9ea87c:g:5y0AAeSw1~Nqe347&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBSw8YxCb2uSaVwZg8qpI4K0uRqHzLYmnViWfFEyc8wI2hizMqeWSyODhGWxPY63Af3GNUI83GyXL%2B3BY%2BEs16MPH8%2FcvH3Zsn4kRUY7po2cIE7DI1kgLNWJVBlJcbzFMgH3DmTC1hS%2BzyBW4osTgPpeRbLPukKaiF1BgWSnkU4sCqp5YKOUsnoorPrprtDsSkWDJV4yCsNiQS9M1Unx8Fk5nN7JNFJlBB8d30J3jJz6zoZiiXJFaHuqoGDJJYFOGCjznFTovqqmHJpim5aHx%2FDffmFsWaGkTfsIGFu%2BXO%2FDF38MUaKALUXSGp0Ga3CBBE%3D%7Ctkp%3ABk9SR8rC_LyCaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/5y0AAeSw1~Nqe347/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "psa10",
-        "freshness": "stale",
-        "firstSeen": 1787038800668,
-        "lastSeen": 1787094433513
-      },
-      {
-        "itemId": "267757452266",
-        "title": "Pokemon Jungle Scyther Holo 1st Edition #10 PSA 10Opens in a new window or tab",
-        "priceC": 455000,
-        "shippingC": 499,
-        "landedC": 455499,
-        "url": "https://www.ebay.com/itm/267757452266?_skw=%28scyther%29+%2810%2Cjungle%29+%28CGC%2CPSA%29&epid=14043372054&itmmeta=01M0PQ4PJ6KWP95JRP1TB4RZD3&hash=item3e57967bea:g:HpAAAeSwLxRqf6B4&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xArpw1U2MK6hcHoa3131pZXfcgdrkdfZ5DI1eNSxSD%2BU7pqASHHwKxAxZNZhceUVRwRz%2F6ArcICTaPMgt5N18G0mFcPDsLpb8fzKJ1%2BCGgIkKqEw8X6Rbn0Yk2R2Ci7xzovyFK6RXFWW3YPTzdfkzos%2FRWuyMDNXq0ShPLQxq2hm6REsf3%2FSSKKdAHmH2%2B75FaMR5lRJoyAgKYbgZVboMI9jDAdmgxAcFs1HmJ5PS7nt02GhuYmSLb6g3W0Nql3rI5Uo07LBYSFsR29TOJcAF2IWLc4xgVSQZPXDyiQ569TyL57dyGhQG%2F1EE8n4lLfXiE%3D%7Ctkp%3ABk9SR6TpkteFaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/HpAAAeSwLxRqf6B4/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787038800668,
-        "lastSeen": 1787468972373
+        "lastSeen": 1787573007589
       },
       {
         "itemId": "267744015817",
@@ -239,7 +197,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787555336878
+        "lastSeen": 1787573007589
       }
     ],
     "marketHistory": {
