@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 5077,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/37a0eef5b079b5ffee299a3404cd483436bce3d8a5cfec36d4ac5f87d8a13f87/1600.jpg",
       "popularityScore": 85,
       "market": {
-        "ungradedC": 3599,
-        "grade9C": 24023,
-        "grade95C": 26400,
+        "ungradedC": 3521,
+        "grade9C": 20784,
+        "grade95C": 22900,
         "cgc10C": 130700,
         "cgc10PristineC": 235300,
-        "psa10C": 217852,
+        "psa10C": 217864,
         "bgs10C": 283200,
         "psa9Pop": 39,
         "psa10Pop": 1,
         "cgc10Pop": 3,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787217459314
+        "fetchedAt": 1787560442981
       },
       "bestCgc10": {
         "itemId": "267634756575",
@@ -37,13 +37,13 @@
         "priceC": 79999,
         "shippingC": 558,
         "landedC": 80557,
-        "url": "https://www.ebay.com/itm/267634756575?_skw=%28pidgeot%2Cdelta%29+%2814%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=3043380068&itmmeta=01M0F7HDZ8H3QCZ9X9PE5CXFJ0&hash=item3e50464bdf:g:zzUAAeSwO6Vp2LpT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCeOJ9D1zQmf8zx%2FEo0BfQLi3oVDRobRPtmJrn3aP51%2F6RvtLfWDX5VU7DK6l7FvvRCcqnW8jT2TbGG3CmA%2BF2GMEhJiefNHqSh0fKLLUrbUHRSTDZQWaSiKKD621VheXObaAWWLg6tyHrs2iCIEXhPyjxKJYbuByGOeaUrq7dyQbNkWh9eTwK1sNUJkhsmkaIGZbqGZNhhU0DnKA9hcmQpc%2Bl8fqmpHM2CSGQ53Bzgif2VTY2bW7LX4q9TsKdjWkNZ5YWmGeDPfGKZwm1N%2FwQsDO1AIPrbHEH5TMZxsHYLybEFiGrnMO3MAF1w1%2BoGXLyTwcjbKb9Z7ed3kL9b7u7q%7Ctkp%3ABk9SR4bgxeeDaA",
+        "url": "https://www.ebay.com/itm/267634756575?_skw=%28pidgeot%2Cdelta%29+%2814%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=3043380068&itmmeta=01M0SEJW5N9Q8YPEA7A396MZKF&hash=item3e50464bdf:g:zzUAAeSwO6Vp2LpT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCeOJ9D1zQmf8zx%2FEo0BfQLi3oVDRobRPtmJrn3aP51%2F6RvtLfWDX5VU7DK6l7FvvRCcqnW8jT2TbGG3CmA%2BF2GMEhJiefNHqSh0fKLLUrbUHRSTDZQWaSiKKD621VheXOagZTOANmBnSw2AdbTqk5YYK4R9MVChwUSb7LsjOxmfs0spKIfVCPDUKlRTiu3K%2FEDTuoAhg9DNetqwAJd2hGHH%2FHpvJEcGvZ9ZXUkziQujdnXtTuAvQVYt0%2Fw5LXxHa1sgTBR1lS%2BUDe7p6iY2bo7Fj474Q28qhMkVjNbdIif20NpAwacedux3wTcsoY7kIina5b5IVIcYZzEFEHrcFZ0%7Ctkp%3ABk9SR5jDy66GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/zzUAAeSwO6Vp2LpT/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094581742,
-        "lastSeen": 1787217904343
+        "lastSeen": 1787560642844
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -67,26 +67,26 @@
         "cgc10CostC": 80557,
         "submissionFeeC": 14900,
         "totalCostC": 95457,
-        "psa10ValueC": 217852,
-        "ratio": 2.28220036246687
+        "psa10ValueC": 217864,
+        "ratio": 2.2823260735200144
       },
       "firstOpportunityAt": 1787094581742,
-      "updatedAt": 1787217904343
+      "updatedAt": 1787560642844
     },
     "prices": {
       "variantId": 5077,
-      "ungradedC": 3599,
-      "grade9C": 24023,
-      "grade95C": 26400,
+      "ungradedC": 3521,
+      "grade9C": 20784,
+      "grade95C": 22900,
       "cgc10C": 130700,
       "cgc10PristineC": 235300,
-      "psa10C": 217852,
+      "psa10C": 217864,
       "psa9Pop": 39,
       "psa10Pop": 1,
       "cgc10Pop": 3,
       "bgs10C": 283200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787217459314
+      "fetchedAt": 1787560442981
     },
     "listings": [
       {
@@ -95,13 +95,13 @@
         "priceC": 79999,
         "shippingC": 558,
         "landedC": 80557,
-        "url": "https://www.ebay.com/itm/267634756575?_skw=%28pidgeot%2Cdelta%29+%2814%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=3043380068&itmmeta=01M0F7HDZ8H3QCZ9X9PE5CXFJ0&hash=item3e50464bdf:g:zzUAAeSwO6Vp2LpT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCeOJ9D1zQmf8zx%2FEo0BfQLi3oVDRobRPtmJrn3aP51%2F6RvtLfWDX5VU7DK6l7FvvRCcqnW8jT2TbGG3CmA%2BF2GMEhJiefNHqSh0fKLLUrbUHRSTDZQWaSiKKD621VheXObaAWWLg6tyHrs2iCIEXhPyjxKJYbuByGOeaUrq7dyQbNkWh9eTwK1sNUJkhsmkaIGZbqGZNhhU0DnKA9hcmQpc%2Bl8fqmpHM2CSGQ53Bzgif2VTY2bW7LX4q9TsKdjWkNZ5YWmGeDPfGKZwm1N%2FwQsDO1AIPrbHEH5TMZxsHYLybEFiGrnMO3MAF1w1%2BoGXLyTwcjbKb9Z7ed3kL9b7u7q%7Ctkp%3ABk9SR4bgxeeDaA",
+        "url": "https://www.ebay.com/itm/267634756575?_skw=%28pidgeot%2Cdelta%29+%2814%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=3043380068&itmmeta=01M0SEJW5N9Q8YPEA7A396MZKF&hash=item3e50464bdf:g:zzUAAeSwO6Vp2LpT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCeOJ9D1zQmf8zx%2FEo0BfQLi3oVDRobRPtmJrn3aP51%2F6RvtLfWDX5VU7DK6l7FvvRCcqnW8jT2TbGG3CmA%2BF2GMEhJiefNHqSh0fKLLUrbUHRSTDZQWaSiKKD621VheXOagZTOANmBnSw2AdbTqk5YYK4R9MVChwUSb7LsjOxmfs0spKIfVCPDUKlRTiu3K%2FEDTuoAhg9DNetqwAJd2hGHH%2FHpvJEcGvZ9ZXUkziQujdnXtTuAvQVYt0%2Fw5LXxHa1sgTBR1lS%2BUDe7p6iY2bo7Fj474Q28qhMkVjNbdIif20NpAwacedux3wTcsoY7kIina5b5IVIcYZzEFEHrcFZ0%7Ctkp%3ABk9SR5jDy66GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/zzUAAeSwO6Vp2LpT/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094581742,
-        "lastSeen": 1787217904343
+        "lastSeen": 1787560642844
       }
     ],
     "marketHistory": {
@@ -190,6 +190,19 @@
           "priceC": 3999,
           "title": "Pokemon TCG Holon Phantoms Pidgeot 14/110 Delta Reverse Holo 14/110",
           "url": "https://www.ebay.com/itm/407080370113?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2600770,
+          "saleDate": "2026-07-28",
+          "priceC": 9700,
+          "title": "Pokémon Pidgeot Delta Species Holon Phantoms #14/110 Reverse Holo Rare 2006 NM 14/110",
+          "url": "https://www.ebay.com/itm/178343895567?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1250,9 +1263,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 87,
+      "englishSaleCount": 88,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787217457710
+      "lastCapturedAt": 1787560440764
     }
   }
 }

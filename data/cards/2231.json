@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 2231,
@@ -18,9 +18,9 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/7ecbea6b186587b3099b3a72a84ac20421da79c4d92f9719a5e941706a96e14f/1600.jpg",
       "popularityScore": 91,
       "market": {
-        "ungradedC": 14735,
-        "grade9C": 62915,
-        "grade95C": 69200,
+        "ungradedC": 15276,
+        "grade9C": 61708,
+        "grade95C": 67900,
         "cgc10C": 31500,
         "cgc10PristineC": 56700,
         "psa10C": 76500,
@@ -29,7 +29,7 @@
         "psa10Pop": 23,
         "cgc10Pop": 17,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787212173856
+        "fetchedAt": 1787557529960
       },
       "bestCgc10": {
         "itemId": "406904520400",
@@ -37,13 +37,13 @@
         "priceC": 499900,
         "shippingC": 0,
         "landedC": 499900,
-        "url": "https://www.ebay.com/itm/406904520400?_skw=%28magikarp%29+%28118%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=5043380836&itmmeta=01M0FGDK4HP7PH8ETVZYYQF3DE&hash=item5ebd663ed0:g:ThUAAeSw93Np-SKy&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDR8DSSb6YMoJdmllLtploIH7LbML2kiWToPyX7840DDvJ2BVDQqnJ0kzGRfF7vrLaJxIxIWGa4VYBVSgbaNtzS0pVuNWX26naWuwajc7Zq3gJ7Augl4k24Cmcs6NaQK0AMJwtPoRbcTP6E80sggPtMuVt%2FvXEOL85LgcJBIDjhL7p%2FAZ67qNkd0cY%2Fy3lE0ljtoXmj%2FjMVhNlOX0UAL1D3veBA8qD1RtO4oWbsqE2B7fUHbPs%2BAq2jIzfg7EqI7eXOp%2Fx6bBFMrOXZtvRdg9U8uUdg%2BqI8a%2BZX%2FzkNeyVeZRbt9rYlocsoVQ1i9QmczUlJ02Ubyuha55nR5NuYtIhT%7Ctkp%3ABk9SR7yytvCDaA",
+        "url": "https://www.ebay.com/itm/406904520400?_skw=%28magikarp%29+%28118%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=5043380836&itmmeta=01M0SKB0MV9QTRR4NK2SX21Z1P&hash=item5ebd663ed0:g:ThUAAeSw93Np-SKy&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCVgMJTwk88rEFI1sw%2F7i0CNLMYMHD0oLu7JnGPBH9ftY5o7NRUSkVLX7faa6FruWCX5bZQ28Z2DKYarC8FHlbQBWu%2F%2BqZxyvKyBcUWUkgfXJMZTt5nLXS7Ffyb5Kf7SbSEmWcs6bAA8giJHyK186A1JzYJyHdVd719%2FQGEUBYslNDrTHP1BTQSAlyckzNkNX10zlfN3VotFLyx5nOmfpEgUZIp8PzyeEULWZAYU6aPSoKKFV9a%2FKCdNG5Im9Rbi%2BKawE10e2EVjBcyh3wnS1L2yvBO5TO509CRS7wGO8jusA%3D%3D%7Ctkp%3ABk9SR9CKrLOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ThUAAeSw93Np-SKy/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787052902664,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       "bestPsa10": {
         "itemId": "398280708192",
@@ -51,35 +51,22 @@
         "priceC": 899900,
         "shippingC": 0,
         "landedC": 899900,
-        "url": "https://www.ebay.com/itm/398280708192?_skw=%28magikarp%29+%28118%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=5043380836&itmmeta=01M0FGDK4HH62X8YZ8EHJPY8H9&hash=item5cbb615060:g:if8AAeSw8OtpZsOG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAseyisR87N5WYti%2BtLR%2FAw4FhKqdf7RG%2FgT676kN6BEHu7ZUeXVccdY7gcEcdfEunSiD2WOfVJtN%2FIhsiPaH855AJUJaksCVaiAQZOLySKoom4oPXFEhB5DGqTHT%2Bnb%2FB0AY6KLz3enWqaZ5Hm0mEC5ulDmCJWSDsdWX9SAC7l%2Fk%2BbbSSZhkrUvorjfQBw%2BBi0wyJWMu%2FlYyXWVBdbSejYntCWJk7z80%2Fy9mmdarow2P%2FbXndPSD%2BoZ9EL8WbiI7KyahuQnLn2ii1yiDq98LGhdpeRWzEzf9uXKPzJTUgkvA%3D%3D%7Ctkp%3ABk9SR7yytvCDaA",
+        "url": "https://www.ebay.com/itm/398280708192?_skw=%28magikarp%29+%28118%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=5043380836&itmmeta=01M0SKB0MV858DN20FSHHHHAEG&hash=item5cbb615060:g:if8AAeSw8OtpZsOG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAseyisR87N5WYti%2BtLR%2FAw4FhKqdf7RG%2FgT676kN6BELWuu4aRl%2FPxJG03%2BorqMzfm2r%2BB%2BikcJkZ2vnzIrorqBTeMqV7QnWLlhsx0WgaMDao9%2F5P9kwaEDNCoGq%2FteTIfzVZ0HGrWTW1sxt4qRB3WgOBNLlvm6t%2B3O1JmhaWCgCVHC6L91EEjRwBPhYB0Eoz2rzJVGW0cuGanrjtK%2B2G9IGYHp5dYfOl%2B4bgGnvQhjqZcSrFwRvb59uSl7lwrhgC9Drs4rKlSXdb9o0ne59s8MYYvxmqTDO%2BVn4VPNrKNGQ%3D%3D%7Ctkp%3ABk9SR9CKrLOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/if8AAeSw8OtpZsOG/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787052902664,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
-      "bestPsa9": {
-        "itemId": "398211348538",
-        "title": "PSA 9 2002 Pokemon Expedition Reverse Holofoil Magikarp #118 Opens in a new window or tab",
-        "priceC": 125000,
-        "shippingC": 945,
-        "landedC": 125945,
-        "url": "https://www.ebay.com/itm/398211348538?_skw=%28magikarp%29+%28118%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=5043380836&itmmeta=01M0FGDK4H74X3TFYYJ54AHS5M&hash=item5cb73ef83a:g:HfsAAeSwNk5qPAxT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA4lgVXvXtvuY0hWJtO%2F9cn5jazxtRZcTV%2BQUnA5sv1rVtozBQ%2FSBakrbPYARximZ8gFm1ENr2qzRViR6fc%2BSdBXCBkdh5Qhijh12bO6H%2Bnpih4m0b9wzxNF7YVgQG2Eka1FvohRmdBR3AvGB0elrThbB4EbwNA%2Ble75HEyrM1yvFJzRRPd8NIYhou2Ofd6zeD6P7iW1ewKl%2Bv%2FgZpirNjDPY%2FafffGP%2BLcvq%2B9kziPqamqYZvy7YtedUsD8phMLrDCsVXreYEdhJNzByNaZZcyHWFmhEWeuw9Ttt%2BMpeRNhA%3D%3D%7Ctkp%3ABk9SR7qytvCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/HfsAAeSwNk5qPAxT/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787052902664,
-        "lastSeen": 1787227384326
-      },
+      "bestPsa9": null,
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 2,
         "psa10Auction": 0,
-        "psa9Bin": 1
+        "psa9Bin": 0
       },
       "ratio": {
         "ok": true,
@@ -97,13 +84,13 @@
         "ratio": 0.15062049738235359
       },
       "firstOpportunityAt": 1787052902664,
-      "updatedAt": 1787227384326
+      "updatedAt": 1787565789327
     },
     "prices": {
       "variantId": 2231,
-      "ungradedC": 14735,
-      "grade9C": 62915,
-      "grade95C": 69200,
+      "ungradedC": 15276,
+      "grade9C": 61708,
+      "grade95C": 67900,
       "cgc10C": 31500,
       "cgc10PristineC": 56700,
       "psa10C": 76500,
@@ -112,7 +99,7 @@
       "cgc10Pop": 17,
       "bgs10C": 99500,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787212173856
+      "fetchedAt": 1787557529960
     },
     "listings": [
       {
@@ -121,13 +108,13 @@
         "priceC": 125000,
         "shippingC": 945,
         "landedC": 125945,
-        "url": "https://www.ebay.com/itm/398211348538?_skw=%28magikarp%29+%28118%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=5043380836&itmmeta=01M0FGDK4H74X3TFYYJ54AHS5M&hash=item5cb73ef83a:g:HfsAAeSwNk5qPAxT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA4lgVXvXtvuY0hWJtO%2F9cn5jazxtRZcTV%2BQUnA5sv1rVtozBQ%2FSBakrbPYARximZ8gFm1ENr2qzRViR6fc%2BSdBXCBkdh5Qhijh12bO6H%2Bnpih4m0b9wzxNF7YVgQG2Eka1FvohRmdBR3AvGB0elrThbB4EbwNA%2Ble75HEyrM1yvFJzRRPd8NIYhou2Ofd6zeD6P7iW1ewKl%2Bv%2FgZpirNjDPY%2FafffGP%2BLcvq%2B9kziPqamqYZvy7YtedUsD8phMLrDCsVXreYEdhJNzByNaZZcyHWFmhEWeuw9Ttt%2BMpeRNhA%3D%3D%7Ctkp%3ABk9SR7qytvCDaA",
+        "url": "https://www.ebay.com/itm/398211348538?_skw=%28magikarp%29+%28118%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=5043380836&itmmeta=01M0HNK19Z0GP4CS3PKTEXHYGH&hash=item5cb73ef83a:g:HfsAAeSwNk5qPAxT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCBP1rhYDx8xf%2FTi9dX%2BIk8wAjhsHHBnxVMKpDWcKZ5wopVI%2BwxruIy9TvcBRBF5tvV2cFLnk0UE5LD04LzWr0B3Ff87%2BrEnuv11ZKHtC30usA6B6%2BZSOZBFSLBEuP5vKt6Gf3bPoauG26Rkik4K%2Fw2EG9TGCIzjSmrOU8x3XtXNwt7k9Me3bdV8ABDlLXXIQwdXRC27a%2FWgXjD7%2B22hKrrsjV98U44QM6MMbNhajfJt%2Bn1fA0A13ky7Zsltpi7jocv%2FFu790aJK29lW60EIpt%2BssyfO048ZlM66A4pYs0C2kZWlsvx9e7SiVluv0HkeLSOl6T6AlfxSPVeZSpQyp4X%7Ctkp%3ABk9SR6SVzLWEaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HfsAAeSwNk5qPAxT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787052902664,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787299540326
       },
       {
         "itemId": "406904520400",
@@ -135,13 +122,13 @@
         "priceC": 499900,
         "shippingC": 0,
         "landedC": 499900,
-        "url": "https://www.ebay.com/itm/406904520400?_skw=%28magikarp%29+%28118%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=5043380836&itmmeta=01M0FGDK4HP7PH8ETVZYYQF3DE&hash=item5ebd663ed0:g:ThUAAeSw93Np-SKy&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDR8DSSb6YMoJdmllLtploIH7LbML2kiWToPyX7840DDvJ2BVDQqnJ0kzGRfF7vrLaJxIxIWGa4VYBVSgbaNtzS0pVuNWX26naWuwajc7Zq3gJ7Augl4k24Cmcs6NaQK0AMJwtPoRbcTP6E80sggPtMuVt%2FvXEOL85LgcJBIDjhL7p%2FAZ67qNkd0cY%2Fy3lE0ljtoXmj%2FjMVhNlOX0UAL1D3veBA8qD1RtO4oWbsqE2B7fUHbPs%2BAq2jIzfg7EqI7eXOp%2Fx6bBFMrOXZtvRdg9U8uUdg%2BqI8a%2BZX%2FzkNeyVeZRbt9rYlocsoVQ1i9QmczUlJ02Ubyuha55nR5NuYtIhT%7Ctkp%3ABk9SR7yytvCDaA",
+        "url": "https://www.ebay.com/itm/406904520400?_skw=%28magikarp%29+%28118%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=5043380836&itmmeta=01M0SKB0MV9QTRR4NK2SX21Z1P&hash=item5ebd663ed0:g:ThUAAeSw93Np-SKy&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCVgMJTwk88rEFI1sw%2F7i0CNLMYMHD0oLu7JnGPBH9ftY5o7NRUSkVLX7faa6FruWCX5bZQ28Z2DKYarC8FHlbQBWu%2F%2BqZxyvKyBcUWUkgfXJMZTt5nLXS7Ffyb5Kf7SbSEmWcs6bAA8giJHyK186A1JzYJyHdVd719%2FQGEUBYslNDrTHP1BTQSAlyckzNkNX10zlfN3VotFLyx5nOmfpEgUZIp8PzyeEULWZAYU6aPSoKKFV9a%2FKCdNG5Im9Rbi%2BKawE10e2EVjBcyh3wnS1L2yvBO5TO509CRS7wGO8jusA%3D%3D%7Ctkp%3ABk9SR9CKrLOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ThUAAeSw93Np-SKy/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787052902664,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "398280708192",
@@ -149,13 +136,13 @@
         "priceC": 899900,
         "shippingC": 0,
         "landedC": 899900,
-        "url": "https://www.ebay.com/itm/398280708192?_skw=%28magikarp%29+%28118%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=5043380836&itmmeta=01M0FGDK4HH62X8YZ8EHJPY8H9&hash=item5cbb615060:g:if8AAeSw8OtpZsOG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAseyisR87N5WYti%2BtLR%2FAw4FhKqdf7RG%2FgT676kN6BEHu7ZUeXVccdY7gcEcdfEunSiD2WOfVJtN%2FIhsiPaH855AJUJaksCVaiAQZOLySKoom4oPXFEhB5DGqTHT%2Bnb%2FB0AY6KLz3enWqaZ5Hm0mEC5ulDmCJWSDsdWX9SAC7l%2Fk%2BbbSSZhkrUvorjfQBw%2BBi0wyJWMu%2FlYyXWVBdbSejYntCWJk7z80%2Fy9mmdarow2P%2FbXndPSD%2BoZ9EL8WbiI7KyahuQnLn2ii1yiDq98LGhdpeRWzEzf9uXKPzJTUgkvA%3D%3D%7Ctkp%3ABk9SR7yytvCDaA",
+        "url": "https://www.ebay.com/itm/398280708192?_skw=%28magikarp%29+%28118%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=5043380836&itmmeta=01M0SKB0MV858DN20FSHHHHAEG&hash=item5cbb615060:g:if8AAeSw8OtpZsOG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAseyisR87N5WYti%2BtLR%2FAw4FhKqdf7RG%2FgT676kN6BELWuu4aRl%2FPxJG03%2BorqMzfm2r%2BB%2BikcJkZ2vnzIrorqBTeMqV7QnWLlhsx0WgaMDao9%2F5P9kwaEDNCoGq%2FteTIfzVZ0HGrWTW1sxt4qRB3WgOBNLlvm6t%2B3O1JmhaWCgCVHC6L91EEjRwBPhYB0Eoz2rzJVGW0cuGanrjtK%2B2G9IGYHp5dYfOl%2B4bgGnvQhjqZcSrFwRvb59uSl7lwrhgC9Drs4rKlSXdb9o0ne59s8MYYvxmqTDO%2BVn4VPNrKNGQ%3D%3D%7Ctkp%3ABk9SR9CKrLOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/if8AAeSw8OtpZsOG/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787052902664,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "366451791052",
@@ -163,17 +150,56 @@
         "priceC": 1988800,
         "shippingC": 875,
         "landedC": 1989675,
-        "url": "https://www.ebay.com/itm/366451791052?_skw=%28magikarp%29+%28118%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=5043380836&itmmeta=01M0FGDK4HKTVYNVT31H827FK8&hash=item55523a94cc:g:Cw4AAeSw1XFqH4Pv&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xClDjp5Mss6gMuJcY1JlWUhozFjVp%2F7SoNA6fBhb4GHH9jOUCBGd5xk4xirfX%2BYxnLIwk7o8NvajVR9cmwsIGahihwZW3gI66KJQRXrRk9lxQpxXejrez7up01Hwt7LoUy1lUwjqe3yb0cuV8dpeNUSduj6tkfos8U9sN0ZoFxfoc%2FUkToBVsFqK8ynPoj17GzelDdPbtsJanmcUa8oboyqDRXlgcOXGnSrMfs0GxXh3Q0c%2Faoz43zkNS1YUtj%2FFkN1DpvdcW%2BIgomrtkWUPv%2FPWAVPMqGEv2BmLzlsDvrdyz9lZ0LqSeQrlfCYR%2F2XeWmXXxKTs4LBaRgoVAeifWXE%7Ctkp%3ABk9SR7yytvCDaA",
+        "url": "https://www.ebay.com/itm/366451791052?_skw=%28magikarp%29+%28118%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=5043380836&itmmeta=01M0SKB0MVZHFT0C0BVAZQ0ZKV&hash=item55523a94cc:g:Cw4AAeSw1XFqH4Pv&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDpsDVTBYJikiIJRr6e%2B68NqT0HvLYJd4jusFmX2DdEOTqb4NH4AvxUEZgQ86LVvBlTCtfCd81f4a19ahPZBhXWomq%2FkmAWZ9cE%2BqGmfVSFCPz4C5bsb9%2BvI2OmidiROhe68J%2FA3ImInUyOVbIolSovNQjskQauPXKDfD3rSx%2Fc3yYw0%2BzcKCpPcATmz%2Bygw0ImiO0Qbr%2BTMq19sfcSFXKKcD7rpSV2uWILYWThtTvJo7f4oogPCKIspOacx0ZM6aWyacXN34gqIK8Nl7eUxm09uOi%2FvYtxI1Zq6dbkKR7CiQ%3D%3D%7Ctkp%3ABk9SR9CKrLOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Cw4AAeSw1XFqH4Pv/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787052902664,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3896405,
+          "saleDate": "2026-08-23",
+          "priceC": 11850,
+          "title": "Wizards of the Coast Pokémon TCG Magikarp Expedition Reverse Holo 118/165 2002 118/165",
+          "url": "https://www.ebay.com/itm/168618474896?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3896406,
+          "saleDate": "2026-08-22",
+          "priceC": 30000,
+          "title": "Magikarp 118/165 Expedition Base Set Reverse Holo Pokemon",
+          "url": "https://www.ebay.com/itm/336744114857?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2283642,
+          "saleDate": "2026-08-16",
+          "priceC": 15899,
+          "title": "Magikarp #118 Near Mint English Reverse Holo",
+          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F87024%2F-&sharedId=web&subId1=completed",
+          "sourceMarketplace": "TCGPlayer",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 371864,
           "saleDate": "2026-08-14",
@@ -1694,45 +1720,6 @@
           "gradingGrade": 7,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 371969,
-          "saleDate": "2024-08-23",
-          "priceC": 3999,
-          "title": "CGC 8 Magikarp 2002 Expedition 118/165 Reverse Holo Common Pokemon Card 118/165",
-          "url": "https://www.ebay.com/itm/365053977952?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 371938,
-          "saleDate": "2024-08-23",
-          "priceC": 3700,
-          "title": "PSA 9 Magikarp Reverse Holo Expedition Pokemon Card 118/165 118/165",
-          "url": "https://www.ebay.com/itm/335532751799?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 371997,
-          "saleDate": "2024-08-13",
-          "priceC": 1750,
-          "title": "POKEMON CARD MAGIKARP 118 EXPEDITION REVERSE HOLO 118/165 GRADED PSA 5 #118 #118",
-          "url": "https://www.ebay.com/itm/266933483793?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 5,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1777,9 +1764,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 138,
+      "englishSaleCount": 141,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787212171932
+      "lastCapturedAt": 1787557527857
     }
   }
 }

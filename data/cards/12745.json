@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 12745,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/f11fa3c404e530845854ad9215d1f136cb12918e9f5e2929ef948c3cb45c95bc/1600.jpg",
       "popularityScore": 89,
       "market": {
-        "ungradedC": 1813,
-        "grade9C": 14515,
+        "ungradedC": 1806,
+        "grade9C": 14511,
         "grade95C": 16000,
         "cgc10C": 19900,
         "cgc10PristineC": 35800,
-        "psa10C": 105902,
-        "bgs10C": 137700,
+        "psa10C": 105558,
+        "bgs10C": 137200,
         "psa9Pop": 127,
         "psa10Pop": 77,
         "cgc10Pop": 17,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787220422961
+        "fetchedAt": 1787562043735
       },
       "bestCgc10": {
         "itemId": "327288780022",
@@ -37,13 +37,13 @@
         "priceC": 59900,
         "shippingC": 0,
         "landedC": 59900,
-        "url": "https://www.ebay.com/itm/327288780022?_skw=%28darkrai%29+%283%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=8043378190&itmmeta=01M0FA9VX9Z6SG3ZYXK7SHBDG0&hash=item4c33ee74f6:g:T6sAAeSwWkBqbNp7&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAKENZtSbcSt89avlnNplEypaHGjaVY0yK%2F21JPzwy94uSe33ip4oqz0mhxQtA5rYcQkcDngVT51Rfsvj5dG0jqxZeLM%2B1xKwZTm%2Bwl5Tq90BZ83myps0SGajSqjTwbykZxugg%2BREt6S9%2FfTtqrpugdC6XG87jpu%2BVv8zW982XikaY4Lba7X4BclWhqxps1%2BgepXIEWSZhXgodUaBC55C2QnXN7QlgaMhhqdLxUIHl4joCGa5Cx%2FyH6nRGFcC%2B9KgmmPZJb4cXtkZt1i%2BNu5z%2F2QF%2FKRnSaqCLE3Jvwdl3qcg%3D%3D%7Ctkp%3ABk9SR_y-p-qDaA",
+        "url": "https://www.ebay.com/itm/327288780022?_skw=%28darkrai%29+%283%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=8043378190&itmmeta=01M0SG2ZHCC6PDRYTY37B7CGEK&hash=item4c33ee74f6:g:T6sAAeSwWkBqbNp7&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA4VmKmjv32%2Bclh3IV0KRVW5CNIzEtPCEyEMaDtFk%2B11KNWMAgTitwZazyNOaxSV4Hbkm9LlpGVbNQW5ANe3o01zDj%2BowKpub2VeKAqEF%2B1TKP%2FcESyjVVhtcOQl3ykSL5fzgFPAbnzBGeT9uNq3zhEUKzu7WV4P8aBYj2xT2Kdp27bBNK2gzu1cS20aJkbmt%2B01jHL1NRZhQX%2BnXK2IOGcJjmPgCOg03xqlumzKEs8MOlLA7cGAaLLDd59UP9oXyccg%2FMegJzhbF3FI9iV82I9dCRMB2CnCR%2BXz3h0LoKf32d%2FV9LmbqKfrAKXwPW7t2Jv3En7dhtFDy1Uw%2BXegIGR%7Ctkp%3ABk9SR4L5i7CGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/T6sAAeSwWkBqbNp7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787220584144,
-        "lastSeen": 1787220584144
+        "lastSeen": 1787562187103
       },
       "bestPsa10": {
         "itemId": "287521142584",
@@ -51,21 +51,21 @@
         "priceC": 550000,
         "shippingC": 562,
         "landedC": 550562,
-        "url": "https://www.ebay.com/itm/287521142584?_skw=%28darkrai%29+%283%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=8043378190&itmmeta=01M0FA9VXAWHSJJT8GQ1GK0KXW&hash=item42f1987738:g:an8AAeSwYPFqgMz4&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDYyX5g0tk9fk%2BMxw0dh1WBObgJQ8qb6pS6OjdTn9BSf2KaomsqzTlek9zNZPP2eWjXiP7Tp9%2BNUZKFWfIdCjiDRP3iy0ZAzSZLTBscYiO%2B8diA51N1rppV25EJ9tA809nTKRKs5499vVRSNxodo7qYyK1ZmF31VZnYRjXEtKFUfjW7ZzkFThfrZDjrBgA5aUzQT0Y0p78xMaF5O9LxtrpgcGOkZ481FLs7DxYvJ%2FsQg8CPWHpnjHOQV0au9Ao3LH3tGGV1Mf84%2BnAuhCuN0MbaNqWsGxpjM%2Bjg8L6JGuVWsg%3D%3D%7Ctkp%3ABk9SR_6-p-qDaA",
+        "url": "https://www.ebay.com/itm/287521142584?_skw=%28darkrai%29+%283%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=8043378190&itmmeta=01M0SG2ZHD1Z9AR17DQ7JGN7SP&hash=item42f1987738:g:an8AAeSwYPFqgMz4&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDYyX5g0tk9fk%2BMxw0dh1WBObgJQ8qb6pS6OjdTn9BSfxtd%2B3nzwJpexDJ3jJbzulBOOwRhXQAIAupvK901VGRJWw5OveO%2BCatBXkB980tjJ1EMFX2ZMfSZ2oHLIARAwSh1kS6x2nnAfyDmLJsBg2vtmYK0voQ%2BZ1Diq3MzXf44I2KvuAqnGsXX%2BozyWUdWu17oRI0giS4uHKMHuBlofWyD%2BEKYPSw6x5Nbd92CCSGO%2FvCjYGePYOWCDkCy4ZvNB%2Fq5C2mNFxQK8pFdBmBuNA2qI4BgOt%2BbIAxa0WzcJKyjaQ%3D%3D%7Ctkp%3ABk9SR4T5i7CGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/an8AAeSwYPFqgMz4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787220584144,
-        "lastSeen": 1787220584144
+        "lastSeen": 1787562187103
       },
       "bestPsa9": null,
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 3,
-        "psa10Auction": 1,
+        "psa10Bin": 2,
+        "psa10Auction": 0,
         "psa9Bin": 0
       },
       "ratio": {
@@ -80,26 +80,26 @@
         "cgc10CostC": 59900,
         "submissionFeeC": 7999,
         "totalCostC": 67899,
-        "psa10ValueC": 105902,
-        "ratio": 1.5596989646386545
+        "psa10ValueC": 105558,
+        "ratio": 1.5546326160915478
       },
       "firstOpportunityAt": 1787220584144,
-      "updatedAt": 1787220584144
+      "updatedAt": 1787562187103
     },
     "prices": {
       "variantId": 12745,
-      "ungradedC": 1813,
-      "grade9C": 14515,
+      "ungradedC": 1806,
+      "grade9C": 14511,
       "grade95C": 16000,
       "cgc10C": 19900,
       "cgc10PristineC": 35800,
-      "psa10C": 105902,
+      "psa10C": 105558,
       "psa9Pop": 127,
       "psa10Pop": 77,
       "cgc10Pop": 17,
-      "bgs10C": 137700,
+      "bgs10C": 137200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787220422961
+      "fetchedAt": 1787562043735
     },
     "listings": [
       {
@@ -108,27 +108,13 @@
         "priceC": 59900,
         "shippingC": 0,
         "landedC": 59900,
-        "url": "https://www.ebay.com/itm/327288780022?_skw=%28darkrai%29+%283%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=8043378190&itmmeta=01M0FA9VX9Z6SG3ZYXK7SHBDG0&hash=item4c33ee74f6:g:T6sAAeSwWkBqbNp7&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAKENZtSbcSt89avlnNplEypaHGjaVY0yK%2F21JPzwy94uSe33ip4oqz0mhxQtA5rYcQkcDngVT51Rfsvj5dG0jqxZeLM%2B1xKwZTm%2Bwl5Tq90BZ83myps0SGajSqjTwbykZxugg%2BREt6S9%2FfTtqrpugdC6XG87jpu%2BVv8zW982XikaY4Lba7X4BclWhqxps1%2BgepXIEWSZhXgodUaBC55C2QnXN7QlgaMhhqdLxUIHl4joCGa5Cx%2FyH6nRGFcC%2B9KgmmPZJb4cXtkZt1i%2BNu5z%2F2QF%2FKRnSaqCLE3Jvwdl3qcg%3D%3D%7Ctkp%3ABk9SR_y-p-qDaA",
+        "url": "https://www.ebay.com/itm/327288780022?_skw=%28darkrai%29+%283%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=8043378190&itmmeta=01M0SG2ZHCC6PDRYTY37B7CGEK&hash=item4c33ee74f6:g:T6sAAeSwWkBqbNp7&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA4VmKmjv32%2Bclh3IV0KRVW5CNIzEtPCEyEMaDtFk%2B11KNWMAgTitwZazyNOaxSV4Hbkm9LlpGVbNQW5ANe3o01zDj%2BowKpub2VeKAqEF%2B1TKP%2FcESyjVVhtcOQl3ykSL5fzgFPAbnzBGeT9uNq3zhEUKzu7WV4P8aBYj2xT2Kdp27bBNK2gzu1cS20aJkbmt%2B01jHL1NRZhQX%2BnXK2IOGcJjmPgCOg03xqlumzKEs8MOlLA7cGAaLLDd59UP9oXyccg%2FMegJzhbF3FI9iV82I9dCRMB2CnCR%2BXz3h0LoKf32d%2FV9LmbqKfrAKXwPW7t2Jv3En7dhtFDy1Uw%2BXegIGR%7Ctkp%3ABk9SR4L5i7CGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/T6sAAeSwWkBqbNp7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787220584144,
-        "lastSeen": 1787220584144
-      },
-      {
-        "itemId": "287524898533",
-        "title": "Pokemon Darkrai Holo Great Encounters 3/106 PSA 10 Gem MintOpens in a new window or tab",
-        "priceC": 265000,
-        "shippingC": 999,
-        "landedC": 265999,
-        "url": "https://www.ebay.com/itm/287524898533?_skw=%28darkrai%29+%283%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=8043378190&itmmeta=01M0FA9VXA6KJRVVNE77YHHSTH&hash=item42f1d1c6e5:g:Sy4AAeSwSLlqfymQ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCARmx7xqZrd21L75XpXjm9c23YN6s35Sir6LZ6zGr7eTRsCMH98a20FpnsZrir9p1%2FB6icHkeZhMNJEK2y2NigW44G3Tn19QwPxouzLzbv2OoARkRBa3DRJYqs7mXPWVHjVSqengeGEsnrayK%2B4l0LWkcUInL8Jk57J%2FNSrZw%2FwCDLWD1JXoleiWi%2Fjr7CZbfy6UHVkDryW%2Be6HnI5s5fxVYxxuBKw5G5A8MffOv7vhsyziA9olNm2z%2FXx28t7aNm8ltx0ROT0qm%2FShSs3guL0yLAaJDS7KgtAYezHY43GPA3sPG%2BOWil1UrAVGXThUIx6oauCmp%2FRJ39kAhbliktO%7Ctkp%3ABk9SR_6-p-qDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/Sy4AAeSwSLlqfymQ/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787220584144,
-        "lastSeen": 1787220584144
+        "lastSeen": 1787562187103
       },
       {
         "itemId": "287521142584",
@@ -136,13 +122,13 @@
         "priceC": 550000,
         "shippingC": 562,
         "landedC": 550562,
-        "url": "https://www.ebay.com/itm/287521142584?_skw=%28darkrai%29+%283%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=8043378190&itmmeta=01M0FA9VXAWHSJJT8GQ1GK0KXW&hash=item42f1987738:g:an8AAeSwYPFqgMz4&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDYyX5g0tk9fk%2BMxw0dh1WBObgJQ8qb6pS6OjdTn9BSf2KaomsqzTlek9zNZPP2eWjXiP7Tp9%2BNUZKFWfIdCjiDRP3iy0ZAzSZLTBscYiO%2B8diA51N1rppV25EJ9tA809nTKRKs5499vVRSNxodo7qYyK1ZmF31VZnYRjXEtKFUfjW7ZzkFThfrZDjrBgA5aUzQT0Y0p78xMaF5O9LxtrpgcGOkZ481FLs7DxYvJ%2FsQg8CPWHpnjHOQV0au9Ao3LH3tGGV1Mf84%2BnAuhCuN0MbaNqWsGxpjM%2Bjg8L6JGuVWsg%3D%3D%7Ctkp%3ABk9SR_6-p-qDaA",
+        "url": "https://www.ebay.com/itm/287521142584?_skw=%28darkrai%29+%283%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=8043378190&itmmeta=01M0SG2ZHD1Z9AR17DQ7JGN7SP&hash=item42f1987738:g:an8AAeSwYPFqgMz4&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDYyX5g0tk9fk%2BMxw0dh1WBObgJQ8qb6pS6OjdTn9BSfxtd%2B3nzwJpexDJ3jJbzulBOOwRhXQAIAupvK901VGRJWw5OveO%2BCatBXkB980tjJ1EMFX2ZMfSZ2oHLIARAwSh1kS6x2nnAfyDmLJsBg2vtmYK0voQ%2BZ1Diq3MzXf44I2KvuAqnGsXX%2BozyWUdWu17oRI0giS4uHKMHuBlofWyD%2BEKYPSw6x5Nbd92CCSGO%2FvCjYGePYOWCDkCy4ZvNB%2Fq5C2mNFxQK8pFdBmBuNA2qI4BgOt%2BbIAxa0WzcJKyjaQ%3D%3D%7Ctkp%3ABk9SR4T5i7CGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/an8AAeSwYPFqgMz4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787220584144,
-        "lastSeen": 1787220584144
+        "lastSeen": 1787562187103
       },
       {
         "itemId": "178316858408",
@@ -150,27 +136,13 @@
         "priceC": 600000,
         "shippingC": 548,
         "landedC": 600548,
-        "url": "https://www.ebay.com/itm/178316858408?_skw=%28darkrai%29+%283%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=8043378190&itmmeta=01M0FA9VXAB78NJ005FM0EE8T5&hash=item2984835428:g:nXEAAeSwwvJqWTpz&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB4oj7M23%2F6OZN46rQq4xawuhq0nyiQi7q6ITNGvQL0xerLej%2FSWXU%2BW1wcvOtXYh1cOcqM7UYjlda48oxDCPOD0QQl2prTXMmnfF3mXovFUXgJ%2Bt1QP%2BveXk30oOlJeefug0Fk4Ze4iStfgDztRw9c57o%2BOHuPIA8mfDDNGbJvKo6ngQXTWmSkalTnaWhi72C02%2B3r6Pg4blLC5XWPpOhtGKORWsfFJyfYbDDgA4nMhbCpbvhs1acQ7J1abq19FizniCU%2BWJXn6wQdk%2B4zjVkId8gh9MKviojtWCKT6%2BgQrlz6yX0FqHZcrPXlMLQg27PaCUIxOW%2FCviYnLzgcVZwp%7Ctkp%3ABk9SR_6-p-qDaA",
+        "url": "https://www.ebay.com/itm/178316858408?_skw=%28darkrai%29+%283%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=8043378190&itmmeta=01M0SG2ZHDY8173638MXG11GWF&hash=item2984835428:g:nXEAAeSwwvJqWTpz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAmBiq6so6MVn%2B17CYR7dg%2B3KzQ4wcecETRLNxjL%2FIhK7MhHHYqoC4uV8LwLdHyFcvaaw43ybCGSyXxV9wrJzAwGeVa0HBRg%2B4uRUDYUk3rH4%2F0Es1W%2FEz5K74hBfpTNNM8J8oDndTDq1lsuGXD4BDWBJ4z2OZYtgkRrg%2Bw6DAWUBuRrwjKXeXeO08CQCF3qdAwGFhIwBTQY7f5U5WPpO5orR0lKXm%2F1%2FHzQiLxgdpzXFR%2BDWFhqnc6mdRejZncuY7mWqtXPaj8c%2BX6bkmNjiyeSF4HHun%2FFWeIUSt8rJzlig%3D%3D%7Ctkp%3ABk9SR4T5i7CGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/nXEAAeSwwvJqWTpz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787220584144,
-        "lastSeen": 1787220584144
-      },
-      {
-        "itemId": "188651165221",
-        "title": "Pokemon 2008 Great Encounters Darkrai 3/106 Holo Rare English PSA 10Opens in a new window or tab",
-        "priceC": 600000,
-        "shippingC": 572,
-        "landedC": 600572,
-        "url": "https://www.ebay.com/itm/188651165221?_skw=%28darkrai%29+%283%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=8043378190&itmmeta=01M0FA9VXASEV7D8HVDMK803N7&hash=item2bec7c5625:g:i8kAAeSwtWFqWTyS&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCE9daDTb%2FPYO18KnpvQ7t1%2FVVi1vatGp2BWG4x858dd9Yj2jPQAtZ4Q2KOpLhcscY0F5Wlee9dlVGPkxO91rr9GLsVciWYKRMb8mCG4W25i9hw%2BGN%2FDA%2B8fCBHhaQ%2FSp%2BGP%2FX0E4SpKepPuvE4A1lMWxzbGfSe90i2KrPVtIF6qdxA%2FGdV24y%2FdakwoLKmsNpgpot%2Ba6yTVHSEj03Uz21TRwC2IKq9l2JtH8P0LY9Pv9pFL5Fiv%2B1hR7Wv%2Bp7r%2FxiQho%2F8OkC8rIH8JeXC0ZvVM6rXBJPpxkmHJ%2FQnkhgQxnZJc0o4BM1wr2RtURpfGMMbVDq2%2F4E7sOgC%2FjPbH3BD%7Ctkp%3ABk9SR_6-p-qDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/i8kAAeSwtWFqWTyS/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787220584144,
-        "lastSeen": 1787220584144
+        "lastSeen": 1787562187103
       }
     ],
     "marketHistory": {
@@ -1835,7 +1807,7 @@
       ],
       "englishSaleCount": 153,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787220420819
+      "lastCapturedAt": 1787562041911
     }
   }
 }

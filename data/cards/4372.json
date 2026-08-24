@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 4372,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/8046e62f2ea28c47adf8c86cdb4b8db46a7788ff4cb064c593546b532d0bb7d4/1600.jpg",
       "popularityScore": 77,
       "market": {
-        "ungradedC": 8500,
+        "ungradedC": 9875,
         "grade9C": 17800,
         "grade95C": 19600,
         "cgc10C": 6030,
         "cgc10PristineC": 10900,
-        "psa10C": 116788,
-        "bgs10C": 151800,
+        "psa10C": 117109,
+        "bgs10C": 152200,
         "psa9Pop": 29,
         "psa10Pop": 7,
         "cgc10Pop": 12,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 5 sales per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787214776427
+        "fetchedAt": 1787559657709
       },
       "bestCgc10": {
         "itemId": "327246532673",
@@ -37,13 +37,13 @@
         "priceC": 39900,
         "shippingC": 0,
         "landedC": 39900,
-        "url": "https://www.ebay.com/itm/327246532673?_skw=%28grovyle%29+%2828%2Cemerald%29+%28CGC%2CPSA%29&epid=11043365882&itmmeta=01M0F4X3K4M554KMM9JSHHQ7MW&hash=item4c3169d041:g:Oy4AAeSw0TVqSSRH&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCc2C7b1maEpw%2FB%2B6j%2Bm6nmbtCMGrMqYk7jXlmN3MHvW1HylpWSUILBCDdw1rzO8cBp2ugWiWoT%2B5B4mjzB3PB7qkciEw8DcEPTBmAeYO3vIN8yPHfBCdvvkLSGmyT9xUicL5NHPSAv5Yt3QaZ4jkDNQF0nmwk7y72q7%2BAaa6h1Qqh3EnQThjp7fyrls7k2G7ZX8UiSyrgVMVUlusnZx6qEoQtsAmCCDxKx77PeI1wzqs%2BAIR855MnvO%2FRm7D2Y%2Bn%2BFSy9hOW8wSMUNn3Wh7Wta%7Ctkp%3ABk9SR-C59OSDaA",
+        "url": "https://www.ebay.com/itm/327246532673?_skw=%28grovyle%29+%2828%2Cemerald%29+%28CGC%2CPSA%29&epid=11043365882&itmmeta=01M0SDS7J4AE2BNQE6CW1TD1Z4&hash=item4c3169d041:g:Oy4AAeSw0TVqSSRH&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xABt7T%2FXdFuTeO5pDECGjtceJ13%2B3FZFiC8Kuiwkhe0aZp6CfimXOCDLrzHGYsEPYdUn2tp%2BbtpIxdts7EVfJFAgj56HoxPf34B3OtdU0fvvP%2FjmMrj63vopiARJ3ckHtiTc8nqT94UfB0J4VJlKZh7W9KmQlSzNDT2bg0tCzq%2BNDq1%2BMdLD7x4UViXQWibK0nyNqqDnZpW7GTWdahyKmtS6cBrk0sdzrP%2B51LtiN6lyDn9WHaHPFBQFe23b3wws1cs463A8JEvNx3ickGIM0wWxbFLxU2bM8EUYQtKrxzSDQslZ8RD5wwO0aor6FVYIog%3D%7Ctkp%3ABk9SR7j55K2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Oy4AAeSw0TVqSSRH/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787064622165,
-        "lastSeen": 1787215079202
+        "lastSeen": 1787559754294
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -67,26 +67,26 @@
         "cgc10CostC": 39900,
         "submissionFeeC": 7999,
         "totalCostC": 47899,
-        "psa10ValueC": 116788,
-        "ratio": 2.4382137414142258
+        "psa10ValueC": 117109,
+        "ratio": 2.444915342700265
       },
       "firstOpportunityAt": 1787064622165,
-      "updatedAt": 1787215079202
+      "updatedAt": 1787559754294
     },
     "prices": {
       "variantId": 4372,
-      "ungradedC": 8500,
+      "ungradedC": 9875,
       "grade9C": 17800,
       "grade95C": 19600,
       "cgc10C": 6030,
       "cgc10PristineC": 10900,
-      "psa10C": 116788,
+      "psa10C": 117109,
       "psa9Pop": 29,
       "psa10Pop": 7,
       "cgc10Pop": 12,
-      "bgs10C": 151800,
+      "bgs10C": 152200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 5 sales per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787214776427
+      "fetchedAt": 1787559657709
     },
     "listings": [
       {
@@ -95,13 +95,13 @@
         "priceC": 39900,
         "shippingC": 0,
         "landedC": 39900,
-        "url": "https://www.ebay.com/itm/327246532673?_skw=%28grovyle%29+%2828%2Cemerald%29+%28CGC%2CPSA%29&epid=11043365882&itmmeta=01M0F4X3K4M554KMM9JSHHQ7MW&hash=item4c3169d041:g:Oy4AAeSw0TVqSSRH&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCc2C7b1maEpw%2FB%2B6j%2Bm6nmbtCMGrMqYk7jXlmN3MHvW1HylpWSUILBCDdw1rzO8cBp2ugWiWoT%2B5B4mjzB3PB7qkciEw8DcEPTBmAeYO3vIN8yPHfBCdvvkLSGmyT9xUicL5NHPSAv5Yt3QaZ4jkDNQF0nmwk7y72q7%2BAaa6h1Qqh3EnQThjp7fyrls7k2G7ZX8UiSyrgVMVUlusnZx6qEoQtsAmCCDxKx77PeI1wzqs%2BAIR855MnvO%2FRm7D2Y%2Bn%2BFSy9hOW8wSMUNn3Wh7Wta%7Ctkp%3ABk9SR-C59OSDaA",
+        "url": "https://www.ebay.com/itm/327246532673?_skw=%28grovyle%29+%2828%2Cemerald%29+%28CGC%2CPSA%29&epid=11043365882&itmmeta=01M0SDS7J4AE2BNQE6CW1TD1Z4&hash=item4c3169d041:g:Oy4AAeSw0TVqSSRH&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xABt7T%2FXdFuTeO5pDECGjtceJ13%2B3FZFiC8Kuiwkhe0aZp6CfimXOCDLrzHGYsEPYdUn2tp%2BbtpIxdts7EVfJFAgj56HoxPf34B3OtdU0fvvP%2FjmMrj63vopiARJ3ckHtiTc8nqT94UfB0J4VJlKZh7W9KmQlSzNDT2bg0tCzq%2BNDq1%2BMdLD7x4UViXQWibK0nyNqqDnZpW7GTWdahyKmtS6cBrk0sdzrP%2B51LtiN6lyDn9WHaHPFBQFe23b3wws1cs463A8JEvNx3ickGIM0wWxbFLxU2bM8EUYQtKrxzSDQslZ8RD5wwO0aor6FVYIog%3D%7Ctkp%3ABk9SR7j55K2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Oy4AAeSw0TVqSSRH/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787064622165,
-        "lastSeen": 1787215079202
+        "lastSeen": 1787559754294
       }
     ],
     "marketHistory": {
@@ -307,6 +307,19 @@
           "priceC": 9000,
           "title": "Pokémon TCG Grovyle Emerald 28/106 Reverse Holo Uncommon 70HP 28/106",
           "url": "https://www.ebay.com/itm/327167620195?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3289435,
+          "saleDate": "2026-05-19",
+          "priceC": 11500,
+          "title": "2005 Pokemon TCG Grovyle 28/106 Emerald Reverse Holo Rare Stamped 28/106",
+          "url": "https://www.ebay.com/itm/800040902025?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1055,9 +1068,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 72,
+      "englishSaleCount": 73,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787214774570
+      "lastCapturedAt": 1787559655765
     }
   }
 }

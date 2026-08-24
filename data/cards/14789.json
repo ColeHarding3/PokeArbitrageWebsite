@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 14789,
@@ -18,7 +18,7 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/c424b70ffadfc9df523494fe8bf8031059b42f4e5a1b23d1ab34ac599fb6246b/1600.jpg",
       "popularityScore": null,
       "market": {
-        "ungradedC": 12065,
+        "ungradedC": 11747,
         "grade9C": 31800,
         "grade95C": 35000,
         "cgc10C": 339000,
@@ -27,9 +27,9 @@
         "bgs10C": 734500,
         "psa9Pop": 138,
         "psa10Pop": 19,
-        "cgc10Pop": 0,
+        "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787224274258
+        "fetchedAt": 1787563933463
       },
       "bestCgc10": {
         "itemId": "406929261454",
@@ -37,13 +37,13 @@
         "priceC": 299900,
         "shippingC": 1000,
         "landedC": 300900,
-        "url": "https://www.ebay.com/itm/406929261454?_skw=%28raikou%2Csuicune%2Clegend%29+%2893%2Cunleashed%29+%28CGC%2CPSA%29&epid=3043379718&itmmeta=01M0FDZ2P39PGXARTPC9KNR16M&hash=item5ebedfc38e:g:THUAAeSwiwRqB2og&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCXHUTHzIHQrpnUy01Q2f9X8vIaJcVRh6ykqPVte0gN8c1qjzdvn0DOr05O%2FfMwpYpj1oa2E7SPZXmBIf9G%2BwwLRMu2lmtTNsyLamj8c7GdCSs9nBwQSENEsQEMVCymvNxK0r0oGawHfH%2B6DqNCb%2BR8fKGnflF0PAOJ%2FKCd67hznXewY%2F5PmQlLWdGIiPwKhtQxmnZMl1mmEsdXEQ71Dkkvkw8TVdzJx1bICc%2F19xfa%2BzLaVeMemotYSYl%2FBXvcWHu8umXuNxoPpTpMZU4NCLHFNaJsoiWu7SxnDFjO0iOx5OKycbz8h5Ly3ORHF%2Fq%2FpAYuIzHY4x%2BHb7dkrJWn8hgA%7Ctkp%3ABk9SR66r_O2DaA",
+        "url": "https://www.ebay.com/itm/406929261454?_skw=%28raikou%2Csuicune%2Clegend%29+%2893%2Cunleashed%29+%28CGC%2CPSA%29&epid=3043379718&itmmeta=01M0SHW7DHF4VT7C6HTQ18MDEN&hash=item5ebedfc38e:g:THUAAeSwiwRqB2og&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDuLRVWnAougPHexdr45tJdsNZwYbblW7HOqufTtzgbG96aniYQ2klJxlqsdBjDLxPdWNUTZhS6oLuiPban%2B5%2BQ4lto3fQMuM6DqJIfosu8LFbWWYDDkzRdVdkn%2BVteGT9Go%2FQSkgW13rosj3whygKZ7oyH%2B7gr6T%2FR1EniFYfafjUguQaQAyMwAauhl1a0KZ%2FaCGI8H0%2BtInHs%2BxeBA%2Bxz3cJWzRXfIYLuaz%2FgCGxHA8Eu4d9%2BsIElKAPJo8IcyMJGkL084yWVYqYg6898kp4f%2BsfoEiBHju9TYlbKaNCIig%3D%3D%7Ctkp%3ABk9SR5L38LGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/THUAAeSwiwRqB2og/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787224417682,
-        "lastSeen": 1787224417682
+        "lastSeen": 1787564057017
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -71,11 +71,11 @@
         "ratio": 1.5659645232815964
       },
       "firstOpportunityAt": 1787224417682,
-      "updatedAt": 1787224417682
+      "updatedAt": 1787564057017
     },
     "prices": {
       "variantId": 14789,
-      "ungradedC": 12065,
+      "ungradedC": 11747,
       "grade9C": 31800,
       "grade95C": 35000,
       "cgc10C": 339000,
@@ -83,10 +83,10 @@
       "psa10C": 565000,
       "psa9Pop": 138,
       "psa10Pop": 19,
-      "cgc10Pop": 0,
+      "cgc10Pop": null,
       "bgs10C": 734500,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787224274258
+      "fetchedAt": 1787563933463
     },
     "listings": [
       {
@@ -95,17 +95,43 @@
         "priceC": 299900,
         "shippingC": 1000,
         "landedC": 300900,
-        "url": "https://www.ebay.com/itm/406929261454?_skw=%28raikou%2Csuicune%2Clegend%29+%2893%2Cunleashed%29+%28CGC%2CPSA%29&epid=3043379718&itmmeta=01M0FDZ2P39PGXARTPC9KNR16M&hash=item5ebedfc38e:g:THUAAeSwiwRqB2og&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCXHUTHzIHQrpnUy01Q2f9X8vIaJcVRh6ykqPVte0gN8c1qjzdvn0DOr05O%2FfMwpYpj1oa2E7SPZXmBIf9G%2BwwLRMu2lmtTNsyLamj8c7GdCSs9nBwQSENEsQEMVCymvNxK0r0oGawHfH%2B6DqNCb%2BR8fKGnflF0PAOJ%2FKCd67hznXewY%2F5PmQlLWdGIiPwKhtQxmnZMl1mmEsdXEQ71Dkkvkw8TVdzJx1bICc%2F19xfa%2BzLaVeMemotYSYl%2FBXvcWHu8umXuNxoPpTpMZU4NCLHFNaJsoiWu7SxnDFjO0iOx5OKycbz8h5Ly3ORHF%2Fq%2FpAYuIzHY4x%2BHb7dkrJWn8hgA%7Ctkp%3ABk9SR66r_O2DaA",
+        "url": "https://www.ebay.com/itm/406929261454?_skw=%28raikou%2Csuicune%2Clegend%29+%2893%2Cunleashed%29+%28CGC%2CPSA%29&epid=3043379718&itmmeta=01M0SHW7DHF4VT7C6HTQ18MDEN&hash=item5ebedfc38e:g:THUAAeSwiwRqB2og&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDuLRVWnAougPHexdr45tJdsNZwYbblW7HOqufTtzgbG96aniYQ2klJxlqsdBjDLxPdWNUTZhS6oLuiPban%2B5%2BQ4lto3fQMuM6DqJIfosu8LFbWWYDDkzRdVdkn%2BVteGT9Go%2FQSkgW13rosj3whygKZ7oyH%2B7gr6T%2FR1EniFYfafjUguQaQAyMwAauhl1a0KZ%2FaCGI8H0%2BtInHs%2BxeBA%2Bxz3cJWzRXfIYLuaz%2FgCGxHA8Eu4d9%2BsIElKAPJo8IcyMJGkL084yWVYqYg6898kp4f%2BsfoEiBHju9TYlbKaNCIig%3D%3D%7Ctkp%3ABk9SR5L38LGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/THUAAeSwiwRqB2og/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787224417682,
-        "lastSeen": 1787224417682
+        "lastSeen": 1787564057017
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3493273,
+          "saleDate": "2026-08-23",
+          "priceC": 9898,
+          "title": "2010 POKEMON HG&SS UNLEASHED #93/95 RAIKOU & SUICUNE LEGEND BOTTOM HALF 93/95",
+          "url": "https://www.ebay.com/itm/206491871874?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2836065,
+          "saleDate": "2026-08-22",
+          "priceC": 8100,
+          "title": "Raikou & Suicune Legend (Bottom) 93/95 Unleashed (HP) Pokemon TCG 93/95",
+          "url": "https://www.ebay.com/itm/377404522725?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 1678013,
           "saleDate": "2026-08-19",
@@ -1639,32 +1665,6 @@
           "gradingGrade": 9,
           "gradingDesignation": "mint",
           "agreementStatus": "match"
-        },
-        {
-          "id": 1677977,
-          "saleDate": "2024-09-20",
-          "priceC": 11990,
-          "title": "2010 POKEMON UNLEASHED RAIKOU & SUICUNE LEGEND BOTTOM 93 HOLO PSA 8 NM #41372620 #93",
-          "url": "https://www.ebay.com/itm/285654187350?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1677951,
-          "saleDate": "2024-09-14",
-          "priceC": 14500,
-          "title": "Pokemon PSA 9 MINT Raikou & Suicune Legend Bottom Half 93/95 HS Unleashed 2010 93/95",
-          "url": "https://www.ebay.com/itm/355876390613?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1699,9 +1699,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 147,
+      "englishSaleCount": 149,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787224272811
+      "lastCapturedAt": 1787563931800
     }
   }
 }

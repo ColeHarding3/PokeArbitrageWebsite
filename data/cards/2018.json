@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 2018,
@@ -19,17 +19,17 @@
       "popularityScore": 88,
       "market": {
         "ungradedC": 5983,
-        "grade9C": 31966,
-        "grade95C": 35200,
+        "grade9C": 32407,
+        "grade95C": 35600,
         "cgc10C": 52570,
         "cgc10PristineC": 94600,
-        "psa10C": 100669,
-        "bgs10C": 130900,
+        "psa10C": 100550,
+        "bgs10C": 130700,
         "psa9Pop": 308,
         "psa10Pop": 30,
         "cgc10Pop": 18,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787211968725
+        "fetchedAt": 1787557326616
       },
       "bestCgc10": {
         "itemId": "287220082086",
@@ -37,41 +37,41 @@
         "priceC": 100000,
         "shippingC": 999,
         "landedC": 100999,
-        "url": "https://www.ebay.com/itm/287220082086?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0FGC66K6KKEFHFK28D27VJ1&hash=item42dfa6a5a6:g:8ZYAAeSwuHBpvYBX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDswK%2B3zn%2F9ShHAVxcOVnOoQ%2BtnUWIJY8dJGeqd8yPQPq63qgMjhIxQ77IeQQ0aFwM5KgcEOVFy2AQ7BlYLQcuqysosLxFdEfC4SzGseXTkCA1Yt8pX%2B91KaXJ6rC2Z9pAxRcwRbpltpKndX1Bq6e4q9qqukjkiz2Q4ou72EE83aGFwHWvZwwLGUBspH75LVtlreWTh88y9LKaIt099bkEbs0VKs%2FZhGO4Ao2b7xTCPWqFGPicTTVjZg5yv9rqofTii2a0SGGjxJzUH3uOBh4cHPcCz9U8MCn6vQS5G%2B6vlvg%3D%3D%7Ctkp%3ABk9SR9LjsPCDaA",
+        "url": "https://www.ebay.com/itm/287220082086?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0SKACGQNB39NKXAY31W05W7&hash=item42dfa6a5a6:g:8ZYAAeSwuHBpvYBX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDswK%2B3zn%2F9ShHAVxcOVnOoQ%2BtnUWIJY8dJGeqd8yPQPrOlr1L9KqNZ%2F8rwr%2BzMh8Rd7dHwRyxwU0aPLiwXimdB7Y9QVte2ff9S4z%2FloPfI7XSvd%2BpDfEl4DWG%2FzZJEN5CmG1cE%2FfBN6BE%2Btrh%2FcYHwBmugJJiywlTnHDUJpuu9bQmfdLQQDWP%2BVk2lexXw57XlU%2BtDPAmNmzXAumaMK74oju4F0%2BYOaJiDiLF99BNz5JgO3dY9f46Gfu9Kr9ElzB30dsHKuz0rrnKRI71x%2FiRHPv%2Bjg9EyagytfcU1CYaFwg%3D%3D%7Ctkp%3ABk9SR-bIqbOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8ZYAAeSwuHBpvYBX/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       "bestPsa10": {
         "itemId": "267761172004",
         "title": "2000 POKEMON BASE SET 2 #18 VENUSAUR-HOLO PSA 10Opens in a new window or tab",
-        "priceC": 465000,
+        "priceC": 415000,
         "shippingC": 815,
-        "landedC": 465815,
-        "url": "https://www.ebay.com/itm/267761172004?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&itmmeta=01M0FGC66ME10J2KBGK2XPE2JE&hash=item3e57cf3e24:g:BuoAAeSwh3NqhNo-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAeDtOvlXNKtdyBMIAyAVeq%2FMClSN58y1SMexsQdKjnSRJKbL1nCWZPIfhG3NlT2DnSnyACQJnuSeQWf7Oq1wPRaDZ2OypsuHpLTQP%2BnlAgHFaXkqMYcs%2FnEb3rDy22vO3sfVQJWBEmVZSL2I7yRisDT0qEI38g7hGS%2FxQXzupUidIB3vvhN%2BnUCb%2FCoZWld0NrscgSVCj59R2UXG6W1PAq1gEt2q6HbMYaliDRR9aBGapt6D%2BiIluDSQJtAe4cLOmrYax%2FlW3Wt9uByLL%2BB2F0UAKvFjtKFX1gTKjsa9OOZw%3D%3D%7Ctkp%3ABk9SR9TjsPCDaA",
+        "landedC": 415815,
+        "url": "https://www.ebay.com/itm/267761172004?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0Q1Z6D8DEGM4YZ5XE3W3MHG&hash=item3e57cf3e24:g:BuoAAeSwh3NqhNo-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAeDtOvlXNKtdyBMIAyAVeq%2FMClSN58y1SMexsQdKjnSaGiI%2BJ8Q3nk53XfkMN6rYOaEXSkzD2HcZNPm9SqSSOYAS3yg38q3rH8KSAxkyY3FJmuhfPqrg6ZtHTwh7BqQ7AtAlRec%2BF2l1uMdiG2tYAkq8sbFJTxINP37sztuXkbxEsaQgwyiVknfQwjTb5JPrcLO1AjxKIplfOBdq9ZWR0XJOLqPf5tmX4oKUMXgfU0QMjRk9uZpG7qrcOHFUB6zc9nLAZ9pBh035ckyjD3KXyEzVbVLRPoBlemL8UjpyS5nQ%3D%3D%7Ctkp%3ABk9SR_Lm_OGFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BuoAAeSwh3NqhNo-/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787480423442
       },
       "bestPsa9": {
         "itemId": "127966425990",
         "title": "2000 Pokémon Venusaur Holo #18 PSA 9 (Base Set 2)Opens in a new window or tab",
-        "priceC": 39999,
+        "priceC": 38999,
         "shippingC": 597,
-        "landedC": 40596,
-        "url": "https://www.ebay.com/itm/127966425990?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0FGC66HA8XHD77JNKZ01KA5&hash=item1dcb64b386:g:snYAAeSwkB5qT-gJ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB5FBQMNRTJ9UxpddEhR9%2B8xj9IVXknOliH%2B%2BZTDH%2BKgWkcUhXN1yElgWUPh%2B81%2FGuV3vvKRn7iOPOivj%2FkbRQpjLTJyicTgjldlAPKH4MULOzYbxQ%2F9RgdVpboQMB7aryiu8zNnj5AG9pQxjpvk2O8BMnboOSKCPM2zEZxbnIHn1KjN9tLql5crhK7Ss0pzExlMyIGIpXQnSZzz4brKklA%2FFTW1STJSGF2KY0RSewrWs9iemxNvDi6Iea%2BRkSLe8tdk2jLu2Y%2FFcoWa8p6Q2JzRnKnlLDRLBqLsE7MlXa7j6X%2B20mr6q8x7%2B0TxU6Nw0NtURS7FaVbYCGTzSdlTyFL%7Ctkp%3ABk9SR9DjsPCDaA",
+        "landedC": 39596,
+        "url": "https://www.ebay.com/itm/127966425990?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0SKACGPPDMPDNBNJBFT99X2&hash=item1dcb64b386:g:snYAAeSwkB5qT-gJ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB5FBQMNRTJ9UxpddEhR9%2B8xj9IVXknOliH%2B%2BZTDH%2BKgWkcUhXN1yElgWUPh%2B81%2FGuV3vvKRn7iOPOivj%2FkbRQpjLTJyicTgjldlAPKH4MULOzYbxQ%2F9RgdVpboQMB7arxRtX6kA86XmHtqCBB4tFywRKDmTY%2B%2FpuPeqEoPpchs6bxQ9T4sey%2Bk72HY%2F7eQZBmucgMj29DM8PaAcW1tdYfBmriirpwbd0eswJTqfWf1PGhWSZWgugKLB6zplCIUs8ECaz0ZB7D1CfLhD6pwFcZqonG2R7qiFJsgibwd%2FibqHpzi%2BKJM3NP9cQhKEsFbS5rq1YCgIh6zHGzh0wY7rDAx%7Ctkp%3ABk9SR-LIqbOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/snYAAeSwkB5qT-gJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       "counts": {
         "cgc10Bin": 1,
@@ -93,41 +93,41 @@
         "cgc10CostC": 100999,
         "submissionFeeC": 7999,
         "totalCostC": 108998,
-        "psa10ValueC": 100669,
-        "ratio": 0.9235857538670434
+        "psa10ValueC": 100550,
+        "ratio": 0.9224939907154259
       },
       "firstOpportunityAt": 1787050911353,
-      "updatedAt": 1787227384326
+      "updatedAt": 1787565789327
     },
     "prices": {
       "variantId": 2018,
       "ungradedC": 5983,
-      "grade9C": 31966,
-      "grade95C": 35200,
+      "grade9C": 32407,
+      "grade95C": 35600,
       "cgc10C": 52570,
       "cgc10PristineC": 94600,
-      "psa10C": 100669,
+      "psa10C": 100550,
       "psa9Pop": 308,
       "psa10Pop": 30,
       "cgc10Pop": 18,
-      "bgs10C": 130900,
+      "bgs10C": 130700,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787211968725
+      "fetchedAt": 1787557326616
     },
     "listings": [
       {
         "itemId": "127966425990",
         "title": "2000 Pokémon Venusaur Holo #18 PSA 9 (Base Set 2)Opens in a new window or tab",
-        "priceC": 39999,
+        "priceC": 38999,
         "shippingC": 597,
-        "landedC": 40596,
-        "url": "https://www.ebay.com/itm/127966425990?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0FGC66HA8XHD77JNKZ01KA5&hash=item1dcb64b386:g:snYAAeSwkB5qT-gJ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB5FBQMNRTJ9UxpddEhR9%2B8xj9IVXknOliH%2B%2BZTDH%2BKgWkcUhXN1yElgWUPh%2B81%2FGuV3vvKRn7iOPOivj%2FkbRQpjLTJyicTgjldlAPKH4MULOzYbxQ%2F9RgdVpboQMB7aryiu8zNnj5AG9pQxjpvk2O8BMnboOSKCPM2zEZxbnIHn1KjN9tLql5crhK7Ss0pzExlMyIGIpXQnSZzz4brKklA%2FFTW1STJSGF2KY0RSewrWs9iemxNvDi6Iea%2BRkSLe8tdk2jLu2Y%2FFcoWa8p6Q2JzRnKnlLDRLBqLsE7MlXa7j6X%2B20mr6q8x7%2B0TxU6Nw0NtURS7FaVbYCGTzSdlTyFL%7Ctkp%3ABk9SR9DjsPCDaA",
+        "landedC": 39596,
+        "url": "https://www.ebay.com/itm/127966425990?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0SKACGPPDMPDNBNJBFT99X2&hash=item1dcb64b386:g:snYAAeSwkB5qT-gJ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB5FBQMNRTJ9UxpddEhR9%2B8xj9IVXknOliH%2B%2BZTDH%2BKgWkcUhXN1yElgWUPh%2B81%2FGuV3vvKRn7iOPOivj%2FkbRQpjLTJyicTgjldlAPKH4MULOzYbxQ%2F9RgdVpboQMB7arxRtX6kA86XmHtqCBB4tFywRKDmTY%2B%2FpuPeqEoPpchs6bxQ9T4sey%2Bk72HY%2F7eQZBmucgMj29DM8PaAcW1tdYfBmriirpwbd0eswJTqfWf1PGhWSZWgugKLB6zplCIUs8ECaz0ZB7D1CfLhD6pwFcZqonG2R7qiFJsgibwd%2FibqHpzi%2BKJM3NP9cQhKEsFbS5rq1YCgIh6zHGzh0wY7rDAx%7Ctkp%3ABk9SR-LIqbOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/snYAAeSwkB5qT-gJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "358900787642",
@@ -135,13 +135,13 @@
         "priceC": 42000,
         "shippingC": 562,
         "landedC": 42562,
-        "url": "https://www.ebay.com/itm/358900787642?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0FGC66JTKNTF6PJDQZQ1EQB&hash=item53902769ba:g:x9AAAeSwX0ZqdzYC&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCFlZqxjctI%2FLZfpEetslPFyOqpgSgB%2Fnvnq2ar4Ku3qSxywTTw56uekcqjSWQAl2GsuruXbvSpsGiDqv2vqGg2NOEDKRN%2BHWvjMNHpp1bKE2zEwmZNXD58us2mcncPO%2BsI97sRF0oTFAmZse0ktTc%2FeQg7U60uPJFKwcMRfe2kS0DoUECQzVrOWyFS3U1FcxHSOIbJP9vvdksaS6yTiAyU7VYHGrQehm0Qlrjcl6hOA%2FUGXouVNDNBtOeHKuMJGNiVgTCYu60l5PeE4wXLtKUTjAF6MHkq%2BGGuwwHsF6xf7rFSGH9Le0pX9dnA%2BQ97uf1wDUiEZycaimBV7DVZpKeQ%7Ctkp%3ABk9SR9DjsPCDaA",
+        "url": "https://www.ebay.com/itm/358900787642?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0SKACGPH01V6GE5RS0Z7EHT&hash=item53902769ba:g:x9AAAeSwX0ZqdzYC&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAo2%2BAOLRQFAzZEcIZLLy9aZKcAFwxTDk5Q8a2DO2e7Wr4%2FN385mOOcYQnQ7kHbgr4VfHDhnodkr8KYElhGPVqrgrKpRXtqc%2BKMPUvg6z%2Brrpgos9vN8hUXlyvJqwjQif6PRHCwXDI0GgVIBO0koed7FKN0dhgx4cCAmKjuCKo2VNgkdD3DoyKcyTFfOizhIFcLnEeaea%2FGIdoPCbPdLF66dR0pzvwyWNp--PpQ42PBnQ9ZtvQgQOus8BZ3N65%2Brly5kb5xbzkvgGsbSzn80Dvu8CT0XEPowHQCDVyEwwpb%2Fw%3D%3D%7Ctkp%3ABk9SR-LIqbOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/x9AAAeSwX0ZqdzYC/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "127976678687",
@@ -149,13 +149,13 @@
         "priceC": 47499,
         "shippingC": 0,
         "landedC": 47499,
-        "url": "https://www.ebay.com/itm/127976678687?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0FGC66JKP2X4EZGC6FT1GBJ&hash=item1dcc01251f:g:ew4AAeSwflRqV-yH&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBQMMKF3XqcQoN5ewZIRV1DQe7r%2F0GgwAwnOOEcWHGR8OueWMO%2BSMr0JpQ5vT8dUqGGzAQAl4h2ldmsl9M4ZkRKd3obXS0FYcfxkdCg4Yae4571e%2B14USKnNajb%2Bzc4w%2FcEP6UXhBem9S62eH5jf062LKPN%2Bj2u86Zq%2BjILK8bOczSc7j2cqweYjcrdEebFGFtFynUaHpGKX0Nn%2F20b0abCny4hVUKn2Q1Jz3mQE%2FN5Coh1DGQhwaTTTfue1MA7WCplhQsp7H4rj%2FbPtLk0Ez%2BqssAvMgfwf%2Ba85mXcMg103g%3D%3D%7Ctkp%3ABk9SR9DjsPCDaA",
+        "url": "https://www.ebay.com/itm/127976678687?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0SKACGP7PXR6G1FCZ7140AZ&hash=item1dcc01251f:g:ew4AAeSwflRqV-yH&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBQMMKF3XqcQoN5ewZIRV1DQe7r%2F0GgwAwnOOEcWHGR8GNEaXB03ZfryK%2FuFyWNVZIBJuhR6zsWFCBQMl%2FL9fzzY0j4lTt8G5IG8OVUyem8Jzq%2B7R6vHDLQHizk%2FsmlkxpuySmVmbABeEjxaG8eVZyr4tsD9nkLo%2F3TVTIODOhkdrN%2BT%2BVxIHufzwCRrCnC7bezy9V4ZIvjzNpc%2F%2BmZtzGHBIhdteb1E%2BT%2Bv4lCu57rZa1Vj9czY7t841HMFz9jMm2fxRV9Ip3pk65MH8gtuFnzf8wLSKhVn7VuG1puGLxUjQ%3D%3D%7Ctkp%3ABk9SR-LIqbOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ew4AAeSwflRqV-yH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "146181739967",
@@ -163,13 +163,13 @@
         "priceC": 49900,
         "shippingC": 2073,
         "landedC": 51973,
-        "url": "https://www.ebay.com/itm/146181739967?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0FGC66JRB4J96W2NF59DWCM&hash=item22091c55bf:g:bJIAAOSwlxNnMVND&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCkKfKpOdms%2FK9olI4ZqNqiQ%2Bw%2Bjw7nyPd3nodEgZQ7i2SShbGHjzhN5iz2Bb543zaPD0A7P0X2KophSj5Zk2JmPz9Y2bXCI%2BqZhqzqLWM1XgTu8Pym9vQzoog7mFf%2BodMwgjJSwSkjs60d7nak8ezpPKa9pHkRUQM%2BoRjxrWoqItvygFtBsdauz9Ry7QNpMH3jmfNUZL7bKKm%2FbNTnWg3h4lvPlDTFak3%2By%2BvdcJ2aZttJDLbzGPuhi39ivPgw2K5Za2qkffGb0uPt5XjYMFMAxwvTnePnQkYfcwSO53yQKw%3D%3D%7Ctkp%3ABk9SR9DjsPCDaA",
+        "url": "https://www.ebay.com/itm/146181739967?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0SKACGPDTHXTQXBVJ6SJH8B&hash=item22091c55bf:g:bJIAAOSwlxNnMVND&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCkKfKpOdms%2FK9olI4ZqNqiQ%2Bw%2Bjw7nyPd3nodEgZQ7iybCgvEWZmse9E8EQmjcdTgR%2F0XcwrufAhhWiqlgDkLV65qe8zCGkNF4NRcGsQ23aQl8EgdmBfWgVyqbo9G5tJoav8aYkeGLQ31sH3Pp5iAXqckfnp4%2BMGDSZLfTdMN2nYXkC6yffCl2HOMKZbMXYesu3ZMKTtB3h8khf8SrrdE4nTOlAHuy52X6xPobfUwmJ%2FfUDj%2FT1z6dvTMJisg%2FRBt%2F2KWVYKSmwlHFxyzc8%2B9Zdc0xxL0F6UaAwFu5DSWFhA%3D%3D%7Ctkp%3ABk9SR-TIqbOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/bJIAAOSwlxNnMVND/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "287220082086",
@@ -177,27 +177,27 @@
         "priceC": 100000,
         "shippingC": 999,
         "landedC": 100999,
-        "url": "https://www.ebay.com/itm/287220082086?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0FGC66K6KKEFHFK28D27VJ1&hash=item42dfa6a5a6:g:8ZYAAeSwuHBpvYBX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDswK%2B3zn%2F9ShHAVxcOVnOoQ%2BtnUWIJY8dJGeqd8yPQPq63qgMjhIxQ77IeQQ0aFwM5KgcEOVFy2AQ7BlYLQcuqysosLxFdEfC4SzGseXTkCA1Yt8pX%2B91KaXJ6rC2Z9pAxRcwRbpltpKndX1Bq6e4q9qqukjkiz2Q4ou72EE83aGFwHWvZwwLGUBspH75LVtlreWTh88y9LKaIt099bkEbs0VKs%2FZhGO4Ao2b7xTCPWqFGPicTTVjZg5yv9rqofTii2a0SGGjxJzUH3uOBh4cHPcCz9U8MCn6vQS5G%2B6vlvg%3D%3D%7Ctkp%3ABk9SR9LjsPCDaA",
+        "url": "https://www.ebay.com/itm/287220082086?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0SKACGQNB39NKXAY31W05W7&hash=item42dfa6a5a6:g:8ZYAAeSwuHBpvYBX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDswK%2B3zn%2F9ShHAVxcOVnOoQ%2BtnUWIJY8dJGeqd8yPQPrOlr1L9KqNZ%2F8rwr%2BzMh8Rd7dHwRyxwU0aPLiwXimdB7Y9QVte2ff9S4z%2FloPfI7XSvd%2BpDfEl4DWG%2FzZJEN5CmG1cE%2FfBN6BE%2Btrh%2FcYHwBmugJJiywlTnHDUJpuu9bQmfdLQQDWP%2BVk2lexXw57XlU%2BtDPAmNmzXAumaMK74oju4F0%2BYOaJiDiLF99BNz5JgO3dY9f46Gfu9Kr9ElzB30dsHKuz0rrnKRI71x%2FiRHPv%2Bjg9EyagytfcU1CYaFwg%3D%3D%7Ctkp%3ABk9SR-bIqbOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8ZYAAeSwuHBpvYBX/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "267761172004",
         "title": "2000 POKEMON BASE SET 2 #18 VENUSAUR-HOLO PSA 10Opens in a new window or tab",
-        "priceC": 465000,
+        "priceC": 415000,
         "shippingC": 815,
-        "landedC": 465815,
-        "url": "https://www.ebay.com/itm/267761172004?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&itmmeta=01M0FGC66ME10J2KBGK2XPE2JE&hash=item3e57cf3e24:g:BuoAAeSwh3NqhNo-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAeDtOvlXNKtdyBMIAyAVeq%2FMClSN58y1SMexsQdKjnSRJKbL1nCWZPIfhG3NlT2DnSnyACQJnuSeQWf7Oq1wPRaDZ2OypsuHpLTQP%2BnlAgHFaXkqMYcs%2FnEb3rDy22vO3sfVQJWBEmVZSL2I7yRisDT0qEI38g7hGS%2FxQXzupUidIB3vvhN%2BnUCb%2FCoZWld0NrscgSVCj59R2UXG6W1PAq1gEt2q6HbMYaliDRR9aBGapt6D%2BiIluDSQJtAe4cLOmrYax%2FlW3Wt9uByLL%2BB2F0UAKvFjtKFX1gTKjsa9OOZw%3D%3D%7Ctkp%3ABk9SR9TjsPCDaA",
+        "landedC": 415815,
+        "url": "https://www.ebay.com/itm/267761172004?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368075&itmmeta=01M0Q1Z6D8DEGM4YZ5XE3W3MHG&hash=item3e57cf3e24:g:BuoAAeSwh3NqhNo-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAeDtOvlXNKtdyBMIAyAVeq%2FMClSN58y1SMexsQdKjnSaGiI%2BJ8Q3nk53XfkMN6rYOaEXSkzD2HcZNPm9SqSSOYAS3yg38q3rH8KSAxkyY3FJmuhfPqrg6ZtHTwh7BqQ7AtAlRec%2BF2l1uMdiG2tYAkq8sbFJTxINP37sztuXkbxEsaQgwyiVknfQwjTb5JPrcLO1AjxKIplfOBdq9ZWR0XJOLqPf5tmX4oKUMXgfU0QMjRk9uZpG7qrcOHFUB6zc9nLAZ9pBh035ckyjD3KXyEzVbVLRPoBlemL8UjpyS5nQ%3D%3D%7Ctkp%3ABk9SR_Lm_OGFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BuoAAeSwh3NqhNo-/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787480423442
       },
       {
         "itemId": "327255574881",
@@ -205,17 +205,30 @@
         "priceC": 625000,
         "shippingC": 0,
         "landedC": 625000,
-        "url": "https://www.ebay.com/itm/327255574881?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=22043374429&itmmeta=01M0FGC66MG53R6B1TQPGTS2HE&hash=item4c31f3c961:g:ObkAAeSwgvZqUHpL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA6CTihdAooUsPlSW%2BGAW%2Fad2MT81Sph8MOFuzsLzNqqLBImmJdC5lhI76AvQRLtYmtXF25GsdeXrBUPzU%2FSVDBxTMxh5PtEnZpkALDcN5PyWVIJOpqrVaKJMCOixi8bMabqBGyNxhwB1qOmw36qtDDerUBxsjR%2Fv%2FhlBTbg%2FnIxIeDzR4FxZP50qVy8SLmLGxFphEAw8I8SqlDl55CwvgwK9w3ylbvPqIvq8cTb0SGIrwyOT0Hg2qG8DhJhcZj51aSteNZHpXkm%2F%2BlRCHsD4jYk4%2Fnh2S6zzUfW%2B6nsBNArg%3D%3D%7Ctkp%3ABk9SR9TjsPCDaA",
+        "url": "https://www.ebay.com/itm/327255574881?_skw=%28venusaur%29+%2818%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=22043374429&itmmeta=01M0SKACGRD8FGEPSR8FBNJ0AC&hash=item4c31f3c961:g:ObkAAeSwgvZqUHpL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA6CTihdAooUsPlSW%2BGAW%2Fad2MT81Sph8MOFuzsLzNqqGobLz9Wqw8eReBSqktF2e1XPrBpxTiZOXAq6mwUOQewzJtVdCAAEDn%2FV%2FHTpOakwBneEyscsHPR4gvAxubeCRUpeREuISe%2Fat0cWlyKZIyxIjxBdLqc1n%2B8DxbwOCVPpOGSIs4b%2Bhj0J1svOLKyX0oYQryCpPbMOk%2Fbl7g9137iThRY5siv0a9XJybg5FznuC9JJMOjtaOaBZW2Kq2vmv01Tnn809OcctXmJ2rkJZ%2Bo7mG4BoH%2BkEn6Ju21bEk5tw%3D%3D%7Ctkp%3ABk9SR-rIqbOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ObkAAeSwgvZqUHpL/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3862659,
+          "saleDate": "2026-08-23",
+          "priceC": 3800,
+          "title": "Pokémon TCG Venusaur Holo Rare 18/110 Legendary Collection 2002 🔥 Lp-/mp+ 🔥 18/110",
+          "url": "https://www.ebay.com/itm/158194871825?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 338962,
           "saleDate": "2026-08-12",
@@ -265,6 +278,19 @@
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2250711,
+          "saleDate": "2026-08-07",
+          "priceC": 131498,
+          "title": "Pokémon Legendary Collection Venusaur #18 – REV FOIL PSA 7 #18",
+          "url": "https://www.ebay.com/itm/206456327216?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 7,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1749,32 +1775,6 @@
           "gradingGrade": 7,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 339001,
-          "saleDate": "2026-01-02",
-          "priceC": 7999,
-          "title": "2002 POKEMON LEGENDARY COLLECTION #18 VENUSAUR-HOLO PSA 7 #18",
-          "url": "https://www.ebay.com/itm/116932114677?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 338976,
-          "saleDate": "2026-01-02",
-          "priceC": 11959,
-          "title": "2002 Pokemon Legendary Collection Venusaur holo 18/110 PSA 8 NM-Mint vintage #18",
-          "url": "https://www.ebay.com/itm/136244751731?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1829,9 +1829,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 240,
+      "englishSaleCount": 242,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787211967108
+      "lastCapturedAt": 1787557324439
     }
   }
 }

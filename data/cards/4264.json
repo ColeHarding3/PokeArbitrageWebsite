@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 4264,
@@ -29,7 +29,7 @@
         "psa10Pop": 9,
         "cgc10Pop": 10,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 4 sales per year\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787214236078
+        "fetchedAt": 1787559318999
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -44,7 +44,7 @@
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787214236078
+      "updatedAt": 1787559318999
     },
     "prices": {
       "variantId": 4264,
@@ -59,22 +59,22 @@
       "cgc10Pop": 10,
       "bgs10C": 274600,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 4 sales per year\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787214236078
+      "fetchedAt": 1787559318999
     },
     "listings": [
       {
         "itemId": "800535988166",
         "title": "Pokémon Furret 2004 EX Team Rocket Returns #22/109 Rev Holo CGC 10Opens in a new window or tab",
-        "priceC": 99,
+        "priceC": 4100,
         "shippingC": 795,
-        "landedC": 894,
-        "url": "https://www.ebay.com/itm/800535988166?_skw=%28furret%29+%2822%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=7043379731&itmmeta=01M0F4C8659CF55S3FNTTPAPAH&hash=itemba63a9c7c6:g:IKIAAeSwQOlqfIjc&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB8f%2Fb0UvX8huSkiAp5Ybf5ldO%2BXiUcaQL9drsaUqY3BqzbXWK65mYWDGOve1JyzMThAyYak1qdbdofUwdwMxCuUEkbam032ws7wFz%2FAhVVP9Kbo7rPTmKCEyHHNjbvoY2%2B7%2BWUN1zNRzVzkrPVN9hxz0tnC1pzdoNSRfTkW1GZsUucsLk11cgkKJeG3GjocQYnylNt3czGM6VydcjQ7zKCAT5wu%2BTZuEXrouRmt4Q7W8VtqOQUwggzYOzMcXGT94QRr1DovkHcDQ%2Bzjw68lolzW6ooK7%2Fp8dkiLjPBcJZ7qM1L2GGmYfJsuQonp0GtQ0w%3D%7Ctkp%3ABk9SR6iDseSDaA",
+        "landedC": 4895,
+        "url": "https://www.ebay.com/itm/800535988166?_skw=%28furret%29+%2822%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=7043379731&itmmeta=01M0SDEQD4K1C1DHATC67N1QQR&hash=itemba63a9c7c6:g:IKIAAeSwQOlqfIjc&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDeY1rbxXuU7D66cygTVMvbvYR5N30n3kQqwVU%2BRmKYtnIwzAQiZb4WSIyMnCUt%2F2F6mHnsMVEumPXCSTXdRBt%2Fw%2FuORLxKf77lbxWJnaMfuKGCu%2FDM5DZYvAj5RSgus0EtTF6OHRIO0RWrhdodbOMYZV7w7BErDPWYFhCn813rraIOrpZHPdYdLz9cGMTV0kzZqzyukzRDbgTcgQ70SXGyzZSxhBa%2BVfHntNNVM%2F56T%2Bo2vdi19StJYHANen5wGFy0GYFL8hR00XeVAaUlUFMZ%7Ctkp%3ABk9SR_D2uq2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/IKIAAeSwQOlqfIjc/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787214401857,
-        "lastSeen": 1787214401857
+        "lastSeen": 1787559440540
       }
     ],
     "marketHistory": {
@@ -1317,7 +1317,7 @@
       ],
       "englishSaleCount": 91,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787214233988
+      "lastCapturedAt": 1787559317420
     }
   }
 }

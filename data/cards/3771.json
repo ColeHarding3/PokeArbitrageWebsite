@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 3771,
@@ -29,7 +29,7 @@
         "psa10Pop": 1,
         "cgc10Pop": 5,
         "salesVolumeJson": "{}",
-        "fetchedAt": 1787213645991
+        "fetchedAt": 1787558915101
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -44,7 +44,7 @@
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787213645991
+      "updatedAt": 1787558915101
     },
     "prices": {
       "variantId": 3771,
@@ -59,22 +59,36 @@
       "cgc10Pop": 5,
       "bgs10C": 134100,
       "salesVolumeJson": "{}",
-      "fetchedAt": 1787213645991
+      "fetchedAt": 1787558915101
     },
     "listings": [
       {
+        "itemId": "298605689042",
+        "title": "2004 POKEMON EX HIDDEN LEGENDS #61 FEEBAS-REVERSE FOIL PSA 9Opens in a new window or tab",
+        "priceC": 3800,
+        "shippingC": 599,
+        "landedC": 4399,
+        "url": "https://www.ebay.com/itm/298605689042?_skw=%28feebas%29+%2861%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=20043376575&itmmeta=01M0SD2TBXBD442RTKXBW1GFMS&hash=item45864938d2:g:MxgAAeSwG9Fqh7mi&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCSIhHYuD9UNiw4gTZkqb5%2B9ayyL%2B3tStD4LnM9VGt5o1%2FY0pcYB5w1RJAt7%2FzO8uch7a%2FhvHA%2BfloTRhrW1WJcZ778h0FOKy9qeIrmTpehhXS5M2sr%2FOC84k%2Fl3c%2FbHDlFGkbqT8LT2va0MetJZ2yLCMz8251SjfviU04eODL6l58Ffe0Bs9SJska8BukShohHTS%2FV%2B6QiaiJTNKrGkFRWHU6VnyXTqHlJWBvLSTe9jbfUilwtqppTlgWHlgTWQVXjU9sN8FChMn%2FXxA1ezvbi%7Ctkp%3ABk9SR5qmi62GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/MxgAAeSwG9Fqh7mi/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787386351112,
+        "lastSeen": 1787559016400
+      },
+      {
         "itemId": "800537186405",
         "title": "2004 Pokémon Feebas Reverse Holo EX Hidden Legends 61/101 CGC 10Opens in a new window or tab",
-        "priceC": 99,
+        "priceC": 7877,
         "shippingC": 795,
-        "landedC": 894,
-        "url": "https://www.ebay.com/itm/800537186405?_skw=%28feebas%29+%2861%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=20043376575&itmmeta=01M0F3TPQS4CJ4D5VZFR9BN882&hash=itemba63bc1065:g:21QAAeSwq2JqhH1U&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAQ%2F%2Bt4Xj%2B%2BWxo%2FFELD5BGFk7SOvks0fOrixS%2BnsRegR38E%2BqlSO3CSrYVpNVXu0w01Ah0U4pfsSohfA3SvRkflC%2F6Sv2NaqbzJ8rcKo81wnwRuk8tpRukHEsAQ1qFuIN%2FArjQpUPrEURAS8cC2Kkz5I4jmrihWuxo7cBHgZElEg1CikB6UeUzIlKqAi%2BWi%2FlNdVumZZJxlcroxJBoB9oy7zpmd8JTlchWoQzRSs1YhuQQP2ldyF17nNID2lI5e2p58bDBIJZ9A9AuesvfKbrFgBZ5tob73cXiIlfccqXZYMB7qKJA3o3%2F7IJoibt22a30%3D%7Ctkp%3ABk9SR5js6uODaA",
+        "landedC": 8672,
+        "url": "https://www.ebay.com/itm/800537186405?_skw=%28feebas%29+%2861%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=20043376575&itmmeta=01M0SD2TBXN9Z84AP1KS8HDYXB&hash=itemba63bc1065:g:21QAAeSwq2JqhH1U&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAQ%2F%2Bt4Xj%2B%2BWxo%2FFELD5BGFk7SOvks0fOrixS%2BnsRegR38E%2BqlSO3CSrYVpNVXu0w01Ah0U4pfsSohfA3SvRkflC%2F6Sv2NaqbzJ8rcKo81wnwRuk8tpRukHEsAQ1qFuIN%2BEkcrMmFbahQa9NhWInEIWzzWNJSBHyWMZ8cCsNH25Szqeyw1PfP9fuUB5HKxLr%2FxwOApBae7Iw2VbxgCr4kSgsCYVpwMYOwWBvoDmStt53n%2FTc9Fdy9fuM6yT8HKFS1xwuq%2FBDUF9nAW7vQBzGhvsr07Ddz1e%2BKHBoqKkDND0uPOB8jZXu8Z%2Bl6DBGB%2FShTI%3D%7Ctkp%3ABk9SR5qmi62GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/21QAAeSwq2JqhH1U/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787213780817,
-        "lastSeen": 1787213780817
+        "lastSeen": 1787559016400
       }
     ],
     "marketHistory": {
@@ -954,7 +968,7 @@
       "monthlyPsa10": [],
       "englishSaleCount": 67,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787213644060
+      "lastCapturedAt": 1787558913557
     }
   }
 }

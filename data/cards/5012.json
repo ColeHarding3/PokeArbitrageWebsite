@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 5012,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/3874eafb1668ec96a5359d803d6fc3203c2918234f39e679591cd20837f17cc1/1600.jpg",
       "popularityScore": 100,
       "market": {
-        "ungradedC": 353926,
-        "grade9C": 1910760,
-        "grade95C": 2101800,
+        "ungradedC": 320000,
+        "grade9C": 1931876,
+        "grade95C": 2125100,
         "cgc10C": 1688888,
         "cgc10PristineC": 3700000,
-        "psa10C": 11295244,
-        "bgs10C": 14683800,
+        "psa10C": 11190488,
+        "bgs10C": 14547600,
         "psa9Pop": 444,
         "psa10Pop": 119,
-        "cgc10Pop": 0,
+        "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787217541708
+        "fetchedAt": 1787560411196
       },
       "bestCgc10": {
         "itemId": "168281989975",
@@ -37,13 +37,13 @@
         "priceC": 4999999,
         "shippingC": 0,
         "landedC": 4999999,
-        "url": "https://www.ebay.com/itm/168281989975?_skw=%28pikachu%2Cgold%2Cstar%29+%28104%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=22043374596&itmmeta=01M0F7R373A220AY3J6YF3JQCA&hash=item272e636357:g:iKkAAeSw6whpzrkS&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xADsUOP8IEC2OeoYcpz%2F5nJPgfZMMIqAcTyyAiFzp0HUISDX0o8cL1KYIk53dKy0tKqvlWDVo2nACBEZdVOSi40%2F0UO7GyiR1So9ee8D8s9UuJWB2qCX8mLrlDA2PzBDidaBh16V7lvJ8FQVi5uMqFw948X4mJlNtZ9UIeZoILZ4j9HXpAKhuZYHUGQOSlYvnSNCF1z2MNAF2UPDfSE1Z0C7ex2AfQXYVl8o9mLJoo%2BfX39VB%2Fe3blh14KNSRD%2BlsvpXqmakQ%2FoHvQ3SgbZ12Y%2F2S%2FokjWlJB9y2OqqXqGwK%2FhDgS902tCM25%2BkZUzXoUAuwR0E%2BTYrAEbJHdihxlWV%7Ctkp%3ABk9SR_Cz4OeDaA",
+        "url": "https://www.ebay.com/itm/168281989975?_skw=%28pikachu%2Cgold%2Cstar%29+%28104%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=22043374596&itmmeta=01M0SENDA80EH7CH7A8BZB68GC&hash=item272e636357:g:iKkAAeSw6whpzrkS&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xADsUOP8IEC2OeoYcpz%2F5nJPgfZMMIqAcTyyAiFzp0HUISDX0o8cL1KYIk53dKy0tKqvlWDVo2nACBEZdVOSi40%2F0UO7GyiR1So9ee8D8s9UuJWB2qCX8mLrlDA2PzBDid6iT1O3n0nADDz4zJpcmv%2Fp0U%2FGc5GzponA9yWkYhvSLfaKX3Kb03qsENRl%2Boh1K4qDin4afGOpCy5ZHCUtLfFFtjjQCOg1qNx0c8O6EWrh1GasdEaofcbD42pMVl82X21vaYrZJKI6fSV7HidQYhrxku1vIWI3%2B%2FxMBf98xWOPRV%2BQSCtZtdJW9qipeIOX6ys13%2F92ZJV96lSeR9%2BfcNQ%7Ctkp%3ABk9SR7jW1a6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/iKkAAeSw6whpzrkS/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1787217904343
+        "lastSeen": 1787560642844
       },
       "bestPsa10": {
         "itemId": "317870916576",
@@ -51,22 +51,35 @@
         "priceC": 22500000,
         "shippingC": 0,
         "landedC": 22500000,
-        "url": "https://www.ebay.com/itm/317870916576?_skw=%28pikachu%2Cgold%2Cstar%29+%28104%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=22043374596&itmmeta=01M0F7R373PC4J9JDDNEB8BZTH&hash=item4a029543e0:g:EzsAAeSw5qJpjZts&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBwUiHdesdJbBu5ZmnZ6L8Gy9ErePuGzPtS5VLmjeRI4PD2UyCPRJ6Lj7E6pftXjS9BR9Ag0bbX1JbKfG0d81IqUPTYIAYnoRbQcF2XBo28un2GeOrE2qfWJqP%2Bn4v4fl53S6WO4%2B3AzFtU8oM7rTstuPLxQwLCeqWnJanfKdSfmq1KqHDj4%2BgzgXFxhXLOTuE%2BoXNwcGs5EK%2Fc7r79kvnhGY5WSnGEf%2FjXkmoQFXH2YKB1y778FtBafrxazFHZXATF5c9%2B0tyLLPdfheJHoI%2FM7tCZHDJhO7zqMIbVAFATC3Bxv83DCJHEO0FuJZ%2FrTMxD3csFZQPg4zylb8lmkzsC%7Ctkp%3ABk9SR_Cz4OeDaA",
+        "url": "https://www.ebay.com/itm/317870916576?_skw=%28pikachu%2Cgold%2Cstar%29+%28104%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=22043374596&itmmeta=01M0SENDA8FWNGBD9RCPPWYYR7&hash=item4a029543e0:g:EzsAAeSw5qJpjZts&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBwUiHdesdJbBu5ZmnZ6L8Gy9ErePuGzPtS5VLmjeRI4PD2UyCPRJ6Lj7E6pftXjS9BR9Ag0bbX1JbKfG0d81IqUPTYIAYnoRbQcF2XBo28un2GeOrE2qfWJqP%2Bn4v4fl6CEPd3hOoWmd3AgkBFmyoFYzvXgd8Op4TlqBfObJB8Mivxa%2BWJ6awBe1fmdui7n4OMnbppBZ0%2FHBX4fRLbKI%2B6NsPz0ERNn56O9Da3s8NFpVeyPSHkCzOAcengIO2oTN%2FkAcb8EuKFQXJC3Tmqe%2FnvYRbhvarz3zgdqakxb27wZMwQIRM4jwy5%2Bq2vQK4EoEoPi2pDg2AhPPI3pGmT8aoF%7Ctkp%3ABk9SR7jW1a6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EzsAAeSw5qJpjZts/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1787217904343
+        "lastSeen": 1787560642844
       },
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "227480504260",
+        "title": "2006 Pokemon Pikachu Gold Star 104/110 EX Holon Phantoms Holo PSA 9 TAIL SWIRLOpens in a new window or tab",
+        "priceC": 5500000,
+        "shippingC": 0,
+        "landedC": 5500000,
+        "url": "https://www.ebay.com/itm/227480504260?_skw=%28pikachu%2Cgold%2Cstar%29+%28104%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=22043374596&itmmeta=01M0SENDA8QM9B3DXKPQQ6FDVZ&hash=item34f6e507c4:g:18gAAeSw5GRqh8M6&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBellKrbpvd5gOOnJ6rvhypv2nKf4US35--9EN8dC9t%2BjiiwyiFfv2nDjF7AISvH8IlKO52xREdjjBMHeqvXYkNw9DtXG%2FRmL%2Ftv%2FLOO%2F5ykINpQDFDQvRGK%2BRJGtU%2FWtRqzd3rM22HkJ8UwPde8wLwRWr9rnjYi7lpRsgQXdUfg12VSTWbWL3enWarx4XSwhM9pjLNkMWXoe%2BZGDWJFjmXQYmclgHBmAfmE0buaEDtZLkGnitOJur4sML%2FzkYgh%2BAD33yGGFwG2AuEAWNcTw8JiLdS93LkO1R5sRtP9DM50uJyN%2FPakMmkjJg1ABxyXZwgOtlo19E8PcrVycgGJgq8%7Ctkp%3ABk9SR7jW1a6GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/18gAAeSw5GRqh8M6/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787387940110,
+        "lastSeen": 1787560642844
+      },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 3,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -80,26 +93,26 @@
         "cgc10CostC": 4999999,
         "submissionFeeC": 499900,
         "totalCostC": 5499899,
-        "psa10ValueC": 11295244,
-        "ratio": 2.0537184410113714
+        "psa10ValueC": 11190488,
+        "ratio": 2.0346715457865683
       },
       "firstOpportunityAt": 1787092753589,
-      "updatedAt": 1787217904343
+      "updatedAt": 1787560642844
     },
     "prices": {
       "variantId": 5012,
-      "ungradedC": 353926,
-      "grade9C": 1910760,
-      "grade95C": 2101800,
+      "ungradedC": 320000,
+      "grade9C": 1931876,
+      "grade95C": 2125100,
       "cgc10C": 1688888,
       "cgc10PristineC": 3700000,
-      "psa10C": 11295244,
+      "psa10C": 11190488,
       "psa9Pop": 444,
       "psa10Pop": 119,
-      "cgc10Pop": 0,
-      "bgs10C": 14683800,
+      "cgc10Pop": null,
+      "bgs10C": 14547600,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787217541708
+      "fetchedAt": 1787560411196
     },
     "listings": [
       {
@@ -108,13 +121,27 @@
         "priceC": 4999999,
         "shippingC": 0,
         "landedC": 4999999,
-        "url": "https://www.ebay.com/itm/168281989975?_skw=%28pikachu%2Cgold%2Cstar%29+%28104%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=22043374596&itmmeta=01M0F7R373A220AY3J6YF3JQCA&hash=item272e636357:g:iKkAAeSw6whpzrkS&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xADsUOP8IEC2OeoYcpz%2F5nJPgfZMMIqAcTyyAiFzp0HUISDX0o8cL1KYIk53dKy0tKqvlWDVo2nACBEZdVOSi40%2F0UO7GyiR1So9ee8D8s9UuJWB2qCX8mLrlDA2PzBDidaBh16V7lvJ8FQVi5uMqFw948X4mJlNtZ9UIeZoILZ4j9HXpAKhuZYHUGQOSlYvnSNCF1z2MNAF2UPDfSE1Z0C7ex2AfQXYVl8o9mLJoo%2BfX39VB%2Fe3blh14KNSRD%2BlsvpXqmakQ%2FoHvQ3SgbZ12Y%2F2S%2FokjWlJB9y2OqqXqGwK%2FhDgS902tCM25%2BkZUzXoUAuwR0E%2BTYrAEbJHdihxlWV%7Ctkp%3ABk9SR_Cz4OeDaA",
+        "url": "https://www.ebay.com/itm/168281989975?_skw=%28pikachu%2Cgold%2Cstar%29+%28104%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=22043374596&itmmeta=01M0SENDA80EH7CH7A8BZB68GC&hash=item272e636357:g:iKkAAeSw6whpzrkS&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xADsUOP8IEC2OeoYcpz%2F5nJPgfZMMIqAcTyyAiFzp0HUISDX0o8cL1KYIk53dKy0tKqvlWDVo2nACBEZdVOSi40%2F0UO7GyiR1So9ee8D8s9UuJWB2qCX8mLrlDA2PzBDid6iT1O3n0nADDz4zJpcmv%2Fp0U%2FGc5GzponA9yWkYhvSLfaKX3Kb03qsENRl%2Boh1K4qDin4afGOpCy5ZHCUtLfFFtjjQCOg1qNx0c8O6EWrh1GasdEaofcbD42pMVl82X21vaYrZJKI6fSV7HidQYhrxku1vIWI3%2B%2FxMBf98xWOPRV%2BQSCtZtdJW9qipeIOX6ys13%2F92ZJV96lSeR9%2BfcNQ%7Ctkp%3ABk9SR7jW1a6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/iKkAAeSw6whpzrkS/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1787217904343
+        "lastSeen": 1787560642844
+      },
+      {
+        "itemId": "227480504260",
+        "title": "2006 Pokemon Pikachu Gold Star 104/110 EX Holon Phantoms Holo PSA 9 TAIL SWIRLOpens in a new window or tab",
+        "priceC": 5500000,
+        "shippingC": 0,
+        "landedC": 5500000,
+        "url": "https://www.ebay.com/itm/227480504260?_skw=%28pikachu%2Cgold%2Cstar%29+%28104%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=22043374596&itmmeta=01M0SENDA8QM9B3DXKPQQ6FDVZ&hash=item34f6e507c4:g:18gAAeSw5GRqh8M6&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBellKrbpvd5gOOnJ6rvhypv2nKf4US35--9EN8dC9t%2BjiiwyiFfv2nDjF7AISvH8IlKO52xREdjjBMHeqvXYkNw9DtXG%2FRmL%2Ftv%2FLOO%2F5ykINpQDFDQvRGK%2BRJGtU%2FWtRqzd3rM22HkJ8UwPde8wLwRWr9rnjYi7lpRsgQXdUfg12VSTWbWL3enWarx4XSwhM9pjLNkMWXoe%2BZGDWJFjmXQYmclgHBmAfmE0buaEDtZLkGnitOJur4sML%2FzkYgh%2BAD33yGGFwG2AuEAWNcTw8JiLdS93LkO1R5sRtP9DM50uJyN%2FPakMmkjJg1ABxyXZwgOtlo19E8PcrVycgGJgq8%7Ctkp%3ABk9SR7jW1a6GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/18gAAeSw5GRqh8M6/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787387940110,
+        "lastSeen": 1787560642844
       },
       {
         "itemId": "317870916576",
@@ -122,13 +149,13 @@
         "priceC": 22500000,
         "shippingC": 0,
         "landedC": 22500000,
-        "url": "https://www.ebay.com/itm/317870916576?_skw=%28pikachu%2Cgold%2Cstar%29+%28104%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=22043374596&itmmeta=01M0F7R373PC4J9JDDNEB8BZTH&hash=item4a029543e0:g:EzsAAeSw5qJpjZts&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBwUiHdesdJbBu5ZmnZ6L8Gy9ErePuGzPtS5VLmjeRI4PD2UyCPRJ6Lj7E6pftXjS9BR9Ag0bbX1JbKfG0d81IqUPTYIAYnoRbQcF2XBo28un2GeOrE2qfWJqP%2Bn4v4fl53S6WO4%2B3AzFtU8oM7rTstuPLxQwLCeqWnJanfKdSfmq1KqHDj4%2BgzgXFxhXLOTuE%2BoXNwcGs5EK%2Fc7r79kvnhGY5WSnGEf%2FjXkmoQFXH2YKB1y778FtBafrxazFHZXATF5c9%2B0tyLLPdfheJHoI%2FM7tCZHDJhO7zqMIbVAFATC3Bxv83DCJHEO0FuJZ%2FrTMxD3csFZQPg4zylb8lmkzsC%7Ctkp%3ABk9SR_Cz4OeDaA",
+        "url": "https://www.ebay.com/itm/317870916576?_skw=%28pikachu%2Cgold%2Cstar%29+%28104%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=22043374596&itmmeta=01M0SENDA8FWNGBD9RCPPWYYR7&hash=item4a029543e0:g:EzsAAeSw5qJpjZts&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBwUiHdesdJbBu5ZmnZ6L8Gy9ErePuGzPtS5VLmjeRI4PD2UyCPRJ6Lj7E6pftXjS9BR9Ag0bbX1JbKfG0d81IqUPTYIAYnoRbQcF2XBo28un2GeOrE2qfWJqP%2Bn4v4fl6CEPd3hOoWmd3AgkBFmyoFYzvXgd8Op4TlqBfObJB8Mivxa%2BWJ6awBe1fmdui7n4OMnbppBZ0%2FHBX4fRLbKI%2B6NsPz0ERNn56O9Da3s8NFpVeyPSHkCzOAcengIO2oTN%2FkAcb8EuKFQXJC3Tmqe%2FnvYRbhvarz3zgdqakxb27wZMwQIRM4jwy5%2Bq2vQK4EoEoPi2pDg2AhPPI3pGmT8aoF%7Ctkp%3ABk9SR7jW1a6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EzsAAeSw5qJpjZts/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1787217904343
+        "lastSeen": 1787560642844
       },
       {
         "itemId": "188809828731",
@@ -136,13 +163,13 @@
         "priceC": 29500000,
         "shippingC": 0,
         "landedC": 29500000,
-        "url": "https://www.ebay.com/itm/188809828731?_skw=%28pikachu%2Cgold%2Cstar%29+%28104%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=22043374596&itmmeta=01M0F7R3739NVD0RVWFHR7YDG2&hash=item2bf5f1597b:g:o70AAeSwUkpqg913&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDYvYgFlbWhU7oFf3OUA4Lmv4UmdhGT4Dwv2YTyzOqWiTxh2%2F7ud85LuMRgKTPm2g1NgppapFkq60WUzaupFg6t%2BE2sSCUB7Ik85%2F9Aj2FTQkpJcepyo2dS0ibFDN00j7sWT4z1Xfk5XR02M6m9ohlm8vVs82RfTPhPnt1LRpwenwue0wP31GgDJUKk2BDghPc7WPYuVIcFNEOyzPSZDZZw%2BzwKknU3mwBgmU%2Bs5Xh2d70Mui1arATiy1KJjNuTZo7Rdk1zMVseHeA5Ui2CAOJfshZJ512cF7LgiwmC54QhVG8qOSt2%2BDeAfx6eolnNJudb3K40SzUDmNVWDDPwe1AF%7Ctkp%3ABk9SR_Cz4OeDaA",
+        "url": "https://www.ebay.com/itm/188809828731?_skw=%28pikachu%2Cgold%2Cstar%29+%28104%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=22043374596&itmmeta=01M0SENDA8NBC67YVRKA0C7AX7&hash=item2bf5f1597b:g:o70AAeSwUkpqg913&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDYvYgFlbWhU7oFf3OUA4Lmv4UmdhGT4Dwv2YTyzOqWiTxh2%2F7ud85LuMRgKTPm2g1NgppapFkq60WUzaupFg6t%2BE2sSCUB7Ik85%2F9Aj2FTQkpJcepyo2dS0ibFDN00j7sPZ6t5ZRxw%2BEW%2FHyyzV4fNDz8JRnPjPeTLgXmi5BNgUKEv218%2BqUyZYWynvAxdvLulgPPBRmXeWPgs%2FHqKwYD84nDAqG94aXRuLuLZazszUpcQ%2BWuD4cVA0AfwXvDPnkQPOVyue64V9iHfWjdGWRk1l8eQiwgx3U5ysO1fayNAiAXXnl%2FcjtHsir7R6idxzb6646%2B2OJzaq5TNvR6ZCquh%7Ctkp%3ABk9SR7rW1a6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/o70AAeSwUkpqg913/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1787217904343
+        "lastSeen": 1787560642844
       },
       {
         "itemId": "376711099651",
@@ -150,17 +177,43 @@
         "priceC": 35000000,
         "shippingC": 0,
         "landedC": 35000000,
-        "url": "https://www.ebay.com/itm/376711099651?_skw=%28pikachu%2Cgold%2Cstar%29+%28104%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=22043374596&itmmeta=01M0F7R374ZT8SQTJEJ5C9F4NA&hash=item57b5bb3503:g:QsMAAeSw7TppHd1s&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBvnKEbyfgLKDKS9EGoMe0Emsxdo43MHL65RJdkTh6C9KpJivx7%2BefiDWlQ8Ia2iwKAoGHEEDpxxYMqBR4%2FQytCv64HITi9gC7U2m%2FRddVMhIt%2BmMGBnlO86Bhs8rhvFXFt6kpTpF60NpJAE9K2arXtX6oWNau8DDJBb%2BaxK7ouJ1ly%2FhhDmWwDimv0MMh79VRtVX857wauy4daULuMoPYVcjARGTzKqdbBXJ09%2BGoB3BRZVE%2BkkddDjNMQU2JyzyjkJFPCfO%2FoPKUg20lttTEWAI60g3l33StGpcn%2F2PHuaB7pR9GzgicwlYIXyzPgRauwDFM8Oj1EuF80KNXJUdBF%7Ctkp%3ABk9SR_Cz4OeDaA",
+        "url": "https://www.ebay.com/itm/376711099651?_skw=%28pikachu%2Cgold%2Cstar%29+%28104%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=22043374596&itmmeta=01M0SENDA8N03Y2S8Z0E6KD2WK&hash=item57b5bb3503:g:QsMAAeSw7TppHd1s&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBy%2FZqRHICSWU%2FcD63UG7sa5pRTT65nCzL8sbc05cmz%2Fj6NWI12E4X6TjnIhNL0k%2BG5p2E0kU7hKCm25Zd1XB3KzKrO2xOAyONHpPgoObV9da3Wnq8hdgcxEx%2BDbXpPNYnFh8rbb%2BmXA3XldqXdZxC8esT2ucbwWbVczuI%2Fa6vo1nUgZ5Zl1StDtwXPIYBhmR7c5WQu9T4cV%2Fx4Q9JSUAspcTHxJlKaUyvHQGrD5UoVHq78KFglEo4%2B8tPZr5AkEA8GlcxQV6YkAAgzN5iJsEO%2FKQYa605dbo4cg6R3XCHc5g%3D%3D%7Ctkp%3ABk9SR7rW1a6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/QsMAAeSw7TppHd1s/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1787217904343
+        "lastSeen": 1787560642844
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 4206445,
+          "saleDate": "2026-08-24",
+          "priceC": 410100,
+          "title": "2006 Pokemon EX Holon Phantoms Pikachu Star Holo #104/110 PSA 3",
+          "url": "https://www.ebay.com/itm/128029083821?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 3,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 4206385,
+          "saleDate": "2026-08-23",
+          "priceC": 500000,
+          "title": "Pokemon Pikachu Gold Star EX Holon Phantoms 104/110 Holo CGC 5.5 104/110",
+          "url": "https://www.ebay.com/itm/287524899742?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 5.5,
+          "gradingDesignation": null,
+          "agreementStatus": "mismatch"
+        },
         {
           "id": 650576,
           "saleDate": "2026-08-18",
@@ -1553,6 +1606,19 @@
           "agreementStatus": "mismatch"
         },
         {
+          "id": 2593005,
+          "saleDate": "2026-05-03",
+          "priceC": 820799,
+          "title": "2006 POKEMON EX HOLON PHANTOMS GOLD STAR #104 PIKACHU-HOLO PSA 7 #104",
+          "url": "https://www.ebay.com/itm/298260440324?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 7,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 650416,
           "saleDate": "2026-05-02",
           "priceC": 309074,
@@ -1681,45 +1747,6 @@
           "gradingGrade": 3,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 650552,
-          "saleDate": "2026-04-26",
-          "priceC": 660000,
-          "title": "Pokemon Pikachu Gold Star EX Holon Phantoms Holo Card #104 PSA 7 #104",
-          "url": "https://www.ebay.com/itm/287286403547?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 650721,
-          "saleDate": "2026-04-24",
-          "priceC": 323400,
-          "title": "2006 POKEMON EX HOLON PHANTOMS GOLD STAR #104 PIKACHU-HOLO PSA 1 #104",
-          "url": "https://www.ebay.com/itm/117144730372?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 1,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 650553,
-          "saleDate": "2026-04-23",
-          "priceC": 700000,
-          "title": "2006 POKEMON EX HOLON PHANTOMS GOLD STAR #104 PIKACHU-HOLO PSA 7 #104",
-          "url": "https://www.ebay.com/itm/117147835386?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1834,9 +1861,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 350,
+      "englishSaleCount": 353,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787217482093
+      "lastCapturedAt": 1787560409577
     }
   }
 }

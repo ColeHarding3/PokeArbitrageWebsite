@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 1502,
@@ -18,117 +18,116 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/996f3cf7cf02fbf3c9a620af334e843e09b9061ffe12c3c154414cac75640e6e/1600.jpg",
       "popularityScore": 76,
       "market": {
-        "ungradedC": 16382,
+        "ungradedC": 16988,
         "grade9C": 50000,
         "grade95C": 67550,
         "cgc10C": 124999,
         "cgc10PristineC": 225000,
-        "psa10C": 1150000,
-        "bgs10C": 1495000,
+        "psa10C": 1099600,
+        "bgs10C": 1429500,
         "psa9Pop": 280,
         "psa10Pop": 38,
         "cgc10Pop": 20,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787211240050
+        "fetchedAt": 1787556656063
       },
-      "bestCgc10": null,
+      "bestCgc10": {
+        "itemId": "278299911283",
+        "title": "CGC 9.5 MINT+ Politoed 8/75 Neo Discovery 1st Edition Holo Pokemon CardOpens in a new window or tab",
+        "priceC": 120000,
+        "shippingC": 0,
+        "landedC": 120000,
+        "url": "https://www.ebay.com/itm/278299911283?_skw=%28politoed%29+%288%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=27043367563&itmmeta=01M0SAXBABBMB6PV2DR1ESGWZ6&hash=item40cbf7a473:g:SokAAeSwFLNqh2pJ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBWaR4pR8NlsRf19A84QGuxXQoNqUTkwANAwD5dxbVG10tN10OWn5%2F6ixLRWEGSukE5LGctsxMqKOM3U8lOCGh7xKUxsb%2FwiVgTnTIx9APnmOd4aX9ozJRtmQWybljw2QDMEVPuo1bGJoZLBKjoH4q%2B0MHFSFhBvw42mynO3Zftv75DYqY1Kt2YJRe7XDQTsvsK2CdoOEM0MS0osS1aypAikJq8nuHrRodUIeAr4Qcde7Y358El8j60b6oiuA%2Bc2ghsufsHvV5qtvy9lT8Sk2Zu%7Ctkp%3ABk9SR8S19aqGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/SokAAeSwFLNqh2pJ/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787298591537,
+        "lastSeen": 1787556800968
+      },
       "bestPsa10": {
         "itemId": "188566144110",
         "title": "2001 POKÉMON NEO DISCOVERY 1ST EDITION HOLO POLITOED PSA 10 GEM MINT POP 38Opens in a new window or tab",
         "priceC": 2800000,
         "shippingC": 5000,
         "landedC": 2805000,
-        "url": "https://www.ebay.com/itm/188566144110?_skw=%28politoed%29+%288%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=27043367563&itmmeta=01M0F1G6GC3JFCCWAEY9NJEX0D&hash=item2be76b046e:g:FtUAAeSwOUVqP19U&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCD12YG1oHfOpLxxhjVUh%2FngyO1X1Em52mz3leBVq0%2FW7zLxJZTzYTPmgP57dd9v6ibVj0oti0kkF%2FlDRr%2FX8PBVFazXw%2FCg5ITr9fwMZFcLYjTq3NrsiPAaPk%2BhsYHTXELrOoEZtjKUbX%2B45K8S7GnRnoCWpb1WKEJDT%2B3YLT61BPp4vF1prGQDa%2Bz6vD45Ip4V6oJTBpI1yOp6OLhuV7vYLQgsORVx%2B9IHNNRdGqfniHc2YFwbeCTAtqFEhR9jkJ7TIfAEhcdC4ADV%2BYt%2FvSSKFHWXMrz6zfXbMSkEXoxOxEkITMySx%2Bhj1kCKzNlHYJwOjqrPHr8yRsZQWPXiBp9%7Ctkp%3ABk9SR77owOGDaA",
+        "url": "https://www.ebay.com/itm/188566144110?_skw=%28politoed%29+%288%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=27043367563&itmmeta=01M0SAXBAB0YMGDQ5Q596R64DQ&hash=item2be76b046e:g:FtUAAeSwOUVqP19U&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCRPQi%2BxyItutm6ZjaMwPupWtN8NAqkiyVphVgAmbrfcI6pCioasRhXa2KgGu4IOfNtVA0vfyT7K%2FA0mJ3K2TPtBQywFvyGO2K6AGFXDdFy6VVbA%2BlLUMRdQu8dCzAqxYPwagM0r5alWxvL3VXfLgG%2FUJ8zJEID6e08u1iK6rw0k19qtqFf%2FxeTtppzBnTUzY5DTZesCIzvQ%2BvJsgQ%2FkX0d9r5aXziDN7OapU%2BuscnKNnE95P4TOS0cilTHf27%2FT7PyxO83AO3krQ%2B1qfa2RKA9Qd4fZbRG2riaVK3vE4zOCg%3D%3D%7Ctkp%3ABk9SR8S19aqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/FtUAAeSwOUVqP19U/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787047017265,
-        "lastSeen": 1787211400552
+        "lastSeen": 1787556800968
       },
       "bestPsa9": {
         "itemId": "393423839083",
         "title": "Politoed 8/75 1st Edition Rare Holo Neo Discovery Failed To Qualify For Psa9Opens in a new window or tab",
         "priceC": 12500,
-        "shippingC": 860,
-        "landedC": 13360,
-        "url": "https://www.ebay.com/itm/393423839083?_skw=%28politoed%29+%288%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=27043367563&itmmeta=01M0F1G6GBF2ZVV557V60XGFHE&hash=item5b99e35f6b:g:iM8AAOSwuWxg4EN3&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAYsNsokr4POxIIK5A%2FGKy3bu9ZxlknxVEUp9hlBI2HVD64%2FDj7Gmi2mQepMM1rkdDXrfXFqzoYyU%2F6U1iHM3Qu86lJSLasA1xV65jiKnCkWYAwnfc782TWeQnoGxfVGwnxlJo1WQ3AR6KB8rpoXLMf7sT%2Fw4R%2Fa2W74O3nWICGGpfCV4ULbuqvmycfc6L91Ywpo8340nh3pRtBrWHMX1p9qglSWAo2LM4pypR3GtuIoRhWAJVYb%2FH282ZQUoARpcq2Qxn4EHBP3LJooOKcfVyr%7Ctkp%3ABk9SR7rowOGDaA",
+        "shippingC": 815,
+        "landedC": 13315,
+        "url": "https://www.ebay.com/itm/393423839083?_skw=%28politoed%29+%288%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=27043367563&itmmeta=01M0SAXBA9MN9CHWH8BBA2EBQ9&hash=item5b99e35f6b:g:iM8AAOSwuWxg4EN3&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAYsNsokr4POxIIK5A%2FGKy3bu9ZxlknxVEUp9hlBI2HVHXXVB15D5CTkoRLj40H%2Bb3xaop3xO6mGu9DkemfDOnvgVx9U1Mo5%2BhX4KQCjL84d4qQiVJyIJmpsLz5hS%2Bq4pcXFXXAK3JByS%2ByrQ3PQ8e7yTL71yxuDS90psVo131btygFo3cU9FLoaBBArCgygXebD%2FjQ0EPHpDdjE8uc7d0apVk%2F1aXzU9Tu2iQAB1QgWdiVgRFwKrNPGMVjT83%2Fc%2BadhFZfFuoJetSEj3vb2l%2Bt%7Ctkp%3ABk9SR7y19aqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/iM8AAOSwuWxg4EN3/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787047017265,
-        "lastSeen": 1787211400552
+        "lastSeen": 1787556800968
       },
       "counts": {
-        "cgc10Bin": 0,
-        "cgc10Auction": 1,
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 1,
         "psa10Auction": 0,
-        "psa9Bin": 3
+        "psa9Bin": 2
       },
-      "ratio": null,
-      "firstOpportunityAt": null,
-      "updatedAt": 1787211400552
+      "ratio": {
+        "ok": true,
+        "tier": {
+          "id": "premium1",
+          "label": "Premium 1",
+          "feeC": 99900,
+          "declaredValueCapC": 2500000,
+          "turnaroundBizDays": 7
+        },
+        "cgc10CostC": 120000,
+        "submissionFeeC": 99900,
+        "totalCostC": 219900,
+        "psa10ValueC": 1099600,
+        "ratio": 5.000454752160072
+      },
+      "firstOpportunityAt": 1787298591537,
+      "updatedAt": 1787556800968
     },
     "prices": {
       "variantId": 1502,
-      "ungradedC": 16382,
+      "ungradedC": 16988,
       "grade9C": 50000,
       "grade95C": 67550,
       "cgc10C": 124999,
       "cgc10PristineC": 225000,
-      "psa10C": 1150000,
+      "psa10C": 1099600,
       "psa9Pop": 280,
       "psa10Pop": 38,
       "cgc10Pop": 20,
-      "bgs10C": 1495000,
+      "bgs10C": 1429500,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787211240050
+      "fetchedAt": 1787556656063
     },
     "listings": [
-      {
-        "itemId": "287524901691",
-        "title": "Pokemon Politoed Neo Discovery 1st Edition 8/75 Holo CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 10250,
-        "shippingC": 999,
-        "landedC": 11249,
-        "url": "https://www.ebay.com/itm/287524901691?_skw=%28politoed%29+%288%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=27043367563&itmmeta=01M0F1G6GB6XDDN8J4H3VN6A47&hash=item42f1d1d33b:g:V7oAAeSwEe9qfyo4&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAVEJ8PURcfRr5owHR%2FaHJx4vb%2F5oU1xWHNyrwClsolMYXVz4VayGTUZVZAdwuM0L6JpiUIps43Lkk0YCv6Cm3jdcINDm2yYDKlUZe5HkE9G435Pgz4L%2BXRwfLk4WEioqm1p5bPoTPtbi8aooAsizGGpHAp9PCZdT6HRgbz1TVrHAlw%2FuiZkxFvzPC--aPcc1CU6ujqHKN9PPfNZnR0DEEMwTfcG7QNYrDEIOi9EGubyX1R2%2BgHSEjgjFz99EEs8O1tqxEO2fyTam28rsmSGdw0rgFEe1hFcgBrz5NEIzOdR0S2iIY4NJunE5IKMd2XWZU%3D%7Ctkp%3ABk9SR7rowOGDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/V7oAAeSwEe9qfyo4/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "gemMint10",
-        "freshness": "live",
-        "firstSeen": 1787047017265,
-        "lastSeen": 1787211400552
-      },
       {
         "itemId": "393423839083",
         "title": "Politoed 8/75 1st Edition Rare Holo Neo Discovery Failed To Qualify For Psa9Opens in a new window or tab",
         "priceC": 12500,
-        "shippingC": 860,
-        "landedC": 13360,
-        "url": "https://www.ebay.com/itm/393423839083?_skw=%28politoed%29+%288%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=27043367563&itmmeta=01M0F1G6GBF2ZVV557V60XGFHE&hash=item5b99e35f6b:g:iM8AAOSwuWxg4EN3&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAYsNsokr4POxIIK5A%2FGKy3bu9ZxlknxVEUp9hlBI2HVD64%2FDj7Gmi2mQepMM1rkdDXrfXFqzoYyU%2F6U1iHM3Qu86lJSLasA1xV65jiKnCkWYAwnfc782TWeQnoGxfVGwnxlJo1WQ3AR6KB8rpoXLMf7sT%2Fw4R%2Fa2W74O3nWICGGpfCV4ULbuqvmycfc6L91Ywpo8340nh3pRtBrWHMX1p9qglSWAo2LM4pypR3GtuIoRhWAJVYb%2FH282ZQUoARpcq2Qxn4EHBP3LJooOKcfVyr%7Ctkp%3ABk9SR7rowOGDaA",
+        "shippingC": 815,
+        "landedC": 13315,
+        "url": "https://www.ebay.com/itm/393423839083?_skw=%28politoed%29+%288%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=27043367563&itmmeta=01M0SAXBA9MN9CHWH8BBA2EBQ9&hash=item5b99e35f6b:g:iM8AAOSwuWxg4EN3&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAYsNsokr4POxIIK5A%2FGKy3bu9ZxlknxVEUp9hlBI2HVHXXVB15D5CTkoRLj40H%2Bb3xaop3xO6mGu9DkemfDOnvgVx9U1Mo5%2BhX4KQCjL84d4qQiVJyIJmpsLz5hS%2Bq4pcXFXXAK3JByS%2ByrQ3PQ8e7yTL71yxuDS90psVo131btygFo3cU9FLoaBBArCgygXebD%2FjQ0EPHpDdjE8uc7d0apVk%2F1aXzU9Tu2iQAB1QgWdiVgRFwKrNPGMVjT83%2Fc%2BadhFZfFuoJetSEj3vb2l%2Bt%7Ctkp%3ABk9SR7y19aqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/iM8AAOSwuWxg4EN3/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787047017265,
-        "lastSeen": 1787211400552
-      },
-      {
-        "itemId": "117315442591",
-        "title": "2001 POKEMON NEO DISCOVERY 1ST EDITION #8 POLITOED-HOLO PSA 9Opens in a new window or tab",
-        "priceC": 58000,
-        "shippingC": 599,
-        "landedC": 58599,
-        "url": "https://www.ebay.com/itm/117315442591?_skw=%28politoed%29+%288%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=27043367563&itmmeta=01M0F1G6GCKMW7RXK15QJTE5N0&hash=item1b508b979f:g:2m0AAeSwErFqYBoN&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xArpUgXl%2B%2BvmsQMPeA3RxP4TRI0SNv%2FPtJmlhF0kH%2FtI6ZqGs462fJAm9wfQh%2BsokVyAvGF%2BMK9cYBlLR%2BPmvq2ZKqQIafXLRdkZHq%2FGHaTVgG3T0izbR3sk86oS%2BNL8HvHlmSgKNjSdX5AT1F%2BRjvQUgh0iQMMbIZYMJCCZaC64v33ytAjWG9NdrTutJ2sX3QnMdORANK5JejR9WrXDuDRi24ACo5GgvTgbXDduqxf3H5mvExhl4vNbS4m0biUXY77w4gLZCEH2mfKooJK1BMr%7Ctkp%3ABk9SR7zowOGDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/2m0AAeSwErFqYBoN/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787047017265,
-        "lastSeen": 1787211400552
+        "lastSeen": 1787556800968
       },
       {
         "itemId": "168529397103",
@@ -136,13 +135,27 @@
         "priceC": 69999,
         "shippingC": 597,
         "landedC": 70596,
-        "url": "https://www.ebay.com/itm/168529397103?_skw=%28politoed%29+%288%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=27043367563&itmmeta=01M0F1G6GCBWQDSDK255AKZ51Z&hash=item273d22856f:g:OVcAAeSwpx9qUkFz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xArmsVbrWpbWF8lQRDdoZl3bwO3aM0hmfjfOdoCus4MNXMm8GGLNup5vdjemsgHrbM9wCb470NuCtIiW1ZSogt1bdnniE3XP85xWXTPgzUZ0M86kgwfEXJlRydow3vfWOZiIz3bYdV87O3d6pPbVlBbmT5x0WLqxnXYq0ngt4muqzUbUbQhbO1RhSXXB4a22oikK8vcJFeta02Fi%2FinkfaKES6Se3hJJWazJKWG4xCnUmaGxUmDY3kdRHyalSMnR6ExZ1rs3%2BsdNiOJznXebmNrdbxRXwV6ap6%2BuByM4mO%2FlDYAodzg%2FADEQwKiU3k6FkQ%3D%7Ctkp%3ABk9SR7zowOGDaA",
+        "url": "https://www.ebay.com/itm/168529397103?_skw=%28politoed%29+%288%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=27043367563&itmmeta=01M0SAXBAACDCMD2A43TR1MNZJ&hash=item273d22856f:g:OVcAAeSwpx9qUkFz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xArmsVbrWpbWF8lQRDdoZl3bwO3aM0hmfjfOdoCus4MNXMm8GGLNup5vdjemsgHrbM9wCb470NuCtIiW1ZSogt1bdnniE3XP85xWXTPgzUZ0M86kgwfEXJlRydow3vfWOZt9UlohFrYAnej7%2B9QtpwyAAjcLDXe9tV4AQUy0WT9hMVJo0h0wQOHtzQnaGlkqZknyPStejCd4%2BHushC3bVrd1Rqs5I5chDXNOTTmUtyC74bVj9SFv0mx%2B0zwzxQeBgaSyNTo0%2F0w8uGxt%2FNgxmZ2hFUs8YhSE%2BKPZcuNiNd78yoVdBhD%2FVumuPuMVOLOCA0%3D%7Ctkp%3ABk9SR8K19aqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/OVcAAeSwpx9qUkFz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787047017265,
-        "lastSeen": 1787211400552
+        "lastSeen": 1787556800968
+      },
+      {
+        "itemId": "278299911283",
+        "title": "CGC 9.5 MINT+ Politoed 8/75 Neo Discovery 1st Edition Holo Pokemon CardOpens in a new window or tab",
+        "priceC": 120000,
+        "shippingC": 0,
+        "landedC": 120000,
+        "url": "https://www.ebay.com/itm/278299911283?_skw=%28politoed%29+%288%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=27043367563&itmmeta=01M0SAXBABBMB6PV2DR1ESGWZ6&hash=item40cbf7a473:g:SokAAeSwFLNqh2pJ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBWaR4pR8NlsRf19A84QGuxXQoNqUTkwANAwD5dxbVG10tN10OWn5%2F6ixLRWEGSukE5LGctsxMqKOM3U8lOCGh7xKUxsb%2FwiVgTnTIx9APnmOd4aX9ozJRtmQWybljw2QDMEVPuo1bGJoZLBKjoH4q%2B0MHFSFhBvw42mynO3Zftv75DYqY1Kt2YJRe7XDQTsvsK2CdoOEM0MS0osS1aypAikJq8nuHrRodUIeAr4Qcde7Y358El8j60b6oiuA%2Bc2ghsufsHvV5qtvy9lT8Sk2Zu%7Ctkp%3ABk9SR8S19aqGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/SokAAeSwFLNqh2pJ/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787298591537,
+        "lastSeen": 1787556800968
       },
       {
         "itemId": "188566144110",
@@ -150,17 +163,43 @@
         "priceC": 2800000,
         "shippingC": 5000,
         "landedC": 2805000,
-        "url": "https://www.ebay.com/itm/188566144110?_skw=%28politoed%29+%288%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=27043367563&itmmeta=01M0F1G6GC3JFCCWAEY9NJEX0D&hash=item2be76b046e:g:FtUAAeSwOUVqP19U&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCD12YG1oHfOpLxxhjVUh%2FngyO1X1Em52mz3leBVq0%2FW7zLxJZTzYTPmgP57dd9v6ibVj0oti0kkF%2FlDRr%2FX8PBVFazXw%2FCg5ITr9fwMZFcLYjTq3NrsiPAaPk%2BhsYHTXELrOoEZtjKUbX%2B45K8S7GnRnoCWpb1WKEJDT%2B3YLT61BPp4vF1prGQDa%2Bz6vD45Ip4V6oJTBpI1yOp6OLhuV7vYLQgsORVx%2B9IHNNRdGqfniHc2YFwbeCTAtqFEhR9jkJ7TIfAEhcdC4ADV%2BYt%2FvSSKFHWXMrz6zfXbMSkEXoxOxEkITMySx%2Bhj1kCKzNlHYJwOjqrPHr8yRsZQWPXiBp9%7Ctkp%3ABk9SR77owOGDaA",
+        "url": "https://www.ebay.com/itm/188566144110?_skw=%28politoed%29+%288%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=27043367563&itmmeta=01M0SAXBAB0YMGDQ5Q596R64DQ&hash=item2be76b046e:g:FtUAAeSwOUVqP19U&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCRPQi%2BxyItutm6ZjaMwPupWtN8NAqkiyVphVgAmbrfcI6pCioasRhXa2KgGu4IOfNtVA0vfyT7K%2FA0mJ3K2TPtBQywFvyGO2K6AGFXDdFy6VVbA%2BlLUMRdQu8dCzAqxYPwagM0r5alWxvL3VXfLgG%2FUJ8zJEID6e08u1iK6rw0k19qtqFf%2FxeTtppzBnTUzY5DTZesCIzvQ%2BvJsgQ%2FkX0d9r5aXziDN7OapU%2BuscnKNnE95P4TOS0cilTHf27%2FT7PyxO83AO3krQ%2B1qfa2RKA9Qd4fZbRG2riaVK3vE4zOCg%3D%3D%7Ctkp%3ABk9SR8S19aqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/FtUAAeSwOUVqP19U/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787047017265,
-        "lastSeen": 1787211400552
+        "lastSeen": 1787556800968
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3789050,
+          "saleDate": "2026-08-23",
+          "priceC": 86000,
+          "title": "Pokemon Politoed Neo Discovery 1st Edition 8/75 Holo CGC 10 Gem Mint #Aug-75",
+          "url": "https://www.ebay.com/itm/287524901691?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 10,
+          "gradingDesignation": "gem-mint",
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3788999,
+          "saleDate": "2026-08-23",
+          "priceC": 9343,
+          "title": "POLITOED HOLO FIRST EDITION POKEMON 8/75 2001 NEO DISCOVERY KOMIYA ENGLISH",
+          "url": "https://www.ebay.com/itm/137608967757?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 1018392,
           "saleDate": "2026-08-18",
@@ -1694,32 +1733,6 @@
           "gradingGrade": 10,
           "gradingDesignation": "gem-mint",
           "agreementStatus": "match"
-        },
-        {
-          "id": 264440,
-          "saleDate": "2025-08-16",
-          "priceC": 12000,
-          "title": "PSA 1 Politoed 1st Edition Holo #8/75 Neo Discovery 2001 Pokemon WoTC PR 8/75",
-          "url": "https://www.ebay.com/itm/177288326720?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 1,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 264362,
-          "saleDate": "2025-08-11",
-          "priceC": 29999,
-          "title": "Pokemon Politoed Neo Discovery 1st Edition Holo Rare #8 PSA 9 Mint DOPE SWIRL!!! #8",
-          "url": "https://www.ebay.com/itm/127286165673?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1774,9 +1787,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 179,
+      "englishSaleCount": 181,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787211237998
+      "lastCapturedAt": 1787556654385
     }
   }
 }

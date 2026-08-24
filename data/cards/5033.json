@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 5033,
@@ -19,8 +19,8 @@
       "popularityScore": 95,
       "market": {
         "ungradedC": 20000,
-        "grade9C": 137761,
-        "grade95C": 151500,
+        "grade9C": 136381,
+        "grade95C": 150000,
         "cgc10C": 222500,
         "cgc10PristineC": 999900,
         "psa10C": 1152500,
@@ -29,7 +29,7 @@
         "psa10Pop": 32,
         "cgc10Pop": 17,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787217435855
+        "fetchedAt": 1787560419804
       },
       "bestCgc10": {
         "itemId": "117366903593",
@@ -37,23 +37,36 @@
         "priceC": 1999999,
         "shippingC": 0,
         "landedC": 1999999,
-        "url": "https://www.ebay.com/itm/117366903593?_skw=%28mewtwo%2Cdelta%29+%2824%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=6043385312&itmmeta=01M0F7FS84FNC3GQDPKX6CQT17&hash=item1b539cd329:g:r-sAAeSwzVlqhNhS&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCtAjndXwoUkTDKgXdt0H6vfk%2FeChjDnAeTmTcvofo1l83V%2BSduUk3DZGgF8LCRyc83m1oV4q9%2FPLOGbnG0sw9roJyWpKeXI8CbyU7Yn207Mth7OOnrjE3UbGT7Y9RbQ7SltiGyroHAPrrfjThBwITWLhrFU9wlAfaRQl0IFgaj8itTN1lEVbTRQSlhk3c%2FeWCiQPqiHHWYkb3IPVxOIFLwS3H8xn1tLwqOBUpV%2Bz80%2FOrd8e7BEpkLNoT2Cj%2BublHqbSkGNmmkvlcv%2Bk7DUrcX8bQOEx6K4z8q1ar7nsbMGGN%2B7v7YR29Yc%2BxbKeVWyNSj9hRNpWy%2FEyRi87DJTRb9%7Ctkp%3ABk9SR6aUv-eDaA",
+        "url": "https://www.ebay.com/itm/117366903593?_skw=%28mewtwo%2Cdelta%29+%2824%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=6043385312&itmmeta=01M0SEHNR2ZBTD8BHQCV0XZZTJ&hash=item1b539cd329:g:r-sAAeSwzVlqhNhS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB4YE3y%2BA5IjUzUHGB%2BimZhny%2B7Cg5OKjchkfRhktrVoIagu0KJ9%2B15LXqbc8nGg3gj1LxtfgJ3QzWm%2FMMoa09orYZO2QkAUChv7%2FXwW01qhsj%2BIkNkCnR3LGf5a7GfhzvBRSgFTnmxz6%2F2s5Z8DoJtg8Ji%2FbWtvZSPOzVmskUlWhZatzp8%2FF9LNtkIltdq%2BSosSMrleCE2Sk24qj9mMn8YE7IVbVm%2B38gKbkC3RS%2F9rf9hYT95A9pGsBUhq3P5I0x73tawvITjyTBROUWhJ4rCgwmhLM0pPSnZXkgU3BmpqA%3D%3D%7Ctkp%3ABk9SR7bcxq6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/r-sAAeSwzVlqhNhS/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1787217904343
+        "lastSeen": 1787560642844
       },
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "287537685884",
+        "title": "Pokemon TCG PSA 9 2006 EX Holon Phantoms Mewtwo 24/110 Delta Reverse HoloOpens in a new window or tab",
+        "priceC": 250000,
+        "shippingC": 562,
+        "landedC": 250562,
+        "url": "https://www.ebay.com/itm/287537685884?_skw=%28mewtwo%2Cdelta%29+%2824%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=6043385312&itmmeta=01M0SEHNR04Q23AB1D5ANAFEM8&hash=item42f294e57c:g:-dUAAeSwc8Fqh-9F&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBbWwq9KAkqiOnlfWFv7ootvn7zWhSRejCoWF18o%2FSL6N5bFFwz0WQhVd4UHCNeLAIB8440sV%2FYMizkc2mHSRcdEYSeMDrFVLEFH0mMBHtaWHcRDhvRA2t7Ses1qSwuvgv2tVYrGPYnBZNN%2BJaH6Oz4XhZWOjdRRUunZEC%2BLKMNN5Cs8xZAz4K4mkoSJai%2FgAomMZh%2FAu72qDdIPRQznfI407h4HSmHgHA0M9TJqax328Oen1FeqoLGo%2FPJHC7SSVYDI%2BRNvslwxx%2Fmu52V%2Br%2FDoqTPUPxBGcnW2%2BG06oZyKGSvGWe%2Bhd%2BrMgCUjm0dCc25bGt1ZGM%2BbSZnEG5peLnz%7Ctkp%3ABk9SR7Dcxq6GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/-dUAAeSwc8Fqh-9F/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787302052578,
+        "lastSeen": 1787560642844
+      },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -71,13 +84,13 @@
         "ratio": 0.5488359202037812
       },
       "firstOpportunityAt": 1787092753589,
-      "updatedAt": 1787217904343
+      "updatedAt": 1787560642844
     },
     "prices": {
       "variantId": 5033,
       "ungradedC": 20000,
-      "grade9C": 137761,
-      "grade95C": 151500,
+      "grade9C": 136381,
+      "grade95C": 150000,
       "cgc10C": 222500,
       "cgc10PristineC": 999900,
       "psa10C": 1152500,
@@ -86,26 +99,53 @@
       "cgc10Pop": 17,
       "bgs10C": 1498300,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787217435855
+      "fetchedAt": 1787560419804
     },
     "listings": [
+      {
+        "itemId": "287537685884",
+        "title": "Pokemon TCG PSA 9 2006 EX Holon Phantoms Mewtwo 24/110 Delta Reverse HoloOpens in a new window or tab",
+        "priceC": 250000,
+        "shippingC": 562,
+        "landedC": 250562,
+        "url": "https://www.ebay.com/itm/287537685884?_skw=%28mewtwo%2Cdelta%29+%2824%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=6043385312&itmmeta=01M0SEHNR04Q23AB1D5ANAFEM8&hash=item42f294e57c:g:-dUAAeSwc8Fqh-9F&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBbWwq9KAkqiOnlfWFv7ootvn7zWhSRejCoWF18o%2FSL6N5bFFwz0WQhVd4UHCNeLAIB8440sV%2FYMizkc2mHSRcdEYSeMDrFVLEFH0mMBHtaWHcRDhvRA2t7Ses1qSwuvgv2tVYrGPYnBZNN%2BJaH6Oz4XhZWOjdRRUunZEC%2BLKMNN5Cs8xZAz4K4mkoSJai%2FgAomMZh%2FAu72qDdIPRQznfI407h4HSmHgHA0M9TJqax328Oen1FeqoLGo%2FPJHC7SSVYDI%2BRNvslwxx%2Fmu52V%2Br%2FDoqTPUPxBGcnW2%2BG06oZyKGSvGWe%2Bhd%2BrMgCUjm0dCc25bGt1ZGM%2BbSZnEG5peLnz%7Ctkp%3ABk9SR7Dcxq6GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/-dUAAeSwc8Fqh-9F/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787302052578,
+        "lastSeen": 1787560642844
+      },
       {
         "itemId": "117366903593",
         "title": "2006 EX Holon Phantoms #24/110 Mewtwo (Delta Species) Reverse PRISTINE CGC 10Opens in a new window or tab",
         "priceC": 1999999,
         "shippingC": 0,
         "landedC": 1999999,
-        "url": "https://www.ebay.com/itm/117366903593?_skw=%28mewtwo%2Cdelta%29+%2824%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=6043385312&itmmeta=01M0F7FS84FNC3GQDPKX6CQT17&hash=item1b539cd329:g:r-sAAeSwzVlqhNhS&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCtAjndXwoUkTDKgXdt0H6vfk%2FeChjDnAeTmTcvofo1l83V%2BSduUk3DZGgF8LCRyc83m1oV4q9%2FPLOGbnG0sw9roJyWpKeXI8CbyU7Yn207Mth7OOnrjE3UbGT7Y9RbQ7SltiGyroHAPrrfjThBwITWLhrFU9wlAfaRQl0IFgaj8itTN1lEVbTRQSlhk3c%2FeWCiQPqiHHWYkb3IPVxOIFLwS3H8xn1tLwqOBUpV%2Bz80%2FOrd8e7BEpkLNoT2Cj%2BublHqbSkGNmmkvlcv%2Bk7DUrcX8bQOEx6K4z8q1ar7nsbMGGN%2B7v7YR29Yc%2BxbKeVWyNSj9hRNpWy%2FEyRi87DJTRb9%7Ctkp%3ABk9SR6aUv-eDaA",
+        "url": "https://www.ebay.com/itm/117366903593?_skw=%28mewtwo%2Cdelta%29+%2824%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=6043385312&itmmeta=01M0SEHNR2ZBTD8BHQCV0XZZTJ&hash=item1b539cd329:g:r-sAAeSwzVlqhNhS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB4YE3y%2BA5IjUzUHGB%2BimZhny%2B7Cg5OKjchkfRhktrVoIagu0KJ9%2B15LXqbc8nGg3gj1LxtfgJ3QzWm%2FMMoa09orYZO2QkAUChv7%2FXwW01qhsj%2BIkNkCnR3LGf5a7GfhzvBRSgFTnmxz6%2F2s5Z8DoJtg8Ji%2FbWtvZSPOzVmskUlWhZatzp8%2FF9LNtkIltdq%2BSosSMrleCE2Sk24qj9mMn8YE7IVbVm%2B38gKbkC3RS%2F9rf9hYT95A9pGsBUhq3P5I0x73tawvITjyTBROUWhJ4rCgwmhLM0pPSnZXkgU3BmpqA%3D%3D%7Ctkp%3ABk9SR7bcxq6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/r-sAAeSwzVlqhNhS/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1787217904343
+        "lastSeen": 1787560642844
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 4208487,
+          "saleDate": "2026-08-23",
+          "priceC": 56500,
+          "title": "CGC 9 Mewtwo 24/110 Pokémon 2006 EX Holon Phantoms Reverse Holo 24/110",
+          "url": "https://www.ebay.com/itm/287520744236?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 9,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 654549,
           "saleDate": "2026-08-18",
@@ -1652,19 +1692,6 @@
           "gradingGrade": 1,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 654600,
-          "saleDate": "2025-09-03",
-          "priceC": 24000,
-          "title": "2006 Pokemon Ex Holon Phantoms #24 Mewtwo Reverse Foil PSA 8 NM-MT #24",
-          "url": "https://www.ebay.com/itm/197667264779?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1734,9 +1761,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 170,
+      "englishSaleCount": 171,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787217434236
+      "lastCapturedAt": 1787560417378
     }
   }
 }

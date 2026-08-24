@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 464,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/b1627e1c706e9a64a0c450c9bc498d5fe6b400eb383ab8299bb9d8d18a7843df/1600.jpg",
       "popularityScore": 100,
       "market": {
-        "ungradedC": 2699,
+        "ungradedC": 2751,
         "grade9C": 17389,
         "grade95C": 19100,
         "cgc10C": 25500,
         "cgc10PristineC": 144500,
         "psa10C": 157756,
         "bgs10C": 205100,
-        "psa9Pop": 0,
-        "psa10Pop": 0,
-        "cgc10Pop": 0,
+        "psa9Pop": null,
+        "psa10Pop": null,
+        "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-        "fetchedAt": 1787209799163
+        "fetchedAt": 1787555359581
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -44,41 +44,119 @@
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787209799163
+      "updatedAt": 1787555359581
     },
     "prices": {
       "variantId": 464,
-      "ungradedC": 2699,
+      "ungradedC": 2751,
       "grade9C": 17389,
       "grade95C": 19100,
       "cgc10C": 25500,
       "cgc10PristineC": 144500,
       "psa10C": 157756,
-      "psa9Pop": 0,
-      "psa10Pop": 0,
-      "cgc10Pop": 0,
+      "psa9Pop": null,
+      "psa10Pop": null,
+      "cgc10Pop": null,
       "bgs10C": 205100,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-      "fetchedAt": 1787209799163
+      "fetchedAt": 1787555359581
     },
     "listings": [
       {
         "itemId": "287526156504",
         "title": "CGC 9.5 MINT+ 1999 Pokémon Pikachu #4 Black Star Promo Mewtwo Strikes BackOpens in a new window or tab",
-        "priceC": 428,
-        "shippingC": 548,
-        "landedC": 976,
-        "url": "https://www.ebay.com/itm/287526156504?_skw=%28pikachu%29+%284%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&itmmeta=01M0FFQ61DJMA9K8CM6TECBK1B&hash=item42f1e4f8d8:g:rRIAAeSwwSNqgA1m&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC%2F86c2darXKFcq%2BVbwZu535A35yHanY1vvzzz%2BTsqZa0089xnX7l4F%2BURzhiLAJqPVmoJ0XfLpK9nC8yApAJpBWkIIFhLzoPz0OdL2sV9K4rcRcyAcyz2gcLXPpCegsH%2BKM0PKzU%2BcIxSismjpQsz9jTuNYIdgn3JSPLp70jj5Py5PffC5%2BLtJTc5kYkrxWl%2FnkhzTunIksaUIP2R8WbDnVNsfYN%2Fu1myj4eL%2BVEg9fjeNM7bl3Kze4%2BR%2BrmR2hbD7DgQYIdAhLxwhu4auq1GoBOl%2FrrrCP4tF8R5S4BeqCUFap6eLKO1m9va7LaZH9v8Vso7BiYMR%2BsXt5sqkEvH0%7Ctkp%3ABk9SR5jh3O-DaA",
+        "priceC": 1550,
+        "shippingC": 597,
+        "landedC": 2147,
+        "url": "https://www.ebay.com/itm/287526156504?_skw=%28pikachu%29+%284%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&itmmeta=01M0Q1PE0FNMDNZJ4S8F9N6Z06&hash=item42f1e4f8d8:g:rRIAAeSwwSNqgA1m&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDKEiEn%2BTg2CzW6TZrmRncSxpALZlY5DRsRHb9lvUVynLmC0szVUNCDvO6Cix2JBGXDB%2BZXhY%2FTzGGY4P%2FokFUvDFpwDvtER1SM6PIpK6bdmqrVzufNfYtVu4MF%2BLfvfMSRWNmH9lD7BQgfQLpgAs2%2FHuCeOACmu1v%2Fe4LNA2p6rXE5Wv%2FdIxzP8PkoLz3NAFAfj8Tsa6URC7YTub4iiNuibZV6fBUPrsq9bbK4UdlzGKEoLfnxfiJdHKpu6JcGgS%2FIx2FjqQr%2BX0qGxyvVZDXIr5yTKABgDEm3Nr9EHjL1jA%3D%3D%7Ctkp%3ABk9SR8zg2eGFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/rRIAAeSwwSNqgA1m/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094570196,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787480423442
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3614781,
+          "saleDate": "2026-08-24",
+          "priceC": 2251,
+          "title": "1999 Pokemon First Movie Promo WB Pikachu #4 Non Holo Stamped NM Mint",
+          "url": "https://www.ebay.com/itm/227478944802?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3614783,
+          "saleDate": "2026-08-22",
+          "priceC": 4999,
+          "title": "Pikachu (Movie Promo) #4 Near Mint English",
+          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F88066%2F-&sharedId=web&subId1=completed",
+          "sourceMarketplace": "TCGPlayer",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2958334,
+          "saleDate": "2026-08-22",
+          "priceC": 4425,
+          "title": "WOTC Black Star Pikachu Gold Lightning Bolt Stamp Movie Promo #4 Pokemon #4",
+          "url": "https://www.ebay.com/itm/227476540162?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2958333,
+          "saleDate": "2026-08-22",
+          "priceC": 2774,
+          "title": "1999 POKEMON WIZARDS BLACK STAR MOVIE PROMO MEWTWO STRIKES BACK #4 PIKACHU #4",
+          "url": "https://www.ebay.com/itm/206491871313?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2003568,
+          "saleDate": "2026-08-21",
+          "priceC": 4711,
+          "title": "1999 POKEMON GAME MOVIE PROMO #4 PIKACHU PSA 7 #4",
+          "url": "https://www.ebay.com/itm/178414291723?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 7,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 1800386,
+          "saleDate": "2026-08-20",
+          "priceC": 942,
+          "title": "Pikachu #4 Black Star Promo 1999 Kids WB First Movie WOTC Pokémon Card 04/53",
+          "url": "https://www.ebay.com/itm/147495236946?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 846607,
           "saleDate": "2026-08-18",
@@ -307,6 +385,19 @@
           "title": "Near Mint #4 Near Mint English",
           "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F88066%2F-&sharedId=web&subId1=completed",
           "sourceMarketplace": "TCGPlayer",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 1800400,
+          "saleDate": "2026-08-06",
+          "priceC": 6800,
+          "title": "1999 Pokémon Pikachu #4 Kids’ WB The First Movie Black Star Promo Card WOTC #4",
+          "url": "https://www.ebay.com/itm/188727352860?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
@@ -1547,97 +1638,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 93972,
-          "saleDate": "2026-06-14",
-          "priceC": 25800,
-          "title": "1999 POKEMON GAME MOVIE PROMO #4 PIKACHU PSA 9 #4",
-          "url": "https://www.ebay.com/itm/298388252081?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 93894,
-          "saleDate": "2026-06-14",
-          "priceC": 15750,
-          "title": "Pokemon Pikachu WB Movie Strikes Back Black Star Promo #4 CGC 10 Gem Mint",
-          "url": "https://www.ebay.com/itm/287375966902?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 93880,
-          "saleDate": "2026-06-14",
-          "priceC": 215000,
-          "title": "1999 POKEMON GAME MOVIE #4 PIKACHU MOVIE PROMO PSA 10 #4",
-          "url": "https://www.ebay.com/itm/188372319749?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 93879,
-          "saleDate": "2026-06-14",
-          "priceC": 200704,
-          "title": "1999 POKEMON GAME PIKACHU #4 BLACK STAR PROMO PSA 10 #4",
-          "url": "https://www.ebay.com/itm/206322951723?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 93995,
-          "saleDate": "2026-06-12",
-          "priceC": 7900,
-          "title": "The Pokemon Company Pikachu (Movie) Promo Pikachu World Collection #4 EN PSA 8.5 #4",
-          "url": "https://www.ebay.com/itm/298388357977?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8.5,
-          "gradingDesignation": null,
-          "agreementStatus": "mismatch"
-        },
-        {
-          "id": 93973,
-          "saleDate": "2026-06-12",
-          "priceC": 19250,
-          "title": "1999 POKEMON MOVIE PROMO PIKACHU #4 NON-HOLO BLACK STAR WOTC STAMPED PSA 9 B P1 #4",
-          "url": "https://www.ebay.com/itm/358625607417?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 94046,
-          "saleDate": "2026-06-11",
-          "priceC": 4500,
-          "title": "1999 POKEMON GAME MOVIE MOVIE PROMO #4 PIKACHU PSA 6 #4",
-          "url": "https://www.ebay.com/itm/298403402019?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 6,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1667,9 +1667,9 @@
           "count": 3
         }
       ],
-      "englishSaleCount": 376,
+      "englishSaleCount": 383,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787209797261
+      "lastCapturedAt": 1787555357195
     }
   }
 }

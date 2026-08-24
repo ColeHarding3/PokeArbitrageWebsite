@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 3960,
@@ -18,10 +18,10 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/1f6361755211f0caeed337b75dd8a28d28ad965b460b88a6a80d848eefdc004f/1600.jpg",
       "popularityScore": 83,
       "market": {
-        "ungradedC": 3459,
-        "grade9C": 10601,
-        "grade95C": 11700,
-        "cgc10C": 13414,
+        "ungradedC": 3455,
+        "grade9C": 10814,
+        "grade95C": 11900,
+        "cgc10C": 14784,
         "cgc10PristineC": 39900,
         "psa10C": 102500,
         "bgs10C": 133300,
@@ -29,7 +29,7 @@
         "psa10Pop": 48,
         "cgc10Pop": 29,
         "salesVolumeJson": "{\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\",\"volume: 6 sales per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787213832974
+        "fetchedAt": 1787559059072
       },
       "bestCgc10": {
         "itemId": "188710601529",
@@ -37,13 +37,13 @@
         "priceC": 68000,
         "shippingC": 0,
         "landedC": 68000,
-        "url": "https://www.ebay.com/itm/188710601529?_skw=%28marowak%29+%287%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=11043365933&itmmeta=01M0F40VCPE5M90HHM262A12Q2&hash=item2bf0074339:g:7X0AAeSwwrlqaYVW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAb22LjPRxlqHF2cPUJGAuOKeAnbZAGLiO20EHX06T5Go3jRQaZnuWj4idYwJ%2FNdpBrwFVXQIcttjeIGE4in8H0cmh3ZnTP7PpLtdl5LSP9zFxiGoJ%2FB1xJBVPmPoVoUfppf5R3RBY%2FJ7Pbl6%2BkMcE2Tkm5evTTCdwqtBTGnlV9%2Fc1cnvO7XBP%2BS7%2Bd3SVIUc9lG3kjvu7W4Dt4paosawNqHxVPQ4o9HWbFfLS1bbDdEb8X3DH5PArIT90G2b29FLhL1stCHTEHdIYl4UXhSFElPdKwSudBPmo60mnqD%2FNPvMDW%2BPPaAEM5KeuEKOekfY4VECyhSU9Vqfbc8enZjMfF%7Ctkp%3ABk9SR862g-SDaA",
+        "url": "https://www.ebay.com/itm/188710601529?_skw=%28marowak%29+%287%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=11043365933&itmmeta=01M0SD7H6Z3SSCRTS7MDBX0372&hash=item2bf0074339:g:7X0AAeSwwrlqaYVW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAy4x6OlZzvvzrjkm6bc0AT4Y97WIbu0T60QWntJagIPl2%2BDza9Po%2FGM4yNxez7pbCdJPGrpyrOemA0ejzncutXpkWQrWuJNYToqR13165WhbsFM75Pr3aLLiTdH6mpdz7tD9IMyXWf%2BXHPok5r8zhyTt%2FGRLx3PPUjJCzVhbLXiR31X8Kur4c%2FQ5Yx2lNU%2FYpZJW3Wcfl%2F%2BP1CkmdrRhEbNZiWqqg5Ob%2Fn6Xj2W1Pu%2FwRBxFa3x2zIf32YMo66TaTHdmoZQi6hb3S7oC%2B%2FN5wSdom7jBig%2BQ0IY%2FIhWytJDA%3D%3D%7Ctkp%3ABk9SR9iTnq2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7X0AAeSwwrlqaYVW/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787213991251
+        "lastSeen": 1787559184437
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -71,14 +71,14 @@
         "ratio": 1.3487019566046923
       },
       "firstOpportunityAt": 1787061354691,
-      "updatedAt": 1787213991251
+      "updatedAt": 1787559184437
     },
     "prices": {
       "variantId": 3960,
-      "ungradedC": 3459,
-      "grade9C": 10601,
-      "grade95C": 11700,
-      "cgc10C": 13414,
+      "ungradedC": 3455,
+      "grade9C": 10814,
+      "grade95C": 11900,
+      "cgc10C": 14784,
       "cgc10PristineC": 39900,
       "psa10C": 102500,
       "psa9Pop": 87,
@@ -86,7 +86,7 @@
       "cgc10Pop": 29,
       "bgs10C": 133300,
       "salesVolumeJson": "{\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\",\"volume: 6 sales per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787213832974
+      "fetchedAt": 1787559059072
     },
     "listings": [
       {
@@ -95,13 +95,13 @@
         "priceC": 68000,
         "shippingC": 0,
         "landedC": 68000,
-        "url": "https://www.ebay.com/itm/188710601529?_skw=%28marowak%29+%287%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=11043365933&itmmeta=01M0F40VCPE5M90HHM262A12Q2&hash=item2bf0074339:g:7X0AAeSwwrlqaYVW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAb22LjPRxlqHF2cPUJGAuOKeAnbZAGLiO20EHX06T5Go3jRQaZnuWj4idYwJ%2FNdpBrwFVXQIcttjeIGE4in8H0cmh3ZnTP7PpLtdl5LSP9zFxiGoJ%2FB1xJBVPmPoVoUfppf5R3RBY%2FJ7Pbl6%2BkMcE2Tkm5evTTCdwqtBTGnlV9%2Fc1cnvO7XBP%2BS7%2Bd3SVIUc9lG3kjvu7W4Dt4paosawNqHxVPQ4o9HWbFfLS1bbDdEb8X3DH5PArIT90G2b29FLhL1stCHTEHdIYl4UXhSFElPdKwSudBPmo60mnqD%2FNPvMDW%2BPPaAEM5KeuEKOekfY4VECyhSU9Vqfbc8enZjMfF%7Ctkp%3ABk9SR862g-SDaA",
+        "url": "https://www.ebay.com/itm/188710601529?_skw=%28marowak%29+%287%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=11043365933&itmmeta=01M0SD7H6Z3SSCRTS7MDBX0372&hash=item2bf0074339:g:7X0AAeSwwrlqaYVW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAy4x6OlZzvvzrjkm6bc0AT4Y97WIbu0T60QWntJagIPl2%2BDza9Po%2FGM4yNxez7pbCdJPGrpyrOemA0ejzncutXpkWQrWuJNYToqR13165WhbsFM75Pr3aLLiTdH6mpdz7tD9IMyXWf%2BXHPok5r8zhyTt%2FGRLx3PPUjJCzVhbLXiR31X8Kur4c%2FQ5Yx2lNU%2FYpZJW3Wcfl%2F%2BP1CkmdrRhEbNZiWqqg5Ob%2Fn6Xj2W1Pu%2FwRBxFa3x2zIf32YMo66TaTHdmoZQi6hb3S7oC%2B%2FN5wSdom7jBig%2BQ0IY%2FIhWytJDA%3D%3D%7Ctkp%3ABk9SR9iTnq2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7X0AAeSwwrlqaYVW/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787213991251
+        "lastSeen": 1787559184437
       }
     ],
     "marketHistory": {
@@ -1756,7 +1756,7 @@
       ],
       "englishSaleCount": 124,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787213830754
+      "lastCapturedAt": 1787559057007
     }
   }
 }

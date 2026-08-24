@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 4099,
@@ -20,16 +20,16 @@
       "market": {
         "ungradedC": 282500,
         "grade9C": 1560313,
-        "grade95C": 6211300,
+        "grade95C": 6216200,
         "cgc10C": 5307000,
         "cgc10PristineC": 9552600,
-        "psa10C": 6338066,
-        "bgs10C": 8239500,
+        "psa10C": 6343106,
+        "bgs10C": 8246000,
         "psa9Pop": 233,
         "psa10Pop": 19,
-        "cgc10Pop": 0,
+        "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per month\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787214137565
+        "fetchedAt": 1787559248885
       },
       "bestCgc10": {
         "itemId": "336746211424",
@@ -37,13 +37,13 @@
         "priceC": 4500000,
         "shippingC": 562,
         "landedC": 4500562,
-        "url": "https://www.ebay.com/itm/336746211424?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&itmmeta=01M0FGN8M6Q8X0S2XA23EFK5PF&hash=item4e67a36860:g:VOsAAeSwVNpqgmHJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD0EX2dEKfozk8M0JHQQSdc660ZUo%2FJArb%2FhuA5WfRZGat1yC24UwkV%2FVB8MLW5%2FCZ0jPr4CvTimnEvqhSBrUh293hMfDzdHZkR7RPz4RQovUpoTw9iaXS4bmc3fQG1mDjEbVRpRX290YM93jtyRlalPYKLHA5ESE82qswn6qOaQO5arTUMsLbavQql1zCLXEqBYL%2BUpj14r%2BOMlc0Jcvy15HlfHTA665hEF8AVQFQalCOYnO1ynrhqAwyyWo%2FaqzuOs0kFBrL4npk6n%2BQpggXi5m8xaBfuoyQ00R%2BqUbgDTA%3D%3D%7Ctkp%3ABk9SR6iL1fCDaA",
+        "url": "https://www.ebay.com/itm/336746211424?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&itmmeta=01M0SKF89ZVFCEFPMRYZ3BT6CN&hash=item4e67a36860:g:VOsAAeSwVNpqgmHJ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDspYs%2ByEv2s1gqgKad3MysBof6fe9r1fNS2PbUH%2B3w5Aj%2FPGMUIOV9pz%2Bkfk9n%2BkedpjVXRcuUoir1b%2F8VjtHScagZZocDfeC6Uumn2iKfi24mQw2T08RW68doOE0ZvmaO2NGQO4Ch43WOWkaFvx80qV7t8nc6%2BpPXiy77Hra6%2FvegMesH9rzBacLkpOYdVdkdW7OWVBV7XmUqJ7agxBR7D3XEGpDicxwCGireCGSE%2Bg2Hj2OCRsAmUGOG0T3WVpsPdOTqJnuw9pdz20EeeXtCsxeNeokjBjq3gB%2FhtDGuf9bpe431tSBzPt%2B7IeIdJ4JRwIMWKC6rwwayIaQ0Xy1x%7Ctkp%3ABk9SR7aFvbOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/VOsAAeSwVNpqgmHJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       "bestPsa10": {
         "itemId": "375998824371",
@@ -51,27 +51,27 @@
         "priceC": 350000000,
         "shippingC": 0,
         "landedC": 350000000,
-        "url": "https://www.ebay.com/itm/375998824371?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380707&itmmeta=01M0FGNNK25BRJWN39SQTQSRCK&hash=item578b46bfb3:g:3AAAAOSwv8RoUE3I&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xASoWR3FAPLfnkk55vfNcBMGbVnXSZQaKBsOUhnETAUBpKzadvO8gtwwz1cpoO3GCu6tmTkuuFbWcltdfVbbAiTDkeS3DOJeLAbE2yR%2FO64whSuzcQ7yWEulH32L9Sv9z%2BdLz31enIAQgf9cOzWMiTyAXIRvYbougfQeKKSbutT0PquHmavBgFi5c2L0623YNo8mSL1W0RiToPwBduJDhjv5u%2B2R17S7BfYK2Yq7hLHGuRlxoQ5HQCMnUxQFp3FsO2I6CzQZr4Li1cBiMQGZdQ%2F%2Bi5ec0SC2dWO2cm%2B1G3T%2FQ%3D%3D%7Ctkp%3ABk9SR5Da1vCDaA",
+        "url": "https://www.ebay.com/itm/375998824371?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380707&itmmeta=01M0SKF8A0G0J28KGSJ666AMBZ&hash=item578b46bfb3:g:3AAAAOSwv8RoUE3I&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xASoWR3FAPLfnkk55vfNcBMGbVnXSZQaKBsOUhnETAUBpS5t1YNnMFy%2BRjIzLZ35twPv6Mo9mvxfLIC%2FSrVMBn7ebI2I9jhjhPD5CtInqOHR%2BcFzLDToOxZa%2FH1r2rZmHetYLQIQerQ1mkl%2FS4H7gRjUVpA9lAbsp3B27FS3oTBgC2qm2ktemdFd5qwCxEkTshwD%2BvG3TrLUgHFbKjDGufxv1rKVz%2FJuXyh23oO1YDIwujlVKXq%2FvffY%2FuK36TSyB8bR8BFbLo6SzEfK5wUOPFbMnjlyBgaCTIrrN9SHu6x%2BA%3D%3D%7Ctkp%3ABk9SR7iFvbOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/3AAAAOSwv8RoUE3I/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       "bestPsa9": {
-        "itemId": "317323510984",
-        "title": "SWIRL PSA 9 Torchic Gold Star Holo 2004 Pokemon Ex Team Rocket Returns #108 MINTOpens in a new window or tab",
-        "priceC": 7500000,
-        "shippingC": 5000,
-        "landedC": 7505000,
-        "url": "https://www.ebay.com/itm/317323510984?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380707&itmmeta=01M0FGN8M6EQ17ZS6S7GYTGV8H&hash=item49e1f484c8:g:G8wAAeSwCClo0s-Q&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDdNPtMVaJvV154BOd0ZWAEe5p6MV2lOxaayRxEyltihujCfjenIPhgC42XC6Wr88fsBOyyTSIH7SjVIpWz98v%2FcnyHkWLRtP0rBjsAJByrAx0uF3lI4ibNRP85PsB9rrtuMNAM7NBICSoxjNdNpDue%2FfKLh8ai4JDtaOmW8QLZ9FDsJ5kMQlf6LXp79guex%2FYybGqAT6NEC7vobn79T3AUvBvUakdjMC%2Fo1I4l1YMC2pUOMQuwG%2BR7wsh%2BQtG3sLCdFr8xNxm7PB7kfCjbU79bcO0svaNjy1J11o0B%2BHIwDg%3D%3D%7Ctkp%3ABk9SR6qL1fCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/G8wAAeSwCClo0s-Q/s-l500.webp",
+        "itemId": "287387259008",
+        "title": "2004 Pokemon EX Team Rocket Returns PSA 9 Torchic Gold Star 💫 🖌️INK ERROR ✨Opens in a new window or tab",
+        "priceC": 8000000,
+        "shippingC": 517,
+        "landedC": 8000517,
+        "url": "https://www.ebay.com/itm/287387259008?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&itmmeta=01M0SKF8A035BSEF7SMH1YSDDX&hash=item42e99d9080:g:6vkAAeSwm5NqKgSf&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCgbgHQXJ7YQRLdBN%2FID2f21RoagxBbMR1iGP5lJkuMh5f3aQkIUGwkMqLZ2uBOqJNUfMG1WQsv1i9EawvHiDgiGB2%2Ftqeq8i%2Fs9pRFCgFMM7AXhhbUQ%2BCUUoBuq%2F7WFES%2FFlhzcBcuA2PmWth%2BhpYtdVPo1UIhP%2FxGyuhXEIPs3LqKao8%2BlTLJLqJ4ytaHAx42HkFhiOWShYmGhU7%2Fz7LfTLWJZw4xDuCLSl%2FUioCLfRQZrq%2BubjM3vGl%2BA8Hpa6SHWzSeYR3sSQDuhuNlN2gl9vIR%2FvoDkPkgygqi0llORJEno6AYfU6iApzu5W2PV43Z6lwmQfRwpLn6KS7ObPgq%7Ctkp%3ABk9SR7aFvbOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/6vkAAeSwm5NqKgSf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       "counts": {
         "cgc10Bin": 1,
@@ -93,26 +93,26 @@
         "cgc10CostC": 4500562,
         "submissionFeeC": 299900,
         "totalCostC": 4800462,
-        "psa10ValueC": 6338066,
-        "ratio": 1.3203033374704352
+        "psa10ValueC": 6343106,
+        "ratio": 1.3213532364176614
       },
       "firstOpportunityAt": 1787165573087,
-      "updatedAt": 1787227384326
+      "updatedAt": 1787565789327
     },
     "prices": {
       "variantId": 4099,
       "ungradedC": 282500,
       "grade9C": 1560313,
-      "grade95C": 6211300,
+      "grade95C": 6216200,
       "cgc10C": 5307000,
       "cgc10PristineC": 9552600,
-      "psa10C": 6338066,
+      "psa10C": 6343106,
       "psa9Pop": 233,
       "psa10Pop": 19,
-      "cgc10Pop": 0,
-      "bgs10C": 8239500,
+      "cgc10Pop": null,
+      "bgs10C": 8246000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per month\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787214137565
+      "fetchedAt": 1787559248885
     },
     "listings": [
       {
@@ -121,27 +121,13 @@
         "priceC": 4500000,
         "shippingC": 562,
         "landedC": 4500562,
-        "url": "https://www.ebay.com/itm/336746211424?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&itmmeta=01M0FGN8M6Q8X0S2XA23EFK5PF&hash=item4e67a36860:g:VOsAAeSwVNpqgmHJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD0EX2dEKfozk8M0JHQQSdc660ZUo%2FJArb%2FhuA5WfRZGat1yC24UwkV%2FVB8MLW5%2FCZ0jPr4CvTimnEvqhSBrUh293hMfDzdHZkR7RPz4RQovUpoTw9iaXS4bmc3fQG1mDjEbVRpRX290YM93jtyRlalPYKLHA5ESE82qswn6qOaQO5arTUMsLbavQql1zCLXEqBYL%2BUpj14r%2BOMlc0Jcvy15HlfHTA665hEF8AVQFQalCOYnO1ynrhqAwyyWo%2FaqzuOs0kFBrL4npk6n%2BQpggXi5m8xaBfuoyQ00R%2BqUbgDTA%3D%3D%7Ctkp%3ABk9SR6iL1fCDaA",
+        "url": "https://www.ebay.com/itm/336746211424?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&itmmeta=01M0SKF89ZVFCEFPMRYZ3BT6CN&hash=item4e67a36860:g:VOsAAeSwVNpqgmHJ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDspYs%2ByEv2s1gqgKad3MysBof6fe9r1fNS2PbUH%2B3w5Aj%2FPGMUIOV9pz%2Bkfk9n%2BkedpjVXRcuUoir1b%2F8VjtHScagZZocDfeC6Uumn2iKfi24mQw2T08RW68doOE0ZvmaO2NGQO4Ch43WOWkaFvx80qV7t8nc6%2BpPXiy77Hra6%2FvegMesH9rzBacLkpOYdVdkdW7OWVBV7XmUqJ7agxBR7D3XEGpDicxwCGireCGSE%2Bg2Hj2OCRsAmUGOG0T3WVpsPdOTqJnuw9pdz20EeeXtCsxeNeokjBjq3gB%2FhtDGuf9bpe431tSBzPt%2B7IeIdJ4JRwIMWKC6rwwayIaQ0Xy1x%7Ctkp%3ABk9SR7aFvbOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/VOsAAeSwVNpqgmHJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787227384326
-      },
-      {
-        "itemId": "317323510984",
-        "title": "SWIRL PSA 9 Torchic Gold Star Holo 2004 Pokemon Ex Team Rocket Returns #108 MINTOpens in a new window or tab",
-        "priceC": 7500000,
-        "shippingC": 5000,
-        "landedC": 7505000,
-        "url": "https://www.ebay.com/itm/317323510984?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380707&itmmeta=01M0FGN8M6EQ17ZS6S7GYTGV8H&hash=item49e1f484c8:g:G8wAAeSwCClo0s-Q&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDdNPtMVaJvV154BOd0ZWAEe5p6MV2lOxaayRxEyltihujCfjenIPhgC42XC6Wr88fsBOyyTSIH7SjVIpWz98v%2FcnyHkWLRtP0rBjsAJByrAx0uF3lI4ibNRP85PsB9rrtuMNAM7NBICSoxjNdNpDue%2FfKLh8ai4JDtaOmW8QLZ9FDsJ5kMQlf6LXp79guex%2FYybGqAT6NEC7vobn79T3AUvBvUakdjMC%2Fo1I4l1YMC2pUOMQuwG%2BR7wsh%2BQtG3sLCdFr8xNxm7PB7kfCjbU79bcO0svaNjy1J11o0B%2BHIwDg%3D%3D%7Ctkp%3ABk9SR6qL1fCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/G8wAAeSwCClo0s-Q/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787165573087,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "287387259008",
@@ -149,13 +135,27 @@
         "priceC": 8000000,
         "shippingC": 517,
         "landedC": 8000517,
-        "url": "https://www.ebay.com/itm/287387259008?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&itmmeta=01M0FGNNK2FN8DVY4D68R4619Y&hash=item42e99d9080:g:6vkAAeSwm5NqKgSf&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCgbgHQXJ7YQRLdBN%2FID2f21RoagxBbMR1iGP5lJkuMh5f3aQkIUGwkMqLZ2uBOqJNUfMG1WQsv1i9EawvHiDgiGB2%2Ftqeq8i%2Fs9pRFCgFMM7AXhhbUQ%2BCUUoBuq%2F7WFEQFCRu54FdRolxigU%2Bpgp36UgxQivwEhPnB8aD2%2B9a%2BSC5rKeSA2InlJawBRBeLwRLhH%2Bxa7bV%2FAkLhwuuUCpeXnn%2BIx2cvzjeI3uINy5A2khTjrCVN6sOM4lgYWleP%2Be9jxSjra%2F0dBba%2BWwBfEPUQ7IZhsj3UmtxJqLMTPiK%2FkecqH%2BJo8Ehk9pe%2BfA5AAPLqy3zMJe7c6bs0tUV%2BUD8Y%7Ctkp%3ABk9SR5Da1vCDaA",
+        "url": "https://www.ebay.com/itm/287387259008?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&itmmeta=01M0SKF8A035BSEF7SMH1YSDDX&hash=item42e99d9080:g:6vkAAeSwm5NqKgSf&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCgbgHQXJ7YQRLdBN%2FID2f21RoagxBbMR1iGP5lJkuMh5f3aQkIUGwkMqLZ2uBOqJNUfMG1WQsv1i9EawvHiDgiGB2%2Ftqeq8i%2Fs9pRFCgFMM7AXhhbUQ%2BCUUoBuq%2F7WFES%2FFlhzcBcuA2PmWth%2BhpYtdVPo1UIhP%2FxGyuhXEIPs3LqKao8%2BlTLJLqJ4ytaHAx42HkFhiOWShYmGhU7%2Fz7LfTLWJZw4xDuCLSl%2FUioCLfRQZrq%2BubjM3vGl%2BA8Hpa6SHWzSeYR3sSQDuhuNlN2gl9vIR%2FvoDkPkgygqi0llORJEno6AYfU6iApzu5W2PV43Z6lwmQfRwpLn6KS7ObPgq%7Ctkp%3ABk9SR7aFvbOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/6vkAAeSwm5NqKgSf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
+      },
+      {
+        "itemId": "317323510984",
+        "title": "SWIRL PSA 9 Torchic Gold Star Holo 2004 Pokemon Ex Team Rocket Returns #108 MINTOpens in a new window or tab",
+        "priceC": 8500000,
+        "shippingC": 5000,
+        "landedC": 8505000,
+        "url": "https://www.ebay.com/itm/317323510984?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380707&itmmeta=01M0SKF8A0J1D41XM01QE7MSSE&hash=item49e1f484c8:g:G8wAAeSwCClo0s-Q&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA%2BI9j6WVfB7b6kkYAeVIpXa7BMIzh4jCscXmhkDE%2FBef9pdGiNykZ5DSApOS248AzYzdkKgozWiZLpzuvJAqheWYSk4w1LdNlWh1F0yxDaVg5FTvASPcf3UjaCPbJvqym2rpERlIHRF%2BzPHMp7pY%2BPdEuEJCKqBfhGzxzKKPVt5vZe%2FH5qzSIlgL6bFX5c6CDF9Zgsgvm85ohXzmIR7Ow7cBRCAhxjpQSlC98UPAnPUVGD%2FQ%2FwLjRp98YfexJjZrQSpFiDdAEKkUXnhWuGfXVqnSzMBhhqEygyMcNEDzbE%2FoGk9pP0G7z0yc3mPYlW%2FyLGEAo5FgqGZ0V1ih7IY5WJ%7Ctkp%3ABk9SR7iFvbOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/G8wAAeSwCClo0s-Q/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787165573087,
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "318497668782",
@@ -163,13 +163,13 @@
         "priceC": 11000000,
         "shippingC": 0,
         "landedC": 11000000,
-        "url": "https://www.ebay.com/itm/318497668782?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380707&itmmeta=01M0FGNNK28CGJQPTTFNKNJJZF&hash=item4a27f0beae:g:2DwAAeSwd2NqO4gB&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCjMfLXu0Fxb9sCE%2Fh5%2Fmy9xjGjJRce6JRQz8Ad8BH0GBsQCZYtsAqicw2av5g7BRDPXi0kfkPv8A0bchrpUIwYOWsJaT7Q4ShFiNFNrMhb7vjs0py3VABbWDjMuOHPkwb6aPVlTtciQoq2EqhPc0u5GBmrT9bypNDcrA0KP4QHn2jccbAL0qBQGB%2FHSbO6OOB4Wx%2BWTXUSvpE6KoWxXOCXwj1CBEG%2Fd%2BC3cToXmUwAmtqbPZRjtJTewT313xCOURSnIsa5p8smhrdX%2BvoumQIPRYmlhMcwfoWRuPuqsb2Ebw%3D%3D%7Ctkp%3ABk9SR5Da1vCDaA",
+        "url": "https://www.ebay.com/itm/318497668782?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380707&itmmeta=01M0MF0XVY3DE40XMNFADK1ZYS&hash=item4a27f0beae:g:2DwAAeSwd2NqO4gB&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB48Oz79ZqAaV5p2QdzXG8Fz%2Fi8rDhi5tuf2qZ90HsRfBjCTwxbOFcuxXRpiSHvPdFSH%2Ff6tZPi15KAQBcfsO6V%2FS5w7G8dU%2Fh91gj9SZFLqkPoDj%2F5055B4Q%2FJdxY6NiM0pPJQI4dZfe9FXcu8jNTAmyRTZpVCVO9LuFuE41457AiN%2B1s6lnfadeIkZwONGTj%2FZabOa4fkObdrNYVKd6UbN4N0KCKNcVWuDnndq1ZgT7InT75XUpP3wD8bHOFg1Dm1s%2FDYtW2BoPqFmK6AFbmy6SpYe1Ly9soHh%2BWBecWR3JiTyGnZlX2TKlFqPW5hwIgEAdT%2BF9rSxfiTzjGmm6rd%7Ctkp%3ABk9SR6jeg4-FaA",
         "imageUrl": "https://i.ebayimg.com/images/g/2DwAAeSwd2NqO4gB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787393380611
       },
       {
         "itemId": "375367374251",
@@ -177,13 +177,13 @@
         "priceC": 20000000,
         "shippingC": 0,
         "landedC": 20000000,
-        "url": "https://www.ebay.com/itm/375367374251?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380707&itmmeta=01M0FGNNK2A6H8Y2EE6NCYCK5R&hash=item5765a395ab:g:lpYAAOSwNRVmGG3l&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDT%2Bsh1z4QGPDKLWcyWOHnpfzibDeE3O%2BEYxxthMD7uG%2F6FGrEIjvvRWKhDsg2xAsbH49tGjYzPsNcmVyDsmm%2F0JVBpxKKoxc6HkIdnkgXWMpUJtdpCb8EScixIdZ%2FI%2FznUXS6cgyWn4407C96duJ16oHXZDD6YiNXNWXRILxSjUH0s4kUhE4vySJz4Wzb31pT1Yie5AK6rZKJCFSWZOfZqJy%2Fy8j8hBpQaytxthLEVags7lAoiZyYPwBqaDEot6kVNF4Sk%2BpeerOpa9MKgSczXGDVS%2BzWgWWSDB%2BD6GLQRBw%3D%3D%7Ctkp%3ABk9SR5Da1vCDaA",
+        "url": "https://www.ebay.com/itm/375367374251?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380707&itmmeta=01M0SKF8A0DGGB2FNA26QWF34X&hash=item5765a395ab:g:lpYAAOSwNRVmGG3l&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC24Q%2BJvvDeLS4Nu3nJT8v7IrTKxXqQ4JJfLsIW0hhlBEWP3a%2B49T7Tggi7ePOzl7AbAO0N4uvne%2F2%2BPckG0Jr3959C998oiGd6wF5jq%2BgVgxjQo%2F1GSR3A2zW7pdln0TN47Kl5UrKkB6jXXOP2pRKsax8UW381Rw8ZZTyaIMSShYiZ%2BaDkXS8cJ86y0pr%2BUr7hFudHioP%2F6NouvugmXgIb2Jnf0GDuMSK0CeXN92HV47cWPNNnmvnLyXVoFKELMFPf4NK9KiMfHQjY3hI9IlBS1vi8g%2BNJwmkI%2F1GejQ%2FnoMGB0plAVYSQ6nXF7TqGniO2jGo2dAxqvo0PJCMCxSfV%7Ctkp%3ABk9SR7iFvbOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/lpYAAOSwNRVmGG3l/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "375998824371",
@@ -191,13 +191,13 @@
         "priceC": 350000000,
         "shippingC": 0,
         "landedC": 350000000,
-        "url": "https://www.ebay.com/itm/375998824371?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380707&itmmeta=01M0FGNNK25BRJWN39SQTQSRCK&hash=item578b46bfb3:g:3AAAAOSwv8RoUE3I&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xASoWR3FAPLfnkk55vfNcBMGbVnXSZQaKBsOUhnETAUBpKzadvO8gtwwz1cpoO3GCu6tmTkuuFbWcltdfVbbAiTDkeS3DOJeLAbE2yR%2FO64whSuzcQ7yWEulH32L9Sv9z%2BdLz31enIAQgf9cOzWMiTyAXIRvYbougfQeKKSbutT0PquHmavBgFi5c2L0623YNo8mSL1W0RiToPwBduJDhjv5u%2B2R17S7BfYK2Yq7hLHGuRlxoQ5HQCMnUxQFp3FsO2I6CzQZr4Li1cBiMQGZdQ%2F%2Bi5ec0SC2dWO2cm%2B1G3T%2FQ%3D%3D%7Ctkp%3ABk9SR5Da1vCDaA",
+        "url": "https://www.ebay.com/itm/375998824371?_skw=%28torchic%2Cgold%2Cstar%29+%28108%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380707&itmmeta=01M0SKF8A0G0J28KGSJ666AMBZ&hash=item578b46bfb3:g:3AAAAOSwv8RoUE3I&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xASoWR3FAPLfnkk55vfNcBMGbVnXSZQaKBsOUhnETAUBpS5t1YNnMFy%2BRjIzLZ35twPv6Mo9mvxfLIC%2FSrVMBn7ebI2I9jhjhPD5CtInqOHR%2BcFzLDToOxZa%2FH1r2rZmHetYLQIQerQ1mkl%2FS4H7gRjUVpA9lAbsp3B27FS3oTBgC2qm2ktemdFd5qwCxEkTshwD%2BvG3TrLUgHFbKjDGufxv1rKVz%2FJuXyh23oO1YDIwujlVKXq%2FvffY%2FuK36TSyB8bR8BFbLo6SzEfK5wUOPFbMnjlyBgaCTIrrN9SHu6x%2BA%3D%3D%7Ctkp%3ABk9SR7iFvbOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/3AAAAOSwv8RoUE3I/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       }
     ],
     "marketHistory": {
@@ -1766,7 +1766,7 @@
       "monthlyPsa10": [],
       "englishSaleCount": 256,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787214135629
+      "lastCapturedAt": 1787559246799
     }
   }
 }

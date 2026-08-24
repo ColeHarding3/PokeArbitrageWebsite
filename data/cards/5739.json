@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 5739,
@@ -21,34 +21,34 @@
         "ungradedC": 5100,
         "grade9C": 25000,
         "grade95C": 35500,
-        "cgc10C": 18664,
-        "cgc10PristineC": 28761,
-        "psa10C": 249699,
-        "bgs10C": 324600,
+        "cgc10C": 18645,
+        "cgc10PristineC": 28752,
+        "psa10C": 250512,
+        "bgs10C": 325700,
         "psa9Pop": 80,
         "psa10Pop": 18,
         "cgc10Pop": 11,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 5 sales per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787218454086
+        "fetchedAt": 1787560872665
       },
       "bestCgc10": {
-        "itemId": "358340902414",
-        "title": "CGC 10 2006 Pokemon 2006 Dragonair Reverse Foil Dragon Frontiers #28Opens in a new window or tab",
-        "priceC": 99995,
+        "itemId": "327277014110",
+        "title": "CGC 10 Dragonair 28/101 EX Dragon Frontiers Reverse Holo Stamped Pokemon CardOpens in a new window or tab",
+        "priceC": 49900,
         "shippingC": 0,
-        "landedC": 99995,
-        "url": "https://www.ebay.com/itm/358340902414?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=2314420147&itmmeta=01M0F8EMMHMNGA83MDBQ07K4AJ&hash=item536ec83e0e:g:HO8AAeSwUoRpuPSH&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBKCuozDA8CKlMtekMu%2BDImvt52WAUdblaZXIvjlq1EZ%2BOgEQ1g4TGM05HGvdXn8JtVjxmLFATG%2BjjkEUwwG39jsL0j5FEi85rqr10%2FtIMfSOTA1wOLnl6gD%2F4LCrNOdiEMLdHqXeW78zQ94ifsx58EQhpHAuhGLPeDSrraq5z690IdZZlnPwEGzeAJ10xWo%2F3euiu5u%2B2R8TJukg95VKsukV2sfbGEvRgRPiTccs7UKeoEfPc1yux%2FS%2BYyzEYvCIEAMc3hUzkMEobBwKS2Kvxxo%2F2RQs1siJu5s1YhBMw51nCqstJEDUtSpf2vSbXW9M8S8w1suOQg1xnQ44RCVVSQ%7Ctkp%3ABk9SR9TKuuiDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/HO8AAeSwUoRpuPSH/s-l500.webp",
+        "landedC": 49900,
+        "url": "https://www.ebay.com/itm/327277014110?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=2314420147&itmmeta=01M0SF0068DZ74FAQK8AQRRC4A&hash=item4c333aec5e:g:jJoAAeSwv99qY9~O&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB%2B%2BJWiQ3VP4tYvVkIIz7%2F44MPjMkH4udONoPDQ9OqZrbilByH5MDYZk0yxPqeOLU6WkwgBTtOSsSMOL4Bnk7ZH8KtMvfxLCXTd6E4M%2BnPTcn%2B8xNaA82i9ucc4ryDKPjMRyCxZt8EWmTkPpX6A%2FJjnoovjRf1Ud1UwRkoUe8vtdhuF5HyUpl2R0sfMenbWaUBPdm%2Fmv6r7CKXb95ROGbCHLhbjFWfYFG013LGZIOoRqN%2FFuRY1nElNV72ZxxN19vNbuNz9XJHjIUuAIrfeSnxiTl4EqewFUgcLv2kgGQr8j6QeoJfpnCrj2tFKdqQPNQL7U70sgalbl0j%2BH9ObEYB7%7Ctkp%3ABk9SR7iDgK-GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/jJoAAeSwv99qY9~O/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787218759794
+        "lastSeen": 1787561161445
       },
       "bestPsa10": null,
       "bestPsa9": null,
       "counts": {
-        "cgc10Bin": 1,
+        "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
@@ -58,50 +58,64 @@
       "ratio": {
         "ok": true,
         "tier": {
-          "id": "express",
-          "label": "Express",
-          "feeC": 14900,
-          "declaredValueCapC": 250000,
-          "turnaroundBizDays": 30
+          "id": "superExpress",
+          "label": "Super Express",
+          "feeC": 34900,
+          "declaredValueCapC": 500000,
+          "turnaroundBizDays": 15
         },
-        "cgc10CostC": 99995,
-        "submissionFeeC": 14900,
-        "totalCostC": 114895,
-        "psa10ValueC": 249699,
-        "ratio": 2.173279951259846
+        "cgc10CostC": 49900,
+        "submissionFeeC": 34900,
+        "totalCostC": 84800,
+        "psa10ValueC": 250512,
+        "ratio": 2.9541509433962263
       },
       "firstOpportunityAt": 1787218759794,
-      "updatedAt": 1787218759794
+      "updatedAt": 1787561161445
     },
     "prices": {
       "variantId": 5739,
       "ungradedC": 5100,
       "grade9C": 25000,
       "grade95C": 35500,
-      "cgc10C": 18664,
-      "cgc10PristineC": 28761,
-      "psa10C": 249699,
+      "cgc10C": 18645,
+      "cgc10PristineC": 28752,
+      "psa10C": 250512,
       "psa9Pop": 80,
       "psa10Pop": 18,
       "cgc10Pop": 11,
-      "bgs10C": 324600,
+      "bgs10C": 325700,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 5 sales per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787218454086
+      "fetchedAt": 1787560872665
     },
     "listings": [
+      {
+        "itemId": "327277014110",
+        "title": "CGC 10 Dragonair 28/101 EX Dragon Frontiers Reverse Holo Stamped Pokemon CardOpens in a new window or tab",
+        "priceC": 49900,
+        "shippingC": 0,
+        "landedC": 49900,
+        "url": "https://www.ebay.com/itm/327277014110?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=2314420147&itmmeta=01M0SF0068DZ74FAQK8AQRRC4A&hash=item4c333aec5e:g:jJoAAeSwv99qY9~O&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB%2B%2BJWiQ3VP4tYvVkIIz7%2F44MPjMkH4udONoPDQ9OqZrbilByH5MDYZk0yxPqeOLU6WkwgBTtOSsSMOL4Bnk7ZH8KtMvfxLCXTd6E4M%2BnPTcn%2B8xNaA82i9ucc4ryDKPjMRyCxZt8EWmTkPpX6A%2FJjnoovjRf1Ud1UwRkoUe8vtdhuF5HyUpl2R0sfMenbWaUBPdm%2Fmv6r7CKXb95ROGbCHLhbjFWfYFG013LGZIOoRqN%2FFuRY1nElNV72ZxxN19vNbuNz9XJHjIUuAIrfeSnxiTl4EqewFUgcLv2kgGQr8j6QeoJfpnCrj2tFKdqQPNQL7U70sgalbl0j%2BH9ObEYB7%7Ctkp%3ABk9SR7iDgK-GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/jJoAAeSwv99qY9~O/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787218759794,
+        "lastSeen": 1787561161445
+      },
       {
         "itemId": "358340902414",
         "title": "CGC 10 2006 Pokemon 2006 Dragonair Reverse Foil Dragon Frontiers #28Opens in a new window or tab",
         "priceC": 99995,
         "shippingC": 0,
         "landedC": 99995,
-        "url": "https://www.ebay.com/itm/358340902414?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=2314420147&itmmeta=01M0F8EMMHMNGA83MDBQ07K4AJ&hash=item536ec83e0e:g:HO8AAeSwUoRpuPSH&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBKCuozDA8CKlMtekMu%2BDImvt52WAUdblaZXIvjlq1EZ%2BOgEQ1g4TGM05HGvdXn8JtVjxmLFATG%2BjjkEUwwG39jsL0j5FEi85rqr10%2FtIMfSOTA1wOLnl6gD%2F4LCrNOdiEMLdHqXeW78zQ94ifsx58EQhpHAuhGLPeDSrraq5z690IdZZlnPwEGzeAJ10xWo%2F3euiu5u%2B2R8TJukg95VKsukV2sfbGEvRgRPiTccs7UKeoEfPc1yux%2FS%2BYyzEYvCIEAMc3hUzkMEobBwKS2Kvxxo%2F2RQs1siJu5s1YhBMw51nCqstJEDUtSpf2vSbXW9M8S8w1suOQg1xnQ44RCVVSQ%7Ctkp%3ABk9SR9TKuuiDaA",
+        "url": "https://www.ebay.com/itm/358340902414?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=2314420147&itmmeta=01M0SF006A0ZFXGBPJ5J2CCKQ1&hash=item536ec83e0e:g:HO8AAeSwUoRpuPSH&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBKCuozDA8CKlMtekMu%2BDImvt52WAUdblaZXIvjlq1EZ%2BOgEQ1g4TGM05HGvdXn8JtVjxmLFATG%2BjjkEUwwG39jsL0j5FEi85rqr10%2FtIMfSOTA1wOLnl6gD%2F4LCrNOdiGg7DbUP25XZY8Qwap0elQsG7GxnryquSKzqP%2FEUD2wdRSvbnjT2rnCztlMmVVUy3%2Bk5qmeVxlqaDjARDMsv9gFOALzI64ZwLEZ%2BdlGp8CYjHzMNGvSM2T%2FzL8Q4yv1iVs8r2CnjWPU0duhshgBK5za4wqrX8XxhJeENsmAr8E1U7Whk%2BjBi%2F%2Bco6%2B8XoGnF2y7QSuyv4tPjztGuqwHeE3%2B%7Ctkp%3ABk9SR76DgK-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HO8AAeSwUoRpuPSH/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787218759794
+        "lastSeen": 1787561161445
       }
     ],
     "marketHistory": {
@@ -1568,7 +1582,7 @@
       ],
       "englishSaleCount": 109,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787218451935
+      "lastCapturedAt": 1787560870674
     }
   }
 }

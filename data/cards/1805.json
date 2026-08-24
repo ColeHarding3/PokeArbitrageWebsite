@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 1805,
@@ -19,17 +19,17 @@
       "popularityScore": 84,
       "market": {
         "ungradedC": 13059,
-        "grade9C": 34972,
+        "grade9C": 34815,
         "grade95C": 45125,
         "cgc10C": 59000,
-        "cgc10PristineC": 106200,
-        "psa10C": 221325,
-        "bgs10C": 287700,
+        "cgc10PristineC": 74250,
+        "psa10C": 220000,
+        "bgs10C": 286000,
         "psa9Pop": 311,
         "psa10Pop": 143,
         "cgc10Pop": 24,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\"}",
-        "fetchedAt": 1787211669842
+        "fetchedAt": 1787557035598
       },
       "bestCgc10": {
         "itemId": "407028113683",
@@ -37,13 +37,13 @@
         "priceC": 99999,
         "shippingC": 0,
         "landedC": 99999,
-        "url": "https://www.ebay.com/itm/407028113683?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0F1Z0D49NQVK278DW18JPEV&hash=item5ec4c42113:g:j34AAeSw4rJqPgrN&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCc4sQB5N5mbGbga4FdUU0J%2BTBzvK7HW9pO7aS0%2BNM1FIbSe7AWt50xeQez%2BeQLRICz0FN9Eqff6FeCRnvPQv9PuDfTl8MT%2BC74qq8GJqoUriV%2BCQzx%2FVa5SAoQVZCNOWr3p5cTUnXPfzMrGUx8cLWik7cEsM%2FjbLOgMf9CiBDveu%2FUMDBQENK1q0%2BIYjRoLgUe4BT82TjDMabRITq1uNBLeLe43eGvtdIfyMDA4Obf0Zxgv5ZPTO1oYjZ1OfxKVbVysFycD80K%2BD6iZ1f7cJ0VwaX1FyC6dwg%2BxybsALj5CfPlUtXnZ9Zh--YWUtcFwbhlxhRP0zrm6DlOqXHo6Q8P%7Ctkp%3ABk9SR-yG_OGDaA",
+        "url": "https://www.ebay.com/itm/407028113683?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0SBANC728SW8BGCK6FF2NHQ&hash=item5ec4c42113:g:j34AAeSw4rJqPgrN&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCc4sQB5N5mbGbga4FdUU0J%2BTBzvK7HW9pO7aS0%2BNM1FIbSe7AWt50xeQez%2BeQLRICz0FN9Eqff6FeCRnvPQv9PuDfTl8MT%2BC74qq8GJqoUriV%2BCQzx%2FVa5SAoQVZCNOWpXEXOKoVUYFV6C90u7pv5UsCDnOUZ18pi6t00040%2FyJqbUcP9fP8QpCCcRcOflIm3OSLefldTDy%2BEc9LSYDGaMX3B73omyvzs9nUnS9BSeqDjeHP4nYClKJRsiicezle9NIZO%2F1NKO95oJ8Rhb8dtnkKOSwMwQlAXtpURYgl5SNkLsefnvr7pO8poAqWE7xDWnZKMcbvjFWvQTc2mRc%2Bib%7Ctkp%3ABk9SR7TWqquGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/j34AAeSw4rJqPgrN/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1787211928516
+        "lastSeen": 1787557285116
       },
       "bestPsa10": {
         "itemId": "298591404754",
@@ -51,34 +51,34 @@
         "priceC": 252000,
         "shippingC": 597,
         "landedC": 252597,
-        "url": "https://www.ebay.com/itm/298591404754?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0F1Z0D67NPHE69TPWW18D2H&hash=item45856f42d2:g:sHQAAeSwdSZqfP8i&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB5pABDZVgEzv90FWKwN%2F5dCHzS0ShUbu07Nv8ajY4ruSC%2Fzc00%2FV2A0N3ie2Iz4vjbcASVEcDMLeJM9H6h%2FO9k7WxfvSsWcX0FAHK2vJ2PiQQPCWmPhJ%2FFgZpl%2F3OCHM4N%2BL2i61sjlwzbNovClb%2FOIR6ud4e8L9RPmqfb%2BLQfVlDmUswxmqf8aMNmUBpMvZ2ChCY5Eq6%2FVu4SbDPq3mNCkRBOvBdrtSUU2%2Ffc4PF9M%2FXOjnsERjYDRedTXHPnxCXnDby8BVndzS7UFwpCc0%2FIUfA63HENi9cPQqHou9FtFb42UnfNHFXXJhTn%2B9bbAkQ8LCQ2W3GzhX%2FZtFnq6mgZ%7Ctkp%3ABk9SR_CG_OGDaA",
+        "url": "https://www.ebay.com/itm/298591404754?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0M6MV56TH9XV62Q98YRT3B6&hash=item45856f42d2:g:sHQAAeSwdSZqfP8i&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB5pABDZVgEzv90FWKwN%2F5dCHzS0ShUbu07Nv8ajY4ruSC%2Fzc00%2FV2A0N3ie2Iz4vjbcASVEcDMLeJM9H6h%2FO9k7WxfvSsWcX0FAHK2vJ2PiQQPCWmPhJ%2FFgZpl%2F3OCHM4W%2BGEHie7LzZFCE4IeU1X6tiBVdIAHWF3BmWqK6K8M78kA12NgIjhAk28YBitlJha7ajb9DcSxzfpxRpgd9kUTKOA4muZDto8Y2w4E1WQ1g0JmcabeaFqV58jxkzZA%2ByRMnPXUQpKTRtFonYZc5cy4EwfFPT5sKRNWYS8OL%2BrGttiVmMGfsnAhoc2crQdgK%2BHwQV8jCbwXBYYUtzCteIEV%7Ctkp%3ABk9SR_Sy04aFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/sHQAAeSwdSZqfP8i/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1787211928516
+        "lastSeen": 1787384611547
       },
       "bestPsa9": {
         "itemId": "257678814865",
         "title": "2002 POKEMON NEO DESTINY 1ST EDITION #48 LIGHT JOLTEON PSA 9Opens in a new window or tab",
-        "priceC": 47500,
+        "priceC": 45000,
         "shippingC": 548,
-        "landedC": 48048,
-        "url": "https://www.ebay.com/itm/257678814865?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0F1YWCZR98RMDXE30DK2PEA&hash=item3bfedaae91:g:Jy4AAeSw-zVqfjsF&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCUxPggjT3bvr5KePSQAiSzIQW92PoplHumjS0V9bXQlMJJ9Z0ZbqCvp0aRu6%2BCvtMn1LE%2Buns42JUR%2BFtE61qQxSVsbO5zjhO3C4Z2mGnYsK74CBTjz9m%2F7X6vRuUqTi4wsy0LX%2Bo8Jbgef4TI9XTDLmapLm%2FQJIQ74Tz%2FhxEer6F7FlHazxT%2FjUf62WHujV8DtQfurzche1DonlGOesZ8c27rKOwK1EdNAISLjFENJhAo%2BV%2Fy5CoFPdVwzBeI%2Bcb6W5DoXneCQ8UnBty9Bx%2F4LUC%2FVoGwT4Ed0D6bLYoenivCzNlsKhp%2B4p3zKdH3rmduSEbD0GWw%2FsT59xx1bEew%7Ctkp%3ABk9SR-LG--GDaA",
+        "landedC": 45548,
+        "url": "https://www.ebay.com/itm/257678814865?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0SBAH67Y9RXZV4T1B8ERR5J&hash=item3bfedaae91:g:Jy4AAeSw-zVqfjsF&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCUxPggjT3bvr5KePSQAiSzIQW92PoplHumjS0V9bXQlMJJ9Z0ZbqCvp0aRu6%2BCvtMn1LE%2Buns42JUR%2BFtE61qQxSVsbO5zjhO3C4Z2mGnYsK74CBTjz9m%2F7X6vRuUqTi7x3AVcWuIgsSW%2FHMVOYhglOMVYG4nOo0KPpxeZ7iskr67KDMFSC%2FsCEVpLt7T83KTAHdcyrWWM%2BA1NwZf5cA1QhN6ZmytZvJtR9WUIT7GRBNNCGEkYedcuDTA7LJRPQCgp16rIEHKc%2Fs%2FLyxmSkLOnUMe1khZ8VvWO4T%2F1JilkxAHL1%2B%2BCJNMWUK9cy%2BvLWOdcwxBWYJSIRasJXJ7Zkij8%7Ctkp%3ABk9SR5qUqquGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Jy4AAeSw-zVqfjsF/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1787211928516
+        "lastSeen": 1787557285116
       },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 5,
-        "psa10Auction": 1,
+        "psa10Bin": 6,
+        "psa10Auction": 0,
         "psa9Bin": 4
       },
       "ratio": {
@@ -93,41 +93,55 @@
         "cgc10CostC": 99999,
         "submissionFeeC": 14900,
         "totalCostC": 114899,
-        "psa10ValueC": 221325,
-        "ratio": 1.9262569735158706
+        "psa10ValueC": 220000,
+        "ratio": 1.9147251063977928
       },
       "firstOpportunityAt": 1787049693356,
-      "updatedAt": 1787211928516
+      "updatedAt": 1787557285116
     },
     "prices": {
       "variantId": 1805,
       "ungradedC": 13059,
-      "grade9C": 34972,
+      "grade9C": 34815,
       "grade95C": 45125,
       "cgc10C": 59000,
-      "cgc10PristineC": 106200,
-      "psa10C": 221325,
+      "cgc10PristineC": 74250,
+      "psa10C": 220000,
       "psa9Pop": 311,
       "psa10Pop": 143,
       "cgc10Pop": 24,
-      "bgs10C": 287700,
+      "bgs10C": 286000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\"}",
-      "fetchedAt": 1787211669842
+      "fetchedAt": 1787557035598
     },
     "listings": [
       {
+        "itemId": "327321359541",
+        "title": "Pokemon Light Jolteon 1st Edition PSA 9 MINT Neo Destiny 48/105Opens in a new window or tab",
+        "priceC": 12180,
+        "shippingC": 572,
+        "landedC": 12752,
+        "url": "https://www.ebay.com/itm/327321359541?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0SBACKN7DG1Y6RK9DSWCTD0&hash=item4c35df94b5:g:DwcAAeSwpyFqiOCl&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB%2B%2Br859uSqRxTr1BoZmDPmBs%2B21iFXgpzHbBnPPotM7CAbA8Qy5rsQOGuoRknmQtJXXbHXSaJlujqteppfRQlvdnuMFY47uaVwYU1D%2Bd4oa0akYAR8GPKUmKRtQDiMDUuFv%2FNLgvuWJaGy1sLK7efgii%2BvFm9lAimvwsWurwxRYGewHm8dEcivDbhn4hYg25SedkU4TvNdvAIGAwBVvLm5x%2BFOjWDpaXFCzJNePoweCcAPXDzjL5f%2BIxLuwKVPfPtHj%2Bt%2BPmi8j2lSbxiEe7pUrElsT4Y6PJySp8DhShprAg%3D%3D%7Ctkp%3ABk9SR5jKqauGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/DwcAAeSwpyFqiOCl/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787384611547,
+        "lastSeen": 1787557285116
+      },
+      {
         "itemId": "257678814865",
         "title": "2002 POKEMON NEO DESTINY 1ST EDITION #48 LIGHT JOLTEON PSA 9Opens in a new window or tab",
-        "priceC": 47500,
+        "priceC": 45000,
         "shippingC": 548,
-        "landedC": 48048,
-        "url": "https://www.ebay.com/itm/257678814865?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0F1YWCZR98RMDXE30DK2PEA&hash=item3bfedaae91:g:Jy4AAeSw-zVqfjsF&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCUxPggjT3bvr5KePSQAiSzIQW92PoplHumjS0V9bXQlMJJ9Z0ZbqCvp0aRu6%2BCvtMn1LE%2Buns42JUR%2BFtE61qQxSVsbO5zjhO3C4Z2mGnYsK74CBTjz9m%2F7X6vRuUqTi4wsy0LX%2Bo8Jbgef4TI9XTDLmapLm%2FQJIQ74Tz%2FhxEer6F7FlHazxT%2FjUf62WHujV8DtQfurzche1DonlGOesZ8c27rKOwK1EdNAISLjFENJhAo%2BV%2Fy5CoFPdVwzBeI%2Bcb6W5DoXneCQ8UnBty9Bx%2F4LUC%2FVoGwT4Ed0D6bLYoenivCzNlsKhp%2B4p3zKdH3rmduSEbD0GWw%2FsT59xx1bEew%7Ctkp%3ABk9SR-LG--GDaA",
+        "landedC": 45548,
+        "url": "https://www.ebay.com/itm/257678814865?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0SBAH67Y9RXZV4T1B8ERR5J&hash=item3bfedaae91:g:Jy4AAeSw-zVqfjsF&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCUxPggjT3bvr5KePSQAiSzIQW92PoplHumjS0V9bXQlMJJ9Z0ZbqCvp0aRu6%2BCvtMn1LE%2Buns42JUR%2BFtE61qQxSVsbO5zjhO3C4Z2mGnYsK74CBTjz9m%2F7X6vRuUqTi7x3AVcWuIgsSW%2FHMVOYhglOMVYG4nOo0KPpxeZ7iskr67KDMFSC%2FsCEVpLt7T83KTAHdcyrWWM%2BA1NwZf5cA1QhN6ZmytZvJtR9WUIT7GRBNNCGEkYedcuDTA7LJRPQCgp16rIEHKc%2Fs%2FLyxmSkLOnUMe1khZ8VvWO4T%2F1JilkxAHL1%2B%2BCJNMWUK9cy%2BvLWOdcwxBWYJSIRasJXJ7Zkij8%7Ctkp%3ABk9SR5qUqquGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Jy4AAeSw-zVqfjsF/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1787211928516
+        "lastSeen": 1787557285116
       },
       {
         "itemId": "298591334963",
@@ -135,13 +149,13 @@
         "priceC": 50000,
         "shippingC": 550,
         "landedC": 50550,
-        "url": "https://www.ebay.com/itm/298591334963?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0F1YWCZA6JBQ6VQ9PP3S9M2&hash=item45856e3233:g:TcEAAeSwZoJqgOri&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDs1YmsXuMwt38PL6i%2BPV3VXmOBuQHP5%2FvuV8rz4eN%2Fp%2FUS09hUHCGVmIETbLrQB%2FV6Q70ZoZA1NacGScQx9dyWW3pWhYFV7FjE78T5fn%2B0I6q03%2BS8xD%2B6UA5U6OmCMJPjcrieMR2WfOrAzgKftVLmr6O6nTEDrLVcojuqy86FcrrP8qJJCuW7jO3pYTYHdGFxMJJ%2FFqy%2B%2FHslZIwwva635C86MdCKmOhEUnd7GSOfAV7CYOkRvzMhpbzsV4Dg2YWkGUnmUOVzusQB4ExZKCBYvnNzzeQfv2787nuOsrRPT3H7MqUBRSZduvvh8cenyjtdL9eTQy2OaO72nJhGsi7U%7Ctkp%3ABk9SR-LG--GDaA",
+        "url": "https://www.ebay.com/itm/298591334963?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0SBAH680BT89WQV022WYNBQ&hash=item45856e3233:g:TcEAAeSwZoJqgOri&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC5JbXG0on%2F9p%2Fs9pWQUqrfn9QO0QhxTrUWPkzw6z5vOEEibxyvs7RPu2ZyF2VeKk7hp%2BIA%2B2crdenvTkI1B44s5QwLvHW3YodOq7GyaoEQh%2B249kVSK%2FPj9sEsHB2sB87uXK06IthJwg5ER4ajhTcOeqMpd9U%2FoYH2zzTSM838t1aPWoo7iuA5pWeLXoW7lFfYpyWTrkcHrrDAQL%2BRD6Sy%2FdQSydYRaTxR7QE0FgTdgtYr80Md%2BHmByCtT%2FLqpDvEdkw1vBX5W3bjcpd1wJHYVcorc5SYGiJQNGK76LvKRlQ%3D%3D%7Ctkp%3ABk9SR5yUqquGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/TcEAAeSwZoJqgOri/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1787211928516
+        "lastSeen": 1787557285116
       },
       {
         "itemId": "287511851694",
@@ -149,13 +163,13 @@
         "priceC": 59999,
         "shippingC": 875,
         "landedC": 60874,
-        "url": "https://www.ebay.com/itm/287511851694?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0F1Z0D3N7J4G9ZNT57JVYZB&hash=item42f10ab2ae:g:8X8AAeSwMeVqdo9G&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDZuDxHQxnKkOQd%2FRmCQRnT12in%2FvnyDb6L4U3ib9%2Fez%2Fl8E7IM4er901JSGCYXGdBIOKVTOiX0MhQIM%2B3rG4wtPcYBrg09tcikSJgFUeZ54oNy7lAX6bjufXFtsyJH8YZOTim6VLjvFvFCrCB%2BBfAv5l%2BaVcSFdiKh4LBgy4zdDQONvVi%2BUSC%2BIDxLEXxsW16mDegTNst66G7%2F3wSTvxFaR8JOaPpzyLsH7dluazPGSQmGAWi4KMfs8dsKZ7UQDWphmlyEaKS5JGmhreTKs4sl9Gpg4YnhxGs1LugTjxiErg%3D%3D%7Ctkp%3ABk9SR-qG_OGDaA",
+        "url": "https://www.ebay.com/itm/287511851694?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0SBANC6F1B0154V8NWSWCN5&hash=item42f10ab2ae:g:8X8AAeSwMeVqdo9G&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCRQEULoN%2B5HnWoa4VTxGCWE6v6o3YdNzW4O5br67gD3fkaDcINzjTnNXrr%2FHFs6SrlKeMOcwtP7lTZpE5D6pz%2BXUmuu0t5jQRJR7A08skbaBGcYUXarmd53%2Bn%2FTM%2FgTmCknsuHzmGmafapUujAus5ikYfE%2Fx0mw%2F%2BKz0WRPs%2BMhGEw6T%2BslZ7h303wLBYvTr9auKJHKfdRkI9J0CAIQQz%2BE%2Be4f6rZZb6EJAZrs0r9HNg3aLpDwFL%2B32AdxKi0O0ERRB4g8%2FYFtlxSDRr%2FfhMvznBK9VjmKCrsm6jVW1Vfyd2EDLVbi7I%2BfEJkAkXMDXLJk4EpG%2FXRFV7us9vuCTvH%7Ctkp%3ABk9SR7LWqquGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8X8AAeSwMeVqdo9G/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1787211928516
+        "lastSeen": 1787557285116
       },
       {
         "itemId": "407028113683",
@@ -163,13 +177,13 @@
         "priceC": 99999,
         "shippingC": 0,
         "landedC": 99999,
-        "url": "https://www.ebay.com/itm/407028113683?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0F1Z0D49NQVK278DW18JPEV&hash=item5ec4c42113:g:j34AAeSw4rJqPgrN&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCc4sQB5N5mbGbga4FdUU0J%2BTBzvK7HW9pO7aS0%2BNM1FIbSe7AWt50xeQez%2BeQLRICz0FN9Eqff6FeCRnvPQv9PuDfTl8MT%2BC74qq8GJqoUriV%2BCQzx%2FVa5SAoQVZCNOWr3p5cTUnXPfzMrGUx8cLWik7cEsM%2FjbLOgMf9CiBDveu%2FUMDBQENK1q0%2BIYjRoLgUe4BT82TjDMabRITq1uNBLeLe43eGvtdIfyMDA4Obf0Zxgv5ZPTO1oYjZ1OfxKVbVysFycD80K%2BD6iZ1f7cJ0VwaX1FyC6dwg%2BxybsALj5CfPlUtXnZ9Zh--YWUtcFwbhlxhRP0zrm6DlOqXHo6Q8P%7Ctkp%3ABk9SR-yG_OGDaA",
+        "url": "https://www.ebay.com/itm/407028113683?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0SBANC728SW8BGCK6FF2NHQ&hash=item5ec4c42113:g:j34AAeSw4rJqPgrN&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCc4sQB5N5mbGbga4FdUU0J%2BTBzvK7HW9pO7aS0%2BNM1FIbSe7AWt50xeQez%2BeQLRICz0FN9Eqff6FeCRnvPQv9PuDfTl8MT%2BC74qq8GJqoUriV%2BCQzx%2FVa5SAoQVZCNOWpXEXOKoVUYFV6C90u7pv5UsCDnOUZ18pi6t00040%2FyJqbUcP9fP8QpCCcRcOflIm3OSLefldTDy%2BEc9LSYDGaMX3B73omyvzs9nUnS9BSeqDjeHP4nYClKJRsiicezle9NIZO%2F1NKO95oJ8Rhb8dtnkKOSwMwQlAXtpURYgl5SNkLsefnvr7pO8poAqWE7xDWnZKMcbvjFWvQTc2mRc%2Bib%7Ctkp%3ABk9SR7TWqquGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/j34AAeSw4rJqPgrN/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1787211928516
+        "lastSeen": 1787557285116
       },
       {
         "itemId": "377362211824",
@@ -177,13 +191,13 @@
         "priceC": 99995,
         "shippingC": 597,
         "landedC": 100592,
-        "url": "https://www.ebay.com/itm/377362211824?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0F1Z0D4HY39Z8Y0GZC1BC44&hash=item57dc8a63f0:g:WWkAAeSw6XlqYNjQ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDNR9KhzinFeIYaoKRG4sH4DQjTEnRfxPRlYAuEd3GMopIl1uMdk9%2FIwga%2F3ZdGafiWOGaxAJsOvBVbCZJSSCVUY%2FR47Hsj2T%2FjOJWlUU3iEOU4xsqeCf5Odcf%2FUl60RwmKum8SMAIg08MjH6tachrEGwITeLU0205oC3bHiCoxmdHLcUlPgiMM2kQpGaaXJDb8MiqbvZgrJQjmMiGPBqIPBjl5UBmpRIn%2FaooMvFnddUVtDW7qn8%2F4zrEh4nwptMsSUDgCQmwiTP3r3Gbf%2FgijY7rCWXgRVdtD5ynSG3m97VpwnypMgmdwAyObfeATCyXKLaoRHvPbFHYG4syxTl9H%7Ctkp%3ABk9SR-6G_OGDaA",
+        "url": "https://www.ebay.com/itm/377362211824?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0SBANC773V4732YFDDAGW4N&hash=item57dc8a63f0:g:WWkAAeSw6XlqYNjQ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDNR9KhzinFeIYaoKRG4sH4DQjTEnRfxPRlYAuEd3GMopIl1uMdk9%2FIwga%2F3ZdGafiWOGaxAJsOvBVbCZJSSCVUY%2FR47Hsj2T%2FjOJWlUU3iEOU4xsqeCf5Odcf%2FUl60RwnPNHsniVJpUOh4PSHqRmsjehVal%2BAvrikTvjog%2BZhQHpLSeCfWbHm%2FVBkgQb4xSiVapfFFvmn1TDtIp7zcENYxUtIk2mMoV6e8dH6v66E%2Bq%2FmvXNAWLL7iMWnH2drA8l8mHUwG5m9e5B%2B8pPrBlGHGmpsgX2uMbdWCDc5w0Yk730uGhEEw8DpKRXkHWPo0kvxYZAXoZA7tToWoC0yTfY43%7Ctkp%3ABk9SR7TWqquGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/WWkAAeSw6XlqYNjQ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1787211928516
+        "lastSeen": 1787557285116
       },
       {
         "itemId": "178401251258",
@@ -195,7 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/a5cAAeSwtAZqfRtF/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa10",
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787049693356,
         "lastSeen": 1787094604788
       },
@@ -205,27 +219,41 @@
         "priceC": 252000,
         "shippingC": 597,
         "landedC": 252597,
-        "url": "https://www.ebay.com/itm/298591404754?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0F1Z0D67NPHE69TPWW18D2H&hash=item45856f42d2:g:sHQAAeSwdSZqfP8i&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB5pABDZVgEzv90FWKwN%2F5dCHzS0ShUbu07Nv8ajY4ruSC%2Fzc00%2FV2A0N3ie2Iz4vjbcASVEcDMLeJM9H6h%2FO9k7WxfvSsWcX0FAHK2vJ2PiQQPCWmPhJ%2FFgZpl%2F3OCHM4N%2BL2i61sjlwzbNovClb%2FOIR6ud4e8L9RPmqfb%2BLQfVlDmUswxmqf8aMNmUBpMvZ2ChCY5Eq6%2FVu4SbDPq3mNCkRBOvBdrtSUU2%2Ffc4PF9M%2FXOjnsERjYDRedTXHPnxCXnDby8BVndzS7UFwpCc0%2FIUfA63HENi9cPQqHou9FtFb42UnfNHFXXJhTn%2B9bbAkQ8LCQ2W3GzhX%2FZtFnq6mgZ%7Ctkp%3ABk9SR_CG_OGDaA",
+        "url": "https://www.ebay.com/itm/298591404754?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0M6MV56TH9XV62Q98YRT3B6&hash=item45856f42d2:g:sHQAAeSwdSZqfP8i&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB5pABDZVgEzv90FWKwN%2F5dCHzS0ShUbu07Nv8ajY4ruSC%2Fzc00%2FV2A0N3ie2Iz4vjbcASVEcDMLeJM9H6h%2FO9k7WxfvSsWcX0FAHK2vJ2PiQQPCWmPhJ%2FFgZpl%2F3OCHM4W%2BGEHie7LzZFCE4IeU1X6tiBVdIAHWF3BmWqK6K8M78kA12NgIjhAk28YBitlJha7ajb9DcSxzfpxRpgd9kUTKOA4muZDto8Y2w4E1WQ1g0JmcabeaFqV58jxkzZA%2ByRMnPXUQpKTRtFonYZc5cy4EwfFPT5sKRNWYS8OL%2BrGttiVmMGfsnAhoc2crQdgK%2BHwQV8jCbwXBYYUtzCteIEV%7Ctkp%3ABk9SR_Sy04aFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/sHQAAeSwdSZqfP8i/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1787211928516
+        "lastSeen": 1787384611547
+      },
+      {
+        "itemId": "298609027160",
+        "title": "Light Jolteon 1st Edition PSA 10 Neo Destiny 2002 Low POPOpens in a new window or tab",
+        "priceC": 252000,
+        "shippingC": 597,
+        "landedC": 252597,
+        "url": "https://www.ebay.com/itm/298609027160?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0SBANC96EP6F2MKYR9CFQ7X&hash=item45867c2858:g:sHQAAeSwdSZqfP8i&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAJnq8Ejtk36Me%2B1L3c0q%2FFXUzN5c1zxwbjjRJIiKgx9SAsYLToh%2Blc74ZiCNhzdqZGIi43F4zAKDn1ismJ%2FmXx8TQBin7zlKbVBmxvLP4QYlmzTLFiwBFe%2BNS%2FaJVQXcrHUkwu0MTN3iUp4CtfuEV1LkINPKlVSEE5iefQ3altLpaOMwiOtGfWJqGQaHt72vYqwS6V4WBI4Al9EjjAkKYm5LqnXz0R2mSnJybpTNQM1BDyYSUnpEV%2F0Qn8nsA5wwe0Z7l7zIXVzgnUxusUvtmH6LYUWLffnUrszA33ySDCusOn5AjaIT6AmYwEIGY0ynomiCG9urcQYvZfW0X3ajOU%7Ctkp%3ABk9SR7rWqquGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/sHQAAeSwdSZqfP8i/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787471456733,
+        "lastSeen": 1787557285116
       },
       {
         "itemId": "377366230563",
         "title": "1st Edition PSA 10 Light Jolteon GEM MINT 48/105 2002 Neo Destiny Pokemon WOTCOpens in a new window or tab",
-        "priceC": 259900,
+        "priceC": 254900,
         "shippingC": 599,
-        "landedC": 260499,
-        "url": "https://www.ebay.com/itm/377366230563?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0F1Z0D6J85P4THT9HQQK789&hash=item57dcc7b623:g:KMUAAeSwYUhqYvXE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDncbp%2B0RX24%2BKy3g%2Bh7ORpEyinCm%2BSzjh1sAt1pE351CSx0aUVB0XW0WQiz4SUNV1V0V9zrHu65D1Jqim3cH557zURElTus4OiF98464iOKHJzNCaQ1dC5%2F1IxAelgUuu6cn%2B6ixRmCNk8M4GZYwuXxXR2d7UqDfDAhcNmSzTyUJifMJChU%2FMQOKVmnvFJ6S4T9Ylp6BAFpVKVxei%2FKZvzdzPomyRBZ%2FELHa0q%2F6eeFWfjVKsPTEqw254jeXX8v%2BWhg2LN%2B7iQRsAZxtrX%2Fvp%2FLkHbMkQMPPgnphtTSOmoNg%3D%3D%7Ctkp%3ABk9SR_CG_OGDaA",
+        "landedC": 255499,
+        "url": "https://www.ebay.com/itm/377366230563?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0M6MV563QSNKPY93ZS19HKY&hash=item57dcc7b623:g:KMUAAeSwYUhqYvXE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDncbp%2B0RX24%2BKy3g%2Bh7ORpEyinCm%2BSzjh1sAt1pE351LqIvX3bjjk6eLPQ3vwjFM20%2Bml%2BRixehE%2FQKKvdZ5H6YzR41bwPA5MkNonQFBDxjJ%2BOtoIdGfGLtajurbgK27F6uHLEELeiBjUqvvJrtY3A0m%2FOr%2FAlD04E3%2BdttTN4g9q94uAxsDLzvRpU78H5E11epKgvrxxj8UOfzRi8YongsUsrZ0aktSH1e5vyjawZEG3idTM2KTq3QjzF5OUnr4%2FoiZbi2hdaBuLeTksScPYqoGG9Kpc%2FS5SNA4wlbsyPyQ%3D%3D%7Ctkp%3ABk9SR_Sy04aFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/KMUAAeSwYUhqYvXE/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1787211928516
+        "lastSeen": 1787384611547
       },
       {
         "itemId": "188533852040",
@@ -233,13 +261,13 @@
         "priceC": 280000,
         "shippingC": 0,
         "landedC": 280000,
-        "url": "https://www.ebay.com/itm/188533852040?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0F1Z0D60DZ9W2P4D2ZF94X3&hash=item2be57e4788:g:AkYAAeSwRydqUxAH&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAXAmWfnrQyQDIjqfq1WlmmOUYZRscPbce1f4nJz9zGJcoA3cAcQJwsV0dkZxyUCDewVqnhfFUfYIoEMbLa9sLSY8rl6BEZ2K8fG%2Fe9wMl3MYhvMa71VmUgiUIIBMIxDObFwcQ5WeWT%2BY3LJfU%2FE78alpS4QY%2FSZtE%2FHXrzYTGNsZcIH8QFvGrqyLRdj0%2FY9l8LKqWcXdNjVsHScPCl3v52VqtpYlIT3GVdCoAj3ZdHFu4zAPQR7Ehs%2FAPSDVa9YyXFoPJPDLvqSpQFSI4KMMOCJW4Q8wSG%2FOu%2BIkq7m1rd1XL5MMCyxKDzxzOl3q8%2FbnZINwRTBrktEaZd8nbToRpa%7Ctkp%3ABk9SR_KG_OGDaA",
+        "url": "https://www.ebay.com/itm/188533852040?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0SBANC9RBM35TTRC1P7MWGN&hash=item2be57e4788:g:AkYAAeSwRydqUxAH&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD5dmNVQUhtI0Ks5guUT0qVGKslcxp93lH11ZhkDBZO9jYBxxNLJLK5Xqoow4sM8BBMRompW7je3d2%2FHUCYem4EUk%2F7h1sdUNnjNGRSzKpimjZHSl3Ji3z1B0SyF6mJXS1N59ZGJWk3KWHGCMa%2FYBqB%2BynJ8gJZxGPxOtA9OZ%2BYvYEP%2FdwokqI%2FoDw%2F620wH32%2FNITVbdapt7UvMwiX%2BaMCdP04%2BIQrto9zVErbUOpguEmlB8sxDswbgheYZgZ9odNUL3jqe9W%2BrFiG934Azya2pqJb5jJjC9ojIC3ObSug9Q%3D%3D%7Ctkp%3ABk9SR7rWqquGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/AkYAAeSwRydqUxAH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1787211928516
+        "lastSeen": 1787557285116
       },
       {
         "itemId": "257510392142",
@@ -247,13 +275,13 @@
         "priceC": 500000,
         "shippingC": 0,
         "landedC": 500000,
-        "url": "https://www.ebay.com/itm/257510392142?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0F1Z0D7SY6FKA492NSPQD62&hash=item3bf4d0c14e:g:-asAAeSw3w1qCXsN&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCT1rSe2O65rui4Z2bDmwOXpx9EpJEU6YR9lxEo0GHtPlsAOO617BytlAViyzfRgV5aVeHK7ORsbEwdHLewJOwbTf9a%2FQbG5s4fILbtBJe%2BFGahyHKbe1c9LD22SD7V1TyKyfiGEgsADxi5DdE%2BrXmZ3M1K34ZsnYIbBwDH%2B9ROqj%2BFlCfgFO8LnXGGltN4XJ%2F1dWKF3mOMrpwL5VLamgMuKb0xOuabmNH0RUhOsGRDLzpSeVKh2rR1u1qvRqBA8Yd6k%2FoM7qEs5xL8LKE0NjMRWUDrOoSf7DvEk5216wh0mv1JnJKM40G5TElpPMUGLKdnttfw0cJFCdNZiOX9vCey%7Ctkp%3ABk9SR_SG_OGDaA",
+        "url": "https://www.ebay.com/itm/257510392142?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0SBANCAKYP6X5VF1QCV5QEY&hash=item3bf4d0c14e:g:-asAAeSw3w1qCXsN&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDXD3RSJXLSvT2j55lYx52tK205XggiKB8NDcSvKxZD6h924AWNkl9DrsuKvWoIFdvvh1NZoGKOcVJGv%2FN%2F7B8SrvIDBaWSWjf1OYOtDEFQst1bOxoQDoY9n%2FeQRDfYB0Log7GoJGhOyCCqApR8RqFBv4DtZicUzYSoV%2BWZcKybC2MdJKlGp1L4w4KaUVRUv8HxIfspXbFhXXPm9ovgNnkucILdVW8vfM7rAo5YGLeSseMFEAQX0gvGHdIWSZD%2B%2FGtddl1ix%2BQ518etH%2BWXWS9DgIMojD2PammXypdKfwkn8g%3D%3D%7Ctkp%3ABk9SR7zWqquGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-asAAeSw3w1qCXsN/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1787211928516
+        "lastSeen": 1787557285116
       },
       {
         "itemId": "178129761481",
@@ -261,17 +289,43 @@
         "priceC": 750000,
         "shippingC": 945,
         "landedC": 750945,
-        "url": "https://www.ebay.com/itm/178129761481?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0F1Z0D7FXPD76AP6TZRYC6T&hash=item29795c74c9:g:~BQAAeSwdJBqA9sp&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCl1yBFg4BgFyJrXotV9WiI8VAM09uSUuxlnD28PHscXb8diQcyu0VEaRHEN02ec4l5xPsPPoareGXWTbhHMdr5pwSF4K6dnrWAim2B46Kak1TlLyVzXT6FLkvowq25%2BojPxo%2F8ZGSe54BqJb5QRR21%2BcneRGaC%2FTfG%2FlQyohk26gLE7JNzADvACB1Z3xQSCnYtsyI1qOypOuOeaKVg%2FPmW9fGz5%2BXnog%2B4TrW5bN4rXN4Z5WstHzqkXuYLSmT%2BMpoxwcasbAJ21G75byb9kCfv9eqt0JMgP1awjNmzx%2FaZ32guCQxsgDLrb0KPNKGCrXB%2FS0kTBE0h6yKGiEzyxRcp%7Ctkp%3ABk9SR_SG_OGDaA",
+        "url": "https://www.ebay.com/itm/178129761481?_skw=%28light%2Cjolteon%29+%2848%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363229&itmmeta=01M0SBANCA1MTN766PF1J668KP&hash=item29795c74c9:g:~BQAAeSwdJBqA9sp&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCl1yBFg4BgFyJrXotV9WiI8VAM09uSUuxlnD28PHscXb8diQcyu0VEaRHEN02ec4l5xPsPPoareGXWTbhHMdr5pwSF4K6dnrWAim2B46Kak1TlLyVzXT6FLkvowq25%2BojQbimRTQ5wJiQYCzThqGpDUXmj1CtyUNBcEhSICyaXaaS2kyAsH%2FExxO1LGFs8m7%2FtQivrTy46QUyNOaDMSvBa3RqmadYss%2FH%2B%2FruS3SKiDtEFbHF%2F1QHWDr4PAIbppIWf32Lu501uW5zqRFtodSt6mpPzqAr74gfVUCE%2F0b%2Fwf%2FU2dNVuPF2OvRfygD1BplWfrm1Chmf2WbaMOa1RTCKP%7Ctkp%3ABk9SR77WqquGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~BQAAeSwdJBqA9sp/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787211928516,
-        "lastSeen": 1787211928516
+        "lastSeen": 1787557285116
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3833184,
+          "saleDate": "2026-08-23",
+          "priceC": 41700,
+          "title": "Pokémon Neo Destiny Light Jolteon Card 48/105 1st Edition TAG 9 48/105",
+          "url": "https://www.ebay.com/itm/178411581304?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "TAG",
+          "gradingGrade": 9,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2220423,
+          "saleDate": "2026-08-20",
+          "priceC": 202500,
+          "title": "Pokémon - Light Jolteon Neo Destiny 1st Edition #48 PSA 10 #48",
+          "url": "https://www.ebay.com/itm/178401251258?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 10,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 308807,
           "saleDate": "2026-08-17",
@@ -1805,32 +1859,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 308791,
-          "saleDate": "2025-08-10",
-          "priceC": 75000,
-          "title": "Pokemon Light Jolteon Neo Destiny 1st Edition #48 PSA 10 Gem Mint",
-          "url": "https://www.ebay.com/itm/286742537338?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 308803,
-          "saleDate": "2025-08-01",
-          "priceC": 29000,
-          "title": "Light Jolteon Neo Destiny 1st Edition 48/105 CGC 10 GEM MINT Pokemon !!! 48/105",
-          "url": "https://www.ebay.com/itm/167672393590?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1913,11 +1941,16 @@
           "month": "2026-07",
           "medianC": 221250,
           "count": 2
+        },
+        {
+          "month": "2026-08",
+          "medianC": 202500,
+          "count": 1
         }
       ],
-      "englishSaleCount": 151,
+      "englishSaleCount": 153,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787211668351
+      "lastCapturedAt": 1787557034173
     }
   }
 }

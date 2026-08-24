@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 5853,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/e87a36a0e4384e91810b9734189257f340fe7cffbb50d1fb30ff1e6566021ba5/1600.jpg",
       "popularityScore": 84,
       "market": {
-        "ungradedC": 87344,
-        "grade9C": 445273,
-        "grade95C": 489800,
+        "ungradedC": 104861,
+        "grade9C": 447142,
+        "grade95C": 491900,
         "cgc10C": 304300,
         "cgc10PristineC": 375000,
         "psa10C": 3108600,
         "bgs10C": 4041200,
         "psa9Pop": 451,
         "psa10Pop": 92,
-        "cgc10Pop": 0,
+        "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787218772670
+        "fetchedAt": 1787561176200
       },
       "bestCgc10": {
         "itemId": "389160397039",
@@ -37,27 +37,27 @@
         "priceC": 1000000,
         "shippingC": 0,
         "landedC": 1000000,
-        "url": "https://www.ebay.com/itm/389160397039?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=12043364972&itmmeta=01M0F8VPZPJ4342CM7GYDBS15X&hash=item5a9bc468ef:g:cpgAAeSwPDxo-YVW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAiQd6igFGmS1WHhhreBJgwePxGQjiVvOgXPMb%2FWC7L4agjHGJdCBijyayY%2BgtV4zAo7BTykdiDix2cCjRvUS2vG21gqyBM1fBJG%2FmlleckB7B8yuy3%2FktFmLYr5sIlAlRHALJvcCoeYqz6CLlRO3PSXqG17k5j5I4AQJDYlxODWre%2BNst2HJEgY%2B1IS6HHOTFyFHWKrsujsgNlfOhzJ1me8aY3X%2Fxrnn8qjtLXGEC91%2B3IJRRVtPwn4Vss3ZgAKlyaY2TRWB%2Fp0XHR1JlCDxekVjeawl6erzTQyxzVRO%2BgGp0N9aPXOWe7qxVm2Cs9JvTkIEhsDyJwT1edwbB1qfW3%7Ctkp%3ABk9SR5rw7uiDaA",
+        "url": "https://www.ebay.com/itm/389160397039?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=12043364972&itmmeta=01M0SF88WWADVS0AFQ5146KRWD&hash=item5a9bc468ef:g:cpgAAeSwPDxo-YVW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAiQd6igFGmS1WHhhreBJgwePxGQjiVvOgXPMb%2FWC7L4agjHGJdCBijyayY%2BgtV4zAo7BTykdiDix2cCjRvUS2vG21gqyBM1fBJG%2FmlleckB7B8yuy3%2FktFmLYr5sIlAlSJPQGkSLR%2FL5c1lVjuE5ikWnpY8WAVtUXoxb26iaOHcf8uBW9urc52vRmJO2zQWXbiQ3df4To%2BJkx0%2B%2FvZpYo6TQ%2B21yvolOjvTQVA1YP%2FmLyFvk4I8y0KTSoKqliYIy9Culc11FAVzFCnZ3hB%2FUFtFiuL5aUl7ctgQQ4en7QkOPgDQhc21GYOr8BoPn6LU3TqoqMVtIgXejlD8TZDDvwm%7Ctkp%3ABk9SR9qOoa-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/cpgAAeSwPDxo-YVW/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787219014627,
-        "lastSeen": 1787219014627
+        "lastSeen": 1787561309840
       },
       "bestPsa10": {
-        "itemId": "366604709678",
+        "itemId": "366619888632",
         "title": "2007 POKEMON EX POWER KEEPERS GOLD STAR #101 JOLTEON-HOLO PSA 10Opens in a new window or tab",
         "priceC": 200000,
         "shippingC": 597,
         "landedC": 200597,
-        "url": "https://www.ebay.com/itm/366604709678?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=12043364972&itmmeta=01M0F8VPZK1EFMT86M7EVXB9Q4&hash=item555b57ef2e:g:R60AAeSw5rNqUJON&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB0CV7hkAPXTNERPIiWonXm0dHt45zXRMvm2sbk2MpOiLwzEE0PQ0MV%2FQB8ZzBzJOBWlMlgsIgP3b2RHBYhes81%2Fwa7LO%2Bfbqhf1L0Nd62Rn8h422mFQVfgWm8tlyECbQMk8oWfkdPTSjFqmHrAcDoMYaxlnSxtOKcZAuwJQES5PbDGBaUAOM0wvdoIW0thivqYuwU79hAPFIiG%2FMzqBWfYFb61pvmu8mn5LjfsH4n61Ppv5m%2BPRK2My1vanmqPDeseCKfwg%2Fs5QaxexcKals9NljUbQ%2BftmTQ7M44GZYHn%2FEtlP9v3sXYqfasWbrrT%2Fo7FeGLeEsUIKukRJEEhSwHz%7Ctkp%3ABk9SR5Tw7uiDaA",
+        "url": "https://www.ebay.com/itm/366619888632?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&itmmeta=01M0SF83YN8TKR32X3P4DXHDWG&hash=item555c3f8bf8:g:R60AAeSw5rNqUJON&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBkuzZOpsV5mtRJLKmPFUrD1d91zQfptlAw5wTOMTcImBR1AlDPaKkVuNJ3Bgm5Vle28rona6USN7SI8G4QhKoEld7A20suw848%2B%2Fz5WjNwBW1n0u9WTPKYr3CGpZ0S8DRI3OH4JTYdGpB2BwzxV5rNFOx13UB4EQHzKvPYuW34IdWkBikRf0%2FTFt5hsP40moY%2FhE1QTUM%2BAXRYDU3yopVbZ0zuOvyoXlfrFn%2BWArfOcb1a31jbJB%2Bp63Qm1yIrNas8reCle7CW%2F7Vt%2F6%2BUa72NPK8u765NQZtj%2B0mwenIgVw%3D%3D%7Ctkp%3ABk9SR8y_oK-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/R60AAeSw5rNqUJON/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
-        "firstSeen": 1787219014627,
-        "lastSeen": 1787219014627
+        "firstSeen": 1787388670401,
+        "lastSeen": 1787561309840
       },
       "bestPsa9": {
         "itemId": "298502782393",
@@ -65,13 +65,13 @@
         "priceC": 109999,
         "shippingC": 599,
         "landedC": 110598,
-        "url": "https://www.ebay.com/itm/298502782393?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=11043365495&itmmeta=01M0F8VJS7A1KFVF5PBK0TSW6N&hash=item458026fdb9:g:aFYAAeSwEIpqVWIg&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDRKgeGUK51EZVtV5a%2F6TXcUeBZvC%2BeovGj0BxRgyEs3%2F%2B84D3DmrnpycpC%2FNSMQaAmv0ovmq%2Fc%2Fjigo%2BdtCUK%2BZ9siyireDN9stpGURUsgm94s23vWcRzslDi6w09uZ0B%2BVhkRQruhiOSmpPYdjs%2FqAjRyQAVWqbrHBrKiWf64EUxg3Q0qJTZkM3koCJ7IEGQgWotIk8cr6arxfwwIxDRkMHvWapPKbWDKV9rikA1ogcHqzyeFyMb8I4V8IDqE6GYTwu1vw%2FJAB%2B5BATWbJhmUMDp8xshIPzA1PlE7Ja%2FC0irNo0%2BC%2BxAgEUmbA6E747aYDe1vbxBGx%2BmiSJIR3vfN%7Ctkp%3ABk9SR4Kt7uiDaA",
+        "url": "https://www.ebay.com/itm/298502782393?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=11043365495&itmmeta=01M0SF83YMEVZFNGPXK2BCB5W0&hash=item458026fdb9:g:aFYAAeSwEIpqVWIg&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCor2rp0q519xzzznff%2F17jtn07NSoJNQWQdMXlo04GxAUfuv6xY4Mrk2DBP2c7YEol5%2BOSZssm%2BKOoMrX%2BZqkf%2FFFd8wdIqjLHwx9sGN3os7Drko2iMcmnJ1Pg910OSqbWVKPXqLcWdRBPiASvBsmJ6o2qUd6fEK9TcbVdz4bZW5TDVnqg0ZvbjZPdg7IOcvJ3F7QJ2ODfVFrcQPS0tVxnRCHlQO0Rmvyn3OuczemHFxsV0%2BwhmO7ypyRtiKUlFPQXgC%2Bj%2F6aOkl%2BED6gqsaiiy%2FiQXe3PEJO%2BplJYplgMgA%3D%3D%7Ctkp%3ABk9SR8q_oK-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/aFYAAeSwEIpqVWIg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787219014627,
-        "lastSeen": 1787219014627
+        "lastSeen": 1787561309840
       },
       "counts": {
         "cgc10Bin": 2,
@@ -97,22 +97,22 @@
         "ratio": 2.5907158929910827
       },
       "firstOpportunityAt": 1787219014627,
-      "updatedAt": 1787219014627
+      "updatedAt": 1787561309840
     },
     "prices": {
       "variantId": 5853,
-      "ungradedC": 87344,
-      "grade9C": 445273,
-      "grade95C": 489800,
+      "ungradedC": 104861,
+      "grade9C": 447142,
+      "grade95C": 491900,
       "cgc10C": 304300,
       "cgc10PristineC": 375000,
       "psa10C": 3108600,
       "psa9Pop": 451,
       "psa10Pop": 92,
-      "cgc10Pop": 0,
+      "cgc10Pop": null,
       "bgs10C": 4041200,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787218772670
+      "fetchedAt": 1787561176200
     },
     "listings": [
       {
@@ -121,27 +121,27 @@
         "priceC": 109999,
         "shippingC": 599,
         "landedC": 110598,
-        "url": "https://www.ebay.com/itm/298502782393?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=11043365495&itmmeta=01M0F8VJS7A1KFVF5PBK0TSW6N&hash=item458026fdb9:g:aFYAAeSwEIpqVWIg&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDRKgeGUK51EZVtV5a%2F6TXcUeBZvC%2BeovGj0BxRgyEs3%2F%2B84D3DmrnpycpC%2FNSMQaAmv0ovmq%2Fc%2Fjigo%2BdtCUK%2BZ9siyireDN9stpGURUsgm94s23vWcRzslDi6w09uZ0B%2BVhkRQruhiOSmpPYdjs%2FqAjRyQAVWqbrHBrKiWf64EUxg3Q0qJTZkM3koCJ7IEGQgWotIk8cr6arxfwwIxDRkMHvWapPKbWDKV9rikA1ogcHqzyeFyMb8I4V8IDqE6GYTwu1vw%2FJAB%2B5BATWbJhmUMDp8xshIPzA1PlE7Ja%2FC0irNo0%2BC%2BxAgEUmbA6E747aYDe1vbxBGx%2BmiSJIR3vfN%7Ctkp%3ABk9SR4Kt7uiDaA",
+        "url": "https://www.ebay.com/itm/298502782393?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=11043365495&itmmeta=01M0SF83YMEVZFNGPXK2BCB5W0&hash=item458026fdb9:g:aFYAAeSwEIpqVWIg&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCor2rp0q519xzzznff%2F17jtn07NSoJNQWQdMXlo04GxAUfuv6xY4Mrk2DBP2c7YEol5%2BOSZssm%2BKOoMrX%2BZqkf%2FFFd8wdIqjLHwx9sGN3os7Drko2iMcmnJ1Pg910OSqbWVKPXqLcWdRBPiASvBsmJ6o2qUd6fEK9TcbVdz4bZW5TDVnqg0ZvbjZPdg7IOcvJ3F7QJ2ODfVFrcQPS0tVxnRCHlQO0Rmvyn3OuczemHFxsV0%2BwhmO7ypyRtiKUlFPQXgC%2Bj%2F6aOkl%2BED6gqsaiiy%2FiQXe3PEJO%2BplJYplgMgA%3D%3D%7Ctkp%3ABk9SR8q_oK-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/aFYAAeSwEIpqVWIg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787219014627,
-        "lastSeen": 1787219014627
+        "lastSeen": 1787561309840
       },
       {
-        "itemId": "366604709678",
+        "itemId": "366619888632",
         "title": "2007 POKEMON EX POWER KEEPERS GOLD STAR #101 JOLTEON-HOLO PSA 10Opens in a new window or tab",
         "priceC": 200000,
         "shippingC": 597,
         "landedC": 200597,
-        "url": "https://www.ebay.com/itm/366604709678?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=12043364972&itmmeta=01M0F8VPZK1EFMT86M7EVXB9Q4&hash=item555b57ef2e:g:R60AAeSw5rNqUJON&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB0CV7hkAPXTNERPIiWonXm0dHt45zXRMvm2sbk2MpOiLwzEE0PQ0MV%2FQB8ZzBzJOBWlMlgsIgP3b2RHBYhes81%2Fwa7LO%2Bfbqhf1L0Nd62Rn8h422mFQVfgWm8tlyECbQMk8oWfkdPTSjFqmHrAcDoMYaxlnSxtOKcZAuwJQES5PbDGBaUAOM0wvdoIW0thivqYuwU79hAPFIiG%2FMzqBWfYFb61pvmu8mn5LjfsH4n61Ppv5m%2BPRK2My1vanmqPDeseCKfwg%2Fs5QaxexcKals9NljUbQ%2BftmTQ7M44GZYHn%2FEtlP9v3sXYqfasWbrrT%2Fo7FeGLeEsUIKukRJEEhSwHz%7Ctkp%3ABk9SR5Tw7uiDaA",
+        "url": "https://www.ebay.com/itm/366619888632?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&itmmeta=01M0SF83YN8TKR32X3P4DXHDWG&hash=item555c3f8bf8:g:R60AAeSw5rNqUJON&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBkuzZOpsV5mtRJLKmPFUrD1d91zQfptlAw5wTOMTcImBR1AlDPaKkVuNJ3Bgm5Vle28rona6USN7SI8G4QhKoEld7A20suw848%2B%2Fz5WjNwBW1n0u9WTPKYr3CGpZ0S8DRI3OH4JTYdGpB2BwzxV5rNFOx13UB4EQHzKvPYuW34IdWkBikRf0%2FTFt5hsP40moY%2FhE1QTUM%2BAXRYDU3yopVbZ0zuOvyoXlfrFn%2BWArfOcb1a31jbJB%2Bp63Qm1yIrNas8reCle7CW%2F7Vt%2F6%2BUa72NPK8u765NQZtj%2B0mwenIgVw%3D%3D%7Ctkp%3ABk9SR8y_oK-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/R60AAeSw5rNqUJON/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
-        "firstSeen": 1787219014627,
-        "lastSeen": 1787219014627
+        "firstSeen": 1787388670401,
+        "lastSeen": 1787561309840
       },
       {
         "itemId": "800456365564",
@@ -149,13 +149,13 @@
         "priceC": 899999,
         "shippingC": 1355,
         "landedC": 901354,
-        "url": "https://www.ebay.com/itm/800456365564?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=5043380978&itmmeta=01M0F8VPZPA0VTJN9QFAC9MSW5&hash=itemba5eead5fc:g:bUgAAeSwydZqcQwV&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDbBNbBcwi6lLR7ji0R1x33ONfRtCJbBjlEdnfOsuysz%2BnCMUjNhXIvPjcflcTDPFrm3nHvcJVXIb%2FK%2FP5PKEihF5zH9cC6eJYlf3PwaWurj%2FTm3P51pG8IQJPtwIrNoUzpeKZxX9IxgOdSnu6veOK0nv7QqcTwYH%2FLQANHXlkiGGDEGYTb2EYluzgg7Yq4%2Bjc9rnaqlg3Kk3o8HYQF2cK0F8snjTadAfQ7MCoADk46KZdXNzTyyCWg3tjImmbNXBIF4xLzm8rt51JWK8fbzYfyLKJTVUsLvl3%2Fa5xGPGamsA%3D%3D%7Ctkp%3ABk9SR5rw7uiDaA",
+        "url": "https://www.ebay.com/itm/800456365564?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=5043380978&itmmeta=01M0SF88WW3E4BJJZENGNYGK07&hash=itemba5eead5fc:g:bUgAAeSwydZqcQwV&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDOADpFrDX0E51R37%2FEsP1mKui6wTl1vxG0SO3DzyVy4zORIXe0optyCNEb9EfImPJLkFwrKBFGAQgpxqNstO%2BeX7ZvoL0OwYALgydGKI4K%2FPgBvXMv6t25iB7oEsiB%2FXWzx3EmsjpKvpkYqBu91p9yoWsXli4zahMv8%2BBtJivug7K8pYxVtu8eSKKHY53AifsGRhD6LmGVx9xoKtAHdYrZSIhupoeVMNC5VOGnXwTEMhWFnEgJm6xI5jnKYE4YodWQkaxakyDS5DqCWscxhKvdcQKyhZw92%2BxozMdT3AuOAXUetVxnvTB8zQOOHRjG%2B%2Fk6qzcT%2BwjII%2BC350As4Yna%7Ctkp%3ABk9SR9iOoa-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/bUgAAeSwydZqcQwV/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787219014627,
-        "lastSeen": 1787219014627
+        "lastSeen": 1787561309840
       },
       {
         "itemId": "389160397039",
@@ -163,13 +163,13 @@
         "priceC": 1000000,
         "shippingC": 0,
         "landedC": 1000000,
-        "url": "https://www.ebay.com/itm/389160397039?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=12043364972&itmmeta=01M0F8VPZPJ4342CM7GYDBS15X&hash=item5a9bc468ef:g:cpgAAeSwPDxo-YVW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAiQd6igFGmS1WHhhreBJgwePxGQjiVvOgXPMb%2FWC7L4agjHGJdCBijyayY%2BgtV4zAo7BTykdiDix2cCjRvUS2vG21gqyBM1fBJG%2FmlleckB7B8yuy3%2FktFmLYr5sIlAlRHALJvcCoeYqz6CLlRO3PSXqG17k5j5I4AQJDYlxODWre%2BNst2HJEgY%2B1IS6HHOTFyFHWKrsujsgNlfOhzJ1me8aY3X%2Fxrnn8qjtLXGEC91%2B3IJRRVtPwn4Vss3ZgAKlyaY2TRWB%2Fp0XHR1JlCDxekVjeawl6erzTQyxzVRO%2BgGp0N9aPXOWe7qxVm2Cs9JvTkIEhsDyJwT1edwbB1qfW3%7Ctkp%3ABk9SR5rw7uiDaA",
+        "url": "https://www.ebay.com/itm/389160397039?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=12043364972&itmmeta=01M0SF88WWADVS0AFQ5146KRWD&hash=item5a9bc468ef:g:cpgAAeSwPDxo-YVW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAiQd6igFGmS1WHhhreBJgwePxGQjiVvOgXPMb%2FWC7L4agjHGJdCBijyayY%2BgtV4zAo7BTykdiDix2cCjRvUS2vG21gqyBM1fBJG%2FmlleckB7B8yuy3%2FktFmLYr5sIlAlSJPQGkSLR%2FL5c1lVjuE5ikWnpY8WAVtUXoxb26iaOHcf8uBW9urc52vRmJO2zQWXbiQ3df4To%2BJkx0%2B%2FvZpYo6TQ%2B21yvolOjvTQVA1YP%2FmLyFvk4I8y0KTSoKqliYIy9Culc11FAVzFCnZ3hB%2FUFtFiuL5aUl7ctgQQ4en7QkOPgDQhc21GYOr8BoPn6LU3TqoqMVtIgXejlD8TZDDvwm%7Ctkp%3ABk9SR9qOoa-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/cpgAAeSwPDxo-YVW/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787219014627,
-        "lastSeen": 1787219014627
+        "lastSeen": 1787561309840
       },
       {
         "itemId": "375027612886",
@@ -177,13 +177,13 @@
         "priceC": 2500000,
         "shippingC": 0,
         "landedC": 2500000,
-        "url": "https://www.ebay.com/itm/375027612886?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=12043364972&itmmeta=01M0F8VPZQ7QEAWNRBABYECZB4&hash=item5751633cd6:g:RGoAAOSwWqZlQsx3&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDX9vS2U1Y3gJ3s15EFHpF61mWg6ryZ%2FsBah%2BSvcTyc0OhZX12BfyBjl6L6UI5lOUBL0on%2BAvWLjF1AyynAe6NNNclAURDw5Dw87Zz8CuAntqNRT4UgNWSKR2wn%2Bs44mcl3YnDna8ozw3GnwZ9EoezhrMvAXi2PqDhQqeJSSp%2BWNmauR14e5OdLVTWY1JqES7eck9p1mcZ8xDd3LhwkPJSTGvkwVRRzZpnlhGRG7iOyORlRXmH1u7vu53F6Kr46grqOazHmrIeHfmLlIdwocS%2FPyqVvZGupDgfYFmEe5tBtkA%3D%3D%7Ctkp%3ABk9SR5zw7uiDaA",
+        "url": "https://www.ebay.com/itm/375027612886?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=12043364972&itmmeta=01M0SF88WWVGVZBYES8HTZB8X5&hash=item5751633cd6:g:RGoAAOSwWqZlQsx3&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAbZFDPFtbJEOFw32UTgRb7itAKcdcXujUFiMGQFsM2X%2FnLzsCtgva7fuBCEoH%2BaQPO7xlGYl%2F9WDzsT11FweLw7%2Bm%2FgvgaTy9zR%2FZtKZflNU2RE0%2FplNOWNN%2BAt394SQQwGyekEAFgS3EsbeBpTT2%2FubStE31QIGjfh2bsiaPLnMxBpORrPLHNvxuSXbj3Kicg3KtuFFJcfMvo5OA4jDXgqkL5hogBrlmq6aREk%2FfaSCdutn6sh9EK1s0A6gV0yriaNdhCC1k6%2BNA7ngBiqbLbpnnh7vqmk1aMCp80XfdMvmeiKwlE1AxF7%2BqEBNW%2FSy39uQSlC5KADYn%2F63jTT7ok%7Ctkp%3ABk9SR96Ooa-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/RGoAAOSwWqZlQsx3/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787219014627,
-        "lastSeen": 1787219014627
+        "lastSeen": 1787561309840
       },
       {
         "itemId": "318000533753",
@@ -191,13 +191,13 @@
         "priceC": 10000000,
         "shippingC": 0,
         "landedC": 10000000,
-        "url": "https://www.ebay.com/itm/318000533753?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=12043364972&itmmeta=01M0F8VPZR8FJNNN80PZMDAK91&hash=item4a0a4f10f9:g:xbEAAeSw6lxptLhn&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC4HVrcgRtXo0aWwGBIRoOoKs9qw9KXByBxo5ZoviXbIWRiLYDFGbSA13qUsMBuTyqy0RhRmZdRCdbPeAc47FicujARRuSkogh2H6%2BhqkeXBaI%2BxPIjJxhXjNrfG8%2FoCp3qh2EE68hVNy1UyZZY8mJX7Dy3sPTwRgvngqOkTXwPZICPl9ho%2BW4WdS%2FDCW9jEon77YUWT%2BE4gAAbcgxclOtgAMna1sTFTHeW%2BWsdyNoA4YuFAQtwyHFYVY8pVkOVjZoOxlAGBq%2BWKedGC5HdLS4NZSPeSeMw4BcD2kWNnSkG%2FfrpQ6YzRjrjrVkGBgtzKEeFlLxkorZUybd4EZWqf3sL%7Ctkp%3ABk9SR57w7uiDaA",
+        "url": "https://www.ebay.com/itm/318000533753?_skw=%28jolteon%2Cgold%2Cstar%29+%28101%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=12043364972&itmmeta=01M0SF88WX93B77VGWAE6YCRA4&hash=item4a0a4f10f9:g:xbEAAeSw6lxptLhn&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2BH0c1tauuU%2Fzj7nGiMOkVBRWdbDig9pPQWYNF1TjxzfaFfkDXCxCnFJWSFO%2F9opuf8b5ps%2BzwWMubHkRj0eXiDZpkg1%2FDiL8MuqkzrTRkZaGY6iG0A5L5pMhOTmjz3wMDRssTN%2BSWZXom6PdhGq9%2BmZtFR38R%2FqGJ8aebpK3Q%2BDgFuVQMBkJJe9TfG%2BNcnTiu86bSFtUHsq16MCGhTxScTgbMjDF7JXzs1nFoqedUPEYdNAEAOQGIkaVwuGnzeawnJAffgnBEqwv5Xbv7V4hjQu4wWIhWr4sj27u353wR6g%3D%3D%7Ctkp%3ABk9SR-COoa-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/xbEAAeSw6lxptLhn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787219014627,
-        "lastSeen": 1787219014627
+        "lastSeen": 1787561309840
       }
     ],
     "marketHistory": {
@@ -1840,9 +1840,9 @@
           "count": 3
         }
       ],
-      "englishSaleCount": 315,
+      "englishSaleCount": 316,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787218770499
+      "lastCapturedAt": 1787561173724
     }
   }
 }

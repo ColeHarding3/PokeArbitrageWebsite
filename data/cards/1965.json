@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 1965,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/ab987635273ed18db73a257513854a0b956ef425c2669817b616ddcb6574a296/1600.jpg",
       "popularityScore": 95,
       "market": {
-        "ungradedC": 71401,
-        "grade9C": 434652,
+        "ungradedC": 71775,
+        "grade9C": 433576,
         "grade95C": 499900,
         "cgc10C": 589900,
-        "cgc10PristineC": 1061800,
+        "cgc10PristineC": 667950,
         "psa10C": 7210000,
         "bgs10C": 9373000,
         "psa9Pop": 305,
         "psa10Pop": 54,
         "cgc10Pop": 36,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787211943061
+        "fetchedAt": 1787557303411
       },
       "bestCgc10": {
         "itemId": "377426386916",
@@ -37,13 +37,13 @@
         "priceC": 1696595,
         "shippingC": 0,
         "landedC": 1696595,
-        "url": "https://www.ebay.com/itm/377426386916?_skw=%28mewtwo%29+%2829%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=3043380397&itmmeta=01M0FGC13QE1SBV6E6SQK19P6Y&hash=item57e05d9fe4:g:td0AAeSwau1qgyrF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCm459dpaMRRjyQp0BE7c%2Bn1Hi9EeEEogB5SrAkveXT9Rt%2BJht3oamznYKYXpHjIRCBofnsb71WPFJ0GdcflKA7e%2FUUxjUDnrKPySgSIw1mb%2FuaKdBdsMaRq5gHf4k9%2F8xgn5ew%2BShYgcYOzgdHXfPd0K8jtnjKum%2B3pezcP3S%2By3OmFidEQL0eT%2F3TwJBoLIxoNQj5mC92EZSxru7oSP%2FnYNquAzOdP4UpPorTOute2noU%2Fhbdlv%2FgNILHDaZAbjUHu%2BtUf8dVfRC03s4GGysqOxqv99fBFjUBXCijOpJlnA%3D%3D%7Ctkp%3ABk9SR4SSsPCDaA",
+        "url": "https://www.ebay.com/itm/377426386916?_skw=%28mewtwo%29+%2829%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=3043380397&itmmeta=01M0SK9YM8WDB0FQ66EBZRVS13&hash=item57e05d9fe4:g:td0AAeSwau1qgyrF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCm459dpaMRRjyQp0BE7c%2Bn1Hi9EeEEogB5SrAkveXT9dN2qOwTT%2F79fcxvQjNZp%2B3hUIbyah%2F%2Bq8m0W23Z%2BtK%2BvhIWkLSCADg1rOUQmRhCjHUuhl7N8qwqEVKT77HaBGp%2Fq19bsqzhTHxMP0SdS01h3TGvoZTNnh5W4%2BD3nwHMegb6cQzZHDU4IygH9xxUXKrTEKFcC69DLCz99qZR%2FbQx9BPevkLi1GwFyk%2F31GBU23%2BqRRrERInU0VIc%2BwLDnlQJ%2FleL3q%2BxSFN7YdCjaju77uGHzGo2y2cevuxq2SbI5w%3D%3D%7Ctkp%3ABk9SR6zqp7OGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/td0AAeSwau1qgyrF/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       "bestPsa10": {
         "itemId": "397718777638",
@@ -51,27 +51,27 @@
         "priceC": 7500000,
         "shippingC": 450,
         "landedC": 7500450,
-        "url": "https://www.ebay.com/itm/397718777638?_skw=%28mewtwo%29+%2829%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=10043375650&itmmeta=01M0FGC13QPH8ESWWR2HX7RN8E&hash=item5c99e2ef26:g:rwYAAeSwPfRpt0AJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAxhAhvWa%2FhPHz%2FJgZFpHyns4rpPlBFQk%2FPJ4HezkYuflcRnf%2F3CwS6C54I3HIu%2FSI72MKqYYnwpQ3UsSg2px4QvfPxFe2f1QG5JwERzwEw0O3TJp0%2FBoJspsQ6OStbcM0F7gXIa4eJF40%2F3No%2FZ0xIdreDIRDT96bpB2XDF%2FxQSG%2BlgnKEJGlLTMjs6nuNxcyE9bx0iGyJIA6zde3MN4PWDIgsfKNZjGFfpJWG88goU7v1XoANwR%2FsXfaAH%2BwiCz4jZ6CvLihdwBxV3ItZhgvYUfSum0stbQKJxws4%2BRYI5g%3D%3D%7Ctkp%3ABk9SR4SSsPCDaA",
+        "url": "https://www.ebay.com/itm/397718777638?_skw=%28mewtwo%29+%2829%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=10043375650&itmmeta=01M0SK9YM84DD0G4AEB0D747E0&hash=item5c99e2ef26:g:rwYAAeSwPfRpt0AJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAxhAhvWa%2FhPHz%2FJgZFpHyns4rpPlBFQk%2FPJ4HezkYufgSO%2FMfxthhgIZlvHXx3l72QG4XHeMAhxYjNB55s56s61RqyGaRerTHIkDaCaYugX%2Bdt7868agnN7IvI%2FSGBvWMMzqBJjGZeqfVL%2F78TnXCL7kXjJyCfef1N8jy9L1qu0QuagpvGwEtof%2FK%2FP9mtk4YOracF92F8qT2zvmKxNW%2FZKYY8H32ylqngWDQnKa4j5RKGLDEm8j2hR4eLx%2FfZVz6098KeZBrcO8%2B8zx%2FCT3itDg3VJPEW0Xa%2B%2BWiMN%2B8QVA%3D%3D%7Ctkp%3ABk9SR6zqp7OGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/rwYAAeSwPfRpt0AJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       "bestPsa9": {
-        "itemId": "318634461231",
-        "title": "2002 POKEMON LEGENDARY COLLECTION #29 MEWTWO-REVERSE FOIL PSA 9 New Cert!Opens in a new window or tab",
-        "priceC": 749999,
-        "shippingC": 815,
-        "landedC": 750814,
-        "url": "https://www.ebay.com/itm/318634461231?_skw=%28mewtwo%29+%2829%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=3043380397&itmmeta=01M0FGC13Q60F0B9RABWSDCQB9&hash=item4a3018082f:g:bGEAAeSwRo9qZNWU&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBEi0lpAK44ewgOOXDfHogQdGZVq93M9Hmn8X2DaOaOIEsB6uc2XPE1z7mlQstk2lYnWYEgCRWZIEI7ZBeck3aDq1ysmqUjfZxzRSWYkPxi6iuB5vxAFWzC3il4vDJnZdYGI9xMIlC1GZiU0s1PG6WRALdjquAEzO1rOzhsSu%2B%2Ffd5D1ATBdmVGKIBd9%2BfZ%2B456y1BBtcI7tEY2onZeP2sNQmp2NmMNgV2nlSKqdnqcjMVsst8elk8aq1iJmQviZaNAUa1EVQvwxpRl0G2a6CRzAHJOGlCpN%2FQAg9eHvkoBnA%3D%3D%7Ctkp%3ABk9SR4SSsPCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/bGEAAeSwRo9qZNWU/s-l500.webp",
+        "itemId": "158217209238",
+        "title": "PSA 9 Mewtwo 29/110 Legendary Coll. Reverse HoloOpens in a new window or tab",
+        "priceC": 1499999,
+        "shippingC": 0,
+        "landedC": 1499999,
+        "url": "https://www.ebay.com/itm/158217209238?_skw=%28mewtwo%29+%2829%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=3043380397&itmmeta=01M0SK9R0E79MGX8AJ7C0PQ4RJ&hash=item24d67b0596:g:0lUAAeSwS3Bqi7Ee&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDXLmFuRtvwdoUOib%2B3wUU6w7Tj7JIpCnbhdkVR5ka6zruw5yqNCW27AZq21wRN6GbIEl%2BNZRdJlEpfTdVyAl60336i8ijHGWK5fKj%2B6nqJMy%2BMQ2buqAAiOO9Do3qPmqE29GkECj6DuHW%2BHx%2B20Yn%2FFuFolX%2BsdFKyOlIGSpFXKhD5lFF7M7Jf9AIwqqh2tKQnP6EHc9aI02g0slDAd7YsmvI34kUa9UINF5cb48TOxOsnG8ck05oJXp2P27uYpTfbZ0VG2rslybl0VYu92P0NhAhXIUFEVZR2YVCQZgsicIAhv6F6Vqkf0gLo8OHokvv%2BIeQmO9AF2--c3g4BrtPt%7Ctkp%3ABk9SR8yAp7OGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/0lUAAeSwS3Bqi7Ee/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
-        "firstSeen": 1787050911353,
-        "lastSeen": 1787227384326
+        "firstSeen": 1787557485243,
+        "lastSeen": 1787565789327
       },
       "counts": {
         "cgc10Bin": 1,
@@ -79,7 +79,7 @@
         "pristine10": 0,
         "psa10Bin": 2,
         "psa10Auction": 0,
-        "psa9Bin": 1
+        "psa9Bin": 2
       },
       "ratio": {
         "ok": true,
@@ -97,22 +97,22 @@
         "ratio": 3.611328853816313
       },
       "firstOpportunityAt": 1787050911353,
-      "updatedAt": 1787227384326
+      "updatedAt": 1787565789327
     },
     "prices": {
       "variantId": 1965,
-      "ungradedC": 71401,
-      "grade9C": 434652,
+      "ungradedC": 71775,
+      "grade9C": 433576,
       "grade95C": 499900,
       "cgc10C": 589900,
-      "cgc10PristineC": 1061800,
+      "cgc10PristineC": 667950,
       "psa10C": 7210000,
       "psa9Pop": 305,
       "psa10Pop": 54,
       "cgc10Pop": 36,
       "bgs10C": 9373000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787211943061
+      "fetchedAt": 1787557303411
     },
     "listings": [
       {
@@ -125,9 +125,23 @@
         "imageUrl": "https://i.ebayimg.com/images/g/bGEAAeSwRo9qZNWU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787050911353,
         "lastSeen": 1787227384326
+      },
+      {
+        "itemId": "158217209238",
+        "title": "PSA 9 Mewtwo 29/110 Legendary Coll. Reverse HoloOpens in a new window or tab",
+        "priceC": 1499999,
+        "shippingC": 0,
+        "landedC": 1499999,
+        "url": "https://www.ebay.com/itm/158217209238?_skw=%28mewtwo%29+%2829%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=3043380397&itmmeta=01M0SK9R0E79MGX8AJ7C0PQ4RJ&hash=item24d67b0596:g:0lUAAeSwS3Bqi7Ee&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDXLmFuRtvwdoUOib%2B3wUU6w7Tj7JIpCnbhdkVR5ka6zruw5yqNCW27AZq21wRN6GbIEl%2BNZRdJlEpfTdVyAl60336i8ijHGWK5fKj%2B6nqJMy%2BMQ2buqAAiOO9Do3qPmqE29GkECj6DuHW%2BHx%2B20Yn%2FFuFolX%2BsdFKyOlIGSpFXKhD5lFF7M7Jf9AIwqqh2tKQnP6EHc9aI02g0slDAd7YsmvI34kUa9UINF5cb48TOxOsnG8ck05oJXp2P27uYpTfbZ0VG2rslybl0VYu92P0NhAhXIUFEVZR2YVCQZgsicIAhv6F6Vqkf0gLo8OHokvv%2BIeQmO9AF2--c3g4BrtPt%7Ctkp%3ABk9SR8yAp7OGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/0lUAAeSwS3Bqi7Ee/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787557485243,
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "377426386916",
@@ -135,13 +149,27 @@
         "priceC": 1696595,
         "shippingC": 0,
         "landedC": 1696595,
-        "url": "https://www.ebay.com/itm/377426386916?_skw=%28mewtwo%29+%2829%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=3043380397&itmmeta=01M0FGC13QE1SBV6E6SQK19P6Y&hash=item57e05d9fe4:g:td0AAeSwau1qgyrF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCm459dpaMRRjyQp0BE7c%2Bn1Hi9EeEEogB5SrAkveXT9Rt%2BJht3oamznYKYXpHjIRCBofnsb71WPFJ0GdcflKA7e%2FUUxjUDnrKPySgSIw1mb%2FuaKdBdsMaRq5gHf4k9%2F8xgn5ew%2BShYgcYOzgdHXfPd0K8jtnjKum%2B3pezcP3S%2By3OmFidEQL0eT%2F3TwJBoLIxoNQj5mC92EZSxru7oSP%2FnYNquAzOdP4UpPorTOute2noU%2Fhbdlv%2FgNILHDaZAbjUHu%2BtUf8dVfRC03s4GGysqOxqv99fBFjUBXCijOpJlnA%3D%3D%7Ctkp%3ABk9SR4SSsPCDaA",
+        "url": "https://www.ebay.com/itm/377426386916?_skw=%28mewtwo%29+%2829%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=3043380397&itmmeta=01M0SK9YM8WDB0FQ66EBZRVS13&hash=item57e05d9fe4:g:td0AAeSwau1qgyrF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCm459dpaMRRjyQp0BE7c%2Bn1Hi9EeEEogB5SrAkveXT9dN2qOwTT%2F79fcxvQjNZp%2B3hUIbyah%2F%2Bq8m0W23Z%2BtK%2BvhIWkLSCADg1rOUQmRhCjHUuhl7N8qwqEVKT77HaBGp%2Fq19bsqzhTHxMP0SdS01h3TGvoZTNnh5W4%2BD3nwHMegb6cQzZHDU4IygH9xxUXKrTEKFcC69DLCz99qZR%2FbQx9BPevkLi1GwFyk%2F31GBU23%2BqRRrERInU0VIc%2BwLDnlQJ%2FleL3q%2BxSFN7YdCjaju77uGHzGo2y2cevuxq2SbI5w%3D%3D%7Ctkp%3ABk9SR6zqp7OGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/td0AAeSwau1qgyrF/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
+      },
+      {
+        "itemId": "206511609604",
+        "title": "#29/110 Mewtwo Reverse Foil, PSA 9, 2002, Pokemon Legendary Collection.Opens in a new window or tab",
+        "priceC": 2000000,
+        "shippingC": 607,
+        "landedC": 2000607,
+        "url": "https://www.ebay.com/itm/206511609604?_skw=%28mewtwo%29+%2829%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=3043380397&itmmeta=01M0SK9YM83H7G1HTEDG9P17YN&hash=item30150d1704:g:aNQAAeSweY5qi6aj&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBK7kav1uzYmTzdO1eHZehKNKEsDFylJgRQ%2BcPymkHsVv25ZUxLzZyNiKeOiFqFGFQ6Rad%2BrgfTQBrVF2d8iObZvw5mjiaJZjmWn1n5%2BLdp582q6KI2q%2BCW%2FhWFYZvRXazbWXek8MIYJU5M6B1HjVQUSUlySUeJXHQwM11s4ixOYM%2FLftJZOgEXwCAsT32V5BGu%2B%2FmfsHyC10uRAcbpE6AHS2IbxbBuaUtg14%2Bz41k%2BYOJqzQSe%2FyzgNQrkgpkHKFx7fcbB4KAYQPCWahqyYUYDUEqpjhHJt4lQvhzJSyoL8Qu6VWHdkurxjw0QeGfAcy0sFLudIseLptbUSH8joejQ%7Ctkp%3ABk9SR6zqp7OGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/aNQAAeSweY5qi6aj/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787557485243,
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "397718777638",
@@ -149,13 +177,13 @@
         "priceC": 7500000,
         "shippingC": 450,
         "landedC": 7500450,
-        "url": "https://www.ebay.com/itm/397718777638?_skw=%28mewtwo%29+%2829%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=10043375650&itmmeta=01M0FGC13QPH8ESWWR2HX7RN8E&hash=item5c99e2ef26:g:rwYAAeSwPfRpt0AJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAxhAhvWa%2FhPHz%2FJgZFpHyns4rpPlBFQk%2FPJ4HezkYuflcRnf%2F3CwS6C54I3HIu%2FSI72MKqYYnwpQ3UsSg2px4QvfPxFe2f1QG5JwERzwEw0O3TJp0%2FBoJspsQ6OStbcM0F7gXIa4eJF40%2F3No%2FZ0xIdreDIRDT96bpB2XDF%2FxQSG%2BlgnKEJGlLTMjs6nuNxcyE9bx0iGyJIA6zde3MN4PWDIgsfKNZjGFfpJWG88goU7v1XoANwR%2FsXfaAH%2BwiCz4jZ6CvLihdwBxV3ItZhgvYUfSum0stbQKJxws4%2BRYI5g%3D%3D%7Ctkp%3ABk9SR4SSsPCDaA",
+        "url": "https://www.ebay.com/itm/397718777638?_skw=%28mewtwo%29+%2829%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=10043375650&itmmeta=01M0SK9YM84DD0G4AEB0D747E0&hash=item5c99e2ef26:g:rwYAAeSwPfRpt0AJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAxhAhvWa%2FhPHz%2FJgZFpHyns4rpPlBFQk%2FPJ4HezkYufgSO%2FMfxthhgIZlvHXx3l72QG4XHeMAhxYjNB55s56s61RqyGaRerTHIkDaCaYugX%2Bdt7868agnN7IvI%2FSGBvWMMzqBJjGZeqfVL%2F78TnXCL7kXjJyCfef1N8jy9L1qu0QuagpvGwEtof%2FK%2FP9mtk4YOracF92F8qT2zvmKxNW%2FZKYY8H32ylqngWDQnKa4j5RKGLDEm8j2hR4eLx%2FfZVz6098KeZBrcO8%2B8zx%2FCT3itDg3VJPEW0Xa%2B%2BWiMN%2B8QVA%3D%3D%7Ctkp%3ABk9SR6zqp7OGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/rwYAAeSwPfRpt0AJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "398146940168",
@@ -163,17 +191,30 @@
         "priceC": 14999900,
         "shippingC": 24900,
         "landedC": 15024800,
-        "url": "https://www.ebay.com/itm/398146940168?_skw=%28mewtwo%29+%2829%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=3043380397&itmmeta=01M0FGC13QF3D2GK9VWM95AX7H&hash=item5cb3682d08:g:btIAAeSw8sJqTAPU&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBxJ1ckzVp6cBQLlET4zOJ2ZfFNmfCvjyw%2FA%2FNZYIEj9Ye3gctnR8CdY0xy5xixxoIY44oDTx9sJ8f0UznhymleJzTMU4B%2FE%2BhG3EFbx0WW1GiQSTxsmglbY7MIu7L42Txmn34FJ16lMHM%2FW3sYYubhrnUe1npdgYne0Th%2FCeb7omTfaQ%2BGXcpqasWW93dxetHte1xJg%2FxdXd%2F0LkmrcNa6fxSHQawIL3HkkxEnrF1y9CWeOcLRASXOgWIcJ1w2z%2B08OVc8LLyQWgcI6QNBqkKfX4z3rddq2imafIeomnYAcw%3D%3D%7Ctkp%3ABk9SR4SSsPCDaA",
+        "url": "https://www.ebay.com/itm/398146940168?_skw=%28mewtwo%29+%2829%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=3043380397&itmmeta=01M0SK9YM8KHMXS04N7DWA4A2E&hash=item5cb3682d08:g:btIAAeSw8sJqTAPU&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDXdt0sPsSmUHURhyUWX76A%2BUBdzzWS%2FqSKrXlJ1s52gCpeYwis2jAJiDo0Vppm76juO4DRDzZNblZ987Z2QgbqTuIn%2FP375usdslglfgBS0AHvLZJpunmeNCqeNwO4%2BM%2FsPysXGYBWj4thUXJjMzjl9tglIsyG1TPNOJUsprcNBjyrabc614wjBX5C1eWtcFzOpb7SbBSHaR23G9IeYBhDHhynxxHTgmWQi25nKybV8wCdKlPvxRaS2CVup8Koh9EzoXxLRRcDfCJciN%2BCQ4LQrkGi9qrW%2Fwnv8qs%2BcyvZ4lLLubWpFk%2FJqO7KwEMG1LFVuYsYvAN9gZOJU2ni%2FF%2FP%7Ctkp%3ABk9SR6zqp7OGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/btIAAeSw8sJqTAPU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 2239248,
+          "saleDate": "2026-08-21",
+          "priceC": 89000,
+          "title": "Pokémon TCG - Mewtwo 29/110 Legendary Collection Reverse Holo Rare 60 HP 2002 29/110",
+          "url": "https://www.ebay.com/itm/168614074219?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 1081609,
           "saleDate": "2026-08-19",
@@ -1720,19 +1761,6 @@
           "gradingGrade": 6.5,
           "gradingDesignation": null,
           "agreementStatus": "mismatch"
-        },
-        {
-          "id": 328023,
-          "saleDate": "2026-04-17",
-          "priceC": 52500,
-          "title": "2002 Poke'mon Legendary Collection Mewtwo 29/110 Reverse Holo CGC 4.5* 29/110",
-          "url": "https://www.ebay.com/itm/147251720220?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 4.5,
-          "gradingDesignation": null,
-          "agreementStatus": "mismatch"
         }
       ],
       "monthlyPsa10": [
@@ -1777,9 +1805,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 278,
+      "englishSaleCount": 279,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787211940791
+      "lastCapturedAt": 1787557301232
     }
   }
 }

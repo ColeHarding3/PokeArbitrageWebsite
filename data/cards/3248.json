@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 3248,
@@ -29,7 +29,7 @@
         "psa10Pop": 36,
         "cgc10Pop": 28,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787213116277
+        "fetchedAt": 1787558465597
       },
       "bestCgc10": {
         "itemId": "168573908179",
@@ -37,36 +37,23 @@
         "priceC": 44500,
         "shippingC": 597,
         "landedC": 45097,
-        "url": "https://www.ebay.com/itm/168573908179?_skw=%28dusclops%29+%284%2Csandstorm%29+%28CGC%2CPSA%29&epid=19043376512&itmmeta=01M0F3ANM6GGSWT20KCQ9H251T&hash=item273fc9b4d3:g:BX4AAeSw6A5qaosu&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBImeRqh%2FV%2B8f0RmdkwWfWipz2mMie1jFSou1BXGLUk%2Ba7O8P1gbh4M9vDZVMLWHc4YRgLLN2Y6Qihv97GOb2rnsyYpw3nUowkJanJl6%2FV91cuaYa2RT10IFccRHgPGR5KwyF%2BcoMyXIz4%2FF%2FAoITMUx9U2o13aawnm5OpOB0yq0ZX%2FnhYSSejvCkQC7a9LSZpqzuU7wLq6PPiPAIOHD6mxSZGQ1x3JRwi0B8ZtznMFnvL2fBMuq%2B%2BPg7HH0lGv%2BCbieI9f6HS4PdTYo23cCYso%7Ctkp%3ABk9SR7DaquODaA",
+        "url": "https://www.ebay.com/itm/168573908179?_skw=%28dusclops%29+%284%2Csandstorm%29+%28CGC%2CPSA%29&epid=19043376512&itmmeta=01M0SCNFPNRBVC0GE9SY1AX00D&hash=item273fc9b4d3:g:BX4AAeSw6A5qaosu&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBImeRqh%2FV%2B8f0RmdkwWfWipz2mMie1jFSou1BXGLUk%2BUVfrk0NEpyi6wy3Z3G7h%2BD2hRgRjehVGLftGAhRsHlq2xQ15h%2Bl1k4uIy2yRWAXhWVVNGlgekPtXNcnMxZxIHlOmXROn%2BvL%2FWRYr4n%2FxfJ265a8gGPe9o6%2FbrBxtZtVu983SGAf%2BMW7WORjrZ%2BZcWstyyO1KwCOcUEYyhEP%2FI5cRHpBceLJcGfq2nmkzvepkib4yDJ56BSNkoYR40JpRo7Sg05egEXhvGYwESGXoPW6%7Ctkp%3ABk9SR8b71ayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BX4AAeSw6A5qaosu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787057553322,
-        "lastSeen": 1787213250072
+        "lastSeen": 1787558576390
       },
       "bestPsa10": null,
-      "bestPsa9": {
-        "itemId": "318268162107",
-        "title": "2003 Pokemon Ex Sandstorm Dusclops Holo Rare 4/100 PSA 9Opens in a new window or tab",
-        "priceC": 18999,
-        "shippingC": 572,
-        "landedC": 19571,
-        "url": "https://www.ebay.com/itm/318268162107?_skw=%28dusclops%29+%284%2Csandstorm%29+%28CGC%2CPSA%29&epid=19043376512&itmmeta=01M0F3ANM55V6FG60T0S7AZFS3&hash=item4a1a42c03b:g:XeEAAeSwhjZp~UAO&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBkqF%2B3RnL2xB8WpKfN68Kd2B503mekqeWoclp4VBdZeScBm1vYXSYFZOT%2FqPpWEihs%2BKlyo3FX6zhiSKJWHRPOgTVW%2FeCPEWUnXuAXtaZzumwseyM%2BV3ZPOjVfDFgFg5s5ZX53JGF%2FyS0MXGxyNJLpItHF8VTeLpy0sNbpbeJOWfazaSgeA6gXgt4dNHCD1cidW%2B5iw9vYiJtPjW2DIYdP44E0nDjNaK0l7OkhbHUVNzN0hUDYaIBzQ2Jv0x7gQnNKecfDjKccikznseht1EeFNLiCIr5QGni7nbPESn3bT66asRvQaQtkprWiZCW2pTk%3D%7Ctkp%3ABk9SR67aquODaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/XeEAAeSwhjZp~UAO/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787057553322,
-        "lastSeen": 1787213250072
-      },
+      "bestPsa9": null,
       "counts": {
         "cgc10Bin": 3,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 1
+        "psa9Bin": 0
       },
       "ratio": {
         "ok": true,
@@ -84,7 +71,7 @@
         "ratio": 1.9902629199939732
       },
       "firstOpportunityAt": 1787057553322,
-      "updatedAt": 1787213250072
+      "updatedAt": 1787558576390
     },
     "prices": {
       "variantId": 3248,
@@ -99,36 +86,22 @@
       "cgc10Pop": 28,
       "bgs10C": 137400,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787213116277
+      "fetchedAt": 1787558465597
     },
     "listings": [
-      {
-        "itemId": "318268162107",
-        "title": "2003 Pokemon Ex Sandstorm Dusclops Holo Rare 4/100 PSA 9Opens in a new window or tab",
-        "priceC": 18999,
-        "shippingC": 572,
-        "landedC": 19571,
-        "url": "https://www.ebay.com/itm/318268162107?_skw=%28dusclops%29+%284%2Csandstorm%29+%28CGC%2CPSA%29&epid=19043376512&itmmeta=01M0F3ANM55V6FG60T0S7AZFS3&hash=item4a1a42c03b:g:XeEAAeSwhjZp~UAO&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBkqF%2B3RnL2xB8WpKfN68Kd2B503mekqeWoclp4VBdZeScBm1vYXSYFZOT%2FqPpWEihs%2BKlyo3FX6zhiSKJWHRPOgTVW%2FeCPEWUnXuAXtaZzumwseyM%2BV3ZPOjVfDFgFg5s5ZX53JGF%2FyS0MXGxyNJLpItHF8VTeLpy0sNbpbeJOWfazaSgeA6gXgt4dNHCD1cidW%2B5iw9vYiJtPjW2DIYdP44E0nDjNaK0l7OkhbHUVNzN0hUDYaIBzQ2Jv0x7gQnNKecfDjKccikznseht1EeFNLiCIr5QGni7nbPESn3bT66asRvQaQtkprWiZCW2pTk%3D%7Ctkp%3ABk9SR67aquODaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/XeEAAeSwhjZp~UAO/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787057553322,
-        "lastSeen": 1787213250072
-      },
       {
         "itemId": "168573908179",
         "title": "CGC 10 Gem Mint Dusclops 4/100 Sandstorm Holo Pokemon Opens in a new window or tab",
         "priceC": 44500,
         "shippingC": 597,
         "landedC": 45097,
-        "url": "https://www.ebay.com/itm/168573908179?_skw=%28dusclops%29+%284%2Csandstorm%29+%28CGC%2CPSA%29&epid=19043376512&itmmeta=01M0F3ANM6GGSWT20KCQ9H251T&hash=item273fc9b4d3:g:BX4AAeSw6A5qaosu&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBImeRqh%2FV%2B8f0RmdkwWfWipz2mMie1jFSou1BXGLUk%2Ba7O8P1gbh4M9vDZVMLWHc4YRgLLN2Y6Qihv97GOb2rnsyYpw3nUowkJanJl6%2FV91cuaYa2RT10IFccRHgPGR5KwyF%2BcoMyXIz4%2FF%2FAoITMUx9U2o13aawnm5OpOB0yq0ZX%2FnhYSSejvCkQC7a9LSZpqzuU7wLq6PPiPAIOHD6mxSZGQ1x3JRwi0B8ZtznMFnvL2fBMuq%2B%2BPg7HH0lGv%2BCbieI9f6HS4PdTYo23cCYso%7Ctkp%3ABk9SR7DaquODaA",
+        "url": "https://www.ebay.com/itm/168573908179?_skw=%28dusclops%29+%284%2Csandstorm%29+%28CGC%2CPSA%29&epid=19043376512&itmmeta=01M0SCNFPNRBVC0GE9SY1AX00D&hash=item273fc9b4d3:g:BX4AAeSw6A5qaosu&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBImeRqh%2FV%2B8f0RmdkwWfWipz2mMie1jFSou1BXGLUk%2BUVfrk0NEpyi6wy3Z3G7h%2BD2hRgRjehVGLftGAhRsHlq2xQ15h%2Bl1k4uIy2yRWAXhWVVNGlgekPtXNcnMxZxIHlOmXROn%2BvL%2FWRYr4n%2FxfJ265a8gGPe9o6%2FbrBxtZtVu983SGAf%2BMW7WORjrZ%2BZcWstyyO1KwCOcUEYyhEP%2FI5cRHpBceLJcGfq2nmkzvepkib4yDJ56BSNkoYR40JpRo7Sg05egEXhvGYwESGXoPW6%7Ctkp%3ABk9SR8b71ayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BX4AAeSw6A5qaosu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787057553322,
-        "lastSeen": 1787213250072
+        "lastSeen": 1787558576390
       },
       {
         "itemId": "198578465282",
@@ -136,13 +109,13 @@
         "priceC": 45000,
         "shippingC": 524,
         "landedC": 45524,
-        "url": "https://www.ebay.com/itm/198578465282?_skw=%28dusclops%29+%284%2Csandstorm%29+%28CGC%2CPSA%29&epid=19043376512&itmmeta=01M0F3ANM6JMM6FK1ZRZGD99KK&hash=item2e3c32ea02:g:ccgAAeSwkN9qVYdw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBJVZ37HWNnwvUXL%2F5IQgNnW9ibGGgHJ4mQFrKeQh7fnQ%2BH2tSmZPG5QaowElAdnvcu00olgBzo3w7C4%2BLuvxy47IHdjJ54%2F4GmIZLcFF9WUHj0%2FSd1I5%2BpIz%2Fl0ZjPZhNhDhxnYoqzQ6QR8ib5Su2gUE2S2t4E01xVCMfppgG1k1ply%2B%2BdSNRci29vvhTlkPVNvoARV3ndadkGWwka8dcxx60MUVAJNFR8zIdq%2Fmk%2BfmPjmVFKY%2Bhenn83ZycFP7qdzSGtA83KGMg0hlFPTRX2%7Ctkp%3ABk9SR7DaquODaA",
+        "url": "https://www.ebay.com/itm/198578465282?_skw=%28dusclops%29+%284%2Csandstorm%29+%28CGC%2CPSA%29&epid=19043376512&itmmeta=01M0SCNFPN080S2MPGYTRF54ZY&hash=item2e3c32ea02:g:ccgAAeSwkN9qVYdw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBJVZ37HWNnwvUXL%2F5IQgNnW9ibGGgHJ4mQFrKeQh7fncTktwO1W%2BL5y9QorSAAPKDh7LjWkvdA9qtd7X04YiFbkFdUWMC3sJ%2FexiQ7D4Cb6dklPSobcvsCUMU3115p5nPDnHjBmi8MIdTasHMRAnXlo65Iq3zsHpUK5GYmOgIotr4i%2FYOKPf7PAo7j8ZH5pdm3oF3ZENbnNZB1j07MOwcM5%2FmaGddmJQXUa1S%2BhWTuw2%2B6IscQEtvALFzV%2BD1mhJHSjVuxPLBGhR4xXtdRwg%2BM%7Ctkp%3ABk9SR8b71ayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ccgAAeSwkN9qVYdw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787057553322,
-        "lastSeen": 1787213250072
+        "lastSeen": 1787558576390
       },
       {
         "itemId": "206390192918",
@@ -150,13 +123,13 @@
         "priceC": 47999,
         "shippingC": 0,
         "landedC": 47999,
-        "url": "https://www.ebay.com/itm/206390192918?_skw=%28dusclops%29+%284%2Csandstorm%29+%28CGC%2CPSA%29&epid=19043376512&itmmeta=01M0F3ANM6BT1G7DEH0EPJBN90&hash=item300dd06b16:g:RXMAAeSwiglqRzC-&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBFvKIhCPCaRfD%2B8kGWE%2BcRbt%2BkQLq8rylbm%2B8pwF0Oey1aGOwBF31pYC1pBIMbw5gN6WHn3rXdBv3%2B9R6tes9BP581rv65ZaVCAMnj7JJEqCVR0VUsoh7FQkWURDlNMQjeZp6lOnJLUa6KAHrMTyMSsQ7nqEq%2B5cvMpkp3EneXQLMA%2FuVQC2QXhwKZZ7mU4%2FkzmF6uaFTLQcF3%2FvNBgAOwIoydghhdrPlgZu%2B%2B2DY8z3oXcwFJzzk720IGnTZ98BAUgm1UQj8qonwbRxWnNlZv%7Ctkp%3ABk9SR7DaquODaA",
+        "url": "https://www.ebay.com/itm/206390192918?_skw=%28dusclops%29+%284%2Csandstorm%29+%28CGC%2CPSA%29&epid=19043376512&itmmeta=01M0SCNFPP882W03DTRGFNH6A8&hash=item300dd06b16:g:RXMAAeSwiglqRzC-&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB9nyqZiGRxZmb81xWBM3toXx5B2%2FrJIbB%2Bq1gMQmX3dm%2Be%2FvxFi%2BuoUfECLz9szB2MZCTGnoR%2BlcRWbrDhOMEev87rBDU8sCSvjXmTwv5xKPfO7M1XBMQOk3WhJPFXaL4SrhUIloNc4MyXpeFnMb5JWZ6SEkAuU1f7G%2Fzfpkpj85%2FvdjJWPDMCLtZW5QhGGF709R7hbSK4whCj102jgR%2B2V4aiZHkCWVaK3dEv7XGSbisNj6bGZ6BKDYxkNxB7zIrxNNViEzIJ4oSaM9loMskvhsscZ5gYPP9XCGv4xmpmJ8NkTh1l0MYrLGrVsLz7ktc%3D%7Ctkp%3ABk9SR8b71ayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/RXMAAeSwiglqRzC-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787057553322,
-        "lastSeen": 1787213250072
+        "lastSeen": 1787558576390
       }
     ],
     "marketHistory": {
@@ -1791,7 +1764,7 @@
       ],
       "englishSaleCount": 150,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787213114311
+      "lastCapturedAt": 1787558464161
     }
   }
 }

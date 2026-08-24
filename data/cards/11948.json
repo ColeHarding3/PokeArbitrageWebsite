@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 11948,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/bb6fdb27b50dd7955f1de932cf0c3afa9a349eaa1efd3c937e48b8ff8068e16f/1600.jpg",
       "popularityScore": 92,
       "market": {
-        "ungradedC": 8215,
-        "grade9C": 106476,
-        "grade95C": 117100,
+        "ungradedC": 8000,
+        "grade9C": 107869,
+        "grade95C": 118700,
         "cgc10C": 300000,
         "cgc10PristineC": 540000,
-        "psa10C": 183696,
-        "bgs10C": 238800,
+        "psa10C": 182868,
+        "bgs10C": 237700,
         "psa9Pop": 61,
         "psa10Pop": 3,
         "cgc10Pop": 1,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\"}",
-        "fetchedAt": 1787219021444
+        "fetchedAt": 1787561317569
       },
       "bestCgc10": {
         "itemId": "188693176073",
@@ -37,13 +37,13 @@
         "priceC": 70000,
         "shippingC": 0,
         "landedC": 70000,
-        "url": "https://www.ebay.com/itm/188693176073?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&epid=17057708413&itmmeta=01M0F8WHDYJ00BTST73XN11AGT&hash=item2beefd5f09:g:45wAAeSwsIxqZBDr&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB6N1fKNVxMK0CCDC3PMkgiINp8tCvUMDYAnvLPOQzNnTbcUmkOfVjmO881qjeqpWb8bKkDbk%2BKvPIQaKqd44%2BK%2FqMcB%2BSsXvQWdteR1FaTj%2Fay6J9mpD7FTVLA5hjJBSC6LxmGaPoOpRpMxL1cuiO1MjC%2BB1%2FxecNdBObMx49st7Dk6%2Bi6Pat9kh%2FfI4cQs12deWwZ8q%2BSCXQONB5SZiomUzo3LedEcrwwGm8GYeVuKa3RvyCjMjP%2BCtdBvVa%2BR3V1tzcUXr4XdVNVpFpb6eN9k%2B6MF466PLVbA3tW1Y20bbn0Mj91QhkcDazafy6SoHg%3D%7Ctkp%3ABk9SR66X8uiDaA",
+        "url": "https://www.ebay.com/itm/188693176073?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&epid=17057708413&itmmeta=01M0SFAM8E6TYE7V55YV1PG1C2&hash=item2beefd5f09:g:45wAAeSwsIxqZBDr&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB6N1fKNVxMK0CCDC3PMkgiINp8tCvUMDYAnvLPOQzNnTbcUmkOfVjmO881qjeqpWb8bKkDbk%2BKvPIQaKqd44%2BK%2FqMcB%2BSsXvQWdteR1FaTj%2Fay6J9mpD7FTVLA5hjJBSBZt84Z0MQTA9y3uFjsLI6lb6OpA7Rd%2FOzROEiKCWZUvGuPcN4IxH1PV3i11AslsOUBN6UcIh2b2JEOz%2FL4QUkji208bVuTYpkxnwwkxhk%2BeQnmV0HUzXJLzNgRahbbImpVtV2Q5JxMcTpQotd1PX76qI%2BBih5Zs0cNz%2Bdf5zlaGzwjApDKBp7bXYvW1FZKa8U%3D%7Ctkp%3ABk9SR8LEqq-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/45wAAeSwsIxqZBDr/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787219115751,
-        "lastSeen": 1787219115751
+        "lastSeen": 1787561356369
       },
       "bestPsa10": {
         "itemId": "157276780405",
@@ -51,13 +51,13 @@
         "priceC": 500000,
         "shippingC": 9500,
         "landedC": 509500,
-        "url": "https://www.ebay.com/itm/157276780405?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&epid=14043371456&itmmeta=01M0F8WNS0F2TY38Z2FNR1Z9CX&hash=item249e6d3775:g:YY8AAeSw2fdor3Gq&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC%2FUqFASlaat0Nmi0vQvwsNNKm3xBLWhPGyyMOVM%2BziDxHZc%2BQB8GYYbOYANiIA7HtZURFQt9ANZxxli%2BeEHrAIZV8WGxrqCSq6AKr3Tu1leYAV0tz89a3fPF8kbFjzD%2F42l3YiOXZg%2Bg0hYnJxoAVP7gkIJPuDyNJPtBMpc1rzFsXAgOhqI3Hza03l0Ed81AdHHRQWfLpatBp8BGUVdIdiCvZ3pojqqk0TUrsxOU0eGI%2BHLCFCz6dxbFLyO9vCut%2FBnmFBNLgR1axqkeXgbOEy%7Ctkp%3ABk9SR9rc8uiDaA",
+        "url": "https://www.ebay.com/itm/157276780405?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&epid=14043371456&itmmeta=01M0SFARV6TA85JH0MSC2VQV85&hash=item249e6d3775:g:YY8AAeSw2fdor3Gq&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC%2FUqFASlaat0Nmi0vQvwsNNKm3xBLWhPGyyMOVM%2BziD83o7UFhER6gagPvG%2Bvlllo6BIHWnCk7BNQ9jeOlkelnI3TbJ0zWlkXlBlnCAheP6mPz5ZtU%2FBp7EKf0GJiS0ZHW%2B%2BLAcQIo6J2YCk313gr1XJjIKPLM%2BAFX9uqFGk840qVVu8i39q5rkfxfnnt1PK%2F49K3FbMwBwfNg7xbK4amXo4Sp6vDdgqWCXTjrVyFA%2FBGVg6EQBhi9smJN%2B0NdglaqN2EMld8QnYnLDLCYqcEd%7Ctkp%3ABk9SR-6Nq6-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/YY8AAeSw2fdor3Gq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787219115751,
-        "lastSeen": 1787219115751
+        "lastSeen": 1787561356369
       },
       "bestPsa9": {
         "itemId": "158165583870",
@@ -65,13 +65,13 @@
         "priceC": 7500000,
         "shippingC": 15932,
         "landedC": 7515932,
-        "url": "https://www.ebay.com/itm/158165583870?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&epid=26043383184&itmmeta=01M0F8WNS0K7XG772GNPQF2HA1&hash=item24d36747fe:g:u80AAeSwsqlqdp0C&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBMyjrb6826NQ%2FBpa1TMLYF8bUTDYb1GDwwujX02JTU4nbZ3xKGa27uLJzWBiPVvbKL3Qq%2BI5qojdMtWZ5q7ITDmVlxJnmb%2BhuYUSTPud7MrGGJ1ucjjzQyLro%2B94TzJsAEvbPp3KWyrDu8lO4OQtr1Xkftzs5CetCTmEGtEKajBl4UstFGI3YDyJAg8%2Fy7hWtlm8uy4o23nbNuzuUkU%2FpK7HSRX9CAejPiz2l6VXA29JN8M7whaK9ipXyR%2BQUstPmt6yl6rfHC8yAvRijqdSZY0MR6%2BMiXj1XWf6NLJasAdF5nviTOKDA7tf7TSyZwl%2B4%3D%7Ctkp%3ABk9SR9zc8uiDaA",
+        "url": "https://www.ebay.com/itm/158165583870?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&epid=26043383184&itmmeta=01M0SFARV9CFFDVPGV501QY9NH&hash=item24d36747fe:g:u80AAeSwsqlqdp0C&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCwGBmt%2FcjDdddvlOGxrpe5vwOl4PFrFauJBIQQZ12mNMBv69uPeYgGa%2FgNAJXoDiw5XO7mTx3WFxwMbu1Cty1uf7WROPR2xKkue8msU07jo%2FySM5u%2F9AbrsPBE7Jpdw58OYn%2FLHbW8Ik9j%2Buuuk5gaXUVsmP68sBr5zO%2FByAj4V%2FtgtRlEisP5iwvjcIPxqgK0OdzqnXE%2BZE90WmpNVD%2FHXoBZqRP3asfu6ypsZ264l1WIzvFgpClEiknB1fVBeGV6bVTVaoIog0j%2BRYdwYBH1%7Ctkp%3ABk9SR_aNq6-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/u80AAeSwsqlqdp0C/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787219115751,
-        "lastSeen": 1787219115751
+        "lastSeen": 1787561356369
       },
       "counts": {
         "cgc10Bin": 3,
@@ -93,26 +93,26 @@
         "cgc10CostC": 70000,
         "submissionFeeC": 14900,
         "totalCostC": 84900,
-        "psa10ValueC": 183696,
-        "ratio": 2.1636749116607774
+        "psa10ValueC": 182868,
+        "ratio": 2.153922261484099
       },
       "firstOpportunityAt": 1787219115751,
-      "updatedAt": 1787219115751
+      "updatedAt": 1787561356369
     },
     "prices": {
       "variantId": 11948,
-      "ungradedC": 8215,
-      "grade9C": 106476,
-      "grade95C": 117100,
+      "ungradedC": 8000,
+      "grade9C": 107869,
+      "grade95C": 118700,
       "cgc10C": 300000,
       "cgc10PristineC": 540000,
-      "psa10C": 183696,
+      "psa10C": 182868,
       "psa9Pop": 61,
       "psa10Pop": 3,
       "cgc10Pop": 1,
-      "bgs10C": 238800,
+      "bgs10C": 237700,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\"}",
-      "fetchedAt": 1787219021444
+      "fetchedAt": 1787561317569
     },
     "listings": [
       {
@@ -121,13 +121,13 @@
         "priceC": 70000,
         "shippingC": 0,
         "landedC": 70000,
-        "url": "https://www.ebay.com/itm/188693176073?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&epid=17057708413&itmmeta=01M0F8WHDYJ00BTST73XN11AGT&hash=item2beefd5f09:g:45wAAeSwsIxqZBDr&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB6N1fKNVxMK0CCDC3PMkgiINp8tCvUMDYAnvLPOQzNnTbcUmkOfVjmO881qjeqpWb8bKkDbk%2BKvPIQaKqd44%2BK%2FqMcB%2BSsXvQWdteR1FaTj%2Fay6J9mpD7FTVLA5hjJBSC6LxmGaPoOpRpMxL1cuiO1MjC%2BB1%2FxecNdBObMx49st7Dk6%2Bi6Pat9kh%2FfI4cQs12deWwZ8q%2BSCXQONB5SZiomUzo3LedEcrwwGm8GYeVuKa3RvyCjMjP%2BCtdBvVa%2BR3V1tzcUXr4XdVNVpFpb6eN9k%2B6MF466PLVbA3tW1Y20bbn0Mj91QhkcDazafy6SoHg%3D%7Ctkp%3ABk9SR66X8uiDaA",
+        "url": "https://www.ebay.com/itm/188693176073?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&epid=17057708413&itmmeta=01M0SFAM8E6TYE7V55YV1PG1C2&hash=item2beefd5f09:g:45wAAeSwsIxqZBDr&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB6N1fKNVxMK0CCDC3PMkgiINp8tCvUMDYAnvLPOQzNnTbcUmkOfVjmO881qjeqpWb8bKkDbk%2BKvPIQaKqd44%2BK%2FqMcB%2BSsXvQWdteR1FaTj%2Fay6J9mpD7FTVLA5hjJBSBZt84Z0MQTA9y3uFjsLI6lb6OpA7Rd%2FOzROEiKCWZUvGuPcN4IxH1PV3i11AslsOUBN6UcIh2b2JEOz%2FL4QUkji208bVuTYpkxnwwkxhk%2BeQnmV0HUzXJLzNgRahbbImpVtV2Q5JxMcTpQotd1PX76qI%2BBih5Zs0cNz%2Bdf5zlaGzwjApDKBp7bXYvW1FZKa8U%3D%7Ctkp%3ABk9SR8LEqq-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/45wAAeSwsIxqZBDr/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787219115751,
-        "lastSeen": 1787219115751
+        "lastSeen": 1787561356369
       },
       {
         "itemId": "375691102319",
@@ -135,13 +135,13 @@
         "priceC": 249500,
         "shippingC": 995,
         "landedC": 250495,
-        "url": "https://www.ebay.com/itm/375691102319?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&itmmeta=01M0F8WHE3GGE5M8NJW7SMR5VM&hash=item5778ef486f:g:TZkAAOSw86hm~~iu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDJjvuhlvo0JKCQQC0bX6OFYAFlPdiepPkaCStyHhttnSi5W3gZ3A84apWq9rUD9sfMyMrZTAM3Q9eAMhG5HOnSPXCQ44ZcWbmNTKk4gSBMQYccm8peQ5pn5gVXOVDVL183L4na8t04e%2BPkUdKAhZCmOjmsxZP0GfSrfT5ZDblxBkXAm8rspPnFJVLDZiYLkCoAWbwTIZfz22konEAswXGKeB0PbttlR7L1s8gLKbTF2aLi2Kin%2BWfNNpM1TXAIdgPEr5x7CjtUgB5uZ1Z3IS9wFqGHoIT9Y2JgO7W1ER1Fz1aVXDym5d7cllRBCSh1EcE%3D%7Ctkp%3ABk9SR7SX8uiDaA",
+        "url": "https://www.ebay.com/itm/375691102319?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&itmmeta=01M0SFAM8H32DXR1TQPQCV02EM&hash=item5778ef486f:g:TZkAAOSw86hm~~iu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDJjvuhlvo0JKCQQC0bX6OFYAFlPdiepPkaCStyHhttnSi5W3gZ3A84apWq9rUD9sfMyMrZTAM3Q9eAMhG5HOnSPXCQ44ZcWbmNTKk4gSBMQYccm8peQ5pn5gVXOVDVL1%2B%2Bqxvbahy1XYTzfarkGQqzsFcNUxftGNeNnNnTLMWChsxAdvX5O6avlrcY6P19gXwPshGCZRd3qx8%2FQturMYscvKT3WbbmT59gqJOTpfTp6zR1QC0qv%2B80kjBmEvQpvtxKVOLUGoFFkiGUVTd3MJhLzh%2BegzlKoV2%2B8fNk5uXv4Tpw50ogp4FuzmeSmDYlaMk%3D%7Ctkp%3ABk9SR8jEqq-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/TZkAAOSw86hm~~iu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787219115751,
-        "lastSeen": 1787219115751
+        "lastSeen": 1787561356369
       },
       {
         "itemId": "157276780405",
@@ -149,13 +149,13 @@
         "priceC": 500000,
         "shippingC": 9500,
         "landedC": 509500,
-        "url": "https://www.ebay.com/itm/157276780405?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&epid=14043371456&itmmeta=01M0F8WNS0F2TY38Z2FNR1Z9CX&hash=item249e6d3775:g:YY8AAeSw2fdor3Gq&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC%2FUqFASlaat0Nmi0vQvwsNNKm3xBLWhPGyyMOVM%2BziDxHZc%2BQB8GYYbOYANiIA7HtZURFQt9ANZxxli%2BeEHrAIZV8WGxrqCSq6AKr3Tu1leYAV0tz89a3fPF8kbFjzD%2F42l3YiOXZg%2Bg0hYnJxoAVP7gkIJPuDyNJPtBMpc1rzFsXAgOhqI3Hza03l0Ed81AdHHRQWfLpatBp8BGUVdIdiCvZ3pojqqk0TUrsxOU0eGI%2BHLCFCz6dxbFLyO9vCut%2FBnmFBNLgR1axqkeXgbOEy%7Ctkp%3ABk9SR9rc8uiDaA",
+        "url": "https://www.ebay.com/itm/157276780405?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&epid=14043371456&itmmeta=01M0SFARV6TA85JH0MSC2VQV85&hash=item249e6d3775:g:YY8AAeSw2fdor3Gq&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC%2FUqFASlaat0Nmi0vQvwsNNKm3xBLWhPGyyMOVM%2BziD83o7UFhER6gagPvG%2Bvlllo6BIHWnCk7BNQ9jeOlkelnI3TbJ0zWlkXlBlnCAheP6mPz5ZtU%2FBp7EKf0GJiS0ZHW%2B%2BLAcQIo6J2YCk313gr1XJjIKPLM%2BAFX9uqFGk840qVVu8i39q5rkfxfnnt1PK%2F49K3FbMwBwfNg7xbK4amXo4Sp6vDdgqWCXTjrVyFA%2FBGVg6EQBhi9smJN%2B0NdglaqN2EMld8QnYnLDLCYqcEd%7Ctkp%3ABk9SR-6Nq6-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/YY8AAeSw2fdor3Gq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787219115751,
-        "lastSeen": 1787219115751
+        "lastSeen": 1787561356369
       },
       {
         "itemId": "158165583870",
@@ -163,13 +163,13 @@
         "priceC": 7500000,
         "shippingC": 15932,
         "landedC": 7515932,
-        "url": "https://www.ebay.com/itm/158165583870?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&epid=26043383184&itmmeta=01M0F8WNS0K7XG772GNPQF2HA1&hash=item24d36747fe:g:u80AAeSwsqlqdp0C&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBMyjrb6826NQ%2FBpa1TMLYF8bUTDYb1GDwwujX02JTU4nbZ3xKGa27uLJzWBiPVvbKL3Qq%2BI5qojdMtWZ5q7ITDmVlxJnmb%2BhuYUSTPud7MrGGJ1ucjjzQyLro%2B94TzJsAEvbPp3KWyrDu8lO4OQtr1Xkftzs5CetCTmEGtEKajBl4UstFGI3YDyJAg8%2Fy7hWtlm8uy4o23nbNuzuUkU%2FpK7HSRX9CAejPiz2l6VXA29JN8M7whaK9ipXyR%2BQUstPmt6yl6rfHC8yAvRijqdSZY0MR6%2BMiXj1XWf6NLJasAdF5nviTOKDA7tf7TSyZwl%2B4%3D%7Ctkp%3ABk9SR9zc8uiDaA",
+        "url": "https://www.ebay.com/itm/158165583870?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&epid=26043383184&itmmeta=01M0SFARV9CFFDVPGV501QY9NH&hash=item24d36747fe:g:u80AAeSwsqlqdp0C&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCwGBmt%2FcjDdddvlOGxrpe5vwOl4PFrFauJBIQQZ12mNMBv69uPeYgGa%2FgNAJXoDiw5XO7mTx3WFxwMbu1Cty1uf7WROPR2xKkue8msU07jo%2FySM5u%2F9AbrsPBE7Jpdw58OYn%2FLHbW8Ik9j%2Buuuk5gaXUVsmP68sBr5zO%2FByAj4V%2FtgtRlEisP5iwvjcIPxqgK0OdzqnXE%2BZE90WmpNVD%2FHXoBZqRP3asfu6ypsZ264l1WIzvFgpClEiknB1fVBeGV6bVTVaoIog0j%2BRYdwYBH1%7Ctkp%3ABk9SR_aNq6-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/u80AAeSwsqlqdp0C/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787219115751,
-        "lastSeen": 1787219115751
+        "lastSeen": 1787561356369
       },
       {
         "itemId": "327238336466",
@@ -177,17 +177,95 @@
         "priceC": 10000000,
         "shippingC": 0,
         "landedC": 10000000,
-        "url": "https://www.ebay.com/itm/327238336466?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&epid=26043383184&itmmeta=01M0F8WNS0WY4TJPE95MTC7E6Z&hash=item4c30ecbfd2:g:vHUAAeSwxNpqQoRe&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDO5ZBNpEVMpjGBFpX0767Izeny6MehDC63A1CkLAF%2F%2BVPaez6upZu5JoyJKU%2Bc2O3bmfphEYWAAONHJ%2BlAB6O6JfUFADtzI%2BAmq5TZ%2BG2gHaB6Q251QSoJPNr5WNeUWaEuTzAtmaaDHcxWFA2yylFe47tOpj4LlXQygmynJMIXSGq1u%2FY4CWsRbQwN2rCC%2BpBaQ%2FNoyXWDL3gsY38sRnu5A4L%2BoSupPLF0p04sql6mWC0Y1pVEW6q3TT7ubUBdlHn5fjB4ly0Ol7zfpjnKgGaJToDtIOHK8EeQprIMUlfpMjzPKBCO9KTLGkuNw0OVmcE%3D%7Ctkp%3ABk9SR9zc8uiDaA",
+        "url": "https://www.ebay.com/itm/327238336466?_skw=%28lugia%29+%282%2Cpop%2Cseries%2C5%29+%28CGC%2CPSA%29&epid=26043383184&itmmeta=01M0SFARV9FYMVZSBM7JVKHJQF&hash=item4c30ecbfd2:g:vHUAAeSwxNpqQoRe&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDO5ZBNpEVMpjGBFpX0767Izeny6MehDC63A1CkLAF%2F%2BVPaez6upZu5JoyJKU%2Bc2O3bmfphEYWAAONHJ%2BlAB6O6JfUFADtzI%2BAmq5TZ%2BG2gHaB6Q251QSoJPNr5WNeUWaEbpLFOJmajTWbvY%2BU7tNq9tMPUNB7nWbdACQTktBU6SiggLAy561o%2F6xE9V7XXoHs%2FkuUl7FChjVAqMD4RjKgdFZGBom%2BRdIaoozEszuSqHERpFMOghQdGkXY%2Ba%2FwuJB6J9A86VAeT3mYZ%2FsQspWEIxLSA%2FN67GDVXmsI%2BdyC%2B6jtW0AJjmy6A5O1fqXT5AME%3D%7Ctkp%3ABk9SR_aNq6-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/vHUAAeSwxNpqQoRe/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787219115751,
-        "lastSeen": 1787219115751
+        "lastSeen": 1787561356369
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 4274603,
+          "saleDate": "2026-08-24",
+          "priceC": 20650,
+          "title": "Pokemon Lugia Holo Pop Series 5 2/17 PSA 6 #17-Feb",
+          "url": "https://www.ebay.com/itm/287524892275?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 6,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 4274602,
+          "saleDate": "2026-08-24",
+          "priceC": 16250,
+          "title": "Pokemon Lugia Holo Pop Series 5 2/17 PSA 6 #17-Feb",
+          "url": "https://www.ebay.com/itm/287524892250?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 6,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 4274601,
+          "saleDate": "2026-08-24",
+          "priceC": 21750,
+          "title": "Pokemon Lugia Holo Pop Series 5 2/17 PSA 6 #17-Feb",
+          "url": "https://www.ebay.com/itm/287524900882?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 6,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 4274571,
+          "saleDate": "2026-08-24",
+          "priceC": 30469,
+          "title": "2007 POKEMON POP SERIES 5 #2 LUGIA-HOLO PSA 7 #2",
+          "url": "https://www.ebay.com/itm/307128932784?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 7,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 4274475,
+          "saleDate": "2026-08-23",
+          "priceC": 5600,
+          "title": "Lugia Pokemon POP Series 5 2/17 Holo Rare in excellent condition, lightly played 2/17",
+          "url": "https://www.ebay.com/itm/237009292285?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2660851,
+          "saleDate": "2026-08-21",
+          "priceC": 29620,
+          "title": "2007 POKEMON POP SERIES 5 #2 LUGIA-HOLO PSA 7 #2",
+          "url": "https://www.ebay.com/itm/298580861084?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 7,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 1502589,
           "saleDate": "2026-08-19",
@@ -488,6 +566,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 2660772,
+          "saleDate": "2026-08-07",
+          "priceC": 19999,
+          "title": "Pokemon TCG: Lugia - Pop Series 5 Holo Rare 2/17 MOUTH BLAST SWIRL💫 [LP] 2/17",
+          "url": "https://www.ebay.com/itm/287497822430?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 1502479,
           "saleDate": "2026-08-07",
           "priceC": 4000,
@@ -519,6 +610,19 @@
           "priceC": 3600,
           "title": "Pokemon Lugia POP Series 5 002/017 Promo Holo Rare DMG 002/017",
           "url": "https://www.ebay.com/itm/327285938243?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2660775,
+          "saleDate": "2026-08-03",
+          "priceC": 900,
+          "title": "The Pokémon Company Lugia 002/017 POP Series 5 Rare Holo English 80HP Basic 002/017",
+          "url": "https://www.ebay.com/itm/377295843991?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1643,110 +1747,6 @@
           "gradingGrade": 5,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 1502542,
-          "saleDate": "2026-03-14",
-          "priceC": 36000,
-          "title": "2007 Pokemon POP Series 5 EN | Lugia Holo 2/17 | PSA 8",
-          "url": "https://www.ebay.com/itm/177950699683?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1502653,
-          "saleDate": "2026-03-11",
-          "priceC": 6999,
-          "title": "2007 POKEMON POP SERIES 5 #2 LUGIA-HOLO PSA 4 #2",
-          "url": "https://www.ebay.com/itm/136905708943?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 4,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1502543,
-          "saleDate": "2026-03-09",
-          "priceC": 27500,
-          "title": "CGC 8 Lugia 2007 POP Series 5 2/17 Cosmos Holo Pokemon Card",
-          "url": "https://www.ebay.com/itm/327026547511?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1502654,
-          "saleDate": "2026-03-08",
-          "priceC": 4100,
-          "title": "Pokemon Lugia POP Series 5 Holo Rare #2 PSA 4",
-          "url": "https://www.ebay.com/itm/287171185268?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 4,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1502496,
-          "saleDate": "2026-03-05",
-          "priceC": 16000,
-          "title": "Lugia PSA 7 w/ Photo #2 Near Mint English Holo",
-          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F86907%2F-&sharedId=web&subId1=completed",
-          "sourceMarketplace": "TCGPlayer",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "mismatch"
-        },
-        {
-          "id": 1502628,
-          "saleDate": "2026-02-23",
-          "priceC": 6000,
-          "title": "2007 Pokemon Pop Series 5 #2 Lugia Holo PSA 5",
-          "url": "https://www.ebay.com/itm/358134159586?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 5,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1502544,
-          "saleDate": "2026-02-22",
-          "priceC": 40000,
-          "title": "Pokemon Lugia POP Series 5 Holo Rare #2 BGS 8.5 *SWIRL* #2",
-          "url": "https://www.ebay.com/itm/306763401576?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "BGS",
-          "gradingGrade": 8.5,
-          "gradingDesignation": null,
-          "agreementStatus": "mismatch"
-        },
-        {
-          "id": 1502545,
-          "saleDate": "2026-02-19",
-          "priceC": 32000,
-          "title": "LUGIA HOLO PSA 8 2007 POKEMON #2/17 POP SERIES 5 NM-MT 1117",
-          "url": "https://www.ebay.com/itm/177855300422?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1756,9 +1756,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 211,
+      "englishSaleCount": 219,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787219019197
+      "lastCapturedAt": 1787561315956
     }
   }
 }

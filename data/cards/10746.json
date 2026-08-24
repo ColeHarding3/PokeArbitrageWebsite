@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 10746,
@@ -23,13 +23,13 @@
         "grade95C": 14900,
         "cgc10C": 25800,
         "cgc10PristineC": 46400,
-        "psa10C": 102574,
+        "psa10C": 102519,
         "bgs10C": 133300,
         "psa9Pop": 50,
         "psa10Pop": 22,
-        "cgc10Pop": 0,
-        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\",\"volume: 5 sales per year\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787215260214
+        "cgc10Pop": null,
+        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 5 sales per year\":\"volume: \\n    4 sales per year\"}",
+        "fetchedAt": 1787559807586
       },
       "bestCgc10": {
         "itemId": "820001592454",
@@ -37,27 +37,27 @@
         "priceC": 40348,
         "shippingC": 4610,
         "landedC": 44958,
-        "url": "https://www.ebay.com/itm/820001592454?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0F5DV7MRG2HA330EVAYPD05&hash=itembeebe75486:g:~bQAAeSwOT5qfydL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDHrPWJDviI9wHFfWAEypUNKxEmEzc8rDh4mwCLo9pGWgRkCAJoPV3A3A%2FHE2TBh2J4zqdViVpVjzMNIl9bPovaO2v1UPfl8s711EIYojc%2FpCdeaD3OoAZfygJlyIL9oCFheQvIgBh82kJ5heXuClFBjy05mrnJuCuhWpnh696U7DJpHTCG%2BBb4h0eSx6qMjGXy%2BNEzQP4lvvPC4QUZesqUqoNCOK132h%2BhmEg5ILCijVSGQx30oNAD%2FmPI6oF5xSrk4VASLxs2c7AXG%2Feqz3dIanXKuurLTsY5XLE81J%2F1PA%3D%3D%7Ctkp%3ABk9SR4i0t-WDaA",
+        "url": "https://www.ebay.com/itm/820001592454?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0SDZ4M1B8Q87XKZCA5WSADE&hash=itembeebe75486:g:~bQAAeSwOT5qfydL&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCmbdEDwiBGVmBWsC9V5H5zHGiAy5fgNhWazebvHokLIojsErCvPa%2BhaZz2nV%2FEqGX7Kidg20gDzB2Xe3t7r9AwaL%2BMBcRhJGrO%2BU0gIi7EXhcQZ8jYOvY7C38%2BqekLmvsZpvYapyvmJRV5%2BcH42JeAfHWn7zG9pRlY1uG2kTsxhytycw1akF3pxWxSsNsvuUBb1b1dmyabW9DAp1EQuBvgsBHPI6wigAbGfUfwnC9QmrEE2BpGHcZpmq9GHiv1gPVgQ4kKr387DWczdsF2NvC0G2wj204mMPKZmUum%2FQnS4zyDrMOdKuQBAequGLelM%2BEei5pnx04EhRUz5rwanbMj%7Ctkp%3ABk9SR6DK_K2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~bQAAeSwOT5qfydL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787215619257
+        "lastSeen": 1787559919428
       },
       "bestPsa10": {
         "itemId": "227468928337",
         "title": "PSA 10 2005 Pokemon TCG EX Unseen Forces Sudowoodo Reverse Holo 15/115 POP 22!Opens in a new window or tab",
         "priceC": 450000,
-        "shippingC": 746,
-        "landedC": 450746,
-        "url": "https://www.ebay.com/itm/227468928337?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0F5DV7M4BMAQNESR7AKDNY0&hash=item34f6346551:g:aT8AAeSwIVVqePMT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBcSAnPRAoH7j0s8JM1pZ2urpLrWDGBGtnZ3N71QdeNXYHvDk81LJbCEggvTFE8cnCZSwjDSXGYXTzJOagZz62gXWqQCJK8SlPU6hSnao7PL8uk50UuNs1taPcG9RPDRhMSQmXjfMyQWT9fvKMUn1Xg0ESr%2FC0zPc7daAmlBl5r9Tb0FH%2F30hwLqoudajJYDqUgCBc2hiFsPJiRWrIb1EOt62n1VHq0ujfklEZvmxY0Aebp8KcFzmJE%2By9qaad8O9yzzISC%2FpO7TcwZUYWih0HqKmopnso%2F1dPknw1JF6a95XXGD3p9NzhGFyqGpS0npbi%2BFTmxoP9sZkX9OlqMlXU8%7Ctkp%3ABk9SR4i0t-WDaA",
+        "shippingC": 562,
+        "landedC": 450562,
+        "url": "https://www.ebay.com/itm/227468928337?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0SDZ4M1V04YT10RTZZ4115J&hash=item34f6346551:g:aT8AAeSwIVVqePMT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCYxOGdVmFy5kl3pl7U79im3AgfyRQnvsf5uOTPPxnpTTGXYsAiuSrcy19TZmmLiE4O1p9J4gj4CJ3nwWbbKEO7bEkzIeLCRn20wcsCV2gn5U2GL1%2Bfux8YmHvP6Wk6sb8BVSiYxxjKVP4MlVYKIHMrLIExCLHPkzdC%2FFJK2vSAP7Hb8X%2FhLyEpg26HVx%2B7E4JvaAXx6t4qaVqKSOe0uSLgNask%2F4G4QVtVye5e6OTsTajUJJhrEvR56fBLMkhNJuVXUs0pAY4znOcguTMSz3rm92yXlyjmHXqQwEAF9Lzizw%3D%3D%7Ctkp%3ABk9SR6DK_K2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/aT8AAeSwIVVqePMT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787215619257
+        "lastSeen": 1787559919428
       },
       "bestPsa9": {
         "itemId": "336720512762",
@@ -65,20 +65,20 @@
         "priceC": 100000,
         "shippingC": 562,
         "landedC": 100562,
-        "url": "https://www.ebay.com/itm/336720512762?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0F5DV7MRH9920GG251TFE0T&hash=item4e661b46fa:g:sboAAeSwYwRqbngR&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCOb%2FMLqUFs2gIsBOuXEx0khUhLrQVO%2F5cDEEyaGSp4A4ejVqS8PIfNm61kz0gmF1w2ETK8gfMVx9mN1f1VpkjO%2FvqyaPfkE6PmqwLct%2FpG%2F842UjsV6ytgvoyIE7EA4kLru7DiW24%2BETv6OXYWl7hz0%2Fiez6I3m7PEZHYp%2BXVG68IkvF1UAtjGOYQJyHu9QHabJfaXVWleqUIT6KGNQ4t1fqc4RQMIdx01HpZTEUBCx6q8kkcAIM%2FpXhkjngI9NECwpVQkKpooQ9Nrepgxd84HAeRZLQqu6N7%2B4zmzWAdRtw%3D%3D%7Ctkp%3ABk9SR4i0t-WDaA",
+        "url": "https://www.ebay.com/itm/336720512762?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0SDZ4M174EM8MW857S71DXK&hash=item4e661b46fa:g:sboAAeSwYwRqbngR&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCOb%2FMLqUFs2gIsBOuXEx0khUhLrQVO%2F5cDEEyaGSp4A85HexvX%2B9xejF7LRDxdHlhM4IeRvQReap30%2BqyXL7Mq%2BIZFW67R%2BeHBy4WT51ka2cfDxuSTVQTvzwpEX9snPuSWeR68c3B2UhmfYaKFpzdSU854htDbDU5AZCv%2FP3GTsWUJy5GmmWYWhk1Alu7WlUfFn%2BMm6iTVI2qqOmYckxdUEuG1Gn7V0dYUnoNm2aiprMC%2F0R%2FODt2H7jwPpRKGLO92j42qD9gFtWo98DkAkCZHNfam43hL2ZjlKM55oFuDGw%3D%3D%7Ctkp%3ABk9SR6DK_K2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/sboAAeSwYwRqbngR/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787215619257
+        "lastSeen": 1787559919428
       },
       "counts": {
         "cgc10Bin": 6,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 1,
-        "psa10Auction": 0,
+        "psa10Auction": 1,
         "psa9Bin": 1
       },
       "ratio": {
@@ -93,11 +93,11 @@
         "cgc10CostC": 44958,
         "submissionFeeC": 7999,
         "totalCostC": 52957,
-        "psa10ValueC": 102574,
-        "ratio": 1.9369299620446778
+        "psa10ValueC": 102519,
+        "ratio": 1.9358913835753535
       },
       "firstOpportunityAt": 1787215619257,
-      "updatedAt": 1787215619257
+      "updatedAt": 1787559919428
     },
     "prices": {
       "variantId": 10746,
@@ -106,42 +106,56 @@
       "grade95C": 14900,
       "cgc10C": 25800,
       "cgc10PristineC": 46400,
-      "psa10C": 102574,
+      "psa10C": 102519,
       "psa9Pop": 50,
       "psa10Pop": 22,
-      "cgc10Pop": 0,
+      "cgc10Pop": null,
       "bgs10C": 133300,
-      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\",\"volume: 5 sales per year\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787215260214
+      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 5 sales per year\":\"volume: \\n    4 sales per year\"}",
+      "fetchedAt": 1787559807586
     },
     "listings": [
+      {
+        "itemId": "287541277590",
+        "title": "Pokemon Sudowoodo Reverse Holo Unseen Forces 15/115 PSA 10 Gem MintOpens in a new window or tab",
+        "priceC": 99,
+        "shippingC": 699,
+        "landedC": 798,
+        "url": "https://www.ebay.com/itm/287541277590?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0SDZ4M0TSSE0XF9RXHCZJK0&hash=item42f2cbb396:g:PPoAAeSw2Ztqit9H&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCVNihQymJkSb%2Fc1gD2RX1OdE8Bu5RgD4ghFw5GOLrTf75ZkW3ijesnOL9TVRYvhbrqUxo982nRPefeuucmydIaztjz4onyf%2Fse6WJxeVDAeFd%2BnXJH4MA1GsAyuOVzklWSVl2nBkCq67ZrLKyN0aNe7uz6g7%2Fz%2BXOEkqcOnsqshOew1DCg8WMkrJxtsnsR7lmxY4blpZRXzMQvCihs22iCbE7a7w838f92bQW99vpS8S%2FAKQSD9ZxbgO7VaiY2Jw8x9GjYon3eEFylSYget8QTb1DZuiNZaxw%2BaWNd82PoHelewLT1aKL4TI%2F6OO8F2ps%3D%7Ctkp%3ABk9SR57K_K2GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/PPoAAeSw2Ztqit9H/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787559919428,
+        "lastSeen": 1787559919428
+      },
       {
         "itemId": "820001592454",
         "title": "2005 Pokemon EX Unseen Forces Reverse Holo Sudowoodo #15 CGC 10 GEM MINTOpens in a new window or tab",
         "priceC": 40348,
         "shippingC": 4610,
         "landedC": 44958,
-        "url": "https://www.ebay.com/itm/820001592454?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0F5DV7MRG2HA330EVAYPD05&hash=itembeebe75486:g:~bQAAeSwOT5qfydL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDHrPWJDviI9wHFfWAEypUNKxEmEzc8rDh4mwCLo9pGWgRkCAJoPV3A3A%2FHE2TBh2J4zqdViVpVjzMNIl9bPovaO2v1UPfl8s711EIYojc%2FpCdeaD3OoAZfygJlyIL9oCFheQvIgBh82kJ5heXuClFBjy05mrnJuCuhWpnh696U7DJpHTCG%2BBb4h0eSx6qMjGXy%2BNEzQP4lvvPC4QUZesqUqoNCOK132h%2BhmEg5ILCijVSGQx30oNAD%2FmPI6oF5xSrk4VASLxs2c7AXG%2Feqz3dIanXKuurLTsY5XLE81J%2F1PA%3D%3D%7Ctkp%3ABk9SR4i0t-WDaA",
+        "url": "https://www.ebay.com/itm/820001592454?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0SDZ4M1B8Q87XKZCA5WSADE&hash=itembeebe75486:g:~bQAAeSwOT5qfydL&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCmbdEDwiBGVmBWsC9V5H5zHGiAy5fgNhWazebvHokLIojsErCvPa%2BhaZz2nV%2FEqGX7Kidg20gDzB2Xe3t7r9AwaL%2BMBcRhJGrO%2BU0gIi7EXhcQZ8jYOvY7C38%2BqekLmvsZpvYapyvmJRV5%2BcH42JeAfHWn7zG9pRlY1uG2kTsxhytycw1akF3pxWxSsNsvuUBb1b1dmyabW9DAp1EQuBvgsBHPI6wigAbGfUfwnC9QmrEE2BpGHcZpmq9GHiv1gPVgQ4kKr387DWczdsF2NvC0G2wj204mMPKZmUum%2FQnS4zyDrMOdKuQBAequGLelM%2BEei5pnx04EhRUz5rwanbMj%7Ctkp%3ABk9SR6DK_K2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~bQAAeSwOT5qfydL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787215619257
+        "lastSeen": 1787559919428
       },
       {
         "itemId": "820001591439",
         "title": "2005 Pokemon EX Unseen Forces Reverse Holo Sudowoodo #15 CGC 10 GEM MINTOpens in a new window or tab",
-        "priceC": 40870,
-        "shippingC": 4671,
-        "landedC": 45541,
-        "url": "https://www.ebay.com/itm/820001591439?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&itmmeta=01M0F5DV7MD1YNS2YYJ5GGAJJ1&hash=itembeebe7508f:g:~bQAAeSwOT5qfydL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAlaGMGzqJqmW1z%2FqxMGO1msf1ebGFLe6k4%2BPqXMVXb05ChTAsl0ZltvBtj19lkHQru8o1Uh6SOTVPYAfsVBTQAk0JQeVJrzNiMlVBVrVYUcvL0Ne0ONn%2FgyicPezLFBVzvItj38qaXacLhXKpX0Z6JITtqEY7Uacdq8rwjatFsrqrIZzhcJf2qHuuPrvLr6rWkC5mEvD7PMMcrOLKE7KnzKDWTgkqWSjuxp1eDgRCrUgRrkxkM%2FoZoDfdVRfdM0ccmpApZlJKv5N0obJW2rw8LH2apyKyJ5%2BOwgLpqFzt6AQ%3D%3D%7Ctkp%3ABk9SR4i0t-WDaA",
+        "priceC": 40877,
+        "shippingC": 4672,
+        "landedC": 45549,
+        "url": "https://www.ebay.com/itm/820001591439?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&itmmeta=01M0SDZ4M1ER3DMVSFMB08JWBF&hash=itembeebe7508f:g:~bQAAeSwOT5qfydL&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBSF6ax4xgjE34mcSlKVfhOmNiibKVL%2F2He3gsGl2aFP8TpXAjeVDd2rkYQYNayC2klOdMNvHMBH%2BGlDO2e0vqQrKQzqTXXEuSdbduFxk4cS8zkFyB6257EVx8A1feccOjBvIURpNM5aC6IbCMUYlWYWqWDmW%2FZE59Rfzj1JWjjaK7nDgv2%2BydSWzYNTau3MUIpiM%2FXrRRYh6FjtJPv3BF5xfiU0HAYnZE%2FWI%2BLkuuVwCWEtYEFt%2BjfzMlBGw5amh1cMZMpZVfSYjsUNu51wGboac2c2PgXtmiZj98%2BEpVjgvGvoZ4jmQKn4or0F4WOd7ye6JVKNbcVSHHceEkhJcV4%7Ctkp%3ABk9SR6DK_K2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~bQAAeSwOT5qfydL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787215619257
+        "lastSeen": 1787559919428
       },
       {
         "itemId": "397908169950",
@@ -149,13 +163,13 @@
         "priceC": 45000,
         "shippingC": 945,
         "landedC": 45945,
-        "url": "https://www.ebay.com/itm/397908169950?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0F5DV7M1EJCQX0TN2BG61YV&hash=item5ca52cd4de:g:z5sAAeSw7aZp97A0&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBtZikgT6qmBprS6j6BcZhdQogIY0xQ7GNVymg12WOMtzmX27BTYW6pzSSqw2johl0f3UTEHPYz%2BgZrCJlLD511SbDYna5En5JZoLNXD0dEtCO8RZdnZSa6csdtCby%2BZFaaIS%2FPwPTWLAj8xJL4wMh5CiYm5uTEkHIB3KcpxAr9FDg%2Fr5EeG4BhTlzwMDkZcoEpM1TUKVix2S%2FJ3AweIGljGOsp2KhyAwNet4UtNGL7pn6fPqRZQtwhvjtDCEv9C47whhqV2cVDqyBvN3VhjsURkIjJENLK3hock2wMkEEqM1xTXLNRvRErK1ZEK4%2F82tU%3D%7Ctkp%3ABk9SR4a0t-WDaA",
+        "url": "https://www.ebay.com/itm/397908169950?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0SDZ4M1SMMXZTC61Z2VZ4ZW&hash=item5ca52cd4de:g:z5sAAeSw7aZp97A0&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCAKLHg35zXvVXbFOzn0qfjhgk4GW83Th9B5D0k%2BmZggDCxxytB%2B6jSJvS9LcfUWPDsrzfb87l5I8D36G%2FlbgbO9W16TeoIuwc9ilHo%2BImX5VZTnzjBTsgia68BX%2F1FKzbtud7pqMdb%2F%2BUcrYBkw%2BQqBmCf3CCCP3jvhUMUfhHZ9qoQ5uWBJu%2FzNVbySFiprfpJdmSwweS7Buu2yvSsfgoE2LlNansvATZV2Csa%2FvI3sueqzbZcVP25aTnFcpFO6S6mqv4twF4XY99lpcF9tIuo%7Ctkp%3ABk9SR6DK_K2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/z5sAAeSw7aZp97A0/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787215619257
+        "lastSeen": 1787559919428
       },
       {
         "itemId": "800044824298",
@@ -163,13 +177,13 @@
         "priceC": 64000,
         "shippingC": 597,
         "landedC": 64597,
-        "url": "https://www.ebay.com/itm/800044824298?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0F5DV7MB1EKSSH9HAPDD4NW&hash=itemba466336ea:g:XpcAAeSwVJVp8X4i&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCLyJ0Oa7syDLEHh9sMnntNtdjHdn%2FlTHK3%2FpqaL2fFtuQGayN%2F%2Br5GyKI5UTxie9cTsjjuZCW3JbxdZqnG0aMzzNvNK03QImF9eWnO%2BZTebUhQnYGE1LwySG0JzQEoWW1%2BQy0qAUMPexyHKuiAU3puz2XZS6s4Hug8WpQezELwRhVmPMzWEvw11rd%2BN3JhdOZ%2Bb2zqNoZ%2FXxt8fV1VO2EyObpSZM0AQff2K43D7IyQI%2BUZHIJP1v1GEn3Fn8AaOlLXOThO9nJ7rZHYHSaQj%2F1Ycgbvyby8NpZ%2F4n69g6wJhw%3D%3D%7Ctkp%3ABk9SR4i0t-WDaA",
+        "url": "https://www.ebay.com/itm/800044824298?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0SDZ4M1P74G9CTV0712MA46&hash=itemba466336ea:g:XpcAAeSwVJVp8X4i&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCDF35zGxoAFZ3%2FbE2DrWwKehvVMFesvDfQXDi1FjI8w1e5ahPuLj6lzf1DY8Gso%2F5SI8jHTdlq9jTTyA0jsx9nuDNGVUo08jNBCfaeILA5eG6ceD5QT96rVF7Unsn4om8w%2FhY1RiWxjlrWg30q3Ls9hdI8jthy1R%2BV5zCZVUek%2FajF9YrjFzuoXkTPbu1cMp7z3JqNSaoizwT39aGnKyQPVAk%2BFKVlnEHvRwteAwlttPX92ym%2FZ7NSrt8QVrX4h1mTMtA%2FIQ5qA3gQkHWkx9UCy0sMu8T5BjLiCf6dHc43g5OH4RBbe7FKJSD3uQ6QL4If3YJL5bFQ7RcAE8CROb9b%7Ctkp%3ABk9SR6DK_K2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XpcAAeSwVJVp8X4i/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787215619257
+        "lastSeen": 1787559919428
       },
       {
         "itemId": "336720512762",
@@ -177,13 +191,13 @@
         "priceC": 100000,
         "shippingC": 562,
         "landedC": 100562,
-        "url": "https://www.ebay.com/itm/336720512762?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0F5DV7MRH9920GG251TFE0T&hash=item4e661b46fa:g:sboAAeSwYwRqbngR&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCOb%2FMLqUFs2gIsBOuXEx0khUhLrQVO%2F5cDEEyaGSp4A4ejVqS8PIfNm61kz0gmF1w2ETK8gfMVx9mN1f1VpkjO%2FvqyaPfkE6PmqwLct%2FpG%2F842UjsV6ytgvoyIE7EA4kLru7DiW24%2BETv6OXYWl7hz0%2Fiez6I3m7PEZHYp%2BXVG68IkvF1UAtjGOYQJyHu9QHabJfaXVWleqUIT6KGNQ4t1fqc4RQMIdx01HpZTEUBCx6q8kkcAIM%2FpXhkjngI9NECwpVQkKpooQ9Nrepgxd84HAeRZLQqu6N7%2B4zmzWAdRtw%3D%3D%7Ctkp%3ABk9SR4i0t-WDaA",
+        "url": "https://www.ebay.com/itm/336720512762?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0SDZ4M174EM8MW857S71DXK&hash=item4e661b46fa:g:sboAAeSwYwRqbngR&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCOb%2FMLqUFs2gIsBOuXEx0khUhLrQVO%2F5cDEEyaGSp4A85HexvX%2B9xejF7LRDxdHlhM4IeRvQReap30%2BqyXL7Mq%2BIZFW67R%2BeHBy4WT51ka2cfDxuSTVQTvzwpEX9snPuSWeR68c3B2UhmfYaKFpzdSU854htDbDU5AZCv%2FP3GTsWUJy5GmmWYWhk1Alu7WlUfFn%2BMm6iTVI2qqOmYckxdUEuG1Gn7V0dYUnoNm2aiprMC%2F0R%2FODt2H7jwPpRKGLO92j42qD9gFtWo98DkAkCZHNfam43hL2ZjlKM55oFuDGw%3D%3D%7Ctkp%3ABk9SR6DK_K2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/sboAAeSwYwRqbngR/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787215619257
+        "lastSeen": 1787559919428
       },
       {
         "itemId": "366606150810",
@@ -191,13 +205,13 @@
         "priceC": 130000,
         "shippingC": 572,
         "landedC": 130572,
-        "url": "https://www.ebay.com/itm/366606150810?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0F5DV7M88GV54Y08NH0DG08&hash=item555b6dec9a:g:CWQAAeSwFKNqXVYS&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCkk8fhBIKeT85jekFcY0TpNfyPW0cQOpS3V06YhdBv81XmK6HKm0AHFecYtORuERo8QJHPEcfb94lmzALAeY4AtW9ZhwO2KyL4F5pxho%2F3nDRLGx2kwVTPxV7GDNkQ2baiA1Jtzp6nDTSfJqgXReOzWzzbrY3jYfH3NjuhV6JZ13bl2ybddCdHDteakzZTN5Tbaa%2BkcIxJZBWeTNTtrh9AUxyyvVynmC1j4OKgSLOoMhG0I8%2FRmnaNu7RZdbxPAEueKHYsWbOBcIdXppYvHMk%2FclM36y5MaBtjvkeVb351ZdEr1EfF2tM9tbgt4sYhOmEagGaxTKvbKYJihtncxzR6%7Ctkp%3ABk9SR4i0t-WDaA",
+        "url": "https://www.ebay.com/itm/366606150810?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0SDZ4M1K976H6CZT0KVW2RP&hash=item555b6dec9a:g:CWQAAeSwFKNqXVYS&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCkk8fhBIKeT85jekFcY0TpNfyPW0cQOpS3V06YhdBv81XmK6HKm0AHFecYtORuERo8QJHPEcfb94lmzALAeY4AtW9ZhwO2KyL4F5pxho%2F3nDRLGx2kwVTPxV7GDNkQ2bYCCXVVxXYnHvfHcn5JTJ0vWLmZdwoUiEJRIP0AdKnRf20aMhHR%2BnxuTtKWHwOvMRJnd1Y88sfwS%2FJSqisnmrrXtLwtfh6qmr5BLSaBTCs1rRwCtoDETN7rpr1LocoooPd%2BA656BhFTn3I5Izncq%2BY%2Fy6q%2BkxeMH3f9Ag7GD3UBFIauERXR109OWEL82KhqDb%2FV1n161%2FSNaWmYtnwoIdvN%7Ctkp%3ABk9SR6DK_K2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/CWQAAeSwFKNqXVYS/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787215619257
+        "lastSeen": 1787559919428
       },
       {
         "itemId": "227293904161",
@@ -205,27 +219,27 @@
         "priceC": 149999,
         "shippingC": 499,
         "landedC": 150498,
-        "url": "https://www.ebay.com/itm/227293904161?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0F5DV7MVB77VRJDK9S78HA5&hash=item34ebc5bd21:g:FG0AAeSw~F1p2A5X&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDVeyH1p6IXB%2FLo4glv0bS9e6ISZlf4hE3ZRfUf24cmh9xMLklsj63MbJRwqaeKRF8CIqcJzrB8U1JiNWkbln7Di1bEFQTZ3AOvu9xVKoqvlQTxw9lixuamE5aGgnshKaXfB73YhDf0YfI%2FaF6KQppoU2rGLUmgbYYxKJ6CIx3y0634J6Habn33SVSlPx55aejGhi6b6kuu2GKmy39I34DbY9RnMCQIG0Xj0qOISmA8eIu9sMB8tK%2B2YXwDwuYtf499sMW8jw3o1LPf%2FtLxmot7Owzp%2BfKnm3QtAPYZ%2FGjaPVKbQ1JlgIMvq4LomhO%2BoP0COsRzMR00EEqtcIxaJeoA%7Ctkp%3ABk9SR4i0t-WDaA",
+        "url": "https://www.ebay.com/itm/227293904161?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0SDZ4M1BKW7P7NGEW7ZSKMJ&hash=item34ebc5bd21:g:FG0AAeSw~F1p2A5X&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDJhSQXZVHvN52EkGSnDMK998RoC3S0OJmsSe6V6Lh8YDNhKVXRGID%2FSuYKa1pBErsQzeRtOMdcxPAlqBdHwTlDcU%2Bk3uN6DeqcqqJ9OuML3exy4lVXrYszG08MjeISQb%2BlKATyCf8DRugFfcb3ep0NmL%2FW6tYGslFzGqdxgxstg3gobYUVDqNL1GY1Y5hMH6rrFhpSDTgnFmxgV53vZXaItmYfEPlkcf1IzzkEkHigOgSXKT6XRvT269vhc7VQsdYqKEOLZz91Ej%2BSWgUja7h9h%2Buhd87kDM%2BETcszkhdAMw%3D%3D%7Ctkp%3ABk9SR6DK_K2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/FG0AAeSw~F1p2A5X/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787215619257
+        "lastSeen": 1787559919428
       },
       {
         "itemId": "227468928337",
         "title": "PSA 10 2005 Pokemon TCG EX Unseen Forces Sudowoodo Reverse Holo 15/115 POP 22!Opens in a new window or tab",
         "priceC": 450000,
-        "shippingC": 746,
-        "landedC": 450746,
-        "url": "https://www.ebay.com/itm/227468928337?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0F5DV7M4BMAQNESR7AKDNY0&hash=item34f6346551:g:aT8AAeSwIVVqePMT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBcSAnPRAoH7j0s8JM1pZ2urpLrWDGBGtnZ3N71QdeNXYHvDk81LJbCEggvTFE8cnCZSwjDSXGYXTzJOagZz62gXWqQCJK8SlPU6hSnao7PL8uk50UuNs1taPcG9RPDRhMSQmXjfMyQWT9fvKMUn1Xg0ESr%2FC0zPc7daAmlBl5r9Tb0FH%2F30hwLqoudajJYDqUgCBc2hiFsPJiRWrIb1EOt62n1VHq0ujfklEZvmxY0Aebp8KcFzmJE%2By9qaad8O9yzzISC%2FpO7TcwZUYWih0HqKmopnso%2F1dPknw1JF6a95XXGD3p9NzhGFyqGpS0npbi%2BFTmxoP9sZkX9OlqMlXU8%7Ctkp%3ABk9SR4i0t-WDaA",
+        "shippingC": 562,
+        "landedC": 450562,
+        "url": "https://www.ebay.com/itm/227468928337?_skw=%28sudowoodo%29+%2815%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=12043364954&itmmeta=01M0SDZ4M1V04YT10RTZZ4115J&hash=item34f6346551:g:aT8AAeSwIVVqePMT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCYxOGdVmFy5kl3pl7U79im3AgfyRQnvsf5uOTPPxnpTTGXYsAiuSrcy19TZmmLiE4O1p9J4gj4CJ3nwWbbKEO7bEkzIeLCRn20wcsCV2gn5U2GL1%2Bfux8YmHvP6Wk6sb8BVSiYxxjKVP4MlVYKIHMrLIExCLHPkzdC%2FFJK2vSAP7Hb8X%2FhLyEpg26HVx%2B7E4JvaAXx6t4qaVqKSOe0uSLgNask%2F4G4QVtVye5e6OTsTajUJJhrEvR56fBLMkhNJuVXUs0pAY4znOcguTMSz3rm92yXlyjmHXqQwEAF9Lzizw%3D%3D%7Ctkp%3ABk9SR6DK_K2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/aT8AAeSwIVVqePMT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787215619257
+        "lastSeen": 1787559919428
       }
     ],
     "marketHistory": {
@@ -1393,7 +1407,7 @@
       ],
       "englishSaleCount": 86,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787215257877
+      "lastCapturedAt": 1787559806297
     }
   }
 }

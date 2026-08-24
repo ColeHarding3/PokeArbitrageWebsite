@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 2664,
@@ -29,7 +29,7 @@
         "psa10Pop": 3,
         "cgc10Pop": 4,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787212595504
+        "fetchedAt": 1787557954849
       },
       "bestCgc10": {
         "itemId": "137641359664",
@@ -37,13 +37,13 @@
         "priceC": 500000,
         "shippingC": 840,
         "landedC": 500840,
-        "url": "https://www.ebay.com/itm/137641359664?_skw=%28marill%29+%2853%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383945&itmmeta=01M0F2TVPW77078BWB8006P4CV&hash=item200c107930:g:~~0AAeSwicVqhlCB&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAojW00PnfzCJIsjohXg5ADfTJ8OS%2BnLPl9QWnVBCcvby8pbtqWM1le9iKgvuhMvLRAaPPAR8ClyGnqDAFQIzdFrbNU5DMN3NApCgjHJ9T4MvEBO9fr3JQcBEnjWBL7Xz0x6sDXLFvXNzXc1qh1xoNZmhW9Gh62EL0iGZbCX8Eonf0h5uFn1z9O%2Fc6Tplu%2Fin8GQIZFC1iXbTd1mtXZ5Y00cLgLNbWFu1DvaMlDNjnvLoDrv8nXUQCdg5%2FYcFUI2JFT2cLtM%2B%2FyhPYWHmxYnPqJ9sMFdxnbIOeMUzxbek3zqse8qiv9UYDDKAe7vn3MGbg%3D%7Ctkp%3ABk9SR9C76-KDaA",
+        "url": "https://www.ebay.com/itm/137641359664?_skw=%28marill%29+%2853%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383945&itmmeta=01M0SC6B93ZYHFEE7FBGCTZEFC&hash=item200c107930:g:~~0AAeSwicVqhlCB&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBYIM5WNkJsrwiw4WRWmJwAU2JLDDZ6d5II88ePq%2FomsjF0U5VV8tb5QAanBYbH09P%2BOzM%2F%2BaqdeMr%2Fn%2B1%2FyqY7Ka%2Fl%2FJolF1YEygKpZFwRaRwwzyK06KcCw3juVo8s76aq0BWzH%2FlD7R1lIzzMKRYGnKoF47XP4pI8rwBitNVuoOOLSR28Pzu6DrFXieihgqCIIRosO94xh4s3%2BT3po28HJCJe8M3aXaQw6%2BPJi%2BNtpWoRTMms3J%2F8kyD8vIYQ3f8RAAhlOW2M9iG65vy8Pg42%7Ctkp%3ABk9SR-a0mayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~~0AAeSwicVqhlCB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787212719513,
-        "lastSeen": 1787212719513
+        "lastSeen": 1787558075872
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -71,7 +71,7 @@
         "ratio": 0.29950944274246716
       },
       "firstOpportunityAt": 1787212719513,
-      "updatedAt": 1787212719513
+      "updatedAt": 1787558075872
     },
     "prices": {
       "variantId": 2664,
@@ -86,7 +86,7 @@
       "cgc10Pop": 4,
       "bgs10C": 200800,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787212595504
+      "fetchedAt": 1787557954849
     },
     "listings": [
       {
@@ -95,27 +95,27 @@
         "priceC": 500000,
         "shippingC": 840,
         "landedC": 500840,
-        "url": "https://www.ebay.com/itm/137641359664?_skw=%28marill%29+%2853%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383945&itmmeta=01M0F2TVPW77078BWB8006P4CV&hash=item200c107930:g:~~0AAeSwicVqhlCB&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAojW00PnfzCJIsjohXg5ADfTJ8OS%2BnLPl9QWnVBCcvby8pbtqWM1le9iKgvuhMvLRAaPPAR8ClyGnqDAFQIzdFrbNU5DMN3NApCgjHJ9T4MvEBO9fr3JQcBEnjWBL7Xz0x6sDXLFvXNzXc1qh1xoNZmhW9Gh62EL0iGZbCX8Eonf0h5uFn1z9O%2Fc6Tplu%2Fin8GQIZFC1iXbTd1mtXZ5Y00cLgLNbWFu1DvaMlDNjnvLoDrv8nXUQCdg5%2FYcFUI2JFT2cLtM%2B%2FyhPYWHmxYnPqJ9sMFdxnbIOeMUzxbek3zqse8qiv9UYDDKAe7vn3MGbg%3D%7Ctkp%3ABk9SR9C76-KDaA",
+        "url": "https://www.ebay.com/itm/137641359664?_skw=%28marill%29+%2853%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383945&itmmeta=01M0SC6B93ZYHFEE7FBGCTZEFC&hash=item200c107930:g:~~0AAeSwicVqhlCB&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBYIM5WNkJsrwiw4WRWmJwAU2JLDDZ6d5II88ePq%2FomsjF0U5VV8tb5QAanBYbH09P%2BOzM%2F%2BaqdeMr%2Fn%2B1%2FyqY7Ka%2Fl%2FJolF1YEygKpZFwRaRwwzyK06KcCw3juVo8s76aq0BWzH%2FlD7R1lIzzMKRYGnKoF47XP4pI8rwBitNVuoOOLSR28Pzu6DrFXieihgqCIIRosO94xh4s3%2BT3po28HJCJe8M3aXaQw6%2BPJi%2BNtpWoRTMms3J%2F8kyD8vIYQ3f8RAAhlOW2M9iG65vy8Pg42%7Ctkp%3ABk9SR-a0mayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~~0AAeSwicVqhlCB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787212719513,
-        "lastSeen": 1787212719513
+        "lastSeen": 1787558075872
       },
       {
-        "itemId": "318687739332",
+        "itemId": "318770078435",
         "title": "2003 POKEMON AQUAPOLIS MARILL REVERSE HOLO 53/147 CGC 10 PRISTINE ***POP 1***Opens in a new window or tab",
         "priceC": 999900,
         "shippingC": 0,
         "landedC": 999900,
-        "url": "https://www.ebay.com/itm/318687739332?_skw=%28marill%29+%2853%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383945&itmmeta=01M0F2TVPX03C3M037320JA1ES&hash=item4a3344fdc4:g:-OsAAeSwlDZqam0F&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAOUOOWb1Fp%2FgaeASnvTC38%2FWQKDrpCDjXgWDgJG%2BDyqoQrO8sW%2BCss%2B1OXbXBPMctMaqshs7qND54rMPhtwU%2FuX9qz5W6vhrpKOVy1MnsiPpFbpElTFjSwyiEhlk9UAyzHwGw5JEyQSoNtfoecldmZMW4k7H8bC2eYX3%2FCkxw%2BTaJHyIo9BbHxclt%2BmDDgbe0u5SIbiDQBAAPXSoogFkapxyVdOuDRqDlz1Nswa0txzIDGiGeQ4HhUkptdSA3EEg%2Bw3pjUQywI1TYVGgp86UNJ%7Ctkp%3ABk9SR9C76-KDaA",
+        "url": "https://www.ebay.com/itm/318770078435?_skw=%28marill%29+%2853%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383945&itmmeta=01M0SC6B93ZFYRV9CJ4KNB1BR6&hash=item4a382d62e3:g:-OsAAeSwlDZqam0F&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBG%2BGaMP6ogeG%2FUXmR%2FRe0VtnIcQGCIF0bbMNztxIMVrBijYefMQDIEjkSqnJvgQSrO1zOR%2FmpRBWZ9fVGHoT1cS5j5uA6Bdf2791JRqfmnMJPDQ88vkaRen4hz8eDNLWab2AwQeRaQ753xmw79u6WNfMQnzNsXYL7CgWb9Nc0gx0gEUhBFt6tc%2BkVQBrcGjmrejqllhYcR4fH1S9rmHQA5RgSnFZNnzbiLSvC4%2Fp9Y193jpWwU3iKGs3rxOoyQPu3FU%2BT%2BWveWCnadTZCQtNsP%7Ctkp%3ABk9SR-a0mayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-OsAAeSwlDZqam0F/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "freshness": "live",
-        "firstSeen": 1787165573087,
-        "lastSeen": 1787212719513
+        "firstSeen": 1787558075872,
+        "lastSeen": 1787558075872
       }
     ],
     "marketHistory": {
@@ -839,7 +839,7 @@
       "monthlyPsa10": [],
       "englishSaleCount": 55,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787212593538
+      "lastCapturedAt": 1787557953389
     }
   }
 }

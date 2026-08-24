@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 4083,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/a5ffaa05614d8ae5438f99c3907ea2c787f06ddb9dbcd654997279c837f0708c/1600.jpg",
       "popularityScore": 68,
       "market": {
-        "ungradedC": 2578,
+        "ungradedC": 2536,
         "grade9C": 302500,
         "grade95C": 332800,
         "cgc10C": null,
         "cgc10PristineC": null,
         "psa10C": null,
         "bgs10C": null,
-        "psa9Pop": 0,
-        "psa10Pop": 0,
-        "cgc10Pop": 0,
+        "psa9Pop": null,
+        "psa10Pop": null,
+        "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787214003835
+        "fetchedAt": 1787559196694
       },
       "bestCgc10": {
         "itemId": "257640915366",
@@ -37,13 +37,13 @@
         "priceC": 25000,
         "shippingC": 597,
         "landedC": 25597,
-        "url": "https://www.ebay.com/itm/257640915366?_skw=%28armaldo%29+%2816%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=6043385442&itmmeta=01M0F466BBZJVWZDYYRSDAK5Q2&hash=item3bfc9861a6:g:NEgAAeSwQBhqcB4U&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xChdTogg%2B9X9JdrwHVT0Kpar%2Fy59iDkLbEe1UE9CzbEam2LQSoBBqHl2PTNgmLmCD1MdB4cwclf1KBTPT02BIFdRbrXxOr0TPBT%2F7gMIxYfHD03vqeka0b%2FBeAfWUrhC0eyCerMjsAuG2ADO5yJZZgVmb%2BMfAVeDTkgYddbotNnB%2FZOEn%2FXDyIF2LX%2F%2BFPYxOw7H4JvUhQbCirgijP8%2BGugKbDl296mPOsFN8a5MbapH%2BJPM3IeK10Q5yH%2Bu1I7XTjlvQ8Df8qG67RdDO%2FXlAOX7%2Fg%2B%2F2wdG36Hzrl2OnbX8KiSed2X181JoUqa3UP7DK8%3D%7Ctkp%3ABk9SR_LlmOSDaA",
+        "url": "https://www.ebay.com/itm/257640915366?_skw=%28armaldo%29+%2816%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=6043385442&itmmeta=01M0SD9NBR7C8ZK0CSEF7WASRS&hash=item3bfc9861a6:g:NEgAAeSwQBhqcB4U&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBTxpmCybVHp7fCZ3O%2BNJjDwYpLWggxRu5P8pKFmUkI%2FS79M2MQKZ7RBW93I0Rs0JozqWztOn4T1fHSHEw%2FJi1gpywAt%2BfPmhDeJLMcMDAGQIVY7C4baKz1z0U7B8B7fEdJTjv5MYLornCa054T4JL%2FPua1FbQOwUO%2BYnuCCtGApAM%2BdgeZNjiLDuAHGlQo%2FLjoXU1hFGoRmU%2BLbMSDe3xmVUB2DHNx4voU8CHUlFUuH6dYsIZ4p9YqgB1m9kqw6Kc7v7LZgIMfkg5LC7fUmFxv%7Ctkp%3ABk9SR7zWpq2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/NEgAAeSwQBhqcB4U/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787214129046
+        "lastSeen": 1787559239530
       },
       "bestPsa10": null,
       "bestPsa9": {
@@ -52,13 +52,13 @@
         "priceC": 17495,
         "shippingC": 0,
         "landedC": 17495,
-        "url": "https://www.ebay.com/itm/257626473615?_skw=%28armaldo%29+%2816%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=6043385442&itmmeta=01M0F466BBBDTB6FEK0S8YWE9Q&hash=item3bfbbc048f:g:oN4AAeSw-1dqWnH2&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBhLMqctbzojqj%2FL2QkJIm3muCSCcL6Y84H0I06tV9xQRaqNUaD8x7PYr3Lkr7FGVVDtnAyygAYHhWG%2B90IkZRVJPHEGkufRgk9JG5coaz78%2BUQEfxIyEvJ4WDpGoDpCLpTBPP35XVDQBTapM0Y6fnMB1cEgJidRydrHZMCjKGuVDwda7l9TparsPq9iZr4KA922A%2FGgT0g3KpfcaQx%2Bc%2BwCMd9hsRLuZQpZpkA%2F4ASIf16yzaCM1EZYwnyQyN3X16w8nA3D6wf2%2BGe93RT5dEu9OUeyqgoH5BxhJyBhwZJ5XNcybbgYzINbhx3e4Ei27k%3D%7Ctkp%3ABk9SR_LlmOSDaA",
+        "url": "https://www.ebay.com/itm/257626473615?_skw=%28armaldo%29+%2816%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=6043385442&itmmeta=01M0SD9NBRG32SGY53BZS5J5G9&hash=item3bfbbc048f:g:oN4AAeSw-1dqWnH2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAVUWEh6LxjAXag0C%2B%2F30uYbD4y3MLKGp4wtJajIPAG9s7Nn5BQmqnqESUkUpss1wXFrxqtZOwKIEZvgqMN6cJ8%2F9eDZRD5Vey56oMwRNTF3%2FVueIjNRty9LaDyfw%2BnmNVrERquDDUpbOmgOUygcobKe96lMKveRkoztYDcHxep56SBq6yGypvsAzl8aS0hzhRh3CthkdQ7ogT25eLUyQpWPRTyT1Y3aaiM6snrgKgKlgnWevH3zT0z3fUMFS1N3A17DXjoFoYqW5VXIXVAMXEr%7Ctkp%3ABk9SR7zWpq2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/oN4AAeSw-1dqWnH2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787214129046
+        "lastSeen": 1787559239530
       },
       "counts": {
         "cgc10Bin": 1,
@@ -70,22 +70,22 @@
       },
       "ratio": null,
       "firstOpportunityAt": 1787061558184,
-      "updatedAt": 1787214129046
+      "updatedAt": 1787559239530
     },
     "prices": {
       "variantId": 4083,
-      "ungradedC": 2578,
+      "ungradedC": 2536,
       "grade9C": 302500,
       "grade95C": 332800,
       "cgc10C": null,
       "cgc10PristineC": null,
       "psa10C": null,
-      "psa9Pop": 0,
-      "psa10Pop": 0,
-      "cgc10Pop": 0,
+      "psa9Pop": null,
+      "psa10Pop": null,
+      "cgc10Pop": null,
       "bgs10C": null,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787214003835
+      "fetchedAt": 1787559196694
     },
     "listings": [
       {
@@ -94,13 +94,13 @@
         "priceC": 17495,
         "shippingC": 0,
         "landedC": 17495,
-        "url": "https://www.ebay.com/itm/257626473615?_skw=%28armaldo%29+%2816%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=6043385442&itmmeta=01M0F466BBBDTB6FEK0S8YWE9Q&hash=item3bfbbc048f:g:oN4AAeSw-1dqWnH2&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBhLMqctbzojqj%2FL2QkJIm3muCSCcL6Y84H0I06tV9xQRaqNUaD8x7PYr3Lkr7FGVVDtnAyygAYHhWG%2B90IkZRVJPHEGkufRgk9JG5coaz78%2BUQEfxIyEvJ4WDpGoDpCLpTBPP35XVDQBTapM0Y6fnMB1cEgJidRydrHZMCjKGuVDwda7l9TparsPq9iZr4KA922A%2FGgT0g3KpfcaQx%2Bc%2BwCMd9hsRLuZQpZpkA%2F4ASIf16yzaCM1EZYwnyQyN3X16w8nA3D6wf2%2BGe93RT5dEu9OUeyqgoH5BxhJyBhwZJ5XNcybbgYzINbhx3e4Ei27k%3D%7Ctkp%3ABk9SR_LlmOSDaA",
+        "url": "https://www.ebay.com/itm/257626473615?_skw=%28armaldo%29+%2816%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=6043385442&itmmeta=01M0SD9NBRG32SGY53BZS5J5G9&hash=item3bfbbc048f:g:oN4AAeSw-1dqWnH2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAVUWEh6LxjAXag0C%2B%2F30uYbD4y3MLKGp4wtJajIPAG9s7Nn5BQmqnqESUkUpss1wXFrxqtZOwKIEZvgqMN6cJ8%2F9eDZRD5Vey56oMwRNTF3%2FVueIjNRty9LaDyfw%2BnmNVrERquDDUpbOmgOUygcobKe96lMKveRkoztYDcHxep56SBq6yGypvsAzl8aS0hzhRh3CthkdQ7ogT25eLUyQpWPRTyT1Y3aaiM6snrgKgKlgnWevH3zT0z3fUMFS1N3A17DXjoFoYqW5VXIXVAMXEr%7Ctkp%3ABk9SR7zWpq2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/oN4AAeSw-1dqWnH2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787214129046
+        "lastSeen": 1787559239530
       },
       {
         "itemId": "257640915366",
@@ -108,13 +108,13 @@
         "priceC": 25000,
         "shippingC": 597,
         "landedC": 25597,
-        "url": "https://www.ebay.com/itm/257640915366?_skw=%28armaldo%29+%2816%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=6043385442&itmmeta=01M0F466BBZJVWZDYYRSDAK5Q2&hash=item3bfc9861a6:g:NEgAAeSwQBhqcB4U&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xChdTogg%2B9X9JdrwHVT0Kpar%2Fy59iDkLbEe1UE9CzbEam2LQSoBBqHl2PTNgmLmCD1MdB4cwclf1KBTPT02BIFdRbrXxOr0TPBT%2F7gMIxYfHD03vqeka0b%2FBeAfWUrhC0eyCerMjsAuG2ADO5yJZZgVmb%2BMfAVeDTkgYddbotNnB%2FZOEn%2FXDyIF2LX%2F%2BFPYxOw7H4JvUhQbCirgijP8%2BGugKbDl296mPOsFN8a5MbapH%2BJPM3IeK10Q5yH%2Bu1I7XTjlvQ8Df8qG67RdDO%2FXlAOX7%2Fg%2B%2F2wdG36Hzrl2OnbX8KiSed2X181JoUqa3UP7DK8%3D%7Ctkp%3ABk9SR_LlmOSDaA",
+        "url": "https://www.ebay.com/itm/257640915366?_skw=%28armaldo%29+%2816%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=6043385442&itmmeta=01M0SD9NBR7C8ZK0CSEF7WASRS&hash=item3bfc9861a6:g:NEgAAeSwQBhqcB4U&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBTxpmCybVHp7fCZ3O%2BNJjDwYpLWggxRu5P8pKFmUkI%2FS79M2MQKZ7RBW93I0Rs0JozqWztOn4T1fHSHEw%2FJi1gpywAt%2BfPmhDeJLMcMDAGQIVY7C4baKz1z0U7B8B7fEdJTjv5MYLornCa054T4JL%2FPua1FbQOwUO%2BYnuCCtGApAM%2BdgeZNjiLDuAHGlQo%2FLjoXU1hFGoRmU%2BLbMSDe3xmVUB2DHNx4voU8CHUlFUuH6dYsIZ4p9YqgB1m9kqw6Kc7v7LZgIMfkg5LC7fUmFxv%7Ctkp%3ABk9SR7zWpq2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/NEgAAeSwQBhqcB4U/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787214129046
+        "lastSeen": 1787559239530
       }
     ],
     "marketHistory": {
@@ -1072,7 +1072,7 @@
       "monthlyPsa10": [],
       "englishSaleCount": 73,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787214001295
+      "lastCapturedAt": 1787559195004
     }
   }
 }

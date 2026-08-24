@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 4501,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/ec091e662e3230f977d0d7ac56dc074be60e008b0b3e88cf5bf3fb42a5eebd6c/1600.jpg",
       "popularityScore": 80,
       "market": {
-        "ungradedC": 2872,
+        "ungradedC": 2526,
         "grade9C": 10350,
         "grade95C": 11400,
-        "cgc10C": 9250,
-        "cgc10PristineC": 16700,
-        "psa10C": 120767,
-        "bgs10C": 157000,
+        "cgc10C": 17850,
+        "cgc10PristineC": 32100,
+        "psa10C": 128634,
+        "bgs10C": 167200,
         "psa9Pop": 57,
         "psa10Pop": 17,
         "cgc10Pop": 20,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787214443369
+        "fetchedAt": 1787559470918
       },
       "bestCgc10": {
         "itemId": "287370639145",
@@ -37,28 +37,28 @@
         "priceC": 84999,
         "shippingC": 0,
         "landedC": 84999,
-        "url": "https://www.ebay.com/itm/287370639145?_skw=%28duskull%29+%2858%2Cdeoxys%29+%28CGC%2CPSA%29&epid=23043383893&itmmeta=01M0F4MGRZZH85CH2SCEZJNJNP&hash=item42e89ff729:g:HToAAeSwwMlqH3nL&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDR%2B5Z7GZfda9%2BWo5gg%2FGqYvVWp8jwjH8%2FJ7lT6%2BHFtVTvEfX4pSqpZjJ8Vc4hdOdL0o%2F61dsZPa85Hb7EgUsOH4hCFqa1x2FXOkHTTK5pXoqwkyNch5OvBxS1HQZvTixLY49nNsNA6Rlx4gYo8aT%2B7QMK6GJIqmmw3Gg1At3fFg6unr9I69Od72SIX4FGAGdntclED7eztYHaQKRKVZ2%2FCdmmVsY1%2BP48Dni0WNlBYn01viK4siHM3zGTOX7QFgq%2FyAohqZJEDmsPiU5Nmbpqj4uCuepVb926JuOrs7xuSEFAtkOJFcXb7ef5uNB7H7yY%3D%7Ctkp%3ABk9SR-CM0uSDaA",
+        "url": "https://www.ebay.com/itm/287370639145?_skw=%28duskull%29+%2858%2Cdeoxys%29+%28CGC%2CPSA%29&epid=23043383893&itmmeta=01M0SDMD99WT7P509RSXWVV7G5&hash=item42e89ff729:g:HToAAeSwwMlqH3nL&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBmQjYKzPI61fRkvEpXLeoufdcGFGiAz5vRBUqwULEJlYCVj%2BpUTZrv%2FSNQgInHVfVebAgD3ODYsDs3re1aypN5hvIyAcd%2F5AZmUXdV43aokM00TFJS2BRY3itYNuElqEieiN8TscDuLR0%2FQU25Av%2BwMWtIZXwqYzn%2F7k%2FD0HULPTECrXZnc%2Bn5oMDcv6Kg%2FsedrkWkp2tVpNSaXEwhfR%2B3rOrEWXYmq%2FT5sKOEw02oKo2NkYpPUBvrcTuPhe62byk%2BrL1%2B32m2T0EpKmBv%2BNFU%7Ctkp%3ABk9SR_LU0a2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HToAAeSwwMlqH3nL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787214704655
+        "lastSeen": 1787559609190
       },
       "bestPsa10": null,
       "bestPsa9": {
         "itemId": "287479599405",
         "title": "2005 Pokemon EX Deoxys 58 Duskull Reverse Foil PSA 9 MintOpens in a new window or tab",
-        "priceC": 32653,
-        "shippingC": 2272,
-        "landedC": 34925,
-        "url": "https://www.ebay.com/itm/287479599405?_skw=%28duskull%29+%2858%2Cdeoxys%29+%28CGC%2CPSA%29&epid=6052766154&itmmeta=01M0F4MGRZVAJN1B6BWWPXCM8J&hash=item42ef1e912d:g:7n0AAeSwf4JqYghw&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBCdnz38OhnrZoenVBarzxQJCWrKy2siqiGnqE5cf%2FwugfQ7d6dfOdU6tfOT498%2FkPA%2BCgmt5O7rXbq2kK0xDdHmogsr3%2BdrdTW8KsQ2HHBVk8fcGsdfWsWZPPRSd%2FzWmNm3YF%2Fdl8fr1%2BlY6XfqMbobVeL5KGrgUTl7NcCc7eOmk1gSgd8C1Y1lnidn3mE3HfZi3BoknYqntGMmW%2Fvbtb6%2B7fp01Ys%2Fgd9pWjunSZG1aS1gUZyuzLeX7lYZEsJvfVSIstnsbzFA9A%2BK4qNjFHFEwGF6%2B3cgiSIfd1NKXLhJI3l76q%2BE%2BpdVF0vpOZot%2BE%3D%7Ctkp%3ABk9SR-CM0uSDaA",
+        "priceC": 32744,
+        "shippingC": 2418,
+        "landedC": 35162,
+        "url": "https://www.ebay.com/itm/287479599405?_skw=%28duskull%29+%2858%2Cdeoxys%29+%28CGC%2CPSA%29&epid=6052766154&itmmeta=01M0SDMD99KXD9D9HF4H2S39EM&hash=item42ef1e912d:g:7n0AAeSwf4JqYghw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAS8raLs85VsgNnE6abeh82Cha4XjB6b0AKQYqk1Xc77HcUW6xnZh9%2Bdbblcd%2BKdJfaBXDuSHPfdw6Pqo1yFQtVAQCRWwmdupBITO1I3a7M8UDwBOgZuH3HX2hTexghSCqiOzCUeA4zWK%2BmlvwwTcn0UYGuIi10BUCh4rpF4gK2LVSp2kc%2BPBBrqrFD2Fdj7JqA9leGIP4atfiuXjsEUc7Bkd1hFe3Yq%2B2ptvsulPkeQgAFze0gd%2BR5iLCP44MT5pVBn4GCmVoeqlefdEKBGGbm%7Ctkp%3ABk9SR_LU0a2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7n0AAeSwf4JqYghw/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787214704655
+        "lastSeen": 1787559609190
       },
       "counts": {
         "cgc10Bin": 1,
@@ -80,69 +80,83 @@
         "cgc10CostC": 84999,
         "submissionFeeC": 7999,
         "totalCostC": 92998,
-        "psa10ValueC": 120767,
-        "ratio": 1.2985978193079422
+        "psa10ValueC": 128634,
+        "ratio": 1.3831910363663735
       },
       "firstOpportunityAt": 1787066511306,
-      "updatedAt": 1787214704655
+      "updatedAt": 1787559609190
     },
     "prices": {
       "variantId": 4501,
-      "ungradedC": 2872,
+      "ungradedC": 2526,
       "grade9C": 10350,
       "grade95C": 11400,
-      "cgc10C": 9250,
-      "cgc10PristineC": 16700,
-      "psa10C": 120767,
+      "cgc10C": 17850,
+      "cgc10PristineC": 32100,
+      "psa10C": 128634,
       "psa9Pop": 57,
       "psa10Pop": 17,
       "cgc10Pop": 20,
-      "bgs10C": 157000,
+      "bgs10C": 167200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787214443369
+      "fetchedAt": 1787559470918
     },
     "listings": [
       {
+        "itemId": "287541279055",
+        "title": "Pokemon Duskull Reverse Holo Deoxys 58/107 PSA 9 MintOpens in a new window or tab",
+        "priceC": 99,
+        "shippingC": 699,
+        "landedC": 798,
+        "url": "https://www.ebay.com/itm/287541279055?_skw=%28duskull%29+%2858%2Cdeoxys%29+%28CGC%2CPSA%29&epid=23043383893&itmmeta=01M0SDMD98TFNQDV4G72V8JAFW&hash=item42f2cbb94f:g:w18AAeSwiIVqit9s&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDqC4J%2FfsiXMCAxmIOpExZmS43WDnp31pILwvHH2mw3s5A17Z75fMDH%2F2eXp88Qf3NQOebG59LoTyYs%2BzeSTt5p1Bp54a6obe5HAWIv%2BY4xAtacN0NVEqBCdTZsdrd6g9%2FyXFXkiHUBIlr546a%2FYxb%2BXKwOxRR2edHyzy%2B7svCCmrFG6lNGaamX0MmW4k80UuP57LKfQnLGyL2ehJzoGRtRl5AnVvpuNDM9XTDe1Ccom0NRi2bPSJCfiGLC5k3wRNhICf1s9qnMop%2F3Ptph83B6GwqitZ0JBws4JeaGqHfGN4cLFznKKeUxsLh2OX6d4XU%3D%7Ctkp%3ABk9SR_DU0a2GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/w18AAeSwiIVqit9s/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787559609190,
+        "lastSeen": 1787559609190
+      },
+      {
         "itemId": "287479599405",
         "title": "2005 Pokemon EX Deoxys 58 Duskull Reverse Foil PSA 9 MintOpens in a new window or tab",
-        "priceC": 32653,
-        "shippingC": 2272,
-        "landedC": 34925,
-        "url": "https://www.ebay.com/itm/287479599405?_skw=%28duskull%29+%2858%2Cdeoxys%29+%28CGC%2CPSA%29&epid=6052766154&itmmeta=01M0F4MGRZVAJN1B6BWWPXCM8J&hash=item42ef1e912d:g:7n0AAeSwf4JqYghw&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBCdnz38OhnrZoenVBarzxQJCWrKy2siqiGnqE5cf%2FwugfQ7d6dfOdU6tfOT498%2FkPA%2BCgmt5O7rXbq2kK0xDdHmogsr3%2BdrdTW8KsQ2HHBVk8fcGsdfWsWZPPRSd%2FzWmNm3YF%2Fdl8fr1%2BlY6XfqMbobVeL5KGrgUTl7NcCc7eOmk1gSgd8C1Y1lnidn3mE3HfZi3BoknYqntGMmW%2Fvbtb6%2B7fp01Ys%2Fgd9pWjunSZG1aS1gUZyuzLeX7lYZEsJvfVSIstnsbzFA9A%2BK4qNjFHFEwGF6%2B3cgiSIfd1NKXLhJI3l76q%2BE%2BpdVF0vpOZot%2BE%3D%7Ctkp%3ABk9SR-CM0uSDaA",
+        "priceC": 32744,
+        "shippingC": 2418,
+        "landedC": 35162,
+        "url": "https://www.ebay.com/itm/287479599405?_skw=%28duskull%29+%2858%2Cdeoxys%29+%28CGC%2CPSA%29&epid=6052766154&itmmeta=01M0SDMD99KXD9D9HF4H2S39EM&hash=item42ef1e912d:g:7n0AAeSwf4JqYghw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAS8raLs85VsgNnE6abeh82Cha4XjB6b0AKQYqk1Xc77HcUW6xnZh9%2Bdbblcd%2BKdJfaBXDuSHPfdw6Pqo1yFQtVAQCRWwmdupBITO1I3a7M8UDwBOgZuH3HX2hTexghSCqiOzCUeA4zWK%2BmlvwwTcn0UYGuIi10BUCh4rpF4gK2LVSp2kc%2BPBBrqrFD2Fdj7JqA9leGIP4atfiuXjsEUc7Bkd1hFe3Yq%2B2ptvsulPkeQgAFze0gd%2BR5iLCP44MT5pVBn4GCmVoeqlefdEKBGGbm%7Ctkp%3ABk9SR_LU0a2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7n0AAeSwf4JqYghw/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787214704655
+        "lastSeen": 1787559609190
       },
       {
         "itemId": "178184590378",
         "title": "Pokemon TCG EX Deoxys Duskull 58/107 Reverse Holo English 2005 PSA 9Opens in a new window or tab",
         "priceC": 34999,
-        "shippingC": 540,
-        "landedC": 35539,
-        "url": "https://www.ebay.com/itm/178184590378?_skw=%28duskull%29+%2858%2Cdeoxys%29+%28CGC%2CPSA%29&epid=23043383893&itmmeta=01M0F4MGRZ2VDH9091T0WVWZG3&hash=item297ca1142a:g:2pgAAeSwCftqHfjv&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDFAz%2BSXYZUfC1MFNtSzg5GABuJFLdzV5CVqSWqY9i66UAnlM5yk%2BJo3xC5hsMC3XersHKZDqMI30QxAuLUSpq92NRqA57nFuEhp3nslM6XYPUoBQC2h3%2FxkaVojLdcG9W%2BZO1CYvu30Ly6YlqFi5AOwasu1Qo773ZyqLN53ZMZD7vuiEDPRHUZNd4cOpJ9Fwy9P9ztKZvFCd%2BMOaLlJJ620iBQv3kGQ9ZmUEO%2BLqVlQHJLlf2em%2BXETHFS4aobddaC4MEkIFhG4h2KBc02%2FslS%7Ctkp%3ABk9SR-CM0uSDaA",
+        "shippingC": 528,
+        "landedC": 35527,
+        "url": "https://www.ebay.com/itm/178184590378?_skw=%28duskull%29+%2858%2Cdeoxys%29+%28CGC%2CPSA%29&epid=23043383893&itmmeta=01M0SDMD9907FWQR63Y72NHGDE&hash=item297ca1142a:g:2pgAAeSwCftqHfjv&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB3zqMYb6yowLkjR%2FbxmqAG6D7VLKnS1TayGqUkSpqaQJfc3q6ylR7mugzShqv5%2BjkGYuxVcjUVhimv%2FCifNPGPSK69rQiQl6GcpSf1svqrLYV5%2FRi6gOO8WZ%2BhgXG%2F7o6DgfhdDxfSZ%2FqqMttW0ARp51Im9bvQbLEc8Af3Q1cHrEtQ0qcCMYAGXdjGGvY8Om9zIYYaJ64Q3jf4C6rcVrB4qAJKTMyvWGQTBR2ikdonEvRJQm1RNnAE3XJE7tU23jUGtTvlJsx%2BGqodH5o0riuuAbMycKL%2BxAFDPAjGkC%2BSuVbI%2FG6Hgs6uMBFWH3HAxUM%3D%7Ctkp%3ABk9SR_LU0a2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/2pgAAeSwCftqHfjv/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787214704655
+        "lastSeen": 1787559609190
       },
       {
         "itemId": "389784233681",
         "title": "Duskull Reverse Holo Psa 9 Ex Deoxys pop 38 only 15 higherOpens in a new window or tab",
-        "priceC": 47071,
-        "shippingC": 2535,
-        "landedC": 49606,
-        "url": "https://www.ebay.com/itm/389784233681?_skw=%28duskull%29+%2858%2Cdeoxys%29+%28CGC%2CPSA%29&itmmeta=01M0F4MGRZW330G78VGYSGJ0RB&hash=item5ac0f366d1:g:S-cAAeSwuMNpwDxe&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBGL3hzfP%2FcVmbGvlRTJ1bv4bGLzv7b1Xg7OjI9jL6VPUP4mrcMpatKzbJ4%2FjUjQlP7FG%2BztuRZ8POPLuaxxDz9Kg5UUsSKbHpwKsDBMDp8ZBW%2Bboge32AiizGBsMfKZ0mAUn6jTQEBISrz0vOe%2FhK3BHExOXFnmpkG3jLzZ0iaoY8nkJYvz%2BxOCS%2FItLl1UkU40JuBpfbOZO3Jnx7Ge81EgznQ6qBLroKOa62RrLSHm8ZZ2c43Fkh1rxullxY1wyR4v8FE6kUA%2BsbSB0YqpFCb%7Ctkp%3ABk9SR-CM0uSDaA",
+        "priceC": 47238,
+        "shippingC": 2544,
+        "landedC": 49782,
+        "url": "https://www.ebay.com/itm/389784233681?_skw=%28duskull%29+%2858%2Cdeoxys%29+%28CGC%2CPSA%29&itmmeta=01M0SDMD998XWQMVN36DHZKX39&hash=item5ac0f366d1:g:S-cAAeSwuMNpwDxe&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBGL3hzfP%2FcVmbGvlRTJ1bv4bGLzv7b1Xg7OjI9jL6VPfL7IUxhjQd1siTkVvdxvqEXjb1lt1AQJo%2B7XIZ1Vanzv%2FpUtq%2B%2Fe99iBL%2FiP6MENJwl0CRjHV%2BFNj7cQ%2F0AgIlMUr0s3szoU2szTl%2FVEO4ydHpwi4ILw%2B0OQ2HpvUdUWVqosF3X2cf6C2N0Xd9JJGTZl9w3mEuWs%2FGpsRNLk3jowkmhLvbos6t4eJioYMuNhfV%2BZ97FM3kFYZBD7xxljpnsLKeLG7d6ZkFJL%2F96GlGT%7Ctkp%3ABk9SR_LU0a2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/S-cAAeSwuMNpwDxe/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787214704655
+        "lastSeen": 1787559609190
       },
       {
         "itemId": "287370639145",
@@ -150,17 +164,30 @@
         "priceC": 84999,
         "shippingC": 0,
         "landedC": 84999,
-        "url": "https://www.ebay.com/itm/287370639145?_skw=%28duskull%29+%2858%2Cdeoxys%29+%28CGC%2CPSA%29&epid=23043383893&itmmeta=01M0F4MGRZZH85CH2SCEZJNJNP&hash=item42e89ff729:g:HToAAeSwwMlqH3nL&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDR%2B5Z7GZfda9%2BWo5gg%2FGqYvVWp8jwjH8%2FJ7lT6%2BHFtVTvEfX4pSqpZjJ8Vc4hdOdL0o%2F61dsZPa85Hb7EgUsOH4hCFqa1x2FXOkHTTK5pXoqwkyNch5OvBxS1HQZvTixLY49nNsNA6Rlx4gYo8aT%2B7QMK6GJIqmmw3Gg1At3fFg6unr9I69Od72SIX4FGAGdntclED7eztYHaQKRKVZ2%2FCdmmVsY1%2BP48Dni0WNlBYn01viK4siHM3zGTOX7QFgq%2FyAohqZJEDmsPiU5Nmbpqj4uCuepVb926JuOrs7xuSEFAtkOJFcXb7ef5uNB7H7yY%3D%7Ctkp%3ABk9SR-CM0uSDaA",
+        "url": "https://www.ebay.com/itm/287370639145?_skw=%28duskull%29+%2858%2Cdeoxys%29+%28CGC%2CPSA%29&epid=23043383893&itmmeta=01M0SDMD99WT7P509RSXWVV7G5&hash=item42e89ff729:g:HToAAeSwwMlqH3nL&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBmQjYKzPI61fRkvEpXLeoufdcGFGiAz5vRBUqwULEJlYCVj%2BpUTZrv%2FSNQgInHVfVebAgD3ODYsDs3re1aypN5hvIyAcd%2F5AZmUXdV43aokM00TFJS2BRY3itYNuElqEieiN8TscDuLR0%2FQU25Av%2BwMWtIZXwqYzn%2F7k%2FD0HULPTECrXZnc%2Bn5oMDcv6Kg%2FsedrkWkp2tVpNSaXEwhfR%2B3rOrEWXYmq%2FT5sKOEw02oKo2NkYpPUBvrcTuPhe62byk%2BrL1%2B32m2T0EpKmBv%2BNFU%7Ctkp%3ABk9SR_LU0a2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HToAAeSwwMlqH3nL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787214704655
+        "lastSeen": 1787559609190
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 4112747,
+          "saleDate": "2026-08-23",
+          "priceC": 2450,
+          "title": "The Pokémon Company Duskull 58/107 EX Deoxys Reverse Holo Common 40 HP Eng 58/107",
+          "url": "https://www.ebay.com/itm/307129626383?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 1341928,
           "saleDate": "2026-08-19",
@@ -224,6 +251,19 @@
           "gradingCompany": null,
           "gradingGrade": null,
           "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 4112789,
+          "saleDate": "2026-07-26",
+          "priceC": 25700,
+          "title": "Pokemon Duskull EX Deoxys 58/107 Reverse Holo CGC 10 Gem Mint 58/107",
+          "url": "https://www.ebay.com/itm/287468638887?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 10,
+          "gradingDesignation": "gem-mint",
           "agreementStatus": "match"
         },
         {
@@ -1593,9 +1633,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 108,
+      "englishSaleCount": 110,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787214440886
+      "lastCapturedAt": 1787559469258
     }
   }
 }

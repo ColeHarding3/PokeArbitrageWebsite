@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 41,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/b0e07eb343b230084d6af842739bfcb05de842f771722e5a9442c559f69f0ef6/1600.jpg",
       "popularityScore": 90,
       "market": {
-        "ungradedC": 44860,
-        "grade9C": 353382,
-        "grade95C": 388700,
-        "cgc10C": 421444,
-        "cgc10PristineC": 758600,
+        "ungradedC": 42252,
+        "grade9C": 340766,
+        "grade95C": 374800,
+        "cgc10C": 421580,
+        "cgc10PristineC": 758800,
         "psa10C": 2074000,
         "bgs10C": 2696200,
         "psa9Pop": 502,
         "psa10Pop": 89,
         "cgc10Pop": 30,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787209275706
+        "fetchedAt": 1787554860719
       },
       "bestCgc10": {
         "itemId": "287520981552",
@@ -37,36 +37,23 @@
         "priceC": 750000,
         "shippingC": 999,
         "landedC": 750999,
-        "url": "https://www.ebay.com/itm/287520981552?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=11043366055&itmmeta=01M0EZQE964X4NQT0D8HS2RJ60&hash=item42f1960230:g:zy8AAeSwgsZqfLbF&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAMmW7ah9PU%2F45tAe8PIGwaMKHgORt3AlhXE9KUPUBtv%2F0tJzw4ywIu1dGZqn3m7q9LSLkyNBWaRFZTEpXUE684ytbTY7mfng3HS74HgZ8IFnRKk1xOGK6Lh6Gt%2BfcPQbXdgEhur70zp0ClEkAeJ2SNNfUDkw%2FRlWUcwYN3EJe2RXDxj30iY1BDpRm%2B8KQsQEpum2EGPJshJhodecAcsQsCCzye2GWkLUJbanOm1oF%2BGJft9Ae13cqO8iSi0QqrfZZt676vMXrb9WLboJVtY3YdvvdCA1O4hND6pr0ZQ3nnw2p%2B1sPfsBdq8fGW606L1D0%3D%7Ctkp%3ABk9SR_rk3d-DaA",
+        "url": "https://www.ebay.com/itm/287520981552?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=11043366055&itmmeta=01M0S99P5A8MNRK2G2EVEK2SXQ&hash=item42f1960230:g:zy8AAeSwgsZqfLbF&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAMmW7ah9PU%2F45tAe8PIGwaMKHgORt3AlhXE9KUPUBtv%2F0tJzw4ywIu1dGZqn3m7q9LSLkyNBWaRFZTEpXUE684ytbTY7mfng3HS74HgZ8IFnRKk1xOGK6Lh6Gt%2BfcPQbXtLEiL5SvFRQ9lr0PToTlO%2BWM4nRVtyWrai8yC8LKGaTXeOZIpldG%2FbfYQFXPJ9Zt4ANMNfASLjNVjMpMuxGLOqF1ZZ0U66eNp27NbYuz0jio9xRbNVZhOmr49FZnTBIDfxtMJrFMlXoMcZOZX%2BDFwwpcDg6EgwEhTUjrSTd%2BECXqzZbyb0cyxIXAvIV4W5%2Fw%3D%7Ctkp%3ABk9SR4rjpqmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/zy8AAeSwgsZqfLbF/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787209549665
+        "lastSeen": 1787555120782
       },
       "bestPsa10": null,
-      "bestPsa9": {
-        "itemId": "318757616263",
-        "title": "Raichu 14/102 - PSA 9 - 1st Edition Shadowless Base Set Pokémon Card Opens in a new window or tab",
-        "priceC": 429900,
-        "shippingC": 540,
-        "landedC": 430440,
-        "url": "https://www.ebay.com/itm/318757616263?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M0EZQE969VJXZ8KZ24VVBX42&hash=item4a376f3a87:g:UC8AAeSw1Llqhpqe&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAh6c11vFGUgq%2BGBYjt9fIfOftiJNLSuC1bfJ4qNizpAaw0UZy%2FlBkaSjsgekrlOql%2FqqeS6eu%2BDNAi%2BQdrV4UIiXsSoVmSsvAdnXS7ZChhSXjYAK2cC1dvwyu8vDl2G8Ip%2F%2BsrHixhHIaD5CJC9oeVnMi7ffVadPLK5GT6XrnzXhIrvkDr3zV%2FOfUrRqgykfrnl%2ByU5zS5BVpcePfnfcdNSZYgnV4%2FsSK2wcpC1AmUw7SVEJwUY08I6UIhzsyy4vuSToCE%2BOvs3BF6%2BoKwLDd4TmxxJbiSvkPZIx0vRbYp7Nn1SHx8caJRi11jD%2B5PiQk%3D%7Ctkp%3ABk9SR_jk3d-DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/UC8AAeSw1Llqhpqe/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787209549665,
-        "lastSeen": 1787209549665
-      },
+      "bestPsa9": null,
       "counts": {
-        "cgc10Bin": 3,
+        "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 1
+        "psa9Bin": 0
       },
       "ratio": {
         "ok": true,
@@ -84,22 +71,22 @@
         "ratio": 2.4374220677189653
       },
       "firstOpportunityAt": 1787038168986,
-      "updatedAt": 1787209549665
+      "updatedAt": 1787555120782
     },
     "prices": {
       "variantId": 41,
-      "ungradedC": 44860,
-      "grade9C": 353382,
-      "grade95C": 388700,
-      "cgc10C": 421444,
-      "cgc10PristineC": 758600,
+      "ungradedC": 42252,
+      "grade9C": 340766,
+      "grade95C": 374800,
+      "cgc10C": 421580,
+      "cgc10PristineC": 758800,
       "psa10C": 2074000,
       "psa9Pop": 502,
       "psa10Pop": 89,
       "cgc10Pop": 30,
       "bgs10C": 2696200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787209275706
+      "fetchedAt": 1787554860719
     },
     "listings": [
       {
@@ -108,13 +95,13 @@
         "priceC": 429900,
         "shippingC": 540,
         "landedC": 430440,
-        "url": "https://www.ebay.com/itm/318757616263?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M0EZQE969VJXZ8KZ24VVBX42&hash=item4a376f3a87:g:UC8AAeSw1Llqhpqe&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAh6c11vFGUgq%2BGBYjt9fIfOftiJNLSuC1bfJ4qNizpAaw0UZy%2FlBkaSjsgekrlOql%2FqqeS6eu%2BDNAi%2BQdrV4UIiXsSoVmSsvAdnXS7ZChhSXjYAK2cC1dvwyu8vDl2G8Ip%2F%2BsrHixhHIaD5CJC9oeVnMi7ffVadPLK5GT6XrnzXhIrvkDr3zV%2FOfUrRqgykfrnl%2ByU5zS5BVpcePfnfcdNSZYgnV4%2FsSK2wcpC1AmUw7SVEJwUY08I6UIhzsyy4vuSToCE%2BOvs3BF6%2BoKwLDd4TmxxJbiSvkPZIx0vRbYp7Nn1SHx8caJRi11jD%2B5PiQk%3D%7Ctkp%3ABk9SR_jk3d-DaA",
+        "url": "https://www.ebay.com/itm/318757616263?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=11043366055&itmmeta=01M0HJ4376T3JC6YQT8TWW5R3F&hash=item4a376f3a87:g:UC8AAeSw1Llqhpqe&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAh6c11vFGUgq%2BGBYjt9fIfOftiJNLSuC1bfJ4qNizpAaw0UZy%2FlBkaSjsgekrlOql%2FqqeS6eu%2BDNAi%2BQdrV4UIiXsSoVmSsvAdnXS7ZChhSXjYAK2cC1dvwyu8vDl2G8JFPPPte%2FmjqrzEccYnAb8ZPMuVAdMvMM%2BPvbXH4DKEonvaVEw4dexQC%2FXbCq1gAwu8foMRe5%2BMhgCAt19mFeERZo0OJg4NNTHqSVql%2FcgRtIlR2jLH7tkT1tarOK7AvO%2BuC9z6is7yS0WV9AWfI4Ye7njR8lVfyK7ptcbnKsokowrOc6%2FBp4IGfpdcljnfUTI%3D%7Ctkp%3ABk9SR_azkLKEaA",
         "imageUrl": "https://i.ebayimg.com/images/g/UC8AAeSw1Llqhpqe/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787209549665,
-        "lastSeen": 1787209549665
+        "lastSeen": 1787295958915
       },
       {
         "itemId": "287520981552",
@@ -122,13 +109,13 @@
         "priceC": 750000,
         "shippingC": 999,
         "landedC": 750999,
-        "url": "https://www.ebay.com/itm/287520981552?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=11043366055&itmmeta=01M0EZQE964X4NQT0D8HS2RJ60&hash=item42f1960230:g:zy8AAeSwgsZqfLbF&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAMmW7ah9PU%2F45tAe8PIGwaMKHgORt3AlhXE9KUPUBtv%2F0tJzw4ywIu1dGZqn3m7q9LSLkyNBWaRFZTEpXUE684ytbTY7mfng3HS74HgZ8IFnRKk1xOGK6Lh6Gt%2BfcPQbXdgEhur70zp0ClEkAeJ2SNNfUDkw%2FRlWUcwYN3EJe2RXDxj30iY1BDpRm%2B8KQsQEpum2EGPJshJhodecAcsQsCCzye2GWkLUJbanOm1oF%2BGJft9Ae13cqO8iSi0QqrfZZt676vMXrb9WLboJVtY3YdvvdCA1O4hND6pr0ZQ3nnw2p%2B1sPfsBdq8fGW606L1D0%3D%7Ctkp%3ABk9SR_rk3d-DaA",
+        "url": "https://www.ebay.com/itm/287520981552?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=11043366055&itmmeta=01M0S99P5A8MNRK2G2EVEK2SXQ&hash=item42f1960230:g:zy8AAeSwgsZqfLbF&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAMmW7ah9PU%2F45tAe8PIGwaMKHgORt3AlhXE9KUPUBtv%2F0tJzw4ywIu1dGZqn3m7q9LSLkyNBWaRFZTEpXUE684ytbTY7mfng3HS74HgZ8IFnRKk1xOGK6Lh6Gt%2BfcPQbXtLEiL5SvFRQ9lr0PToTlO%2BWM4nRVtyWrai8yC8LKGaTXeOZIpldG%2FbfYQFXPJ9Zt4ANMNfASLjNVjMpMuxGLOqF1ZZ0U66eNp27NbYuz0jio9xRbNVZhOmr49FZnTBIDfxtMJrFMlXoMcZOZX%2BDFwwpcDg6EgwEhTUjrSTd%2BECXqzZbyb0cyxIXAvIV4W5%2Fw%3D%7Ctkp%3ABk9SR4rjpqmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/zy8AAeSwgsZqfLbF/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787209549665
+        "lastSeen": 1787555120782
       },
       {
         "itemId": "257524459860",
@@ -140,7 +127,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/crkAAeSw2wNqE1l3/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787038168986,
         "lastSeen": 1787209549665
       },
@@ -154,13 +141,26 @@
         "imageUrl": "https://i.ebayimg.com/images/g/UU0AAeSw6fRqeyU1/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787038168986,
         "lastSeen": 1787209549665
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3537515,
+          "saleDate": "2026-08-24",
+          "priceC": 70900,
+          "title": "Raichu 14/102 Base Set Shadowless 1st Edition Holo CGC 7.5 NM+ English Pokemon 14/102",
+          "url": "https://www.ebay.com/itm/820005754710?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 7.5,
+          "gradingDesignation": "nm-mt",
+          "agreementStatus": "mismatch"
+        },
         {
           "id": 13814,
           "saleDate": "2026-08-17",
@@ -955,6 +955,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 1925410,
+          "saleDate": "2026-06-17",
+          "priceC": 46000,
+          "title": "1999 Pokemon Raichu 14/62 Fossil Holo 1st Edition PSA 9 Base Set RARE! 14/62",
+          "url": "https://www.ebay.com/itm/800107422909?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 13700,
           "saleDate": "2026-06-17",
           "priceC": 30500,
@@ -1371,6 +1384,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 3537413,
+          "saleDate": "2026-05-18",
+          "priceC": 49500,
+          "title": "Pokémon Raichu Base Set Shadowless Holo Rare 1st Edition 14/102 80 HP 1999 14/102",
+          "url": "https://www.ebay.com/itm/178082034870?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 13967,
           "saleDate": "2026-05-18",
           "priceC": 31500,
@@ -1441,6 +1467,19 @@
           "priceC": 33481,
           "title": "Raichu 14/102 Base Set 1st Edition Shadowless Holo 1999 Pokemon Card MP/HP",
           "url": "https://www.ebay.com/itm/397904523194?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3537414,
+          "saleDate": "2026-05-17",
+          "priceC": 35314,
+          "title": "Pokemon Cards: Base Set 1st Edition Rare Holo: Raichu 14/102 #14",
+          "url": "https://www.ebay.com/itm/318259647722?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1668,58 +1707,6 @@
           "gradingGrade": 6,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 13764,
-          "saleDate": "2026-05-01",
-          "priceC": 529500,
-          "title": "1999 Pokemon Base Set Raichu 1st Edition Holo #14 - PSA 9 - (7 CERT)",
-          "url": "https://www.ebay.com/itm/377134150076?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 13884,
-          "saleDate": "2026-04-27",
-          "priceC": 46500,
-          "title": "1999 POKEMON BASE SET 1ST EDITION #14 RAICHU-HOLO PSA 5 #14",
-          "url": "https://www.ebay.com/itm/298240693763?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 5,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 13883,
-          "saleDate": "2026-04-27",
-          "priceC": 47600,
-          "title": "1999 POKEMON BASE SET 1ST EDITION #14 RAICHU-HOLO PSA 5 #14",
-          "url": "https://www.ebay.com/itm/298218791588?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 5,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 13836,
-          "saleDate": "2026-04-27",
-          "priceC": 85500,
-          "title": "1999 POKEMON BASE SET 1ST EDITION #14 RAICHU-HOLO PSA 7 #14",
-          "url": "https://www.ebay.com/itm/117155665597?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1809,9 +1796,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 292,
+      "englishSaleCount": 296,
       "excludedLanguageCount": 2,
-      "lastCapturedAt": 1787209273600
+      "lastCapturedAt": 1787554858904
     }
   }
 }

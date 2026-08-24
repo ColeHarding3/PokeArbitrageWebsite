@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 18,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/69fc4a31bea50863341ef21ae87bdb487a377ab96612ddd2ebc39d0641748b8c/1600.jpg",
       "popularityScore": 90,
       "market": {
-        "ungradedC": 3454,
+        "ungradedC": 2909,
         "grade9C": 33334,
         "grade95C": 36700,
         "cgc10C": 45202,
-        "cgc10PristineC": 299822,
-        "psa10C": 320883,
-        "bgs10C": 417100,
+        "cgc10PristineC": 299398,
+        "psa10C": 320057,
+        "bgs10C": 416100,
         "psa9Pop": 2654,
         "psa10Pop": 255,
         "cgc10Pop": 1,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per week\",\"volume: 3 sales per week\":\"volume: \\n    6 sales per year\"}",
-        "fetchedAt": 1787209264583
+        "fetchedAt": 1787554848680
       },
       "bestCgc10": {
         "itemId": "236989909853",
@@ -37,13 +37,13 @@
         "priceC": 125000,
         "shippingC": 524,
         "landedC": 125524,
-        "url": "https://www.ebay.com/itm/236989909853?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=12043364589&itmmeta=01M0EZQE95DYD19XJ7QG80Z91R&hash=item372db30b5d:g:M3YAAeSwC-FqdNGm&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBatJs5id59quX2a%2FcJIhIR0OFfr9rC1pqUXZN17rQooiK7IU7xOakIMq%2BYGLaqWk3AeaM4FgVtfU3EIBkMEdtspOtbG%2FVndYUcEA0RUFDmhekp6fHdU2TrLcnCjEF3X0k754usekq2ki4LE0FLceVW%2BGar5ZtcXDfsj0%2Fc%2FvyY9EHOmXEOAM7sfJ4%2BiNZSf--ncl75rBGaLzO4%2BAxZDUnLGrKgQvgwh%2BVze1BkM3o2VUMgmmJaprGww0cH8Wv8LZX6snWgifhx1NoU6m%2FhqQ6rrZ88zgondaFwT0fitQQsfj%2FfM8Ya%2FWw31CQFRKdxzkw%3D%7Ctkp%3ABk9SR_bk3d-DaA",
+        "url": "https://www.ebay.com/itm/236989909853?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=12043364589&itmmeta=01M0S99P57MS6QCWCC30VW4P91&hash=item372db30b5d:g:M3YAAeSwC-FqdNGm&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBUnSDTkOlD5TDGKr5gUnoxUDv1KvCgdjrwiAGV6pSnIZZhjIG0MHhz2f1bgNrkvx6YuBRpTFv2RLXOUNzCbFHiEUZFYrIji4OJJCzcAhz0P%2F33z5vuzypmOwC2RgDvRyXS2JebQnbZOBO5cDdgOTUKoWvHkkPmlHH2CP83uJItllv8OPvw7laYF3%2FpzV2SxLonaKmsDqTHvRci9SJ91B%2BXwmYWdzce%2B4GGfhgAiWE75y8PXw0WYdBUudqN9nTQyVYHqfS%2FltQX2ylKlmSyK8JS%7Ctkp%3ABk9SR4LjpqmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/M3YAAeSwC-FqdNGm/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787209549665
+        "lastSeen": 1787555120782
       },
       "bestPsa10": {
         "itemId": "117366903538",
@@ -51,27 +51,27 @@
         "priceC": 599999,
         "shippingC": 0,
         "landedC": 599999,
-        "url": "https://www.ebay.com/itm/117366903538?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21097333147&itmmeta=01M0EZQE96KJ7R7KZFW9PB8H6R&hash=item1b539cd2f2:g:Jm4AAeSwaclqhNhK&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC%2BhlKOZGj0X2ktXJinYJm6BQQYNumCdjL%2Fva0Svb%2FQHDqBJJ%2FyOohchj6RDGDQc1dpIR%2B%2Bg0CP6HC3zjN6ppMOFTVEqwXYVBI5oi%2B5G2eUXMIxXyKiB%2F6Ed0UmDhUcAPaX1PqRTeBNt2UBexHCUe6do1WnU9krOLn4Y1r%2Bcln7ASJJVZc52ydmSgeEyZhySD%2FMpmI%2F%2BVftMXJjObDjjqXaF4gBo%2BX7aDRqjy%2FRXQYhBaOqrqBcttfe%2B4hKw3wIfpRnuVP0CCN0io%2FICL6YRBN67hx2icZ%2F%2B1lxShOTfd2J1RIzM%2Bz%2FrvDYns9u4t1LaKg%3D%7Ctkp%3ABk9SR_rk3d-DaA",
+        "url": "https://www.ebay.com/itm/117366903538?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21097333147&itmmeta=01M0S99P59JSZWNDW363YYMWRP&hash=item1b539cd2f2:g:Jm4AAeSwaclqhNhK&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC%2BhlKOZGj0X2ktXJinYJm6BQQYNumCdjL%2Fva0Svb%2FQHDqBJJ%2FyOohchj6RDGDQc1dpIR%2B%2Bg0CP6HC3zjN6ppMOFTVEqwXYVBI5oi%2B5G2eUXMIxXyKiB%2F6Ed0UmDhUcAPaKEhPYCvCRyjvcpVxJqyTgk1hhydvF5AvuUTkYmQPfLBJhAMzIuvRHU%2BsILLSnnBlJ6UXZDDNqxfvuhqG5LA2ByFj0a1WMy4rBR51I0iK1C1t8iHVQxbk8S4fY0CvEYLCPE63yfu88kSHm48sbvoxXl7SqhaTPu0D0toriT%2FFO5dH6vBGOOWctG8oWUz1BsxU%3D%7Ctkp%3ABk9SR4jjpqmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Jm4AAeSwaclqhNhK/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787209549665,
-        "lastSeen": 1787209549665
+        "lastSeen": 1787555120782
       },
       "bestPsa9": {
-        "itemId": "147508636110",
-        "title": "1999 Pokémon TCG Raichu Holo Rare Card Base Set, 14/102, PSA 9 MintOpens in a new window or tab",
-        "priceC": 25000,
+        "itemId": "147519770168",
+        "title": "Pokémon TCG Raichu Holo Card 14/102 Base Set 1999 PSA 9 MintOpens in a new window or tab",
+        "priceC": 30000,
         "shippingC": 562,
-        "landedC": 25562,
-        "url": "https://www.ebay.com/itm/147508636110?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21097333147&itmmeta=01M0EZQ8SZ0M8593QANZ0ERD7K&hash=item22583329ce:g:mm0AAeSwsnZqgb0V&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD6OZVeQsIA9qcp7Zb6mkAqyx3vzOcSCEELZ1jryKylY%2BdEPHCWFoT3cLP492YGWELfZwxTod8Ga5fmOnQ4C2lbqmVahR%2F9CjHGmZSsZWRSu9EEansyBsevXiSb%2FzLCg45%2FnLO2R8Rck%2B64xaaJJm0my6aPxMoy%2BgBpXUDKpKsPng9W2YEipnE5D184Htu540g%2BbD0hREoKwiu366TXNmc6SDGN%2BEj4wz92xnLoUcsM61M2RfFvEZ5agEj2sSsZAQIzxxuZNTDV59JBT%2FqCv3Bs%7Ctkp%3ABk9SR6iN3d-DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/mm0AAeSwsnZqgb0V/s-l500.webp",
+        "landedC": 30562,
+        "url": "https://www.ebay.com/itm/147519770168?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21097333147&itmmeta=01M0S99HKJFQVBH8N9ZBGP7PXW&hash=item2258dd0e38:g:PS0AAeSwLcVqiEj~&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCYnm%2Fo6zI0vrDRUyI4xVDKPcioFDn7jlySKlhgJaR7xkzxd669x6VCSpHFCVK50kYV%2FWRjoeStW0Zv%2BWnosi%2BgQLT9d7V0rcU%2BBV7nHE5pPOEPNKK%2BUL7gAf7Ph4mhW2HDRZE8Q3EqNMTRoi0GkCgzMkelnis7BRM%2BZ5SuSFJS0afBBOGqFuwpsfsfM%2F4MdZbUzFH%2FtsEqjPMyQdJA5woEAaXtR1pKR67BOlEYw0IivGpZMCCrpUsVeJ1B3DFJqt6q3g9n6ql12CMzfctfvIsolO%2FaXBs6972oegoLOwCBN4QBrvFrG8SQcUwLOamBoUE%3D%7Ctkp%3ABk9SR5iapqmGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/PS0AAeSwLcVqiEj~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787209549665
+        "firstSeen": 1787555120782,
+        "lastSeen": 1787555120782
       },
       "counts": {
         "cgc10Bin": 1,
@@ -93,55 +93,83 @@
         "cgc10CostC": 125524,
         "submissionFeeC": 34900,
         "totalCostC": 160424,
-        "psa10ValueC": 320883,
-        "ratio": 2.0002181718446117
+        "psa10ValueC": 320057,
+        "ratio": 1.9950693163117739
       },
       "firstOpportunityAt": 1787038168986,
-      "updatedAt": 1787209549665
+      "updatedAt": 1787555120782
     },
     "prices": {
       "variantId": 18,
-      "ungradedC": 3454,
+      "ungradedC": 2909,
       "grade9C": 33334,
       "grade95C": 36700,
       "cgc10C": 45202,
-      "cgc10PristineC": 299822,
-      "psa10C": 320883,
+      "cgc10PristineC": 299398,
+      "psa10C": 320057,
       "psa9Pop": 2654,
       "psa10Pop": 255,
       "cgc10Pop": 1,
-      "bgs10C": 417100,
+      "bgs10C": 416100,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per week\",\"volume: 3 sales per week\":\"volume: \\n    6 sales per year\"}",
-      "fetchedAt": 1787209264583
+      "fetchedAt": 1787554848680
     },
     "listings": [
+      {
+        "itemId": "377436100519",
+        "title": "1999 Pokemon Unlimited Raichu Rare Holo #14/102 PSA 9Opens in a new window or tab",
+        "priceC": 24300,
+        "shippingC": 499,
+        "landedC": 24799,
+        "url": "https://www.ebay.com/itm/377436100519?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21097333147&itmmeta=01M0S99HKG0E8P4XJZ5RV5J9K5&hash=item57e0f1d7a7:g:84UAAeSwjU9qhzB-&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCU2L5lHyLHFmxtF5ZIByah4dV9liazB5wgO8EAm7ZBgD8uuD4ptCiq9SAAKgfQCw705K23Zz16Qewwsf8nk%2FSeVRxJ9oooUjs0%2BLsW6V5T6Ai0sw6xxd63u16%2FcyXYlNQhA0UfjBG0vDqwI07d0MIQOfpAtz89UlnsYyAr2NWWm3%2Bvio4cAKcCUT3BVODuLqA2JLpj0JoEuSDWuPG4fxuu6xSUdZL1Na5q4mb9TvdvzQs8jUkfCT63O7cCMc8gTHdJ4e7L0tW0qTcJ7TjagNnf4%2BEBRVgrtJCFp3LjUC5Iz9G326CeObIRFRbVhd%2FXMP4%3D%7Ctkp%3ABk9SR5CapqmGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/84UAAeSwjU9qhzB-/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787295958915,
+        "lastSeen": 1787555120782
+      },
       {
         "itemId": "147508636110",
         "title": "1999 Pokémon TCG Raichu Holo Rare Card Base Set, 14/102, PSA 9 MintOpens in a new window or tab",
         "priceC": 25000,
         "shippingC": 562,
         "landedC": 25562,
-        "url": "https://www.ebay.com/itm/147508636110?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21097333147&itmmeta=01M0EZQ8SZ0M8593QANZ0ERD7K&hash=item22583329ce:g:mm0AAeSwsnZqgb0V&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD6OZVeQsIA9qcp7Zb6mkAqyx3vzOcSCEELZ1jryKylY%2BdEPHCWFoT3cLP492YGWELfZwxTod8Ga5fmOnQ4C2lbqmVahR%2F9CjHGmZSsZWRSu9EEansyBsevXiSb%2FzLCg45%2FnLO2R8Rck%2B64xaaJJm0my6aPxMoy%2BgBpXUDKpKsPng9W2YEipnE5D184Htu540g%2BbD0hREoKwiu366TXNmc6SDGN%2BEj4wz92xnLoUcsM61M2RfFvEZ5agEj2sSsZAQIzxxuZNTDV59JBT%2FqCv3Bs%7Ctkp%3ABk9SR6iN3d-DaA",
+        "url": "https://www.ebay.com/itm/147508636110?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21097333147&itmmeta=01M0HJ3YA0RASEWWKGJRH9FDWM&hash=item22583329ce:g:mm0AAeSwsnZqgb0V&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD6OZVeQsIA9qcp7Zb6mkAqyx3vzOcSCEELZ1jryKylY8TNZs0nPDwHx0Fj1uKSAoebiFJbpbRAB9dHphgthVv8UjoHrdCLOJ4cxWUeuOPSPG3w6xmU7dRoP%2Fmn1ydnmeVc5lZAecD7%2FYGg5DrEHMhjJtFdSgzwtuTvdlmUUu73S0L47gXE0KlqCx3H0a6d8rhgWt0pm8%2FfMCg9gs0l9d2CL8CC0NewtsMDfrw7%2FqP00iqnNkuWa%2Fe61tPe7GLGcFL5NnWnRo8KeSo0EQTnYTjv%7Ctkp%3ABk9SR7zlj7KEaA",
         "imageUrl": "https://i.ebayimg.com/images/g/mm0AAeSwsnZqgb0V/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787209549665
+        "lastSeen": 1787295958915
+      },
+      {
+        "itemId": "147519770168",
+        "title": "Pokémon TCG Raichu Holo Card 14/102 Base Set 1999 PSA 9 MintOpens in a new window or tab",
+        "priceC": 30000,
+        "shippingC": 562,
+        "landedC": 30562,
+        "url": "https://www.ebay.com/itm/147519770168?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21097333147&itmmeta=01M0S99HKJFQVBH8N9ZBGP7PXW&hash=item2258dd0e38:g:PS0AAeSwLcVqiEj~&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCYnm%2Fo6zI0vrDRUyI4xVDKPcioFDn7jlySKlhgJaR7xkzxd669x6VCSpHFCVK50kYV%2FWRjoeStW0Zv%2BWnosi%2BgQLT9d7V0rcU%2BBV7nHE5pPOEPNKK%2BUL7gAf7Ph4mhW2HDRZE8Q3EqNMTRoi0GkCgzMkelnis7BRM%2BZ5SuSFJS0afBBOGqFuwpsfsfM%2F4MdZbUzFH%2FtsEqjPMyQdJA5woEAaXtR1pKR67BOlEYw0IivGpZMCCrpUsVeJ1B3DFJqt6q3g9n6ql12CMzfctfvIsolO%2FaXBs6972oegoLOwCBN4QBrvFrG8SQcUwLOamBoUE%3D%7Ctkp%3ABk9SR5iapqmGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/PS0AAeSwLcVqiEj~/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787555120782,
+        "lastSeen": 1787555120782
       },
       {
         "itemId": "147509993821",
         "title": "Pokemon Base Set Raichu PSA 9Opens in a new window or tab",
-        "priceC": 35000,
+        "priceC": 36400,
         "shippingC": 0,
-        "landedC": 35000,
-        "url": "https://www.ebay.com/itm/147509993821?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21097333147&itmmeta=01M0EZQ8T12DE1YRQ897QYRWTD&hash=item225847e15d:g:77YAAeSw0Kxqgo8J&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCLXLv5luE8OYQjnnK5cVwcdpp9rDD2hXZncWtjWlDWkUZuzVoqWor4EA3mQdtZmyk7V0Ots1VMeRRELugfruYcwsjHOTvcWTY1DLjCv2vbbPMxyuZxShHmTIztxXkPSCbAp8BD9QMyzMf%2F8NqEt%2Bfh8eCYoJ8GB75m0WyVo4oMNd%2BNNm4FHlUfX20xzxK6iiVMd9rPXG2EfJ82mdNi7R04cfV0PiT0bOpxg9CeM3LecA6cIv9CpC631XKvWBeakwSRkc5kj%2FXetoXJWzlCwHuu7HUcPCI%2Bl%2B4YdTqwl3iQbJSmF%2Fqg3STCTf1yMTQ1Jzo%3D%7Ctkp%3ABk9SR66N3d-DaA",
+        "landedC": 36400,
+        "url": "https://www.ebay.com/itm/147509993821?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21097333147&itmmeta=01M0S99HKK7W4Q43HXSWK0VZRM&hash=item225847e15d:g:77YAAeSw0Kxqgo8J&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCLXLv5luE8OYQjnnK5cVwcdpp9rDD2hXZncWtjWlDWkUZuzVoqWor4EA3mQdtZmyk7V0Ots1VMeRRELugfruYcwsjHOTvcWTY1DLjCv2vbbPMxyuZxShHmTIztxXkPSCYf6%2FPoRvkkMoXepb7GUHLtqtgGOU8h7jcSvrVx5Ti4vzZ%2FRg2tKnFi%2F7e7SmYaDk5KNNvgcNgEv2Zw0HYNY37sV5Jll%2Frkbt6OEdKl7dwGY45tkjDk2cn3IvqZ%2B5BRszvdbt4UcOHaIr%2BdxMVKPFG55rtXTyWZiUGpkVj13PuCrOjH2SLejSvvndrWpMAHXP4%3D%7Ctkp%3ABk9SR5yapqmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/77YAAeSw0Kxqgo8J/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787209549665
+        "lastSeen": 1787555120782
       },
       {
         "itemId": "236989909853",
@@ -149,13 +177,13 @@
         "priceC": 125000,
         "shippingC": 524,
         "landedC": 125524,
-        "url": "https://www.ebay.com/itm/236989909853?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=12043364589&itmmeta=01M0EZQE95DYD19XJ7QG80Z91R&hash=item372db30b5d:g:M3YAAeSwC-FqdNGm&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBatJs5id59quX2a%2FcJIhIR0OFfr9rC1pqUXZN17rQooiK7IU7xOakIMq%2BYGLaqWk3AeaM4FgVtfU3EIBkMEdtspOtbG%2FVndYUcEA0RUFDmhekp6fHdU2TrLcnCjEF3X0k754usekq2ki4LE0FLceVW%2BGar5ZtcXDfsj0%2Fc%2FvyY9EHOmXEOAM7sfJ4%2BiNZSf--ncl75rBGaLzO4%2BAxZDUnLGrKgQvgwh%2BVze1BkM3o2VUMgmmJaprGww0cH8Wv8LZX6snWgifhx1NoU6m%2FhqQ6rrZ88zgondaFwT0fitQQsfj%2FfM8Ya%2FWw31CQFRKdxzkw%3D%7Ctkp%3ABk9SR_bk3d-DaA",
+        "url": "https://www.ebay.com/itm/236989909853?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=12043364589&itmmeta=01M0S99P57MS6QCWCC30VW4P91&hash=item372db30b5d:g:M3YAAeSwC-FqdNGm&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBUnSDTkOlD5TDGKr5gUnoxUDv1KvCgdjrwiAGV6pSnIZZhjIG0MHhz2f1bgNrkvx6YuBRpTFv2RLXOUNzCbFHiEUZFYrIji4OJJCzcAhz0P%2F33z5vuzypmOwC2RgDvRyXS2JebQnbZOBO5cDdgOTUKoWvHkkPmlHH2CP83uJItllv8OPvw7laYF3%2FpzV2SxLonaKmsDqTHvRci9SJ91B%2BXwmYWdzce%2B4GGfhgAiWE75y8PXw0WYdBUudqN9nTQyVYHqfS%2FltQX2ylKlmSyK8JS%7Ctkp%3ABk9SR4LjpqmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/M3YAAeSwC-FqdNGm/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787209549665
+        "lastSeen": 1787555120782
       },
       {
         "itemId": "117366903538",
@@ -163,13 +191,13 @@
         "priceC": 599999,
         "shippingC": 0,
         "landedC": 599999,
-        "url": "https://www.ebay.com/itm/117366903538?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21097333147&itmmeta=01M0EZQE96KJ7R7KZFW9PB8H6R&hash=item1b539cd2f2:g:Jm4AAeSwaclqhNhK&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC%2BhlKOZGj0X2ktXJinYJm6BQQYNumCdjL%2Fva0Svb%2FQHDqBJJ%2FyOohchj6RDGDQc1dpIR%2B%2Bg0CP6HC3zjN6ppMOFTVEqwXYVBI5oi%2B5G2eUXMIxXyKiB%2F6Ed0UmDhUcAPaX1PqRTeBNt2UBexHCUe6do1WnU9krOLn4Y1r%2Bcln7ASJJVZc52ydmSgeEyZhySD%2FMpmI%2F%2BVftMXJjObDjjqXaF4gBo%2BX7aDRqjy%2FRXQYhBaOqrqBcttfe%2B4hKw3wIfpRnuVP0CCN0io%2FICL6YRBN67hx2icZ%2F%2B1lxShOTfd2J1RIzM%2Bz%2FrvDYns9u4t1LaKg%3D%7Ctkp%3ABk9SR_rk3d-DaA",
+        "url": "https://www.ebay.com/itm/117366903538?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21097333147&itmmeta=01M0S99P59JSZWNDW363YYMWRP&hash=item1b539cd2f2:g:Jm4AAeSwaclqhNhK&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC%2BhlKOZGj0X2ktXJinYJm6BQQYNumCdjL%2Fva0Svb%2FQHDqBJJ%2FyOohchj6RDGDQc1dpIR%2B%2Bg0CP6HC3zjN6ppMOFTVEqwXYVBI5oi%2B5G2eUXMIxXyKiB%2F6Ed0UmDhUcAPaKEhPYCvCRyjvcpVxJqyTgk1hhydvF5AvuUTkYmQPfLBJhAMzIuvRHU%2BsILLSnnBlJ6UXZDDNqxfvuhqG5LA2ByFj0a1WMy4rBR51I0iK1C1t8iHVQxbk8S4fY0CvEYLCPE63yfu88kSHm48sbvoxXl7SqhaTPu0D0toriT%2FFO5dH6vBGOOWctG8oWUz1BsxU%3D%7Ctkp%3ABk9SR4jjpqmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Jm4AAeSwaclqhNhK/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787209549665,
-        "lastSeen": 1787209549665
+        "lastSeen": 1787555120782
       },
       {
         "itemId": "137178348870",
@@ -177,13 +205,13 @@
         "priceC": 600000,
         "shippingC": 597,
         "landedC": 600597,
-        "url": "https://www.ebay.com/itm/137178348870?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=12043364589&itmmeta=01M0EZQE96QEPGHQCFN2V3K2T3&hash=item1ff0777d46:g:HiMAAeSwPMBpyXX5&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAaZBhCq6o5OWbmzDPsxgzP8roo0usqLvujT210qy2PMk%2B73WgvxEM8h0B2pYZp5yTzEdooDM3wlu2tATiL7nCFWzqgkbnPZbbcu0EyhAox7jZEvQ7ZFmbTsmtCcQdYsm6LFGVb9zos3UIQwwrjGmw4tJvYfMkjgcwZWmWm%2FiXE24kF8sQ2BHMtmQy%2FvpF4eSSHaYs8FP%2Fdup2W7jGxk5l5f0EeXxxx61IXYp1JybfB6eWKoP2ii72UAjbSpW4GkO3DDAChnG%2F7WdRNDuX3x%2FidiPH%2B%2BoI6uCrK2MiVOFXumLVSlHTd8CmRk6ADKfP6RyA%3D%7Ctkp%3ABk9SR_rk3d-DaA",
+        "url": "https://www.ebay.com/itm/137178348870?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=12043364589&itmmeta=01M0S99P59ZMQ0T3M4TB7JTRH3&hash=item1ff0777d46:g:HiMAAeSwPMBpyXX5&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAaZBhCq6o5OWbmzDPsxgzP8roo0usqLvujT210qy2PMk%2B73WgvxEM8h0B2pYZp5yTzEdooDM3wlu2tATiL7nCFWzqgkbnPZbbcu0EyhAox7jZEvQ7ZFmbTsmtCcQdYsm7wlFm%2FGmwB8DipTw%2BkmHbs2r%2Fr6jlrbgDU%2Bjytu6Lh6XL1ysR7%2B%2FwJRfP0mkmTzXkjwxqmQshcilDZ7YadhvQGWaA0AsCGdkZj%2FWQyYxce23ZMAetRQ0yDQHIa%2BFh%2FAY%2FEN4SIoqcUa0jkdMSlafPafbnqPPsYjFFCB66m42mtm1nvPZSRfUkIZioeVaaFdAU%3D%7Ctkp%3ABk9SR4jjpqmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HiMAAeSwPMBpyXX5/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787209549665
+        "lastSeen": 1787555120782
       },
       {
         "itemId": "116685769499",
@@ -191,17 +219,199 @@
         "priceC": 699999,
         "shippingC": 0,
         "landedC": 699999,
-        "url": "https://www.ebay.com/itm/116685769499?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=12043364589&itmmeta=01M0EZQE964CBCRE6Z5YDDEZ24&hash=item1b2b038b1b:g:0ZsAAeSwvDxobwqV&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD3%2FqfGMpYXtU1xThVU%2BJQWrQ52Zb8nqILlYYxf4rwX9EXaOXhS3XKnXANiM7xcHIE9oSHjLyqelorQzSMXUsNez9G4ICDn0AM7giMfp2HvQSKmvxV1fwzrRhoQ%2FTrP9pQSHtaflEKR5bYSzaS4eGUl6WpE%2Bm6SQ38EpFMAhR73ibg%2Boyu3m7iMzEwhAxkdz5G9zg8AmeUl5N2NM9VVnNj38%2FvrEPzi4Nl%2Ft%2FKp1uXOWZTcgLofY3UxEGMGJLDYMk9i%2FYz2T4ZNjeqeY5YJ0%2FhT1aydK3pHkJUz%2BgJ5a1k%2FKsLb%2FT%2F5aKePHqRwsDWuiBQ%3D%7Ctkp%3ABk9SR_rk3d-DaA",
+        "url": "https://www.ebay.com/itm/116685769499?_skw=%28raichu%29+%2814%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=12043364589&itmmeta=01M0S99P599HYYBZ97JDP62FNK&hash=item1b2b038b1b:g:0ZsAAeSwvDxobwqV&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD3%2FqfGMpYXtU1xThVU%2BJQWrQ52Zb8nqILlYYxf4rwX9EXaOXhS3XKnXANiM7xcHIE9oSHjLyqelorQzSMXUsNez9G4ICDn0AM7giMfp2HvQSKmvxV1fwzrRhoQ%2FTrP9pQBymSQbCYchXvGfcyMbVcN9QoQFYs4dqxf7Udm%2FAXNCgGI0YPmq96nMncXV4rRlHRednXFy8kJmSFYDhraEs%2FmgscoeHtazLBop3v%2BKIZwcc59tTGQb3tNyjBVqrZVjLjLFl%2B3MFjIVKMPW0z6IJVBO3XOzpSsoqZN4cpSUDs8WBODaCmHujdBO5t%2F5S3y9%2FM%3D%7Ctkp%3ABk9SR4jjpqmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/0ZsAAeSwvDxobwqV/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787209549665
+        "lastSeen": 1787555120782
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3529623,
+          "saleDate": "2026-08-23",
+          "priceC": 2800,
+          "title": "Pokémon Raichu Base Set Holo Rare Card 14/102 Close To Near Mint Condition 14/102",
+          "url": "https://www.ebay.com/itm/318737412275?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3529622,
+          "saleDate": "2026-08-23",
+          "priceC": 4965,
+          "title": "Raichu 14/102 Base Set Holo Pokemon - Lightly Played 014/102",
+          "url": "https://www.ebay.com/itm/800518215378?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3529621,
+          "saleDate": "2026-08-23",
+          "priceC": 3200,
+          "title": "Wizards of the Coast Pokemon TCG Base Set Raichu 14/102 Holo Rare Unlimited 014/102",
+          "url": "https://www.ebay.com/itm/307130239861?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3529620,
+          "saleDate": "2026-08-23",
+          "priceC": 2250,
+          "title": "Pokémon TCG Raichu Base Set 14/102 Holo Unlimited Holo English Ungraded 014/102",
+          "url": "https://www.ebay.com/itm/178414459177?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3529626,
+          "saleDate": "2026-08-22",
+          "priceC": 6699,
+          "title": "Raichu #14 Near Mint English",
+          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F42354%2F-&sharedId=web&subId1=completed",
+          "sourceMarketplace": "TCGPlayer",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2872180,
+          "saleDate": "2026-08-22",
+          "priceC": 2800,
+          "title": "Raichu Holo Pokémon Card, Base Set, 14/102. Lightly Played 14/102",
+          "url": "https://www.ebay.com/itm/188794754421?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2872179,
+          "saleDate": "2026-08-22",
+          "priceC": 2050,
+          "title": "Wizards of the Coast Pokemon TCG Base Set Raichu 16/102 Holo Rare 1999 16/102",
+          "url": "https://www.ebay.com/itm/366606559626?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2872178,
+          "saleDate": "2026-08-22",
+          "priceC": 1750,
+          "title": "Pokémon TCG - Base Set - Raichu 014/102 Holo 014/102",
+          "url": "https://www.ebay.com/itm/398297091461?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2872177,
+          "saleDate": "2026-08-22",
+          "priceC": 2700,
+          "title": "Raichu #14 Holo Rare Fossil Base Set Pokemon Card LP ⚡️🔥 14/62",
+          "url": "https://www.ebay.com/itm/307128605735?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2872176,
+          "saleDate": "2026-08-22",
+          "priceC": 5600,
+          "title": "Raichu 014/102 Base Set Holo POKEMON no reserve 014/102",
+          "url": "https://www.ebay.com/itm/198563895152?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 1918264,
+          "saleDate": "2026-08-21",
+          "priceC": 4000,
+          "title": "Pokemon TCG Raichu 14/102 Base Set Holo Rare English 80 HP Stage 1 1999 14/102",
+          "url": "https://www.ebay.com/itm/800509308521?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 1714340,
+          "saleDate": "2026-08-20",
+          "priceC": 5600,
+          "title": "1999 POKEMON BASE SET UNLIMITED #14 RAICHU-HOLO PSA 6 #14",
+          "url": "https://www.ebay.com/itm/298580485071?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 6,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 1714101,
+          "saleDate": "2026-08-20",
+          "priceC": 425,
+          "title": "Pokémon TCG Raichu XY Base Set Holo Rare Card 43/146 43/146",
+          "url": "https://www.ebay.com/itm/227473593056?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 1714100,
+          "saleDate": "2026-08-20",
+          "priceC": 3476,
+          "title": "Raichu 14/102 - Base Set Unlimited Holo Rare Pokemon TCG LP",
+          "url": "https://www.ebay.com/itm/800501833900?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 759738,
           "saleDate": "2026-08-19",
@@ -1579,188 +1789,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 6449,
-          "saleDate": "2026-07-18",
-          "priceC": 15900,
-          "title": "Pokemon Raichu Base Set Holo 1999 PSA 8 #14",
-          "url": "https://www.ebay.com/itm/206126988116?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 6521,
-          "saleDate": "2026-07-17",
-          "priceC": 4000,
-          "title": "1999 Pokemon Base Set Raichu Holo Rare 14/102 CGC 5 Graded English Unlimited 014/102",
-          "url": "https://www.ebay.com/itm/407070964891?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 5,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 6464,
-          "saleDate": "2026-07-17",
-          "priceC": 6499,
-          "title": "CGC 7.5 Raichu 14/102 WOTC Base Set Holo Rare Pokemon Card 14/102",
-          "url": "https://www.ebay.com/itm/127929811261?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 7.5,
-          "gradingDesignation": null,
-          "agreementStatus": "mismatch"
-        },
-        {
-          "id": 6404,
-          "saleDate": "2026-07-17",
-          "priceC": 39500,
-          "title": "1999 POKEMON BASE SET UNLIMITED #14 RAICHU-HOLO PSA 9 #14",
-          "url": "https://www.ebay.com/itm/358768448478?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 6489,
-          "saleDate": "2026-07-16",
-          "priceC": 6600,
-          "title": "1999 Pokemon Base Set Raichu #14 Unlimited PSA 6 #14",
-          "url": "https://www.ebay.com/itm/137337539660?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 6,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 6466,
-          "saleDate": "2026-07-15",
-          "priceC": 7000,
-          "title": "Pokemon Base Set Raichu Holo Rare #14/102 1999 English PSA 7 Graded 014/102",
-          "url": "https://www.ebay.com/itm/127973229466?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 6465,
-          "saleDate": "2026-07-15",
-          "priceC": 8980,
-          "title": "Pokémon TCG Raichu Base Set Holo Card 14/102 Unlimited Psa 7 014/102",
-          "url": "https://www.ebay.com/itm/406968692333?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 6451,
-          "saleDate": "2026-07-15",
-          "priceC": 10400,
-          "title": "CGC 8 Raichu 14/102 1999 Pokemon Base Set Unlimited Graded NM/Mint Blue Label!! 14/102",
-          "url": "https://www.ebay.com/itm/377343633902?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 6453,
-          "saleDate": "2026-07-13",
-          "priceC": 9100,
-          "title": "Pokemon Raichu Holo Game Base Set II 16 PSA 8 #16",
-          "url": "https://www.ebay.com/itm/287433884123?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 6452,
-          "saleDate": "2026-07-13",
-          "priceC": 15750,
-          "title": "1999 Pokemon Base Set Raichu Holo #14/102 PSA 8 NM-MT Vintage WOTC 14/102",
-          "url": "https://www.ebay.com/itm/336675463584?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 6522,
-          "saleDate": "2026-07-11",
-          "priceC": 3000,
-          "title": "1999 POKEMON BASE SET UNLIMITED #14 RAICHU HOLO PSA 5 EXCELLENT 14/62",
-          "url": "https://www.ebay.com/itm/168507906315?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 5,
-          "gradingDesignation": "excellent",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 6467,
-          "saleDate": "2026-07-11",
-          "priceC": 8000,
-          "title": "1999 Pokemon Raichu Holo Base Set Unlimited 14/102 PSA 7 #14",
-          "url": "https://www.ebay.com/itm/158061460597?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 6547,
-          "saleDate": "2026-07-09",
-          "priceC": 3848,
-          "title": "1999 POKEMON BASE SET UNLIMITED #14 RAICHU-HOLO PSA 4",
-          "url": "https://www.ebay.com/itm/298493283536?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 4,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 6575,
-          "saleDate": "2026-07-08",
-          "priceC": 4000,
-          "title": "Pokemon Raichu Base Set Holo Card 14/102 CGC 3.5 14/102",
-          "url": "https://www.ebay.com/itm/236186042879?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 3.5,
-          "gradingDesignation": null,
-          "agreementStatus": "mismatch"
         }
       ],
       "monthlyPsa10": [
@@ -1860,9 +1888,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 394,
+      "englishSaleCount": 408,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787209262340
+      "lastCapturedAt": 1787554846104
     }
   }
 }

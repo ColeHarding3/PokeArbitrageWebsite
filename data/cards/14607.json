@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 14607,
@@ -19,17 +19,17 @@
       "popularityScore": 90,
       "market": {
         "ungradedC": 9550,
-        "grade9C": 22782,
-        "grade95C": 25100,
-        "cgc10C": 46154,
-        "cgc10PristineC": 83100,
-        "psa10C": 88119,
+        "grade9C": 22876,
+        "grade95C": 25200,
+        "cgc10C": 41848,
+        "cgc10PristineC": 75300,
+        "psa10C": 88139,
         "bgs10C": 114600,
         "psa9Pop": 107,
         "psa10Pop": 10,
         "cgc10Pop": 18,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787224075007
+        "fetchedAt": 1787563769932
       },
       "bestCgc10": {
         "itemId": "147415711005",
@@ -37,13 +37,13 @@
         "priceC": 60000,
         "shippingC": 0,
         "landedC": 60000,
-        "url": "https://www.ebay.com/itm/147415711005?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0FDT4EMS5RR9JQ2E392H7T7&hash=item2252a93d1d:g:OFYAAeSwBoBqSPYE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCcq%2BMSf%2BQ3cJVljpRBKrlntTkP%2FIe2qrNNiZVQs1PnHfLWlQzORx2i2aW6P2Ps4HvZNsnYIPXdeS1sYBE5JvdK6O8I1x9XpjInC%2BMejXqW%2FmQ51V6f9%2BpeUdvKKSQpRyI7HY4unSV%2B4Z1cIQRwbNdXylItugHSV4D%2Fz7Bi98%2Fnnnt978heOcZfXYdHD2N54Um0LiRn16hseZI9zpUubyhLvM8DArFcBYcCKzgXzHmOXwhIIj2wTFVvmR%2BUHNHXWLumKGyHP5LCyQYX5xKQeVZJ21XmqdCuW4r2TQh5X2EHfQ%3D%3D%7Ctkp%3ABk9SR-LH6O2DaA",
+        "url": "https://www.ebay.com/itm/147415711005?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0SHQSNBGB1NBGKQ41XDAFZF&hash=item2252a93d1d:g:OFYAAeSwBoBqSPYE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCcq%2BMSf%2BQ3cJVljpRBKrlntTkP%2FIe2qrNNiZVQs1PnHa9LMIR9Be%2FHk7NGKu5uYTu2sGopsklIcDK5Z1S6PTJamqL1U%2B%2FPLStnsp%2BmkdCUqUqk7Wd3mULrUtFt8ceDoTRW5uMEIjqfZT6xw6BcNnyTnT2rbr0gX8IJsEwSIgYHrLlcfc8PPAvTIKmiIezinjxELT3DDNyxHpONwiL43XP8q7ea3iz5GYmAjcQY9hWRJofwg6GN07YByma95qzgeZzj8h3%2FtxmqbS6G%2F5ucH9O0ysjmPGK%2FuAdk5svJ8uXYrg%3D%3D%7Ctkp%3ABk9SR4Kb37GGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/OFYAAeSwBoBqSPYE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
       },
       "bestPsa10": null,
       "bestPsa9": {
@@ -52,13 +52,13 @@
         "priceC": 49999,
         "shippingC": 624,
         "landedC": 50623,
-        "url": "https://www.ebay.com/itm/188432558469?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0FDT4EMS8GQVZ7HZYBT7MEG&hash=item2bdf74a985:g:bhUAAeSwuMVqF25b&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDQSzM7Hgn7zxt4cTtKIoF38eEi1vyu%2BOfuCn%2F7UAJAMQYAbGjvtgPixo9kbyxRvM1OJGrY72dhx5rc%2B99%2BadWsxy3JQ9sGASRUsVL7NIGNJeMMfCvlxyHe8W%2Bg5PSaQE9Aa2VJP9zSBHG5JmsPMAYDODoZAddxkZtAXAsxUDue%2BXW2F%2FgHZocGv3cUfC3%2BH2BmQacOvF5CoFOsOkWRiPjNfNqFUWct7kzjhVXtdxveGEPkgrOkH9iDwnT9uMOGNycNTqf92aNgb7x3jyqMkEarT2A42ly1slK4jnk1wKAn8v5bsz8lYZnGVdvTjeu4fNKeKfwk%2FhvkzLI6Uo1U9KRQ%7Ctkp%3ABk9SR-LH6O2DaA",
+        "url": "https://www.ebay.com/itm/188432558469?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0SHQSNA7N8K7CB66Y06Q6AR&hash=item2bdf74a985:g:bhUAAeSwuMVqF25b&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBOKblarqaW1mKqmtk%2BI0Z4NHF%2BZlRSSXi%2BdqTpvG4y8QskYGpkdFIgaWguA36i8XysgdVeiGksXyYoZm7qJDnJ%2Bc7zZYrScH%2FRdjh2G%2BtTeUzbkXiztGJjXnihu%2BQvlVdIcjLESwudritrx0gvMIaszl%2BdRzdI7MRihno66u0D70%2F2LlzGIxEXC2j2s492VMFKEuMCNdEXK416MuSMrdzKiA6U1NVVpS3ovYI84u0hVnEWF7McYf7f1dj%2B2HRJS4NKcF5v9QIvzwxNEULLe0kALq8JqEw2IxGZKGekCrAs8w%3D%3D%7Ctkp%3ABk9SR4Cb37GGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/bhUAAeSwuMVqF25b/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
       },
       "counts": {
         "cgc10Bin": 1,
@@ -66,7 +66,7 @@
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 7
+        "psa9Bin": 8
       },
       "ratio": {
         "ok": true,
@@ -80,26 +80,26 @@
         "cgc10CostC": 60000,
         "submissionFeeC": 7999,
         "totalCostC": 67999,
-        "psa10ValueC": 88119,
-        "ratio": 1.2958867042162385
+        "psa10ValueC": 88139,
+        "ratio": 1.2961808261886205
       },
       "firstOpportunityAt": 1787224259777,
-      "updatedAt": 1787224259777
+      "updatedAt": 1787563919508
     },
     "prices": {
       "variantId": 14607,
       "ungradedC": 9550,
-      "grade9C": 22782,
-      "grade95C": 25100,
-      "cgc10C": 46154,
-      "cgc10PristineC": 83100,
-      "psa10C": 88119,
+      "grade9C": 22876,
+      "grade95C": 25200,
+      "cgc10C": 41848,
+      "cgc10PristineC": 75300,
+      "psa10C": 88139,
       "psa9Pop": 107,
       "psa10Pop": 10,
       "cgc10Pop": 18,
       "bgs10C": 114600,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787224075007
+      "fetchedAt": 1787563769932
     },
     "listings": [
       {
@@ -108,13 +108,13 @@
         "priceC": 49999,
         "shippingC": 624,
         "landedC": 50623,
-        "url": "https://www.ebay.com/itm/188432558469?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0FDT4EMS8GQVZ7HZYBT7MEG&hash=item2bdf74a985:g:bhUAAeSwuMVqF25b&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDQSzM7Hgn7zxt4cTtKIoF38eEi1vyu%2BOfuCn%2F7UAJAMQYAbGjvtgPixo9kbyxRvM1OJGrY72dhx5rc%2B99%2BadWsxy3JQ9sGASRUsVL7NIGNJeMMfCvlxyHe8W%2Bg5PSaQE9Aa2VJP9zSBHG5JmsPMAYDODoZAddxkZtAXAsxUDue%2BXW2F%2FgHZocGv3cUfC3%2BH2BmQacOvF5CoFOsOkWRiPjNfNqFUWct7kzjhVXtdxveGEPkgrOkH9iDwnT9uMOGNycNTqf92aNgb7x3jyqMkEarT2A42ly1slK4jnk1wKAn8v5bsz8lYZnGVdvTjeu4fNKeKfwk%2FhvkzLI6Uo1U9KRQ%7Ctkp%3ABk9SR-LH6O2DaA",
+        "url": "https://www.ebay.com/itm/188432558469?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0SHQSNA7N8K7CB66Y06Q6AR&hash=item2bdf74a985:g:bhUAAeSwuMVqF25b&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBOKblarqaW1mKqmtk%2BI0Z4NHF%2BZlRSSXi%2BdqTpvG4y8QskYGpkdFIgaWguA36i8XysgdVeiGksXyYoZm7qJDnJ%2Bc7zZYrScH%2FRdjh2G%2BtTeUzbkXiztGJjXnihu%2BQvlVdIcjLESwudritrx0gvMIaszl%2BdRzdI7MRihno66u0D70%2F2LlzGIxEXC2j2s492VMFKEuMCNdEXK416MuSMrdzKiA6U1NVVpS3ovYI84u0hVnEWF7McYf7f1dj%2B2HRJS4NKcF5v9QIvzwxNEULLe0kALq8JqEw2IxGZKGekCrAs8w%3D%3D%7Ctkp%3ABk9SR4Cb37GGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/bhUAAeSwuMVqF25b/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
       },
       {
         "itemId": "407012063941",
@@ -122,13 +122,13 @@
         "priceC": 55000,
         "shippingC": 0,
         "landedC": 55000,
-        "url": "https://www.ebay.com/itm/407012063941?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0FDT4EM42RB7E8MXZB19J0A&hash=item5ec3cf3ac5:g:8GYAAeSwMBhqNLA2&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCi9U6BMPnf1u0kx1iCvV5HQH0zcR4clEOW4CkOF5bjpXdlh%2Bsgkna%2BLJdtyVbsGwthHc3rD2GrXK0v80j4NKoUlBRr%2FcBmBljTkVC3IycjGswqWjVgBesZ6rOtfXco56NBo3gaThk6Ja1oPVOxZRMbMEsF5tlhmDR%2BzFrcma875X1Dyr9cqIWAUWoc67sCq2PlDmJ%2B9OiOw6IRj1Pvhllnh1NGsMtxiKR06CUzr6C7gO6Ru4a6DfZQDsyNWorrgeOtJiMGDf%2FT3xtG71c14Ro1olzUvAoSOr%2BIW0GZjJofln7n9CquFMkDCVB%2BXV99F%2BaRfGLKFjIJ9AgFqjJrH61R%7Ctkp%3ABk9SR-LH6O2DaA",
+        "url": "https://www.ebay.com/itm/407012063941?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0SHQSNAJJ751PSRSJ2QHHQK&hash=item5ec3cf3ac5:g:8GYAAeSwMBhqNLA2&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCi9U6BMPnf1u0kx1iCvV5HQH0zcR4clEOW4CkOF5bjpXdlh%2Bsgkna%2BLJdtyVbsGwthHc3rD2GrXK0v80j4NKoUlBRr%2FcBmBljTkVC3IycjGswqWjVgBesZ6rOtfXco56OQg13hof%2Bn1Q5p4hlK%2B7abWG2mxkiSnYV08RqUhikstL8y5n6BrKOJWn5CQxWcD0PKcXCAXAtg84cWRLqna%2BOTdekWClKT%2FOo%2Fgtx7KPwLv9dU4lI%2Bn7HUFJ6X9Y0RCAzw5n7N5N9mtho7P5l9BSwUw4za%2FqbRHqnYT87OuYZUAedz1etsbWQo4r5Wq2VA%2F2S9beQhVTomD3hh8ZEyrrAj%7Ctkp%3ABk9SR4Kb37GGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8GYAAeSwMBhqNLA2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
       },
       {
         "itemId": "298579067285",
@@ -136,13 +136,13 @@
         "priceC": 57995,
         "shippingC": 599,
         "landedC": 58594,
-        "url": "https://www.ebay.com/itm/298579067285?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0FDT4EMZWYR5ZN8NWW7TCAQ&hash=item4584b30195:g:9AgAAeSwgYVqe2D2&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBSBZRthVNAjVTTQUj5jk%2BNHyPJ%2BMo8jlV9GCuI12OHHBXqZnw1D1rMGAyDe5cZfEB5EN%2BAbmtYC0CjJHp%2F6nV3Z%2B4hGqfE8TURN8LVsUMBax4cL3i0RFm6dUh42hY2qunTF4Y%2BhlgL4kn0%2FnrMTuZSiQoREv%2FplUI2wAoso0Mr3KWi6D8hTH3a1uFxnjEthEo3wj1tRO%2FCp%2BNX0rhNYPcIDD4sCyECxJlgH7LbFMcq8UINAECmL15RL2wMGKkgBV5errX17ElxvNif2rKpSvoBY9tB9feLHH7Jh16sRZ2N0A%3D%3D%7Ctkp%3ABk9SR-LH6O2DaA",
+        "url": "https://www.ebay.com/itm/298579067285?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0SHQSNA27BDCEQ3HYVDFM7T&hash=item4584b30195:g:9AgAAeSwgYVqe2D2&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBSBZRthVNAjVTTQUj5jk%2BNHyPJ%2BMo8jlV9GCuI12OHHE71M5hNhmLsKdtTrCIl5IjBG17EW%2FJBfl38vvXhwj8WGZrb9ajwi64LCznnILWZo2%2F8l%2BGLFbggBoAQ2TBitMbUpOADL636qyQYJia236oNtf%2BPspIrTOrKv1mdIgOKoa2EYiM6VR1pt%2FeiZWsNWQNx4YKggvJDT9pRocj2BwK1GxtSQiaONJyrsbM2gI57MsfedtC8b62452eGv4tUMn0gYQfZkNxRn%2BXELjitz%2BSnYcbd7iKtybx1a2csStvd5A%3D%3D%7Ctkp%3ABk9SR4Kb37GGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/9AgAAeSwgYVqe2D2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
       },
       {
         "itemId": "147415711005",
@@ -150,13 +150,27 @@
         "priceC": 60000,
         "shippingC": 0,
         "landedC": 60000,
-        "url": "https://www.ebay.com/itm/147415711005?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0FDT4EMS5RR9JQ2E392H7T7&hash=item2252a93d1d:g:OFYAAeSwBoBqSPYE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCcq%2BMSf%2BQ3cJVljpRBKrlntTkP%2FIe2qrNNiZVQs1PnHfLWlQzORx2i2aW6P2Ps4HvZNsnYIPXdeS1sYBE5JvdK6O8I1x9XpjInC%2BMejXqW%2FmQ51V6f9%2BpeUdvKKSQpRyI7HY4unSV%2B4Z1cIQRwbNdXylItugHSV4D%2Fz7Bi98%2Fnnnt978heOcZfXYdHD2N54Um0LiRn16hseZI9zpUubyhLvM8DArFcBYcCKzgXzHmOXwhIIj2wTFVvmR%2BUHNHXWLumKGyHP5LCyQYX5xKQeVZJ21XmqdCuW4r2TQh5X2EHfQ%3D%3D%7Ctkp%3ABk9SR-LH6O2DaA",
+        "url": "https://www.ebay.com/itm/147415711005?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0SHQSNBGB1NBGKQ41XDAFZF&hash=item2252a93d1d:g:OFYAAeSwBoBqSPYE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCcq%2BMSf%2BQ3cJVljpRBKrlntTkP%2FIe2qrNNiZVQs1PnHa9LMIR9Be%2FHk7NGKu5uYTu2sGopsklIcDK5Z1S6PTJamqL1U%2B%2FPLStnsp%2BmkdCUqUqk7Wd3mULrUtFt8ceDoTRW5uMEIjqfZT6xw6BcNnyTnT2rbr0gX8IJsEwSIgYHrLlcfc8PPAvTIKmiIezinjxELT3DDNyxHpONwiL43XP8q7ea3iz5GYmAjcQY9hWRJofwg6GN07YByma95qzgeZzj8h3%2FtxmqbS6G%2F5ucH9O0ysjmPGK%2FuAdk5svJ8uXYrg%3D%3D%7Ctkp%3ABk9SR4Kb37GGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/OFYAAeSwBoBqSPYE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
+      },
+      {
+        "itemId": "287470247707",
+        "title": "2010 Pokemon PICHU 28/123 [Prerelease] [Heart Gold Soul Silver Base Set] - PSA 9Opens in a new window or tab",
+        "priceC": 65000,
+        "shippingC": 562,
+        "landedC": 65562,
+        "url": "https://www.ebay.com/itm/287470247707?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0SHQSNBADE6V9Y3X635D68P&hash=item42ee8fdf1b:g:I6YAAeSwsIxqW6Ox&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA6uoclDBa94rGgy5cyASSbC9%2BQf4wrYVOqQp7HCgSjZqHT9TAeGPJuO%2FmFvpObtwxxwIZr4PDx8z3uwxWYp%2BDrx1X3xu%2F7EshqFDdFSyu6MIWWMvxQ2%2BGiSMQKGm3QOy3Genqd6l6xLTnsJB5jQ%2B2mHjMsQaLzoMpdw%2BXtwVE6BoTT4TNgZPrt6aEFlx%2BEFsX2q0TsAQ%2FVurobJd%2BsobGo71KXrep1V30L%2B4xnxS3RzFJiP1niudJ7qPTXV4l5R71WzePVq2YUvmOQL7T9%2BmMcTX0edWJUUybM6dkjQLfd9w%3D%3D%7Ctkp%3ABk9SR4Kb37GGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/I6YAAeSwsIxqW6Ox/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787391452101,
+        "lastSeen": 1787563919508
       },
       {
         "itemId": "157916832478",
@@ -164,41 +178,41 @@
         "priceC": 67500,
         "shippingC": 895,
         "landedC": 68395,
-        "url": "https://www.ebay.com/itm/157916832478?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0FDT4EMJJN3951CVXN1RA38&hash=item24c493a2de:g:5-4AAeSwJSpqCQFE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDdRvAepDuOyZ1pkENK98z64q4m8ugS9MzZm4BLWW2jXkRzVL9WF4xGtrE2bUtjM%2FjU8r7Q8aRfte47BZyRK8vzzYL0QPFDApAtsZWkf2MYB%2BkTd41TKzL0iGrEF7c7lME0V5eE%2BhfAgiIJyMnRQdgGNznRObsEdae%2BBVHiQi2%2BGM6cNr5YJYMU5gN60l8by9LLt2KRJbJbsRyETtlo2%2FbijAWu3jFjrPF0sU5tvuJWRJfcH2n7c6TwY%2B32nnYCZcxM2EjIPYUfoOpbpaEx3cJ9JMuY7fMzkS2eWk1EMMbkOA%3D%3D%7Ctkp%3ABk9SR-LH6O2DaA",
+        "url": "https://www.ebay.com/itm/157916832478?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0SHQSNBF2ZHZ4PCTECTCSRG&hash=item24c493a2de:g:5-4AAeSwJSpqCQFE&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAH5WLf6TTOrD6Ovkwu%2FWK2xTRR6v7COvpml6OT%2BFSjOSqKF1dfT9stfF4H5nLm4FvZE6W7eGbpXa1YgSI8kMkmnsiVPP1z1cLhhhbDAIs6sB7Z4FReINk6gAn2M3T6flSBAWYIbWgEmlF7VmDsIlj2Z1yXHH7%2Fi4x028QjhMpBKe14ve5JKf0rcdB1R5yqmnYmTVeDG7qhTeVn%2FRU%2FlB6oWja5mA90dEozn1oAm2c6osUVcBmfCJwkgMNh7zzFUIe128LJSQsOImYhIcHvpwzwNsWLkWBlJv5g0e42ju%2BM%2BI4NgGs8IlikunKtAA5xLEC26tb4lOc%2BZzyL7Pa08Snw%7Ctkp%3ABk9SR4Kb37GGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/5-4AAeSwJSpqCQFE/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
       },
       {
         "itemId": "167747439609",
         "title": "Pokemon Pichu #28 PSA 9 HeartGold & SoulSilver Prerelease Holo Promo *POP 101*Opens in a new window or tab",
-        "priceC": 144829,
-        "shippingC": 1810,
-        "landedC": 146639,
-        "url": "https://www.ebay.com/itm/167747439609?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&itmmeta=01M0FDT4EPM3501M6R32HR9H2R&hash=item270e86cbf9:g:DHUAAeSwHa5orw46&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDnfn8TkmIi3IshBoqdAevOwXsYcS%2F7taVX5v10fwXx6OHOMPb8XYrXRDvleITfjfXrPs9IKz1j8h6VjonfCaeCkdaRMMQG5P5Kz16vWf4YhAN9n8WQyCWkbb6c4Vx9KgWnrFTJWMpWv0nGmONm1Iy1Oittf6e%2F1wFkteszhFre1mXpifB95xzpAchUvUkJscBduKe9GEfA6TtS4MgZh2t3rIYmCQlJqxJUgx3L5hV8ij4GbCjyRHJvnj8ufakk6sSy%2FZzGjAe3B%2BqJeNqn4Y2L71irOu7tZpYoK5TF0Ow8%2BZVCjnODU2qZ0yTFETHhtJ3xs%2FZkFVwqrbRAV8QNt8Kk%7Ctkp%3ABk9SR-bH6O2DaA",
+        "priceC": 145345,
+        "shippingC": 1817,
+        "landedC": 147162,
+        "url": "https://www.ebay.com/itm/167747439609?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&itmmeta=01M0SHQSNDSZ3C7EPS3XF71E7H&hash=item270e86cbf9:g:DHUAAeSwHa5orw46&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAwF9AHbyZOEBoAG9zybMiGbDeWbWeXT46sJZOuQ2gELScseNV97CQUpcBP2TTUjNF1WEg8cSfVizeX8RUUIWVAhzITCvrDWX0%2FWxcrUcw77OhNjnjefQ7vPv5GiVN7ydCw19CgPdes9R1e1leUXN1hfe8BwJqx2sPMBJqptSe2SZCVsAZwHiQ23jqt%2BDA1H%2FGWW11Sn0252JyQ0JYNHALkJjPkRGjaAou1uImRYfr4ZMWWY2dyiDJA9s4xnGW6Nlv7U4PZzgjc0596YOiuzbiG9%2BmBAjYWb49VqgsP3nc7lg%3D%3D%7Ctkp%3ABk9SR4ib37GGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/DHUAAeSwHa5orw46/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
       },
       {
         "itemId": "398242477475",
         "title": "Pichu-Holo #28 PSA 9 Pokemon Prerelease-Staff 2010 HeartGold & SoulSilver Pop 60Opens in a new window or tab",
-        "priceC": 181041,
-        "shippingC": 8442,
-        "landedC": 189483,
-        "url": "https://www.ebay.com/itm/398242477475?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&itmmeta=01M0FDT4EP55P0MB62A64WA4PK&hash=item5cb919f5a3:g:NXoAAeSwGs1qb5O-&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC45%2FkUzRrW0gMTq2LHFnlnF1ge5NK0ZSaWwgHlyfQY44HSx%2FXFA1Op23pHuannjUm15bgRO93C7Yr14pboGEogLC8P4I7d8XueeaHH2WLjwQYAaYtaqVNJ9Jqcuj3Pns2wyG%2BCO2En2xUZRMFGRWH4gSToaponEv0OkKA08rL5vPU8b2xpf%2F1%2Flg4OKi3WDHAzB9AiAVt%2BMXhRq5hKrkvrG6vs%2BKUzSEtzbsmHgy3I%2Fa2wXbzBB18dy9%2BxEvfPh2DWubXWpKY2qt%2FwquIhkqUMbHB1DmNYxhTTOVAzHrG%2FE%2FcpSzpxI7XotWjvTuvXZmNupEd%2F0eLKkPVXkJinj%2BdE%7Ctkp%3ABk9SR-bH6O2DaA",
+        "priceC": 181685,
+        "shippingC": 8539,
+        "landedC": 190224,
+        "url": "https://www.ebay.com/itm/398242477475?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&itmmeta=01M0SHQSNDYKEHD3K6GM4PY9JF&hash=item5cb919f5a3:g:NXoAAeSwGs1qb5O-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2FpWLLlJ2CANYwiPkv48273kc1nDy259IJAaZdQpAJeLa38voRIUWjCdtkTL3OsY4gRWfZ%2FBU56j898ArcyDXoWbAul7drUQVXzucVQveojakVVj8wi%2FdFjhgk4AKeuCjAF216cNGyIQc0nuhFJMDOHUDb4T0uYBrK7oDCGOKFAW3TlTCRZLOo%2BWOUSazKQ%2BQLP1kB3Ptu7%2Fo4ZyzOw3JqLhNPGv%2FXwMC76pvtJ5q8rnnehZTcUyHEVM4H%2FGH1aPwFbuGDoed1zcOYbMOCwWrMI3z22m4t2KyGA5Rgu3ifyQ%3D%3D%7Ctkp%3ABk9SR4qb37GGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/NXoAAeSwGs1qb5O-/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
       },
       {
         "itemId": "236980515477",
@@ -206,13 +220,13 @@
         "priceC": 500000,
         "shippingC": 0,
         "landedC": 500000,
-        "url": "https://www.ebay.com/itm/236980515477?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0FDT4ENWFXKK0BM30HBCND8&hash=item372d23b295:g:gpwAAeSw8QJqcACr&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBH4%2FTvkia5%2FgZ5lOXdttH%2BS1kH5JsoaYa%2BS6KTgdoDo28N%2Bg%2FdVjrpyH%2BiuPV2hpjBpqizSQiZI0PB8G8OlcWXd%2Fji%2BdD%2BqzUe46EujUuGdOtj9N9XY0yyZsJiF1BQSicV936WViDYKUwU7rmbK%2B7rdSg9vSOq57veOHXrs9aJZRqqtuf6sjVet4qP%2BwQvwJghKXQxS36PU9I1wQJM5hGZikvx44195Khpxh5VBmlPuAt9MoL%2BFpXqqKEY8293YDdwc2WTAUgxoO%2FO5Wa9h5NNb71dJAyP0aZC0EpQAlPEg0InzvfGCikL7WTh2JUoQ6imD8XLVgHeA%2FL2%2BlbU57aA%7Ctkp%3ABk9SR-TH6O2DaA",
+        "url": "https://www.ebay.com/itm/236980515477?_skw=%28pichu%29+%2828%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=4043367312&itmmeta=01M0SHQSNBXTVWM5FDWMQEWVGV&hash=item372d23b295:g:gpwAAeSw8QJqcACr&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB4JyjJZyTtPXhplWI%2Bb9PggmhtVP%2BoT7g7%2Bxac6OhfioOlVoJNK2PPn9AG2jr%2B2hXFmfASiWaLIkQ%2BBgDMTjJkngHOkDBXBlZkFPyCezQLclkz8YuioTwVAO%2BrHSlkMjuQx7wlNg67Zt4uvumIQ1hsAa1SCNMtjVCva%2Byr1CNsS%2FNe1r5ISxdApkmg6zCUYy61mX%2BEdL1gkZY%2BCNAyi6OJ3%2FYqtqqFdAmPNnz5xYpgPwvClr69r6UGynyZbpqkzAsU6OUabHwZe99RAF%2BG1oPMZExG4W7jroCjk9HWTMK4Pw%3D%3D%7Ctkp%3ABk9SR4Sb37GGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/gpwAAeSw8QJqcACr/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
       }
     ],
     "marketHistory": {
@@ -1321,7 +1335,7 @@
       ],
       "englishSaleCount": 83,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787224073117
+      "lastCapturedAt": 1787563768465
     }
   }
 }

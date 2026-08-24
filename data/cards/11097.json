@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 11097,
@@ -18,10 +18,10 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/328b41182505b717b53a79b90860e5a99bab51d60eeecdd28deaca1c623c917d/1600.jpg",
       "popularityScore": 76,
       "market": {
-        "ungradedC": 2150,
-        "grade9C": 21463,
-        "grade95C": 23600,
-        "cgc10C": 22552,
+        "ungradedC": 2458,
+        "grade9C": 21557,
+        "grade95C": 23700,
+        "cgc10C": 22543,
         "cgc10PristineC": 60261,
         "psa10C": 207500,
         "bgs10C": 269800,
@@ -29,7 +29,7 @@
         "psa10Pop": 20,
         "cgc10Pop": 36,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787216356871
+        "fetchedAt": 1787560209609
       },
       "bestCgc10": {
         "itemId": "188710601520",
@@ -37,21 +37,34 @@
         "priceC": 80000,
         "shippingC": 0,
         "landedC": 80000,
-        "url": "https://www.ebay.com/itm/188710601520?_skw=%28kabutops%29+%287%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=26043383452&itmmeta=01M0F6EE3JN1ZCY3BT9RNQN4V4&hash=item2bf0074330:g:Am0AAeSwsFZqaYmo&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDD1XKzwjPiE7ZvoadwmTQuYNMlm1D6yIVc05lY6GM9fxp4Hrpq0iXJ5Q9t6EVTI%2FsCcXl22JsTr1poAQxg3ca0GBBCBgEUM0sR767upd0JDMcFVAxF7YN%2BRK%2FCQtisHZdDLwY7z00SX04JcaqwoYhmkXHeAeAQGBeg85iGTpGMILhx2CuEaz%2BjbWdAHfdihqESDUsXC9IKEaaAZesnTlt7Ku6WOj%2B3vv77%2FKCH6PymX0BCK8myx0m%2F2ZfO6nHMzV3lg0rkOUWnumLp4LlbJ2tbFoEjKHy7SRST3c555AaiyF%2BhmwRdPt3tnKo6S%2Fvdzuo%3D%7Ctkp%3ABk9SR5jiueaDaA",
+        "url": "https://www.ebay.com/itm/188710601520?_skw=%28kabutops%29+%287%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=26043383452&itmmeta=01M0SEAXRHGTBBNTE7J360885X&hash=item2bf0074330:g:Am0AAeSwsFZqaYmo&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD0KY12KvX3df9--6FYY25Uf%2FzgEV%2B9OyKq1I4IuOX49xaWTaGyC2er85BZijegpSCIGcKVwj7tbbNNkIwr2E4%2FJAqH%2Bc6REPe9Vpq8akJS8oVIn0lbFdYSh5tjBng70xEkGosQHuNR0CCymsrzvsTECKlYIAzelptdkLd%2BrefN88tn00tCYAb5hFJAHsfSEKv6k3GWUDRXJH0QmAkIDQbSANqLaGpkeRrtorXFuiSJvGRZYqAwbxHhI6l16CiTYOElE9p5ECwEyS3bvfIMCV1M%7Ctkp%3ABk9SR87cq66GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Am0AAeSwsFZqaYmo/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787216884103
+        "lastSeen": 1787560344224
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "287435836863",
+        "title": "Pokemon Kabutops Holo EX Legend Maker 7/92 PSA 10 Gem MintOpens in a new window or tab",
+        "priceC": 300000,
+        "shippingC": 999,
+        "landedC": 300999,
+        "url": "https://www.ebay.com/itm/287435836863?_skw=%28kabutops%29+%287%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=26043383452&itmmeta=01M0SEAXRJXC84FTHMXH0BFFQP&hash=item42ec82cdbf:g:13QAAeSwkvxqR9L4&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB1Az8QsU37TmrbH8%2BtXohjIzpGvfCNx%2BgnfnflAsDQ%2BWAFYL4zjhkea5X8dOTNlR%2BJX0rvDHAwxaX8fEEJZptVYE4jxvE8a091sMxdXamVlDPFcWJRkhMnRvS7cwupjVxp7rWTG10ZO8jJ39flr%2B2HlxbPZEnIRECrLIxA2YmQXL6AAJqezOFlFIG3%2BSz%2BrnkU20a05VmZx8IxqGO3rM8nl51FQ0u5B1rAtu7O7woZ7NFnURNss2XJYCERZf1Ob2SLtai3f35eMi6jDo7pItCqSdQHdikxEmKlzmYl1fOIHmkVk3WV8ApG4CxjhrFmNyU%3D%7Ctkp%3ABk9SR87cq66GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/13QAAeSwkvxqR9L4/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787560344224,
+        "lastSeen": 1787560344224
+      },
       "bestPsa9": null,
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 2,
         "psa10Auction": 0,
         "psa9Bin": 0
       },
@@ -71,14 +84,14 @@
         "ratio": 2.1865121180189675
       },
       "firstOpportunityAt": 1787216884103,
-      "updatedAt": 1787216884103
+      "updatedAt": 1787560344224
     },
     "prices": {
       "variantId": 11097,
-      "ungradedC": 2150,
-      "grade9C": 21463,
-      "grade95C": 23600,
-      "cgc10C": 22552,
+      "ungradedC": 2458,
+      "grade9C": 21557,
+      "grade95C": 23700,
+      "cgc10C": 22543,
       "cgc10PristineC": 60261,
       "psa10C": 207500,
       "psa9Pop": 115,
@@ -86,7 +99,7 @@
       "cgc10Pop": 36,
       "bgs10C": 269800,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787216356871
+      "fetchedAt": 1787560209609
     },
     "listings": [
       {
@@ -95,13 +108,13 @@
         "priceC": 80000,
         "shippingC": 0,
         "landedC": 80000,
-        "url": "https://www.ebay.com/itm/188710601520?_skw=%28kabutops%29+%287%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=26043383452&itmmeta=01M0F6EE3JN1ZCY3BT9RNQN4V4&hash=item2bf0074330:g:Am0AAeSwsFZqaYmo&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDD1XKzwjPiE7ZvoadwmTQuYNMlm1D6yIVc05lY6GM9fxp4Hrpq0iXJ5Q9t6EVTI%2FsCcXl22JsTr1poAQxg3ca0GBBCBgEUM0sR767upd0JDMcFVAxF7YN%2BRK%2FCQtisHZdDLwY7z00SX04JcaqwoYhmkXHeAeAQGBeg85iGTpGMILhx2CuEaz%2BjbWdAHfdihqESDUsXC9IKEaaAZesnTlt7Ku6WOj%2B3vv77%2FKCH6PymX0BCK8myx0m%2F2ZfO6nHMzV3lg0rkOUWnumLp4LlbJ2tbFoEjKHy7SRST3c555AaiyF%2BhmwRdPt3tnKo6S%2Fvdzuo%3D%7Ctkp%3ABk9SR5jiueaDaA",
+        "url": "https://www.ebay.com/itm/188710601520?_skw=%28kabutops%29+%287%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=26043383452&itmmeta=01M0SEAXRHGTBBNTE7J360885X&hash=item2bf0074330:g:Am0AAeSwsFZqaYmo&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD0KY12KvX3df9--6FYY25Uf%2FzgEV%2B9OyKq1I4IuOX49xaWTaGyC2er85BZijegpSCIGcKVwj7tbbNNkIwr2E4%2FJAqH%2Bc6REPe9Vpq8akJS8oVIn0lbFdYSh5tjBng70xEkGosQHuNR0CCymsrzvsTECKlYIAzelptdkLd%2BrefN88tn00tCYAb5hFJAHsfSEKv6k3GWUDRXJH0QmAkIDQbSANqLaGpkeRrtorXFuiSJvGRZYqAwbxHhI6l16CiTYOElE9p5ECwEyS3bvfIMCV1M%7Ctkp%3ABk9SR87cq66GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Am0AAeSwsFZqaYmo/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787216884103
+        "lastSeen": 1787560344224
       },
       {
         "itemId": "278185679106",
@@ -109,17 +122,58 @@
         "priceC": 200000,
         "shippingC": 945,
         "landedC": 200945,
-        "url": "https://www.ebay.com/itm/278185679106?_skw=%28kabutops%29+%287%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=26043383452&itmmeta=01M0F6EE3KTYYG6EJ3AQCYRZW5&hash=item40c5289902:g:0OQAAeSwsFZqV~Ej&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB%2FPQGiNctJHzRcWnf00yOMrKwRGuo30z4bSD%2F3tlEW%2FDJQLc8eBvmLmjLFnDiJMlkKh1NwhuIXUsPLdOIlF8nwLon%2FfbpQBjVCmLbCyVKiXc4NSmL2QfbSiNnXtT0%2F0iRjFS%2Fje2OfkwA3nPAUM9SWYpUMrcNogXt%2FJc8yM%2FOTTN0gvJRCFpmhXM6y9peEnk3vHCqbB%2Bx1t7d6JUiZDYeCEC8kuWUBocWdRV0DJkdKEYePG61kY5WVdIQ4XxKIqj4S5jhQh5N1O32DzjlT%2FGOk404%2Blr5UQtSgK12sdgci5Xn6TLHiXovMWoDYVVNMEOc%3D%7Ctkp%3ABk9SR5jiueaDaA",
+        "url": "https://www.ebay.com/itm/278185679106?_skw=%28kabutops%29+%287%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=26043383452&itmmeta=01M0SEAXRJQEXPA85P2YQSHF07&hash=item40c5289902:g:0OQAAeSwsFZqV~Ej&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB%2FPQGiNctJHzRcWnf00yOMrKwRGuo30z4bSD%2F3tlEW%2FDJQLc8eBvmLmjLFnDiJMlkKh1NwhuIXUsPLdOIlF8nwLon%2FfbpQBjVCmLbCyVKiXc4NSmL2QfbSiNnXtT0%2F0iRZJJNPz%2FAwPgHqszzhDJok2WLNws4%2BCfGWFevAdNvj%2FSO5WlGnl5sdZbwsy9lM%2BpFY3Qv%2Bvs5N0vM%2BocyzzyLHkAuH8UL6HNkemleLfgA2h42x4Uc9t6QEeJF70qm4DjWER2CEkvP4VNNnF4cxfRSsjDAH7cmaO7uxWEajvZEuPUj52hv0UxH5iQaTWWyVdHY%3D%7Ctkp%3ABk9SR87cq66GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/0OQAAeSwsFZqV~Ej/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787216884103
+        "lastSeen": 1787560344224
+      },
+      {
+        "itemId": "287435836863",
+        "title": "Pokemon Kabutops Holo EX Legend Maker 7/92 PSA 10 Gem MintOpens in a new window or tab",
+        "priceC": 300000,
+        "shippingC": 999,
+        "landedC": 300999,
+        "url": "https://www.ebay.com/itm/287435836863?_skw=%28kabutops%29+%287%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=26043383452&itmmeta=01M0SEAXRJXC84FTHMXH0BFFQP&hash=item42ec82cdbf:g:13QAAeSwkvxqR9L4&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB1Az8QsU37TmrbH8%2BtXohjIzpGvfCNx%2BgnfnflAsDQ%2BWAFYL4zjhkea5X8dOTNlR%2BJX0rvDHAwxaX8fEEJZptVYE4jxvE8a091sMxdXamVlDPFcWJRkhMnRvS7cwupjVxp7rWTG10ZO8jJ39flr%2B2HlxbPZEnIRECrLIxA2YmQXL6AAJqezOFlFIG3%2BSz%2BrnkU20a05VmZx8IxqGO3rM8nl51FQ0u5B1rAtu7O7woZ7NFnURNss2XJYCERZf1Ob2SLtai3f35eMi6jDo7pItCqSdQHdikxEmKlzmYl1fOIHmkVk3WV8ApG4CxjhrFmNyU%3D%7Ctkp%3ABk9SR87cq66GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/13QAAeSwkvxqR9L4/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787560344224,
+        "lastSeen": 1787560344224
+      },
+      {
+        "itemId": "336755178517",
+        "title": "Pokémon Kabutops ex Legend Maker Holo # 7 PSA 10 (New Cert) POP 20Opens in a new window or tab",
+        "priceC": 600000,
+        "shippingC": 562,
+        "landedC": 600562,
+        "url": "https://www.ebay.com/itm/336755178517?_skw=%28kabutops%29+%287%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=26043383452&itmmeta=01M0SEAXRJA7R67BDN4HY8ZQXE&hash=item4e682c3c15:g:DLAAAeSwiIVqiP8V&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC3gMY12pIywBjfA3f3pRnM%2FptzzHj%2B%2B4BhB7yPXVMLMisyKb8nn5gyFZC3q36p%2BMJmuEjAAP6AvZIXM4tzBVKAZA4DTd55B1ihr%2BRt08VnYxIRk%2BVN2MrlGxtiGusEMia%2BFwuMbF4OVVjf6qeTMJvyy5CvYr5A38u9mxH9mGCM4BrSvUiCgVqOGcMTjuO%2Fn8lLd7GYpA7Vm9o46WNkr3RF%2B2Y9D%2Biu7iMlcFsrLsvSHo8koRQwrg0M8RueFfkzd7n5OdJy8bLI26rci%2B9Hjokr%7Ctkp%3ABk9SR87cq66GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/DLAAAeSwiIVqiP8V/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787387654657,
+        "lastSeen": 1787560344224
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 4189254,
+          "saleDate": "2026-08-24",
+          "priceC": 19999,
+          "title": "2006 POKEMON EX LEGEND MAKER #7 KABUTOPS-HOLO PSA 9 #7",
+          "url": "https://www.ebay.com/itm/117361846436?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 1417839,
           "saleDate": "2026-08-17",
@@ -127,6 +181,19 @@
           "title": "2006 Pokemon EX Legend Maker #7 Kabutops - Holo Foil #7",
           "url": "https://www.ebay.com/itm/298565625639?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2576008,
+          "saleDate": "2026-08-16",
+          "priceC": 5566,
+          "title": "Kabutops #7 Near Mint English",
+          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F86397%2F-&sharedId=web&subId1=completed",
+          "sourceMarketplace": "TCGPlayer",
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
@@ -1653,32 +1720,6 @@
           "gradingGrade": 9,
           "gradingDesignation": "mint",
           "agreementStatus": "match"
-        },
-        {
-          "id": 1417965,
-          "saleDate": "2025-10-17",
-          "priceC": 6045,
-          "title": "Pokemon Kabutops RevHolo - PSA 8 - Legend Maker #7 - Near Mint",
-          "url": "https://www.ebay.com/itm/226932545479?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1417988,
-          "saleDate": "2025-10-13",
-          "priceC": 3825,
-          "title": "PSA 6 Graded Kabutops - Holo Legend Maker 2006 Pokemon EX #7",
-          "url": "https://www.ebay.com/itm/295134923766?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 6,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1708,9 +1749,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 162,
+      "englishSaleCount": 164,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787216354541
+      "lastCapturedAt": 1787560207493
     }
   }
 }

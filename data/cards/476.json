@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 476,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/c2286e7148ccb2e59dc82bf826ffd7996081c2d278261b4ece09161481ca2971/1600.jpg",
       "popularityScore": 88,
       "market": {
-        "ungradedC": 7600,
+        "ungradedC": 7650,
         "grade9C": 19500,
         "grade95C": 21500,
-        "cgc10C": 30164,
+        "cgc10C": 27500,
         "cgc10PristineC": 52527,
-        "psa10C": 77500,
-        "bgs10C": 100800,
+        "psa10C": 79071,
+        "bgs10C": 102800,
         "psa9Pop": 1307,
         "psa10Pop": 1102,
-        "cgc10Pop": 0,
+        "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per day\":\"volume: \\n    2 sales per year\",\"volume: 2 sales per week\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787209807929
+        "fetchedAt": 1787555367312
       },
       "bestCgc10": {
         "itemId": "298552067872",
@@ -37,49 +37,36 @@
         "priceC": 40000,
         "shippingC": 548,
         "landedC": 40548,
-        "url": "https://www.ebay.com/itm/298552067872?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0F040WMSC21VVT60NQ73AB6&hash=item4583170720:g:7-sAAeSw2AdqbrRh&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCctD7c%2FDNXkqmg8l0mBAl%2Bb6r91sQkKk9vefTSBGKS%2FsqWUzxV6I54coFd6gyQNZcQU9j2t717c4YoobVeFjdfntKVjfpZFuh4FXNHBxzNSrrLfAW2AbI5rMyj33MIKTMYNZx80nw42Ut9wHqkRug9kYohMHnqpCh9G586lic3Wcl%2BozOzkhGoCABGHBhhgqmISwZsegDXdS3E52DxQFPNnDrfpBkNAsBdV8SPB77dY7TuRzS%2F99W%2FaeBghVggdgWKH9z8S0KyNa1uJnJebIeu2tCl5a%2Bb3IuWsrNAe%2BvI5g%3D%3D%7Ctkp%3ABk9SR9KOkOCDaA",
+        "url": "https://www.ebay.com/itm/298552067872?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0S9NPQD0FSWC2JYRKT5RZFK&hash=item4583170720:g:7-sAAeSw2AdqbrRh&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCctD7c%2FDNXkqmg8l0mBAl%2Bb6r91sQkKk9vefTSBGKS%2Fo4p022tC3GNCi21GDq5IZLSoaJATCNq1zT64cEK%2Fv6N6fKoQADFep4tzkr1xeNpvqwpXYrBq9bnWKlZ0REMTcqRCVB1PRtbwEwtqxjRfafTJV8JMSRPjQTEhB8VqtYHTrbcgSMvyOn3QEhcG%2FghKPGHDV%2FlcYKOLFtnl1la5N%2BQ6ebQ5l0F6OCTYE4nWnPkOyazNWeYfI1ixxbd9vCK%2F8r7zmm3G9AjWdTviuuAguFpCKYlqlJGphP08Jw2l5qqtg%3D%3D%7Ctkp%3ABk9SR4rs1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7-sAAeSw2AdqbrRh/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
-      "bestPsa10": {
-        "itemId": "137597029957",
-        "title": "2000 POKEMON PROMO BLACK STAR POKEMON LEAGUE #20 PSYDUCK PSA 10Opens in a new window or tab",
-        "priceC": 110000,
-        "shippingC": 597,
-        "landedC": 110597,
-        "url": "https://www.ebay.com/itm/137597029957?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0F040WNWYVEH05TSACWMH2Q&hash=item20096c0e45:g:W4EAAeSwxkhqdjyY&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBKxAbn7vaHBRAwFapgdVhBljhFiugDS26PWoWOzVXgzdFTDCjTWCMWOKCyr6uPHCxLtjHMz0cEFu%2F2Af2ldirj0y3BjefDMs2H7zJID8prB0AGPVkEByJPWFGJaU%2BxOo0EH7NkYBwrl%2FnZOwUqOhQHzQrArC9K%2FKGQFXjxmWvUBrzj1j6X0qJ0qLV7f9BYHSR1Eezm7L38MHmPMDrgoySot36MaLwOMDWMhnRbMZhimnz%2FEHIXM01Vc2Qokoe6%2FcwYSEaK8z4M8%2FF39g9Tp8uPGMim8u7J0xhEz57E8K8YGQ%3D%3D%7Ctkp%3ABk9SR9KOkOCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/W4EAAeSwxkhqdjyY/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
-      },
+      "bestPsa10": null,
       "bestPsa9": {
-        "itemId": "188727400416",
-        "title": "Pokemon 2000 Promo Black Star League #20 Psyduck PSA 9 MintOpens in a new window or tab",
-        "priceC": 26000,
-        "shippingC": 597,
-        "landedC": 26597,
-        "url": "https://www.ebay.com/itm/188727400416?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0F040WM5M7N21VFRTKWT0YN&hash=item2bf10797e0:g:PdwAAeSwMttqbgfQ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAjmd7%2FML%2BBAQ46wAlbijb8MfB6FiGwJPgqNYZA6hLykJHQMgzWg2doNZXZzetOSMeCuHQKHTYJgDEWNRiLukKQ1gu4d5T0rfBJ5%2F9l6xKPGflbghmeN9%2F%2BCQijqSV8O4tKZWFq%2B2oRaBezxa%2FPy%2F1NuzVEGSzdhtzvHP6ucTbSzgpxehfRmYEX5ClNQexE3Zgk7xpUMHnrrnBCDnSuiSp0iYsDUFgyHPajQX%2B2Q361e4qCiIWwMytiCHWqFVqd8aeE7a2sSi2BD4M5e4ecKATJaPGbN%2Fqn1TRCAy0zDhWYTLpZ2P5YA52noNu28HQQbKBPCCfF6hMeZE%2B4d8UedAip%7Ctkp%3ABk9SR9COkOCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/PdwAAeSwMttqbgfQ/s-l500.webp",
+        "itemId": "820039686095",
+        "title": "2000 Pokemon Black Star Promo Pokemon League #20 Psyduck PSA 9 MINTOpens in a new window or tab",
+        "priceC": 23000,
+        "shippingC": 300,
+        "landedC": 23300,
+        "url": "https://www.ebay.com/itm/820039686095?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0S9NPQD60TJKHS94STDGR8J&hash=itembeee2c97cf:g:BxAAAeSwLcVqi6gN&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCh11zfml0Zq5EWARgHJldh%2BgrHLs--1XyhDPwMzHOTrstLRLVHpLdzVhnek8wdnX%2F32a7x%2F1s9TGFYHK2o9sCks7yLIWUf0Msb14ldkXhKmhPG9XxvVtL8yw5w422LzUY14uNwaLwYUSxuApNrE%2B9zoV6sHyarbTrhZSClPg1wcy9u73DjDP8NYP%2FbNHjUnvtyBmDD4LiCk%2FM3KdIpV2HgIzeRGKtSsf0Gpl7tMiDE%2F3ACspKJ4jnUGZUKwin2AVNfYnPSu8F19Ej1Svp3LWVbA2yNmuF74fzBSd1kBjl7Tj6i0j%2FbgPq8lNHlPjyHnnodnedY8mxGIIlbVIcM6bcb%7Ctkp%3ABk9SR4rs1qmGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/BxAAAeSwLcVqi6gN/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
-        "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "firstSeen": 1787555472276,
+        "lastSeen": 1787555472276
       },
       "counts": {
-        "cgc10Bin": 1,
+        "cgc10Bin": 2,
         "cgc10Auction": 1,
         "pristine10": 1,
-        "psa10Bin": 1,
-        "psa10Auction": 0,
-        "psa9Bin": 3
+        "psa10Bin": 0,
+        "psa10Auction": 1,
+        "psa9Bin": 4
       },
       "ratio": {
         "ok": true,
@@ -93,55 +80,69 @@
         "cgc10CostC": 40548,
         "submissionFeeC": 7999,
         "totalCostC": 48547,
-        "psa10ValueC": 77500,
-        "ratio": 1.5963911261251982
+        "psa10ValueC": 79071,
+        "ratio": 1.6287515191463942
       },
       "firstOpportunityAt": 1787039418956,
-      "updatedAt": 1787209932750
+      "updatedAt": 1787555472276
     },
     "prices": {
       "variantId": 476,
-      "ungradedC": 7600,
+      "ungradedC": 7650,
       "grade9C": 19500,
       "grade95C": 21500,
-      "cgc10C": 30164,
+      "cgc10C": 27500,
       "cgc10PristineC": 52527,
-      "psa10C": 77500,
+      "psa10C": 79071,
       "psa9Pop": 1307,
       "psa10Pop": 1102,
-      "cgc10Pop": 0,
-      "bgs10C": 100800,
+      "cgc10Pop": null,
+      "bgs10C": 102800,
       "salesVolumeJson": "{\"volume: 1 sale per day\":\"volume: \\n    2 sales per year\",\"volume: 2 sales per week\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787209807929
+      "fetchedAt": 1787555367312
     },
     "listings": [
       {
-        "itemId": "318739064639",
-        "title": "2000 Pokemon Black Star Promo Pokemon League #20 Psyduck PSA 9 MINTOpens in a new window or tab",
-        "priceC": 10250,
-        "shippingC": 0,
-        "landedC": 10250,
-        "url": "https://www.ebay.com/itm/318739064639?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0F040WKN571D0B1WZ2XBJ13&hash=item4a3654273f:g:9CYAAeSwFW1qgcf8&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBbtwlY1AT%2F1dx2oIQ%2FEHJkVgcckzaftmUWHa117vgEhL9EbhlIQ7fJyRl8KKtV%2BgQ23IeAnIEuiFpbIgXqE5RsioZvXx6k%2FipZ74JFlcqvY3MSTvTE4%2BCgY80ZD%2Brfr5pYksU2KWEa8z0ptYj%2FplgRS6D819IwnEENqmaui8y0WK7mOW19rX08lElr3Nm4hcrwFiOZJTvoFeumKe%2FwIpDg5F6d7RpiupzWZ1kZShN%2BSfdvpozAXjWOAHXIPARKPPPNEZ%2FLqw6adAWfGrL9VuiDxUsm67y8au%2BlY6AKT79qkRD9cxPY%2FBOYmyenbFYCEZUAUN7Ktfa4VcKFsOzVYhcg%7Ctkp%3ABk9SR86OkOCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/9CYAAeSwFW1qgcf8/s-l500.webp",
+        "itemId": "158216996006",
+        "title": "Psyduck Promo Black Star PSA 10 #20 Pokemon League Pokemon 2000 WOTCOpens in a new window or tab",
+        "priceC": 1200,
+        "shippingC": 540,
+        "landedC": 1740,
+        "url": "https://www.ebay.com/itm/158216996006?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0S9NPQAMMRQSXC8FVSV4PKH&hash=item24d677c4a6:g:cgAAAeSwjPFqi6Hn&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCt5MNNmWYAsrmzMZaBsYSmEH2rGoicAM%2FtOYPH6LrkYQIAZVevess09PkN9za%2Fn9mAgRIxSE72WdZljSptGgP1RV1DDyr3aShUqfCYFwOmHfezDe55EwvoZcXBo0aPX3RcCzQtRqO12ox6d78QVR5WnfvYs0Gni7IfF5mj8M2V1JeNZ54vDU6HGykgrnnw6aNxvnqJN7vh%2FNxjDY8q6OWm6%2FdRP16GkqDEgLD4q3mjqhJ9GxW3VPWjJovWgwp6K4234cv8n44eXQbc9sfaKEh6S1Mtdv9uz1Lr8vkfPMskbw%3D%3D%7Ctkp%3ABk9SR4Ts1qmGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/cgAAAeSwjPFqi6Hn/s-l500.webp",
         "listingType": "auction",
-        "bucket": "psa9",
+        "bucket": "psa10",
         "freshness": "live",
-        "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "firstSeen": 1787555472276,
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "377426297413",
         "title": "2000 Pokemon Black Star Promo Pokemon League #20 Psyduck CGC 10 GEM MINTOpens in a new window or tab",
-        "priceC": 15250,
+        "priceC": 18250,
         "shippingC": 800,
-        "landedC": 16050,
-        "url": "https://www.ebay.com/itm/377426297413?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0F040WK8YD747Q0W88VYC4G&hash=item57e05c4245:g:S4MAAeSwE~FqgyLY&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBE8fjlTPJO1ldTWvXexYM3WHzV3gCdRLli8ZOsbyggb0OUqUEmSk5ZwgN%2FpSIPHXgJE9PhN36Ze5MxaT6gCFtQKBQuOok38Iyw2TJlYaR9Bv%2BYCbLPZiW6CsxeyqMVW9ah1QzZcH9XwHDKOKT3Nr6tRryc0LrERCJ4iDpPC5HqxM%2ByKCG6i8BT0Tv7p2pxUZPw8bA%2FKUH9W7qoLaZFRkPm%2FgoMmVCaTgUyvKz3EPiFEkM03n71eWwDJ1ZViA9HAcAKWizVO60C6q89AROtb13zFWDb3yTgwonCzoUD0r3Ue1hQjKwFVE%2F7o9g1gUqLgkaYSS3JKcLtfYSLHtxgib2J%7Ctkp%3ABk9SR9COkOCDaA",
+        "landedC": 19050,
+        "url": "https://www.ebay.com/itm/377426297413?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0S9NPQCB970PVSS51Q3QQEN&hash=item57e05c4245:g:S4MAAeSwE~FqgyLY&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBE8fjlTPJO1ldTWvXexYM3WHzV3gCdRLli8ZOsbyggb0OUqUEmSk5ZwgN%2FpSIPHXgJE9PhN36Ze5MxaT6gCFtQKBQuOok38Iyw2TJlYaR9Bv%2BYCbLPZiW6CsxeyqMVW9bWrwv0bmMNmzYqomNsONPXnd5JUuVo9RWtW%2FPqnPzSlFFoouYXNZkjdeCh7TNrdh3GfoyxOHbTGCfI9thWbDzzjVzPF5OXvH2h%2F7PbtKp0ESrRHfYQ8kGTKkPmvwHcHSJA881fM7Sl8n2XlXCVGcdK2tyqGoDnEJbR1%2Bh%2B0z09Fx3JLukGxqzO5NBg9u382ajr2bWU%2B0LiUewK2Us9gJqt%7Ctkp%3ABk9SR4js1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/S4MAAeSwE~FqgyLY/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
+      },
+      {
+        "itemId": "820039686095",
+        "title": "2000 Pokemon Black Star Promo Pokemon League #20 Psyduck PSA 9 MINTOpens in a new window or tab",
+        "priceC": 23000,
+        "shippingC": 300,
+        "landedC": 23300,
+        "url": "https://www.ebay.com/itm/820039686095?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0S9NPQD60TJKHS94STDGR8J&hash=itembeee2c97cf:g:BxAAAeSwLcVqi6gN&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCh11zfml0Zq5EWARgHJldh%2BgrHLs--1XyhDPwMzHOTrstLRLVHpLdzVhnek8wdnX%2F32a7x%2F1s9TGFYHK2o9sCks7yLIWUf0Msb14ldkXhKmhPG9XxvVtL8yw5w422LzUY14uNwaLwYUSxuApNrE%2B9zoV6sHyarbTrhZSClPg1wcy9u73DjDP8NYP%2FbNHjUnvtyBmDD4LiCk%2FM3KdIpV2HgIzeRGKtSsf0Gpl7tMiDE%2F3ACspKJ4jnUGZUKwin2AVNfYnPSu8F19Ej1Svp3LWVbA2yNmuF74fzBSd1kBjl7Tj6i0j%2FbgPq8lNHlPjyHnnodnedY8mxGIIlbVIcM6bcb%7Ctkp%3ABk9SR4rs1qmGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/BxAAAeSwLcVqi6gN/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787555472276,
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "188727400416",
@@ -149,13 +150,13 @@
         "priceC": 26000,
         "shippingC": 597,
         "landedC": 26597,
-        "url": "https://www.ebay.com/itm/188727400416?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0F040WM5M7N21VFRTKWT0YN&hash=item2bf10797e0:g:PdwAAeSwMttqbgfQ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAjmd7%2FML%2BBAQ46wAlbijb8MfB6FiGwJPgqNYZA6hLykJHQMgzWg2doNZXZzetOSMeCuHQKHTYJgDEWNRiLukKQ1gu4d5T0rfBJ5%2F9l6xKPGflbghmeN9%2F%2BCQijqSV8O4tKZWFq%2B2oRaBezxa%2FPy%2F1NuzVEGSzdhtzvHP6ucTbSzgpxehfRmYEX5ClNQexE3Zgk7xpUMHnrrnBCDnSuiSp0iYsDUFgyHPajQX%2B2Q361e4qCiIWwMytiCHWqFVqd8aeE7a2sSi2BD4M5e4ecKATJaPGbN%2Fqn1TRCAy0zDhWYTLpZ2P5YA52noNu28HQQbKBPCCfF6hMeZE%2B4d8UedAip%7Ctkp%3ABk9SR9COkOCDaA",
+        "url": "https://www.ebay.com/itm/188727400416?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0S9NPQDG6WRRGQJXF31NJ01&hash=item2bf10797e0:g:PdwAAeSwMttqbgfQ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDSyHKJc28NcvWwfvq5coqHZBTMIvszQu68sbMzfLbHylK79J%2FkVDzJrhW0PHCcqFJ1oBt%2FXfruWYJTf7dEceT6X1SlLyatccV2xYAbf366DR3nw%2Fg4QUd8cdAK67%2B%2Bgwb4%2BuwKtXn0UaaAvA29zZMhKJUGz3WjhagFDllG9bfTXOcHD6vN7EklfnTev56WXPAq%2Beel0p4VyyaWuzi3IKZ2Cr3DjcDPON6WTNlBi6DC93L0uxvTIK4MeZI0VPU0wYmy2hh6gjkvC%2BYxzY5AGQ1pdPczVCaZnBSuS3l%2FW2dYjg%3D%3D%7Ctkp%3ABk9SR4rs1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/PdwAAeSwMttqbgfQ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "158052873872",
@@ -163,13 +164,13 @@
         "priceC": 26500,
         "shippingC": 589,
         "landedC": 27089,
-        "url": "https://www.ebay.com/itm/158052873872?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0F040WMA7APGD8JZJ5DJZ7T&hash=item24ccaf7690:g:JqcAAeSw7spqSHQJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBcr05%2F4cqGFjG7oAdSu0vmREWgRb9ASZlBNS3PVpWLOec0OtaITtt4MhVXcCPR8cUGnBowMgDaEyh4tr99iFK5MVHeWyUwDT2b90Ww5LALRFE1c1fU3DCSrgU7IfOyyBOdNJzasES9kVJzdUQsaG8WqSr%2FRsdCe%2BXeR5CGgUK81ZtkNeGRPODsws7YmNV4%2BMQL6oaOnCf3cM0DYvEa%2FfUDvKaAN%2Bg4FuHEaWJmLM%2Bo21NQzVye%2FZRbBq6jCDJB7APfLWHfy8YNE%2F6d6uOEnbjPDqwWJJ%2Bfw8ajCz7%2FPrw01A%3D%3D%7Ctkp%3ABk9SR9COkOCDaA",
+        "url": "https://www.ebay.com/itm/158052873872?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0S9NPQDH75VE20TCDR4W5HG&hash=item24ccaf7690:g:JqcAAeSw7spqSHQJ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDLiBEhyYhT%2FZZXR%2FThWEbhTBvGwG0YcBsPmu--jbCI3Sr8gwmCAa8smQ6uMxMlTwo9QWhM1B1vEjF9jxcR09Joh%2BqHlJjc%2BjKTxqG%2BSvAyWNBcRAND5UAglBsY%2Bi%2BGQLT5GdqQecFLjKKVgpReA1PDMm%2BtlrIE6U7H09uGNtPvlNE2Ek6EWS1otrBzmd3x3PrqvERZS7ZiAdQXTEWOeFaNpQKv3InOKwajlbPvqx0WSfkCBlxn%2Bx7vXSc2I4HYjTw0CGBgCqYB5DingPv3AC9i%2F%2BMIg17tPvuAcytA0S6fwruW7MmUY2bF9L%2FotU5KxBy4kDspG4wMVQT6g%2FzmIFPg%7Ctkp%3ABk9SR4rs1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/JqcAAeSw7spqSHQJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "407044099730",
@@ -177,13 +178,13 @@
         "priceC": 27499,
         "shippingC": 597,
         "landedC": 28096,
-        "url": "https://www.ebay.com/itm/407044099730?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0F040WMG1V7AYK49NBXGQK5&hash=item5ec5b80e92:g:XkgAAeSw0dNqRsyk&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBjnktNMheWY39oSlRCurllkzZkDFY%2FjkRSDxmn83XF3lcm7KBDAx3%2F9Y8CguFz8Byu1w76UDLh12IFQilde0MVfxdXH4lCSjVD8AQdMW3hkq3T9ma2jFZn9RrYrTg5DeK6sGcxxxXWQu3TTTa90%2F0RHrJCPPGJVWv7kpT1X5%2BXYh3RPiuqo2dSbOhx3N6LDyG0emizLB4NuXyGXhE7QssKrrRspeiiCNbyHa1%2FAPeegCYICu9D72MkMs7l1S9I31Cgdr9oxBKM8LM0pSkP1mA3L8VF8U5VlVdr0ZE5YtINkWs%2FPHJgo57lAaBWXcFOuNfIEK9U3mgBMbLUu19Z%2Bpip%7Ctkp%3ABk9SR9COkOCDaA",
+        "url": "https://www.ebay.com/itm/407044099730?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0S9NPQDK7P3BY4ZMEQ4Y44B&hash=item5ec5b80e92:g:XkgAAeSw0dNqRsyk&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA63f%2F7NOwEBsaXHkTWVzP5%2BJnk1ONiYn6Z%2BkNngxKCXTgKCl7vTZ%2BwmfWkMVmsgo6ouHYt5jSWw4MUZnyWDAyeYfngwxrOF%2BOZ0ITf25bZ17ZutLdt6SYQH5gbRGZuoIkEConN1e0sRdL%2Ba9Ikd7Swj%2FDfkzc3C1wHuYRW0zHS2zz2D08i1io1fWCI%2BiOriFMPAJBAV6htgN5qZHlQJmY5SZ0CUVdoIeQlapA%2BwxIHGfN80TztuC0omVj649n58AHZ6girXvG5c%2BFaKaevkE1OsH6uptwiN9CygmCus2BP5A%3D%3D%7Ctkp%3ABk9SR4rs1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XkgAAeSw0dNqRsyk/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "298552067872",
@@ -191,13 +192,27 @@
         "priceC": 40000,
         "shippingC": 548,
         "landedC": 40548,
-        "url": "https://www.ebay.com/itm/298552067872?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0F040WMSC21VVT60NQ73AB6&hash=item4583170720:g:7-sAAeSw2AdqbrRh&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCctD7c%2FDNXkqmg8l0mBAl%2Bb6r91sQkKk9vefTSBGKS%2FsqWUzxV6I54coFd6gyQNZcQU9j2t717c4YoobVeFjdfntKVjfpZFuh4FXNHBxzNSrrLfAW2AbI5rMyj33MIKTMYNZx80nw42Ut9wHqkRug9kYohMHnqpCh9G586lic3Wcl%2BozOzkhGoCABGHBhhgqmISwZsegDXdS3E52DxQFPNnDrfpBkNAsBdV8SPB77dY7TuRzS%2F99W%2FaeBghVggdgWKH9z8S0KyNa1uJnJebIeu2tCl5a%2Bb3IuWsrNAe%2BvI5g%3D%3D%7Ctkp%3ABk9SR9KOkOCDaA",
+        "url": "https://www.ebay.com/itm/298552067872?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0S9NPQD0FSWC2JYRKT5RZFK&hash=item4583170720:g:7-sAAeSw2AdqbrRh&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCctD7c%2FDNXkqmg8l0mBAl%2Bb6r91sQkKk9vefTSBGKS%2Fo4p022tC3GNCi21GDq5IZLSoaJATCNq1zT64cEK%2Fv6N6fKoQADFep4tzkr1xeNpvqwpXYrBq9bnWKlZ0REMTcqRCVB1PRtbwEwtqxjRfafTJV8JMSRPjQTEhB8VqtYHTrbcgSMvyOn3QEhcG%2FghKPGHDV%2FlcYKOLFtnl1la5N%2BQ6ebQ5l0F6OCTYE4nWnPkOyazNWeYfI1ixxbd9vCK%2F8r7zmm3G9AjWdTviuuAguFpCKYlqlJGphP08Jw2l5qqtg%3D%3D%7Ctkp%3ABk9SR4rs1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7-sAAeSw2AdqbrRh/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
+      },
+      {
+        "itemId": "336753199807",
+        "title": "2000 Pokemon Black Star Promo Pokemon League #20 Psyduck CGC 10 GEM MINTOpens in a new window or tab",
+        "priceC": 49488,
+        "shippingC": 582,
+        "landedC": 50070,
+        "url": "https://www.ebay.com/itm/336753199807?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0S9NPQDX6YKF6EVP8637714&hash=item4e680e0abf:g:WlgAAeSwYspqh2oW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDG%2B%2F72TUTrfJQsdd0YXwxR5xe3SMkMBoPJKvSGe5eSDIvxMZB7cYh7mNwr%2Fp8dUj3x1CzegUh6fMu2Aw6FZIvb9AQn3lwi%2FW48n%2BP115wZ2oj1nkHsjro9snAbWeg9ec1SK%2FOx%2F%2BSYaRsoMPYKfYzW96qpCtj04Ci6UhAhz7tmIqypIBdV4rU%2FF5aKE%2BjpRw3VYsZR0QDYy08wGz3FE%2BrnjUv5AzHsQnUcOOwI%2BN0cDIppKdjXMyOsM5zKQWnumMOGzztD8AKaAQeerXxEbI9sSfs5Wd8NBFmINlhybIkqogtpdWukZ5RBWrdu0DBa%2Fr0bjIpyJj7IoJmvClMksUS%2B%7Ctkp%3ABk9SR4rs1qmGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/WlgAAeSwYspqh2oW/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787296401499,
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "287292342627",
@@ -205,31 +220,82 @@
         "priceC": 100000,
         "shippingC": 999,
         "landedC": 100999,
-        "url": "https://www.ebay.com/itm/287292342627?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0F040WNNYK7J2B5FCZ1FF9D&hash=item42e3f54163:g:Rm8AAeSwrURp6-HI&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBIYVy2QP%2FGmmEGo2FWoUkwD0ehCXRsymYxdQ0TtJhVPRNPlnE%2FlowPnJW2fyFYZKcSdp1EcRtLyHvtFhCIq5hE9tqnipNj8IbOkaPshOlJKd2MarE0BMGw3Z5px01TZ%2BwjuFW2e18IAqXlQrGQJi63X2W%2FKV0RS6LBrc5Uzad%2FQ5WwLAba74SuPvEEf9vdcLroHdXKG4adY62PWHt3AoveEOZkopYf2qa8VkXhsLGUvFUypWLM5MS%2BTuvjsHBYSTTnvxJJKpMjjDlEdGZeWDHU7KWOS5ZJo%2B%2FRmW6qFGXdNw%3D%3D%7Ctkp%3ABk9SR9KOkOCDaA",
+        "url": "https://www.ebay.com/itm/287292342627?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0S9NPQETZ15P6Q2XZ1RW39S&hash=item42e3f54163:g:Rm8AAeSwrURp6-HI&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA6p%2B3tldTWVzsmDRh1WgWR5sNJB07ejaWs0jdbn2I1%2FwDhha%2FrLWjm0TfmJ6uZXAVL8CFjZuHaK2A12fm0U%2FnKxpCCzP6Rr5Y9Jon45%2Ffiy25TD%2F4LYIMkpJnaIK1wWsRAHu0%2Feqn3y7fWsfDYBtGk6qGbZ8EFNXq1N3ZjgBtVbsQkDJZjqnFiekkapbl0qYUGW0pW796%2Fccwp2EI2mO%2FLZTL9Hh8rqv4Eucq1g90LYH2ehaDEUq8FtBCOzWvgpWLxmlEJJaB4EQrddREwwZBRJB88jyp%2BW5coQLhanTaeZzTKDTJaVaWa2vSz3s3gBtD08Wu2P4WpKo1q1yhGSJ0%2F%7Ctkp%3ABk9SR4zs1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Rm8AAeSwrURp6-HI/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
-      },
-      {
-        "itemId": "137597029957",
-        "title": "2000 POKEMON PROMO BLACK STAR POKEMON LEAGUE #20 PSYDUCK PSA 10Opens in a new window or tab",
-        "priceC": 110000,
-        "shippingC": 597,
-        "landedC": 110597,
-        "url": "https://www.ebay.com/itm/137597029957?_skw=%28psyduck%29+%2820%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=12043364607&itmmeta=01M0F040WNWYVEH05TSACWMH2Q&hash=item20096c0e45:g:W4EAAeSwxkhqdjyY&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBKxAbn7vaHBRAwFapgdVhBljhFiugDS26PWoWOzVXgzdFTDCjTWCMWOKCyr6uPHCxLtjHMz0cEFu%2F2Af2ldirj0y3BjefDMs2H7zJID8prB0AGPVkEByJPWFGJaU%2BxOo0EH7NkYBwrl%2FnZOwUqOhQHzQrArC9K%2FKGQFXjxmWvUBrzj1j6X0qJ0qLV7f9BYHSR1Eezm7L38MHmPMDrgoySot36MaLwOMDWMhnRbMZhimnz%2FEHIXM01Vc2Qokoe6%2FcwYSEaK8z4M8%2FF39g9Tp8uPGMim8u7J0xhEz57E8K8YGQ%3D%3D%7Ctkp%3ABk9SR9KOkOCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/W4EAAeSwxkhqdjyY/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3620396,
+          "saleDate": "2026-08-23",
+          "priceC": 18500,
+          "title": "2000 Pokemon Black Star Promo Pokemon League #20 Psyduck PSA 9 MINT 20/53",
+          "url": "https://www.ebay.com/itm/318739064639?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
+          "gradingDesignation": "mint",
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3620260,
+          "saleDate": "2026-08-22",
+          "priceC": 7599,
+          "title": "Psyduck #20 Near Mint English",
+          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F88429%2F-&sharedId=web&subId1=completed",
+          "sourceMarketplace": "TCGPlayer",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2963313,
+          "saleDate": "2026-08-22",
+          "priceC": 10251,
+          "title": "Pokemon Card - Psyduck WOTC Black Star League Promo #20 #20",
+          "url": "https://www.ebay.com/itm/800510695430?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3620262,
+          "saleDate": "2026-08-21",
+          "priceC": 7599,
+          "title": "Psyduck #20 Near Mint English",
+          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F88429%2F-&sharedId=web&subId1=completed",
+          "sourceMarketplace": "TCGPlayer",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3620263,
+          "saleDate": "2026-08-19",
+          "priceC": 7000,
+          "title": "Psyduck #20 Near Mint English",
+          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F88429%2F-&sharedId=web&subId1=completed",
+          "sourceMarketplace": "TCGPlayer",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 850978,
           "saleDate": "2026-08-19",
@@ -1724,71 +1790,6 @@
           "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 97243,
-          "saleDate": "2026-05-24",
-          "priceC": 78000,
-          "title": "2000 POKEMON PROMO BLACK STAR POKÉMON LEAGUE #20 PSYDUCK PSA 10 #20",
-          "url": "https://www.ebay.com/itm/287329652114?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 97257,
-          "saleDate": "2026-05-22",
-          "priceC": 30000,
-          "title": "CGC 10 Psyduck 2000 Black Star Promo 20 Pokémon League Graded Pokemon Card #20",
-          "url": "https://www.ebay.com/itm/188106903641?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 97244,
-          "saleDate": "2026-05-22",
-          "priceC": 75000,
-          "title": "2000 Pokemon Black Star Promo Pokemon League #20 Psyduck 🔥🔥 GEM MINT PSA 10 #20",
-          "url": "https://www.ebay.com/itm/287345952132?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 97307,
-          "saleDate": "2026-05-21",
-          "priceC": 20250,
-          "title": "2000 Pokemon WOTC Black Star Promo Psyduck 20 /53 CLEAN NO WHITENING 🔥🔥 PSA 9 #20",
-          "url": "https://www.ebay.com/itm/287329659642?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 97209,
-          "saleDate": "2026-05-20",
-          "priceC": 9799,
-          "title": "Psyduck #20 Near Mint English",
-          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F88429%2F-&sharedId=web&subId1=completed",
-          "sourceMarketplace": "TCGPlayer",
-          "gradingStatus": "raw",
-          "gradingCompany": null,
-          "gradingGrade": null,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1818,9 +1819,9 @@
           "count": 3
         }
       ],
-      "englishSaleCount": 231,
+      "englishSaleCount": 236,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787209805569
+      "lastCapturedAt": 1787555365732
     }
   }
 }

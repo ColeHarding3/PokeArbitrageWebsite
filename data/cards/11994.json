@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 11994,
@@ -25,11 +25,11 @@
         "cgc10PristineC": 1296000,
         "psa10C": 1200000,
         "bgs10C": 1560000,
-        "psa9Pop": 0,
-        "psa10Pop": 0,
-        "cgc10Pop": 0,
+        "psa9Pop": null,
+        "psa10Pop": null,
+        "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787219713691
+        "fetchedAt": 1787561444675
       },
       "bestCgc10": {
         "itemId": "198475963836",
@@ -37,13 +37,13 @@
         "priceC": 1499999,
         "shippingC": 0,
         "landedC": 1499999,
-        "url": "https://www.ebay.com/itm/198475963836?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=11043365420&itmmeta=01M0F9Q5C5EK2820Z00QPBXTKQ&hash=item2e3616ddbc:g:c6cAAeSwsUZqSZtT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAT40R2DZh%2BnMLE4fMu35HzctGvd%2BH0fj9d3eNeoYSGzQxQoMuitR%2BkmwM81LHWVT5r8v9piH8xt9MxhYGDVezzK%2B1KD1SqgFnMcEeW2qO%2F63Tu0sOsAcfBLwq9HtUjNmbApIMfbIVW%2BQDtnFHqFhBznvYH6fGnH8E8UBXRUTN53WmH5kV3TKu77oVhRPQZ84vQPnmOPw4J%2FTp%2FsXsxC3kaZOTISa0%2Bd3Cw%2FDXefO2WUCyeleOt%2FJ3IRrtpRyQBdxugRsKRrZjtZJ4c%2FEBqrpkcg8A%2Be83MEzpT%2FklddBIwvg%3D%3D%7Ctkp%3ABk9SR6jW3OmDaA",
+        "url": "https://www.ebay.com/itm/198475963836?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=11043365420&itmmeta=01M0PYBP1MMAZ72PJAEZ7V3SS4&hash=item2e3616ddbc:g:c6cAAeSwsUZqSZtT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAT40R2DZh%2BnMLE4fMu35HzctGvd%2BH0fj9d3eNeoYSGzeH2G2mNGQKAZj6WsyB--WS2Vn%2Fi1TukieVqSti5whx65PQ4XM1NHZaImcin3NRsTJShbigbtcRM88seqdzrh5%2BByxAWkI7%2FztOiPb4en00Vp%2Bq2o%2FjWEAAp1JAVQuHj%2FnGg2BpZ70deX5BAR%2BCmtVVsPw7bBcXZPJuJoB81uHdTfaPi3R5uTDk3xmgy5aTYJO434IQmX9I4YPKoApm5XYGfhVrSY65M1DT2R9qmhzFuaLlO7SzRhQnM2Byp580QAg%3D%3D%7Ctkp%3ABk9SR4bhrt6FaA",
         "imageUrl": "https://i.ebayimg.com/images/g/c6cAAeSwsUZqSZtT/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787219911031,
-        "lastSeen": 1787219911031
+        "lastSeen": 1787476439600
       },
       "bestPsa10": {
         "itemId": "257618890098",
@@ -51,27 +51,27 @@
         "priceC": 1999900,
         "shippingC": 899,
         "landedC": 2000799,
-        "url": "https://www.ebay.com/itm/257618890098?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=26043383597&itmmeta=01M0F9Q5C5XF5MNDPXEQ75HWVH&hash=item3bfb484d72:g:UFcAAeSwz-BqVHTx&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDYegiOJpn89%2BXbm3GxL3YSXxTHjbXUqha3RwHFFKSPwZxuIJn%2BcQOc2xNYtyGYF00ytRmVbUG65VoEq3nMrRWaUtUC%2BmNtHD4XHbQvfPi%2FBQYVYhBo9Kury4PWKeSI7PRuSaWbtk0KzEls7vxSmr30AQDYUV1zh8njDPrkBsFXN197YdfTKKt82%2Bguw6Z64kcx6LEGAA%2FkvQZTQajDXlCdNTRJlAEbWOR4IofSfLAMI6xj6ENlwgnIf4B09E8O2FnvtKIQEokDTIaZTPWa%2B0OQrHYHZcd4G%2Bf9SlsXxhGAX4O3tie%2BMa9w1O8W3AAEOlaN96UJTyaiTk7jxu%2BYBos1%7Ctkp%3ABk9SR6jW3OmDaA",
+        "url": "https://www.ebay.com/itm/257618890098?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=26043383597&itmmeta=01M0SFKAD3NJPFD1AR2W0GS6FQ&hash=item3bfb484d72:g:UFcAAeSwz-BqVHTx&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCE4vL031xiyY6fHbzhgj%2FUgaeWDg9FLZJwuM1SrntAzpZrfwkpC5WE2%2B0fhIRkv%2BKm%2Bvwukc6qw59t2Eoq3t0VyQNOPd3cHFOuiBDW1sZ58J%2B0%2FPSVD0PS%2FZvFwVgf2zjcxsHIGyKbjf2fcmR%2BW9aw4c2mKQvkEhvmKAKdH7cEEf37TLtvwMngUE6MRfxOv0GZeod5uzbcvpyAuKHXEUqBXn0yoiSJ%2BAgvS%2B5MJDIRgTJcNny8KmLQGjvAuCGUy53Zbq5Yn15Pt4Aeg6ZQkBD7lTzaPjxQddepkNczUaKATg%3D%3D%7Ctkp%3ABk9SR-Smza-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/UFcAAeSwz-BqVHTx/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787219911031,
-        "lastSeen": 1787219911031
+        "lastSeen": 1787561622085
       },
       "bestPsa9": {
-        "itemId": "287382506499",
-        "title": "2008 Pokemon Diamond & Pearl Black Star Promo #DP19 Darkrai LV.X-Holo Card PSA 9Opens in a new window or tab",
-        "priceC": 430000,
-        "shippingC": 517,
-        "landedC": 430517,
-        "url": "https://www.ebay.com/itm/287382506499?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=16043369672&itmmeta=01M0F9Q5C5VHHB87J9KJQ5C3VC&hash=item42e9550c03:g:bY4AAeSwK4JqJySo&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD3Qhx%2BlQdXswzStG0SFtcycKNs6UV99T%2F0AxG3Xv5BApalKVpqosE7lyx%2B4lJ3OBLS1kfHuZtql0oim0w%2F3exgYQjp45tBNQLvNtLT7sOGqnIAcaH6aAXgpnnV1OPyur7V%2Fen3V1%2FlswPrytBLNHmw87ykmxjVubbuBCEKM3Lv2yc0d6BlfNrQ92EcRklqk6uIm3eP5EB3sBL1AWmYDiUh7rGwbAhQWlboHIJjluOcz9HLvNjWHpG5OxYSk6ff3aAS4SXZQBdjzRISri8pqnEdlKSvgPTFYANw7KvBV3hNjB0hMvR6%2BrVGjn1zDrQTs8Zkv%2BJHBEx41dP38l9T1G8B%7Ctkp%3ABk9SR6jW3OmDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/bY4AAeSwK4JqJySo/s-l500.webp",
+        "itemId": "206510477146",
+        "title": "2009 POKEMON DIAMOND & PEARL BLACK STAR PROMO #DP38 GIRATINA LV.X-HOLO PSA 9Opens in a new window or tab",
+        "priceC": 79999,
+        "shippingC": 548,
+        "landedC": 80547,
+        "url": "https://www.ebay.com/itm/206510477146?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=16065724761&itmmeta=01M0SFK6M8WGHYAYMZ4YJC23K9&hash=item3014fbcf5a:g:KZIAAeSwYtNqimpK&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBY%2B0Ar1kqbWaImEtCRk1mFZHQgGMKw01IjOCN9lGv2xz%2FWT1vfj5nFBCyaSFB6vxPOhY39pT6nqUIft6zSeRs1h%2B0r6cTu5HM1xGFNK43Hn7QtDazUv0j%2BHmkkTEO3fidNElYwawEqRQI41vUf5QyByvYf50iVSrhH7sqEfZKofxZYmpi7Fw0qyns6dZuRO2HixVlaT%2F03qReRNV7DdQVL9vVtpbOl7%2FyCwgBEHAcLLUc9QMLlbpkQkPNAnN6hO%2FM94fEPoAm1zTzk%2FpFQob9ztF8Oo%2FleFiudyaQeK%2FFasw%3D%3D%7Ctkp%3ABk9SR7jqzK-GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/KZIAAeSwYtNqimpK/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
-        "firstSeen": 1787219911031,
-        "lastSeen": 1787219911031
+        "firstSeen": 1787476439600,
+        "lastSeen": 1787561622085
       },
       "counts": {
         "cgc10Bin": 1,
@@ -79,7 +79,7 @@
         "pristine10": 0,
         "psa10Bin": 2,
         "psa10Auction": 0,
-        "psa9Bin": 1
+        "psa9Bin": 2
       },
       "ratio": {
         "ok": true,
@@ -97,7 +97,7 @@
         "ratio": 0.7500473467387628
       },
       "firstOpportunityAt": 1787219911031,
-      "updatedAt": 1787219911031
+      "updatedAt": 1787561622085
     },
     "prices": {
       "variantId": 11994,
@@ -107,27 +107,41 @@
       "cgc10C": 720000,
       "cgc10PristineC": 1296000,
       "psa10C": 1200000,
-      "psa9Pop": 0,
-      "psa10Pop": 0,
-      "cgc10Pop": 0,
+      "psa9Pop": null,
+      "psa10Pop": null,
+      "cgc10Pop": null,
       "bgs10C": 1560000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787219713691
+      "fetchedAt": 1787561444675
     },
     "listings": [
       {
+        "itemId": "206510477146",
+        "title": "2009 POKEMON DIAMOND & PEARL BLACK STAR PROMO #DP38 GIRATINA LV.X-HOLO PSA 9Opens in a new window or tab",
+        "priceC": 79999,
+        "shippingC": 548,
+        "landedC": 80547,
+        "url": "https://www.ebay.com/itm/206510477146?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=16065724761&itmmeta=01M0SFK6M8WGHYAYMZ4YJC23K9&hash=item3014fbcf5a:g:KZIAAeSwYtNqimpK&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBY%2B0Ar1kqbWaImEtCRk1mFZHQgGMKw01IjOCN9lGv2xz%2FWT1vfj5nFBCyaSFB6vxPOhY39pT6nqUIft6zSeRs1h%2B0r6cTu5HM1xGFNK43Hn7QtDazUv0j%2BHmkkTEO3fidNElYwawEqRQI41vUf5QyByvYf50iVSrhH7sqEfZKofxZYmpi7Fw0qyns6dZuRO2HixVlaT%2F03qReRNV7DdQVL9vVtpbOl7%2FyCwgBEHAcLLUc9QMLlbpkQkPNAnN6hO%2FM94fEPoAm1zTzk%2FpFQob9ztF8Oo%2FleFiudyaQeK%2FFasw%3D%3D%7Ctkp%3ABk9SR7jqzK-GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/KZIAAeSwYtNqimpK/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787476439600,
+        "lastSeen": 1787561622085
+      },
+      {
         "itemId": "800537021307",
         "title": "POKEMON CHARIZARD G LV.X 2009 DIAMOND & PEARL BLACK STAR PROMO #DP45 HOLO PSA 9Opens in a new window or tab",
-        "priceC": 225,
+        "priceC": 227500,
         "shippingC": 795,
-        "landedC": 1020,
-        "url": "https://www.ebay.com/itm/800537021307?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&itmmeta=01M0F9PRB2BA254R1TKRKNMKF3&hash=itemba63b98b7b:g:MVcAAeSwiipqhK8t&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDiZF49PdRAWcJVGcA3e0F5FFPcyL%2F%2BSk5IIV4kWkw08JEUPU4R2WWiNO2Cwl%2BYFyC35kiS61Qhw0bXNQ3gka1PC--2g4aT57F0FNe5vu75GemKm1OGz8Nn2UxAPWX0jmaSZVKqUV%2BbSlf3N53ZgFykzZYxGMAzzz%2Byn%2B4Mlo1CmUb%2Fxza%2FxjDwFvtTRLxITBiVXOntLOY2j6I0SxRQJLoBYhxNtwgaejFDLI6c7XI9VjyHmbxtpixdE7U2dz9UMtQgJuJ9sp8kec509rVIJNYUV6coJmsyA1nO5HtGUwiYVQB28BLVmv5enPBCLqHf%2BRN5X4PYh3A5OVU56Mjg3OSA%7Ctkp%3ABk9SR-yF2-mDaA",
+        "landedC": 228295,
+        "url": "https://www.ebay.com/itm/800537021307?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&itmmeta=01M0SFK6MAAK8T2SADAT11HPY0&hash=itemba63b98b7b:g:MVcAAeSwiipqhK8t&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAOo%2FO519nQPWCcAu0WqD3lb9grex9i5SP7rRaVKpE5U%2FdB2UfYY%2BB26sapeKSPtw%2BIK79HLcg8%2BavhGEJDW7xkVEmKkui4krG6FhcvmVJE1fUDmICw%2B%2BwCp4vP5%2B5OwFXKxq8cGxdSVehvKAtb3CIcw1HKDVb8lOSUKhStlKhMJ5TMTVAGs6XYPxIG7OrhRPwuqFKAEIiTWuxryRJtyAk230wZBk3bKxtJUSdraNjkfzn5FwYNyKbD5oZmXajkLjh%2FiGaAp%2BQAs4u5RbswsFj0ftDb9U%2FeBxmBMfwPSWEjkg%3D%3D%7Ctkp%3ABk9SR7zqzK-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/MVcAAeSwiipqhK8t/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787219911031,
-        "lastSeen": 1787219911031
+        "lastSeen": 1787561622085
       },
       {
         "itemId": "287382506499",
@@ -135,13 +149,13 @@
         "priceC": 430000,
         "shippingC": 517,
         "landedC": 430517,
-        "url": "https://www.ebay.com/itm/287382506499?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=16043369672&itmmeta=01M0F9Q5C5VHHB87J9KJQ5C3VC&hash=item42e9550c03:g:bY4AAeSwK4JqJySo&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD3Qhx%2BlQdXswzStG0SFtcycKNs6UV99T%2F0AxG3Xv5BApalKVpqosE7lyx%2B4lJ3OBLS1kfHuZtql0oim0w%2F3exgYQjp45tBNQLvNtLT7sOGqnIAcaH6aAXgpnnV1OPyur7V%2Fen3V1%2FlswPrytBLNHmw87ykmxjVubbuBCEKM3Lv2yc0d6BlfNrQ92EcRklqk6uIm3eP5EB3sBL1AWmYDiUh7rGwbAhQWlboHIJjluOcz9HLvNjWHpG5OxYSk6ff3aAS4SXZQBdjzRISri8pqnEdlKSvgPTFYANw7KvBV3hNjB0hMvR6%2BrVGjn1zDrQTs8Zkv%2BJHBEx41dP38l9T1G8B%7Ctkp%3ABk9SR6jW3OmDaA",
+        "url": "https://www.ebay.com/itm/287382506499?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=16043369672&itmmeta=01M0SFKAD2CN3ZJRYAFQY0P91N&hash=item42e9550c03:g:bY4AAeSwK4JqJySo&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD3Qhx%2BlQdXswzStG0SFtcycKNs6UV99T%2F0AxG3Xv5BApalKVpqosE7lyx%2B4lJ3OBLS1kfHuZtql0oim0w%2F3exgYQjp45tBNQLvNtLT7sOGqnIAcaH6aAXgpnnV1OPyur7qIkgsom2%2BsWiPbJwK9ZPFvFG9seR5SB77Wc9GAl3XMvNoxa0FaUQi%2Fo3A9ipmhwd8sQsdJIFRet%2Fb1uS4fZUHOBwMzE%2FkzxAHgBHbedXXwzyhDtnfau0HXab3qrA7sWpzzdo%2BjbzcOyZ3v2UkB6Kd%2BE%2Fy3ZHp5z%2BLuuUTui3Iu2r%2B1hM5Tset3uAt9n7IH2AVNN5qEZfGroftWBiq9zHy%7Ctkp%3ABk9SR-Kmza-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/bY4AAeSwK4JqJySo/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787219911031,
-        "lastSeen": 1787219911031
+        "lastSeen": 1787561622085
       },
       {
         "itemId": "198475963836",
@@ -149,13 +163,13 @@
         "priceC": 1499999,
         "shippingC": 0,
         "landedC": 1499999,
-        "url": "https://www.ebay.com/itm/198475963836?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=11043365420&itmmeta=01M0F9Q5C5EK2820Z00QPBXTKQ&hash=item2e3616ddbc:g:c6cAAeSwsUZqSZtT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAT40R2DZh%2BnMLE4fMu35HzctGvd%2BH0fj9d3eNeoYSGzQxQoMuitR%2BkmwM81LHWVT5r8v9piH8xt9MxhYGDVezzK%2B1KD1SqgFnMcEeW2qO%2F63Tu0sOsAcfBLwq9HtUjNmbApIMfbIVW%2BQDtnFHqFhBznvYH6fGnH8E8UBXRUTN53WmH5kV3TKu77oVhRPQZ84vQPnmOPw4J%2FTp%2FsXsxC3kaZOTISa0%2Bd3Cw%2FDXefO2WUCyeleOt%2FJ3IRrtpRyQBdxugRsKRrZjtZJ4c%2FEBqrpkcg8A%2Be83MEzpT%2FklddBIwvg%3D%3D%7Ctkp%3ABk9SR6jW3OmDaA",
+        "url": "https://www.ebay.com/itm/198475963836?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=11043365420&itmmeta=01M0PYBP1MMAZ72PJAEZ7V3SS4&hash=item2e3616ddbc:g:c6cAAeSwsUZqSZtT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAT40R2DZh%2BnMLE4fMu35HzctGvd%2BH0fj9d3eNeoYSGzeH2G2mNGQKAZj6WsyB--WS2Vn%2Fi1TukieVqSti5whx65PQ4XM1NHZaImcin3NRsTJShbigbtcRM88seqdzrh5%2BByxAWkI7%2FztOiPb4en00Vp%2Bq2o%2FjWEAAp1JAVQuHj%2FnGg2BpZ70deX5BAR%2BCmtVVsPw7bBcXZPJuJoB81uHdTfaPi3R5uTDk3xmgy5aTYJO434IQmX9I4YPKoApm5XYGfhVrSY65M1DT2R9qmhzFuaLlO7SzRhQnM2Byp580QAg%3D%3D%7Ctkp%3ABk9SR4bhrt6FaA",
         "imageUrl": "https://i.ebayimg.com/images/g/c6cAAeSwsUZqSZtT/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787219911031,
-        "lastSeen": 1787219911031
+        "lastSeen": 1787476439600
       },
       {
         "itemId": "257618890098",
@@ -163,13 +177,13 @@
         "priceC": 1999900,
         "shippingC": 899,
         "landedC": 2000799,
-        "url": "https://www.ebay.com/itm/257618890098?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=26043383597&itmmeta=01M0F9Q5C5XF5MNDPXEQ75HWVH&hash=item3bfb484d72:g:UFcAAeSwz-BqVHTx&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDYegiOJpn89%2BXbm3GxL3YSXxTHjbXUqha3RwHFFKSPwZxuIJn%2BcQOc2xNYtyGYF00ytRmVbUG65VoEq3nMrRWaUtUC%2BmNtHD4XHbQvfPi%2FBQYVYhBo9Kury4PWKeSI7PRuSaWbtk0KzEls7vxSmr30AQDYUV1zh8njDPrkBsFXN197YdfTKKt82%2Bguw6Z64kcx6LEGAA%2FkvQZTQajDXlCdNTRJlAEbWOR4IofSfLAMI6xj6ENlwgnIf4B09E8O2FnvtKIQEokDTIaZTPWa%2B0OQrHYHZcd4G%2Bf9SlsXxhGAX4O3tie%2BMa9w1O8W3AAEOlaN96UJTyaiTk7jxu%2BYBos1%7Ctkp%3ABk9SR6jW3OmDaA",
+        "url": "https://www.ebay.com/itm/257618890098?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=26043383597&itmmeta=01M0SFKAD3NJPFD1AR2W0GS6FQ&hash=item3bfb484d72:g:UFcAAeSwz-BqVHTx&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCE4vL031xiyY6fHbzhgj%2FUgaeWDg9FLZJwuM1SrntAzpZrfwkpC5WE2%2B0fhIRkv%2BKm%2Bvwukc6qw59t2Eoq3t0VyQNOPd3cHFOuiBDW1sZ58J%2B0%2FPSVD0PS%2FZvFwVgf2zjcxsHIGyKbjf2fcmR%2BW9aw4c2mKQvkEhvmKAKdH7cEEf37TLtvwMngUE6MRfxOv0GZeod5uzbcvpyAuKHXEUqBXn0yoiSJ%2BAgvS%2B5MJDIRgTJcNny8KmLQGjvAuCGUy53Zbq5Yn15Pt4Aeg6ZQkBD7lTzaPjxQddepkNczUaKATg%3D%3D%7Ctkp%3ABk9SR-Smza-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/UFcAAeSwz-BqVHTx/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787219911031,
-        "lastSeen": 1787219911031
+        "lastSeen": 1787561622085
       },
       {
         "itemId": "287505912644",
@@ -177,13 +191,13 @@
         "priceC": 2100000,
         "shippingC": 0,
         "landedC": 2100000,
-        "url": "https://www.ebay.com/itm/287505912644?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=26043383597&itmmeta=01M0F9Q5C5F7GWR5FD78X2SHHK&hash=item42f0b01344:g:0JQAAeSw9h1qc61z&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBtPpKNOzzkPmjR02PYiPEIfvTKL4i903rCky2d6lBTkJ11TDcetOcmIQvufkMMDXKZ0KD9blSnZMWnWm6TCbTtoZ%2FE2RTKkRZJALWlvC8fNqrBAcGqZimWmnq%2FcI2viZ95V1gTWkvOKwHQulVKN14ralEgmJbCXmYlOIzpkNehXdknb1R4YAu1sxwnRNx4lEJoQ6E%2Bl63p5Du7xQgcrAUopqj%2FzuWqVD%2BtFHj1wc5ElAQQUbv%2FacgeZSgM8Nwn%2B3T4qtdYV7D8x%2FfMTEPgqCIEG39mvhYULe6OkYy4%2F2Nz0BmZRZ%2B8qqp6NcI5g%2FvD2vR2bEz2g1ppz4SG921b1IUU%7Ctkp%3ABk9SR6jW3OmDaA",
+        "url": "https://www.ebay.com/itm/287505912644?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=26043383597&itmmeta=01M0SFKAD3ZYT1W1DRGZ7X7RC5&hash=item42f0b01344:g:0JQAAeSw9h1qc61z&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBtPpKNOzzkPmjR02PYiPEIfvTKL4i903rCky2d6lBTkJ11TDcetOcmIQvufkMMDXKZ0KD9blSnZMWnWm6TCbTtoZ%2FE2RTKkRZJALWlvC8fNqrBAcGqZimWmnq%2FcI2viZ%2B%2Fmhbs6lDUjDc6BiYivk5jPJHXKIXBU0SciCMdyGHBRkZhXcrnu%2BmnHYgNdlFRwMPhYSjNZiNSUZYSLHOW3V4NxVI3DMmxf%2B7f1FD4h5Yw5xBFME3FHd39R34oGrOsfQvmvvpqiYW2CzyYgRzAXyK0YvWNw%2FFA%2FPAuLmKDBNI7VXo2ZAkzsCY5f3%2BkY%2FfWW2%2BDZHLwFXYfyCeGCI0bFIVX%7Ctkp%3ABk9SR-Smza-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/0JQAAeSw9h1qc61z/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787219911031,
-        "lastSeen": 1787219911031
+        "lastSeen": 1787561622085
       }
     ],
     "marketHistory": {
@@ -1430,7 +1444,7 @@
       ],
       "englishSaleCount": 94,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787219711618
+      "lastCapturedAt": 1787561442790
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 14074,
@@ -29,22 +29,35 @@
         "psa10Pop": 155,
         "cgc10Pop": 2,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787223139364
+        "fetchedAt": 1787563230992
       },
-      "bestCgc10": null,
+      "bestCgc10": {
+        "itemId": "186041182134",
+        "title": "Pokemon 2009 Dragonite FB Crosshatch Holo Pokémon League 56/147 CGC Gem Mint 10Opens in a new window or tab",
+        "priceC": 30000,
+        "shippingC": 0,
+        "landedC": 30000,
+        "url": "https://www.ebay.com/itm/186041182134?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=4043367632&itmmeta=01M0SH8JH9XPQQY2ZMDMFST6MJ&hash=item2b50eb27b6:g:rxIAAeSwWepolu~n&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCXgVHG%2BudxTME7E5DqZI3YtIii98ZMJ0pKS%2BAj8ffqg3iyA9Z5b9CvP2aEE3NZbzNx1la0KfyB00AVn2A0g1%2BBGsxNo1Pic1PieZHTg6aQyxWaHcCKD2jHp97TlMaC6nGVOrzWq%2FrrKTYVZ2B5Us273aykv4l4aA8VeSTIUzECuI3wwVC4L7pjkU9UBAzqS5%2BbxCvimlQWRtYxT1y82INNUTw%2FhUOzoS1xnIHl%2FOiSFTJtQ%2FbGBo00z8XGQj2%2BNo01YyCEMYouqNqCwrsykw9n0f2Y0PGsWbXfUBk7IvDrog%3D%3D%7Ctkp%3ABk9SR4CporGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/rxIAAeSwWepolu~n/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787223528144,
+        "lastSeen": 1787563481579
+      },
       "bestPsa10": {
         "itemId": "287316958274",
         "title": "Pokémon TCG Dragonite FB Supreme Victors Crosshatch Holo PSA 10!!!Opens in a new window or tab",
         "priceC": 550000,
-        "shippingC": 540,
-        "landedC": 550540,
-        "url": "https://www.ebay.com/itm/287316958274?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=4043367632&itmmeta=01M0FCZ9CYX5AZZHG6R9FGJ5HX&hash=item42e56cdc42:g:9BIAAeSwrclp~CgM&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBpUV4F6fbNdZcB7SjeLa2%2BclVPseCvXJWaX%2FKJTJaT2a0SgLkKHoRFCVfbHOuVoBrPFfwuPUhDN4Wum95XdyyPuzBXiNoN%2B8SmnCIT9T9LuWPiKHuL%2FFpBxSHweQYaLGhN8s5Qp5s82wgcwFGCdCPENjnQmkGGpx9BUcjxbot3mdl9oNBtOX56%2BLznWwjs6SAA0UOo0zrbgQd3zjUDHGNY%2Fb%2FrJ2JpOG3dmQJDAkC6ojLROJf50joPGxSbBDnzvO1P1qA6pGc2T03FPXA52tyLuEs3jA5v4kjojiZ515ON5aEMJbN2qGjOTCoY58E%2BQUgA7Cc3aLu%2BMVAM%2F6vqj8lg%7Ctkp%3ABk9SR_iW_eyDaA",
+        "shippingC": 548,
+        "landedC": 550548,
+        "url": "https://www.ebay.com/itm/287316958274?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=4043367632&itmmeta=01M0SH8JHBMDDQX8GF0PY572A9&hash=item42e56cdc42:g:9BIAAeSwrclp~CgM&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBpUV4F6fbNdZcB7SjeLa2%2BclVPseCvXJWaX%2FKJTJaT2a0SgLkKHoRFCVfbHOuVoBrPFfwuPUhDN4Wum95XdyyPuzBXiNoN%2B8SmnCIT9T9LuWPiKHuL%2FFpBxSHweQYaLGhRI0%2Bnpf0Lx59ekLYPAqvVLbFArppkEzSUs6vNcg2DOlc84H3OkhoE1DDPvo20ayyhJgMIRG0yAE0yP0smgD94YAdp%2Fda2EZgK5RCDsVl--%2Fi%2ByKnubdDEKPcrCCX3PRnZuUdFSbwrZGOZF5Zz8HGpTSaz6P6yFYzuMPbh68Ye2sEsuuMdUc2chkUTP0Af3xWwoQfjnTlJ9Ttn8Ag1Nf3C%7Ctkp%3ABk9SR4SporGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/9BIAAeSwrclp~CgM/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       "bestPsa9": {
         "itemId": "168502546276",
@@ -52,25 +65,39 @@
         "priceC": 20000,
         "shippingC": 400,
         "landedC": 20400,
-        "url": "https://www.ebay.com/itm/168502546276?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=12043364681&itmmeta=01M0FCZ9CWXSTEZA2DB993908B&hash=item273b88cf64:g:MAoAAeSwTrRqeICM&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAPYxJLQblmBiqZ%2Fjj3caDQ9cOudUYdK6Z1YI6ycnTZRCylCO1KfGA5vIZ8yCEJYxS9E%2FKkGZeZy8FMm2q5UD%2FYjj9Gfz%2Bs40eGRa%2Bb9nz05eJWKLVCm5DAazb2VtJe6UQ9TugjfqLL18meaRDHdY4%2FD2lc1s%2B2MJK%2F1hZvK%2BaHKtmmKHitP1jsUbv5rBTNfZQkcwAfyIx4HZlIfnrAEv6MhuQZ7RqKA88ckn%2Fm8N6FbhuV9WFVekzQxFvEkO4B%2BswhgBSaQGTl%2F9U%2F44%2F4SEkpKNFFST%2FlOVJYihDBzmcaag%3D%3D%7Ctkp%3ABk9SR_CW_eyDaA",
+        "url": "https://www.ebay.com/itm/168502546276?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=12043364681&itmmeta=01M0SH8JH8SX8WPJEKZ14CVSSY&hash=item273b88cf64:g:MAoAAeSwTrRqeICM&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCRdNSbN0y6IdUgLaJmxLlKVAgnGjDySrnkNvDm%2FZ%2Fp0F9CPYnv%2FO8BCBo4owqenfKJes5nudBay4ZZZCrQhVfEt34l52J5Zc8BbCSn%2F0%2BXyExMwJ8U1yPex55QHsrl%2B%2FBKa%2F3Ijzqu3RNRxyZ69%2FdnHanlIojAwZTN9BHcs%2Bn78C%2BpSk%2FyF--3MFjgMa7DrAn1KxxwCnBkkO1Pet9j%2BqBiF7vNK0sNTBj5565C7nrEzwDsOfPsBRiN4V%2Fdwr6qbF4xPnRW8AAGKKOhwaAA9n47lrq4hWJsm%2BWBNOV4xivYYXMcD9754a1U4FgG2mfIuG1cjiRja8FcqUHOiT6HmFQR%7Ctkp%3ABk9SR_6oorGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/MAoAAeSwTrRqeICM/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       "counts": {
-        "cgc10Bin": 0,
+        "cgc10Bin": 1,
         "cgc10Auction": 1,
         "pristine10": 0,
         "psa10Bin": 1,
         "psa10Auction": 0,
         "psa9Bin": 4
       },
-      "ratio": null,
-      "firstOpportunityAt": null,
-      "updatedAt": 1787223528144
+      "ratio": {
+        "ok": true,
+        "tier": {
+          "id": "regular",
+          "label": "Regular",
+          "feeC": 7999,
+          "declaredValueCapC": 150000,
+          "turnaroundBizDays": 50
+        },
+        "cgc10CostC": 30000,
+        "submissionFeeC": 7999,
+        "totalCostC": 37999,
+        "psa10ValueC": 146688,
+        "ratio": 3.8603121134766702
+      },
+      "firstOpportunityAt": 1787223528144,
+      "updatedAt": 1787563481579
     },
     "prices": {
       "variantId": 14074,
@@ -85,22 +112,22 @@
       "cgc10Pop": 2,
       "bgs10C": 190700,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787223139364
+      "fetchedAt": 1787563230992
     },
     "listings": [
       {
         "itemId": "800536242207",
         "title": "2009 Pokémon Dragonite FB Pokémon League Supreme Victors #56/147 CGC 10Opens in a new window or tab",
-        "priceC": 99,
+        "priceC": 550,
         "shippingC": 795,
-        "landedC": 894,
-        "url": "https://www.ebay.com/itm/800536242207?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372017&itmmeta=01M0FCZ575M0GA1QP0SS2C6MR3&hash=itemba63ada81f:g:MdgAAeSwBclqgA7G&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBPhDy4Cpn%2FyPrjxD3%2FYs1FqIHDcmkNVMQP5mFkVYL3MWI3v8iHVh31hGiv6o6UDurhBLKPS0KZ2POZW%2Fbl5bvVN8EqxXnHGeaVX5ITKi8fdVWyFKRGBBdZFxbG1Cxgt%2Bivv8mXa6tPgwRx7ZvLGZDtN452so1dkPDgeZ9lljcyNygmiLEwDIgON5fIqL40rTxJ4ePuT2S6VGfZZgN17M0v%2FRn7jvyWKDTY3qJFJlbdxC9A4DbDyWY158m9SS3wHug9fbtQXTu4nb7kW9ZA%2FXvgvy5ZV%2F%2Byh4PfWGm20EJcVg%3D%3D%7Ctkp%3ABk9SR_jT_OyDaA",
+        "landedC": 1345,
+        "url": "https://www.ebay.com/itm/800536242207?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372017&itmmeta=01M0SH8E6ZH72YVWKP9N8265F7&hash=itemba63ada81f:g:MdgAAeSwBclqgA7G&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD5ZVxxubB7SXbgjTpmrbuJyDKkwDYJeVjhaZEIg%2BzMkQrsznHczsz17PeQTygCdWB63ccaGvwxdhTyYTxHSaC%2BY%2FFEYyAoxKlJe0dM2ZKeWH9Q7Vh7na9vbgWaYlJ6jua5XglEEumtsXVZCQRPE4e3APhaueS7lRlfRnLo%2B2UrFpC440pHenI3mZpHAYbJfDBlRvzMhFSEnqKFw8oBXNZEXqq7TjIVCFbH8uaw7fHXB9kjp6QJ7vPyCNxCL0Yos9DIA2bfzPi5hPsmieX8zavWaYHD4PfzOIyRxgmTFT1UmgRarxwD7C%2FU8xw8NTg6jk0AogK2dOszITtpMSzDEM5D%7Ctkp%3ABk9SR5LkobGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/MdgAAeSwBclqgA7G/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "168502546276",
@@ -108,13 +135,13 @@
         "priceC": 20000,
         "shippingC": 400,
         "landedC": 20400,
-        "url": "https://www.ebay.com/itm/168502546276?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=12043364681&itmmeta=01M0FCZ9CWXSTEZA2DB993908B&hash=item273b88cf64:g:MAoAAeSwTrRqeICM&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAPYxJLQblmBiqZ%2Fjj3caDQ9cOudUYdK6Z1YI6ycnTZRCylCO1KfGA5vIZ8yCEJYxS9E%2FKkGZeZy8FMm2q5UD%2FYjj9Gfz%2Bs40eGRa%2Bb9nz05eJWKLVCm5DAazb2VtJe6UQ9TugjfqLL18meaRDHdY4%2FD2lc1s%2B2MJK%2F1hZvK%2BaHKtmmKHitP1jsUbv5rBTNfZQkcwAfyIx4HZlIfnrAEv6MhuQZ7RqKA88ckn%2Fm8N6FbhuV9WFVekzQxFvEkO4B%2BswhgBSaQGTl%2F9U%2F44%2F4SEkpKNFFST%2FlOVJYihDBzmcaag%3D%3D%7Ctkp%3ABk9SR_CW_eyDaA",
+        "url": "https://www.ebay.com/itm/168502546276?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=12043364681&itmmeta=01M0SH8JH8SX8WPJEKZ14CVSSY&hash=item273b88cf64:g:MAoAAeSwTrRqeICM&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCRdNSbN0y6IdUgLaJmxLlKVAgnGjDySrnkNvDm%2FZ%2Fp0F9CPYnv%2FO8BCBo4owqenfKJes5nudBay4ZZZCrQhVfEt34l52J5Zc8BbCSn%2F0%2BXyExMwJ8U1yPex55QHsrl%2B%2FBKa%2F3Ijzqu3RNRxyZ69%2FdnHanlIojAwZTN9BHcs%2Bn78C%2BpSk%2FyF--3MFjgMa7DrAn1KxxwCnBkkO1Pet9j%2BqBiF7vNK0sNTBj5565C7nrEzwDsOfPsBRiN4V%2Fdwr6qbF4xPnRW8AAGKKOhwaAA9n47lrq4hWJsm%2BWBNOV4xivYYXMcD9754a1U4FgG2mfIuG1cjiRja8FcqUHOiT6HmFQR%7Ctkp%3ABk9SR_6oorGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/MAoAAeSwTrRqeICM/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "188651779323",
@@ -122,13 +149,13 @@
         "priceC": 19996,
         "shippingC": 699,
         "landedC": 20695,
-        "url": "https://www.ebay.com/itm/188651779323?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=4043367632&itmmeta=01M0FCZ9CWWBDTDW7B1F595DCW&hash=item2bec85b4fb:g:rLAAAeSwpwZqWWVg&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xASRIBK5Rrc3v9fyDwbqdudkJdPbQT1pmNAYBJx7B6rl5dj76CL2OwREWtPP1sesija6xiRpRvLo8ubTyrAOmOlrqaDy60DZ7Pm4dBC80P4mlPH333n6DL89q%2BOWAxZyCs6w2ouOXOhK%2BwaV%2FfkqpfIgc2DzSSG0u%2Fv3GtxHHcPGdwfcSsyUQjoJ%2BNI8GIssMWXLgipqCiaFNXAH0f6fKZYYwQQVdzyD1vnVpbg6ZZ5LUyMstMXkoQm3DZ2csdlnOFPoZHipOXfn0YEHDARvgeyDWNPLljsNGKBkwU3haKy4w%3D%3D%7Ctkp%3ABk9SR_CW_eyDaA",
+        "url": "https://www.ebay.com/itm/188651779323?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=4043367632&itmmeta=01M0SH8JH8YMMS0BT7573K0TNF&hash=item2bec85b4fb:g:rLAAAeSwpwZqWWVg&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCo6FElgpbfpnYc9Q6twQmLWV3Z4dUD2ukCeaD50Ds3LN7VjVVyUmR1COzmRaarDatNAXk1AOCZI%2F%2Bf3FQZieDV7iGWbIP26TgVb5o94ZoHpEyJ9f8SQDSbWpNusnWvxLdPRRKoyK9EOLivpkr4eDzBczlUUiDd%2FiY%2FnOHym0e%2Be9hILrv%2By1NgqwBmIPudyMHbodqTXt%2FwW%2FqVO0F4bvd9HBMo%2FnuRHqSPH06nICpnFUyW5B2mGOo2RwU8b0B5KnWxPwTNbsqmD4sfPNSmAhot8gVjeo3h6%2FMXUgRf4Y2TxgSlnoMezudARaCoW4VJ2BTbFWm24ZEX4MN2T%2BeUdmo2%7Ctkp%3ABk9SR_6oorGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/rLAAAeSwpwZqWWVg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "198519294941",
@@ -136,13 +163,27 @@
         "priceC": 27999,
         "shippingC": 599,
         "landedC": 28598,
-        "url": "https://www.ebay.com/itm/198519294941?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=4043367632&itmmeta=01M0FCZ9CX9XNWNG7Q1YNXHE97&hash=item2e38ac0bdd:g:KUoAAeSwU7hqYoKC&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCrBZ5zFU2HcoJK3%2FnCh9ieag5Sym7ZzBvZyANgXKgCciECX8GJPaojQZuOxIOvT7w77Z5oNRgsGkbEuDUl4vKEp%2F8xsgJvigDs9PFI0UsLyPzW0dYV7cidB8g0baKWRiRgtO0dCboN49l%2BtuyCLpkowaNRMqf7kyhgp39%2FuGPjISmq7koY%2FSRYSVu7EDQkYXoLv5jiEhGunT9iKYNalQbFf7PSPDrmdTnvLxhLDBljw8oZgvLhY22Dq7EQBfmf0nSYP5oDiAmZATAUHc%2BtyannJEwo8mDFcY%2FQwr3sMlYfow%3D%3D%7Ctkp%3ABk9SR_KW_eyDaA",
+        "url": "https://www.ebay.com/itm/198519294941?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=4043367632&itmmeta=01M0SH8JH9P828S41MA8RNFG5P&hash=item2e38ac0bdd:g:KUoAAeSwU7hqYoKC&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDJXw%2BP6Tv7Xsg6Ydp3JfqgBlvCW5oRBRUZrB0rfiyR159fMZxiaaR6iWq2BwHn4HRsDZ8tdvMNqO%2F9xSexxA%2FoCmPURfmg8Qjbo%2BuX%2FxetxvPWt9xmvWccvzkdk1NacQCCpmZRk2IMNc9Uw4DJGF8aolv1Zp2cO45QRCkw%2Bta8Zp3D%2BKyUR07FY1igiScy9jHS0kVoadw4ZCRhzL41UyXcxOX5lf6HpkxUAynhF7KRj3FeuAbfGQcI7eHLZnqDvG%2BPfidHCzwIQ8LsnWI%2F9y0iDmhNIQAtueT5psdno2n46eCzb3iXr2wDOhrSQXg8Jk8FjnxENFLaWjhoKym%2BpX2%2B%7Ctkp%3ABk9SR4CporGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/KUoAAeSwU7hqYoKC/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
+      },
+      {
+        "itemId": "186041182134",
+        "title": "Pokemon 2009 Dragonite FB Crosshatch Holo Pokémon League 56/147 CGC Gem Mint 10Opens in a new window or tab",
+        "priceC": 30000,
+        "shippingC": 0,
+        "landedC": 30000,
+        "url": "https://www.ebay.com/itm/186041182134?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=4043367632&itmmeta=01M0SH8JH9XPQQY2ZMDMFST6MJ&hash=item2b50eb27b6:g:rxIAAeSwWepolu~n&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCXgVHG%2BudxTME7E5DqZI3YtIii98ZMJ0pKS%2BAj8ffqg3iyA9Z5b9CvP2aEE3NZbzNx1la0KfyB00AVn2A0g1%2BBGsxNo1Pic1PieZHTg6aQyxWaHcCKD2jHp97TlMaC6nGVOrzWq%2FrrKTYVZ2B5Us273aykv4l4aA8VeSTIUzECuI3wwVC4L7pjkU9UBAzqS5%2BbxCvimlQWRtYxT1y82INNUTw%2FhUOzoS1xnIHl%2FOiSFTJtQ%2FbGBo00z8XGQj2%2BNo01YyCEMYouqNqCwrsykw9n0f2Y0PGsWbXfUBk7IvDrog%3D%3D%7Ctkp%3ABk9SR4CporGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/rxIAAeSwWepolu~n/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787223528144,
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "336699421344",
@@ -150,31 +191,44 @@
         "priceC": 44500,
         "shippingC": 0,
         "landedC": 44500,
-        "url": "https://www.ebay.com/itm/336699421344?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=4043367632&itmmeta=01M0FCZ9CXAVZVZZCYFCJAWWDN&hash=item4e64d972a0:g:Db4AAeSwFJVqXoj1&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDClDGB1fktjAv5wxamYbJAQEb2QywubXm59XweXbB%2BU74v1UW%2FALN23z0pd8OxI%2FKVb%2FraDbwoW03uJdNXNSqkZIYLPG0B8JcpnD0jI8Ae%2FAcUEjegMVG%2B5lP943GKrY9t2AJ0d5l8naiAsvHLHe3MEXBKCCSjBCUczSeOc3dKzVlB22n5A9T6%2F4xRUXnGqiwLOaRGI7HQofXC4%2FG9c5YtwdTJhEwZCvmCBRlp2hGyLCksdAux7ikP%2FCZKGA7MX8jsYNTr3%2BhA5%2F99JxCN3tB9ksQCg9GNcFH%2FbE2KGpvOVWS1enkE2%2Fhosrwj3k%2FfASjHDry0PU1JEEc3CznF2Val%7Ctkp%3ABk9SR_SW_eyDaA",
+        "url": "https://www.ebay.com/itm/336699421344?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=4043367632&itmmeta=01M0SH8JHAPT3HC4SMMEX2NY45&hash=item4e64d972a0:g:Db4AAeSwFJVqXoj1&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBhKkmyMwMuHmtTWsJLdBnpO12n8n4x%2Fq22If9%2BCwgo1g3VtnelsMqzHgCrP4uQ3mHAEX3S6fE7TBDVuf1nvrWv50hAxGH1UfoH7OwxMOtvJoGng%2FTNsTzrK4WLkyo2LPALAvLrK%2BR1o0GYrc7b35RVI7loYc2dfOUElfNflMT2Wj3Hf1MjkOBXgqkZb8eD9JRzRQdFOIsMEyHRsIm94IKsM5QG28IWg3QIPbjm96n83Lw4bXZgxoUKXOe3EF7%2FDoUB6Klfi7FcdWHcyBGCpQVW6AbWBUIT%2FPUIGxdxq7cjqg%3D%3D%7Ctkp%3ABk9SR4KporGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Db4AAeSwFJVqXoj1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "287316958274",
         "title": "Pokémon TCG Dragonite FB Supreme Victors Crosshatch Holo PSA 10!!!Opens in a new window or tab",
         "priceC": 550000,
-        "shippingC": 540,
-        "landedC": 550540,
-        "url": "https://www.ebay.com/itm/287316958274?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=4043367632&itmmeta=01M0FCZ9CYX5AZZHG6R9FGJ5HX&hash=item42e56cdc42:g:9BIAAeSwrclp~CgM&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBpUV4F6fbNdZcB7SjeLa2%2BclVPseCvXJWaX%2FKJTJaT2a0SgLkKHoRFCVfbHOuVoBrPFfwuPUhDN4Wum95XdyyPuzBXiNoN%2B8SmnCIT9T9LuWPiKHuL%2FFpBxSHweQYaLGhN8s5Qp5s82wgcwFGCdCPENjnQmkGGpx9BUcjxbot3mdl9oNBtOX56%2BLznWwjs6SAA0UOo0zrbgQd3zjUDHGNY%2Fb%2FrJ2JpOG3dmQJDAkC6ojLROJf50joPGxSbBDnzvO1P1qA6pGc2T03FPXA52tyLuEs3jA5v4kjojiZ515ON5aEMJbN2qGjOTCoY58E%2BQUgA7Cc3aLu%2BMVAM%2F6vqj8lg%7Ctkp%3ABk9SR_iW_eyDaA",
+        "shippingC": 548,
+        "landedC": 550548,
+        "url": "https://www.ebay.com/itm/287316958274?_skw=%28dragonite%2Cfb%29+%2856%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=4043367632&itmmeta=01M0SH8JHBMDDQX8GF0PY572A9&hash=item42e56cdc42:g:9BIAAeSwrclp~CgM&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBpUV4F6fbNdZcB7SjeLa2%2BclVPseCvXJWaX%2FKJTJaT2a0SgLkKHoRFCVfbHOuVoBrPFfwuPUhDN4Wum95XdyyPuzBXiNoN%2B8SmnCIT9T9LuWPiKHuL%2FFpBxSHweQYaLGhRI0%2Bnpf0Lx59ekLYPAqvVLbFArppkEzSUs6vNcg2DOlc84H3OkhoE1DDPvo20ayyhJgMIRG0yAE0yP0smgD94YAdp%2Fda2EZgK5RCDsVl--%2Fi%2ByKnubdDEKPcrCCX3PRnZuUdFSbwrZGOZF5Zz8HGpTSaz6P6yFYzuMPbh68Ye2sEsuuMdUc2chkUTP0Af3xWwoQfjnTlJ9Ttn8Ag1Nf3C%7Ctkp%3ABk9SR4SporGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/9BIAAeSwrclp~CgM/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 4406686,
+          "saleDate": "2026-08-24",
+          "priceC": 280,
+          "title": "Pokemon TCG Dragonite FB 56/147 Supreme Victors Regular Uncommon Eng 2009 HP100 56/147",
+          "url": "https://www.ebay.com/itm/318740995576?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 1634185,
           "saleDate": "2026-08-09",
@@ -653,6 +707,19 @@
           "gradingStatus": "graded",
           "gradingCompany": "PSA",
           "gradingGrade": 10,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2792784,
+          "saleDate": "2026-06-30",
+          "priceC": 5000,
+          "title": "🔥🔥 Pokemon Dragonite FB 56/147 Supreme Victors Crosshatch Promo🔥🔥 #56",
+          "url": "https://www.ebay.com/itm/287418422861?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1645,6 +1712,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 4406801,
+          "saleDate": "2025-10-20",
+          "priceC": 1750,
+          "title": "Pokemon Dragonite FB Supreme Victors #56 PSA 9 Mint",
+          "url": "https://www.ebay.com/itm/286870239268?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
+          "gradingDesignation": "mint",
+          "agreementStatus": "match"
+        },
+        {
           "id": 1634171,
           "saleDate": "2025-10-09",
           "priceC": 8900,
@@ -1695,45 +1775,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 1634163,
-          "saleDate": "2025-09-03",
-          "priceC": 20000,
-          "title": "2009 POKEMON PLATINUM SUPREME VICTORS #56 DRAGONITE FB-HOLO PSA 10 RARE LOW POP 056/147",
-          "url": "https://www.ebay.com/itm/167763647828?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1634179,
-          "saleDate": "2025-08-26",
-          "priceC": 4300,
-          "title": "Pokémon TCG Dragonite [FB] Supreme Victors 56/147 Holo Cross Hatch Holo CGC 9.5 056/147",
-          "url": "https://www.ebay.com/itm/157152028942?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 9.5,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1634226,
-          "saleDate": "2025-08-08",
-          "priceC": 3000,
-          "title": "Pokemon Dragonite FB Supreme Victors Crosshatch Holo CGC 8.5 56/147",
-          "url": "https://www.ebay.com/itm/376279658812?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8.5,
-          "gradingDesignation": null,
-          "agreementStatus": "mismatch"
         }
       ],
       "monthlyPsa10": [
@@ -1778,9 +1819,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 146,
+      "englishSaleCount": 149,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787223137135
+      "lastCapturedAt": 1787563228960
     }
   }
 }

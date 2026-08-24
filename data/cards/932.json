@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 932,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/1deb2d286e7eeace71a31ca506be508b14a787d518eb9070972483ac6788db0c/1600.jpg",
       "popularityScore": 93,
       "market": {
-        "ungradedC": 4150,
+        "ungradedC": 3800,
         "grade9C": 23099,
         "grade95C": 25400,
         "cgc10C": 39900,
         "cgc10PristineC": 71800,
-        "psa10C": 104883,
+        "psa10C": 104846,
         "bgs10C": 136300,
         "psa9Pop": 243,
         "psa10Pop": 42,
         "cgc10Pop": 18,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-        "fetchedAt": 1787210620568
+        "fetchedAt": 1787556080090
       },
       "bestCgc10": {
         "itemId": "277944733537",
@@ -37,47 +37,34 @@
         "priceC": 249900,
         "shippingC": 1000,
         "landedC": 250900,
-        "url": "https://www.ebay.com/itm/277944733537?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0FG1C3HKS4K4GD1DMS278PJ&hash=item40b6cc0f61:g:Un4AAeSwrmRp8-L-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2BwerLMU3A737AZ3q70QlGe55zfpO3%2BiTQCRPucYrscGGwQ6JVVJVp%2FDh9QBhq8iPk8s1B7mjzYH1uANkMWndQnGzuuFm7k%2B4iKa2%2BkUBXaa%2FJvlhr6PxfQ6MlfU%2BHw7MWiw9uHMAoZCCyHs6hCJLrgp0BUvWPiakr0AWN%2BhRaNZ5h6oDcGliwp4D1yvjU4Zi6PPgcjt0Igmtsgt3D7eWrX1WjaaQnMd2A1LNdQyTx4P0oljnlyMECh9UfYkN6ZPaD4m6OOKUnEC5Fp6%2B8aY3GcfC726p7Mq9guzZE7rjJDg%3D%3D%7Ctkp%3ABk9SR5TChfCDaA",
+        "url": "https://www.ebay.com/itm/277944733537?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0SAD6E8YN1Z1J6RJP06981Y&hash=item40b6cc0f61:g:Un4AAeSwrmRp8-L-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2BwerLMU3A737AZ3q70QlGe55zfpO3%2BiTQCRPucYrscK6UPJWPM%2BTY36cO6bNyui8PXWh4dZBZX%2B8yvoZDM4BnArUrd%2FwyfcyrZznOKkys5TRFduIokHbTYhKVsGJlDyQ8pGktbaQB3XLPcCYM4QVXigrryppR0VuO32kpFEwGhursaRlGlZMsEbOs5oqNmOOvAsK5j%2FjwIxD0GCcx5rRUlpT1ExGkWzMuovGI%2Bgn7q6jWJP7bb3FJVCndgjcZbcLdXK7AGDzpthfCquJseMKyNUm3z6ef9NgPoaymCMcFfQ%3D%3D%7Ctkp%3ABk9SR9rotKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Un4AAeSwrmRp8-L-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787556258367
       },
-      "bestPsa10": {
-        "itemId": "188794430880",
-        "title": "2009 Pokemon Platinum Snorlax Holo #33 PSA 10Opens in a new window or tab",
-        "priceC": 120000,
-        "shippingC": 597,
-        "landedC": 120597,
-        "url": "https://www.ebay.com/itm/188794430880?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=17043371287&itmmeta=01M0FG10PP8BQ28MFAC0NQG95W&hash=item2bf50665a0:g:HNIAAeSwVopqf8jN&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAC7wwGj%2FdonZmyqQ88gcNuJ0Ou09YLhh%2BX0zF07L0hYH4cWtA0BFWhkjX45c%2Fl2ZL10KOpeVH4LUrgtLj5qg0Nduce%2FokQoanw6ft%2BVqefFqyWSY1RN12%2BHuexBQj6zkYUAwEP1CBAvWYAItBKelpd8Z%2B%2BUIFO70LM9fEvUgv7JFYuEo7C80xu%2B%2BzV6MYAAcX0AW%2FC7vqtIviHj5vWuXFZAtO23s1%2BTvoSs19BBhW2PY9fDU9X9a%2BfQeMxibolRlMzY1k698fwxJJVz6Jo86UxPA6we%2FEl5i0V8CuEFfEa1A%3D%3D%7Ctkp%3ABk9SR9SLhPCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/HNIAAeSwVopqf8jN/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787043800671,
-        "lastSeen": 1787227384326
-      },
+      "bestPsa10": null,
       "bestPsa9": {
         "itemId": "287416431092",
         "title": "Pokemon Rocket's Snorlax Gym Heroes Unlimited 33/132 PSA 9Opens in a new window or tab",
         "priceC": 49999,
         "shippingC": 999,
         "landedC": 50998,
-        "url": "https://www.ebay.com/itm/287416431092?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0FG10PPDD9N4DP4AW330EJW&hash=item42eb5ab1f4:g:d48AAeSwyadqPCAj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD1oRr8qelwmillJvrAHr%2BbhYE2uwB52kL8%2BbYKaS%2Bp5LSC7tNA5gJVYO0vqnp9NpWQxox1CCPiXjdDm6wamNtsIP%2F6WRkmsFbONqYWN0Q8cEJcDqoZGcQRZ9KaIVKVF%2BZg2OXlWPe1UXOV26hGcWbVF5eoeURu7fefmNGDZ2rVktbj60rPAasBA7tHSjYQLLwpdh2r%2B5sWH8U4Uo9k%2Bs5RQC9Z7VDezEIzjpkE0RtXmJc1yUu%2FGBfCoPwtiS0b7jc5j3L5bjYjEYUfXO7%2FdYqSQXlSAjd0cEsWl%2Fnd4p1UvQ%3D%3D%7Ctkp%3ABk9SR9SLhPCDaA",
+        "url": "https://www.ebay.com/itm/287416431092?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0SAD0QCKFH7F039A09JSPJY&hash=item42eb5ab1f4:g:d48AAeSwyadqPCAj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD1oRr8qelwmillJvrAHr%2BbhYE2uwB52kL8%2BbYKaS%2Bp5PUQaSIHDQP5%2BAr%2Baxd%2FD5vynDcglBOMxpCaEfSl74K4r6ZGym99MOSET%2BYHfgSYgSvWSrLAmhvvXuIHkCi%2F3q1bVg%2BTUqMVhbTgWgVk1yLqUSGcuoVcv9NwcJ9EIntiBQLhwROLtEU3CvO5nmNbf855%2FqOgsEREihsMyKOnVjquFvWtcHgngvv3YUgAF0rguzYx%2BCWGkWVkODUHYuyM%2BbN%2FZvyjKM9fSiEcXpurVFbt0Dr7dPHSG%2BQqJaGpGTYHmw%3D%3D%7Ctkp%3ABk9SR6aNtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/d48AAeSwyadqPCAj/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787556258367
       },
       "counts": {
         "cgc10Bin": 1,
-        "cgc10Auction": 1,
+        "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 2,
+        "psa10Bin": 0,
         "psa10Auction": 0,
         "psa9Bin": 1
       },
@@ -93,83 +80,41 @@
         "cgc10CostC": 250900,
         "submissionFeeC": 7999,
         "totalCostC": 258899,
-        "psa10ValueC": 104883,
-        "ratio": 0.4051116458541748
+        "psa10ValueC": 104846,
+        "ratio": 0.4049687329808149
       },
       "firstOpportunityAt": 1787043800671,
-      "updatedAt": 1787227384326
+      "updatedAt": 1787556258367
     },
     "prices": {
       "variantId": 932,
-      "ungradedC": 4150,
+      "ungradedC": 3800,
       "grade9C": 23099,
       "grade95C": 25400,
       "cgc10C": 39900,
       "cgc10PristineC": 71800,
-      "psa10C": 104883,
+      "psa10C": 104846,
       "psa9Pop": 243,
       "psa10Pop": 42,
       "cgc10Pop": 18,
       "bgs10C": 136300,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-      "fetchedAt": 1787210620568
+      "fetchedAt": 1787556080090
     },
     "listings": [
-      {
-        "itemId": "158196067903",
-        "title": "CGC 9.5 Rocket's Snorlax Rare 33/132 Gym Heroes Regular English 2000Opens in a new window or tab",
-        "priceC": 1450,
-        "shippingC": 597,
-        "landedC": 2047,
-        "url": "https://www.ebay.com/itm/158196067903?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0FG10PJ7YP2R7BWJ4WM0P1C&hash=item24d5386e3f:g:OosAAeSwFJ1qgk5k&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAaaV2xJhB05HXlIfJHc%2BBlQOObyLz72yTfHyuG%2BOhjcpOgnNz2%2B9SJUUHc6CKhMXKemYrDCbJIKelbsMSuyRv7pjXIh8NfW0PfgfDzOiAHqeJhdOkVl7uTN1svQUO46aj%2BT62qEisnK0hh8lgCQ59eoPuunc1su4bSqu1vYNsWzsqebfKhyOAmEEsYktHvE40VDs5EKnRlhbB7fvePqU0bJgE4QMq%2F7V2lqefwxB1iXQJwFE4DWmkR5qYdVra%2Bv2s2rt2OKPLJl6P3zRxZXFPdAE35J8%2FR69zOmplWfPBdlw%3D%3D%7Ctkp%3ABk9SR8qLhPCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/OosAAeSwFJ1qgk5k/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "gemMint10",
-        "freshness": "live",
-        "firstSeen": 1787094593676,
-        "lastSeen": 1787227384326
-      },
       {
         "itemId": "287416431092",
         "title": "Pokemon Rocket's Snorlax Gym Heroes Unlimited 33/132 PSA 9Opens in a new window or tab",
         "priceC": 49999,
         "shippingC": 999,
         "landedC": 50998,
-        "url": "https://www.ebay.com/itm/287416431092?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0FG10PPDD9N4DP4AW330EJW&hash=item42eb5ab1f4:g:d48AAeSwyadqPCAj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD1oRr8qelwmillJvrAHr%2BbhYE2uwB52kL8%2BbYKaS%2Bp5LSC7tNA5gJVYO0vqnp9NpWQxox1CCPiXjdDm6wamNtsIP%2F6WRkmsFbONqYWN0Q8cEJcDqoZGcQRZ9KaIVKVF%2BZg2OXlWPe1UXOV26hGcWbVF5eoeURu7fefmNGDZ2rVktbj60rPAasBA7tHSjYQLLwpdh2r%2B5sWH8U4Uo9k%2Bs5RQC9Z7VDezEIzjpkE0RtXmJc1yUu%2FGBfCoPwtiS0b7jc5j3L5bjYjEYUfXO7%2FdYqSQXlSAjd0cEsWl%2Fnd4p1UvQ%3D%3D%7Ctkp%3ABk9SR9SLhPCDaA",
+        "url": "https://www.ebay.com/itm/287416431092?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0SAD0QCKFH7F039A09JSPJY&hash=item42eb5ab1f4:g:d48AAeSwyadqPCAj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD1oRr8qelwmillJvrAHr%2BbhYE2uwB52kL8%2BbYKaS%2Bp5PUQaSIHDQP5%2BAr%2Baxd%2FD5vynDcglBOMxpCaEfSl74K4r6ZGym99MOSET%2BYHfgSYgSvWSrLAmhvvXuIHkCi%2F3q1bVg%2BTUqMVhbTgWgVk1yLqUSGcuoVcv9NwcJ9EIntiBQLhwROLtEU3CvO5nmNbf855%2FqOgsEREihsMyKOnVjquFvWtcHgngvv3YUgAF0rguzYx%2BCWGkWVkODUHYuyM%2BbN%2FZvyjKM9fSiEcXpurVFbt0Dr7dPHSG%2BQqJaGpGTYHmw%3D%3D%7Ctkp%3ABk9SR6aNtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/d48AAeSwyadqPCAj/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787227384326
-      },
-      {
-        "itemId": "188794430880",
-        "title": "2009 Pokemon Platinum Snorlax Holo #33 PSA 10Opens in a new window or tab",
-        "priceC": 120000,
-        "shippingC": 597,
-        "landedC": 120597,
-        "url": "https://www.ebay.com/itm/188794430880?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=17043371287&itmmeta=01M0FG10PP8BQ28MFAC0NQG95W&hash=item2bf50665a0:g:HNIAAeSwVopqf8jN&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAC7wwGj%2FdonZmyqQ88gcNuJ0Ou09YLhh%2BX0zF07L0hYH4cWtA0BFWhkjX45c%2Fl2ZL10KOpeVH4LUrgtLj5qg0Nduce%2FokQoanw6ft%2BVqefFqyWSY1RN12%2BHuexBQj6zkYUAwEP1CBAvWYAItBKelpd8Z%2B%2BUIFO70LM9fEvUgv7JFYuEo7C80xu%2B%2BzV6MYAAcX0AW%2FC7vqtIviHj5vWuXFZAtO23s1%2BTvoSs19BBhW2PY9fDU9X9a%2BfQeMxibolRlMzY1k698fwxJJVz6Jo86UxPA6we%2FEl5i0V8CuEFfEa1A%3D%3D%7Ctkp%3ABk9SR9SLhPCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/HNIAAeSwVopqf8jN/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787043800671,
-        "lastSeen": 1787227384326
-      },
-      {
-        "itemId": "117236945976",
-        "title": "2009 POKEMON PLATINUM RISING RIVALS #33 SNORLAX-HOLO PSA 10Opens in a new window or tab",
-        "priceC": 220000,
-        "shippingC": 599,
-        "landedC": 220599,
-        "url": "https://www.ebay.com/itm/117236945976?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=17043371287&itmmeta=01M0FG1C3HZW1AKMB5XRNPB011&hash=item1b4bddd438:g:kn8AAeSwnlJqBfl~&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB8yQyYnUJTbHRYgTQJZfvYtse2FZnvN4VE3yywCfDLXt5R9rteAC4IlsaWs9wBtB54shhe0fx%2F7Wxe3M18efEPP9ImIHFYreZyQzKjrQIaMYKcCq8BANvPLOOL18UqyNYwM5GckluPGLRhIHSqRd%2FmYVg1wAZHEpgRmhkX8IXLJifeSe5tREUd0XSQduJDpemQuH2m62SGGNf2VuMJOpZL2r9Fx3D7ELfWxQ1ZJf5E1tvgh9miLPTC1dAjnxM4LVOn7RRiV%2BGZfU9ashdNhZqLmCRfw5fvMOysnwKB8Rb6Sw%3D%3D%7Ctkp%3ABk9SR5TChfCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/kn8AAeSwnlJqBfl~/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787043800671,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787556258367
       },
       {
         "itemId": "277944733537",
@@ -177,17 +122,30 @@
         "priceC": 249900,
         "shippingC": 1000,
         "landedC": 250900,
-        "url": "https://www.ebay.com/itm/277944733537?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0FG1C3HKS4K4GD1DMS278PJ&hash=item40b6cc0f61:g:Un4AAeSwrmRp8-L-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2BwerLMU3A737AZ3q70QlGe55zfpO3%2BiTQCRPucYrscGGwQ6JVVJVp%2FDh9QBhq8iPk8s1B7mjzYH1uANkMWndQnGzuuFm7k%2B4iKa2%2BkUBXaa%2FJvlhr6PxfQ6MlfU%2BHw7MWiw9uHMAoZCCyHs6hCJLrgp0BUvWPiakr0AWN%2BhRaNZ5h6oDcGliwp4D1yvjU4Zi6PPgcjt0Igmtsgt3D7eWrX1WjaaQnMd2A1LNdQyTx4P0oljnlyMECh9UfYkN6ZPaD4m6OOKUnEC5Fp6%2B8aY3GcfC726p7Mq9guzZE7rjJDg%3D%3D%7Ctkp%3ABk9SR5TChfCDaA",
+        "url": "https://www.ebay.com/itm/277944733537?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0SAD6E8YN1Z1J6RJP06981Y&hash=item40b6cc0f61:g:Un4AAeSwrmRp8-L-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2BwerLMU3A737AZ3q70QlGe55zfpO3%2BiTQCRPucYrscK6UPJWPM%2BTY36cO6bNyui8PXWh4dZBZX%2B8yvoZDM4BnArUrd%2FwyfcyrZznOKkys5TRFduIokHbTYhKVsGJlDyQ8pGktbaQB3XLPcCYM4QVXigrryppR0VuO32kpFEwGhursaRlGlZMsEbOs5oqNmOOvAsK5j%2FjwIxD0GCcx5rRUlpT1ExGkWzMuovGI%2Bgn7q6jWJP7bb3FJVCndgjcZbcLdXK7AGDzpthfCquJseMKyNUm3z6ef9NgPoaymCMcFfQ%3D%3D%7Ctkp%3ABk9SR9rotKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Un4AAeSwrmRp8-L-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787556258367
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3045512,
+          "saleDate": "2026-08-22",
+          "priceC": 3300,
+          "title": "2000 Pokemon Gym Heroes Rocket's Snorlax #033/132 LP 033/132",
+          "url": "https://www.ebay.com/itm/407147082041?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 932372,
           "saleDate": "2026-08-19",
@@ -1734,19 +1692,6 @@
           "gradingGrade": null,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 179893,
-          "saleDate": "2026-01-05",
-          "priceC": 14999,
-          "title": "2000 POKEMON GYM HEROES #33 ROCKET'S SNORLAX PSA 9 #33",
-          "url": "https://www.ebay.com/itm/157582351141?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1811,9 +1756,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 207,
+      "englishSaleCount": 208,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787210618310
+      "lastCapturedAt": 1787556078214
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 4821,
@@ -19,54 +19,67 @@
       "popularityScore": null,
       "market": {
         "ungradedC": 5811,
-        "grade9C": 31750,
-        "grade95C": 34900,
+        "grade9C": 30450,
+        "grade95C": 33500,
         "cgc10C": 38050,
-        "cgc10PristineC": 116172,
+        "cgc10PristineC": 116045,
         "psa10C": 386131,
         "bgs10C": 502000,
         "psa9Pop": 7,
-        "psa10Pop": 0,
+        "psa10Pop": null,
         "cgc10Pop": 102,
         "salesVolumeJson": "{\"volume: 3 sales per week\":\"volume: \\n    5 sales per year\",\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787215844368
+        "fetchedAt": 1787559983903
       },
       "bestCgc10": {
-        "itemId": "127961247065",
-        "title": "Pokemon Ditto [Pikachu] EX Delta Species #63 CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 45000,
-        "shippingC": 875,
-        "landedC": 45875,
-        "url": "https://www.ebay.com/itm/127961247065?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=13097300233&itmmeta=01M0F66K0V29QDEB2HVD4MX1HD&hash=item1dcb15ad59:g:DE4AAeSwvCNqTHOY&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAn7jdmeteLNNDZZQKv9X8xdfv%2F4gsOQHvEJjKaQu1OUIbFAMW2rCBXUbq07wK1JyNYo3AIvtjQIOL3XzFBt68B30MFygBmARI7yBWgu1Dwg3saftsLH5KVexenHltqeD0YXpuCKABuHPIEDKUE00NMOveOPwm8hMMmO4p2m4pIe6%2B0aay%2F1Xh8FOrMmoS6pl5bSubaXoOXIPOU1yCtVfQkTeG8mVE8qI4mjTkbeRTraNKvahFTQ1FsGJkybrdZuauBLodxcgHjP9SnVaTuR7%2F8xoD5nUQjd95qZ5yYliwfJOyoauDSEiAErNh%2BuYVbDtU%3D%7Ctkp%3ABk9SR9KwmuaDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/DE4AAeSwvCNqTHOY/s-l500.webp",
+        "itemId": "157794514371",
+        "title": "Pokémon Ditto Pikachu 63/113 EX Delta Species CGC 10Opens in a new window or tab",
+        "priceC": 150000,
+        "shippingC": 0,
+        "landedC": 150000,
+        "url": "https://www.ebay.com/itm/157794514371?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0SKH30SFXET54EAH68BJ3QV&hash=item24bd4935c3:g:bvgAAeSw6o1pyMCV&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDWfIjc5na7nqCJwFV%2BkAm%2BrRrNvAfuUpXyq0ldnAmly2%2Bph0PMMFIfmvfeJARy6GDdv%2Bnyj1zjWgkV5G6ntDe4LBJ2SraSo5CGm08C9VQtut10eZJE3NFBbpKRqlIg%2Bu1qqoiJEj3GaOwAjJWRmxrKiRDo1%2BDbxfzTfllSc8UiO6atqNSuu6KMM6a3DLsnYAGIHZF8CCVCsVK8awhUectt1q0cdRx2%2FxDDSthJ47vd%2F4ID7fVYKMe%2B7hu3bDrk124vbKmWNN4mAJ8Qge4QcH9p%2FyNsKJTI2aRL1BmtA82lvMxcv%2B0jNoPZzUbZP49lwXM%3D%7Ctkp%3ABk9SR-awxLOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/bvgAAeSw6o1pyMCV/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787216261391
+        "lastSeen": 1787565789327
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "267632672592",
+        "title": "2005 Pokemon Delta Species Ditto Geodude PSA 10Opens in a new window or tab",
+        "priceC": 109999,
+        "shippingC": 499,
+        "landedC": 110498,
+        "url": "https://www.ebay.com/itm/267632672592?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=14043371597&itmmeta=01M0SKH30R4GAT6VZNM5HXFQBQ&hash=item3e50267f50:g:0tgAAeSwo55p1co3&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCy%2BWc%2BRkSZNs43liJP0BG%2FycIb9ZhxbS9Zw07QAxMJYtzXZO%2F8JWUV%2BzlTbM7peqxu7rDuSCjrxM4AO%2FJyTEPUwBG90ETVSt4PlHzpV6c0I9aoCPIRLa72ampHTPzGRoQpqAUUxePiTxeWjXklXNhYb1yaC6OmDZCy66CC7W6Qlk9l0%2FLmP2vYO%2FwQY6vGMCBjDonrfRBs8T4oVnT9xjk%2BgQwC%2FxRWAFU6wQ0HWV%2B1jZNPYEnATVtWQC4vl6dkb7Z4rD2n0mw74fbd8p0hHTt0YIf0BW0V%2BwcfIiEr73lIXJJMUx76mDCeG7haPW4ZNeM%3D%7Ctkp%3ABk9SR-SwxLOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/0tgAAeSwo55p1co3/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787089625972,
+        "lastSeen": 1787565789327
+      },
       "bestPsa9": {
-        "itemId": "178369108088",
-        "title": "Ditto (Pikachu) 63/113 EX Delta Species 2005 ENG Common Regular PSA 9Opens in a new window or tab",
-        "priceC": 39900,
-        "shippingC": 540,
-        "landedC": 40440,
-        "url": "https://www.ebay.com/itm/178369108088?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0F66K0V80BXD5VE4DRW6R39&hash=item2987a09878:g:e44AAeSwK8xqcCmm&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCxdKBJHr45mPx2c5db9VZ9rJwOAtOYcGBLfm8QXpjW47GCFHO4Z9RJM7Uw6JADd%2FfI8uBRsohkko4Y%2FbOSB%2FQ97cmWwJ8CUcXoByVTy3VnYEmFcVOAb3roDqCiQbh0lwkNTcggR4SdoAfX2H7qFMP95KjbPFkX16ILdaxa1ih2MfdJdcsQhYdOyADavNoy%2BdE%2F0kRoSfrcIgjLuH%2FISimlJhAm7DuARO5pG1taRwQ%2B9v%2Fr6tCsYEfvG7xSxg9FZxQIH8bIR2dAvV9hH3%2F%2B5tdO%7Ctkp%3ABk9SR9KwmuaDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/e44AAeSwK8xqcCmm/s-l500.webp",
+        "itemId": "800548008512",
+        "title": "2005 Pokemon EX Delta Species Ditto [Pikachu] #63 PSA 9Opens in a new window or tab",
+        "priceC": 37000,
+        "shippingC": 517,
+        "landedC": 37517,
+        "url": "https://www.ebay.com/itm/800548008512?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0SKGVPWX5SACDZNJT3MQVN8&hash=itemba64613240:g:Il8AAeSw2rZqiWLP&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBNlUVxUjnXYzj3CVfpz4zlW3QyyjiKiPm0cjoudAHxR8B68eJ6glYE8vpJkRh%2Fx9wAC1PQLl5N%2BaJvHsr%2Bp1RhRFpYVhLaRvpl5tDoK3HAqR1pDAvQM8r3GV4b2pEbAToewOOK72Ys1%2BLHivxqqJVKWvrEmvkIZ2YuYvZMcSfLozqaom7O8WrqU1GOR%2FeksHdo0RdNZ14A2EYBZuG4%2BwsJyGMC0fHiskZfQDYTYqvIWt7lj0lDqCjYFgSeP%2BfCJ%2FIrD%2FkFe0sFctgadi1WDVW9%7Ctkp%3ABk9SR5S8w7OGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/Il8AAeSw2rZqiWLP/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
-        "firstSeen": 1787089625972,
-        "lastSeen": 1787216261391
+        "firstSeen": 1787393380611,
+        "lastSeen": 1787565789327
       },
       "counts": {
-        "cgc10Bin": 3,
-        "cgc10Auction": 1,
+        "cgc10Bin": 6,
+        "cgc10Auction": 0,
         "pristine10": 2,
-        "psa10Bin": 0,
+        "psa10Bin": 2,
         "psa10Auction": 1,
-        "psa9Bin": 4
+        "psa9Bin": 6
       },
       "ratio": {
         "ok": true,
@@ -77,45 +90,31 @@
           "declaredValueCapC": 500000,
           "turnaroundBizDays": 15
         },
-        "cgc10CostC": 45875,
+        "cgc10CostC": 150000,
         "submissionFeeC": 34900,
-        "totalCostC": 80775,
+        "totalCostC": 184900,
         "psa10ValueC": 386131,
-        "ratio": 4.780328071804395
+        "ratio": 2.088323418063818
       },
       "firstOpportunityAt": 1787089625972,
-      "updatedAt": 1787216261391
+      "updatedAt": 1787565789327
     },
     "prices": {
       "variantId": 4821,
       "ungradedC": 5811,
-      "grade9C": 31750,
-      "grade95C": 34900,
+      "grade9C": 30450,
+      "grade95C": 33500,
       "cgc10C": 38050,
-      "cgc10PristineC": 116172,
+      "cgc10PristineC": 116045,
       "psa10C": 386131,
       "psa9Pop": 7,
-      "psa10Pop": 0,
+      "psa10Pop": null,
       "cgc10Pop": 102,
       "bgs10C": 502000,
       "salesVolumeJson": "{\"volume: 3 sales per week\":\"volume: \\n    5 sales per year\",\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787215844368
+      "fetchedAt": 1787559983903
     },
     "listings": [
-      {
-        "itemId": "800536415406",
-        "title": "POKEMON DITTO [PIKACHU] 2005 EX DELTA SPECIES #63 MBA SILVER DIAMOND PSA 10Opens in a new window or tab",
-        "priceC": 12250,
-        "shippingC": 795,
-        "landedC": 13045,
-        "url": "https://www.ebay.com/itm/800536415406?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0F66K0TCZGB1J0C4PK22SAN&hash=itemba63b04cae:g:d1YAAeSwc8FqhjhX&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDS06MothX3%2FBYPW4DLn3x1EPtXXJvtZPSsH7j20sIp3g4LnksrbYtXKhBdntAESwrwQm9tc2tx%2BHlEVlUdms5Vc27YSMzASRrngoU%2FX7zz2%2B3edF2CkMoi5yfBGuISo2ocljxg5gv%2F9PH580J1iqksiSZ4Rvsnh7P5dRBdB4LgCqcGsVtlbHSdbWK9qb3pZT5PEko6S3Vc5mhzwok1Gg4Pqpn4k63WveU2BIDvK97Wnz7mmxx79f2%2BWE0GAKHxLKpPJQuePHP3yEK4HOG6R0UG%7Ctkp%3ABk9SR86wmuaDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/d1YAAeSwc8FqhjhX/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787216261391,
-        "lastSeen": 1787216261391
-      },
       {
         "itemId": "188768754339",
         "title": "DITTO [GEODUDE] POKEMON EX DELTA SPECIES CGC 10 GEM MINT TCG 2005 - YUKA MORIIOpens in a new window or tab",
@@ -126,9 +125,23 @@
         "imageUrl": "https://i.ebayimg.com/images/g/d98AAeSwsFZqXrr2/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787089625972,
         "lastSeen": 1787094580234
+      },
+      {
+        "itemId": "800548008512",
+        "title": "2005 Pokemon EX Delta Species Ditto [Pikachu] #63 PSA 9Opens in a new window or tab",
+        "priceC": 37000,
+        "shippingC": 517,
+        "landedC": 37517,
+        "url": "https://www.ebay.com/itm/800548008512?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0SKGVPWX5SACDZNJT3MQVN8&hash=itemba64613240:g:Il8AAeSw2rZqiWLP&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBNlUVxUjnXYzj3CVfpz4zlW3QyyjiKiPm0cjoudAHxR8B68eJ6glYE8vpJkRh%2Fx9wAC1PQLl5N%2BaJvHsr%2Bp1RhRFpYVhLaRvpl5tDoK3HAqR1pDAvQM8r3GV4b2pEbAToewOOK72Ys1%2BLHivxqqJVKWvrEmvkIZ2YuYvZMcSfLozqaom7O8WrqU1GOR%2FeksHdo0RdNZ14A2EYBZuG4%2BwsJyGMC0fHiskZfQDYTYqvIWt7lj0lDqCjYFgSeP%2BfCJ%2FIrD%2FkFe0sFctgadi1WDVW9%7Ctkp%3ABk9SR5S8w7OGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/Il8AAeSw2rZqiWLP/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787393380611,
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "178369108088",
@@ -136,13 +149,13 @@
         "priceC": 39900,
         "shippingC": 540,
         "landedC": 40440,
-        "url": "https://www.ebay.com/itm/178369108088?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0F66K0V80BXD5VE4DRW6R39&hash=item2987a09878:g:e44AAeSwK8xqcCmm&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCxdKBJHr45mPx2c5db9VZ9rJwOAtOYcGBLfm8QXpjW47GCFHO4Z9RJM7Uw6JADd%2FfI8uBRsohkko4Y%2FbOSB%2FQ97cmWwJ8CUcXoByVTy3VnYEmFcVOAb3roDqCiQbh0lwkNTcggR4SdoAfX2H7qFMP95KjbPFkX16ILdaxa1ih2MfdJdcsQhYdOyADavNoy%2BdE%2F0kRoSfrcIgjLuH%2FISimlJhAm7DuARO5pG1taRwQ%2B9v%2Fr6tCsYEfvG7xSxg9FZxQIH8bIR2dAvV9hH3%2F%2B5tdO%7Ctkp%3ABk9SR9KwmuaDaA",
+        "url": "https://www.ebay.com/itm/178369108088?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0Q241XRYF4WMWEWZASA54RD&hash=item2987a09878:g:e44AAeSwK8xqcCmm&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBqQdFErmyqajY%2Bn%2FEYKtQjB%2Bk32ogDg98W7QzLGq6X24fqnNrMEC%2F5HCI2OH2JZAKQdy9M70AmQXBKaLXU0jSnLYrCo35P%2FBexZQjerwItqSTcmOxCd3msedWz4P4H7g1eo1a5YBh8QOMKPDkHfqo6KxDjNiZXvY4mJeOZCmERvHEwy3k2%2Bl1%2FcBKV9CbJf3mo8Jny1euGsPcspU8RsePl0Q7pxd35UNgT%2BuIoFmnByo6XdC5W%2BcxnxZZLSbe59us8oyskMBPyBz0%2BJ76QKGLH%2F3VimrCn0I2ZnCybaJxim7DIu4IiaiaISLRfflmN1ck%3D%7Ctkp%3ABk9SR5SfkOKFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/e44AAeSwK8xqcCmm/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787216261391
+        "lastSeen": 1787480423442
       },
       {
         "itemId": "407125832526",
@@ -150,27 +163,13 @@
         "priceC": 39999,
         "shippingC": 597,
         "landedC": 40596,
-        "url": "https://www.ebay.com/itm/407125832526?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0F66K0V0QR7F73K33RKV3S7&hash=item5eca97334e:g:LG4AAeSwhrBqdSqU&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBu4J%2BQvYEI8PGjPjQbUdyNrr20iPPChwrlDWnf0%2B5b4nOsM35lp%2BbaoEGbqO9xxNKRUXVk8EXsXtsnC%2BK8kvjYVrwrZdTYRQ2djYyRDOgObM1wECw%2B4OTeo2cTQVU51NlI2LBlBkdX7YwMCMp%2F39lyw%2BtTZ1Gw6KX2sGUbCq1iJKLARR%2BNE%2FPcDx69VA4%2BwEO3s%2B1KPjb2PzYHg3iWv8AAC%2BIdIs7XUvabRr97JM8gEJi8cmPg5kZOeAPEAZdffy1LfJdRdysMUQDukvqYtOH5ZyjJOa1HtgjUHbErgVxEhjzhjOnWTOEVKrriAn5pvWU%3D%7Ctkp%3ABk9SR9KwmuaDaA",
+        "url": "https://www.ebay.com/itm/407125832526?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0SKGVPWXXPVNZRJG5VXW2E5&hash=item5eca97334e:g:LG4AAeSwhrBqdSqU&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBu4J%2BQvYEI8PGjPjQbUdyNrr20iPPChwrlDWnf0%2B5b4nOsM35lp%2BbaoEGbqO9xxNKRUXVk8EXsXtsnC%2BK8kvjYVrwrZdTYRQ2djYyRDOgObM1wECw%2B4OTeo2cTQVU51Nnsbl14V2RzaHsPi4ZOULFmpnG5P9A5p%2FVFw16DYoOwhwXBN%2Fb0HVko68k54o%2F1LlsAefElwZwS0QkHG1SVkVPZmRuNwfLDgWuHKgBRC4XCrgdMVyDtHnRP9UEILXvHa5G6BujA%2BRED39q3HSORPibKc610GbmSXCm7n5A6IFu%2BxYWtRS4WAY%2FvXaXjgXPu9C0%3D%7Ctkp%3ABk9SR5S8w7OGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/LG4AAeSwhrBqdSqU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787216261391
-      },
-      {
-        "itemId": "127961247065",
-        "title": "Pokemon Ditto [Pikachu] EX Delta Species #63 CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 45000,
-        "shippingC": 875,
-        "landedC": 45875,
-        "url": "https://www.ebay.com/itm/127961247065?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=13097300233&itmmeta=01M0F66K0V29QDEB2HVD4MX1HD&hash=item1dcb15ad59:g:DE4AAeSwvCNqTHOY&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAn7jdmeteLNNDZZQKv9X8xdfv%2F4gsOQHvEJjKaQu1OUIbFAMW2rCBXUbq07wK1JyNYo3AIvtjQIOL3XzFBt68B30MFygBmARI7yBWgu1Dwg3saftsLH5KVexenHltqeD0YXpuCKABuHPIEDKUE00NMOveOPwm8hMMmO4p2m4pIe6%2B0aay%2F1Xh8FOrMmoS6pl5bSubaXoOXIPOU1yCtVfQkTeG8mVE8qI4mjTkbeRTraNKvahFTQ1FsGJkybrdZuauBLodxcgHjP9SnVaTuR7%2F8xoD5nUQjd95qZ5yYliwfJOyoauDSEiAErNh%2BuYVbDtU%3D%7Ctkp%3ABk9SR9KwmuaDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/DE4AAeSwvCNqTHOY/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "gemMint10",
-        "freshness": "live",
-        "firstSeen": 1787089625972,
-        "lastSeen": 1787216261391
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "198402074230",
@@ -178,13 +177,55 @@
         "priceC": 47500,
         "shippingC": 1499,
         "landedC": 48999,
-        "url": "https://www.ebay.com/itm/198402074230?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0F66K0WJ1AGQ9RE8ND3RC0Y&hash=item2e31af6676:g:k38AAeSwCMRqIaAd&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xByMxCqY3TAObjaVVtW0xidfJ19gsNT5ucviXww5VdoJwMho1WBFeKC%2BH8T6sNbD4t1RKB01jMr5aMaomWGzlCcmOiT0XUPoIKg7wZMkN1Ki%2FoTrHJnOg3WvwQUK%2F61v4gzvMbdxYQ5Khj%2FvncIfdo71JA2AEfTa1PBJP5mcvu1zU6Nmg03JcS3WymObbM6PTjJCMHXlyqTnnNVw62lNJluWf3YBUQFOeW9v1Fr%2BC4JuD0e2K5JP0svWROe71eJKjFEwMIn1sJVZltYM1psEDrNXCQMUs97e8UZnwwMD8d0ZgoqdOWAAhpHp350Brj%2BvlY%3D%7Ctkp%3ABk9SR9KwmuaDaA",
+        "url": "https://www.ebay.com/itm/198402074230?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0SKGVPWVGGQMCJPBQ220V6P&hash=item2e31af6676:g:k38AAeSwCMRqIaAd&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC8Nk9MZfaGf8Vw%2BA7llKPvRfoderwof2LpLkz36pPEIRueuYqTGPUN7aaDy5Iu%2BX5PwPbNGoOf0VJTU%2B0n48FWhpX23gMQVqCNrywhTjVe0nNNLkcNvUDeYDefJy1eLfosOOYVc4cOKMPrGqcbF30u80lTqh5RT1LqcdyFsdlLowg8WnqueZRdHInLNc3EtDCnhz8ooPj6q%2BlAtOIn8T65CY9odXhC7sId%2BVAg%2F1E71NuuCQcZGDpm3muO0DMjCLIn7LJtnpoxwkIMy0KIILtb%7Ctkp%3ABk9SR5a8w7OGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/k38AAeSwCMRqIaAd/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787216261391
+        "lastSeen": 1787565789327
+      },
+      {
+        "itemId": "157916229230",
+        "title": "2005 POKEMON EX DELTA SPECIES 40 DITTO [SQUIRTLE] PSA 9Opens in a new window or tab",
+        "priceC": 60000,
+        "shippingC": 597,
+        "landedC": 60597,
+        "url": "https://www.ebay.com/itm/157916229230?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383391&itmmeta=01M0SKH30PF56DVEMXZBVMZY0X&hash=item24c48a6e6e:g:swUAAeSwO0dqCLjS&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCRlxyEYdwBKelLNSpJ9X46%2BveYLAPVwba3V3EJp4t7cF1k73%2Fk7mV5fD0OYFHkGNfPfg7UiA8%2BCLhAyv%2Fx1GO%2B7TZgEATj%2BdBED2O7OMQNfahwffevQVxXBIbQOL5Chwcfx8RCREZKLuJ%2BfhaPZOqxuD300tfXyidXXHZCZ2QmJZ%2FqE9SZ9f1XJ0%2F4wIjvyaOrfPnEc0dVrXrfjaMNeY8AL2nmfoVIbBNu%2FWxxB9X7Qs7DNmZoMhK3AlYk4zbxDyLcm8j1AZGpETKgbUKV4TFzNkCCe7pFBTuKA9kliiySJpZ4TfgmefVnD6tCQGb6lZM%3D%7Ctkp%3ABk9SR96wxLOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/swUAAeSwO0dqCLjS/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787089625972,
+        "lastSeen": 1787565789327
+      },
+      {
+        "itemId": "267632672592",
+        "title": "2005 Pokemon Delta Species Ditto Geodude PSA 10Opens in a new window or tab",
+        "priceC": 109999,
+        "shippingC": 499,
+        "landedC": 110498,
+        "url": "https://www.ebay.com/itm/267632672592?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=14043371597&itmmeta=01M0SKH30R4GAT6VZNM5HXFQBQ&hash=item3e50267f50:g:0tgAAeSwo55p1co3&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCy%2BWc%2BRkSZNs43liJP0BG%2FycIb9ZhxbS9Zw07QAxMJYtzXZO%2F8JWUV%2BzlTbM7peqxu7rDuSCjrxM4AO%2FJyTEPUwBG90ETVSt4PlHzpV6c0I9aoCPIRLa72ampHTPzGRoQpqAUUxePiTxeWjXklXNhYb1yaC6OmDZCy66CC7W6Qlk9l0%2FLmP2vYO%2FwQY6vGMCBjDonrfRBs8T4oVnT9xjk%2BgQwC%2FxRWAFU6wQ0HWV%2B1jZNPYEnATVtWQC4vl6dkb7Z4rD2n0mw74fbd8p0hHTt0YIf0BW0V%2BwcfIiEr73lIXJJMUx76mDCeG7haPW4ZNeM%3D%7Ctkp%3ABk9SR-SwxLOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/0tgAAeSwo55p1co3/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787089625972,
+        "lastSeen": 1787565789327
+      },
+      {
+        "itemId": "800536415406",
+        "title": "POKEMON DITTO [PIKACHU] 2005 EX DELTA SPECIES #63 MBA SILVER DIAMOND PSA 10Opens in a new window or tab",
+        "priceC": 122500,
+        "shippingC": 795,
+        "landedC": 123295,
+        "url": "https://www.ebay.com/itm/800536415406?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0SKH30SEST2XNJVP35KC632&hash=itemba63b04cae:g:d1YAAeSwc8FqhjhX&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDS06MothX3%2FBYPW4DLn3x1EPtXXJvtZPSsH7j20sIp3mkecD44sjWiTDBVPJEjx3oadpNuCpFpSGB5xG55qsbz94RvGCr9%2F7BnXiZWBvVJyFEePd4eq8ubl1YCFW3wwUx4rODj1QDKhQNz6p8PObL862s%2Fy0l27HJ%2FFbdyZbwJmHG5IdJWnDWG%2FRCG5KOIvAuQtWGDAYZfLF6pnNqVAXWGq5MOz3BD8Y%2BBnvcVIThdVKA%2BCjym24uUxuelyHYwHoIh4i8ZlXGPet9OkdLxFA6G%7Ctkp%3ABk9SR-SwxLOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/d1YAAeSwc8FqhjhX/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787216261391,
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "157794514371",
@@ -192,13 +233,55 @@
         "priceC": 150000,
         "shippingC": 0,
         "landedC": 150000,
-        "url": "https://www.ebay.com/itm/157794514371?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0F66RYX2HY151898GS0X3EV&hash=item24bd4935c3:g:bvgAAeSw6o1pyMCV&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC1pTmx0ed0o0tY76FC8d%2BYcH88tfmDeTUOfh2AtvkFOJx73OonRPsBmxALeo8iiEJiNHjqkOQ7PD2trit2DqtDw%2B36Sd9lKYTLW%2BAAzepBex1%2FC1I791Z2jPZPmAfa%2FweyTB2vvv7QfPvQu2LBkBM4OPwAKa93VDw%2B7mcUQgRJmO7Zue9vK5hoH6aJNEWaWK9yZfNxLwzIRYLjc15vXAU0Gu8N2%2B9PMXFLNXGz0UrrhEuJon%2FtOS3Mq8CQCauDLlp7aG3OObzsV9gztyotHNcj%7Ctkp%3ABk9SR-CPm-aDaA",
+        "url": "https://www.ebay.com/itm/157794514371?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0SKH30SFXET54EAH68BJ3QV&hash=item24bd4935c3:g:bvgAAeSw6o1pyMCV&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDWfIjc5na7nqCJwFV%2BkAm%2BrRrNvAfuUpXyq0ldnAmly2%2Bph0PMMFIfmvfeJARy6GDdv%2Bnyj1zjWgkV5G6ntDe4LBJ2SraSo5CGm08C9VQtut10eZJE3NFBbpKRqlIg%2Bu1qqoiJEj3GaOwAjJWRmxrKiRDo1%2BDbxfzTfllSc8UiO6atqNSuu6KMM6a3DLsnYAGIHZF8CCVCsVK8awhUectt1q0cdRx2%2FxDDSthJ47vd%2F4ID7fVYKMe%2B7hu3bDrk124vbKmWNN4mAJ8Qge4QcH9p%2FyNsKJTI2aRL1BmtA82lvMxcv%2B0jNoPZzUbZP49lwXM%3D%7Ctkp%3ABk9SR-awxLOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/bvgAAeSw6o1pyMCV/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787216261391
+        "lastSeen": 1787565789327
+      },
+      {
+        "itemId": "236741233315",
+        "title": "Ditto (Squirtle) Pokemon EX Delta Species CGC 10 GEM MINT 2005 TCG -YUKA MORIIOpens in a new window or tab",
+        "priceC": 149999,
+        "shippingC": 1410,
+        "landedC": 151409,
+        "url": "https://www.ebay.com/itm/236741233315?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=14043371409&itmmeta=01M0SKH30TYT3RPPE48Q1QYN6A&hash=item371ee08aa3:g:WLYAAeSw~rFp1Hw~&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA6ONNZzKOtfd2TyhNyamQT2rTvRYIyNyQcTtGRawhRFmDSRDz8HankTpu9MmJ08KJAGWWpwm1ZwfYPCWNBa0O6nPz%2BtjJ2K12HbL2pksN8QZxmcebBLI2pM0PnbKKtFTzq4ODORc9%2BqyrD9l9%2Fp2NStLKjmgjh43W%2FmOcwm2pGIq%2B0ezL%2F0jrRkGJIvyUL%2FDhrPcjevvJxt%2Bh6gNqUAS7QUxd9j%2BfQHhvzr96JsxFN3uOXn%2FceBLm36lWZauRVLsNz1F3NqXCcKKHUEGKW7W7Cz%2FS2vg33OS75V5E1ejmPYFKZ9Tnow6DIs%2BESW7EM208%3D%7Ctkp%3ABk9SR-awxLOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/WLYAAeSw~rFp1Hw~/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787089625972,
+        "lastSeen": 1787565789327
+      },
+      {
+        "itemId": "236741245782",
+        "title": "DITTO [GEODUDE] POKEMON EX DELTA SPECIES CGC 10 GEM MINT TCG 2005 - YUKA MORIIOpens in a new window or tab",
+        "priceC": 149999,
+        "shippingC": 1410,
+        "landedC": 151409,
+        "url": "https://www.ebay.com/itm/236741245782?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&itmmeta=01M0SKH30TA2WASE9Q0AJTY8DZ&hash=item371ee0bb56:g:ypAAAeSw4c5p1H2h&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBXPQ0HrlGuvXCi2nhw%2FoReutPJkOITEm6QbrYghgf7JbPeEgM3MrgFh5Yk8kd61g%2Fr4gRMkCBu6Q0q7lTvNidu77HjEKZCfUMYEPpxxRYQtpM%2F%2BAutwCXS0m7EsRteLeGC2M3IXpaQb6rMIdPdmcHm4Ioo14cxpDprltWOFDRTdvhtI4wkCCFXNK%2FYdqBaiH0a4e9SrKJGfNq985DNbjafekNKBB71r3URARg11ea%2BhFZFVKOQZonCLKWiJVTOHJ4a5oXw6refMJTqmmzlDRsj8iSIEGW02uUzexwLCvqwDQmvph1dVchpHcor3kVsDjA%3D%7Ctkp%3ABk9SR-awxLOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/ypAAAeSw4c5p1H2h/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787089625972,
+        "lastSeen": 1787565789327
+      },
+      {
+        "itemId": "178078615571",
+        "title": "Ditto (charmander) Origins international game expo 2007 EX delta species CGC 10Opens in a new window or tab",
+        "priceC": 180000,
+        "shippingC": 0,
+        "landedC": 180000,
+        "url": "https://www.ebay.com/itm/178078615571?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=2314420640&itmmeta=01M0SKH30T0BGWTRP5Z1T3QFAN&hash=item2976500813:g:RvcAAeSw5D5p7SLa&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAwCghLMax4CeExlcwcUtAWOqeQcC9l%2B3OkajQfzm%2BwrmrAp6CHbx43iBSkJvtXz9yNFEpI4hCoSm5diRl22%2FY6uLDVg%2F0tZNPKX6sLg58Cbh9M5U9sckyGwbV3t5MaGRnI0R%2FqmrEXt5FQlvEDX6UAR0HyaRhtcfc6AyZifWiJQqA3l4olrXAU%2BfwzwWDytTey%2BWK69PKjl3%2BiSU9oKQl1sFBHUSpnj1UlWgmQ1U9uGGq%2F401weDkfXD%2BTmkAUwacErI0AKhRbAwd5TWNnPJBThe5Mkg%2Fm%2FFJyHFJj3xoOOgwMkrbvHbKq1bj0OqFulAk%3D%7Ctkp%3ABk9SR-iwxLOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/RvcAAeSw5D5p7SLa/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787089625972,
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "178270338502",
@@ -206,13 +289,27 @@
         "priceC": 180000,
         "shippingC": 0,
         "landedC": 180000,
-        "url": "https://www.ebay.com/itm/178270338502?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0F66RYX26A3JC28WC9RE5S0&hash=item2981bd7dc6:g:qCsAAeSwoolqRBsQ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDfIFVQ3IhrTaJcNm5%2FIc%2BojwI5WnxLmyxrYBC25pnUImpPsb5FgwO2f%2FMKB0yg84olNMy4A1lLbUtufVdIiYjUfYrzwhpN5japc74PF5nxOrYE%2BN8MFD1kIumXluxyx3e5SMTJgwM0xp80Kcx2wfzlqZyXgVNK4t2eFb05sKBwpZF44yVWpeYVWwFH%2FR5oPGim81HO0vPt5XS39O6xN96psO7yVYIq%2BAGwRVqmYZ3iOuFwqT6tKtwcGRpcLR6cObB3swUJY4sPuIRWEmrOmUmd%7Ctkp%3ABk9SR-KPm-aDaA",
+        "url": "https://www.ebay.com/itm/178270338502?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0SKH30TT2VXZFBNMYNNP153&hash=item2981bd7dc6:g:qCsAAeSwoolqRBsQ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDfIFVQ3IhrTaJcNm5%2FIc%2BojwI5WnxLmyxrYBC25pnUIkxrZfEth2fiJhJWXQiRP9dgR66vpPJI5uPNayTXeNyaIhHMsuEsbXyuG1OOKTi6MPj2vuRdKR%2BKAIP%2Fd44AZpUqO0%2BV6mXuG4L18zynv1SfQxMTJwrSIuHbFpz5fNWSJPlGuvNRkVymZU82%2FpMIcsYvHQEE1FgkTCZKQx00%2BPko4sLoAhRK1GopYwtUGzajphq%2FHlfuvIRvRHLbtGYNAkWEsFBdY6uOF3YaaQvhPoJn%7Ctkp%3ABk9SR-awxLOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/qCsAAeSwoolqRBsQ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787216261391
+        "lastSeen": 1787565789327
+      },
+      {
+        "itemId": "406787542424",
+        "title": "Ditto (charmander) Origins international game expo 2007 EX delta species CGC 10Opens in a new window or tab",
+        "priceC": 299900,
+        "shippingC": 0,
+        "landedC": 299900,
+        "url": "https://www.ebay.com/itm/406787542424?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=2314420640&itmmeta=01M0SKH30WF15DZ9P1PCRKVZPP&hash=item5eb66d4d98:g:GRwAAeSwDLhpvecR&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBmavJUj%2F46EQoCyZ7PuuZowGfhquDerFTfLazsBynGQOpP%2BdcfVITjqYQRL8DqXb4QPpp%2BBJnjipr8MkYv%2Bw0skXQlub0xpggyzpLfN8XkWBCehfwSL%2F5qdacPpK7tQiYPyJsidt9oiCIyJ71hioZYecJVsBATN0y%2FCrYPGzW2Ld2j67YNH5pmX4dchOoSbviodWS9C2r6fgl422MUTvewVC6JLUpdhNTHiasxzFx53l5kAZvH%2BqOGVJO0%2FpgnFsZO2wemq2s0ycVHU%2Ftf4aVOAIEWaMQAWi984I4Q0k91VMqtRdQrWB43a65MY1%2BdZj4%3D%7Ctkp%3ABk9SR-ywxLOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/GRwAAeSwDLhpvecR/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787089625972,
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "800485834257",
@@ -220,13 +317,13 @@
         "priceC": 325000,
         "shippingC": 0,
         "landedC": 325000,
-        "url": "https://www.ebay.com/itm/800485834257?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&itmmeta=01M0F66RYY3NMGBYY476EEPP7S&hash=itemba60ac7e11:g:rQIAAeSwZxJqKGYO&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDKEMd24ypDTBZ9BLN%2BsnilhA23HxxRCzLLHNG--HwgjZO%2BQtZJ%2FEg0KcLKjGkApR9MRQs4DWir%2FfImDLfKhoJXCEUPQ38CCtFd5%2FoxMkpfpfd4IFriLJhaNl58vrGUjLXMH5FTwf811KDobKO9EYp2e1kuQdVXd%2FnbAJpCLBhbMt34MHQi%2FUpVkx8dhC%2BKhxdPqzsXP6Q2IbN12dS5QyNAqzwecZg995zpYBAtuPeJhl%2Bd0I2zezCSK4WansZWWLFXhFWaKoS56xXI%2B4L8lm8B%2FfApPlwa95gHsmIpaNTtrpfrKHXZ885WSi6F%2Fy8Axo0%3D%7Ctkp%3ABk9SR-SPm-aDaA",
+        "url": "https://www.ebay.com/itm/800485834257?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&itmmeta=01M0SKH30WA0D1THSGFJYJBG7X&hash=itemba60ac7e11:g:rQIAAeSwZxJqKGYO&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDKEMd24ypDTBZ9BLN%2BsnilhA23HxxRCzLLHNG--HwgjZO%2BQtZJ%2FEg0KcLKjGkApR9MRQs4DWir%2FfImDLfKhoJXCEUPQ38CCtFd5%2FoxMkpfpfd4IFriLJhaNl58vrGUjLVj7hDBFsp8fGJ1HClGGTJ1wsIM%2FJF0Q40R2w45i1QLwiZNd24HW5LwOU2PQLGACtz0bYQJZqQ2t%2FWLlRZzEi9D5w1sRL1rAGb7rvB%2B0KE2Ut7CyfEif3XtfYgsq6lzbwU5kKmtHt%2ByXZqh01Q--uhWz%2BX0GgEqiL60Zu%2BBuJqGxGbMatvk3Ol7Xs2J51g7e8g%3D%7Ctkp%3ABk9SR-ywxLOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/rQIAAeSwZxJqKGYO/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787216261391
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "188737356668",
@@ -234,13 +331,13 @@
         "priceC": 400000,
         "shippingC": 1000,
         "landedC": 401000,
-        "url": "https://www.ebay.com/itm/188737356668?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0F66RYZPSF6AGJ67ECHNR59&hash=item2bf19f837c:g:QTUAAeSwe41qcLGn&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCgtottMFMqy8IpELZmEa8XNCHhfGnPXvdOEJbeF6lHQC%2BJhyp1emzmDw9PwV7xOD1e0%2FHJOyweXvcwsv6NO5IE2OvZq6D%2FtZSKka%2FyoIojLuXR1cRQKhF6mXr5QQDJ8r9bI2gi2hKK10UxM1%2B3sxEm5l9SzyttjmCe18X24WIn3GB4Zcg3wNtx7xfvUuqxIybWlKObRTZpcxGMjUAun6vBOq4wG1%2BEe%2FL%2BlXrHm4%2B9DQC8W2guTOa2St3M%2FcD3qOSXRa56Pjr8lxTNQWLO3Gj7x5MdndUEBxbpa3HpVGYCIJBGAWKGbXe0W6eKhGunzyE%3D%7Ctkp%3ABk9SR-SPm-aDaA",
+        "url": "https://www.ebay.com/itm/188737356668?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0SKH30WZCDKSS617SC17M9B&hash=item2bf19f837c:g:QTUAAeSwe41qcLGn&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xArIWP6JhK9XcpK%2B%2FSc1212Oqw4ZeyJU7bygVB2k05bwpO8TJ9VD3Eh8M2vWGAdbX6BCbbWo1nrXn1hHXY9sppovY6pKUxLZfMAnxV1iAB4bsWlu4bAH593JQ%2Fw69RpKm0yUYbOjoj4DxU97NQk%2Fpa5Ucj1xMA8xTbe%2FWVO2YMfz7GNam6Wc4g4m7E44uNedB5hQ%2BC%2BF0zdyrd9%2FmztGoOar8dtDjBj3F%2BL9cezanHZgNbSnfRpIyJoOACxwxTT%2FpzEBccHavzJ97uPaaYs1Gni%7Ctkp%3ABk9SR-6wxLOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/QTUAAeSwe41qcLGn/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787216261391
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "227245736392",
@@ -248,17 +345,83 @@
         "priceC": 3499900,
         "shippingC": 0,
         "landedC": 3499900,
-        "url": "https://www.ebay.com/itm/227245736392?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0F66RYZDSA40PGFD7KPRM44&hash=item34e8e6c1c8:g:sO4AAeSwvxZpq9bl&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA0HqjYDXiorHBe8y6lwhNyGzces76Gy542yRtWqN6iPnGwmCTwRTHoQ6jChalkihcAzq30s7XYbaA7ZwaD0JvCHF%2F2jIwuqNP%2F0kiqaq%2BYgdyD%2BtSc2KWykcw2sB12PqZWnwn%2F8%2Fq%2BZx9H8%2BazaDktZHj9LRFj0z0kKiNohVA%2FFd3bizChYwQiUFNAXPkolC6K20jgIEt23EV9cxYe8gArVGb92zNwFAUm9Qs73w0%2FMJkWTgaWcONZ7Ke90crmQb0dC8dWoxZLq5Ni1qTOJajvdj%2FvLxyB0i2X%2BvkyVVYyZkrbHM0IGRy%2BObjIon0%2FQBQ%3D%7Ctkp%3ABk9SR-aPm-aDaA",
+        "url": "https://www.ebay.com/itm/227245736392?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=19043376552&itmmeta=01M0SKH30XR33Y0D7R4SP9KBWA&hash=item34e8e6c1c8:g:sO4AAeSwvxZpq9bl&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA5hlvLK7rlYAci8gPZ0zKfTTNJy9yRlDSaM1RYhgn845jLIegUvRiXR0Kk87Nq1X8l35BSonNnvk2TPlQ9k3QCWVI5rE8Ary5wW6M4pS9WmvW3KfAHBGiamz2wyU7OreTsEQUqI7gPHOVV3HAKznMGLooQVxwcNIy1NHkChgaQXH%2FNL8M5QU7naPw%2BP499aXUlWNGCcNwUVwnPsvzzEIxD5zfREWvmZIs0Wa8f6x%2BmdJXfUjf90v3ejGpBk%2BKU%2F2s%2FR4fhrdhc6P%2FlfaFJp%2BDe%7Ctkp%3ABk9SR_CwxLOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/sO4AAeSwvxZpq9bl/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787216261391
+        "lastSeen": 1787565789327
+      },
+      {
+        "itemId": "157879395122",
+        "title": "Pokemon EX Delta Species Ditto Set [Pikachu, Charmander, Squirtle, Bulba] PSA 10Opens in a new window or tab",
+        "priceC": 3749999,
+        "shippingC": 1551,
+        "landedC": 3751550,
+        "url": "https://www.ebay.com/itm/157879395122?_skw=%28ditto%29+%2863%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&itmmeta=01M0SKH30XNP2RWTTEFSXRSHPV&hash=item24c2586332:g:VegAAeSwh5Vp9msw&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAs1BU96Dd4g%2BQND88bjrRGfFnWu27eGVYT6BrLHwXoksc%2B3thGnT7O3Y1r2%2BFE%2Bb81q2CNhJfov%2BGcZlyuJxZ9p%2FZxI0aL3iXA63Ubr6UfvRIb4TPfSWtjxZ8nbjolOxxRdE2ExNjR5%2FBpdqKj79R1f2saKiMUsOzH1vCke4a2hOL8AYyVsV4VYk3hOazsZy650wJE1C1DsOJJX%2FsV4MeR1cbjNql5s2UFIcYv2OWp0%2BUoyjPeuW6Dh3DCDIYtn6P3Zd8bMEjsqexVQo%2B3LeygYpPrDNuBxhf60KesKw0YiEKeBx9%2BUbg%2BT5Tq8OmrXzoCC%2B1v4hISG59qQXOQgnEk%7Ctkp%3ABk9SR_CwxLOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/VegAAeSwh5Vp9msw/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787089625972,
+        "lastSeen": 1787565789327
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 4164933,
+          "saleDate": "2026-08-24",
+          "priceC": 12350,
+          "title": "Pokemon Ditto [Pikachu] EX Delta Species 63/113 PSA 7 63/113",
+          "url": "https://www.ebay.com/itm/287524895440?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 7,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 4164829,
+          "saleDate": "2026-08-23",
+          "priceC": 283255,
+          "title": "Pokemon Cards PSA 10 GEM MT Ditto Pikachu Delta Species EX 2005 63/113",
+          "url": "https://www.ebay.com/itm/117355349875?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 10,
+          "gradingDesignation": "gem-mint",
+          "agreementStatus": "match"
+        },
+        {
+          "id": 4164763,
+          "saleDate": "2026-08-23",
+          "priceC": 4400,
+          "title": "Ditto Pikachu 39/113 Uncommon Delta Species Non Holo Pokemon Card MP 63/113",
+          "url": "https://www.ebay.com/itm/188814046903?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2551041,
+          "saleDate": "2026-08-21",
+          "priceC": 18050,
+          "title": "2005 Pokemon Ex Delta Species #63/113 Ditto [Pikachu] BGS 9 MINT",
+          "url": "https://www.ebay.com/itm/366604055708?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "BGS",
+          "gradingGrade": 9,
+          "gradingDesignation": "mint",
+          "agreementStatus": "match"
+        },
         {
           "id": 629100,
           "saleDate": "2026-08-18",
@@ -518,6 +681,19 @@
           "gradingGrade": null,
           "gradingDesignation": null,
           "agreementStatus": "match"
+        },
+        {
+          "id": 4164905,
+          "saleDate": "2026-08-08",
+          "priceC": 95000,
+          "title": "2005 Pokemon EX Delta Species Ditto (Pikachu) #63 SDCC Promo BGS 8.5 63/113",
+          "url": "https://www.ebay.com/itm/137594300581?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "BGS",
+          "gradingGrade": 8.5,
+          "gradingDesignation": null,
+          "agreementStatus": "mismatch"
         },
         {
           "id": 629242,
@@ -1753,71 +1929,6 @@
           "gradingGrade": 10,
           "gradingDesignation": "pristine",
           "agreementStatus": "match"
-        },
-        {
-          "id": 629158,
-          "saleDate": "2026-04-16",
-          "priceC": 5422,
-          "title": "Ditto - 63/113 (Pikachu) #63 Near Mint English",
-          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F84840%2F-&sharedId=web&subId1=completed",
-          "sourceMarketplace": "TCGPlayer",
-          "gradingStatus": "raw",
-          "gradingCompany": null,
-          "gradingGrade": null,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 629174,
-          "saleDate": "2026-04-15",
-          "priceC": 257772,
-          "title": "Ditto pikachu 63/113 PSA 10 Delta Species Pokemon Card Game 63/113",
-          "url": "https://www.ebay.com/itm/287266513153?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 629250,
-          "saleDate": "2026-04-14",
-          "priceC": 50000,
-          "title": "2005 POKEMON EX DELTA SPECIES #63 DITTO [PIKACHU] CGC 8.5 #63",
-          "url": "https://www.ebay.com/itm/397836017803?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8.5,
-          "gradingDesignation": null,
-          "agreementStatus": "mismatch"
-        },
-        {
-          "id": 629273,
-          "saleDate": "2026-04-10",
-          "priceC": 17850,
-          "title": "2005 POKEMON EX DELTA SPECIES #63 DITTO [PIKACHU] PSA 7 #63",
-          "url": "https://www.ebay.com/itm/306846990038?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 629252,
-          "saleDate": "2026-04-10",
-          "priceC": 15750,
-          "title": "2005 POKEMON EX DELTA SPECIES #63 DITTO [PIKACHU] PSA 8 #63",
-          "url": "https://www.ebay.com/itm/298167144936?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1888,13 +1999,13 @@
         },
         {
           "month": "2026-08",
-          "medianC": 494340,
-          "count": 1
+          "medianC": 388798,
+          "count": 2
         }
       ],
-      "englishSaleCount": 213,
+      "englishSaleCount": 218,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787215841723
+      "lastCapturedAt": 1787559982100
     }
   }
 }

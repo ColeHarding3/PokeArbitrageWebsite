@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 1981,
@@ -18,25 +18,25 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/07f63bcf806daafc63edf3e198605c4dbd3eab7ac17651d55e5462717f2ac860/1600.jpg",
       "popularityScore": 87,
       "market": {
-        "ungradedC": 30524,
+        "ungradedC": 30823,
         "grade9C": 195101,
         "grade95C": 214600,
-        "cgc10C": 297596,
-        "cgc10PristineC": 676793,
+        "cgc10C": 249548,
+        "cgc10PristineC": 639350,
         "psa10C": 1205000,
         "bgs10C": 1566500,
         "psa9Pop": 204,
         "psa10Pop": 47,
         "cgc10Pop": 23,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787211951371
+        "fetchedAt": 1787557311281
       },
       "bestCgc10": null,
       "bestPsa10": null,
       "bestPsa9": null,
       "counts": {
         "cgc10Bin": 0,
-        "cgc10Auction": 2,
+        "cgc10Auction": 1,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
@@ -44,55 +44,68 @@
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787211951371
+      "updatedAt": 1787557311281
     },
     "prices": {
       "variantId": 1981,
-      "ungradedC": 30524,
+      "ungradedC": 30823,
       "grade9C": 195101,
       "grade95C": 214600,
-      "cgc10C": 297596,
-      "cgc10PristineC": 676793,
+      "cgc10C": 249548,
+      "cgc10PristineC": 639350,
       "psa10C": 1205000,
       "psa9Pop": 204,
       "psa10Pop": 47,
       "cgc10Pop": 23,
       "bgs10C": 1566500,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787211951371
+      "fetchedAt": 1787557311281
     },
     "listings": [
       {
+        "itemId": "287524901684",
+        "title": "Pokemon Dark Dragonair Legendary Coll. 38/110 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
+        "priceC": 31600,
+        "shippingC": 999,
+        "landedC": 32599,
+        "url": "https://www.ebay.com/itm/287524901684?_skw=%28dark%2Cdragonair%29+%2838%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369496&itmmeta=01M0HNBWPCQXYDYCQE7NRYYNPX&hash=item42f1d1d334:g:wREAAeSwTHhqfyoD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCMLtXIR2%2FQgcWQ%2Budx8C%2BH0DZcYinYEMJjhUwS1cdKRlceIbS6TrkMHBsJeDAltCGEk3wwB8my9QeMl4koHl9rP4dih9TyffZRzNmh%2FhXop17hGXeCrS4WDf7wQrXnqtxl8XIoDIg7PAZsX0Mw69znjWstlJYnXvow%2FBRLdugbZtzcqCZRJ5DL8mpfasVNEacrs%2FRKMF%2BE1n5VMJZ4K2Nh6fyREK3L915PM8bvUam9LOLXhJLuwpbTo0ox4AzjFabbzZnysZ0ORUADlL7eoA4RMx9LuQelsPpvLH3HmMT59A%3D%3D%7Ctkp%3ABk9SR8rLr7WEaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/wREAAeSwTHhqfyoD/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "gemMint10",
+        "freshness": "stale",
+        "firstSeen": 1787050911353,
+        "lastSeen": 1787299243839
+      },
+      {
         "itemId": "298598499566",
         "title": "2002 POKEMON LEGENDARY COLLECTION-REVERSE HOLO #38 DARK DRAGONAIR CGC 9.5Opens in a new window or tab",
-        "priceC": 225,
+        "priceC": 45500,
         "shippingC": 599,
-        "landedC": 824,
-        "url": "https://www.ebay.com/itm/298598499566?_skw=%28dark%2Cdragonair%29+%2838%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369496&itmmeta=01M0F27C23Q2TGFP8F8BAN9ZKZ&hash=item4585db84ee:g:hCUAAeSw2rZqhGqO&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDbsPBVWmvj3JhY6k8UTaUuuyET%2Fe5p%2BXDPXyKMHQq3n7YeGLp4i0%2B7LMx7K0PDYYF4crVDo%2FDOniLKVTma%2Bf56bLVmDqZkEnfSb7HuclfymvZKSPdfDZfayOodhHMSEGTKo32UC8DjU92yLoNhfwA6uN1SXPDk4lfn81vQQZ7LXXthhY7RzTOwqUkkxf9qUUO5yAO64vLWa2l7o%2F27ZKdjAhytWhAufvn9C5udKVrnb0JE2FI9CYLfkCI9U8PKXnurKRO0obd2XOJ7fW3cx%2Fd5yHazHEgWOynKdSWC9CRkZvvGIBGd1HQTJB77NsGuX0LGK7OXCM2eBJLABZIJTg5k%7Ctkp%3ABk9SR6rBneKDaA",
+        "landedC": 46099,
+        "url": "https://www.ebay.com/itm/298598499566?_skw=%28dark%2Cdragonair%29+%2838%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369496&itmmeta=01M0M6Y1T5FVCZMCBMZQ64QFQC&hash=item4585db84ee:g:hCUAAeSw2rZqhGqO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA1%2BHK5OMh00UFiSg%2BN1CMdA%2Ba9jLdpy%2Fm56nIVp73uVaAYVwlXLiwM5FRgPwRFnYM1Ccnc51hrJyXTfWr9NVbDUpdqUX2v95HebNERNYB4AlspMiy0RuqanQVvGMLBpKuv2TtMGvhPkqExOfTuSdyXsFeXFmBsVpbIf9nG87Vfm%2F27nQtaGvfBd%2BzsuzmN6JFVLwNn3ZFQXAqJ6BWnIjp0zf3RoDH1F9Ui8%2Bi%2BswjubcFk3p5gfwLQFZfI319dpbBLMEdNJIieqhx9sgUUl3iGrVOLH23NJ3Z1a57Id8t2xQ%3D%3D%7Ctkp%3ABk9SR8yd-IaFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/hCUAAeSw2rZqhGqO/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787212132335,
-        "lastSeen": 1787212132335
-      },
-      {
-        "itemId": "287524901684",
-        "title": "Pokemon Dark Dragonair Legendary Coll. 38/110 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 10550,
-        "shippingC": 999,
-        "landedC": 11549,
-        "url": "https://www.ebay.com/itm/287524901684?_skw=%28dark%2Cdragonair%29+%2838%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369496&itmmeta=01M0F27P8C838KY44EJM113PM6&hash=item42f1d1d334:g:wREAAeSwTHhqfyoD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDAVBtPbJh0K1eLWQqxzvVHd9wEJaXokubeZWfMWogiC2tLLJ7%2Fxmel4QcXqXb4rUCoIPXo8xKcKkNCgSCd8mMnacIXI%2BtSQXBtWOc5NKwdCreyREZOvYdeMrVPWTVxCZGNnukU2tl7Ep2G8P8UYK3o1Udic%2Bkb7laS4qoxic7S6H%2F6gYiBR2AccBiEo%2FSnq%2BKJSU4CmW1lcn2r%2FCTS6Yt4HQbvKzyRWhMU32zwcP%2FBvEmjJvd%2BK3TSjqKiLIuNPrdfAnD9cAGyaykeFnWI7DRM2xmptVIykT7wd4hCx0UB2njqf7HRB4%2BUvTn4jUs%2B59rSxEoNShrdJVKkpiS2%2FeSo%7Ctkp%3ABk9SR77knuKDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/wREAAeSwTHhqfyoD/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "gemMint10",
-        "freshness": "live",
-        "firstSeen": 1787050911353,
-        "lastSeen": 1787212132335
+        "lastSeen": 1787384821406
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3856278,
+          "saleDate": "2026-08-24",
+          "priceC": 35000,
+          "title": "Dark Dragonair 38/110 Legendary Collection Reverse Holo Pokémon 38/110",
+          "url": "https://www.ebay.com/itm/318740955127?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 331849,
           "saleDate": "2026-08-17",
@@ -1639,19 +1652,6 @@
           "gradingGrade": 8.5,
           "gradingDesignation": "nm-mt",
           "agreementStatus": "mismatch"
-        },
-        {
-          "id": 331902,
-          "saleDate": "2025-08-14",
-          "priceC": 29000,
-          "title": "2002 POKEMON LEGENDARY COLLECTION REVERSE HOLO #38 DARK DRAGONAIR CGC 8",
-          "url": "https://www.ebay.com/itm/297313632046?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1706,9 +1706,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 217,
+      "englishSaleCount": 218,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787211949154
+      "lastCapturedAt": 1787557309137
     }
   }
 }

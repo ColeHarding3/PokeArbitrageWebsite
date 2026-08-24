@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 11075,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/8aa72d06c5904df09573c3ea482590c4d32985f40e78253f71535861f9bcdc69/1600.jpg",
       "popularityScore": 81,
       "market": {
-        "ungradedC": 107437,
-        "grade9C": 360363,
-        "grade95C": 396400,
+        "ungradedC": 107600,
+        "grade9C": 338843,
+        "grade95C": 372700,
         "cgc10C": 411430,
         "cgc10PristineC": 740600,
         "psa10C": 1464000,
         "bgs10C": 1903200,
         "psa9Pop": 280,
         "psa10Pop": 93,
-        "cgc10Pop": 0,
+        "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787216344328
+        "fetchedAt": 1787560200689
       },
       "bestCgc10": {
         "itemId": "800529765353",
@@ -37,13 +37,13 @@
         "priceC": 490000,
         "shippingC": 1088,
         "landedC": 491088,
-        "url": "https://www.ebay.com/itm/800529765353?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0F6F596D1NQAHZ2S2NX25GK&hash=itemba634ad3e9:g:wtUAAeSwsDVqhIu4&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCqgZz1KjHb68UsZaFPDWm5kqJsRtHHWgt8U04mno5ssw43LRHPTwaMatE8RlyNIbCYoHW5W7cXqegZ%2B5RPwzJExmQ35uQwQhbyjaqfB3XBbIJrq4ThYF%2BZvKjyjgoUWJ5p92aYyvryAEGj6hxVJEZzhqHZ5Lcj8Aeu2WXW7JzQeCC1Juoj9Ga7P3YJvqyRUQugYCSqHXXEDK93%2BJyFzBYPqv0qxQ6Vdo1CeiNJx6ZnuTgSGTkxPK6eYXCJMVRHmqxel3WAYJ1ETmPOToJSJx3tidG3DBnpLuOfKAOpHEnjb6GxgEQXwW6gnnzKrOPiV5QpZ7iF933KJL6N50WnQTyQ%7Ctkp%3ABk9SR_zUvOaDaA",
+        "url": "https://www.ebay.com/itm/800529765353?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0SEAGYMD2RND44AMWJWAFBM&hash=itemba634ad3e9:g:wtUAAeSwsDVqhIu4&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCqgZz1KjHb68UsZaFPDWm5kqJsRtHHWgt8U04mno5ssw43LRHPTwaMatE8RlyNIbCYoHW5W7cXqegZ%2B5RPwzJExmQ35uQwQhbyjaqfB3XBbIJrq4ThYF%2BZvKjyjgoUWJ5jI1%2FX49usgZ42rTcIbo5%2Bw2pwtCGZdlTovlnMsFVylE8tn8uoMa9tTHpPjV1dd4F2OWp1RP9818wdinJqdGya%2BRDSrOs9XbFcYvVXPiaQDq7HryvWMzdEORD%2FOaEoVoMMIJyN9uz1TmRq4j7IHIcfioL0TbKIL4pMN%2BPbPv50cKBoXaWAj38%2FRAfCtHmxbkbOoqR9n1fmI6cNxRUSTcqu%7Ctkp%3ABk9SR9KPqq6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/wtUAAeSwsDVqhIu4/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787216884103
+        "lastSeen": 1787560344224
       },
       "bestPsa10": {
         "itemId": "125545681607",
@@ -51,35 +51,22 @@
         "priceC": 2400000,
         "shippingC": 0,
         "landedC": 2400000,
-        "url": "https://www.ebay.com/itm/125545681607?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0F6F596PMGDTV2VZ2P55W4W&hash=item1d3b1b12c7:g:vq4AAOSw0fhjPCQL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA9vMRiwWKWa8YaBDwOrz%2BG6hxBBbdjwC24X270qAxJBhwrZnxiKLpV2wgpeSxS2vjLhrW9pMf%2Fe5i7A4xdS3xRxm78cYM1rgI0vUnI2piezeHOwJUhT2vzoITyeQkeCVDF%2BedtcwJrTgyEUhM1Jov1M%2Fbm4kRB%2B5%2FvbRB7H4XGhYv8WsAHCEj5KVY8MToBCBygQmdSNgBsbmYFne96QTEddeFNZvjLgjnrT6043PkXWQsJPeGsLZaQGvrHQYP%2BK%2FI%2F5Z5l6aOeK%2Fbr3FDXsSXffJFKSYfBW0nZA7J5phsb5g%3D%3D%7Ctkp%3ABk9SR_7UvOaDaA",
+        "url": "https://www.ebay.com/itm/125545681607?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0SEAGYMWY0HKFDQAV2JKNEX&hash=item1d3b1b12c7:g:vq4AAOSw0fhjPCQL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA9vMRiwWKWa8YaBDwOrz%2BG6hxBBbdjwC24X270qAxJBofWRLIOjmpnE5n8URkJCddry1r989vmpR3bFJE3tG67HrpiiTCQZOXjTUpaiVYoAdUZTjoxeAaHn89Nyzw3nQ1ZQJzp8sAnqwvGUw1SnjjQ6bqRKy6LHY8T8OJ8io63%2BOHa6rpbXcYzXmDZdc43sKknPi57tOe%2ByrX8iCFV1bVvLoEfgKGs1BlFDG6wKb1XXTyVDNfomSzMgTnAciNN3QnIO2MrBQp2mw0JrDsAv%2Blj10xnoEw3NURSw22UWsdyiA%3D%3D%7Ctkp%3ABk9SR9KPqq6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/vq4AAOSw0fhjPCQL/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787216884103
+        "lastSeen": 1787560344224
       },
-      "bestPsa9": {
-        "itemId": "237012041939",
-        "title": "Pokémon TCG Regirock Gold Star Card 91/92 Shiny EX Legend Maker PSA 9Opens in a new window or tab",
-        "priceC": 475000,
-        "shippingC": 548,
-        "landedC": 475548,
-        "url": "https://www.ebay.com/itm/237012041939?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0F6F596QF2WEP0C64HKMR0K&hash=item372f04c0d3:g:XXsAAeSwcZxqgyUi&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD1XK6HyvhQxq8TKYeCRGAsVwkYA4pqjUGZCZmG5c5PR8kwjCJb5tTy3igtJdZUMx0bPHJcay%2BfOPGQyyuqNA70kWU9d7ktun2mU1y%2BUK2IHQoMb3PCHNefGzXJyHP%2BQX2rrVtDibeGk7uFE%2FQoFP2RoY8cd4Iy8FHnoM76S43maxyBwCymMetwtUblLMDe1XNvy7wonQLMU%2B7jIx1LBdTTxef8FZ%2FhN%2BJFf5xbu3jPwo8Mfhx9qaQH3s8qyX98PhuowLSAOXoYKVQ1YzD7%2FAnNTtxECMkSA%2Fyaz8lY6UlzHA%3D%3D%7Ctkp%3ABk9SR_zUvOaDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/XXsAAeSwcZxqgyUi/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787216884103,
-        "lastSeen": 1787216884103
-      },
+      "bestPsa9": null,
       "counts": {
         "cgc10Bin": 3,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 2,
         "psa10Auction": 0,
-        "psa9Bin": 1
+        "psa9Bin": 0
       },
       "ratio": {
         "ok": true,
@@ -97,51 +84,37 @@
         "ratio": 2.477207659038762
       },
       "firstOpportunityAt": 1787216884103,
-      "updatedAt": 1787216884103
+      "updatedAt": 1787560344224
     },
     "prices": {
       "variantId": 11075,
-      "ungradedC": 107437,
-      "grade9C": 360363,
-      "grade95C": 396400,
+      "ungradedC": 107600,
+      "grade9C": 338843,
+      "grade95C": 372700,
       "cgc10C": 411430,
       "cgc10PristineC": 740600,
       "psa10C": 1464000,
       "psa9Pop": 280,
       "psa10Pop": 93,
-      "cgc10Pop": 0,
+      "cgc10Pop": null,
       "bgs10C": 1903200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787216344328
+      "fetchedAt": 1787560200689
     },
     "listings": [
-      {
-        "itemId": "237012041939",
-        "title": "Pokémon TCG Regirock Gold Star Card 91/92 Shiny EX Legend Maker PSA 9Opens in a new window or tab",
-        "priceC": 475000,
-        "shippingC": 548,
-        "landedC": 475548,
-        "url": "https://www.ebay.com/itm/237012041939?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0F6F596QF2WEP0C64HKMR0K&hash=item372f04c0d3:g:XXsAAeSwcZxqgyUi&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD1XK6HyvhQxq8TKYeCRGAsVwkYA4pqjUGZCZmG5c5PR8kwjCJb5tTy3igtJdZUMx0bPHJcay%2BfOPGQyyuqNA70kWU9d7ktun2mU1y%2BUK2IHQoMb3PCHNefGzXJyHP%2BQX2rrVtDibeGk7uFE%2FQoFP2RoY8cd4Iy8FHnoM76S43maxyBwCymMetwtUblLMDe1XNvy7wonQLMU%2B7jIx1LBdTTxef8FZ%2FhN%2BJFf5xbu3jPwo8Mfhx9qaQH3s8qyX98PhuowLSAOXoYKVQ1YzD7%2FAnNTtxECMkSA%2Fyaz8lY6UlzHA%3D%3D%7Ctkp%3ABk9SR_zUvOaDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/XXsAAeSwcZxqgyUi/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787216884103,
-        "lastSeen": 1787216884103
-      },
       {
         "itemId": "800529765353",
         "title": "2006 POKEMON EX LEGEND MAKER REGIROCK GOLD STAR #91/92 HOLO CGC 10 GM POP-16Opens in a new window or tab",
         "priceC": 490000,
         "shippingC": 1088,
         "landedC": 491088,
-        "url": "https://www.ebay.com/itm/800529765353?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0F6F596D1NQAHZ2S2NX25GK&hash=itemba634ad3e9:g:wtUAAeSwsDVqhIu4&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCqgZz1KjHb68UsZaFPDWm5kqJsRtHHWgt8U04mno5ssw43LRHPTwaMatE8RlyNIbCYoHW5W7cXqegZ%2B5RPwzJExmQ35uQwQhbyjaqfB3XBbIJrq4ThYF%2BZvKjyjgoUWJ5p92aYyvryAEGj6hxVJEZzhqHZ5Lcj8Aeu2WXW7JzQeCC1Juoj9Ga7P3YJvqyRUQugYCSqHXXEDK93%2BJyFzBYPqv0qxQ6Vdo1CeiNJx6ZnuTgSGTkxPK6eYXCJMVRHmqxel3WAYJ1ETmPOToJSJx3tidG3DBnpLuOfKAOpHEnjb6GxgEQXwW6gnnzKrOPiV5QpZ7iF933KJL6N50WnQTyQ%7Ctkp%3ABk9SR_zUvOaDaA",
+        "url": "https://www.ebay.com/itm/800529765353?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0SEAGYMD2RND44AMWJWAFBM&hash=itemba634ad3e9:g:wtUAAeSwsDVqhIu4&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCqgZz1KjHb68UsZaFPDWm5kqJsRtHHWgt8U04mno5ssw43LRHPTwaMatE8RlyNIbCYoHW5W7cXqegZ%2B5RPwzJExmQ35uQwQhbyjaqfB3XBbIJrq4ThYF%2BZvKjyjgoUWJ5jI1%2FX49usgZ42rTcIbo5%2Bw2pwtCGZdlTovlnMsFVylE8tn8uoMa9tTHpPjV1dd4F2OWp1RP9818wdinJqdGya%2BRDSrOs9XbFcYvVXPiaQDq7HryvWMzdEORD%2FOaEoVoMMIJyN9uz1TmRq4j7IHIcfioL0TbKIL4pMN%2BPbPv50cKBoXaWAj38%2FRAfCtHmxbkbOoqR9n1fmI6cNxRUSTcqu%7Ctkp%3ABk9SR9KPqq6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/wtUAAeSwsDVqhIu4/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787216884103
+        "lastSeen": 1787560344224
       },
       {
         "itemId": "204632916334",
@@ -149,13 +122,13 @@
         "priceC": 700000,
         "shippingC": 999,
         "landedC": 700999,
-        "url": "https://www.ebay.com/itm/204632916334?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0F6F596H6R5T7ZN6J6Y7ZXF&hash=item2fa512816e:g:HqsAAOSwlI1ltUls&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA9BvyCkRUKI%2FY9%2FlJ0ym%2BVrMa1xZ2m5rw620nNnwVytm6TU%2BGGrBPcc8%2FTdC1dI8d3G7GRzE1Z90iol1wpO9Ly2wjS41vLSL5AW%2B%2FE9pM%2Bs5PX66DcARQIFRANa79mSgErsGkjPIT1zalIs9WsqW%2FiluMmx9DuNtRxOEVDOOXioDfxdUwTUg%2FDg14ZTF9XvafByHhamd9eI9jcKwMD0AH9B5nJXAalLGv5bKFu%2FFqfs0201XGCjHbVS8UazIF9GlnypT5EKmsfBqPE8eThYhqEOQeoUQxmjdcQb7yUrMK0A5mIy4HNr56aMFa%2FtIDCa2m6EQmrokL%2B19N1KpsEmepy%7Ctkp%3ABk9SR_zUvOaDaA",
+        "url": "https://www.ebay.com/itm/204632916334?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0SEAGYMXHXVP9PME46059PW&hash=item2fa512816e:g:HqsAAOSwlI1ltUls&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA9BvyCkRUKI%2FY9%2FlJ0ym%2BVrMa1xZ2m5rw620nNnwVytm6TU%2BGGrBPcc8%2FTdC1dI8d3G7GRzE1Z90iol1wpO9Ly2wjS41vLSL5AW%2B%2FE9pM%2Bs5PX66DcARQIFRANa79mSgFLivsK9%2BmlRz0pQHdPoHLMuGYUi32%2BjQ4nEk8V7ey6nXqNU3tqrexlzIm7%2FNq0ryV5sWpq1WI2%2F03HCk8%2BhPRH2fiGTzn1Y2WbocwBstETySvThyWs4%2FmNhFpTwjc2Q9aSTLDH6et9biB2vKV0EiUvGRnHArT6OIGPi1dQa5iHVpmDA5Ww9pRv8dLJiG1nK49%2Fc%2FDpB2Vi8XM4A2bhe6qY%7Ctkp%3ABk9SR9KPqq6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HqsAAOSwlI1ltUls/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787216884103
+        "lastSeen": 1787560344224
       },
       {
         "itemId": "366610252235",
@@ -163,13 +136,13 @@
         "priceC": 799999,
         "shippingC": 2500,
         "landedC": 802499,
-        "url": "https://www.ebay.com/itm/366610252235?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0F6F5964EN0CPZWEB6E0BK5&hash=item555bac81cb:g:rBAAAeSwNz9qgnLO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAYkx%2BGLw3Z1RvNmExWrh7j%2BIvX%2Fdu9H4%2FMcbgFSo1YmqJQOwKJtzvKpTV9JKDjGHSOBj5AYdETTp3xcxMcau%2Bfx%2BE96RwG5P1Vd35gpprR%2FP8XfFiyZApKT6ZHQtpOsIyDn%2F6ONaEAAC49sAQZEAJT%2FGaic%2B5%2BndDDtSzCUqIrDb1naRlLFYSYB%2BUs%2FQZ80gG%2FAUcKEql%2FxY5v%2Bf03p9pYGADD6MvtLUQlSZqNwpLS%2FQqaAUDoQmmvtqMBr1jytIuAK4Zt6x5HFCbF2HpjATBhV1FCeeT3OzG8%2FEngMfrIdQ%3D%3D%7Ctkp%3ABk9SR_zUvOaDaA",
+        "url": "https://www.ebay.com/itm/366610252235?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0SEAGYM6C2Z9R0J3NER6FJZ&hash=item555bac81cb:g:rBAAAeSwNz9qgnLO&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAYkx%2BGLw3Z1RvNmExWrh7j%2BIvX%2Fdu9H4%2FMcbgFSo1YmqKPhhlIO7zm90xSD6e7bw2j%2BJlIbKb4UqeUTKG%2Fi9qwpCWNmQK73y5PmfC1lkW1PhwVducl%2FLHs6%2BtBR5eesKwvcudyzO2XQhzpQ%2BZ79i90gbJEidIQwqHMJuVZ8wK%2BaA87gft3TZv3yvzdH9rKWkoHB8npup6rI8nMbqhIzuqYDq0l8ID4WSkpYSiuYGJeGsmxFo%2FtrA%2BeUiOUu8Z4MRP2vBsfVj%2BMqdTb14aTJP1rczDyCvEI%2Ft70vKAtkty6Pw%3D%3D%7Ctkp%3ABk9SR9KPqq6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/rBAAAeSwNz9qgnLO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787216884103
+        "lastSeen": 1787560344224
       },
       {
         "itemId": "125545681607",
@@ -177,13 +150,13 @@
         "priceC": 2400000,
         "shippingC": 0,
         "landedC": 2400000,
-        "url": "https://www.ebay.com/itm/125545681607?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0F6F596PMGDTV2VZ2P55W4W&hash=item1d3b1b12c7:g:vq4AAOSw0fhjPCQL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA9vMRiwWKWa8YaBDwOrz%2BG6hxBBbdjwC24X270qAxJBhwrZnxiKLpV2wgpeSxS2vjLhrW9pMf%2Fe5i7A4xdS3xRxm78cYM1rgI0vUnI2piezeHOwJUhT2vzoITyeQkeCVDF%2BedtcwJrTgyEUhM1Jov1M%2Fbm4kRB%2B5%2FvbRB7H4XGhYv8WsAHCEj5KVY8MToBCBygQmdSNgBsbmYFne96QTEddeFNZvjLgjnrT6043PkXWQsJPeGsLZaQGvrHQYP%2BK%2FI%2F5Z5l6aOeK%2Fbr3FDXsSXffJFKSYfBW0nZA7J5phsb5g%3D%3D%7Ctkp%3ABk9SR_7UvOaDaA",
+        "url": "https://www.ebay.com/itm/125545681607?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0SEAGYMWY0HKFDQAV2JKNEX&hash=item1d3b1b12c7:g:vq4AAOSw0fhjPCQL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA9vMRiwWKWa8YaBDwOrz%2BG6hxBBbdjwC24X270qAxJBofWRLIOjmpnE5n8URkJCddry1r989vmpR3bFJE3tG67HrpiiTCQZOXjTUpaiVYoAdUZTjoxeAaHn89Nyzw3nQ1ZQJzp8sAnqwvGUw1SnjjQ6bqRKy6LHY8T8OJ8io63%2BOHa6rpbXcYzXmDZdc43sKknPi57tOe%2ByrX8iCFV1bVvLoEfgKGs1BlFDG6wKb1XXTyVDNfomSzMgTnAciNN3QnIO2MrBQp2mw0JrDsAv%2Blj10xnoEw3NURSw22UWsdyiA%3D%3D%7Ctkp%3ABk9SR9KPqq6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/vq4AAOSw0fhjPCQL/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787216884103
+        "lastSeen": 1787560344224
       },
       {
         "itemId": "137320924431",
@@ -191,17 +164,30 @@
         "priceC": 2488800,
         "shippingC": 800,
         "landedC": 2489600,
-        "url": "https://www.ebay.com/itm/137320924431?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0F6F596GTAQ2CEEMR9HQVZN&hash=item1ff8f7050f:g:jd8AAeSwi~Jpsh68&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAJEEQQzrmG7SwMTncHRC9Px1TGjkSSgX7QTx0loHLmAwAJ6JyHs4z%2BE%2B3gS%2Fj4IcPGwzNdDb%2Bw2CyqJeG2IEl5V9wZ1L5PO1r6DuCTkM8c%2BelOchUwrczr18FUQw%2BcLwgKdGA12qyD2KmiwKt4jNHOkYT9a1S7YN9bPwmpCeztaA1JLW279DBq9Xf%2B3s2HoIeyd5lO%2FFlu87LsHaBkN10Juc3cTxmqRvBlUJgJpmaO3tVW3%2BaMugjCXeOw8YRUoQKCKjkBbYmU88phh0syLqZkZNgJISbTUuPSQ6K%2Fv6zOqJz875iKetTUB9rIEGjYcLYG%2Fq6tYVDT1O5QR4Uh8hkf%7Ctkp%3ABk9SR_7UvOaDaA",
+        "url": "https://www.ebay.com/itm/137320924431?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0SEAGYM9XA97ESB1V7S54SX&hash=item1ff8f7050f:g:jd8AAeSwi~Jpsh68&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAJEEQQzrmG7SwMTncHRC9Px1TGjkSSgX7QTx0loHLmAwAJ6JyHs4z%2BE%2B3gS%2Fj4IcPGwzNdDb%2Bw2CyqJeG2IEl5V9wZ1L5PO1r6DuCTkM8c%2BelOchUwrczr18FUQw%2BcLwgxP54WlGOjgMOJLaQ1qjk2B0fB%2FacLIeZHldv467G7%2FxyrL%2FbdD0WTBQtnNaVw3S2ER2gJpen6hVuXoncv%2FLAAhqMW%2FA1Q%2FW059%2BLtkpDF--p%2BxzYaR6TyoTuet4fBKQ6y34jrL6Yj7wtEyH51R0Hnge3LjidUq%2FXb4%2BSKyl6jIf5P4lv0v5PKKNkn%2FlHufa6GTBRbIM3cPqkmmLX4QIHx%7Ctkp%3ABk9SR9KPqq6GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/jd8AAeSwi~Jpsh68/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787216884103
+        "lastSeen": 1787560344224
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 4186197,
+          "saleDate": "2026-08-23",
+          "priceC": 118703,
+          "title": "Pokemon Cards: EX Legend Maker Rare Holo: Regirock Gold Star 91/92 #91",
+          "url": "https://www.ebay.com/itm/318718008213?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 1414678,
           "saleDate": "2026-08-20",
@@ -1748,19 +1734,6 @@
           "gradingGrade": 6,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 1414638,
-          "saleDate": "2026-03-10",
-          "priceC": 63291,
-          "title": "Pokemon: Regirock - Shiny Gold Star Holo - 91/92 EX - Legend Maker - 2006 91/92",
-          "url": "https://www.ebay.com/itm/317950020379?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "raw",
-          "gradingCompany": null,
-          "gradingGrade": null,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1870,9 +1843,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 281,
+      "englishSaleCount": 282,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787216341795
+      "lastCapturedAt": 1787560198953
     }
   }
 }

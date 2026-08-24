@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 1814,
@@ -29,7 +29,7 @@
         "psa10Pop": 184,
         "cgc10Pop": 21,
         "salesVolumeJson": "{\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\",\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787211674025
+        "fetchedAt": 1787557039305
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -44,7 +44,7 @@
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787211674025
+      "updatedAt": 1787557039305
     },
     "prices": {
       "variantId": 1814,
@@ -59,26 +59,52 @@
       "cgc10Pop": 21,
       "bgs10C": 852000,
       "salesVolumeJson": "{\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\",\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787211674025
+      "fetchedAt": 1787557039305
     },
     "listings": [
       {
         "itemId": "287524901420",
         "title": "Pokemon Shining Steelix Neo Destiny 1st Edition 112/105 Holo CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 92500,
+        "priceC": 158500,
         "shippingC": 999,
-        "landedC": 93499,
-        "url": "https://www.ebay.com/itm/287524901420?_skw=%28shining%2Csteelix%29+%28112%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363476&itmmeta=01M0F1YG5NBZ46H563EX08W5B0&hash=item42f1d1d22c:g:i0EAAeSwqgRqfyoz&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBjGkks%2BZyMJdeaJ9fqF6eHpzE%2FgiAmly0k7KzTBOvxTkzk0wayZfKJ79K6fE3Oj6hLToOGiU5yWUi7cEd9Z8uEpJRrkNeQWAhx9XT8T--dyo8nnYM5p4nyGZkhETVEY8mvcBu91EV09Ww%2BoiZAIcBjWBFV44dIHaJAOpmX3N6uOwfrnr75zn08H9EOPl4e%2FborIs5RvNy412S%2Bw3R8juQPmZCfOJXMtnY4Tlc910b2BT4O2t%2FO4yJFCJ3B4wbyxoaK2KeoajyJu42wbB%2Bo3HAcpH%2Fh3e4Iyuar8JL9UHQUlPa4OCQNhfDXkTn4ojZCM7R0lle5zVlLLLS9XxupHneW%7Ctkp%3ABk9SR6CD-uGDaA",
+        "landedC": 159499,
+        "url": "https://www.ebay.com/itm/287524901420?_skw=%28shining%2Csteelix%29+%28112%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=25043363476&itmmeta=01M0PSDBFB555BEFRK69R9CFF8&hash=item42f1d1d22c:g:i0EAAeSwqgRqfyoz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCxMhHE4lBfjozdwG5SWKwZvSeUenz3kTQJEJ09ydW8PJEfr6KZY1eZBud4sYO7b4dAex2fLWXzuk6zgKt05dKfD6su0GZynfnnRVHPhhhPssPjn2soychmRk%2BCWo5xGvUePzOcpGxySRo0No0G6vPg0KxXruraKlcZg0ZuFUnbsSCuEZTDMkvmjmGQDjwtDzdYH2H4OflUbhX8CNEifv8EX3TwcALmKkRSv5jJMAQziPNJ4xK1qeCcAYBWuyO6bH5bJDTzj9aoVQDrpWELuacY6eHf1x6%2BK698zmC%2BTWkC0A%3D%3D%7Ctkp%3ABk9SR4K4tdmFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/i0EAAeSwqgRqfyoz/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1787211928516
+        "lastSeen": 1787471456733
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3834436,
+          "saleDate": "2026-08-23",
+          "priceC": 233500,
+          "title": "Pokemon Shining Steelix Neo Destiny 1st Edition 112/105 Holo CGC 10 Gem Mint 112/105",
+          "url": "https://www.ebay.com/itm/287524901420?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 10,
+          "gradingDesignation": "gem-mint",
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3156869,
+          "saleDate": "2026-08-22",
+          "priceC": 71777,
+          "title": "Pokémon TCG 2002 NEO DESTINY 1st Edition #112/105 Shining Steelix Holo UR 112/105",
+          "url": "https://www.ebay.com/itm/137613659827?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 310114,
           "saleDate": "2026-07-29",
@@ -1612,32 +1638,6 @@
           "gradingGrade": 1.5,
           "gradingDesignation": null,
           "agreementStatus": "mismatch"
-        },
-        {
-          "id": 310182,
-          "saleDate": "2025-06-27",
-          "priceC": 65000,
-          "title": "2002 Pokemon Neo Destiny 112 Shining Steelix 1st Edition PSA 7 52227193 Graded P",
-          "url": "https://www.ebay.com/itm/204919288092?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 310085,
-          "saleDate": "2025-06-16",
-          "priceC": 190000,
-          "title": "Pokemon PSA 10 GEM MINT Shining Steelix 1st Edition 112/105 Neo Destiny 2002 112/105",
-          "url": "https://www.ebay.com/itm/226815771984?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1722,9 +1722,9 @@
           "count": 3
         }
       ],
-      "englishSaleCount": 202,
+      "englishSaleCount": 205,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787211672344
+      "lastCapturedAt": 1787557037475
     }
   }
 }

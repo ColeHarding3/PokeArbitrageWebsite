@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 4363,
@@ -29,7 +29,7 @@
         "psa10Pop": 13,
         "cgc10Pop": 15,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 4 sales per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787214770532
+        "fetchedAt": 1787559649903
       },
       "bestCgc10": {
         "itemId": "267733358900",
@@ -37,13 +37,13 @@
         "priceC": 69900,
         "shippingC": 572,
         "landedC": 70472,
-        "url": "https://www.ebay.com/itm/267733358900?_skw=%28plusle%29+%2839%2Cemerald%29+%28CGC%2CPSA%29&epid=20043375915&itmmeta=01M0F4XK28WHE8VBPWN1RS7XWZ&hash=item3e5626d934:g:l58AAeSw1uFqXiLP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC%2Fhje5Nx%2BiglQUz%2FPbGCVJVysmIoW%2FpBm9uIbbUmAUvR7EtkmzhfObheG10Wec%2F9fnOqRoz9463wXfT9G7gt7I3x0swtoGM9wMtkJJD1ASBsiiO8peBQxsiDz1b9%2BJ2PQm3ny4MT0YVG8SxZNF88ihNi8b1H4YxJLWzek8qrT2HGY8C9PJKtbIE959OXBlQYS%2BW206b0yf%2FXJE3SiAGMUNjY7cY%2F1nOl9AXgNkwyKfMUlevJ6Lspy%2FIOBJt6gyNq88dHLUq7Nnv5dRL7yYiL6VdlGfyqdfD7GPvjR7--21RATJisfvrRei7v6UnOPMxKo%3D%7Ctkp%3ABk9SR7Sx9uSDaA",
+        "url": "https://www.ebay.com/itm/267733358900?_skw=%28plusle%29+%2839%2Cemerald%29+%28CGC%2CPSA%29&epid=20043375915&itmmeta=01M0SDSDKCKSWWN5VVP5YNS3QM&hash=item3e5626d934:g:l58AAeSw1uFqXiLP&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA0UiEnKi9PhYFdINxLnGFXRyh%2FYcoNtwhbJ9l8gCplXmLakMVaCS3n0DOGqrUqjIzaIOD5I2lJzURQhhiBOzqIfk24ZpWDaw6rp23I0BU%2B2eiBBbxZme1LX3AWZ2QLMmaqhNwib3TKFeJ%2BBdAOEovfBiAlvMQAK8%2FafBbZqjKgY4p61YmxUT2gN55mrRa1A6m%2Fi1kuSRH%2BP3lXVizYDx6uejmMKsdIPJOA2Hiugzb1jVRjugvizwtCeORa8j6Qn3N13i3CLskEGwKpINbwMHy%2B%7Ctkp%3ABk9SR_TZ5a2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/l58AAeSw1uFqXiLP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787140865995,
-        "lastSeen": 1787215079202
+        "lastSeen": 1787559754294
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -71,7 +71,7 @@
         "ratio": 1.0472021511131502
       },
       "firstOpportunityAt": 1787140865995,
-      "updatedAt": 1787215079202
+      "updatedAt": 1787559754294
     },
     "prices": {
       "variantId": 4363,
@@ -86,7 +86,7 @@
       "cgc10Pop": 15,
       "bgs10C": 106800,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 4 sales per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787214770532
+      "fetchedAt": 1787559649903
     },
     "listings": [
       {
@@ -95,13 +95,13 @@
         "priceC": 69900,
         "shippingC": 572,
         "landedC": 70472,
-        "url": "https://www.ebay.com/itm/267733358900?_skw=%28plusle%29+%2839%2Cemerald%29+%28CGC%2CPSA%29&epid=20043375915&itmmeta=01M0F4XK28WHE8VBPWN1RS7XWZ&hash=item3e5626d934:g:l58AAeSw1uFqXiLP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC%2Fhje5Nx%2BiglQUz%2FPbGCVJVysmIoW%2FpBm9uIbbUmAUvR7EtkmzhfObheG10Wec%2F9fnOqRoz9463wXfT9G7gt7I3x0swtoGM9wMtkJJD1ASBsiiO8peBQxsiDz1b9%2BJ2PQm3ny4MT0YVG8SxZNF88ihNi8b1H4YxJLWzek8qrT2HGY8C9PJKtbIE959OXBlQYS%2BW206b0yf%2FXJE3SiAGMUNjY7cY%2F1nOl9AXgNkwyKfMUlevJ6Lspy%2FIOBJt6gyNq88dHLUq7Nnv5dRL7yYiL6VdlGfyqdfD7GPvjR7--21RATJisfvrRei7v6UnOPMxKo%3D%7Ctkp%3ABk9SR7Sx9uSDaA",
+        "url": "https://www.ebay.com/itm/267733358900?_skw=%28plusle%29+%2839%2Cemerald%29+%28CGC%2CPSA%29&epid=20043375915&itmmeta=01M0SDSDKCKSWWN5VVP5YNS3QM&hash=item3e5626d934:g:l58AAeSw1uFqXiLP&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA0UiEnKi9PhYFdINxLnGFXRyh%2FYcoNtwhbJ9l8gCplXmLakMVaCS3n0DOGqrUqjIzaIOD5I2lJzURQhhiBOzqIfk24ZpWDaw6rp23I0BU%2B2eiBBbxZme1LX3AWZ2QLMmaqhNwib3TKFeJ%2BBdAOEovfBiAlvMQAK8%2FafBbZqjKgY4p61YmxUT2gN55mrRa1A6m%2Fi1kuSRH%2BP3lXVizYDx6uejmMKsdIPJOA2Hiugzb1jVRjugvizwtCeORa8j6Qn3N13i3CLskEGwKpINbwMHy%2B%7Ctkp%3ABk9SR_TZ5a2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/l58AAeSw1uFqXiLP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787140865995,
-        "lastSeen": 1787215079202
+        "lastSeen": 1787559754294
       }
     ],
     "marketHistory": {
@@ -250,11 +250,37 @@
           "agreementStatus": "match"
         },
         {
+          "id": 3288225,
+          "saleDate": "2026-07-08",
+          "priceC": 26000,
+          "title": "Pokemon Card - Plusle EX Emerald 39/106 Reverse Holo Uncommon Stamped NM #39 39/106",
+          "url": "https://www.ebay.com/itm/178270875946?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 589389,
           "saleDate": "2026-06-30",
           "priceC": 6000,
           "title": "Pokemon Card - Plusle EX Emerald 39/106 Reverse Holo Uncommon Stamped MP 39/106",
           "url": "https://www.ebay.com/itm/398121802823?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3288227,
+          "saleDate": "2026-06-25",
+          "priceC": 24136,
+          "title": "Plusle 39/106 Ex Emerald Stamped Reverse Holo NM/Mint - Pokemon TCG 39/106",
+          "url": "https://www.ebay.com/itm/800175478755?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1269,9 +1295,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 85,
+      "englishSaleCount": 87,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787214768720
+      "lastCapturedAt": 1787559648175
     }
   }
 }

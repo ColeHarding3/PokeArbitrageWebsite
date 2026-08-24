@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 4079,
@@ -18,8 +18,8 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/aa7a1e13c1b59034a97a6398fa7b40594f7c43f71f959ea2fe7ce826c620368b/1600.jpg",
       "popularityScore": 84,
       "market": {
-        "ungradedC": 1215,
-        "grade9C": 24315,
+        "ungradedC": 1291,
+        "grade9C": 24785,
         "grade95C": 25000,
         "cgc10C": 373500,
         "cgc10PristineC": 672300,
@@ -27,9 +27,9 @@
         "bgs10C": 809300,
         "psa9Pop": 102,
         "psa10Pop": 14,
-        "cgc10Pop": 0,
+        "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787213999381
+        "fetchedAt": 1787559193856
       },
       "bestCgc10": {
         "itemId": "227401407864",
@@ -37,13 +37,13 @@
         "priceC": 250000,
         "shippingC": 945,
         "landedC": 250945,
-        "url": "https://www.ebay.com/itm/227401407864?_skw=%28swampert%29+%285%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=19043376284&itmmeta=01M0F43AEY7CEKKRT67HMMYERG&hash=item34f22e1d78:g:pbkAAeSwWW5qOucz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB1ejZRt%2F6CRgiJXBBtRGPm8KTp%2FrW7aP5UGrqdxihzshWEp94p%2FhQwWQDs%2FYKyMuem9Eyl5M2lOL2OGboTTu3vFdDPnl2T9SLNETzMi7%2BNgIfsT%2FNj9Y2Nvr1d43TT7HxhkvBvL7AxqtUdQyrn0wmD2enqnJRnZfZonIiB%2FjLKgsZc5m1NTh5nVAS1XBgm73YQYZHuqp9139x%2FtL%2BcQ0JYnVj5U66%2BAFaH6p5eTVdOmQVxCuVdNLl%2B2T2sfOhK3x6g3SmIa6Ku7rMxnSzO4NlzW3V%2BDVl5UhxECWeUloCM78P2JjjdogPechb2GTIpHvQ%3D%7Ctkp%3ABk9SR9anjeSDaA",
+        "url": "https://www.ebay.com/itm/227401407864?_skw=%28swampert%29+%285%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=19043376284&itmmeta=01M0SD9MZ4P1ZKNZR2TZKPWN6X&hash=item34f22e1d78:g:pbkAAeSwWW5qOucz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB1ejZRt%2F6CRgiJXBBtRGPm8KTp%2FrW7aP5UGrqdxihzshWEp94p%2FhQwWQDs%2FYKyMuem9Eyl5M2lOL2OGboTTu3vFdDPnl2T9SLNETzMi7%2BNgIfsT%2FNj9Y2Nvr1d43TT7Hyu%2FsEoG1oDswha26Qd4rdxcGbb7fEAwtXFRELKhNo4gkYLF6iy3%2FKCPx8Sk88EIyemn0OQ8Tt%2BImcOOsu22r6WhSiV8Xkj7we7Hv%2FITIWpa2lZ1oEKlc8QWlLMpOTrBUyWnrH9AU5c%2Bvrh9qxUglB7f1%2B4DjTE0JMom5S0eua1Oeh0SY0%2BhjMVqbWh9MmcdCY%3D%7Ctkp%3ABk9SR-zPpq2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/pbkAAeSwWW5qOucz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787214129046
+        "lastSeen": 1787559239530
       },
       "bestPsa10": {
         "itemId": "327029378710",
@@ -51,13 +51,13 @@
         "priceC": 199995,
         "shippingC": 0,
         "landedC": 199995,
-        "url": "https://www.ebay.com/itm/327029378710?_skw=%28swampert%29+%285%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=15043377864&itmmeta=01M0F43AEY2K5J31VWP7S8DQNA&hash=item4c24784e96:g:EJ4AAeSwIZNpqNUt&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD4xEGs0toWNf0G5KJkiEsP%2Fi2ZlhCr2BrmjBUOsIZdk509iJwceVCV8DyuV0bSu52PFeWjZqsikiwS284ro3vH1WhLxirJp2aTns9L79Vg176okUG4GBcm67nUQ9CpmR6tU2rQgGb93UwkHZGXNi3eVH%2FninIcl3cTbtwo0r5POE0SoHtNAKxR7A1RbRYamm1FP%2FlTxFey%2FTq3s7EUkwZ7%2BzyevjTyN5g6A5O%2BHusrEKsTOgw3Bj0Px%2BzipBBQR%2BNkUB3nwGAuYvR2RihkAbjp%7Ctkp%3ABk9SR9anjeSDaA",
+        "url": "https://www.ebay.com/itm/327029378710?_skw=%28swampert%29+%285%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=15043377864&itmmeta=01M0SD9MZ4VGMVJJM7XM1XWHZ3&hash=item4c24784e96:g:EJ4AAeSwIZNpqNUt&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBdmUt6n%2BRNZbPJuUuJ5nArZ%2BDel6EWlDGrerx5wVNmG8xtLipf68UMNCgErwvnkT8c7Wp8nR2Zxh6dK4BYEFiqg6O%2FWeZKI2z7fNsjSPqXxLzSE4UZF1ewc2yrGgj3PlLITkAK3bd4KGqh3Gw9ygfoudxBNjW75%2FTs2sQiTfpH%2BwXDYqTQqUV3z3lJy15ObiynkjQzM2Gv8u7byeHHTOiURPfkvqGC4%2BQ619UTowPIfa4nmPjfbmHAOUH%2BiG8dm59NyHvfBVK8UPIDxVlvMrog4c%2Fd%2BFxTqT2S5GJuCiuZPMu1fcK1ICkuky4cIgcy%2F0Q%3D%7Ctkp%3ABk9SR-zPpq2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EJ4AAeSwIZNpqNUt/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787214129046
+        "lastSeen": 1787559239530
       },
       "bestPsa9": null,
       "counts": {
@@ -84,22 +84,22 @@
         "ratio": 2.0026058003184866
       },
       "firstOpportunityAt": 1787061558184,
-      "updatedAt": 1787214129046
+      "updatedAt": 1787559239530
     },
     "prices": {
       "variantId": 4079,
-      "ungradedC": 1215,
-      "grade9C": 24315,
+      "ungradedC": 1291,
+      "grade9C": 24785,
       "grade95C": 25000,
       "cgc10C": 373500,
       "cgc10PristineC": 672300,
       "psa10C": 622500,
       "psa9Pop": 102,
       "psa10Pop": 14,
-      "cgc10Pop": 0,
+      "cgc10Pop": null,
       "bgs10C": 809300,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787213999381
+      "fetchedAt": 1787559193856
     },
     "listings": [
       {
@@ -108,13 +108,13 @@
         "priceC": 199995,
         "shippingC": 0,
         "landedC": 199995,
-        "url": "https://www.ebay.com/itm/327029378710?_skw=%28swampert%29+%285%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=15043377864&itmmeta=01M0F43AEY2K5J31VWP7S8DQNA&hash=item4c24784e96:g:EJ4AAeSwIZNpqNUt&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD4xEGs0toWNf0G5KJkiEsP%2Fi2ZlhCr2BrmjBUOsIZdk509iJwceVCV8DyuV0bSu52PFeWjZqsikiwS284ro3vH1WhLxirJp2aTns9L79Vg176okUG4GBcm67nUQ9CpmR6tU2rQgGb93UwkHZGXNi3eVH%2FninIcl3cTbtwo0r5POE0SoHtNAKxR7A1RbRYamm1FP%2FlTxFey%2FTq3s7EUkwZ7%2BzyevjTyN5g6A5O%2BHusrEKsTOgw3Bj0Px%2BzipBBQR%2BNkUB3nwGAuYvR2RihkAbjp%7Ctkp%3ABk9SR9anjeSDaA",
+        "url": "https://www.ebay.com/itm/327029378710?_skw=%28swampert%29+%285%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=15043377864&itmmeta=01M0SD9MZ4VGMVJJM7XM1XWHZ3&hash=item4c24784e96:g:EJ4AAeSwIZNpqNUt&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBdmUt6n%2BRNZbPJuUuJ5nArZ%2BDel6EWlDGrerx5wVNmG8xtLipf68UMNCgErwvnkT8c7Wp8nR2Zxh6dK4BYEFiqg6O%2FWeZKI2z7fNsjSPqXxLzSE4UZF1ewc2yrGgj3PlLITkAK3bd4KGqh3Gw9ygfoudxBNjW75%2FTs2sQiTfpH%2BwXDYqTQqUV3z3lJy15ObiynkjQzM2Gv8u7byeHHTOiURPfkvqGC4%2BQ619UTowPIfa4nmPjfbmHAOUH%2BiG8dm59NyHvfBVK8UPIDxVlvMrog4c%2Fd%2BFxTqT2S5GJuCiuZPMu1fcK1ICkuky4cIgcy%2F0Q%3D%7Ctkp%3ABk9SR-zPpq2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EJ4AAeSwIZNpqNUt/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787214129046
+        "lastSeen": 1787559239530
       },
       {
         "itemId": "227401407864",
@@ -122,13 +122,13 @@
         "priceC": 250000,
         "shippingC": 945,
         "landedC": 250945,
-        "url": "https://www.ebay.com/itm/227401407864?_skw=%28swampert%29+%285%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=19043376284&itmmeta=01M0F43AEY7CEKKRT67HMMYERG&hash=item34f22e1d78:g:pbkAAeSwWW5qOucz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB1ejZRt%2F6CRgiJXBBtRGPm8KTp%2FrW7aP5UGrqdxihzshWEp94p%2FhQwWQDs%2FYKyMuem9Eyl5M2lOL2OGboTTu3vFdDPnl2T9SLNETzMi7%2BNgIfsT%2FNj9Y2Nvr1d43TT7HxhkvBvL7AxqtUdQyrn0wmD2enqnJRnZfZonIiB%2FjLKgsZc5m1NTh5nVAS1XBgm73YQYZHuqp9139x%2FtL%2BcQ0JYnVj5U66%2BAFaH6p5eTVdOmQVxCuVdNLl%2B2T2sfOhK3x6g3SmIa6Ku7rMxnSzO4NlzW3V%2BDVl5UhxECWeUloCM78P2JjjdogPechb2GTIpHvQ%3D%7Ctkp%3ABk9SR9anjeSDaA",
+        "url": "https://www.ebay.com/itm/227401407864?_skw=%28swampert%29+%285%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=19043376284&itmmeta=01M0SD9MZ4P1ZKNZR2TZKPWN6X&hash=item34f22e1d78:g:pbkAAeSwWW5qOucz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB1ejZRt%2F6CRgiJXBBtRGPm8KTp%2FrW7aP5UGrqdxihzshWEp94p%2FhQwWQDs%2FYKyMuem9Eyl5M2lOL2OGboTTu3vFdDPnl2T9SLNETzMi7%2BNgIfsT%2FNj9Y2Nvr1d43TT7Hyu%2FsEoG1oDswha26Qd4rdxcGbb7fEAwtXFRELKhNo4gkYLF6iy3%2FKCPx8Sk88EIyemn0OQ8Tt%2BImcOOsu22r6WhSiV8Xkj7we7Hv%2FITIWpa2lZ1oEKlc8QWlLMpOTrBUyWnrH9AU5c%2Bvrh9qxUglB7f1%2B4DjTE0JMom5S0eua1Oeh0SY0%2BhjMVqbWh9MmcdCY%3D%7Ctkp%3ABk9SR-zPpq2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/pbkAAeSwWW5qOucz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787214129046
+        "lastSeen": 1787559239530
       }
     ],
     "marketHistory": {
@@ -498,6 +498,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 2467140,
+          "saleDate": "2026-07-27",
+          "priceC": 2500,
+          "title": "Pokemon Swampert swirl 🌀 5/17 POP Series 1 Holo Rare Eng 2004 100HP Stage 2 5/17",
+          "url": "https://www.ebay.com/itm/198525304142?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 555598,
           "saleDate": "2026-07-27",
           "priceC": 99,
@@ -542,6 +555,45 @@
           "priceC": 1439,
           "title": "Swampert 5/17 Holo Rare POP Series 1 Pokemon Cards 5/17",
           "url": "https://www.ebay.com/itm/278215439400?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2467198,
+          "saleDate": "2026-07-24",
+          "priceC": 10850,
+          "title": "2006 POKEMON POP SERIES 1 SWAMPERT #5/17 RARE PROMO HOLO FOIL PSA 8 B E7 5/17",
+          "url": "https://www.ebay.com/itm/358777102426?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2467169,
+          "saleDate": "2026-07-24",
+          "priceC": 40700,
+          "title": "2006 POKEMON POP SERIES 1 SWAMPERT #5/17 RARE PROMO HOLO FOIL PSA 9 E7 5/17",
+          "url": "https://www.ebay.com/itm/358782573250?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2467143,
+          "saleDate": "2026-07-24",
+          "priceC": 2499,
+          "title": "Swampert 5/17 Holo Rare POP Series 1 Pokemon Excellent 5/17",
+          "url": "https://www.ebay.com/itm/267730983184?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1640,58 +1692,6 @@
           "gradingGrade": 8,
           "gradingDesignation": "nm-mt",
           "agreementStatus": "match"
-        },
-        {
-          "id": 555664,
-          "saleDate": "2024-11-12",
-          "priceC": 1650,
-          "title": "2004 Pokemon POP Series 1 #5/17 Swampert Cosmos Holo CGC 8 NM-MT",
-          "url": "https://www.ebay.com/itm/365213486681?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 555648,
-          "saleDate": "2024-10-28",
-          "priceC": 3000,
-          "title": "CGC 9 MINT Swampert 5/17 Pop Series 1 Cosmos Holo Rare Graded Pokemon Card psa 5/17",
-          "url": "https://www.ebay.com/itm/286021571490?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "ambiguous",
-          "gradingCompany": "CGC",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "unverifiable"
-        },
-        {
-          "id": 555666,
-          "saleDate": "2024-08-31",
-          "priceC": 2000,
-          "title": "Pokémon Swampert 5/17 POP Series 1 Holo Rare CGC 8.5 #5",
-          "url": "https://www.ebay.com/itm/296633539662?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8.5,
-          "gradingDesignation": null,
-          "agreementStatus": "mismatch"
-        },
-        {
-          "id": 555649,
-          "saleDate": "2024-08-20",
-          "priceC": 2700,
-          "title": "Pokémon Swampert 5/17 POP Series 1 Holo Rare CGC 9 #5",
-          "url": "https://www.ebay.com/itm/296640690369?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1716,9 +1716,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 144,
+      "englishSaleCount": 148,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787213997147
+      "lastCapturedAt": 1787559191635
     }
   }
 }

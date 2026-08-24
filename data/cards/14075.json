@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 14075,
@@ -18,8 +18,8 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/28becad224c3f350facf0e50a382fe55688957cc554a1a062ec3e8c436bd50c7/1600.jpg",
       "popularityScore": 96,
       "market": {
-        "ungradedC": 3407,
-        "grade9C": 12500,
+        "ungradedC": 3396,
+        "grade9C": 13375,
         "grade95C": 14825,
         "cgc10C": 23000,
         "cgc10PristineC": 41400,
@@ -29,53 +29,80 @@
         "psa10Pop": 118,
         "cgc10Pop": 3,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787223142131
+        "fetchedAt": 1787563234919
       },
-      "bestCgc10": null,
+      "bestCgc10": {
+        "itemId": "800547007492",
+        "title": "CGC Gem Mint 10 ~ Charizard GX ~ Pokémon Burning Shadows ~ #20Opens in a new window or tab",
+        "priceC": 12500,
+        "shippingC": 600,
+        "landedC": 13100,
+        "url": "https://www.ebay.com/itm/800547007492?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBEFWA46MXQEAKHCN4CPM&hash=itemba6451ec04:g:5pQAAeSwJnVp-pxT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDsgYAO8BOk6LAhvED%2FBEt2LilblOFWPagBtgp72945gWkQwj6WzhcWDw2QsgMoj5YW6snetFQiKk5KDRHWmSiuo%2BqLYiG94ff6vpiqhUA%2BpQwUjsdhbZo0f5oylzroeHM9jRcP8vVBgncPAxk8VgK%2Bb4L59TQ4dCUtyifuyFFJdX25j0wCsFPK84uo8%2BG2jgSKTkTugnqAtxWlmLmzdg7VGQCARLWM5QiRjlhgNmERQkvdUV1CyfF82%2BQ9cjfBauK6yv%2BKlBoAhNm7xTSjK4%2BHsxWutaekbfhxO7mE0ggzGQ%3D%3D%7Ctkp%3ABk9SR57orbGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/5pQAAeSwJnVp-pxT/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787390987599,
+        "lastSeen": 1787563481579
+      },
       "bestPsa10": {
-        "itemId": "307133961864",
-        "title": "Pokemon Company Charizard GX 20/147 Burning Shadows Holo GX PSA 10 2017 ENOpens in a new window or tab",
-        "priceC": 14000,
-        "shippingC": 562,
-        "landedC": 14562,
-        "url": "https://www.ebay.com/itm/307133961864?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD33Z0623CZDZ6YYJVRVVS&hash=item47829c5688:g:I3wAAeSwhPJqhLhF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xADq6sxZFuzJXD0sU49kklnRqM5rt30JDYlcyxHtZ0%2FxWMjkTXEawibxnLZfnynKIZyU9KzoAuhqhxthrza0et4dmcDevgV9GlE2b3mLZZm26pQPUltumd9OIjvus1hVGpM6Zminr71TYD9WekEpM%2BDClZ%2B3%2FHTPtqtY2oypCsS4BHP%2B71mGsFcajKkz0YXYFzwpSqk6vD7bFxXESsDFIk6ynw9Cr%2B1U%2FTDjjtyEA3GgWNSkDjPlqwEqYT7sz7k1ffbhRHSK%2FgrX4iYOtA5UztM6KWaj%2F%2BjQNLY7dJG9zZ8uA%3D%3D%7Ctkp%3ABk9SR4DAjO2DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/I3wAAeSwhPJqhLhF/s-l500.webp",
+        "itemId": "366431921907",
+        "title": "2020 POKEMON DARKNESS ABLAZE CHARIZARD VMAX #20 ULTRA RARE PSA 10 GEM MINTOpens in a new window or tab",
+        "priceC": 17500,
+        "shippingC": 517,
+        "landedC": 18017,
+        "url": "https://www.ebay.com/itm/366431921907?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0SHBEFX8ZBC2DRMM3ZSWBHQ&hash=item55510b66f3:g:LZUAAeSwldpqE4oj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDRk%2FalUPD1xMqSurPAlKwQeKCzax6S79sOhHPSUBUqhD5gln9UGcf0fRnDplNvBlU9xI9Kcw5vfz2LR%2FaWaiELfprqNYEZMxvg7ANMG%2BV%2F6GkOfJeHMK3sKo0%2FWMQP2cirYbgISCqn1RXOIH3j8CJC1RE96%2BYH6%2B2RGTwz6NaxW0x%2Fa25ZwFSAXN0ytH%2FV6CVYZTqMZrNhu0dl%2BpP2kE%2BhqF3chL4h%2Fxo8JLLCBidt6vUytpgkUYSsCMHJSb0ye4RZgRIP%2BqlwNuNO0UiSxw2lx0W3vU941gfhe%2BSne7DyJQ%3D%3D%7Ctkp%3ABk9SR6DorbGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/LZUAAeSwldpqE4oj/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       "bestPsa9": {
-        "itemId": "800498305292",
-        "title": "PSA 9 RADIANT CHARIZARD CROWN ZENITH #20 (7828)Opens in a new window or tab",
-        "priceC": 3499,
-        "shippingC": 599,
-        "landedC": 4098,
-        "url": "https://www.ebay.com/itm/800498305292?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=5058603013&itmmeta=01M0FD2YKTP8YT5JN82GH3ED3D&hash=itemba616ac90c:g:4ZUAAeSwtBlqfNNX&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBDeWHlMXfXWiYnjbPgsDoboMVvOEAXNt%2BYwIWk%2FDNMdfgoKTsWJ3GS2MxKBF9%2B0%2BLszZ0aQWEWwBIGPci%2BdjHdzpHQwi1PfPSQFmht7lIRx3YR1s4HVmXaq2dduUanFJrOcOMGo50%2FNqWa5u0CPeYSMSHDNDRJ3f1Odljfi3V1ACoXqfcJUkwX%2BwMP14IrvF%2FyK2T81B4w9EVuY6lM6oo0Bi3ajkuFMytPUkkua2iuwfW%2BarczTHcfQwLwzz7Y4h3Kp4K7Tzbm36vjlvfwAoHoswfDNw6fLV6jx2ySN8I6EeyWqdhtA2M5uBzZAQxa9FhmPLchUN3oPdjwYcO1XXiC%7Ctkp%3ABk9SR6Tqi-2DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/4ZUAAeSwtBlqfNNX/s-l500.webp",
+        "itemId": "318303640758",
+        "title": "2023 Pokemon Radiant Charizard #20 Sword & Shield Crown Zenith Mint PSA 9Opens in a new window or tab",
+        "priceC": 3600,
+        "shippingC": 300,
+        "landedC": 3900,
+        "url": "https://www.ebay.com/itm/318303640758?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=5058603013&itmmeta=01M0SHB9NJZH32V0DYHTVV7E2Q&hash=item4a1c601cb6:g:XqoAAeSwpB1qBjND&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBjijOq01HCEvMr0ktJO%2FBxJ7DpXmtP%2BRhJPeSMFeOH3BSbLYw0eDgZNvKaLFJkepNZ%2FFM%2BXnDiHvV%2Fo6m67e47z95plfM0%2FHuDzRvmuf2fLjt%2FmBKqZK8Jgnfs20QvXFlmRa5t4dHDw8GAwlmHw4agy8mJ40dk%2FSatiWzeFzThIvTBNhSXUHFF81tuCB70OvCRKZ0ZR9hn5O6VuUCWd31jyq%2BiuZT51RWCjYTkQtwovwTpdBdTEXGkQ7%2F3Dfpc1%2Bu5ItI7pz3WKmd7oh%2BZUjsdzw4TOextZu8Q2u9VkmeGEqM3aqlACgExCO7nJS2ihegOdjf8R5hIpxYQVSKqbhMX%7Ctkp%3ABk9SR4ibrbGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/XqoAAeSwpB1qBjND/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       "counts": {
-        "cgc10Bin": 0,
-        "cgc10Auction": 4,
+        "cgc10Bin": 1,
+        "cgc10Auction": 2,
         "pristine10": 1,
         "psa10Bin": 27,
-        "psa10Auction": 2,
+        "psa10Auction": 3,
         "psa9Bin": 22
       },
-      "ratio": null,
-      "firstOpportunityAt": null,
-      "updatedAt": 1787223528144
+      "ratio": {
+        "ok": true,
+        "tier": {
+          "id": "regular",
+          "label": "Regular",
+          "feeC": 7999,
+          "declaredValueCapC": 150000,
+          "turnaroundBizDays": 50
+        },
+        "cgc10CostC": 13100,
+        "submissionFeeC": 7999,
+        "totalCostC": 21099,
+        "psa10ValueC": 133474,
+        "ratio": 6.326081804824873
+      },
+      "firstOpportunityAt": 1787390987599,
+      "updatedAt": 1787563481579
     },
     "prices": {
       "variantId": 14075,
-      "ungradedC": 3407,
-      "grade9C": 12500,
+      "ungradedC": 3396,
+      "grade9C": 13375,
       "grade95C": 14825,
       "cgc10C": 23000,
       "cgc10PristineC": 41400,
@@ -85,7 +112,7 @@
       "cgc10Pop": 3,
       "bgs10C": 173500,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787223142131
+      "fetchedAt": 1787563234919
     },
     "listings": [
       {
@@ -94,27 +121,13 @@
         "priceC": 99,
         "shippingC": 599,
         "landedC": 698,
-        "url": "https://www.ebay.com/itm/206503573886?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=5058603013&itmmeta=01M0FD2YKQBSWR45E4ZM2GFMY2&hash=item301492797e:g:SSMAAeSwuQVqhdRl&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBgmem3Z%2FQK6SglBfjxPvR%2BDS506TXRT229jgCfwvAaKJj8V2oATem407JrCPPKpSvnv%2FQRCwa5MRDyezxGKRvgMNhGs03IezzgLbTzkiStt4mtltHfEouHlBWbeIMw85S5mNuEpQeWU1MmZOIJzC%2BsV2rModLp%2BfpbULz3RPo1Ei2JbAMXRvrNBc0fYJpib2A%2BDOAnL8xy9uvIo%2FCPdBj3G0L%2BzrP56AeC2arYmtlM5KDR5jchpxrZePBaJ6dHQvATYR%2BZ7JoIWCbDf0%2BPKf9SuRWRQm7ScrQiKJdslgB0U46CVZBQKS%2BUpOUpz8PXcR%2BKkFxusemBIEjN0Bg2crEt%7Ctkp%3ABk9SR57qi-2DaA",
+        "url": "https://www.ebay.com/itm/206503573886?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=5058603013&itmmeta=01M0SHB9N22CN0MK8KHMEGN6A8&hash=item301492797e:g:SSMAAeSwuQVqhdRl&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBgmem3Z%2FQK6SglBfjxPvR%2BDS506TXRT229jgCfwvAaKJj8V2oATem407JrCPPKpSvnv%2FQRCwa5MRDyezxGKRvgMNhGs03IezzgLbTzkiStt4mtltHfEouHlBWbeIMw85QtPTIWKhTK8ValODhLa3IC0VSDMQ8H1J1PecOt1kiN2rDP%2Fp1NwcazVA%2F9%2BbOPPxsZdkMyr7V58rY0S%2B3ukWe749zGDAMnneze%2FTYDT7094LaJcBSQj07K03QbCCPw5YuBa5wZTnqQnLwFDxprTzoqiORLxtzMqq2na8oZ6ZWu6RpatbVeWX2b8rexc5fxSiPOre29cJTUNCn5%2BMIYZroo%7Ctkp%3ABk9SR4abrbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/SSMAAeSwuQVqhdRl/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
-      },
-      {
-        "itemId": "800537186441",
-        "title": "POKEMON CHARIZARD GX 2017 SUN & MOON BURNING SHADOWS #20 PSA 9Opens in a new window or tab",
-        "priceC": 99,
-        "shippingC": 795,
-        "landedC": 894,
-        "url": "https://www.ebay.com/itm/800537186441?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD2YKQ9BTPDQ73K3AGW3N3&hash=itemba63bc1089:g:ox0AAeSwM6BqhKTi&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCSX7V3KOHI0lDAq%2BwQyHKs6pqy8wknMhsQsfFcF8DgK%2BDF7VW7hhac5zcAV1c3uFzUECCTuBGwunP37jPyiiPO%2FIfXx8IM5YcTeUZpl6b9XizKo5sVYB5b8bSQxuRo01pvpDOvhBwuOT7IGiCqxGM4kLjJ7VrqiPO6ycZq6YfuHOArXUIVr%2B1krFQ4A62Kwnw7MK2s%2Bx%2BXf0T3jePRkmZk0Ef65c6wY1JCJ2wpeYXV0qYGw%2F3ahABG94GNffXCaoBB3AaOxuP%2Bg%2B0NHzm6UOGXKUsUxD0XNWRN1%2FQkMe41gw%3D%3D%7Ctkp%3ABk9SR57qi-2DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/ox0AAeSwM6BqhKTi/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "800536337311",
@@ -122,13 +135,41 @@
         "priceC": 99,
         "shippingC": 800,
         "landedC": 899,
-        "url": "https://www.ebay.com/itm/800536337311?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0FD2YKQNMDPCFDE29RYCAM7&hash=itemba63af1b9f:g:uigAAeSw92lqhh5~&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDjOJKkSoKwuQjQycaBIRDDfvj%2FjfUmGeYBlNusyeAPQi%2BTsnTks786aYrwtu%2FOrD22JxoHAcEPZU7EiCcufeFteMCHYUGALAaZQaJRJ%2FcJiQIP1VBjq8M1OmrPpD5AG5oWaNZxQc1mbbh0SRmqMnS7J75Yzrce86u1XHsa116cscWDs0ZQMZTEuJYUvQ7Fly9cYFMBXfRd%2F6QxuqRRI%2BKcbRryDlYz1AmiE6PEXvLIerKkk0btZiY0GfANB2BMJKdhL9drSuQsmGUS5hY9aMDjme4kaBo7EnlK%2BACDFvpZMCvwAbDi45ODgT%2BLI6d51Pg9siCBC7WwbqIMiRxCmkr7%7Ctkp%3ABk9SR57qi-2DaA",
+        "url": "https://www.ebay.com/itm/800536337311?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0HTER9NVCW1Z7G706NC26MB&hash=itemba63af1b9f:g:uigAAeSw92lqhh5~&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBdY%2FGrPbuCCxlgpiYrvRuZLLUIsPpA%2BBMxV33tG1mQHv82gVW%2FvmBAWJMHUqka9PYCE9ummpkZ9bypEWeV6d6tO%2FMhBEUiZCLblfCTNZNPro8Ca%2BLKKoMTEz5GR3yabprusP8tgTqf6o8V7uDnhDMkG2ha0UUeeWsk84Q1xi3k2OgqduAiUL0ya2dY8%2FD%2FyA4dLNdeZvc04vi0r3xFjtEQ8HSvQkGTVTGqtexf%2BpbFKODiioVFv4FSl9QWB3jXZvuD9JlA3Zqr4L8%2FkvU%2BKymmJtBXKUnG1IBGEoU5MeWolQ%3D%3D%7Ctkp%3ABk9SR5iFu7qEaA",
         "imageUrl": "https://i.ebayimg.com/images/g/uigAAeSw92lqhh5~/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
+        "freshness": "stale",
+        "firstSeen": 1787223528144,
+        "lastSeen": 1787304609490
+      },
+      {
+        "itemId": "800537186441",
+        "title": "POKEMON CHARIZARD GX 2017 SUN & MOON BURNING SHADOWS #20 PSA 9Opens in a new window or tab",
+        "priceC": 125,
+        "shippingC": 795,
+        "landedC": 920,
+        "url": "https://www.ebay.com/itm/800537186441?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHB9N2Y5KCPRFA1Z52PH9Y&hash=itemba63bc1089:g:ox0AAeSwM6BqhKTi&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCSX7V3KOHI0lDAq%2BwQyHKs6pqy8wknMhsQsfFcF8DgK4eMypIY2NEfv9Dah%2BIcxKlrbZp%2BmaSpF%2FfTo0pV4Gl57roR2VbF5hLugLs8hDZ3J37GaJpWrrv8emOpWBmHONk1BF2SngNLjf3TnIFMc5uG1srHbVNywbcHuexkdXTMoD3hDWkEA9MZeBfNrOKRMyUx%2FttQbYrpvBg6MJCvLKXsn4aoDJ9dB2qZujzG7EfGX5KVuBJaApdIQkckEY11Yd3I8dcVzY%2F3IysI%2BUTbgQvPdIFdF8QBmM3kdVhxBnfn4g%3D%3D%7Ctkp%3ABk9SR4abrbGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/ox0AAeSwM6BqhKTi/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
+      },
+      {
+        "itemId": "366611843475",
+        "title": "2019 Pokemon Sun & Moon Unbroken Bonds Reshiram & Charizard GX #20 PSA 9Opens in a new window or tab",
+        "priceC": 225,
+        "shippingC": 800,
+        "landedC": 1025,
+        "url": "https://www.ebay.com/itm/366611843475?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&itmmeta=01M0SHB9N2VTQCTYEC68KXF0JX&hash=item555bc4c993:g:tBIAAeSwWUhqbMsa&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDEcP6NMHGOBrdYY8K%2FCdEzWziediZRIGJ0KPvUWEkQMEeIcONKcBVR4aPaTFhVPKdVoo2%2FkPFvqyZmdd02PKz1YuSnNamaXgAri%2FQ8LeaK6Z7GWe8Iiqc%2FlhF11ECK3zeFW%2BcWuD0hJjWuw1YWyjDny2Gh0CKdcdsPXnwQD6Ti8gMc8r50TMTHszK6ytHtHxtLwkP3DnmxoT3TlpWS5ibjZBda3Ln4l4fIuefccDqCtSp48uLMDxP%2Fg9T3Vty%2Bb%2BoPzvOpF8DcwbbY8V6j2fxaJ4hCjCSm77ciZGwz6VJCZfB2QRbe81cwQ0zXgZ7kQPNvcYUEjVMFdzMKPnRatrzX%7Ctkp%3ABk9SR4abrbGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/tBIAAeSwWUhqbMsa/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787390987599,
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "227473005539",
@@ -136,27 +177,41 @@
         "priceC": 2050,
         "shippingC": 0,
         "landedC": 2050,
-        "url": "https://www.ebay.com/itm/227473005539?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0FD2YKR121K5MFVHJBMMY81&hash=item34f6729be3:g:IBMAAeSwbspqfIFk&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCPHECpUfF8ct%2BrIUT%2BHVKmoe3TaKGOYxI%2FrU%2FrWXBunaXDSW8173kTXWfN84uF%2Fd1w6aYJTDout1UfKXE0aWY%2ByhHJtpoLcW%2BV2qe6d5jng2efW5b14IX4AEjkHAKCK0%2FJBy%2Byq4yRj%2FooWKtYdVoCsV3HVdwZ79zUohvBy2JX6yvxIO2Ex2rNc2f2YhxUjDtgu26DTfs%2Fi%2BrQrp5mANZevp3P4mBj2%2Bxc0DJR03nMJZvqvGSnnmpSMUJb14n8BgbpXWkZmhKrzrfgRi5T48OJLWxsyjnn5Y2fDdl7pFOGA7iunQzKNi6fp0xfmquXtd9LuGvthBWDw2YnXflqH20a%7Ctkp%3ABk9SR6Dqi-2DaA",
+        "url": "https://www.ebay.com/itm/227473005539?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0Q05X5PSGJWWXRYHGTGRKYB&hash=item34f6729be3:g:IBMAAeSwbspqfIFk&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCPHECpUfF8ct%2BrIUT%2BHVKmoe3TaKGOYxI%2FrU%2FrWXBunaXDSW8173kTXWfN84uF%2Fd1w6aYJTDout1UfKXE0aWY%2ByhHJtpoLcW%2BV2qe6d5jng2efW5b14IX4AEjkHAKCK0%2FAt3enefTJHKTzPRLGACSgwDN2UIjIpfMQRXGygvGsrWUzxXNP%2BVE1H%2Bhg3pW8vxAbIdV5UC5d8t53XG7CUcbuhhO4OW8Lob%2FwI9U7siZUqhxLk%2FLg3gCtZIQY9ZKaTnzHMLgJTdakp00kkDqfd7ILbreKk01fQ%2FgbwZLc58NfwM%2FuqwJYIbZc3cqEeFI3gKZ0ESmv%2FHom7rvNa043qomb%7Ctkp%3ABk9SR5rTl-CFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/IBMAAeSwbspqfIFk/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787478371384
       },
       {
         "itemId": "188800789582",
         "title": "2026 Pokemon Mega Charizard X ex Charizard Tin Black Star Promo #20 CGC 10 GMintOpens in a new window or tab",
         "priceC": 1500,
-        "shippingC": 945,
-        "landedC": 2445,
-        "url": "https://www.ebay.com/itm/188800789582?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&itmmeta=01M0FD2YKRAV18BNZB2G400093&hash=item2bf5676c4e:g:Ny0AAeSwPoZqgX-s&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDkYTc9PuQM64IfS0oxfoUZhChvNsh8%2FfbdE0JBr3zAqi1UskVdHxj8HpbX%2BWb1ftjcm8nfDLZBTq1QXMCqykQtWLJv58RDt6937l%2F%2B6Z2FpMzK5sY94dS4qD1b9131REw155%2FKGvXz6uSv42Ll5BTLWehbf1Tj%2BSuA%2Fje2v2wLjZYM11nF%2B9R%2BMQZ5S4yjbW3MkvbBJswD9hjvYcFhRJaKGqznm7Z93KKgr26k1iDsOjr5xwsBCDsWQMWsa2cmDWJcrnwlcMd0Pt%2FpwrKC2OEcExBOKz803A%2BG%2BDpG2pkqFA%3D%3D%7Ctkp%3ABk9SR6Lqi-2DaA",
+        "shippingC": 875,
+        "landedC": 2375,
+        "url": "https://www.ebay.com/itm/188800789582?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&itmmeta=01M0Q05X5PPNA884YJTBJVXY6M&hash=item2bf5676c4e:g:Ny0AAeSwPoZqgX-s&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDgdKOVOucbTMt7ybZGrTjCCky%2BU8QmYrhBbYPyGQ4XrWHx%2B9BQa%2BJTu1%2B31tZ6qEVhP17sbXEouSsbzCYInl8GO0qbVogX2bM2ERPQc0u%2BOFWiwXUysdyoqK2I0PxD28D20XjZs7OcYtsIlqPFeFYsvWe1Fg24gUfp4CNzlUax9iEAUHrJc0C7r0%2BkvKfPWcG%2FyX6k6lNS%2BWMmHYeMYuSmfuOsYPtm6%2FGlAm5gTJvckDLAUw%2BN73Tu77hhE0N7cniAxgujlSUD4a7Jm7%2Bi%2BcIVVwVcN5fLm6rYXZIvJl8Ha63xIRLWIt5oV28FXvY%2BOMy5KXSAkFfcdbCIqgBfimvF%7Ctkp%3ABk9SR5rTl-CFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Ny0AAeSwPoZqgX-s/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787478371384
+      },
+      {
+        "itemId": "188800791827",
+        "title": "2026 Pokemon Mega Charizard X ex Charizard Tin Black Star Promo #20 CGC 10 GMintOpens in a new window or tab",
+        "priceC": 1500,
+        "shippingC": 895,
+        "landedC": 2395,
+        "url": "https://www.ebay.com/itm/188800791827?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&itmmeta=01M0MCV7Y93ZP0BSQQRA3CSTRF&hash=item2bf5677513:g:FXkAAeSwhrBqgYBS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBIBMG%2FHsi6KQRxUjRLPIr8AAH83FwEGGO6vwHuxWUTzDulpDK5HGwrXNxEXhBVM7OuN9bYWsNqqNQ3D%2Fz0L3OOFzVDFSIRhDixFo2%2Ba6jWjkG16o271740%2Fif6c%2F%2BlTTF%2FxrRx33wLYHC8qshjDEqEOa8jVnyIW1rT6OYs8eT%2BAAxILq6LhWcTq7o4En%2FcoUOgY9PAmBwwW1o8F4IB0MzVSNBZeU%2FM5JIpM%2FCPbko2Mo8%2BOBMXN4%2FEsysWQqsn8uNB8aykKFN8AjxmyAivwzkP%2FymgCC6DsnxgUHbQAwgf6A%3D%3D%7Ctkp%3ABk9SR8D_7IyFaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/FXkAAeSwhrBqgYBS/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787223528144,
+        "lastSeen": 1787390987599
       },
       {
         "itemId": "188800790725",
@@ -164,41 +219,13 @@
         "priceC": 1500,
         "shippingC": 945,
         "landedC": 2445,
-        "url": "https://www.ebay.com/itm/188800790725?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&itmmeta=01M0FD2YKRFCHTDFA5WRPWB5HX&hash=item2bf56770c5:g:LQkAAeSwd3dqgYAR&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBSTtV8D3Z92SGMKZo7LxtdPTnUkdTRrmVWVzbgdrOhRX4g3ipxfYRUfch0RUfQNCVqMsR0f86U0wx8naliKLMIMdc0myWvacLOrSWH0bZjdfMQNdoNL1WL4RQVC%2Fw1cawYP6uaBNQ3E5L1Mvn5TPazCViNdssdvkV%2BsHpWdun0tOVVgxBLici6w%2BgVrxJR6UVP7fF4QWaD7UbVWTDCVK2tIgCI0Fe7dedxEIpJdUE72VZmjux6grw8KiVV3gZgfNalx0n%2BXSbO3ars0H2RzeRtwnCKy77%2Bw23F9CWnCWKpSpW7v7BTpYYPaNyahoR8n2JgfUv9HyFtA6KqDLPOJ5AF%7Ctkp%3ABk9SR6Lqi-2DaA",
+        "url": "https://www.ebay.com/itm/188800790725?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&itmmeta=01M0HTER9NR3DX9TG3N193NBM0&hash=item2bf56770c5:g:LQkAAeSwd3dqgYAR&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCp18qfElBGGqjiBY%2BQN56A0wycW%2BCD38w8LeJBhBQfie9RdRe5fsTTQY1H%2FsWsZSNPTgQUd6b2uN4Z1Tiow4EWQzUqXJkENGl1nNj64aKbZ7p3qx5C%2FRox1V6JGGErucXu1VRfid0kYs%2BHiE%2BV70FQ0CBoUVz1apQbFi0Z%2FGrm8w7DOi17ji7HYk6W3wzL7JNlz35Kce1oJNJgu3DaU5Dg3IA5KejDqYeTcd%2Be0j9sH39sUDrQOVdlCm8XN4yQcDQHolmRA9EDOwH6x34lpk%2FeDS6pe0YTBi04PcCtcNCn1Q%3D%3D%7Ctkp%3ABk9SR5qFu7qEaA",
         "imageUrl": "https://i.ebayimg.com/images/g/LQkAAeSwd3dqgYAR/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
-      },
-      {
-        "itemId": "188800791827",
-        "title": "2026 Pokemon Mega Charizard X ex Charizard Tin Black Star Promo #20 CGC 10 GMintOpens in a new window or tab",
-        "priceC": 1500,
-        "shippingC": 945,
-        "landedC": 2445,
-        "url": "https://www.ebay.com/itm/188800791827?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&itmmeta=01M0FD2YKR6296AXZJN620BK1F&hash=item2bf5677513:g:FXkAAeSwhrBqgYBS&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDSHE93VEwGKA%2ByH%2B4eNEV0%2FvJAvozFnu7at5uFFEgs3mFJ%2BULLYsBmG481utA1%2B3aAZqgJD9sdns2D4R31CERqle3LZVWDc7kar5HWwtNg2yN4V%2BoRwqVKblumf4H40mgEMAZlNwVUOtrXUwb6r%2BP8tpDguofFf9Bw8K8FHcfJiUQiYQFwpeIQ4mnSYMJyU%2FURanhgqskAnY4XP%2FbPjdFJhSEP1yvsM3KiVTQ1ysimpw9ZpgRT4hXScW5sZ49tGi8MIJSMSxH0k7NCxksx1OteIViOty5aJ9BRQg%2FPy8tLuqVxvg081gSbiRU32kSlk05TiIrvjktc3Qb9w8oQYFzZ%7Ctkp%3ABk9SR6Lqi-2DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/FXkAAeSwhrBqgYBS/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "gemMint10",
-        "freshness": "live",
-        "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
-      },
-      {
-        "itemId": "307126958056",
-        "title": "2019 POKEMON SUN & MOON UNBROKEN BONDS #20 RESHIRAM & CHARIZARD GX PSA 9Opens in a new window or tab",
-        "priceC": 2700,
-        "shippingC": 599,
-        "landedC": 3299,
-        "url": "https://www.ebay.com/itm/307126958056?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0FD2YKSJ4EYQJCKXWXW63VC&hash=item47823177e8:g:BqUAAeSwXI1qf4Zc&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAJp%2FhQaS2S%2BsRTUSNn3v64znAtB%2FERBLQzzdPiL%2FRp5plgK8BNnZHwXjXHS4zl9cfbGkK1BDtxcOlsVxM%2Bv65g7IZbw3MsfOzBYtQmAwt%2FVo7Ua%2B7%2BBbdAgT%2BIMEYSc5GcMpMyM15CIvQ3zbk6CcdFCyuz%2FvToxpM2F5br6nJcJToEbjAHAMzzSHne7J8TEOsrtSUsYC63gZ9dBYVWA9mVW7y283UyDhYM4HdinHRfXzHQ4g7vUbLhxFFHnE2lYzbQEeqdTJtUpfoqRClPZBZz9DjbbrwzqxvjDFHmxtRqyw%3D%3D%7Ctkp%3ABk9SR6Tqi-2DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/BqUAAeSwXI1qf4Zc/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787304609490
       },
       {
         "itemId": "287535387705",
@@ -206,13 +233,27 @@
         "priceC": 2499,
         "shippingC": 895,
         "landedC": 3394,
-        "url": "https://www.ebay.com/itm/287535387705?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=5058603013&itmmeta=01M0FD2YKSZ25PJM8P269YZD1K&hash=item42f271d439:g:UmoAAeSw8EFqa4v~&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDXHW1LT9dPuFE85khlq0zSL%2F%2Bc8sEZCTsIqORupNLY%2Fc9y8caaLjXLU9ZPbQ7ZlYHIdJBPmSFNfZb9mcN09%2F2qx4t7I7shfRmoiV5T1EdIPAivH1QQFLBE%2Bf5wvVi2IeRPCa6lrN0feECMNMbKpMs37gjKuTLFX9i6CQbmsS6mpzIxmrp3HzJXzgffskOp%2BEftMpluRxljZAsQtsLL21oNLsPTFCQwnluykGXi2OkiW16SYKZce9drw%2FTAZ9XGGjtOUbJrMAo6yQtnvDnlfpl0Ap6Exl55FNS9eQoZ9gv1EY4utcUsup26wGVhWkXx4x0S0BP%2BbgSRmM3IQMvi66ES%7Ctkp%3ABk9SR6Tqi-2DaA",
+        "url": "https://www.ebay.com/itm/287535387705?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=5058603013&itmmeta=01M0SHB9N2FDN72582JFHMHHX1&hash=item42f271d439:g:UmoAAeSw8EFqa4v~&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2FPxaqOHcSig0sZqELkZ5N1Sn2wm6EBdNtWLQg0%2FwGTbgyUg%2FnrWpWy4vU7BgRRXpHFaKd6u473LYC5WQpaTLM5XdpXixhbNoD6H2RWjKv8%2BOZmmzCwwsxn26tDM3ollxafbK1%2FqG%2FflAoMOPp8Qy9GDKIn25scr578qclPJFMpxjcxc75IvJ5FQE0NgvLPdlgz%2B4gBexN7Ai%2F82Nv5af0I1qefLVyne3oqJ3YmHpNqjmr1IQB%2BeSFsC9T0hanU%2BwvQuHtlhgr%2Fd6wk5VMiqgf0T7jx0ZRtbPPnJLT3ev7iA%3D%3D%7Ctkp%3ABk9SR4ibrbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/UmoAAeSw8EFqa4v~/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
+      },
+      {
+        "itemId": "318303640758",
+        "title": "2023 Pokemon Radiant Charizard #20 Sword & Shield Crown Zenith Mint PSA 9Opens in a new window or tab",
+        "priceC": 3600,
+        "shippingC": 300,
+        "landedC": 3900,
+        "url": "https://www.ebay.com/itm/318303640758?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=5058603013&itmmeta=01M0SHB9NJZH32V0DYHTVV7E2Q&hash=item4a1c601cb6:g:XqoAAeSwpB1qBjND&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBjijOq01HCEvMr0ktJO%2FBxJ7DpXmtP%2BRhJPeSMFeOH3BSbLYw0eDgZNvKaLFJkepNZ%2FFM%2BXnDiHvV%2Fo6m67e47z95plfM0%2FHuDzRvmuf2fLjt%2FmBKqZK8Jgnfs20QvXFlmRa5t4dHDw8GAwlmHw4agy8mJ40dk%2FSatiWzeFzThIvTBNhSXUHFF81tuCB70OvCRKZ0ZR9hn5O6VuUCWd31jyq%2BiuZT51RWCjYTkQtwovwTpdBdTEXGkQ7%2F3Dfpc1%2Bu5ItI7pz3WKmd7oh%2BZUjsdzw4TOextZu8Q2u9VkmeGEqM3aqlACgExCO7nJS2ihegOdjf8R5hIpxYQVSKqbhMX%7Ctkp%3ABk9SR4ibrbGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/XqoAAeSwpB1qBjND/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787223528144,
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "800498305292",
@@ -220,27 +261,27 @@
         "priceC": 3499,
         "shippingC": 599,
         "landedC": 4098,
-        "url": "https://www.ebay.com/itm/800498305292?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=5058603013&itmmeta=01M0FD2YKTP8YT5JN82GH3ED3D&hash=itemba616ac90c:g:4ZUAAeSwtBlqfNNX&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBDeWHlMXfXWiYnjbPgsDoboMVvOEAXNt%2BYwIWk%2FDNMdfgoKTsWJ3GS2MxKBF9%2B0%2BLszZ0aQWEWwBIGPci%2BdjHdzpHQwi1PfPSQFmht7lIRx3YR1s4HVmXaq2dduUanFJrOcOMGo50%2FNqWa5u0CPeYSMSHDNDRJ3f1Odljfi3V1ACoXqfcJUkwX%2BwMP14IrvF%2FyK2T81B4w9EVuY6lM6oo0Bi3ajkuFMytPUkkua2iuwfW%2BarczTHcfQwLwzz7Y4h3Kp4K7Tzbm36vjlvfwAoHoswfDNw6fLV6jx2ySN8I6EeyWqdhtA2M5uBzZAQxa9FhmPLchUN3oPdjwYcO1XXiC%7Ctkp%3ABk9SR6Tqi-2DaA",
+        "url": "https://www.ebay.com/itm/800498305292?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=5058603013&itmmeta=01M0SHB9NJVSKJG27MR62704K4&hash=itemba616ac90c:g:4ZUAAeSwtBlqfNNX&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBDeWHlMXfXWiYnjbPgsDoboMVvOEAXNt%2BYwIWk%2FDNMdfgoKTsWJ3GS2MxKBF9%2B0%2BLszZ0aQWEWwBIGPci%2BdjHdzpHQwi1PfPSQFmht7lIRx3YR1s4HVmXaq2dduUanFJrphXy5ecSm8%2BYgUGFHAXuG1zbfBiwJ2hATHOP74aR2sQwQsbDUZuzujrdvh2z9WZt5Sgaprzfik7fO3SX0BeMc0MW1E4Gr%2FJmTXERlr9ZvLem3EEPzgZdk4M8tvMoBKWye25vgLSJFwg%2BqbTnHRNwnet7FteAJsNnjtqId8Tj8SwGrq9D1eRyZB%2F5Wsnyb%2B5gXf%2F3Ky7XoIAKWOdGvv5ly%7Ctkp%3ABk9SR4ibrbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/4ZUAAeSwtBlqfNNX/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
-        "itemId": "318303640758",
-        "title": "2023 Pokemon Radiant Charizard #20 Sword & Shield Crown Zenith Mint PSA 9Opens in a new window or tab",
-        "priceC": 4000,
-        "shippingC": 300,
-        "landedC": 4300,
-        "url": "https://www.ebay.com/itm/318303640758?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=5058603013&itmmeta=01M0FD2YKTX2T4CTDFW96J8X7Z&hash=item4a1c601cb6:g:XqoAAeSwpB1qBjND&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBjijOq01HCEvMr0ktJO%2FBxJ7DpXmtP%2BRhJPeSMFeOH3BSbLYw0eDgZNvKaLFJkepNZ%2FFM%2BXnDiHvV%2Fo6m67e47z95plfM0%2FHuDzRvmuf2fLjt%2FmBKqZK8Jgnfs20QvXFnfOylNhz49to5xg7JbVwihQdrcfdADS2uU9IIx5hvdFwHoc9fME7n%2BJXeR1cDWnIKAMyJuwa7644p%2ByKY6VJJeSm5WicQPe1G7eaeWMIhr989ZcmswzxpAVMknUI%2FpJTH8cEeq46vCY2UK1AMutu3o5cjFuK68pBcIk62lQaeZcb5fiN3Z26AlBxH2GdtVyUde0iTbHupEK6XowY7vk9B0%7Ctkp%3ABk9SR6Tqi-2DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/XqoAAeSwpB1qBjND/s-l500.webp",
-        "listingType": "bin",
+        "itemId": "307126958056",
+        "title": "2019 POKEMON SUN & MOON UNBROKEN BONDS #20 RESHIRAM & CHARIZARD GX PSA 9Opens in a new window or tab",
+        "priceC": 3600,
+        "shippingC": 599,
+        "landedC": 4199,
+        "url": "https://www.ebay.com/itm/307126958056?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0MCV7YA4MCEQ0EWGBDQ0A09&hash=item47823177e8:g:BqUAAeSwXI1qf4Zc&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAJp%2FhQaS2S%2BsRTUSNn3v64znAtB%2FERBLQzzdPiL%2FRp5t6P7I%2FFrrz%2FDRgdfKT3C8PWmaxLsHTXSm5HyKVZMxHETEx04kRMtqaEfrebAaDPnnzgfBNdA1wK0t5Z9wQ9Qkot7holHk92DEhSKHTQ47PIL4tH4cHmuG%2FYRSYhUFY6q8Le5qrXxARN6vl%2BqyWcPx0x0WSZDuJOX%2Fx0A8ny3xjlmy5nfVwgmlN9Ks9dHGV09iTvYheBz3EFqxvyYsWLG%2BxmTE83Npf0hVyY0n%2B0OLjFaVPszUXebL3d%2Fx8yFCdjAA%3D%3D%7Ctkp%3ABk9SR8T_7IyFaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/BqUAAeSwXI1qf4Zc/s-l500.webp",
+        "listingType": "auction",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787390987599
       },
       {
         "itemId": "800529522439",
@@ -248,13 +289,13 @@
         "priceC": 4499,
         "shippingC": 699,
         "landedC": 5198,
-        "url": "https://www.ebay.com/itm/800529522439?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=5058603013&itmmeta=01M0FD2YKV8WB307061EWRBM0K&hash=itemba63471f07:g:J8EAAeSwl01qhHiV&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBqHR2TlkpFodLRqjWnmYeIDigqiOlDxqDkzBZC0VshsZW7sUCGZvp%2BBnoM9y1iB3I2eUAYEKZnufTJehb40fzhEowd9wbxIdymPiIAss7VR21fzTte23s%2BQb%2FUoqOG5saLy7Vq6JDfJGOF7pDJLw%2FWF7r9DBEBPIbvvke1opUe9j7QTDDOYGI2e36zY5kVZek4zzb8pZ0TOT4MXr5eQu9n%2BoF06SfkJ%2F4C19oOnc2OPQyCGB6vHlrsmlBBALrFKVAmS6tgutwYy8D9FsaNNFSYMM9UBE6Bmye8aFL58llXMg%3D%3D%7Ctkp%3ABk9SR6jqi-2DaA",
+        "url": "https://www.ebay.com/itm/800529522439?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=5058603013&itmmeta=01M0SHB9NKRZ4KAWKFYJ3KX70K&hash=itemba63471f07:g:J8EAAeSwl01qhHiV&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBqHR2TlkpFodLRqjWnmYeIDigqiOlDxqDkzBZC0VshsROIxYPJqwusAsROc85XQpemFEFM0MFYrmuDrD3KgTglDhLiiZ%2Bhl%2FsXJBK9ux5CNJ%2Fiqj5vW3eRuzRGE0mBvctjWC7Np%2FL0rnjYHKoyHc6XBe6LzlAcRxUNoULniN794O9F%2BxN9ppUp%2F1KGRotiUw73EMyBMgPaXjW2o81NXBDVnwLtysqlD1%2BChOSyYg6lQXTg%2BMnrI%2BXuQ1e4yoWSjJVZNmhtxwTVsWPba5puk5%2BzFlfKK5J4LBJGBvXsOLOWzg%3D%3D%7Ctkp%3ABk9SR4ibrbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/J8EAAeSwl01qhHiV/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "366505242101",
@@ -262,27 +303,27 @@
         "priceC": 6499,
         "shippingC": 0,
         "landedC": 6499,
-        "url": "https://www.ebay.com/itm/366505242101?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD2YKW8F9FJWE2Y3VWVTA3&hash=item55556a2df5:g:P90AAeSwfgZqPn7r&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA3xTR0HXRUfAZQQfubT4qljn5jof1x%2BQAh79kSNNzqphx%2Bd480%2FT7645Cwe17dMofgR%2BhPxLJl3ICExLEr%2FPsEv2FuYa9xYCqOhVDrrRAg5q2g0z0Z3hQAOCNJ4lJEqSaLb8A7LlE5HGx3P36Vx%2BWLMiFDBMCPVNI5AxxNdr0NOoDiRGqI7Qsu%2FwkQ58XPn6lryWgVhs3dmlpqgxmwDIvD%2BcLKpMaUdqd%2BcsxjEZ0DDm%2BfRjmhCx267U%2FpJCn%2FWDnHPrEKhBCsUqjF7bau%2FZNJDaSALxdns4UoHL%2BCs3NoBw%3D%3D%7Ctkp%3ABk9SR6rqi-2DaA",
+        "url": "https://www.ebay.com/itm/366505242101?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHB9NK2038VE449TCCHGEH&hash=item55556a2df5:g:P90AAeSwfgZqPn7r&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA3xTR0HXRUfAZQQfubT4qljn5jof1x%2BQAh79kSNNzqpo7EF2bzww746V9NOcOqjAAZPbAfLoEInsxV%2FLq%2F6o%2FliZGQZ2pgen54AgWOyQwBjl2g%2BUoudpljiOYC2%2FopEjmpdWF1DT1LaGGr97o85IqsapyvfFyyNRimoICOneyU1XFRw8c7%2FHq%2F91kgvYiU%2FqOIdfXa1Db7PGNKz9tp9n5vup8A98MyMHOZar%2BTT%2Ba81GXUyiJQiVA7DRla62Tj1qB7t1G4V%2BSqjRVuVn9nPZGrYTswSEP8dS63DfHQeAFaLg%3D%3D%7Ctkp%3ABk9SR4qbrbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/P90AAeSwfgZqPn7r/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "227458078415",
         "title": "2017 PSA 9 Charizard GX #20 Holo GX Pokemon TCG Sun & Moon Burning ShadowsOpens in a new window or tab",
         "priceC": 5999,
-        "shippingC": 540,
-        "landedC": 6539,
-        "url": "https://www.ebay.com/itm/227458078415?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD2YKW81VT39FDT645HB2R&hash=item34f58ed6cf:g:3b0AAeSwmaVqbmnX&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA7e55TVdLvNCA5kK1iuTCpeDPyyuDJ5ECYRZKKpNXfsR%2Bv4TMw%2Fq61MJ6ir8GV7onUoyyYkBmfaMwp6JhRGBpaBTd8ld%2BEssvgmhSD7%2B%2BdzfVxVvtCe%2B6V0zSjBehBOM%2FKPJK8UsVkUbCZdl1CZkF47xMEOHz4CIRX%2FUmiFeKwySJgN324xZLRuvb5xrGT7S5V4KBbHRPmLj5uwdIX%2F9bO5puIa1uRAHRZwJmu84oJO7wjq87Purw9vG9pPutp41lo5MMG6z5iStRwaRbOxk%2Bf9lEUBN7PT7i4Zmn10YEbjwKGK91P2qtRTUrnSZjh8XGW5VfBahuzQi8M8QRiAD%2FF%7Ctkp%3ABk9SR6rqi-2DaA",
+        "shippingC": 548,
+        "landedC": 6547,
+        "url": "https://www.ebay.com/itm/227458078415?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0Q05X5SEN99PPK5ZQWM9DXY&hash=item34f58ed6cf:g:3b0AAeSwmaVqbmnX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBxRLFwBojEVRyJo7fIPN84KJgTqJfijrNch2zTrekvJFHpBpJceJLz0bLdTFAP53nLbY5LZYQkzoUNRMziI3JtHWIgnQlvrAxOS%2BSDJRftpLG4KR3I453qxHhPTVyvS2BKN%2B2mUn6B8m%2BHfycPUTn5bRKS7SNCG2Tnw51wvTW1j0XEHj9sYKtTP%2BQ2Bd3fGl3LMs%2B66CGu5IEhW6qEop%2F3O2EmZZNudLZ%2BOv4R8sHYGETrd1jG%2B%2BH1dVqxFpTmhVRmUZgYL3iisKwJZu4xF4xTjK4PGfVik9g9saQ07C04dQ%3D%3D%7Ctkp%3ABk9SR6LTl-CFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/3b0AAeSwmaVqbmnX/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787478371384
       },
       {
         "itemId": "800232444652",
@@ -290,13 +331,13 @@
         "priceC": 6499,
         "shippingC": 995,
         "landedC": 7494,
-        "url": "https://www.ebay.com/itm/800232444652?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD2YKW9S5Q6WC5AS1815TS&hash=itemba519212ec:g:-ToAAeSw3alqOupZ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDMqx%2FyvNMNAsWiZjxW9mLE8Cw7SaH%2FeNODXC50VWyylN9yMtcSFnJYqas6zSjEj2NQV1zjcyoiIuGzvrRNPEHqLPgIBscxs0xbRuAeoNlBn3Gb1Onkq7%2FcYlIwEbx4JPqnKdYTgSZJlfGI9F9RoUJagJW2%2BaDEW%2Bq2yUHLAWIVbwU9P9k8hmo1tk1e3miQB%2FaZb9mbMwsKE7SuMpCoFf2e%2F7uDDNKnmK6aj8o5crqaaVcVFnuj3cnaSNLzgpFNK1ccVtp2JNSQm8FVDTzhqpaSPJTp504QirH%2BP4GaY9jdbg%3D%3D%7Ctkp%3ABk9SR6zqi-2DaA",
+        "url": "https://www.ebay.com/itm/800232444652?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHB9NKS7108RZBMHHTXMF3&hash=itemba519212ec:g:-ToAAeSw3alqOupZ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCxAMHNT9a%2FuIvOgWE2mKBW9%2F177BQ72Lnx3%2FfmTgmOo44S3l0CD10PZnUTjzbjk5rIcGetcSUWbkk26l5LxSA1fkT1DUy6tythw%2FTCuVJ9ir2QhPGkv%2FIeRdFBAUf9hxCscM7KUCuw65HQUymgY5b2qXmejXr0YjEM96Y740TpaIJkRUtc8eX%2BNXfmvqWv0MW5ZVTdmdo2R7Vohmt6WGNX8UyB%2BsHzQJNseBhFOP3uKjuFr8cItlPCur2D474Ud2LXxOclE3MRw3X4S6Yb9dzqjWzzfBH1iyk7c6wYzCCN4YMCJ2LIo8Gpn4KXYIp2keSXmqCgLYv7nMddG7sYBggJ%7Ctkp%3ABk9SR4qbrbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-ToAAeSw3alqOupZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "364996740902",
@@ -304,13 +345,13 @@
         "priceC": 7000,
         "shippingC": 624,
         "landedC": 7624,
-        "url": "https://www.ebay.com/itm/364996740902?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD2YKXNM881CC3DBD5QMEJ&hash=item54fb804726:g:AngAAOSwpnJmi0~q&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAIxwm%2FJsHrb7dcuEAkWt89qBt9rcPJ%2BqDmOobErR%2FPevcrBkVmsYaHYuM6aG1%2BkzOAbFttZIbzlqaoev3Eu09a0%2BNj8e6dh2aOJEbnKtOCvWn2%2Bh%2Bj%2FSZMpnhrc774ndPZpRCeznCPrzIWFvOYuV8h9K4ePE%2B6aThr5PdXRIORFeyQuoNm5cQDCYgqSvG%2F1Plbj2sjN9Y64DOdsij7w3uQICpqbE9pcfbD6Tgw1DQJXRsgE5bC0P4gN7nlyRYwHIRvlh49zxd0KSzj7LdlmNdVwHmyB6hXeAjDL94r3Fi6VA6ooF3Or9fg2FoG%2B17dS97UyfmnoDozY74B%2FoiMasXy%7Ctkp%3ABk9SR6zqi-2DaA",
+        "url": "https://www.ebay.com/itm/364996740902?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHB9NKCA7R5Y85S60197S3&hash=item54fb804726:g:AngAAOSwpnJmi0~q&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAxQpwYWYHdaTRSHG5HBm0RQhi4gFiAi%2FCPD1HoOtuNipX3K5l8%2FJd2ODMrVE1r7vsPui6FbIWNc1YgefFJ9JIWYoRgfUeuouquJZb9C18HepJAVvF5OJ9oWPUzSPqczsceGq8hY5GmXXnHKRsbJW01%2FIzjv88%2BTsUwhbXxP80N6LJPi6Gmnich6RkzQrpp5NgvTow6DQnbN31GcK2OSXRdIk3qjQtlK2VwXmZirwL7F7CvyyzS2v9o7euCQ9Z1YTtMOek9mJFaNON2PmISc7O49VotFQRneq41wYbtyImX9w%3D%3D%7Ctkp%3ABk9SR4qbrbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/AngAAOSwpnJmi0~q/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "267722679677",
@@ -318,13 +359,13 @@
         "priceC": 7200,
         "shippingC": 528,
         "landedC": 7728,
-        "url": "https://www.ebay.com/itm/267722679677?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD2YKXSBNAC1PT7CYTARC0&hash=item3e5583e57d:g:JP4AAeSwcXdqUBNB&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDVi18bQFzjUpklXRj%2FKL3tU1BYefXCahcB%2Frd4rSXqwKFT7F%2F1tdJ26vmPFQk6GPLTvvRpW8DZuERBxx0jCNj%2B5WIES94qzi6aTnn%2FNnq7SqKsuJMpsoxblwbRoiIRmfjSV3HkaaqLpzz55mkZvA93FxZ8dxI%2B2zayqh%2BNMmphNG33GkySM%2Bl0f5lh4617sJ2cTQZpcKHUOBubt9jtiEyCrD2cLCtQ%2FKcVcxeA0GyxTPCcPhr1vxzxmXh94mr0zWufgL60eiWFYlLpldIEH0eu%2BtAqdKNJfQR5KoDqMtd9vw%3D%3D%7Ctkp%3ABk9SR67qi-2DaA",
+        "url": "https://www.ebay.com/itm/267722679677?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHB9NKD2R3K96QF8CZBZGV&hash=item3e5583e57d:g:JP4AAeSwcXdqUBNB&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB0rPOlWOKGBwzpEKZvAENhFt8%2FM%2Bc%2BlA0tTCUMPNWhzzGS6u57g%2FhBBTyttehXe%2FDaZf0VjHs4YjZ8zOnpaBus2Rp77R1QbIU%2BT1KG%2F4G37VW5%2B1n4fQzhAx9D4fswLARFpoA1cuUcZrJLIiXBi%2B%2B%2BzriSQR%2BJRyuCb%2B552T7L0eHZAU5bDQver7p75XGaDW03MEKHekpyY%2BkRdS1EjVp3pYztaz4%2BOpy%2FAi7Kb30whWffwSHzbG2PCmbEFJvPjaHOiOGB59p9ghMW2F3snFe2XVk2%2FJllQ69EZTQ%2F70DI6pbpYicNxFGTtVCwEPSwQvF5YGnqGhUljyJ4jILq7S9K%7Ctkp%3ABk9SR4qbrbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/JP4AAeSwcXdqUBNB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "167706966894",
@@ -332,13 +373,13 @@
         "priceC": 7000,
         "shippingC": 902,
         "landedC": 7902,
-        "url": "https://www.ebay.com/itm/167706966894?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD2YKXFKDGM9393JF286ZA&hash=item270c1d3b6e:g:StQAAeSwwzxomO-Z&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDGawPkp5m7dfsLbhVuW%2FA5bCV4ChfxXNOgG9aqOfkBlkLH%2B%2FhfQmEsG30nFt%2FBv6hNps0Olxb70PQ38D3CAUTn%2BEmDeAlwPyYD8gmx9OZEiBaFIgWuYZLxe%2Byj8NmoF%2B1bUgDm5%2B%2F5iN9nBIR4JgWClkBAGlSfIUawZr9ZaINeHE%2Bu0rL7N2HGVALc0PFBilFFhNRDozoViI8hVCry0J4oOsxhVQ16M8%2Bw8HJoTvasZ6c9E8JLUnQkwNBosnAdwVkCGRBeIOxXYCJtgVR%2BMm0SjONLG7pi70%2BHLMp7ipj%2BoA%3D%3D%7Ctkp%3ABk9SR67qi-2DaA",
+        "url": "https://www.ebay.com/itm/167706966894?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHB9NMPXJ8R26QGP6WFPV4&hash=item270c1d3b6e:g:StQAAeSwwzxomO-Z&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDGawPkp5m7dfsLbhVuW%2FA5bCV4ChfxXNOgG9aqOfkBlhAPz6joqszZdRqZztw9tiuZlZ6E%2FokpotQPdH73HpiGxf9qd9zwQGCXlDzQqImQzUwJEJf5oMse9O%2FuVh80IgYQKFeZN48We53orFtPLWJzMCqbfJM7zrg3kqHNObcr8sWrY90N9BALHwlH2uBwlVGsIWe8WXpUkS42j37L%2F8Q5FrMk8mapPIbGzsFYyqQSKmABx6dNXxZWwkiqdqUzcSlPWzkJKdOB%2FFnPlp3WR5W0n%2BLH2iXCRCNqjSUe0kDyXg%3D%3D%7Ctkp%3ABk9SR4qbrbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/StQAAeSwwzxomO-Z/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "377166292062",
@@ -346,13 +387,13 @@
         "priceC": 9844,
         "shippingC": 687,
         "landedC": 10531,
-        "url": "https://www.ebay.com/itm/377166292062?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0FD2YKZF5GBVNDTN79PH88N&hash=item57d0dce45e:g:Yh0AAeSwpHBp-4TO&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAbwWlhVsxLq2x9Oo9M9APlHCtz2Z%2Bf8kByMh252yPdj%2FtNB5eBzF73Fh8NWvzhD5aG6ZlDh1LLsIJW7YQnfJXwdXmO2Lclgx%2FYWaiF0lq0idvWrvRk1Lg7i0Njlv2UDNAVKdF7OFJ8ejcfgcoUR5D%2BVjzqeefm9HiI%2FFsHmfZi4raef15MoDJWC4EHuJ8mgVKl8Sw9B891ex5GEMRyfolG6%2FVYQkNECWFf3%2BC%2Btm1jpQV4JiM%2FQBub0he1Vamtn%2FUHGEwBZVGcwGRFrwD3fxmBJzV0kHjKHWqdvSwdms%2FZNPg4NEmgIDIz4frdGzsXnuObT92JnJIel%2FRSaHKxUmC%2B%7Ctkp%3ABk9SR7Tqi-2DaA",
+        "url": "https://www.ebay.com/itm/377166292062?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0SHB9NM1372SHJCGQMF1K01&hash=item57d0dce45e:g:Yh0AAeSwpHBp-4TO&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAbwWlhVsxLq2x9Oo9M9APlHCtz2Z%2Bf8kByMh252yPdj%2FtNB5eBzF73Fh8NWvzhD5aG6ZlDh1LLsIJW7YQnfJXwdXmO2Lclgx%2FYWaiF0lq0idvWrvRk1Lg7i0Njlv2UDNDAlVbTeOrGwux54447ymXp9ulKaDpPd897LPAUABpNayy39x5SODqdTVcWgAMFOILdm4chfa6KfLBgdDEBDSu9oDdbXM3n2o07Ih%2Fz10ropc01JN7vBRzP4vjtNi5qjUvZlKoxSoJrSzNLjeQduO9MFTYFGKw2HOobkKmmPK0cq6EPRwXX2Zmbg5zz4L1QX1t4gW9e6tHgt3%2Fv7oDdC%2F19%7Ctkp%3ABk9SR4ybrbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Yh0AAeSwpHBp-4TO/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "156984675669",
@@ -360,13 +401,27 @@
         "priceC": 10000,
         "shippingC": 583,
         "landedC": 10583,
-        "url": "https://www.ebay.com/itm/156984675669?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0FD2YKZVWAKHQVNG72FZ3KE&hash=item248d040d55:g:5ioAAeSwJztoI7M0&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDul2iZGkfn%2FQ9HzG9T9rGuhSbp%2BLTtYfJFYlcAU3ym0bcSQjoI440iC%2BqOQ3ntcSe%2FLH2FIMmTHqL2cQEresFWMxp7ML78W05Emo45tlEHHLIv23k%2B6BH9Hqgh3nwXe2jACSj84tnGbVuqW0TpLdJrxqDT1GPLT%2FfLcIwZa9mEQjFavgDOMogOOsLLHwYUz6w0rs70emh4qICu48Bqy7PjTRZgLY1Ji%2B%2FYA9GcdiBYiDe%2BYW6A%2FiEcsJMo9enQH0dChLaZifhS9vjaa97VgJSQdRKkyv%2BCRm7mwvdFzd0A9Q%3D%3D%7Ctkp%3ABk9SR7Tqi-2DaA",
+        "url": "https://www.ebay.com/itm/156984675669?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0SHB9NM38J60WFG7RAVTVBY&hash=item248d040d55:g:5ioAAeSwJztoI7M0&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDul2iZGkfn%2FQ9HzG9T9rGuhSbp%2BLTtYfJFYlcAU3ym0XbF%2FqJnuB2Rj1ePf5%2F3n4poz%2FRvK9umiid3aAuESghYvQNUzCjYsBz4qwT1EgnBbkt34F9cWRyPW2z3nxkoANM8SF1bPJSAim8GhSuZibe4FWA7M4Xva5tn2%2B4KuARKAbxMYCsYlNgKSnhdTTsiZ5DzkgSoNQ%2BMpJIhYU%2F5Ku3Ie7nJSjpYcyjcl7q5rp6jqvI6i2XK9MZuqOPla%2BzbzVRqA7DWtm4Q%2BqDbJprjCN7YRBQQQMKL1lZ99CAh9q6j1Q%3D%3D%7Ctkp%3ABk9SR4ybrbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/5ioAAeSwJztoI7M0/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
+      },
+      {
+        "itemId": "298491892531",
+        "title": "pokemon sun and moon burning shadows charizard gx 20/147 psa 9Opens in a new window or tab",
+        "priceC": 9999,
+        "shippingC": 625,
+        "landedC": 10624,
+        "url": "https://www.ebay.com/itm/298491892531?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHB9NND4G615MKY1Z2JCVZ&hash=item457f80d333:g:2PoAAeSwK3ZqLttW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2FnHMBiIh3CjCk0soD%2BUjfK4%2BQkm%2BXxa5oKbBH4XgyxJhUhRIkbZ%2F8vQWaVC%2BCz%2FOUtyyCzijyQJ%2FQOSGWZ44CF6FnbfSqhOuDddtKuZdiFQ06ANqF9lKhht7ffZE27zb4ZqMhm5U3astJCXPZgziXQo0cnQVLGXt6wGYuec5THjETtQeyvqL1WBxs6psxBVVaPY7Vku6hqADRnkbC1oRylfA%2FHGGkevrVdWbpoTkJb%2BSfe%2BNwNTS15CATQbnIzHTAriRz3IeTj1jsoKk8qqAkUDLL0eGoWQ6so9nR163G6w%3D%3D%7Ctkp%3ABk9SR46brbGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/2PoAAeSwK3ZqLttW/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787223528144,
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "287130873887",
@@ -374,13 +429,13 @@
         "priceC": 10899,
         "shippingC": 599,
         "landedC": 11498,
-        "url": "https://www.ebay.com/itm/287130873887?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD33YAAY7A9PFGKZGGC45C&hash=item42da55701f:g:kI4AAeSwqmdpiTAH&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCRYN1nqoPIEPL5EtejaqT1dQiDytix5Tghk%2Bbcng7jy%2FcBT24jwoAQYKqttTZczGnWtIg9%2FkXjxx5Y5VZrChK1wSPRK4fySlK%2B1OXT1T6aNDWG5%2BjO6kYh8XocIKjedIgbuPBO5tIuA61tL5B%2BGgdQeBXZrK7Zqly%2BuVzxbGQEno1thkkMQxYEZDfupFbjga77w5w7aagoz2VVck%2BiC9fXdeBD%2BqEwfnWT0s3RvZt06t13rwRF7arX3%2BAOSHLYKxHkciiEDqsq%2BmaqzZOVM3EGdVFcpXAMBKxQxVl82Mmaj0FQkuOX7DCcNh66PttSBPDWamNQAU2rEOimPsJtBrnT%7Ctkp%3ABk9SR_6_jO2DaA",
+        "url": "https://www.ebay.com/itm/287130873887?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBEFW9S2T8R3B7GQX0RMP&hash=item42da55701f:g:kI4AAeSwqmdpiTAH&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCRYN1nqoPIEPL5EtejaqT1dQiDytix5Tghk%2Bbcng7jy%2FcBT24jwoAQYKqttTZczGnWtIg9%2FkXjxx5Y5VZrChK1wSPRK4fySlK%2B1OXT1T6aNDWG5%2BjO6kYh8XocIKjedIjPXBNqDzOA0%2B7OOnwUImNOJXQYRj3fCRy%2BAVfiNuq7Sh%2FREWH1G3K%2FbuN0rQgqM%2FZdEPhw12WOIaSIn8mx5KqWMjK6T9WFwiZ1Ko8ElNOMGot%2FN7%2Fa3HtHOrFYykvzG%2FC7M9AuTGZ45VKnY%2BAfjZaGmcI%2For4j6K%2B%2Bo%2B1hdT3OB15t%2B2V4PpcbEirnHK4pQLx64bfbrzw%2Bh%2BxV6UoU7C6C%7Ctkp%3ABk9SR57orbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/kI4AAeSwqmdpiTAH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "136562084609",
@@ -388,13 +443,27 @@
         "priceC": 11500,
         "shippingC": 524,
         "landedC": 12024,
-        "url": "https://www.ebay.com/itm/136562084609?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD33YAP7F7R78V022340DY&hash=item1fcbbc0b01:g:McoAAeSwnqBo5q-K&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA4xWNQbHzN8iGlrnmETEXdAZR5zsm4xlN%2BzuxGwGS5ngcHTkdn%2FUX4TyXfxXemSiXzolbs8zMVcEAUxmGMSk7Z49KoI8%2BNMFZPjXBrKOqWYjBeee%2BZKaszMLsa0GmrCKtl4wL--8s4VOslL1a70AFTClDERM15S%2BUTfyU%2FILOCKJWd9TU9HR9jO1KCN%2Byx%2FuqMogmjsM1j20BtwOvRhYfeUUMQN1Hvi2tksvaiwdgO5qtgc0MXnLSN4obH%2BbBaKNhn8KlX5tsbY999GR1VT9EbTHeHeJe%2BAZqJQ3J6mTu9kc1GZE5%2BXrQtsWhtenjznNoj4AKCTqpaQvaWshYWOD69%7Ctkp%3ABk9SR_6_jO2DaA",
+        "url": "https://www.ebay.com/itm/136562084609?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBEFWT76DSQGZ924EA23A&hash=item1fcbbc0b01:g:McoAAeSwnqBo5q-K&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAyJDOxb9m28yGdX%2FYn6F26xDS2qGb3wbLYniSfjbmNYPT91JPLjJCRYS0I12geomXOWOV%2F4DHDC0ZmEIBbZ%2B7YNg90SxqiJkJSTpn1VWswCFrMiUD9ol%2Fz7qKrVfa7pjpP%2BAjeSXbo2MyTkdEclUpAgRKjfTvlir2O5YcHs0dP7MzqgVigmN4jmyZ9CBmYj1tLKqi%2FlD7yvnhadiPBB7pK3Pn61NHDjg5W0Vg1PwxawER2iJVqjF5jpLat7C1gmUEa8hKrndbtF0YcyH8vOeR9Lhc4lOFUA%2B3z3tjpDg%2FbrA%3D%3D%7Ctkp%3ABk9SR57orbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/McoAAeSwnqBo5q-K/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
+      },
+      {
+        "itemId": "800547007492",
+        "title": "CGC Gem Mint 10 ~ Charizard GX ~ Pokémon Burning Shadows ~ #20Opens in a new window or tab",
+        "priceC": 12500,
+        "shippingC": 600,
+        "landedC": 13100,
+        "url": "https://www.ebay.com/itm/800547007492?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBEFWA46MXQEAKHCN4CPM&hash=itemba6451ec04:g:5pQAAeSwJnVp-pxT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDsgYAO8BOk6LAhvED%2FBEt2LilblOFWPagBtgp72945gWkQwj6WzhcWDw2QsgMoj5YW6snetFQiKk5KDRHWmSiuo%2BqLYiG94ff6vpiqhUA%2BpQwUjsdhbZo0f5oylzroeHM9jRcP8vVBgncPAxk8VgK%2Bb4L59TQ4dCUtyifuyFFJdX25j0wCsFPK84uo8%2BG2jgSKTkTugnqAtxWlmLmzdg7VGQCARLWM5QiRjlhgNmERQkvdUV1CyfF82%2BQ9cjfBauK6yv%2BKlBoAhNm7xTSjK4%2BHsxWutaekbfhxO7mE0ggzGQ%3D%3D%7Ctkp%3ABk9SR57orbGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/5pQAAeSwJnVp-pxT/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787390987599,
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "198563688008",
@@ -402,27 +471,13 @@
         "priceC": 12499,
         "shippingC": 624,
         "landedC": 13123,
-        "url": "https://www.ebay.com/itm/198563688008?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0FD33Z0M9WX2DXW1GMN29GY&hash=item2e3b516e48:g:TCwAAeSw4h1pp5IE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCmd71hlgSW0RF9FBVBwDDXlmSB%2Bovhv5aiSp5W7u%2Fn7%2BHi8nkzxQo9%2BZBa9N%2BglhD1GJHl1kuqRN9WdDe%2FS2G2S058jnw0d37e0tmk4i2q1YcViiYX3KipUTT0kGJJsNlWkyUllcl4yW4PIa%2FCrl05g2SsQl6uDFbf1Xq%2Bgc9c1GI2l3vncLSAoVCL9PPLP76tSl%2FnPmYmZ9IwURT4Zsd%2F9pSZhj%2F3EaSrL0NHcFLebujlPsSqodghA17qCu9z4J7PRJqXiTDpT%2BNcikwXrPIdRva8Q%2BJENbnuH8O1mCO23w%3D%3D%7Ctkp%3ABk9SR4DAjO2DaA",
+        "url": "https://www.ebay.com/itm/198563688008?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0SHBEFWDEDQXA94085R47F5&hash=item2e3b516e48:g:TCwAAeSw4h1pp5IE&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBvm%2FmQnzMk0XMl0rFolHoVHQXbFHFzfLtVTNq%2B4rOaGz5NolHQq8xk2Svy8bomJN5hYg4EARAyaLekd1Hdn1JeDUvrSLTZtAKjLbhJuw2Itp5lObWYwyHWiCmsE2WrRFhA%2Bcbk4vwz9jt4%2B%2F4fJ9ils3j2sKLE%2ByzWxpOuh%2BT8Es6xXl%2FQ2YdZjjJD%2B6cRafnqdQYqQoh%2FVw9XRo5TbqATJQBIjZJS1QwZplQJWV58supkw8uFWTPTkZS%2Fq02KK9fY99TR%2BhH4%2BNDNWpCRyaJeihsFV8AKGX3wtZtnEOq5yHO3X0FU44LjFZ6uw8BsLfnLv6k9uqfISahJ74JLZnpF%7Ctkp%3ABk9SR6DorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/TCwAAeSw4h1pp5IE/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
-      },
-      {
-        "itemId": "298491892531",
-        "title": "pokemon sun and moon burning shadows charizard gx 20/147 psa 9Opens in a new window or tab",
-        "priceC": 12500,
-        "shippingC": 625,
-        "landedC": 13125,
-        "url": "https://www.ebay.com/itm/298491892531?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD33Z0GP5EA0PQ5M8YYXBT&hash=item457f80d333:g:2PoAAeSwK3ZqLttW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2FnHMBiIh3CjCk0soD%2BUjfK4%2BQkm%2BXxa5oKbBH4XgyxH1QQMDlkDD48Dvwtd2HeYXu7W3%2F0p56pzFrSgm3KUIQQPb3Df84%2Fo%2FvN3e6CxlzzQIAbJLPoYW3G9A2s0YB4bt0MYYJdxvlQf9SMWGA%2B%2FuTPOYQiqyT0wdzR46poVFAPXM2pIEwpTFEXCz1SAVPbC%2BiQwImCB%2F8IjszciofDhNVTdaMBm%2FrhDYn%2B4RyOxkEqw3v3ti56tD1NZKuR1O4ebayW5vE1TXp9YcRnRChg2sbzme0IypKe32r8nlTUeD8sw%3D%3D%7Ctkp%3ABk9SR4DAjO2DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/2PoAAeSwK3ZqLttW/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "298593585605",
@@ -430,41 +485,27 @@
         "priceC": 13999,
         "shippingC": 528,
         "landedC": 14527,
-        "url": "https://www.ebay.com/itm/298593585605?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD33Z05ASPMWP0086M7M8V&hash=item45859089c5:g:NfcAAeSw~bxqggTX&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCW7ah1qSLttDvTIkAb5Dos4vBgQRDLH0ZpA30Yyh%2BFuCX9FABbAU9261fXan9uBXWMqbKf3DO5zMYkG8JApBfAABVATmodAQxStS0U7f5%2FoLonNARMQlVrb0KgOUH3%2FiL1Z1GwN5Q3JKoVmqH%2FSVn4KMtNzXqBNd85gu3piry7YpBuZIULkS36HhesnHVR8bIoZWy09uyCoJ6AqZtELz1Mc5YKFtevWdfwGmVztirrH6pN%2FQ4l75nLk%2FKrR85mN3cnD%2Bus4f71hPc%2BbVGrQG3uQmsTicyo3CnrIsCcoSVWOFaHUjNnqttJN%2BaGsVH605hEmakz84NlUk350elMb0GP%7Ctkp%3ABk9SR4DAjO2DaA",
+        "url": "https://www.ebay.com/itm/298593585605?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBEFWANMQXDG8DCADA36V&hash=item45859089c5:g:NfcAAeSw~bxqggTX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2F3a2TX4kDcXe9e1dDfZqP%2FhDkSx0u6pOyuh69ld9%2FLBtvVn9vbtde%2FUxFoq0sLOZDAvTQ%2FTKpcW1itI8rMniz%2BTBcbdDo4Dbh3jOsD35gePDWonRvaDLma326bHnoGs8GInIhJmvsgs7CWpWfCQA%2FM7qXQS%2F1nNXufVv21paPo6X85yaXxB%2Bme4WWdRgTx8%2BOodhalf0jdrHW9gN6K8hWgxTImrMp2sufYTUOYOUEt9S8GxUgNEJC3QLj0E5ez3iFAtI0oNG9WOHLKgwjkX3Zqx2a8H7OnmoW%2Fu3Q4hHGbQ%3D%3D%7Ctkp%3ABk9SR6DorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/NfcAAeSw~bxqggTX/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "307133961864",
         "title": "Pokemon Company Charizard GX 20/147 Burning Shadows Holo GX PSA 10 2017 ENOpens in a new window or tab",
-        "priceC": 14000,
-        "shippingC": 562,
-        "landedC": 14562,
-        "url": "https://www.ebay.com/itm/307133961864?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD33Z0623CZDZ6YYJVRVVS&hash=item47829c5688:g:I3wAAeSwhPJqhLhF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xADq6sxZFuzJXD0sU49kklnRqM5rt30JDYlcyxHtZ0%2FxWMjkTXEawibxnLZfnynKIZyU9KzoAuhqhxthrza0et4dmcDevgV9GlE2b3mLZZm26pQPUltumd9OIjvus1hVGpM6Zminr71TYD9WekEpM%2BDClZ%2B3%2FHTPtqtY2oypCsS4BHP%2B71mGsFcajKkz0YXYFzwpSqk6vD7bFxXESsDFIk6ynw9Cr%2B1U%2FTDjjtyEA3GgWNSkDjPlqwEqYT7sz7k1ffbhRHSK%2FgrX4iYOtA5UztM6KWaj%2F%2BjQNLY7dJG9zZ8uA%3D%3D%7Ctkp%3ABk9SR4DAjO2DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/I3wAAeSwhPJqhLhF/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
-      },
-      {
-        "itemId": "128031998695",
-        "title": "PSA 10 GEM 2019 POKÉMON SUN & MOON RESHIRAM & CHARIZARD GX #20 UNBROKEN BONDS🔥Opens in a new window or tab",
         "priceC": 14250,
-        "shippingC": 830,
-        "landedC": 15080,
-        "url": "https://www.ebay.com/itm/128031998695?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0FD33Z18MHFRPDG36HGVBT4&hash=item1dcf4d42e7:g:QNoAAeSw92lqg7IW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCS%2FUh4cXMV4HgAUITGPDVzyyxcMqEANl4SwmZgW98h1W2cjEcHPvr5qZ9j0dEBQ%2BGC8LGLmm3gQZ21RBVcM7gAVrJflP8jGZa%2BTn0mtgT2X0wBi%2BD948EHHmh8C1TcnP7WBEIvrLktKFWmI17w9Kpb0x6xrG4cuj%2FrAumGViwupgM403pW1aMbpAYaRe49gwrIHl9ZhoaIHOoMb%2FmtmgxMYit2lKSJ4WRM1U%2BMVuIklTFeSNdxMum1jbUugLzaEytmvEXxKVp8fQtt33uv5E%2F6VZt9yPVol5OlseXRsjRllQ%3D%3D%7Ctkp%3ABk9SR4LAjO2DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/QNoAAeSw92lqg7IW/s-l500.webp",
+        "shippingC": 562,
+        "landedC": 14812,
+        "url": "https://www.ebay.com/itm/307133961864?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBEFWBG3RRG3H3X8BG1D8&hash=item47829c5688:g:I3wAAeSwhPJqhLhF&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAJvxLyaUNqvTsL1ZNr28BfQYmvr88gylSYQlJMQiitnH87TCNQrRqLBBf8uFxn1a%2FgD8A8prk4avrOK%2B8Np3c4BLTYXbpj015W2tkK4tdnJHkii0IqGPqI3mSv2ekyW%2BjOKqHl12j%2FqafcCHoLXA7rsLN6FJz0j2CBnVWZuz5nyn%2BiFtg%2FpX7WFzlYAHOMhGAH1bFlmCIh2VS2tXBPhCSU8qzuRCMV27t%2FYpkfM2vq5LBIudh%2FUa%2FFQUU%2Fj32m9vFK8Vrp2m0QdDByXF5%2FyxY2uXWZzsWvDozFk%2BhPNxP2LBtv%2FPAzYzFo2vsvoMkyCOoLkJx65Vemfb9lOvtNBR40%7Ctkp%3ABk9SR6DorbGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/I3wAAeSwhPJqhLhF/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "355961768384",
@@ -472,13 +513,13 @@
         "priceC": 14999,
         "shippingC": 805,
         "landedC": 15804,
-        "url": "https://www.ebay.com/itm/355961768384?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD33Z1R9CPE5MAMSVW1BTK&hash=item52e0f989c0:g:6e0AAOSwskBmv~9D&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAgKTAhZBfIdNOuZX93w30WcgsBTFWM3%2BZwH4K03Q6QKekzKfLjDT9e7sptPxNyhe1wxg%2BmeUKKZbZttVoUYdQGOOw5wHF9mtZI%2Bhe5yN0duAXqv%2BXcYAXmuiw4ZtJZ93BNwkSxBi%2Fva0l0Oz%2Bwtkg8VGnGWKbCk93tCwRvnoqOANeNQ3I1EreqrCszbkC9GvofKOJwUWK76IgYlsiCpgfxKCEPSfeyjs6DFc3OQuhDi916I8HRHU%2BJhuIV1chn6ZPbk05VhKVQHAXm0PaEEUjon4oGii%2BxH2tU8KYsNwMqBClWys4tbQPiWV47V%2BjJvmccgL2CFbtFBPz7aHOO6OkX%7Ctkp%3ABk9SR4LAjO2DaA",
+        "url": "https://www.ebay.com/itm/355961768384?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBEFXA1B0P43ZMPRPJNX6&hash=item52e0f989c0:g:6e0AAOSwskBmv~9D&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAgKTAhZBfIdNOuZX93w30WcgsBTFWM3%2BZwH4K03Q6QKekzKfLjDT9e7sptPxNyhe1wxg%2BmeUKKZbZttVoUYdQGOOw5wHF9mtZI%2Bhe5yN0duAXqv%2BXcYAXmuiw4ZtJZ93CxhbHdsPsIpDVZtgZIojTRhoxMUcDyR6XoxLkfiDu938TSe8BQY5askAxSESnrZqGnE2Qecb%2Fx9nqwxl6t933jQLBKs%2BSDJ86KxrbgrZ3fm9XweKszIoCDVHtapS%2FC5kUS%2B6Y1tlI%2Fam0VCOY0XS%2F7EzbNMfSdnhYr7XAIOtM5%2FK4Rz5dcd7aN4YFYEnQKpA5KNd4wEdVHrj%2BxU8I%2B7dD5%7Ctkp%3ABk9SR6DorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/6e0AAOSwskBmv~9D/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "327205659322",
@@ -486,13 +527,13 @@
         "priceC": 17900,
         "shippingC": 0,
         "landedC": 17900,
-        "url": "https://www.ebay.com/itm/327205659322?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0FD33Z2KGCZCD4XYNAMGKC1&hash=item4c2efa22ba:g:akgAAeSwu~9qKOz5&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBemxgUzaysNJSDg6L0KmJuBNXQF7nF4DF96A8HtYzVtw3dIfPdna5EEjNDcvkpA9U49YbRceB3zYRxaSvXj1595CuAl7yPboyuswG8euE2we1gDb8e0SA8VdlD0%2BtPDENoYZBYm%2FlpukBPd1eNdmZQ47m2MHpE3OofChwkEBkqttSuypptt3zCPeu%2FAbA5nndA0HGmcpf9nezapr%2F9XkBOprXrKs3lRBwjoFTc9%2BfmsvOCpCUdQwMeTDRVpoJ7snhNbFHaLeTrpG3yuw4yVcz4mHrQZH4ouYlImU9ioQOlBg%3D%3D%7Ctkp%3ABk9SR4LAjO2DaA",
+        "url": "https://www.ebay.com/itm/327205659322?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0SHBEFXADGXF4EE4GCT19VP&hash=item4c2efa22ba:g:akgAAeSwu~9qKOz5&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA1KblEPctJe3s5fcCIhjAo%2FHIdhU3YXwlMZy%2F4W2MjzClxw6RcMEw%2Bf06kmRSOPkuc%2FAEtnlrJE9NZnHUy413id2Wy7our6toMOoQk8ctwROiSM%2FgOYHaUGgZWenP%2BxS4Tlo4ICu6JJtKDVl4b8xNI%2FsjNN6ho2Qrq6MzQ7N0w%2BqMsU6ku%2BtEDQylTvDuGqIGlnVYd6zRjexb3bBoJoDD1qzz%2BFaXH%2BYTlHUmJfI1ehijROaus8rrcSgF2UgEilCu45f3axJ1jtqlFC--KkTlb02rdsrGR%2BZWPn9ex%2BdwV2UKL4bHdcuHldygbHRXEYrF6w54hv6x3eSXmZS--m3dm%7Ctkp%3ABk9SR6DorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/akgAAeSwu~9qKOz5/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "366431921907",
@@ -500,13 +541,13 @@
         "priceC": 17500,
         "shippingC": 517,
         "landedC": 18017,
-        "url": "https://www.ebay.com/itm/366431921907?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0FD33Z2M776NXMEZ2AT6DEK&hash=item55510b66f3:g:LZUAAeSwldpqE4oj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDRk%2FalUPD1xMqSurPAlKwQeKCzax6S79sOhHPSUBUqhDhMz0MEKK54FjJR6UJiJkOP3C9CzYhQqq80zPzZPQyaIX5ry6h%2FvKIXsC1iX2VM3HXAqj53pS%2FRajbb%2BT2%2Buco%2FYyYS%2F2BFkqDX7ye6VsmaWQOJi5YQ2L6XR5xcXgBnCqVTxfxs4kL0pxtC%2BJ5eFiDUkjH27Crgxtr0DIGLS74Hb%2BF7p%2FJzgfiJ%2B2BE8Dns8o0uTZl1x%2F4LhxegHM8QmuhBYEpKa2bSlBKYk2X%2BbPJcbLBmpbRzTAdkoxintFGy0A%3D%3D%7Ctkp%3ABk9SR4LAjO2DaA",
+        "url": "https://www.ebay.com/itm/366431921907?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0SHBEFX8ZBC2DRMM3ZSWBHQ&hash=item55510b66f3:g:LZUAAeSwldpqE4oj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDRk%2FalUPD1xMqSurPAlKwQeKCzax6S79sOhHPSUBUqhD5gln9UGcf0fRnDplNvBlU9xI9Kcw5vfz2LR%2FaWaiELfprqNYEZMxvg7ANMG%2BV%2F6GkOfJeHMK3sKo0%2FWMQP2cirYbgISCqn1RXOIH3j8CJC1RE96%2BYH6%2B2RGTwz6NaxW0x%2Fa25ZwFSAXN0ytH%2FV6CVYZTqMZrNhu0dl%2BpP2kE%2BhqF3chL4h%2Fxo8JLLCBidt6vUytpgkUYSsCMHJSb0ye4RZgRIP%2BqlwNuNO0UiSxw2lx0W3vU941gfhe%2BSne7DyJQ%3D%3D%7Ctkp%3ABk9SR6DorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/LZUAAeSwldpqE4oj/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "298468751094",
@@ -514,13 +555,13 @@
         "priceC": 17500,
         "shippingC": 650,
         "landedC": 18150,
-        "url": "https://www.ebay.com/itm/298468751094?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0FD33Z2CNA4W6207B2AT4KS&hash=item457e1fb6f6:g:LLMAAeSwPghqRI4e&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBUAzy9TerdLWOq0j%2Fh8csQ6Mhg8zoWnBi2nRJSYL6x9hZenYhb5BzLjIHA%2BuU2UjWQG08XCZwrJ%2FD4MTAQiI3fDvkrEtrTeYYTZzmogbjKmZdyX8y8EmC%2Fm4f4hegu2L0%2B5VEn3OjxUsQSadK7WjkUQkM9d1OqhC9JK9CGWjiJaSmixqE2HwsJAbi2H9S3XoCtIHTzEHRDnySe3IsD9wKnfWWn7wvnyaStLnZ0Jm5o5cfRUtSD3IRzdYkd1N58xX9c6xWObXVZo6GaQVB8zWoslg%2FK6yKc22L%2FJZI%2FGiT0qqgduczGklLW6qcZltKc3kETQiIsJQh8ZzjR4yG4c2C4%7Ctkp%3ABk9SR4TAjO2DaA",
+        "url": "https://www.ebay.com/itm/298468751094?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0SHBEFXDM9P61FQ73NEJ60H&hash=item457e1fb6f6:g:LLMAAeSwPghqRI4e&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBUAzy9TerdLWOq0j%2Fh8csQ6Mhg8zoWnBi2nRJSYL6x9hZenYhb5BzLjIHA%2BuU2UjWQG08XCZwrJ%2FD4MTAQiI3fDvkrEtrTeYYTZzmogbjKmZdyX8y8EmC%2Fm4f4hegu2L2k8Vo4ZLYg%2BOByzCgAJ2uE8niGRit%2FWY1JTBwB5gqElce4Fpfv5BVMwaNOzkz7vhZsrzssmP74Ln6MwQ4t%2BFQJVx4yVolHKTM8yKGPjc7806jA%2BNwvDg7BYy7EbjIgzl6nci2p0tp1tp14PwkwH8%2FVb9L8NyUkhumwI4nTNWKER7%2B9XnXsfiIaVg1HAn8qRQlVXjCfN5H7m656RbbsHfvp%7Ctkp%3ABk9SR6DorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/LLMAAeSwPghqRI4e/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "336679269261",
@@ -528,13 +569,13 @@
         "priceC": 18500,
         "shippingC": 548,
         "landedC": 19048,
-        "url": "https://www.ebay.com/itm/336679269261?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0FD33Z20Z2Z73PD0VY91XKT&hash=item4e63a5f38d:g:BdkAAeSwzNFqTvWg&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCzF3kKzV0KPu8fPi5MoBN8SOA9ABH8UkJqWtvBfkM1Gt4Wxz3lUoHR455nzPjK51m25uglAbzymmBvW29%2BWXIty0n84qT3d05oEQqS02apZ9%2FLBj7851JBH9%2FtUeTFLcJT37bProi2vzmgo74mkHJn2of5eEK5YqK3NWyhzi6Sd6u%2F0WVbo55hmkYti2vAUbKgkBZgpYXFs5rY0AME4vqHVkT7Kf0iduMe%2BzDUze7n0zCx7wK7cUwlU49K9okM11Yv76XODYfc3vN2djGpzCqS%2FqOiiVPkG45Amyda0Odnwg%3D%3D%7Ctkp%3ABk9SR4TAjO2DaA",
+        "url": "https://www.ebay.com/itm/336679269261?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0SHBEFX0JK4M6XE38CNEY2B&hash=item4e63a5f38d:g:BdkAAeSwzNFqTvWg&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCyMfRxvZm7mvFY%2FjsGNgEm6v%2Fz%2B0v7z2fD7kWhuL8KkNrRKxCGfEqMcmNf7N6pO24bxjpsWANt8hN2I%2BwDwzSMRYn63NGS62DkcVSDh52fW0pNF6l2Vjx0EenzZKYnGon%2F7n0EjqnO3FN3fhTHg1Ze4e6vjGg%2FnSNs6nyxET%2FQtG%2B46SxA3YRWpmbdkRikH1gX%2B%2FBoGLXfvsb8yqNVnYGTyuK%2BAMSZfrlsvt%2Bj%2Bq%2BMr7OzgnQ89YXxjBnJk4eFnRQ0zwtCkP5p0Ls1SriHjGS8LumCKI4ftSfX24zSxcQjS%2Bair%2FgGV5saPI43w%2BwSLl0S%2FECaOkbucVOMDSIrAJgX%7Ctkp%3ABk9SR6DorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BdkAAeSwzNFqTvWg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "403152152962",
@@ -542,13 +583,13 @@
         "priceC": 19999,
         "shippingC": 0,
         "landedC": 19999,
-        "url": "https://www.ebay.com/itm/403152152962?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD33Z2280DA457RRDJ7GJ4&hash=item5dddbda982:g:EcUAAOSwBKthPPY2&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDCdLqVaQ0fpYSzf7VDWv7KjZpEr3qQQ5yE0oiqhvkQH2XtCSPz2SM20ovDOAMWM%2F3yIFaZvEwgUOcgLV57tJG4canlQ4Dzm7598pCmq9gkYonS4wXwkbkF%2BTtdrLlKy1ochTMSMPzLNBommDW%2BCiHvL3lAJi7tycZCAosNDksgite4DZUK7L9f7MKk1ckHEoyhKcyrAfF2RW%2BMuofMphkX23eIcCWyeRIu1kTDGu470DORyvaTNzC0xJxw%2FKepmWNKBZpJLFYcmvb5nhUXdIjvqOho47n4GhhQjP%2FRBVQpkNQPO1TYvZP2c%2BvrDFAhF7CoxY8GmwLBqx7tdhPTo5kA%7Ctkp%3ABk9SR4TAjO2DaA",
+        "url": "https://www.ebay.com/itm/403152152962?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBEFX7T6RFE7D2VWZ7NQ9&hash=item5dddbda982:g:EcUAAOSwBKthPPY2&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDCdLqVaQ0fpYSzf7VDWv7KjZpEr3qQQ5yE0oiqhvkQH2XtCSPz2SM20ovDOAMWM%2F3yIFaZvEwgUOcgLV57tJG4canlQ4Dzm7598pCmq9gkYonS4wXwkbkF%2BTtdrLlKy1rslhxz8Nm7O%2F5X0%2B0m0D6MosYN%2F6g1bAMbsi0uDSa9OiooYYcmNjXYptc8TIpXhfAsxuRQ5iWI8hAzLSSZA--4TTNEhYVxmKOTJXR%2FOKdiOuYIm%2FIlqXTr15lTePkpwAPNcLfhmjBSTsl9i5919V%2FWsVVg3EFgd%2FHFXbDel9SNcJx%2Fro9OVD%2Fk1UJ5Vgpj%2FCkjseMoWvG%2B1ribvWsYvTBE%7Ctkp%3ABk9SR6LorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EcUAAOSwBKthPPY2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "206400537800",
@@ -556,13 +597,13 @@
         "priceC": 20000,
         "shippingC": 0,
         "landedC": 20000,
-        "url": "https://www.ebay.com/itm/206400537800?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0FD33Z21WTMH8MMY4AFC6YG&hash=item300e6e44c8:g:pk8AAeSwoS9qTRVw&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCa%2FMe9KIab%2BJegFIkSBa1tF9KAhFnMFk2pcEXGKnpvcXFHHtzBndkloiCy8P9F1YvzEmdWsczx3pa%2BFOi0jjyo2XfSTWK5AjZw%2BE9ClUAF%2F6InRGQaLWZ85CxksUELRqZyahSGed8uBpEM8OiTwu0Cu9pu2e57i%2Byole671p698iMqc3EjDPCtkOkKOGeErfmmu0HtfdnG04%2BToammCOR%2B%2BLZ%2B9IITs642BH59IupqgA6zysDAdVTTR2gWRBkHeCteALs0FUbjKvtsdv3fEy3lce4WY5u60cyZoQg95RSCYx5WwIlDgqcQx1UUSffhv2UfoJmefYdxLZOMmR9gTkYx%7Ctkp%3ABk9SR4TAjO2DaA",
+        "url": "https://www.ebay.com/itm/206400537800?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0SHBEFXJRSFS5CX6GGA7TQT&hash=item300e6e44c8:g:pk8AAeSwoS9qTRVw&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDLnhp1tSm0b4c063RQ9YxjY7i2xGSTf2URZOue34iBhJR8%2FoX3nln4xRWvmJ4moRG7EQhA9ezwULaEpVsGYztW4qxSnmyQXhbCb6QV94dYxypnHxPxonHXi%2FlJ5SdHKVcbK8rG3ROijRGIi4E5b4Z2Z%2BAmSb7iew%2BohhAT4bxQX6EI8y8UTG7GD3k%2B19SNmh%2BOgSa8NCOToRh5s6Xg9pP7DBqyUNB1WZAD2y0Y3QRYeDfA8plMA49PlklVzmne9GdCiik%2BUz6D9YROe3imI7AvLJpGt%2Bi%2Bwcp3GeNJtN157A%3D%3D%7Ctkp%3ABk9SR6LorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/pk8AAeSwoS9qTRVw/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "168113348333",
@@ -570,27 +611,13 @@
         "priceC": 19900,
         "shippingC": 624,
         "landedC": 20524,
-        "url": "https://www.ebay.com/itm/168113348333?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0FD33Z20E74B4H3M91C04R7&hash=item2724561eed:g:7HYAAeSw1L1pd-bW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAop51ngRxiY6lvP%2B2e1pQQy8F8%2BS4idVp%2Bwrjjplj9rsA1LYyoCwjv7Mm60FVFcGd5MDAhZ3mNMcb1sVMjUO1z2XHiP31k9ezZP1bSgQXyPuJLOkIiRASsLXC8c9g27onZ6GhrUYntEOowwXHet2iKEbfTBxEqyzv8wzPQlCUyQr95fu7%2FccYhkqiZC%2BKfJfWQiOzNLYySv2%2FWFQg0p4WHh1fJBg3rJFMfd69%2FJzfKvAPCItVPkE%2BatygK1Sgx4YUXFK47ltQmQrlKrIpQW7Tw%2BqXPnYDaDERVeD6SpTEQxKz7z55QbC3g%2F2RiA%2FBpC%2Fb6Bf72avVN52WnHF0m7B5J%7Ctkp%3ABk9SR4TAjO2DaA",
+        "url": "https://www.ebay.com/itm/168113348333?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0SHBEFXHWKZH8CFE49AYGQG&hash=item2724561eed:g:7HYAAeSw1L1pd-bW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAk25WWKKanrSuw7%2BKnrYRuxLwe7ofqj9n8Qpp%2BUb3y6KmJ2EuHWG3ONwg89KzmQtpiZoj%2BtctcDx7ys2uh037D5Ny0TqoOiZCS61a%2BRGCIcwdt%2FS95vcMydDo2zJ7U%2BZDsDP7NohTCsVQi1Mtgam6TNTS4FOr19qnn98nm0y9AIvrQESKPqgHbZP%2BP0hr%2FqWBAnOAmIOd2Es0ndD3CtHA%2B7g0vHsdkYTuOYU7945vj4b0b14tCPY4GMHQKVUibRSDQooEGdjFe0ORd4acxpnfjs0reFThuFyjo7cE5TIolyA%3D%3D%7Ctkp%3ABk9SR6LorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7HYAAeSw1L1pd-bW/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
-      },
-      {
-        "itemId": "168616056545",
-        "title": "2017 POKEMON SUN & MOON BURNING SHADOWS #20 CHARIZARD GX PSA 10Opens in a new window or tab",
-        "priceC": 20250,
-        "shippingC": 495,
-        "landedC": 20745,
-        "url": "https://www.ebay.com/itm/168616056545?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD33Z24BSGGCNH33XP082N&hash=item27424cd6e1:g:wqUAAeSwiiFqgJm0&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCwBq%2B%2Fxph5W2Als2zNTIiMQEOZQuECyszpvycDSpjXOuJytIZY1cauen%2FvNa6rYdJdCI0RlCVWULAYln9MACYPW8ZGmn85DS2srwD%2FumLn3MaF4kXWq2Ievh8s8sfzTd25LrRTJOZvOkCxtvvqETlE3%2BoHnm6hWd0UY0hwyo7vbfETbfNhUNOgyvgGoxRUSoaUzERUs78NPxj%2Bks%2BSABNyLQSKzny%2FnRW5VWom3EWqRkbOL9%2Bz%2FZfBhSG5wq7WhgX12FSeE%2Bqk1yBbOaMVOI17UKdCXuG9xfapniJ4WMEfVsoaviDrOQB9dWdHKV8vKO7UXAnlmJ39fOr%2FzIGDzw91%7Ctkp%3ABk9SR4TAjO2DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/wqUAAeSwiiFqgJm0/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "227440043129",
@@ -598,13 +625,13 @@
         "priceC": 20000,
         "shippingC": 875,
         "landedC": 20875,
-        "url": "https://www.ebay.com/itm/227440043129?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=5058603013&itmmeta=01M0FD33Z2QXYPC7HEN7K209GQ&hash=item34f47ba479:g:eL4AAeSwYG9qXtSI&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBhuYIH7tzzvksWmwxjZwJON2caxs1dBfXn9IHxNlIyz49G%2FO%2BD%2BI5iko%2Fl9WvTdX%2FmG%2BucrmMojWz53zcRi9dVMlLwFhAZPSV0QAoRq6LM6z5r7PSGVX65KUxHRr7uetAcvc%2Fp8ijA7LQWUuXRCxb3EGonde0PFALvg8mYqIr1Ju0ZLDwlbZ7uw0NwgF7iDVZPRRCdyvsjzJWJtPkgF%2Fe7TWfrPXR8VOIskTuQqZKno95fyarJ8zGoyX8qXW817Wv68ieMYgaM1bu7sZScCX4uxggjnCluDQop6uePdhHD%2FQ%3D%3D%7Ctkp%3ABk9SR4TAjO2DaA",
+        "url": "https://www.ebay.com/itm/227440043129?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=5058603013&itmmeta=01M0SHBEFX87Q27DA9EX188D3M&hash=item34f47ba479:g:eL4AAeSwYG9qXtSI&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAwLPJaE5pfRrx%2FwtG%2BsSqNKoHHeDNaencnXK1JkmWJuF%2Bh8as4wiwH4G7nGcy4HIQ40cpzsQ1hnniLm%2B2kzmtN2GZy0EaCZYiWylqc6L3ykyk2KAkCdwLaCRK5J3UfN1OfSQ3cCupKvHhBt2yIV8QLtwRj%2B8GbWSVyg%2Fy5MFS%2F3K8PogVy45MP302Ni7FPVLgFQmE4EE1HnzWFs6r4WGuMyhgiq8gRb%2BZR7gkAXRGmCw3OxVRAvVZeXd0ySd7%2Fhgm63u2zs2AUwIyabOj399Xu6GGIjRYTGyGmksVINetk2GNyldHLFaxv8jGnSXsBxT6zrZ0YzyF4cEkJTE76Q8k6%7Ctkp%3ABk9SR6LorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/eL4AAeSwYG9qXtSI/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "187758286566",
@@ -612,13 +639,27 @@
         "priceC": 22500,
         "shippingC": 499,
         "landedC": 22999,
-        "url": "https://www.ebay.com/itm/187758286566?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0FD33Z370PS40Q09FAXY72J&hash=item2bb74416e6:g:YBUAAeSwfXRpHn1j&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCZjeLV226Zg7IC6ErT%2FxNjUiWhqD4MSvXcykPqepXXCAEqyjTjTlHjsQ1UxLNiGZCIOGWxBbcEjkFYT8%2BMuDJsifkaPXUoI6QhaQcdLJ6rhhHXTCQ%2BhSBCMyzW3g6Od6P37OLJnJZqaOK9zdPU%2Bo8kvnW1uJ7wxd6tGZ260eEg%2FU4vxZg44YEYGs0YQx8UZ1CXT4w375QudmsH3yAdBP6MShu5qLNK7jwsuAEFi7eBbsYslmCiiio55vVPlbfwCxk570PXOlKeM5X5uSe05ZVwOt9%2B9MhcDCQSvqEJ%2FgN94g%3D%3D%7Ctkp%3ABk9SR4TAjO2DaA",
+        "url": "https://www.ebay.com/itm/187758286566?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0SHBEFXT4T1X88670AZXRX1&hash=item2bb74416e6:g:YBUAAeSwfXRpHn1j&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDg5E8y3mkIhY8r6rRvFR3UyHStyQexp8959g3MZIbQBbR7gCvIVnwa7wP1mf3puatUOdrDtCwzOyOKn44iEqp%2BDiqaDYJvzQHDD5mz6S%2BibGH10MMaXq%2BYaP4Dsaxqsegipttb%2FxuBJqSKZXUW%2BmyLm6pB7TcbFrG%2B41PZjHUGeFyeiSMYHDKePqPpmC6E9mE80x%2FzYqgfA3OkEi63NeJTKWkbK%2BKgZ6jA9DqUH%2BGXlZZnee70EVjCAtefJjc0QO0fl%2FsT%2BcIJc1PudXAIU2fqH3CqqucHtfvPvK6HcmF1rjGFJ5ixQtgYiUai0IFgs%2FXbrmB5VnjwmZeAeslQiXi5%7Ctkp%3ABk9SR6LorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/YBUAAeSwfXRpHn1j/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
+      },
+      {
+        "itemId": "128031998695",
+        "title": "PSA 10 GEM 2019 POKÉMON SUN & MOON RESHIRAM & CHARIZARD GX #20 UNBROKEN BONDS🔥Opens in a new window or tab",
+        "priceC": 24450,
+        "shippingC": 945,
+        "landedC": 25395,
+        "url": "https://www.ebay.com/itm/128031998695?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0MCVCJT2N2MPQH7MFYSF7HQ&hash=item1dcf4d42e7:g:QNoAAeSw92lqg7IW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCS%2FUh4cXMV4HgAUITGPDVzyyxcMqEANl4SwmZgW98h1aFTU0kc2UXwbn8O5VZE3%2FQWFuNSvNGmfiB86CEieMnNAzgNfzVSAXS7F92oKRXUdGCYnF7X7GgFvO6qeU89vl2GOQBXwgGlImnTAc%2FPxQQI%2BYKewwoKD5JDYW5d7ZqaMoMTzHrMTosQOsWXYu5mdScpjYEZdifIOw6xxayTxBbXbk%2FY8Sx53Aw1%2F52Zrr8xUGhloxuerxq2jZnSqx0bGhKZhukthM7JNQfKnOonz6edP9cRkqPP50XyreiddK3fzw%3D%3D%7Ctkp%3ABk9SR97J7YyFaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/QNoAAeSw92lqg7IW/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787223528144,
+        "lastSeen": 1787390987599
       },
       {
         "itemId": "297682950343",
@@ -626,13 +667,13 @@
         "priceC": 24999,
         "shippingC": 573,
         "landedC": 25572,
-        "url": "https://www.ebay.com/itm/297682950343?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0FD33Z35H3Y58KXF33J95JF&hash=item454f4958c7:g:sU0AAeSwlPlo7cSv&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCc2R9Y9TtvzldXLc01XBEIPnNYQrDkboXnIdPcuqSfcWj8V%2F9Ni4F%2FhIVpilaSM3wwgmqnWDq2riQT1gCvtZPX7kfcPD7mLRkiiiw%2B9IEAT9v5Fc7JJ4NLbdKJogwrp0mr651KzodA%2FQf2bVDGCrn5EpPILKENDSlwLbDXpycE612JQbIDGro43uFg7I1zmRX8OqM0kssuZeU1fdWzF%2Fxxetu94AldRPFyx9RH3aPRcsmdOuFPSXHHaTq2JhXdDKnYXS8ifvuwldXcMmp8fxGMmtxstImc%2FBcC%2B8%2B0WD0TxL66R9BtyW%2BmrPAZJdkdtpycSl8Sk97VRYZ2H9BdfTOv%7Ctkp%3ABk9SR4bAjO2DaA",
+        "url": "https://www.ebay.com/itm/297682950343?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0SHBEFYKYVR82BSHF5W9V8B&hash=item454f4958c7:g:sU0AAeSwlPlo7cSv&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCc2R9Y9TtvzldXLc01XBEIPnNYQrDkboXnIdPcuqSfcWj8V%2F9Ni4F%2FhIVpilaSM3wwgmqnWDq2riQT1gCvtZPX7kfcPD7mLRkiiiw%2B9IEAT9v5Fc7JJ4NLbdKJogwrp0lf%2BhStptM2OcRHXAYiBr9Vbo7yf%2FnEHsgunPFXVT0kWvaFknp3km7dezYwXFZUOeCCbIjJOAZI80rRsbOp0s8kUs7L58wJ279K2LMrEmWule3jvvN4oHtRJCFIK4ZrmS7E003qy4G4uAKqpIx8kuKz5fgGT3Lz9Y6CHq%2F8haH6ImABtAjWSmVH2Bnp9jnO1gngnHuP5t%2B8jIujJ%2BxDV364%7Ctkp%3ABk9SR6LorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/sU0AAeSwlPlo7cSv/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "384162597633",
@@ -640,13 +681,27 @@
         "priceC": 29500,
         "shippingC": 945,
         "landedC": 30445,
-        "url": "https://www.ebay.com/itm/384162597633?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0FD33Z3KYHYPCMWPMRBH9EF&hash=item5971e00b01:g:yc0AAOSwnzJgnWUU&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB7shzifqBF9VtJTtkd%2FEkznTqM6iHOT1vHgdw3uXTskbVCxmK6PtMUbqVwNpQqGPW77EZjiPOq97iLOZgQIS8anOwLk2lkVKMa%2BdlspxJS1lvcrEg0r8GHX7EFcKZEOfczZ7GINy68DNl6ZASwlKbmgq08hJWEX%2BJaDCzcsdbv5fXEfZGgXtAflrjNvAKQJR1NnYnY%2Bar3LfbgM9KDBE6JXRsjn7ezM03jdqJ%2BGx6VdLzH83qHw2FXUmFhP23D79WKQUpERzOygYdG%2B26mQ7Oz7UBmfCvkBY1Hzw8kyv%2F0Ow%3D%3D%7Ctkp%3ABk9SR4bAjO2DaA",
+        "url": "https://www.ebay.com/itm/384162597633?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=14043372090&itmmeta=01M0SHBEFY6YJQFFAF0E5C3B8E&hash=item5971e00b01:g:yc0AAOSwnzJgnWUU&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDPjLBj5XnfzDx6kzM2WIKtmqYln33SoKegYZByaGeXD9V7RpKhZic5AyyW%2BgR9Rhz5JrFxkMzuMt6n%2FWf5RoXZm1WRVdRos5NGGEZWxV4ByNdsPDr8iOTqIWrMrUBiijpH6bdzOfYhot%2FxTLZRP1hTnAVR3APWansgagQlbEQfRn3mDhYZVr3rhbkWSzDj%2BYOTQH7ERhb3kVv6T8gtRVb0DQ3GL1IVC9atC338TvJpgVDPI25Tlt7mhEzsIC8GPbbsWVPPOV2j7sp%2B8YwZCKIrsHvlTdhAQFAqcICnFBc1dNIgu%2FFt8U3GcMIJ8Oc9hrVqsNUyCe%2FtSSu%2B4i%2BofJkM%7Ctkp%3ABk9SR6LorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/yc0AAOSwnzJgnWUU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
+      },
+      {
+        "itemId": "168616056545",
+        "title": "2017 POKEMON SUN & MOON BURNING SHADOWS #20 CHARIZARD GX PSA 10Opens in a new window or tab",
+        "priceC": 30000,
+        "shippingC": 495,
+        "landedC": 30495,
+        "url": "https://www.ebay.com/itm/168616056545?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0MCVCJV510RWJVP293G5QD1&hash=item27424cd6e1:g:wqUAAeSwiiFqgJm0&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCwBq%2B%2Fxph5W2Als2zNTIiMQEOZQuECyszpvycDSpjXOuJytIZY1cauen%2FvNa6rYdJdCI0RlCVWULAYln9MACYPW8ZGmn85DS2srwD%2FumLn3MaF4kXWq2Ievh8s8sfzTd1RpcVYltSTb55WBwLddfrXEOcWakzX8aHFcIWthDhu33Pi2%2B5kE2VY3tZq%2BTHdRcPbXhwrGjWcfxixGa7zbYx4UCc1ufQNod0PLpsmipEW6WTygAPmLjRwebz9GTlHQV%2FKp4v0hSCl%2FUpbbo6%2Bq%2FS52xWECO6zCNTWGAxTmo12TSSdUrcSSGgQyHkLZtTIHz7CKTg2ZAVljzmoYxaBI9D2%7Ctkp%3ABk9SR-DJ7YyFaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/wqUAAeSwiiFqgJm0/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787223528144,
+        "lastSeen": 1787390987599
       },
       {
         "itemId": "389256698959",
@@ -654,13 +709,13 @@
         "priceC": 32500,
         "shippingC": 517,
         "landedC": 33017,
-        "url": "https://www.ebay.com/itm/389256698959?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD33Z4V16EKWAD2Y0RKWCH&hash=item5aa181dc4f:g:KGAAAeSwsYppHm-W&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBRn1oZr5LK3FVoQtSV%2BWuQElkVU3PazcxL2N%2F5IITVIxp1hnerVlWhhGwgynZO7KMBaEKjIDdb63uRvBhUEUurlwfZa4x%2BTw3UO1LCF0EUs4sr3LbHTkbNebke%2BVCHz2qlu1GZ6efbJr8DTU8cf5nz9%2FoEJy5LRypesYs1lNcY7XMLR5SUcOeapGu62sOAHfNgDxHPdfpEFUj2osAtMxAmBDxhC0C%2B3Mlu09UcLfEpaWzSWTT6CVV%2FHuXNGMEZKmLOK3uMfm2UHKDE4ZxOj894qR6gCxb2ggSLH%2FYRaAtQ8Q%3D%3D%7Ctkp%3ABk9SR4jAjO2DaA",
+        "url": "https://www.ebay.com/itm/389256698959?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBEFYF9H0KB88369814DH&hash=item5aa181dc4f:g:KGAAAeSwsYppHm-W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xChs1HbIF8owecsDtAteblSKEDHx2s%2FqOjkJR5v7WZ1jx7WbK%2BGryfWGKWp%2Fc6Pdsa0VpCSvKp%2BDbo7xgoa6VvD6140K%2FWDdcNaavUIn50hB1%2BZd5RyRCJsWLzcqMCnVKSc2qT8QsXZ4qmYfOdZRpVTM44QmbNyhhFb8GVgOGiXULbAIONhC44YsY%2FtUOaPXA6YPW43K88df07fejAS9HLbjqyKTJc5F7pldWVDemW%2FTYUCcIwlE6WPJd10rLE3WHEuXqYSHsM3up3Fp9V7MdJ48yzuNQ2O6aj0wettNp4N7Sr1kOBrC34YKqJTnz7zcZudDW%2BKDIxfW496thkZ9HnH%7Ctkp%3ABk9SR6LorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/KGAAAeSwsYppHm-W/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "398240078799",
@@ -672,9 +727,23 @@
         "imageUrl": "https://i.ebayimg.com/images/g/U70AAeSw-Dtqbp0g/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787223528144,
         "lastSeen": 1787223528144
+      },
+      {
+        "itemId": "237025773186",
+        "title": "PSA 10 2019 Pokemon Sun & Moon Unbroken Bonds Reshiram & Charizard Gx #20Opens in a new window or tab",
+        "priceC": 34900,
+        "shippingC": 562,
+        "landedC": 35462,
+        "url": "https://www.ebay.com/itm/237025773186?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0SHBEFYT25PDGWH51MP5X6F&hash=item372fd64682:g:zTsAAeSwp05qi0-z&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCGVVYD2XjqIuP9NLVi93hEOCR9knkd2JAadNi%2BhrrtidGLOPNE3iq0L%2FXa%2Fu%2BgmNnKfiEAl8DsC8lNECVzIXbuSAG3gF27fJl7ORCAVMThslV%2BsIeLej2EXnuKWGL8bkC6N6e1OPmgZxKYm%2Bx6BPrj3GZ0inOYFMNkA97pPr9NsGu4itkcu6jwB%2FJNAw5%2FeTZX5vUqFlxy09BAhFXmUbAvqUughjhx%2Fc%2FbeLF3OwXp0J31GTivkwHWyXMcuBroTm6PSISW5lfNjIkwwuKnR7OxYOpcz4DIGzZ85KSza21xtLEB2wL5HaOKcnuEaq81xHaQihoZHNwkWfcOHV8bhJTO%7Ctkp%3ABk9SR6TorbGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/zTsAAeSwp05qi0-z/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787563481579,
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "398261468875",
@@ -682,13 +751,13 @@
         "priceC": 35000,
         "shippingC": 495,
         "landedC": 35495,
-        "url": "https://www.ebay.com/itm/398261468875?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0FD33Z45HXAPMP9XX8FR1T4&hash=item5cba3bbecb:g:ynsAAeSwFkJqdmgQ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xChgdtbNngRQNjzJJ%2Fj1JZjHikbER1ZZX%2FyidCPJ2Fuv4W9d8XBMbgGjKLo%2B0u%2BQr%2Fzu1f%2BHQPLv9YF16rQQHgEA9k7kRE3dWTEcvLCB0x2JCB9ry%2F61VOo3lZDxMNuVAmdoGGhaMH6vQnyb9rZg%2FEjS4xEUALFC%2FYdSd3zgy9j9mzBa7L8X2IQJD%2B6wNF7fkH9nq0VRK%2BC%2FWS%2BfP3LeXPhOB%2F%2BfCgKzEVFvsWA78I5Lm85ij%2FE4UAZKmKBkFhHgdwEXFEbGowQfs%2BirjNSPU3JnsaXfgAm%2Ff1ME8cZE00XvA%3D%3D%7Ctkp%3ABk9SR4jAjO2DaA",
+        "url": "https://www.ebay.com/itm/398261468875?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0SHBEFYJF28E7JZQYQYW5YA&hash=item5cba3bbecb:g:ynsAAeSwFkJqdmgQ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDVrzc20r6q2ncmZOWRqnF%2FTufW8BlU9et69KqaPRk8uIf2%2BAXGUQwjPmvFjKwTirqwd7rDb6uw8JVbs5mrx%2FYiBwrVjeE4PlGxmJq3jAZH5p7VUb3K19axfPkqWZx2AM2BpDOkaiRR4X8mDpH8V3bRm%2FZyYQpALiqUsysqR%2B2GTree3FVMfCzcATavUk2JYZ2N5aq7Ql9JHPmACUA7YiEDVSL%2B%2FK2%2B3q3xBaa93JxxDWggkmsmrj84Wb%2BybpQM2yhN81bCUUoXkiK8uS2PFg18SNd17ucKpXeTT5qwrcdbLCS8bh6mCzH%2BIDr9iiwtZP%2FKOhrIDBPXkzHuncSTEH31%7Ctkp%3ABk9SR6TorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ynsAAeSwFkJqdmgQ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "287419348733",
@@ -696,13 +765,13 @@
         "priceC": 35000,
         "shippingC": 572,
         "landedC": 35572,
-        "url": "https://www.ebay.com/itm/287419348733?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0FD33Z4SHY6BN6SPQ07F8ZM&hash=item42eb8736fd:g:cJwAAeSw9mVqPdry&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDA6nWFuMcSnREErNKvrSj9%2Fymo586%2FE1EDDtSso7B6dIeF5VOvpiUo4zWL%2FdEKZGIA7eGDmu2fT%2FiKUZEGYERfevTV2e6qgoedyXFETDey8NKZSmFWr%2FGn5Zu3c6YnA72NPz5dsO%2B3f0tZawxj2DMvSZTJjUwWzOoG8f%2FZY9qnPoumgjqtbelTNPtSGMd5GeCBsLhZEq4vJLFfWDvdryd3nU4hDJYLuxIlWtvziDSBVJuTByUdUbItT50b4QsPPwBy9zJYkc2l5itdh9xq733Na5NuV5v3nhNJRS0VsPh5CxlpG%2B2ZGYcOGCUtIy24tOEP6Drwnuevh13cVYfXM6Bj%7Ctkp%3ABk9SR4jAjO2DaA",
+        "url": "https://www.ebay.com/itm/287419348733?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0SHBEFZRMM6YT9Q181VQXZV&hash=item42eb8736fd:g:cJwAAeSw9mVqPdry&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDA6nWFuMcSnREErNKvrSj9%2Fymo586%2FE1EDDtSso7B6dIeF5VOvpiUo4zWL%2FdEKZGIA7eGDmu2fT%2FiKUZEGYERfevTV2e6qgoedyXFETDey8NKZSmFWr%2FGn5Zu3c6YnA73WUshS%2FRT%2B5P0Z1U8g6IrkEXaU19JrORIudx2bOpfRkT9QSJ49ZK8r5DSv0a4CWBR%2Fs4rhRnGRAPkSVa7L9CXKCUVSvn%2BFqtsX9J%2F2fcrwNlhf8IpjYyH%2BOr2LDIg2iBEfj8%2Fh1pmk3yD4zT0Hr1vWHUb21xwGnonCO5eGTmfSNAmlo9fiPPorj%2BPI%2Bfla%2Flh12f1aCYaCI2MbLeTOpsfH%7Ctkp%3ABk9SR6TorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/cJwAAeSw9mVqPdry/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "226993035706",
@@ -710,27 +779,27 @@
         "priceC": 35000,
         "shippingC": 824,
         "landedC": 35824,
-        "url": "https://www.ebay.com/itm/226993035706?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0FD33Z42648BR03RS89111H&hash=item34d9d6d9ba:g:ZqUAAeSwyiJo1fKf&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC1G%2F4Clj%2FOgA%2B3q12psQGSKvvPF0%2F1XHcOkjBvu5JJ5qcuE%2FJeyY7zzG9OCg5PbxYJUMIoWnbXjW2qC9Z2KLdnnmxNGq87qkjfO9pGUXWx8PTjAqLxNgKBheXBpPXiokj7knsYLabqvf%2BfoI0sfZUCsU8iZHpdHB8bCKPTKdpyAZ0J3tLagwhxDAk4HZHNBZuW585fUM9DN3l%2ByiJXHdHcfNqsA9bsjeK6remuqppXyudGtItgnzyRQz%2FiPxsmlc8q8M3V0%2FOniiiiqXmJ2YAVPPCUtzz2w9JtWj7L%2FYS%2Fk%2B1QA8IDrCA61f2QlNmqe6xvwlv5noecs4K8hmuU2FBu%7Ctkp%3ABk9SR4jAjO2DaA",
+        "url": "https://www.ebay.com/itm/226993035706?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0SHBEFZE9Y4R8E70A4M1FN8&hash=item34d9d6d9ba:g:ZqUAAeSwyiJo1fKf&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC1G%2F4Clj%2FOgA%2B3q12psQGSKvvPF0%2F1XHcOkjBvu5JJ5qcuE%2FJeyY7zzG9OCg5PbxYJUMIoWnbXjW2qC9Z2KLdnnmxNGq87qkjfO9pGUXWx8PTjAqLxNgKBheXBpPXiokj1pw1cacJ1qFUiNRnz%2FxLBoyTBz0aQQVmgs%2FTvgJ9DA%2FRoUkRHLHTyP18Uy3RQCDchd3Fd1N%2F0i6aABAmJQSmAP6TrLRj01jGIPyiungYrI%2FkSkebzRHQOcOq7ihXm6TEvX351Y4%2Bs44F6a51q1gnaFHI5ainiblw57H7ORD7gr6vIc7RF0Xxl4XD%2F52zMOB8RRJdmO9%2B%2BxgwTNFp7EDdw%7Ctkp%3ABk9SR6TorbGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ZqUAAeSwyiJo1fKf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "227464095913",
         "title": "PSA 10 - GEM MINT Charizard GX 20/147 Sm-Burning Shadows Holo Sun Moon 2017 EraOpens in a new window or tab",
-        "priceC": 37500,
+        "priceC": 36900,
         "shippingC": 624,
-        "landedC": 38124,
-        "url": "https://www.ebay.com/itm/227464095913?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD38CC6X5F3SP4TF4MWFJ6&hash=item34f5eaa8a9:g:MRMAAeSwwrlqc99R&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB%2FJZAOTQDgxQICQTar3pt%2B8k9Nr4rTT1woXPcbztX4DGccF7eXoaLbJg9B4PMqfwZfpCb7afc723an1wFDh%2BXxJUBkJpXxdSG3uaw%2F0gzWB1BQXAt1Jgsk3k9LxuRT17%2B9Beo3uV5TubwEcnQ4vZVZPGoVb3%2FB7NLClCRYACi5N8gyyCti9VSiiBloXqFHZ8FGAZHm3nIXMsQCWVu0XVrOsjspbl4E5EmGwUBm37kQjtHanzNeOl06iaDAHjFrsBZQJZkDI%2FxAKbRs1NUtPp7iPiXeTs9yHz3VB%2FXDMRn9HpW%2F1rM7A0tByBXJC5wSoZEc0YMNr61nHSbRvRQAsXV2%7Ctkp%3ABk9SR9qGje2DaA",
+        "landedC": 37524,
+        "url": "https://www.ebay.com/itm/227464095913?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBKP73AH76QTRD98WW8SY&hash=item34f5eaa8a9:g:MRMAAeSwwrlqc99R&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAskrPeoeJwkzK5YCuvodrKyK6oCt68%2BXgeyymrZI6LXdo8fL%2BK7LOcr9t56UHDQzcz96dcA1W5Mo9txY2diWKbhfrsIbipmE3liympqEFcVkkNPANpY4GEe9xg6b8ti7qnm7KjLiwlhMXTL73xfY7uX06E4p6pSb8bALS1vMZTfuuLBcgnWWofzFkR4ji0UajSWXKLnHhpqTZIjRiD2bJWtrf%2FgpNIw1CGI9KbU6G%2BByOzojuoDuEMUBFiyNvGdpjIH8Cy9QTWmyTYQ5rv03QobpvxWmupsCjmWvmv%2F%2Bdf8Q%3D%3D%7Ctkp%3ABk9SR7K7rrGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/MRMAAeSwwrlqc99R/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "406982624815",
@@ -738,13 +807,13 @@
         "priceC": 37900,
         "shippingC": 597,
         "landedC": 38497,
-        "url": "https://www.ebay.com/itm/406982624815?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0FD38CCV22GXBC5S2VZFCYJ&hash=item5ec20e062f:g:aU8AAeSwmcNqJiQS&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDI0fxvqcwoG0kMKoxJPIMhb0xCMas1KM7ZvXYPCjZw%2Fv151mndvpjRaq9RqWJ27XSL0VkQQbsker8aa7Z1s2Kp2hU1%2BqDEGfG9dEV9NbCv4seDfJjNluMwXCUvHKDBCmQqg6%2BuMV7A85%2FafPj0rh9wH%2BeQ46keOZYo%2FGlXfWjSQ2mOnDOKQkyt7lVO5Nwkf8r%2BYvFnJibptjCEArAvoaL2JajvjifFSLS6z%2FioP2%2FEmQ8vBhNnRpYpaugnHjjmi1dCYh%2BFiiJHf7FxcSlC0agk8LMCP3j8a64X9oGRmRDQCsPtN%2FQW94umYFnCnh84AjyZaQ2e2BDhpU6uwurjk8rQ%7Ctkp%3ABk9SR9qGje2DaA",
+        "url": "https://www.ebay.com/itm/406982624815?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0SHBKP7B9GD45AJ7EGA3D55&hash=item5ec20e062f:g:aU8AAeSwmcNqJiQS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA4dZYrJhIILXbgLegSUbB%2F9MWJmPdgSPnO2cbD6CHYj59lDV7ks%2FZxheEdYmiknZuuKh9HVN3VbjmTSdIUNv0A8T6vqi%2B%2B9Ldq%2FMwu84CvSvSoHpnOxlkYBtWXcqBRdr1--e7Fkhk6LmGfIJLIGvg1CV2Q67ck2p67Zd7PBk28f4drW9M46W%2BRzOSImytyhhmz%2Fvcoz5xvykjfKKvK3qFzdOHWyMuDoNov%2BUe8qoheCKfcUek2buWu8M33Su0qmk13lAF6myTAz0Y2A2SYzkAAzWI%2BME%2FFBSNlTFxkk5XMpw%3D%3D%7Ctkp%3ABk9SR7K7rrGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/aU8AAeSwmcNqJiQS/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "117143717539",
@@ -752,13 +821,13 @@
         "priceC": 37500,
         "shippingC": 1500,
         "landedC": 39000,
-        "url": "https://www.ebay.com/itm/117143717539?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0FD38CDYG0MW88NTQB5FJHZ&hash=item1b464f46a3:g:jWcAAeSwPY9p3v6n&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD33wpp60zyonF4u6pD%2FEcqpEopvdvjzw2N6Lqym39RBKjT5lDIqwM0%2Fcgx4%2FJSygJyOjTRk6sVz9veWvEQh6iVNmO8XfdPQrT%2BfzbmjFsLxU7hBOht%2BxjXib1Ds3nzVz--kEbAp3KLYlWKUj2CFg%2FFEjvGIHn2Pk%2FdAwc7DYCZXLyfcsJvV07gZAmCye9GyZ220SSNvl5m6uXl0QdeSNhrdMCLeTpsLT%2BlIpj0t8OcKhxitgfNv%2BY%2FSGFqukhp3xNauIFwL9TdK1i05ii5XLeAPXAQmf49CcUp2qAbsqPqMyi4fT0dsSEguH8D4ZAgbN%2Bq1t%2B4D2eyd%2Fo9D%2FtAZ1dt%7Ctkp%3ABk9SR9yGje2DaA",
+        "url": "https://www.ebay.com/itm/117143717539?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0SHBKP77PFPCPW9AXXA6AM4&hash=item1b464f46a3:g:jWcAAeSwPY9p3v6n&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAsNjmngslzU2aqRJyQ8pBvd%2BG7Evh6pJhE9TZO%2FZfaVVBXVTKDkCxAsmegsoyrB56ttoYrihEAAHCdIDbXgtnQizdKy0QfoujgulmjvjEsbTRkTtT7qQNgKCi0lzAzh2PjjeT1XM6upOxsAuuNjE6LRU1o3wGFJ3ymYZlm%2Fnk2%2Bg3JxSq28RjRsVei9YCU%2F04MUWLxuifNJpNEwl4WpMtiuw57I0hGK9iICjC5iFbgIAzZ7%2B8RDKlrrWO%2FbFfgRhDQjTUN8270lu2Cv5YeDtLPtE3a2GWCStw0x0CvX%2FUBwg%3D%3D%7Ctkp%3ABk9SR7K7rrGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/jWcAAeSwPY9p3v6n/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "800519483550",
@@ -766,13 +835,13 @@
         "priceC": 39000,
         "shippingC": 860,
         "landedC": 39860,
-        "url": "https://www.ebay.com/itm/800519483550?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD38CD5P5XYC5P2WMFKM16&hash=itemba62adf09e:g:2voAAeSw~wdqghAo&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCI2n1jg%2BXUZwojskYhKaVCayc9rImwDHy7Wbb%2F8dmU30Kuy0nBu%2FyHCSDIg3qru9xzsXwXcsoqtiqQPWA2Nfv1vmKDY4U6Es%2BQGPapumYay2uSFYF%2BacMm0hOGHFQjWNjeewn2YQFexurB%2FdGEs1NyM21%2BgpvVJ4s24H5cWvcKygNj%2F%2B2XtomxXli%2F%2BKOhmfUeWPz5XVv%2FqZqew8tDIhU6n0KC6yb8bdRfI5CRKLO%2FC6VtGgDC8ruPsA1of7rSleg8NOAr%2FGoyjYK%2FIq7sUII6vI88o5iwidZuMcAQ%2BPQEoA%3D%3D%7Ctkp%3ABk9SR9yGje2DaA",
+        "url": "https://www.ebay.com/itm/800519483550?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBKP7GYD6JSGZ525KZDGA&hash=itemba62adf09e:g:2voAAeSw~wdqghAo&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCGMqGydqW%2BHhuTJpxUGWtT1kUceXZ%2BmXhQpR0jH89xXzdJMOJw9Y0n4Gqcz9MrIjm3LVEOwqYoHiGt7ZR5sVXrUqSuk0x4KkibMbxdBEdHXrgSqH5Qys6TPt%2Fti6mkpLnViGTbxH6TCQo2z2bsmAIy4qjNOchszO%2BGrcGvukMYjUjrzZM1Ctv4SyNHUm7Mhy7Vcu9R5nZKFsxq75ixxYnrk7Trtu4u25NLnyHaSkrg8sgoQzJH4%2FGE9meuahYROpN1WQurVi10dNaqzOELH%2FyeN4Zivsoc5J0z2ImLLfNGTKdT6g7Z6vlczdvDUnf8qo7Wwpm9rLgTA8aGFjKlkA3S%7Ctkp%3ABk9SR7S7rrGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/2voAAeSw~wdqghAo/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "405145268692",
@@ -780,13 +849,27 @@
         "priceC": 40000,
         "shippingC": 500,
         "landedC": 40500,
-        "url": "https://www.ebay.com/itm/405145268692?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379685&itmmeta=01M0FD38CDCYP616PNSQXP5M2P&hash=item5e548a31d4:g:btkAAOSwF9xmr968&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC%2BYTZX%2BEQnt%2BNar2pfNHVC6jeNO5jjiA%2FFQWTOA%2Famcn804ZaHaKJIBbv4pfI%2FL1kJkTCRUGpmJx6%2B7PrIAn6bN1H3SqFyfVsjHnon0mrpVBm%2FBfG0vG05jDHJoO8v10uBb3XrZkAWkOxiA6N4KPxaolvSOtwITMLk4F2jVp8esdt3WKk%2FW4qUgJvnE0okvXXPfbpLm%2FmbugJTtN1jgTX0%2BCVw8t8s8ao1n2QOzYgJXh%2B%2BlV7SsaJbG2EEouLMGc173AVUSL24QyQJjLK1HX%2FpABp90OHko4GGKW9rHy9nXw%3D%3D%7Ctkp%3ABk9SR9yGje2DaA",
+        "url": "https://www.ebay.com/itm/405145268692?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379685&itmmeta=01M0SHBKP778XX6B83AZES0J7V&hash=item5e548a31d4:g:btkAAOSwF9xmr968&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDiV9qkQNvGNAgkjg9mUkRlIcijbWJLzxi3GbZNSPnSjeNy0FI85OUmLQK8uO%2FaJAv9vMZa7YiVkKQEEVsWvUohwY7pQGba0w0QUHkO3oK8Nxg%2Fx7AwRHw6sCcmhfiZfdq%2Fv3yrP3WrG5J6hf3MHBPMIrNc8QvenmPhio1u1TsDEHu0hvyngWZ%2BJEpO4EvqEFptxb25BObtl%2FyEGyZYvHNOqxPGVfAuMp1kp4bN6oB5HFeKsUgqYVpQ1W3j9CZKBn%2BT8WI%2F2gV0WMCeha5hGAbPbH1R6Wr7RqEYQNctBukwH5lIXRG3g67w4v9h5iPLlJ5PhJg1FWotTldN%2Bd7skvmS%7Ctkp%3ABk9SR7S7rrGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/btkAAOSwF9xmr968/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
+      },
+      {
+        "itemId": "398315217993",
+        "title": "2017 POKEMON SUN & MOON BURNING SHADOWS #20 CHARIZARD GX PSA 10Opens in a new window or tab",
+        "priceC": 39900,
+        "shippingC": 830,
+        "landedC": 40730,
+        "url": "https://www.ebay.com/itm/398315217993?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBKP7NCSE9KYH21T3KW88&hash=item5cbd6fe449:g:Q8cAAeSwF-Zqime-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDhD8fUaDwoJwMT93a0mWcYGBxW2q5TRVj98qZ4mtIiZcrwpO4R4Mn3oPSmyJ1%2F38b5qt62NvQDoQgG%2Fhz2Vp6xa9rwTMl%2F%2B%2BaOwnGZosI5w%2F7%2BfzXESKtsKFF1sxWJ%2BYQ6%2B33f2wNbxSaA7BjuIfBUlFsR7jrk9wSNBpUpNQPF%2FkwBqItM8CTT9W2ycE6ybhYxqsGHvukwGeGKADbCAXQqNZvPlKo8qxxS%2BEp0F%2BG5JKQBRPcUdjHqWCtK9gMF%2FFXq9LPC3%2BCLy8cAMCOE7uMKQvfMJg3e2wMJS7fOSLjwFQ%3D%3D%7Ctkp%3ABk9SR7S7rrGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/Q8cAAeSwF-Zqime-/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787478371384,
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "407147570798",
@@ -794,13 +877,13 @@
         "priceC": 39999,
         "shippingC": 790,
         "landedC": 40789,
-        "url": "https://www.ebay.com/itm/407147570798?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD38CERA5H6PC8CPREQYG4&hash=item5ecbe2e66e:g:XAcAAeSwli9qgOmD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDIS67l6Hw7NnXsMOqfw2EiZS8Y6Tkl2MLAK0Ow7UZqR2wGI7m3tqLsqZweUW0PL3XKa6JEu6n%2FCz5dK2B7qr2C7W2baBJnihkmYlmkthMkpMTiiU3orjNbDXdwIbU8ofytqvvfWZTe7zzi2%2FdP1BBjpF7q4hpcvAfajymb9SZUmgX5WGhZNUQyRgJTamCooKY6hNAJk%2BgMgIaeHMD7iz%2FRfcO0okRsQod2vQMFQWX%2Fh2e9SZwoY9XCvOnLGULgpGxcMNhXhxlJnOXTF95FWieYrXkWCjATAF%2Bdi5ce13Z%2Bqh4oKK%2FxZnpyL74WuOpd%2FZKB8CEPjYjayHPMf13Prtpu%7Ctkp%3ABk9SR96Gje2DaA",
+        "url": "https://www.ebay.com/itm/407147570798?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBKP7723FBNCS3ET0XSGW&hash=item5ecbe2e66e:g:XAcAAeSwli9qgOmD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDIS67l6Hw7NnXsMOqfw2EiZS8Y6Tkl2MLAK0Ow7UZqR2wGI7m3tqLsqZweUW0PL3XKa6JEu6n%2FCz5dK2B7qr2C7W2baBJnihkmYlmkthMkpMTiiU3orjNbDXdwIbU8ofxbHxE5IqBrvy8%2BxgbXAwpgPobKY5Yo9KjU6ZI8FSQRmBFx8%2Bx%2BaKc0VXuDsdSWUq9VtLivcZ1YONBNQ%2B1ZhRZjsqQyRFCZ8CoDUZqHAfg82E%2BXPBArUWYtr0uKYb2dDsiyu%2BHFEk%2FIbGuYrLnS3weF4MwmzNQEsbj2auumWIcBD0wZDjCjYRr3nuv1cksgLVL5eLyj6Fg4eOvnHzvDqG0k%7Ctkp%3ABk9SR7S7rrGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XAcAAeSwli9qgOmD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "267668763376",
@@ -808,13 +891,13 @@
         "priceC": 49999,
         "shippingC": 0,
         "landedC": 49999,
-        "url": "https://www.ebay.com/itm/267668763376?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0FD38CEBXW29DGJPSB4E7GX&hash=item3e524d32f0:g:SeIAAeSwOA1qBMqz&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDuwPb0nSCnkRLKfVQkNGnVqnOF%2Bp3ijm8qDc0iVHifTN0UE1SgKR0xxQFIoHnV90m%2FaxK42Fp96AyFfySReO9GstxFyvNGbtEiYlqkQBQvcWXPRDicy17v8bF6f5%2BoWtrIgJOowfCA1JUEDoXvRNNkT%2FCOX21Tdwz%2F3zn%2BaPSpZtbxxyhKkVRocGQ%2F3fvPm72I2EdLjR8hhKDLGXrMOrRdhMtThUN5CI0HRntyyQNnPvt5gn%2FkXrFd0VUzQkzm73CO%2BUnyaADeKJcLO0UwCMG6yb70Z02xp11qGLczKlVpxtYe8U6nlEf82v5XHEaUYh%2BeFLMbjZQ3xqoxdR4612Y%2B%7Ctkp%3ABk9SR96Gje2DaA",
+        "url": "https://www.ebay.com/itm/267668763376?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0SHBKP7Q2ZHV6XYWSX491T4&hash=item3e524d32f0:g:SeIAAeSwOA1qBMqz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCwnWVGSmU8rav4DKY8%2FdUDG6YN2%2BblYjBuhRRcBtkAn7EAW7ylK1O799%2B8NUBmYp%2BGChHhGd9QcePW0kLWmsmPW1U0%2FB2s6lSZlOQjNmZBVsOzQL7Uza2jXszGG1hkbLjek9dIKr2bD5wGEl9ts%2F2ITUU%2FKMy8ZWcyLH8R07BZBlgojODPpqJjwexNzUeqLFhZ8xIskFOrQIdxgVpEsxJQUkEqPthyCKG9fQ823wyn26udDP7XqvP7QoL568Isk445RGXiMiCx8YOMN1D5holjUG4X%2FL8Mwakdi%2B5kzMfupg%3D%3D%7Ctkp%3ABk9SR7S7rrGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/SeIAAeSwOA1qBMqz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "267736088705",
@@ -822,13 +905,13 @@
         "priceC": 50000,
         "shippingC": 0,
         "landedC": 50000,
-        "url": "https://www.ebay.com/itm/267736088705?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD38CETDJXCDKRZSEF6ZG6&hash=item3e56508081:g:XtIAAeSw8W1qYXIG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA5g7%2BuPyPwpwPBRj7361tsPwrgqmbla4Urvwi0jAXAm6ka2PvRWd7fpyqoZJTLP%2F5JbzpmGFZIUFeTak0aDBNl0YrQhK8lz1CJYNwBOM8fbZGe7Qvyv1eTzsLlgxvNMXTeDvmhYWExSQQfAo0O1aZsFvQLaeuTxR%2BEy2nMws0lKXl1r0ct97LjREoAH%2BCiApSfL6reJNSns7yEiPywoz7fAbrg9PcahEXAJ2T1LQy2KjliBAlGiMMAZ05SDz%2Bq6Cq%2F5Hs2rouCyXj2qToKO%2BStnj5j%2B5KYzhks4zUAyLaNog%3D%3D%7Ctkp%3ABk9SR96Gje2DaA",
+        "url": "https://www.ebay.com/itm/267736088705?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBKP73X4XDJVYMQ3S7MHF&hash=item3e56508081:g:XtIAAeSw8W1qYXIG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA5g7%2BuPyPwpwPBRj7361tsPwrgqmbla4Urvwi0jAXAmwwyOyDo0W7IKqY%2B6wt9mHTBhe6GT8abpwAICyI42zG4ametpc52y8NIVrLucPbX5jJXox%2FK4nGe4cAhhS3HUV0eUnksLntTNEaFPAcglyJ0GyaZX%2FrzMkXulrjifxKTy%2BxAC2NneLVdIRpJElIysOcqROSXRNClmUZxPcnPzMRN9CwUIsl51Pa2gLsWyOGnPeAhPpBaFO5se2qquxLQjBDlfdcj%2BDq8kFaKhSh%2BS9ClV5LrEIOt4YeVtUEUji29GQ%3D%3D%7Ctkp%3ABk9SR7S7rrGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XtIAAeSw8W1qYXIG/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "366098130276",
@@ -836,13 +919,13 @@
         "priceC": 54252,
         "shippingC": 599,
         "landedC": 54851,
-        "url": "https://www.ebay.com/itm/366098130276?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0FD38CFP2V2243MA5MCXECV&hash=item553d262564:g:6Q0AAeSweRNpOeF5&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAal7P0YNPrGLzIajIXRE3vUDl%2FHcySqUiiyAwq%2FCNkE3JCnwdiq1HRevwIdB5BUKVxD0O%2BbZB0FG1PqsLO8DovNPKGvl%2Fef%2Fe9AFy87yBG34KkXunG4MWVcKkeF%2Be1yjchW4A45D7h%2BJpJSsEd%2FglZVcumcnBWA%2BcBWX3gsxoUtR2WJCJ8tvbU0NZItixDhEodsgdq87EcWtk01SNwcf4trqXWyuWVsITvNrBrLxqzcgZ%2FzBDelOWrLtfvEpDQ4C9Ok8vPOYH9v%2BlI%2Fmk9pPJ4riWT21%2Fb4xFuel36jqKSkcaR1i1hQu0z3KImDWbJG%2FhHxAnX3JnZCxBXZO6Kg1gn%7Ctkp%3ABk9SR96Gje2DaA",
+        "url": "https://www.ebay.com/itm/366098130276?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=23065743051&itmmeta=01M0SHBKP7Y7FA1VEYJV3Y9PPY&hash=item553d262564:g:6Q0AAeSweRNpOeF5&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAal7P0YNPrGLzIajIXRE3vUDl%2FHcySqUiiyAwq%2FCNkE3JCnwdiq1HRevwIdB5BUKVxD0O%2BbZB0FG1PqsLO8DovNPKGvl%2Fef%2Fe9AFy87yBG34KkXunG4MWVcKkeF%2Be1yjcnd3Pk9k%2BwCSgphvrftAKCd69P5pPmryA02qVLJJkkZX2WYoXD%2FNIngzKELJXSGUyLcVOfa1pkMJQj%2FPcZKpOzwQ82si22%2FBcqW2t6%2B7lPyD3WS9vM%2F2kyk6h%2FDzAZ3ctLggzpY0CHablSI8nDGeBpw6LgXMHoVujRKfLQG%2BmPJrPv1ULGONFpgsR%2FNObg%2Bkd6VgilRXtg42PKl3J8T0qQ%7Ctkp%3ABk9SR7S7rrGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/6Q0AAeSweRNpOeF5/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "128023277472",
@@ -850,13 +933,13 @@
         "priceC": 54900,
         "shippingC": 830,
         "landedC": 55730,
-        "url": "https://www.ebay.com/itm/128023277472?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD38CFDC3TC10RRE8DHXZB&hash=item1dcec82fa0:g:I10AAeSwT4dqfLQ2&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDkSgHCIXXIbrFZgVuVc%2BRPMmRJcRyXBdkZOd6hAy5xIZ1NFIj7ew5em1ZfhrQ89vMBtkQYuwByOfAiOIU95LNnGtuE74T%2FLWi4hN4q6V9RYZCL5dmM%2FHcZQZA8K9r5zRAS7a%2BcirPZqICT2TwN0O%2FG6LqHsljq4VqeUQT6rkWms51y7duHOheN22BjTnWkKHObWjaczqoT3nUZWz9rGHhUglp2nAAIIj%2B1n39gl%2B5hpyfeI7GPM7rNDkWV85AElWGBLQwN1DWPxKbPOuuAvGNk59CPfa3hIvlvRFsiguv9NJ%2F8CICZlfN8EBgF9%2Bl7CqP04wV38QK%2F7bhB8t%2BKmfve%7Ctkp%3ABk9SR96Gje2DaA",
+        "url": "https://www.ebay.com/itm/128023277472?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBKP76YPCVH3WWW0ZDT6J&hash=item1dcec82fa0:g:I10AAeSwT4dqfLQ2&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCC60izlnR7FQU5mYKvKcOkUfeQ7nviCrxedYHwf5Q6JR99wTRuOcnHv2JyrdidSsYeDHVZk8rtxSDFyKWCa800INSFyKqQdSkhAKDICLhQOha22tIkKJAm0Hk2fOzD5Jh%2BzFcmAPuaiquJdiksaPdJF69SzYQU%2FnTxi0xxuszA52xFt0q5WhksGsJcQUaNJrjCzZTkfRz4jZ3eF6D4%2Bpjs9Xo3hfo7d0%2B22Lkc4u8xzedyGc6gEnzzO%2FkFXcJ4VV9Z6D2NKjYVCAPeUCm687ZOFZ7f0QJXsKZcBwjP1fDXBA%3D%3D%7Ctkp%3ABk9SR7S7rrGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/I10AAeSwT4dqfLQ2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "147503318625",
@@ -864,13 +947,13 @@
         "priceC": 54900,
         "shippingC": 1699,
         "landedC": 56599,
-        "url": "https://www.ebay.com/itm/147503318625?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0FD38CF3G33W3XC0RJB2E1H&hash=item2257e20661:g:KZUAAeSwG5pqfl99&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCDMpzWs0BQD42Z7wExqoXCYCxDndGun5lVKeNwLzXnXmfhKk%2BJHEjjJMYTHzzorrTw%2B4Wuj3kVKKclcU4S6yubkDaGjWPnBW9yStGA85MrfhX%2FbXqU0wI8CoEEqsm6ChQ6VCqbKhwNKRak0gkZhdLHx6RYfFC2%2FHe7HjyZuGw7%2Bi2djD9YynEQfpTfZzgsu0MO1GVEg68L5pKLxcMGL6SDOohCVxw3HudWhVxuFl3s8x0XTLty%2B2OAg4G%2FJqBWy5lEBQgqE%2Btp6g230Hlptjh7H0h2oSIc9g3LbcHE%2BEoGIQ%3D%3D%7Ctkp%3ABk9SR96Gje2DaA",
+        "url": "https://www.ebay.com/itm/147503318625?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379051&itmmeta=01M0SHBKP7TYS965PDJTVA2EC5&hash=item2257e20661:g:KZUAAeSwG5pqfl99&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCHxi7dOuoed3UDRd6ak2R%2F6V4n4LA4S7ffCzhYsf6pMvRSuzQx2S3kTpP7coHMTShQh0Ayx%2FluylgLdDaYzOoYcpqVjU4SJe7KTudqtJekQJL79dc%2Fwe6oP5EN%2BWCw8fTQu6kfyy%2BQ3DqY89semtSHU9oys24rrubVKb%2F71%2FyrWqf3Uy2WRDqjZTNcvS5UtQts7ti2hWYdQa%2Fxen81SsDyC357%2FBesG4AQgPK91STCr4v%2BvX9hf624d1T3vz22ihN4BVyK2nqpBBQ69l592YdAgmRhpzjVEkS2ExBet4a0Dzsp4J7AoFjMxCCBb84eIbJotG2tGi%2Brpd7Z3W1DvkA8%7Ctkp%3ABk9SR7S7rrGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/KZUAAeSwG5pqfl99/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "377330096385",
@@ -878,13 +961,13 @@
         "priceC": 65000,
         "shippingC": 499,
         "landedC": 65499,
-        "url": "https://www.ebay.com/itm/377330096385?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=27043367451&itmmeta=01M0FD38CF3GW7TFHHW0RT8C0P&hash=item57daa05901:g:vHgAAeSwqYlqTeI-&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC7IwFHBI1xk0nKggFuWtP%2F4zMyk%2Fuw2k44A%2BPEqHIaWxMp%2B8NwLkjzdwgguYMj6THjQl3yrqt0B5gJydJb8bN%2F%2BSOy8gYFMpwsD3FBJjNclIiv0vBfyYHU0ibR8BRusO9DqBHSXVfsygNWLKdcxa5quKXcnGtiZI%2BMLD8Hyo23wqUbdZrPw9%2BV3K5ymPw8IRXknljzZQ1PW%2BjsA2femz5XF3ND9DgW0a%2BKR6UczAXNDLZ17aTsWIwWxjq4hEk7E1ajb0SBuf6eqEZ0E8LUu6W42covjFN6mr2O5yzX8k3V%2FJlqS1PXsl60KBtDqJKHnfHVNQP90idCmJyJsLQbj3dN%7Ctkp%3ABk9SR-CGje2DaA",
+        "url": "https://www.ebay.com/itm/377330096385?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=27043367451&itmmeta=01M0SHBKP84D7PFNV4S70J24J1&hash=item57daa05901:g:vHgAAeSwqYlqTeI-&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC7IwFHBI1xk0nKggFuWtP%2F4zMyk%2Fuw2k44A%2BPEqHIaWxMp%2B8NwLkjzdwgguYMj6THjQl3yrqt0B5gJydJb8bN%2F%2BSOy8gYFMpwsD3FBJjNclIiv0vBfyYHU0ibR8BRusO%2BFwyKsL7Qfm10LnDn%2BeQjvTBWKvp3Ug24W%2FVlBi7WSGC%2FSM53PI0WdDXDQzrrazUNYmAx07GYEV3nYkyjob8Zq7nMqQkQo6q9Zjlw%2FIfol%2B3%2FeqUbJ7sK4wtKqJlsORtTDyk3FLLFSZ4rT4rNOu%2FCxmFswYV%2FHeHC97rq3fu0VTlpUy5fVIGCZMOvEe077Ewk0BwuOBeNQyPExJ%2FphkLwq%7Ctkp%3ABk9SR7a7rrGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/vHgAAeSwqYlqTeI-/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "117172058996",
@@ -892,13 +975,13 @@
         "priceC": 114999,
         "shippingC": 0,
         "landedC": 114999,
-        "url": "https://www.ebay.com/itm/117172058996?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=27043367451&itmmeta=01M0FD38CJAAVNJ1H0PM4YPAT1&hash=item1b47ffbb74:g:Y20AAeSw2rlp9L9f&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCs7UYb45596mVg3NOLvzr6E4STyqr5zWdTu0h4E5gt83ae%2BiMG5cQ1ZloduskObTv6X1ZIr9NcDzpY848YMCzEsjHJlf1hS0yktBPbiN%2FNxqIBhQAOkIcsHSr%2FgHTGpbGzf9aFN3iY%2Fjx%2BKxV0O8wSjBUs2cDfeRk53OsRca78hxvKlMwFuSwvVpJgMOlTEnYnuHiKP4n%2BgGEhLUBHyR57YI13ZeDivv5gJuYYorhF3c%2BJC5rMCqYXVztatMfg0L54la%2FuSkA2ssExY3bo4jhNMFXWqG3FFD%2B4XlMCoIW3yE019lmdO3js0Hbsd3pEW2fBWBo2SAhuyCZiDPHBufiZ%7Ctkp%3ABk9SR-aGje2DaA",
+        "url": "https://www.ebay.com/itm/117172058996?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=27043367451&itmmeta=01M0SHBKP9NE3WXHA55J3B9E78&hash=item1b47ffbb74:g:Y20AAeSw2rlp9L9f&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDNaE1p0M9CvPIF3O77pIkkANj6lwLBxPpFmBKYpr%2BxnaFBTw9h%2FfU4ZYMxBzhTtNHRurT3eB%2F5LB94pElarQbikqvEz921G2E5LDR0T8zIbUYRm1G7p3LNw5aRcQL1MzsbrbGtZeC%2FpU4RL%2BLbd8ifhs7igeF4FWDqnB3BEakc%2Fo1FIbvrkUraYbwSF6OCMW2fab0nXEtvdkxLc16OoRTMks9C2nRjta81itaqPRUiVmtmg3lt0AEeCuhldUBXTFIG8ZDideJPdmlSclmL3RkHNaTeIf4DDv%2BRx%2FiKACg0Wg%3D%3D%7Ctkp%3ABk9SR7i7rrGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Y20AAeSw2rlp9L9f/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "157757350530",
@@ -906,13 +989,13 @@
         "priceC": 225000,
         "shippingC": 0,
         "landedC": 225000,
-        "url": "https://www.ebay.com/itm/157757350530?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379685&itmmeta=01M0FD38CM2MT4GSD94RR3HP7C&hash=item24bb122282:g:M7IAAeSwqkdptaAu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAUTbGpLBV%2BBppEluTIWuMNTB0Ew%2BtXC%2Ba%2FKeDSgW1CJrngB%2BDvn%2F9al9Gz1cquOsZRnsjxpHPJtRXTEezeVhI9mEwb%2FIW%2F9GR2ReqRgPniDFjEWiTT%2BOTkIA8h%2FJOYk9%2Fmq6Gkf8feRY%2BkS3zCB8ID7GQjYG5HvsH3Sr1kE4bifVmqckQBQIugeGvptMWnTQnedLrVpcHcVDccWwJUigcWwuQO%2FUYTjU%2Bbc5B7EdHPFgEkHKBPDBUunOduMj8EL245M27RuzeqnvfzkbFS5BWWlViw1RgglCa5M%2BQl8UKiZw%3D%3D%7Ctkp%3ABk9SR-yGje2DaA",
+        "url": "https://www.ebay.com/itm/157757350530?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=7043379685&itmmeta=01M0SHBKPAR0SG6N1G8GJQSYFQ&hash=item24bb122282:g:M7IAAeSwqkdptaAu&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCFaT5BFPKeF1j%2BUIMtFEqHTn%2BTGpivLjM311bKwXZlYoj0G8o56ZOuwD5ezqrckg%2FZeBuBSsBlz0DxCX36ntAopSEUQi3uUPTZ%2B%2BztDgapoNVnu2crkTx1t25%2B6RpSPZltLB%2BkSMRskrnFXbGveK%2BsHbQv6J00fS9VJnKy6CPBKwZgek%2FKDPdaQMsrX2gYKuGwgvpG40mZHaMrV3ylGKOK%2BYphN0tIcAtP6FfvVPedVwPC6EgCQcwKSm2m71oDpvc515lxnU30xDFgiPjiI0WbSMxsNsU9BuDQGP47SEhLeGOKadf1dwgywxsojCLCKm9cwxBFsKlf2fHA%2B68oz9oH%7Ctkp%3ABk9SR7i7rrGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/M7IAAeSwqkdptaAu/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "157352459991",
@@ -920,13 +1003,13 @@
         "priceC": 888888,
         "shippingC": 0,
         "landedC": 888888,
-        "url": "https://www.ebay.com/itm/157352459991?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=27043367451&itmmeta=01M0FD3CMW62HKWTCNSEPM62DY&hash=item24a2effed7:g:ayUAAeSwcnFp~6yb&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDmRSKWMXPSoe%2FRVwMsVPKVTinjYPCmmr4kLt%2FKpBjvnupWjVYbPmOaVlWowPKjUYf2eTF%2BYe%2B9iHFGeG52%2BHXkPzSzCS%2Fs8Rw97EokBextNmuG0VcFqg0cjHehTZel8UtZzF9o3oBtrzqihCWF52eO95f7W9tCQ%2FTCSSXBs0SldY9CHgVaMw4eTgYmcE5pcGZHRfUDtQZrTcQXlfog0ZqNV0W7rN1vaCq1OsGXfMJM%2F6kfvGtMJ5OZt7FEr9bbwwDeKWO4oUxWEYTvlZsLFnIbJYTKE2P7iiJ2RXKFy7b8dQ%3D%3D%7Ctkp%3ABk9SR9zKje2DaA",
+        "url": "https://www.ebay.com/itm/157352459991?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=27043367451&itmmeta=01M0SHBRNZEW5VCEDA7DCY5CW2&hash=item24a2effed7:g:ayUAAeSwcnFp~6yb&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDmRSKWMXPSoe%2FRVwMsVPKVTinjYPCmmr4kLt%2FKpBjvnoRVBlezzTogSvvD0oJEgiudTkHcNcZcvMdn%2B6ePiHrHD%2FxP2ehDGw0z6T2cwcQEvkJYBSKYF72C3tcn3wPfDvmJbOxOrKEcAzzCusu5WRovI5asByralSP%2BDVDPxeGl7QMuecLKZN80oTOEQu%2BROOli6f7iTDiFonqLHWolUDChCtCL4GIeECOYpS53lmOYVuYxwc9NWh2Lk5nRhYj3gUqU0jyDCdds6SAVVRDmj%2BmYAshQcgCAsZ5%2FRRX6T0WiWQ%3D%3D%7Ctkp%3ABk9SR6aLr7GGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ayUAAeSwcnFp~6yb/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       },
       {
         "itemId": "397809320940",
@@ -934,17 +1017,30 @@
         "priceC": 999995,
         "shippingC": 0,
         "landedC": 999995,
-        "url": "https://www.ebay.com/itm/397809320940?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=27043367451&itmmeta=01M0FD3CMW1NZFKFYX7EMZNND2&hash=item5c9f4883ec:g:XgoAAeSw8Udp09LD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAW7fxGdVaEti3kAbdxUyhYgJxxs07SthRksvsnYF%2Fl4hPlx1dzWyJemG1fOW%2Beav34WgIViRlAP6jnDpvOo6qyJp9gQkGFHJV9hRKfivOwFa26NaPLYQtF02CI76KLHQUvnTyyDmcoPCyHWD7HR4egxqGouqa%2BI%2B5aQF0Vn64gJ%2B5YbnHk7YGYkYh07ChbaN8LptyLTslT0xhoGB5mQa%2B%2FRlYuekQyL8D0BbDfSkFsTEQOfIONAxsGnvwlCArtJ%2FbZHxJSrGMylbmAdmABeGGdLe%2BOvtQGfq8wEl1yMePpceSyb69%2B9xiRT2OZy0Tew7vy%2Bkg9SDE3mfCuIY84mo6h%7Ctkp%3ABk9SR9zKje2DaA",
+        "url": "https://www.ebay.com/itm/397809320940?_skw=%28charizard%2Cg%29+%2820%2Csupreme%2Cvictors%29+%28CGC%2CPSA%29&epid=27043367451&itmmeta=01M0SHBRNZWJD5TBX1YVFVRJQY&hash=item5c9f4883ec:g:XgoAAeSw8Udp09LD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDoxKlLezejD5NpvJReR1PUQOKEjkasE6DBjcM4oQ4EaGuFYgp9bdfNIIP8J5oUWKwlpDAyf4V8DTA7gmqDRwmTR5QnERA7fI%2BLtwIZPVZvJDUsg2xFdIl6kBC2lND4sBL0Ior8xzw%2FccKtfJrDUjcja4Xj5LZhgL2nAYkOSChIMnFvVuf%2BUgcDxRbAvDDM2zeOI3x0vUqZObqg9lJxCOYaIuiYCzq4L0n56M2ooYicuMv%2FIQ3QtO6chRqZgpfG4%2FkjGUn%2BGtQWXNkMDqrYOrvfQ9c3uk1VoXyY4TCGwHZqFQ%3D%3D%7Ctkp%3ABk9SR6aLr7GGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XgoAAeSw8Udp09LD/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "freshness": "live",
         "firstSeen": 1787223528144,
-        "lastSeen": 1787223528144
+        "lastSeen": 1787563481579
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3450525,
+          "saleDate": "2026-08-22",
+          "priceC": 9629,
+          "title": "2009 POKEMON PLATINUM SUPREME VICTORS #20/147 CHARIZARD G PSA 6 20/147",
+          "url": "https://www.ebay.com/itm/206491871968?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 6,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 1634951,
           "saleDate": "2026-08-20",
@@ -2491,19 +2587,6 @@
           "gradingGrade": 9.5,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 1634996,
-          "saleDate": "2025-10-06",
-          "priceC": 3499,
-          "title": "2009 Pokemon Platinum Supreme Victors Charizard G #20 PSA 8 NM/MT TCG Card 20/147",
-          "url": "https://www.ebay.com/itm/167822733840?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -2603,9 +2686,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 194,
+      "englishSaleCount": 195,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787223140251
+      "lastCapturedAt": 1787563232702
     }
   }
 }

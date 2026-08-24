@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 5051,
@@ -18,32 +18,32 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/76d3be7180da82c24ec2d12c8106191766c4bc186ecb1a54065d5e852d127ae5/1600.jpg",
       "popularityScore": 90,
       "market": {
-        "ungradedC": 9517,
+        "ungradedC": 8764,
         "grade9C": 91786,
         "grade95C": 101000,
-        "cgc10C": 134300,
-        "cgc10PristineC": 241700,
-        "psa10C": 223794,
-        "bgs10C": 290900,
+        "cgc10C": 137200,
+        "cgc10PristineC": 247000,
+        "psa10C": 228587,
+        "bgs10C": 297200,
         "psa9Pop": 81,
         "psa10Pop": 6,
         "cgc10Pop": 12,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787217445791
+        "fetchedAt": 1787560428509
       },
       "bestCgc10": {
         "itemId": "800501999256",
         "title": "CGC 10 **Raichu** 15/110 Reverse Holo 2006 Pokémon EX Holon Phantoms - Gem MintOpens in a new window or tab",
         "priceC": 149900,
-        "shippingC": 1348,
-        "landedC": 151248,
-        "url": "https://www.ebay.com/itm/800501999256?_skw=%28raichu%2Cdelta%29+%2815%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=26043383824&itmmeta=01M0F7GC7773HC60RRK321JT8R&hash=itemba61a32698:g:L8IAAeSw-zVqfb1W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA3IdHElcoyZV70%2FM9KbOFkw%2BaRSZq7ErKQRtvVjRm2RsEM3G%2FK1vjLJ3Ym%2Fv%2BfjsxY4oVzJgVI8ztMCZ7OReIfM0hrGwOeZLDz3UdU4IOFSgTqWm8IcAaaJOwbZrTjzvdKudpMZaOShbSH4C0sMrwjwMp%2FLHCXFyWmNtqXN%2BioSEPq7rNKOm0%2F5Xs7sb8hNWDuybMeciFbfyazMnVZXCyHQQPysofCGlNdE1mpXuobpBqGX9%2FguQzu6YwDUgbMnfSAHwTSKCPX1hHh3rUMQYgZ4O3acLLEePaaWHsnh2jSpds5EqjPZM9rwvpdXFCOMwyomR9c73bJgu51C8k4tDua%7Ctkp%3ABk9SR_jDweeDaA",
+        "shippingC": 1141,
+        "landedC": 151041,
+        "url": "https://www.ebay.com/itm/800501999256?_skw=%28raichu%2Cdelta%29+%2815%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=26043383824&itmmeta=01M0M9VMZNWD5TZD7F5Q7H02KE&hash=itemba61a32698:g:L8IAAeSw-zVqfb1W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA3IdHElcoyZV70%2FM9KbOFkw%2BaRSZq7ErKQRtvVjRm2RsEM3G%2FK1vjLJ3Ym%2Fv%2BfjsxY4oVzJgVI8ztMCZ7OReIfM0hrGwOeZLDz3UdU4IOFSgTqWm8IcAaaJOwbZrTjzveS1zPuJXOlvDUQnioQmMMU9fWvZquRwDlR3aV0%2BaGQJmbuIzbDH%2Bg2v%2FCboldsUv9vGIfpak7wDjRERBMy54qC1m%2BMYvJlYLmsxnxk%2BUMYKb9YSORVMXB5cR87DExhm2LPWi29Hqzzj9gaTUXvoquj25nF7or1AVn0%2FwOObK9QLJyMDm1W2g6q%2B9AslzgbwpxqAmajS4Ar%2BaINSfKf1kxL%7Ctkp%3ABk9SR5jQ7omFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/L8IAAeSw-zVqfb1W/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1787217904343
+        "lastSeen": 1787387940110
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -64,48 +64,61 @@
           "declaredValueCapC": 250000,
           "turnaroundBizDays": 30
         },
-        "cgc10CostC": 151248,
+        "cgc10CostC": 151041,
         "submissionFeeC": 14900,
-        "totalCostC": 166148,
-        "psa10ValueC": 223794,
-        "ratio": 1.3469557262199967
+        "totalCostC": 165941,
+        "psa10ValueC": 228587,
+        "ratio": 1.3775197208646446
       },
       "firstOpportunityAt": 1787092753589,
-      "updatedAt": 1787217904343
+      "updatedAt": 1787560428509
     },
     "prices": {
       "variantId": 5051,
-      "ungradedC": 9517,
+      "ungradedC": 8764,
       "grade9C": 91786,
       "grade95C": 101000,
-      "cgc10C": 134300,
-      "cgc10PristineC": 241700,
-      "psa10C": 223794,
+      "cgc10C": 137200,
+      "cgc10PristineC": 247000,
+      "psa10C": 228587,
       "psa9Pop": 81,
       "psa10Pop": 6,
       "cgc10Pop": 12,
-      "bgs10C": 290900,
+      "bgs10C": 297200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787217445791
+      "fetchedAt": 1787560428509
     },
     "listings": [
       {
         "itemId": "800501999256",
         "title": "CGC 10 **Raichu** 15/110 Reverse Holo 2006 Pokémon EX Holon Phantoms - Gem MintOpens in a new window or tab",
         "priceC": 149900,
-        "shippingC": 1348,
-        "landedC": 151248,
-        "url": "https://www.ebay.com/itm/800501999256?_skw=%28raichu%2Cdelta%29+%2815%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=26043383824&itmmeta=01M0F7GC7773HC60RRK321JT8R&hash=itemba61a32698:g:L8IAAeSw-zVqfb1W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA3IdHElcoyZV70%2FM9KbOFkw%2BaRSZq7ErKQRtvVjRm2RsEM3G%2FK1vjLJ3Ym%2Fv%2BfjsxY4oVzJgVI8ztMCZ7OReIfM0hrGwOeZLDz3UdU4IOFSgTqWm8IcAaaJOwbZrTjzvdKudpMZaOShbSH4C0sMrwjwMp%2FLHCXFyWmNtqXN%2BioSEPq7rNKOm0%2F5Xs7sb8hNWDuybMeciFbfyazMnVZXCyHQQPysofCGlNdE1mpXuobpBqGX9%2FguQzu6YwDUgbMnfSAHwTSKCPX1hHh3rUMQYgZ4O3acLLEePaaWHsnh2jSpds5EqjPZM9rwvpdXFCOMwyomR9c73bJgu51C8k4tDua%7Ctkp%3ABk9SR_jDweeDaA",
+        "shippingC": 1141,
+        "landedC": 151041,
+        "url": "https://www.ebay.com/itm/800501999256?_skw=%28raichu%2Cdelta%29+%2815%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=26043383824&itmmeta=01M0M9VMZNWD5TZD7F5Q7H02KE&hash=itemba61a32698:g:L8IAAeSw-zVqfb1W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA3IdHElcoyZV70%2FM9KbOFkw%2BaRSZq7ErKQRtvVjRm2RsEM3G%2FK1vjLJ3Ym%2Fv%2BfjsxY4oVzJgVI8ztMCZ7OReIfM0hrGwOeZLDz3UdU4IOFSgTqWm8IcAaaJOwbZrTjzveS1zPuJXOlvDUQnioQmMMU9fWvZquRwDlR3aV0%2BaGQJmbuIzbDH%2Bg2v%2FCboldsUv9vGIfpak7wDjRERBMy54qC1m%2BMYvJlYLmsxnxk%2BUMYKb9YSORVMXB5cR87DExhm2LPWi29Hqzzj9gaTUXvoquj25nF7or1AVn0%2FwOObK9QLJyMDm1W2g6q%2B9AslzgbwpxqAmajS4Ar%2BaINSfKf1kxL%7Ctkp%3ABk9SR5jQ7omFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/L8IAAeSw-zVqfb1W/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1787217904343
+        "lastSeen": 1787387940110
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 4210754,
+          "saleDate": "2026-08-23",
+          "priceC": 5555,
+          "title": "Raichu Reverse Foil Pokemon EX Holon Phantoms #15 2006",
+          "url": "https://www.ebay.com/itm/318720331471?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 656946,
           "saleDate": "2026-08-14",
@@ -571,6 +584,19 @@
           "gradingStatus": "graded",
           "gradingCompany": "PSA",
           "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2597488,
+          "saleDate": "2026-06-18",
+          "priceC": 45000,
+          "title": "Raichu 15/110 Holon Phantoms Delta Species Pokemon Card Reverse Holo Near Mint 15/110",
+          "url": "https://www.ebay.com/itm/800199994828?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1596,9 +1622,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 114,
+      "englishSaleCount": 116,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787217444272
+      "lastCapturedAt": 1787560426976
     }
   }
 }

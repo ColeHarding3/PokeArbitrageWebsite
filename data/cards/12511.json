@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 12511,
@@ -18,9 +18,9 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/a131c6918a7de9e9a3bb53d46bf26e6dd1ac9dbad2784ff5bb293ae8b0ac5f79/1600.jpg",
       "popularityScore": 96,
       "market": {
-        "ungradedC": 4600,
-        "grade9C": 53000,
-        "grade95C": 58300,
+        "ungradedC": 5005,
+        "grade9C": 37000,
+        "grade95C": 39900,
         "cgc10C": 99900,
         "cgc10PristineC": 179800,
         "psa10C": 899900,
@@ -28,8 +28,8 @@
         "psa9Pop": 35,
         "psa10Pop": 9,
         "cgc10Pop": 6,
-        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 3 sales per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787220199983
+        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 4 sales per year\":\"volume: \\n    1 sale per year\"}",
+        "fetchedAt": 1787561859610
       },
       "bestCgc10": {
         "itemId": "287292378505",
@@ -37,23 +37,36 @@
         "priceC": 840000,
         "shippingC": 999,
         "landedC": 840999,
-        "url": "https://www.ebay.com/itm/287292378505?_skw=%28mew%29+%2815%2Csecret%2Cwonders%29+%28CGC%2CPSA%29&epid=23043384221&itmmeta=01M0FA6EYEVXZ65MHH7ZPDR0YZ&hash=item42e3f5cd89:g:-iIAAeSwPY9p6-HN&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCEZ4LMz17Qkqh%2F84MxfgGYuk5st9ms977Sj14rfOmOeGB8fMA6pJH6IAgQk0yOcScW9xMzkcSuBBAMv0YEZ6v2PP8oYtyH02Xl%2B5LpLMBEJyVLbNrCYCTMb1a0cH8lHV7JMi7FpeZVjSF%2B01lGanqRYl7QQHc69j1pqEAA%2B7W8octrVmfkCqZ%2FRWKgXLjUXwxInE8ySksblWV30C1zA9d5%2FWzvW3qTHt7Amh7Skz8J6yOJhGq0nkDe3T3s7rlRQltPB9LIm7nKuXHYYly9T90F%7Ctkp%3ABk9SR8bvmeqDaA",
+        "url": "https://www.ebay.com/itm/287292378505?_skw=%28mew%29+%2815%2Csecret%2Cwonders%29+%28CGC%2CPSA%29&epid=23043384221&itmmeta=01M0SFZZSRY2F8VX661E1ZF2Z4&hash=item42e3f5cd89:g:-iIAAeSwPY9p6-HN&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDmk8v%2B%2BM3IoxssFy7OKDkW3AuqDdiOFBLfTAVm25T64YbrwoH3Oy8UptaecJiwGvwo05ImBpVs9yvHcoLQWnyxTptT9FtvpwYOTeHOYbAr0dpZ%2FPwGjrjTeCIZ1KPy54kizK8e7vTm6SbpSubV%2BnbiG86N6RiV%2BUjzeb2U%2F6nwU%2FhJLVdRZXUTz6WGj4Iko4FP0EEa9Jg7n%2FPswF4q3L918wuVrj1HMPps2brgaahziK7N96r7p13cy%2FUJGe25%2FL4PAyt2SbvASKjswWoTWMZIvoijSDt6TkB9%2BrupvWsgiZBHp0qHtYhj7gEgRy%2B63hw%3D%7Ctkp%3ABk9SR4z9_6-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-iIAAeSwPY9p6-HN/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787220413578,
-        "lastSeen": 1787220413578
+        "lastSeen": 1787562034570
       },
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "407161764362",
+        "title": "2023 Pokemon Mew 151 MEWTWO #15 MINT PSA 9 Reverse HoloOpens in a new window or tab",
+        "priceC": 3600,
+        "shippingC": 599,
+        "landedC": 4199,
+        "url": "https://www.ebay.com/itm/407161764362?_skw=%28mew%29+%2815%2Csecret%2Cwonders%29+%28CGC%2CPSA%29&epid=24062916118&itmmeta=01M0SFZN1NQ6VYFRHWYS0ZA7FQ&hash=item5eccbb7a0a:g:wtUAAeSwSGdqiM~h&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAiDL7M8%2BhK6YQElKiX0kgZmtimSLO67vlZ2NDeNp6fMXMlA2B2STTJDjqc73Pqv5g8fNAljyaDpS%2B0kE1CtAEfpsTpHebHZU7CcS4G2gqwm21yz4u0tzBuUSosYmGJRmQzLQmpXtthWLRijbwT9Nqe29TUgpXQLsVDkhAxL%2Fo3MHbDeZRdneZuLBS4Fu5JxAaKnYYbqYiPffBjJ2GV5KOdZ13RFWMuoq8t6XLDCBR7Rk0lfiPg85a9t6Z0e8F6zvZ%2BFX%2FKZ%2F9VqfHJZIb1a5FO5XdjsXQlsu167msbO7JjXDIHg5uNHBUak8bJulm0rks%3D%7Ctkp%3ABk9SR5bR_q-GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/wtUAAeSwSGdqiM~h/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787389480858,
+        "lastSeen": 1787562034570
+      },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 3
       },
       "ratio": {
         "ok": true,
@@ -71,13 +84,13 @@
         "ratio": 0.9988911076602371
       },
       "firstOpportunityAt": 1787220413578,
-      "updatedAt": 1787220413578
+      "updatedAt": 1787562034570
     },
     "prices": {
       "variantId": 12511,
-      "ungradedC": 4600,
-      "grade9C": 53000,
-      "grade95C": 58300,
+      "ungradedC": 5005,
+      "grade9C": 37000,
+      "grade95C": 39900,
       "cgc10C": 99900,
       "cgc10PristineC": 179800,
       "psa10C": 899900,
@@ -85,27 +98,95 @@
       "psa10Pop": 9,
       "cgc10Pop": 6,
       "bgs10C": 1169900,
-      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 3 sales per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787220199983
+      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 4 sales per year\":\"volume: \\n    1 sale per year\"}",
+      "fetchedAt": 1787561859610
     },
     "listings": [
+      {
+        "itemId": "407161764362",
+        "title": "2023 Pokemon Mew 151 MEWTWO #15 MINT PSA 9 Reverse HoloOpens in a new window or tab",
+        "priceC": 3600,
+        "shippingC": 599,
+        "landedC": 4199,
+        "url": "https://www.ebay.com/itm/407161764362?_skw=%28mew%29+%2815%2Csecret%2Cwonders%29+%28CGC%2CPSA%29&epid=24062916118&itmmeta=01M0SFZN1NQ6VYFRHWYS0ZA7FQ&hash=item5eccbb7a0a:g:wtUAAeSwSGdqiM~h&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAiDL7M8%2BhK6YQElKiX0kgZmtimSLO67vlZ2NDeNp6fMXMlA2B2STTJDjqc73Pqv5g8fNAljyaDpS%2B0kE1CtAEfpsTpHebHZU7CcS4G2gqwm21yz4u0tzBuUSosYmGJRmQzLQmpXtthWLRijbwT9Nqe29TUgpXQLsVDkhAxL%2Fo3MHbDeZRdneZuLBS4Fu5JxAaKnYYbqYiPffBjJ2GV5KOdZ13RFWMuoq8t6XLDCBR7Rk0lfiPg85a9t6Z0e8F6zvZ%2BFX%2FKZ%2F9VqfHJZIb1a5FO5XdjsXQlsu167msbO7JjXDIHg5uNHBUak8bJulm0rks%3D%7Ctkp%3ABk9SR5bR_q-GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/wtUAAeSwSGdqiM~h/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787389480858,
+        "lastSeen": 1787562034570
+      },
+      {
+        "itemId": "298538204757",
+        "title": "2007 POKEMON DIAMOND & PEARL SECRET WONDERS #15 MEW-REVERSE FOIL PSA 9Opens in a new window or tab",
+        "priceC": 120000,
+        "shippingC": 599,
+        "landedC": 120599,
+        "url": "https://www.ebay.com/itm/298538204757?_skw=%28mew%29+%2815%2Csecret%2Cwonders%29+%28CGC%2CPSA%29&epid=23043384221&itmmeta=01M0PYRWHPZRK783N2WMPAPEGE&hash=item4582437e55:g:AHsAAeSwmkxqaBFp&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCvrcxEgv%2FswR0QuRUSKJ2srBYLJo8z9uh5Y0uUBDxx11Rh7q2ZG%2F9%2FmZ7R%2BGr7dOj2VXp8EVkIkitNjEyEUJF0IkmfSOukKkQ4qaN6L5FLxPaAPtf4Fgd%2FLok4OV9LvSenK6RUn6yM1EMuzqr2%2F0i57CjZOZd5lJ5hU3%2BvtDF%2FNsIHVVVqQ3Eb27sbR3s1bUNO69zkvZiLU13OshfGcu0Jsb8ZCw3IIa1umrZ1kbd6ZsAz%2FYAvK1Ocp%2Fu3gI9mOhFAl06XaMTGfGXAzV51mWRj%7Ctkp%3ABk9SR_DJ496FaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/AHsAAeSwmkxqaBFp/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787476874036,
+        "lastSeen": 1787476874036
+      },
+      {
+        "itemId": "820038722047",
+        "title": "2007 POKEMON DIAMOND & PEARL SECRET WONDERS #15 MEW-REVERSE FOIL PSA 9Opens in a new window or tab",
+        "priceC": 149999,
+        "shippingC": 0,
+        "landedC": 149999,
+        "url": "https://www.ebay.com/itm/820038722047?_skw=%28mew%29+%2815%2Csecret%2Cwonders%29+%28CGC%2CPSA%29&epid=23043384221&itmmeta=01M0SFZTEX8EJ2VWDA0R43YF1P&hash=itembeee1de1ff:g:z6MAAeSw9KNqi15l&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDzsuYsUTZEV%2B%2FR3XIh%2FmtKLxQWsEmPl7zi9iPVYmGhLHt1vbcES3C%2Fonm6qu5UxtcGHc%2BOd0oCfDvn4UEJgOEOMpBYf9lgJeRVqH3GyBKZ1oF%2BR%2FM1OBzaBq0iPSPD7gcw1zjXItUxf6C%2BK%2FFbHvc5vDRhnw3OLxdO58U4CQxqsBraKJkeiC8Cz%2FuZ8fo0it6x3qBiTRhPjjO6HrKHOCpR2%2B7ysazQqk3IFM2pLyQ21UgKD5x0SesqMjp3M%2FJ7oLoyEY4SLyKA56MGV0HcbrEBNle00F02x5E9fKdfciMWTofI%2FEpZMn%2B356ixfrXJaYI%3D%7Ctkp%3ABk9SR-yn_6-GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/z6MAAeSw9KNqi15l/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787562034570,
+        "lastSeen": 1787562034570
+      },
       {
         "itemId": "287292378505",
         "title": "Pokemon Mew Secret Wonders Reverse Holo Rare #15 CGC 10 Gem MintOpens in a new window or tab",
         "priceC": 840000,
         "shippingC": 999,
         "landedC": 840999,
-        "url": "https://www.ebay.com/itm/287292378505?_skw=%28mew%29+%2815%2Csecret%2Cwonders%29+%28CGC%2CPSA%29&epid=23043384221&itmmeta=01M0FA6EYEVXZ65MHH7ZPDR0YZ&hash=item42e3f5cd89:g:-iIAAeSwPY9p6-HN&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCEZ4LMz17Qkqh%2F84MxfgGYuk5st9ms977Sj14rfOmOeGB8fMA6pJH6IAgQk0yOcScW9xMzkcSuBBAMv0YEZ6v2PP8oYtyH02Xl%2B5LpLMBEJyVLbNrCYCTMb1a0cH8lHV7JMi7FpeZVjSF%2B01lGanqRYl7QQHc69j1pqEAA%2B7W8octrVmfkCqZ%2FRWKgXLjUXwxInE8ySksblWV30C1zA9d5%2FWzvW3qTHt7Amh7Skz8J6yOJhGq0nkDe3T3s7rlRQltPB9LIm7nKuXHYYly9T90F%7Ctkp%3ABk9SR8bvmeqDaA",
+        "url": "https://www.ebay.com/itm/287292378505?_skw=%28mew%29+%2815%2Csecret%2Cwonders%29+%28CGC%2CPSA%29&epid=23043384221&itmmeta=01M0SFZZSRY2F8VX661E1ZF2Z4&hash=item42e3f5cd89:g:-iIAAeSwPY9p6-HN&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDmk8v%2B%2BM3IoxssFy7OKDkW3AuqDdiOFBLfTAVm25T64YbrwoH3Oy8UptaecJiwGvwo05ImBpVs9yvHcoLQWnyxTptT9FtvpwYOTeHOYbAr0dpZ%2FPwGjrjTeCIZ1KPy54kizK8e7vTm6SbpSubV%2BnbiG86N6RiV%2BUjzeb2U%2F6nwU%2FhJLVdRZXUTz6WGj4Iko4FP0EEa9Jg7n%2FPswF4q3L918wuVrj1HMPps2brgaahziK7N96r7p13cy%2FUJGe25%2FL4PAyt2SbvASKjswWoTWMZIvoijSDt6TkB9%2BrupvWsgiZBHp0qHtYhj7gEgRy%2B63hw%3D%7Ctkp%3ABk9SR4z9_6-GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-iIAAeSwPY9p6-HN/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787220413578,
-        "lastSeen": 1787220413578
+        "lastSeen": 1787562034570
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3355848,
+          "saleDate": "2026-08-23",
+          "priceC": 21250,
+          "title": "2007 POKEMON DIAMOND & PEARL SECRET WONDERS #15 MEW-REVERSE FOIL PSA 8 #15",
+          "url": "https://www.ebay.com/itm/117359396097?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3355847,
+          "saleDate": "2026-08-23",
+          "priceC": 20250,
+          "title": "2007 POKEMON DIAMOND & PEARL SECRET WONDERS #15 MEW-REVERSE FOIL PSA 8 #15",
+          "url": "https://www.ebay.com/itm/117359395917?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 1540513,
           "saleDate": "2026-08-19",
@@ -117,6 +198,19 @@
           "gradingCompany": "PSA",
           "gradingGrade": 9,
           "gradingDesignation": "mint",
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2698473,
+          "saleDate": "2026-08-18",
+          "priceC": 10997,
+          "title": "Mew #15 Near Mint English Reverse Holo",
+          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F87403%2F-&sharedId=web&subId1=completed",
+          "sourceMarketplace": "TCGPlayer",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
           "agreementStatus": "match"
         },
         {
@@ -207,6 +301,19 @@
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2698553,
+          "saleDate": "2026-08-03",
+          "priceC": 11350,
+          "title": "2007 POKEMON DIAMOND & PEARL SECRET WONDERS #15 MEW-REVERSE FOIL PSA 7 #15",
+          "url": "https://www.ebay.com/itm/298526402524?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 7,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1572,9 +1679,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 111,
+      "englishSaleCount": 115,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787220197984
+      "lastCapturedAt": 1787561858012
     }
   }
 }

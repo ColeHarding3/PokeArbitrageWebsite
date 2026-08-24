@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 529,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/pficyalclis5bvns/1600.jpg",
       "popularityScore": 88,
       "market": {
-        "ungradedC": 2200,
-        "grade9C": 12857,
-        "grade95C": 14100,
-        "cgc10C": 28694,
+        "ungradedC": 2375,
+        "grade9C": 13250,
+        "grade95C": 14600,
+        "cgc10C": 28320,
         "cgc10PristineC": 61000,
         "psa10C": 138364,
         "bgs10C": 179900,
         "psa9Pop": 4,
-        "psa10Pop": 0,
+        "psa10Pop": null,
         "cgc10Pop": 75,
-        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787209948506
+        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
+        "fetchedAt": 1787555489302
       },
       "bestCgc10": {
         "itemId": "187240392345",
@@ -37,13 +37,13 @@
         "priceC": 30000,
         "shippingC": 597,
         "landedC": 30597,
-        "url": "https://www.ebay.com/itm/187240392345?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&itmmeta=01M0FFS916NYVSGQB9JDQ04DPV&hash=item2b9865a699:g:QfIAAOSwUf5oLRyP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC4DpLqp960LClzqXFTAOXazFv5MzBNPLKlvPo0tA2Wzz1Tax0Kv2LmEOXnRTbatzDdd1XOKAdR6GG429RsB36jRt%2BRKzjppaH4ocumN8Ydia7BLe9t5qNUrb520IO%2FYuP0Siyjh4TwW8ekm73soMP6oRInE4d8mhCNvcCGVNOiFUUrCpPnksisoU47Q7aJh%2Fc2PedsyxjFesBTeiSTKtulUGuWIbvs%2BPdRcEVuSisyqIInbyVdMqi8zlddkFB3JzqewP%2BHxGhxx8HMK%2BzOZs%2BvZYN4BYaefxVFMsrM1Fylors5vybLPlhbsFZIaSz3OXk%3D%7Ctkp%3ABk9SR9aR5e-DaA",
+        "url": "https://www.ebay.com/itm/187240392345?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0SK0QTZPWZPMS2429ASR634&hash=item2b9865a699:g:QfIAAOSwUf5oLRyP&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBVwa8mYsZSWezcIEblgo1%2BQwz6FIBgQBINQayzM%2BQjH%2BYbhRQUc7E1VK5n%2B7%2FZJSW0LCPRhH2ikQX0pIOornGZF3DIaPPtL%2BIOsuzJmdwDjyznpEqDUTQ1iHOoNCsfRAvw1HouwCC8DLiBtWrfjHFqk3tuccuZTmJXJ0TUt7zGsBVeAIE25ORk%2FmYvpDQ1p2Kz9xSfnMCDBbYcXprp8%2FsjqCLJ2S3IG6WI%2BpX0c1P3jDVDE2IGR%2FxvZm6gAvUxKlf4%2FGimir4PPb%2BYnhUjiGKa%7Ctkp%3ABk9SR4b-grOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/QfIAAOSwUf5oLRyP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094434764,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       "bestPsa10": {
         "itemId": "267629631434",
@@ -51,27 +51,27 @@
         "priceC": 44999,
         "shippingC": 597,
         "landedC": 45596,
-        "url": "https://www.ebay.com/itm/267629631434?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=3043380475&itmmeta=01M0FFS9168XCREDN9R0CPNB8V&hash=item3e4ff817ca:g:b4cAAeSwDTNp0RWi&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDi04wpPO4A7mtUFZLvrjC1oia3VkEavKV8i9euTVTH8junR7KNalNYwsECp6GiebB853zVqakpxTns%2FAaeHl1jrPN2nM%2BgeRPchF3UwA6AbrBo8J1Ycc%2F7DRh6eIq%2B5gHI9G4%2BNjhBSRU0tvOqSjegWQaXhSJc4frU3k%2F0CDr3GzpgXupFHv0d1J50S%2Fxxch5%2FBU4IL4Tcyp03CMqeSHvmgqssxy1zPH8ohJn1MM5x1vlx2pQgLCNtbHYwsu4OscG%2F4WWPMnAHLFmhtkNWNB%2FSUwDmLlkbXTgoEAuDAyrNE0xP%2Fn%2BYzpZuRM2NJlhihPo%3D%7Ctkp%3ABk9SR9iR5e-DaA",
+        "url": "https://www.ebay.com/itm/267629631434?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=3043380475&itmmeta=01M0SK0QTZJYADRDE6M0NDFRFE&hash=item3e4ff817ca:g:b4cAAeSwDTNp0RWi&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xASI8g0NMgbj7xaV8Cmqm2mBTatBQclQbwqD6Ojq7u9dbXljYnNC3phYhusnnhRexliitZIgJYn%2BJkEU0Zc7t%2FXT8T3G47TIo4rCjPtMXbcAlwSwBLIPD5w7ds8KKJDfL4qlTsoxsRn1M7WcxEN2msJ48BeNr7YTgU2Hvnm%2F1%2Bi1vxGpgEbTgrEsWhlZt41TdpoG7hw5e7o9ZMSfLpw9Fr4%2BUxYXMgQr8a%2BogSInheZOzxoHp24K%2Br5UMs7%2FG%2BCcUw1aoU3yUXIms7aP9F4cZCp%7Ctkp%3ABk9SR4r-grOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/b4cAAeSwDTNp0RWi/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       "bestPsa9": {
-        "itemId": "377420677821",
-        "title": "Wizards of the Coast 1999 Pokemon Fossil Haunter 6/62 Holo Rare PSA 9Opens in a new window or tab",
-        "priceC": 14000,
-        "shippingC": 510,
-        "landedC": 14510,
-        "url": "https://www.ebay.com/itm/377420677821?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0FFRZ2K6CXMHMWWAN97F28J&hash=item57e00682bd:g:61AAAeSwd8VqgG3y&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAfTgPlemHz5T%2FfUly%2BdfrQd4CmnVa4HmHTLBYK%2FW5xXkgFlQx4UhpSke1Uo2vsjUzROUA5OeVNMazXgdna4wCJzwQ%2BCWnpDDkapblyGkN6C3wCZqH9%2FPh0hiBa6mOOZNNvyp3TP6qlfiGu8qifpTsurr9DxJpStLdvQcDMKF0hfFEpshZJEMAVNzn4h8KNRM505X3c2ofpPYT6n5Z2XjX7F%2FynG16fh7yYzAJtjCqRUgQIO6lBxE37SJVCN8ib5QNUPTMTMX7f1jqI81qf%2FFAP%7Ctkp%3ABk9SR-Lx4--DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/61AAAeSwd8VqgG3y/s-l500.webp",
+        "itemId": "237024075416",
+        "title": "1999 Pokemon Fossil-Holo Haunter #6 PSA 9Opens in a new window or tab",
+        "priceC": 12500,
+        "shippingC": 0,
+        "landedC": 12500,
+        "url": "https://www.ebay.com/itm/237024075416?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0SK0J7BV476MT8QNSDZ3VYT&hash=item372fbc5e98:g:oM0AAeSwc8FqiiHq&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA7z2tHj2Jwn2kT4AVvEKxJurBHd1stSne7XiS99x1yeUq5ZuEowyFSTUmR5GcU%2BV8RXeayjQLlOc2YYvBlaVpHbZFbCf%2FCQBN%2BeC2%2BSFnmifU4IFPXXfl%2FIIkw0qtnttNpS8%2BYS9JSaWYef%2BLcFY79LsC7aH%2BYU6OzVSK%2FNsPEQcWpCxuYLQlcl7mijBt5owiLbpsk9POvethd684ij7Efvrx7aEBvpk1C9oFYHJRxJAQFbQz4kPMYpMhUVSpthajv3%2FBHDq2s2%2B4kfw3NBsrQKa26vSpjHKbIJts9%2BKZDwr1yT%2BHurrpG4FuAZa68qPc%3D%7Ctkp%3ABk9SR4akgrOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/oM0AAeSwc8FqiiHq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
-        "firstSeen": 1787040561909,
-        "lastSeen": 1787227384326
+        "firstSeen": 1787469325614,
+        "lastSeen": 1787565789327
       },
       "counts": {
         "cgc10Bin": 2,
@@ -79,7 +79,7 @@
         "pristine10": 0,
         "psa10Bin": 5,
         "psa10Auction": 0,
-        "psa9Bin": 5
+        "psa9Bin": 6
       },
       "ratio": {
         "ok": true,
@@ -97,65 +97,79 @@
         "ratio": 3.58493108094103
       },
       "firstOpportunityAt": 1787094434764,
-      "updatedAt": 1787227384326
+      "updatedAt": 1787565789327
     },
     "prices": {
       "variantId": 529,
-      "ungradedC": 2200,
-      "grade9C": 12857,
-      "grade95C": 14100,
-      "cgc10C": 28694,
+      "ungradedC": 2375,
+      "grade9C": 13250,
+      "grade95C": 14600,
+      "cgc10C": 28320,
       "cgc10PristineC": 61000,
       "psa10C": 138364,
       "psa9Pop": 4,
-      "psa10Pop": 0,
+      "psa10Pop": null,
       "cgc10Pop": 75,
       "bgs10C": 179900,
-      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787209948506
+      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
+      "fetchedAt": 1787555489302
     },
     "listings": [
       {
-        "itemId": "377420677821",
-        "title": "Wizards of the Coast 1999 Pokemon Fossil Haunter 6/62 Holo Rare PSA 9Opens in a new window or tab",
-        "priceC": 14000,
-        "shippingC": 510,
-        "landedC": 14510,
-        "url": "https://www.ebay.com/itm/377420677821?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0FFRZ2K6CXMHMWWAN97F28J&hash=item57e00682bd:g:61AAAeSwd8VqgG3y&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAfTgPlemHz5T%2FfUly%2BdfrQd4CmnVa4HmHTLBYK%2FW5xXkgFlQx4UhpSke1Uo2vsjUzROUA5OeVNMazXgdna4wCJzwQ%2BCWnpDDkapblyGkN6C3wCZqH9%2FPh0hiBa6mOOZNNvyp3TP6qlfiGu8qifpTsurr9DxJpStLdvQcDMKF0hfFEpshZJEMAVNzn4h8KNRM505X3c2ofpPYT6n5Z2XjX7F%2FynG16fh7yYzAJtjCqRUgQIO6lBxE37SJVCN8ib5QNUPTMTMX7f1jqI81qf%2FFAP%7Ctkp%3ABk9SR-Lx4--DaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/61AAAeSwd8VqgG3y/s-l500.webp",
+        "itemId": "237024075416",
+        "title": "1999 Pokemon Fossil-Holo Haunter #6 PSA 9Opens in a new window or tab",
+        "priceC": 12500,
+        "shippingC": 0,
+        "landedC": 12500,
+        "url": "https://www.ebay.com/itm/237024075416?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0SK0J7BV476MT8QNSDZ3VYT&hash=item372fbc5e98:g:oM0AAeSwc8FqiiHq&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA7z2tHj2Jwn2kT4AVvEKxJurBHd1stSne7XiS99x1yeUq5ZuEowyFSTUmR5GcU%2BV8RXeayjQLlOc2YYvBlaVpHbZFbCf%2FCQBN%2BeC2%2BSFnmifU4IFPXXfl%2FIIkw0qtnttNpS8%2BYS9JSaWYef%2BLcFY79LsC7aH%2BYU6OzVSK%2FNsPEQcWpCxuYLQlcl7mijBt5owiLbpsk9POvethd684ij7Efvrx7aEBvpk1C9oFYHJRxJAQFbQz4kPMYpMhUVSpthajv3%2FBHDq2s2%2B4kfw3NBsrQKa26vSpjHKbIJts9%2BKZDwr1yT%2BHurrpG4FuAZa68qPc%3D%7Ctkp%3ABk9SR4akgrOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/oM0AAeSwc8FqiiHq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
-        "firstSeen": 1787040561909,
-        "lastSeen": 1787227384326
+        "firstSeen": 1787469325614,
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "128032197061",
         "title": "1999 Pokemon English Fossil-Holo Haunter #6 PSA 9Opens in a new window or tab",
-        "priceC": 17000,
+        "priceC": 13000,
         "shippingC": 562,
-        "landedC": 17562,
-        "url": "https://www.ebay.com/itm/128032197061?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0FFS913RYRP4N5ZVHXRXVT6&hash=item1dcf5049c5:g:mAwAAeSwRqBqg92t&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB2XM%2Bzme8jlhn9o2aQv52QhRJ4Ki%2FsJiAfb%2FgjCuKOGmli9M4OP6r0rLK7IQB48kcMRLVCHec7Z5jAuYPyhCKq%2FVpo3sklXNHDFYuC7ZfkPp0%2F7qV%2BVvWIDP30p2iAGLPSvP3fSu1zp7Mgy9DogDhbHqwURCxHdnnopj2%2F1kvlNDB8MvdiY0Y58mapHWWneVmc4oKHk%2B%2BkXRtB03Z--XUjkImtqCGTP88Q%2Bp5u5PTD45gW7IOI0ZuVg84pGyO6%2B8UZ7GfBHsZK%2FDG2aFtFamqLcZW2cGmMl3N8X2d%2FQ7sf7B1FzkbQ1mqvl1pTFkclGK0%3D%7Ctkp%3ABk9SR5KR5e-DaA",
+        "landedC": 13562,
+        "url": "https://www.ebay.com/itm/128032197061?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0Q1Q7JAXKPS23ES7Q0AHNXC&hash=item1dcf5049c5:g:mAwAAeSwRqBqg92t&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB2XM%2Bzme8jlhn9o2aQv52QhRJ4Ki%2FsJiAfb%2FgjCuKOGmli9M4OP6r0rLK7IQB48kcMRLVCHec7Z5jAuYPyhCKq%2FVpo3sklXNHDFYuC7ZfkPp0%2F7qV%2BVvWIDP30p2iAGLPo2s8OYjKLcmmfJyFLyHd0bpyxsuvYZEQY2UybxBnU0nznlZfW25WZ99gwH9UDCaLAzyIdVp7vt402eWQmFlnoBC9x2UQZH0fGTN%2BmeglStZ5VwbD3pbRhTg3cBMn30XAkgW0Fi026S491ZLb7EjNnctqydZlEwPTGXCGy74xZxzp5fa7940%2FxOm8fmKsRLZA%3D%7Ctkp%3ABk9SR7L53OGFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/mAwAAeSwRqBqg92t/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787480423442
+      },
+      {
+        "itemId": "377420677821",
+        "title": "Wizards of the Coast 1999 Pokemon Fossil Haunter 6/62 Holo Rare PSA 9Opens in a new window or tab",
+        "priceC": 13999,
+        "shippingC": 561,
+        "landedC": 14560,
+        "url": "https://www.ebay.com/itm/377420677821?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0SK0J7CPMPS8ZSKZV4F066P&hash=item57e00682bd:g:61AAAeSwd8VqgG3y&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBqGvdS7Efi4w0Ii9EwOT%2B2NnPvbhedOO9%2B0RG2s%2BXkKEh0mP1CgbmEQ8ydunjtgirZOzfHA5APzDxJm3YTZW2UX088RZ5G5yWg30yyLQo59%2Fse%2Bfi1gofbf9QJlyph9IuqjefU%2BBuHP722J8ujDuRYpE0bltvG7GASXHyRqbJHWZYz1wgk%2FXrgTAoYe4r1PtOMQNkH3IjVbpzMpi%2F%2BXYp68rOZo66UsOvc5qDZ1Ng31ETZTlVHxasxe6%2BXBY%2FAD1GV9DtKooIf5geoaYBDYLBQVZxwzpi9opsEktUoNy5DFl96GWXd2HdlZZ4LHVZvZFk%3D%7Ctkp%3ABk9SR4ikgrOGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/61AAAeSwd8VqgG3y/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787040561909,
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "188631954822",
         "title": "1999 Pokémon Haunter 6/62 PSA 9 (Fossil)Opens in a new window or tab",
         "priceC": 17500,
-        "shippingC": 1336,
-        "landedC": 18836,
-        "url": "https://www.ebay.com/itm/188631954822?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0FFS914S16JR3YXS49R2S87&hash=item2beb573586:g:gOQAAeSwD-lqU-rd&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAnDgKLS6xa8SuUvx%2Fa8miNpS5vKEBc2Vowk1aO856DfE342pZT35LW9JpWSoewbildDvxBIbRrvdYP8mvwFUaGrbAKwVdHOFxsBwAdZPxic4J0TkbtlQ9jiw8GJWZrImgN7vvPBv9m3EaUoRaMPaxXHcjjYgEHyWWQmd4gx%2FH5tPfFVYz38L93sRsbQVz4e0d2PAY%2FEHdhnD2Fg8iMxzWKsbcftKe7W7uCoeWruZOa8I1JkKXvUu7Ter7rFAH38dXoAsquGymm7GOw%2FM7QyOVo%7Ctkp%3ABk9SR9CR5e-DaA",
+        "shippingC": 1150,
+        "landedC": 18650,
+        "url": "https://www.ebay.com/itm/188631954822?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0SK0QTWZT69CT6QMYC3SQHA&hash=item2beb573586:g:gOQAAeSwD-lqU-rd&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDW8xTTydrvB37IdSXnsak6P7JWpWIkPcX8JfYgpLlDI6kbgUA28woiE%2Fvn49RsTxriLczwS0akoua0k3adZmwKVy7BIjdEq5wmFKOZ9Im3jOWB%2FmyX3neGe87fCLfUcHLQa9il8D5VBzd4AfymQiGMBY8TNfDW2UlKBNe8Hu5Otmwlo7tWNAVdCg4lfLa16fyQlJCyheX81kLWPkgLG5%2FwYP0LAN%2Bb1JDuKhdWb%2B0A1yy2vVLEq4TtFhE3X7Czq9tXGQx%2FMRIF3tI7%2BaYKM8KUVTx0sv8v5skvtMoN4z5dLoD0Wskb6nxpWV7D%2FwlDaQ8%3D%7Ctkp%3ABk9SR_b9grOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/gOQAAeSwD-lqU-rd/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "286909684035",
@@ -163,13 +177,13 @@
         "priceC": 19500,
         "shippingC": 599,
         "landedC": 20099,
-        "url": "https://www.ebay.com/itm/286909684035?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&itmmeta=01M0FFS914G333S4ZBPFWFZE1M&hash=item42cd265943:g:BfIAAeSwCOBpBRfq&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBAgKjxnbdmSEeWlLKF2Ym1OijaL0lyJ0CeJt2DWaS4c4P7APxqDKKQYT7RtO6xOe0VV%2Bg1MLu3bI4il%2BnINaj46Ap4tu%2BbrXoK2fKTbl%2BjqBqVweZzGnuTU8TFdLPKj6cdgK8l74cs%2FymaDW7xPOLn8IeGfXtLgh09oGDftGBQeq62Bcrmudj73PDqtpxmaDd1IHNkTUreKmcHRHvLEu8MDyZBf2vb9uPgSIkmp1G0ep%2FkNF057esSidG8rEw%2FIabAacitZGrAjFGQIMLpqpfO%7Ctkp%3ABk9SR9CR5e-DaA",
+        "url": "https://www.ebay.com/itm/286909684035?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0SK0QTXN8JK7CE0XPMYPWS4&hash=item42cd265943:g:BfIAAeSwCOBpBRfq&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA6cO3NKtkbfj8nUsnwMYJvQ%2FeHa%2BkCH2lbxG3joNEEv5xq2Pb4KiADumQbHB96MKBpT%2BpcllYp1gC2Uo5TqcSSt75Dtb9OaXV9ypnowjokaEvGMbEaF4SHBCeoCdoeA5qoWY20uyip0%2B7QVV351LqDGCG3aQlWnflIcmiDu%2BRTkDoJ7GQnDq2ZyHMWgq58C3vldNSPN%2BfG0GoDt5K2%2FJmGmMYCm5EbIv%2Fd6dnBILDC80GP5VuLM7HZAYRSzIIc0U9AIpVUDbmYHEMN4nDkzmeSW4XIdOgGHILpRlraPlBw66%2BOWVCFr2v81jMO%2BjMObJU%3D%7Ctkp%3ABk9SR_z9grOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BfIAAeSwCOBpBRfq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "187240392345",
@@ -177,13 +191,13 @@
         "priceC": 30000,
         "shippingC": 597,
         "landedC": 30597,
-        "url": "https://www.ebay.com/itm/187240392345?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&itmmeta=01M0FFS916NYVSGQB9JDQ04DPV&hash=item2b9865a699:g:QfIAAOSwUf5oLRyP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC4DpLqp960LClzqXFTAOXazFv5MzBNPLKlvPo0tA2Wzz1Tax0Kv2LmEOXnRTbatzDdd1XOKAdR6GG429RsB36jRt%2BRKzjppaH4ocumN8Ydia7BLe9t5qNUrb520IO%2FYuP0Siyjh4TwW8ekm73soMP6oRInE4d8mhCNvcCGVNOiFUUrCpPnksisoU47Q7aJh%2Fc2PedsyxjFesBTeiSTKtulUGuWIbvs%2BPdRcEVuSisyqIInbyVdMqi8zlddkFB3JzqewP%2BHxGhxx8HMK%2BzOZs%2BvZYN4BYaefxVFMsrM1Fylors5vybLPlhbsFZIaSz3OXk%3D%7Ctkp%3ABk9SR9aR5e-DaA",
+        "url": "https://www.ebay.com/itm/187240392345?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0SK0QTZPWZPMS2429ASR634&hash=item2b9865a699:g:QfIAAOSwUf5oLRyP&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBVwa8mYsZSWezcIEblgo1%2BQwz6FIBgQBINQayzM%2BQjH%2BYbhRQUc7E1VK5n%2B7%2FZJSW0LCPRhH2ikQX0pIOornGZF3DIaPPtL%2BIOsuzJmdwDjyznpEqDUTQ1iHOoNCsfRAvw1HouwCC8DLiBtWrfjHFqk3tuccuZTmJXJ0TUt7zGsBVeAIE25ORk%2FmYvpDQ1p2Kz9xSfnMCDBbYcXprp8%2FsjqCLJ2S3IG6WI%2BpX0c1P3jDVDE2IGR%2FxvZm6gAvUxKlf4%2FGimir4PPb%2BYnhUjiGKa%7Ctkp%3ABk9SR4b-grOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/QfIAAOSwUf5oLRyP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094434764,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "298573641691",
@@ -191,13 +205,13 @@
         "priceC": 37500,
         "shippingC": 895,
         "landedC": 38395,
-        "url": "https://www.ebay.com/itm/298573641691?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0FFS9165RKJ4TB24V0HQ1ZR&hash=item45846037db:g:Es0AAeSwiX5qeRDt&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDLs%2FW%2BUq1oXYcyTi0Bhmi%2Ft0PeQoGO9eHKSYlP%2B5PLdlW03KJ79H7MHe8%2Bn%2FZxXPt%2BEGqjkEq7UomQ%2B%2BDS%2FpFqDvEuEj8JpxCqq9YnnMEquippbTnC6TLk5GnqjRj6lL%2BlqbZEclNkK0v1rRae4hg6MqOdZaLTCsU27xjYYIKrtPT4PRuTYEn%2BkggUel6C3PORRaOEgoMFpjYYQdHsGDXWhJ1D%2FRQ0tdV6A%2FCGLd%2FnGFtODksR7Dl5DuesgYadMqB4fs%2FVU5RzcsmiV60q1mse4DOr69IQOb%2FgNa6sGizxDVEuGbNMqsqab%2BSwsptKNyI%3D%7Ctkp%3ABk9SR9aR5e-DaA",
+        "url": "https://www.ebay.com/itm/298573641691?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0Q1QC65T56DDFDA4FB35K94&hash=item45846037db:g:Es0AAeSwiX5qeRDt&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDLs%2FW%2BUq1oXYcyTi0Bhmi%2Ft0PeQoGO9eHKSYlP%2B5PLdlW03KJ79H7MHe8%2Bn%2FZxXPt%2BEGqjkEq7UomQ%2B%2BDS%2FpFqDvEuEj8JpxCqq9YnnMEquippbTnC6TLk5GnqjRj6lL%2FvY971WWuNi1oRyO4jffZ0QgC3nCO45EP5qSZi51jIlMz693XLDM9EzJhk1wfwtIRvfLa03Qr0%2B9EouS61745Q1FkGuwVQJTs9%2BPqMWFjWtPor4wj%2BlFqw6LGQIbv9GZUrHJ60pE0uYxSzaIUFL0MoURRHKwyHOLd2hD109x%2BGdfgqmpQtYdN%2Ful5UMQymz4w%3D%7Ctkp%3ABk9SR7jD3eGFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Es0AAeSwiX5qeRDt/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787480423442
       },
       {
         "itemId": "267629631434",
@@ -205,13 +219,13 @@
         "priceC": 44999,
         "shippingC": 597,
         "landedC": 45596,
-        "url": "https://www.ebay.com/itm/267629631434?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=3043380475&itmmeta=01M0FFS9168XCREDN9R0CPNB8V&hash=item3e4ff817ca:g:b4cAAeSwDTNp0RWi&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDi04wpPO4A7mtUFZLvrjC1oia3VkEavKV8i9euTVTH8junR7KNalNYwsECp6GiebB853zVqakpxTns%2FAaeHl1jrPN2nM%2BgeRPchF3UwA6AbrBo8J1Ycc%2F7DRh6eIq%2B5gHI9G4%2BNjhBSRU0tvOqSjegWQaXhSJc4frU3k%2F0CDr3GzpgXupFHv0d1J50S%2Fxxch5%2FBU4IL4Tcyp03CMqeSHvmgqssxy1zPH8ohJn1MM5x1vlx2pQgLCNtbHYwsu4OscG%2F4WWPMnAHLFmhtkNWNB%2FSUwDmLlkbXTgoEAuDAyrNE0xP%2Fn%2BYzpZuRM2NJlhihPo%3D%7Ctkp%3ABk9SR9iR5e-DaA",
+        "url": "https://www.ebay.com/itm/267629631434?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=3043380475&itmmeta=01M0SK0QTZJYADRDE6M0NDFRFE&hash=item3e4ff817ca:g:b4cAAeSwDTNp0RWi&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xASI8g0NMgbj7xaV8Cmqm2mBTatBQclQbwqD6Ojq7u9dbXljYnNC3phYhusnnhRexliitZIgJYn%2BJkEU0Zc7t%2FXT8T3G47TIo4rCjPtMXbcAlwSwBLIPD5w7ds8KKJDfL4qlTsoxsRn1M7WcxEN2msJ48BeNr7YTgU2Hvnm%2F1%2Bi1vxGpgEbTgrEsWhlZt41TdpoG7hw5e7o9ZMSfLpw9Fr4%2BUxYXMgQr8a%2BogSInheZOzxoHp24K%2Br5UMs7%2FG%2BCcUw1aoU3yUXIms7aP9F4cZCp%7Ctkp%3ABk9SR4r-grOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/b4cAAeSwDTNp0RWi/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "117366903501",
@@ -219,13 +233,13 @@
         "priceC": 249999,
         "shippingC": 0,
         "landedC": 249999,
-        "url": "https://www.ebay.com/itm/117366903501?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0FFS918MSFVAHEC8A5VE71Q&hash=item1b539cd2cd:g:sh4AAeSwptdqhNkD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCIQh4uTkopFE653N7SaRajXq0iBWlA3Ce%2BWLHVegghWIMqkbkPDoDvel8%2B32U1V6vWwBlezlAuQtgeCB3f9rKT8UrEWt3AfNrsQtqpB8chYdJXQpJPfstz55OSgTebfNilbnyhwCldg5jLo0Xg3A9%2FgMdtH2V7ik9ad4NOaYYqff46fCA6oCwE7OugvswsNSLM4q89IGEG1sLG%2FU4tc1ek%2BkMtYVPa%2ByjqpTEPM%2FdbPjK0QgAASLHvapKGqECVOSJDOMfl89vnS93p0NknAkNq%7Ctkp%3ABk9SR9qR5e-DaA",
+        "url": "https://www.ebay.com/itm/117366903501?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&itmmeta=01M0SK0QV0C69QM68GE8G1PWCC&hash=item1b539cd2cd:g:sh4AAeSwptdqhNkD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCIQh4uTkopFE653N7SaRajXq0iBWlA3Ce%2BWLHVegghWL2f8MBJ3xPp0dtJCuxd%2FkbAhUdlItKk8k6jIjfuhpmGE069sEVNvdIywn6c1iCTc5KXYVsIC5CPro43tL55ikwu0DIF1n0zEKDHdX40bvKl%2Bn9n6I6FtRLoJuySxhd%2BIjRlIbAUUrmRKfVQXo8R8lwtdo%2BxU3yll4LxW8L8xY4IOTA8o6PMEzxkGJQH2C4euy45INcRBRPDz3ojqxyT6XIbUnyCMagiATMMQCNBBfzk%7Ctkp%3ABk9SR5D-grOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/sh4AAeSwptdqhNkD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "267617022841",
@@ -233,13 +247,13 @@
         "priceC": 499999,
         "shippingC": 1499,
         "landedC": 501498,
-        "url": "https://www.ebay.com/itm/267617022841?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0FFS918HPCHSQKE11CC40HM&hash=item3e4f37b379:g:h0EAAeSw9gJpwHKf&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC0wzkSABf6TC1%2BcbVOZ2k0zhKSSHdVZeqLGODaB3jE%2FiSB0vDGgP%2Bt9rqMORqKTkl6lnUnGn5lA0Gl5w9hZhjZtsGAT9QBjCDs5cYxNIracxS%2FDhrngdnhIayiFq%2BCtUbwLPZfhUywbqY0ynX8V7chONGERlaKVskjiYH%2BhG0tNAFvYWpOUGbu7oA5E8B6i01D%2BxP3o%2FTHTwfovmc0xohd220sXzBzrgIRgM%2BdcewRTeMtUk4ahHqW2%2FZD8sRbC0FXqiRucP4yUmrbjX27M8fA8ZWRtfq15tyKu3UbpGzp3kASFgaq5rfVfZErm%2F1io44%3D%7Ctkp%3ABk9SR9yR5e-DaA",
+        "url": "https://www.ebay.com/itm/267617022841?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0SK0QV156071QXR9HVXSHKW&hash=item3e4f37b379:g:h0EAAeSw9gJpwHKf&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xByFSEjpjWm%2BpHvX4Cya%2BVZDd0oqKMU4vH49lJAl2hAt--sXH8zzpg3pDNGB6yM75PiRlx9UT%2Ft%2B2bS9wadzsbfTYKi4EDXW4PwKevnFjDBApcFyD4%2BlKYPGGKVyJexJgeFMhh0CRArBXtmkGdx0QTxbWMOQz%2Bsyqu4y5SbrC1wXLkIZTWN9RVZMWLFQIdFqn0Ok1aYXKq3WUvqpx4ITlLUumYwgt%2BACsqPPWK8FfuFM8un%2FL3FAAPreeqi5uSeVpz84FDLHD3%2BhhjyO9o18XnP%7Ctkp%3ABk9SR5L-grOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/h0EAAeSw9gJpwHKf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "178210574946",
@@ -247,13 +261,13 @@
         "priceC": 520000,
         "shippingC": 597,
         "landedC": 520597,
-        "url": "https://www.ebay.com/itm/178210574946?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0FFS918724QQ4K3BAM69FJF&hash=item297e2d9262:g:JmsAAeSw-dZqKalx&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xADLXNQnc8rZjaEcfngNQqKJChL6xiIqkQHDrZ%2BmCAeqBXvdxEBKVSNjXKFfiFqbDe6xUpG65WpDdmUO3JGWnmga7uE93EpApYmWhDZnjrEZY0UwivObmAXLo1YqnpkPbzJtfcExRNRqxsP9qECRTUuhlS6o7uL5L%2BrqeHL5zw2sd7EfbhhfckX50fWYwPFYmei45TDL5RdNURMIfChXVZHC%2BDdlnMrjdbc7z%2Fm8tzFBCA2yhVJa5Z8VueEZT45mfqepV%2FPis32%2BUrzdOW9Tyl9%7Ctkp%3ABk9SR9yR5e-DaA",
+        "url": "https://www.ebay.com/itm/178210574946?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0SK0QV1CGG23EZHNAARNZHW&hash=item297e2d9262:g:JmsAAeSw-dZqKalx&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAjuFHKldgaUkYiYYvKegvt5g4A9unuOWxne538H%2B3WYgq1x%2FWTQSd2DmyNa7X9Op8Ek%2FyW1fO2QRV%2BUD%2B6Jh0MMiYM%2FfWux0aq5PPmTnXUuGS4zq46y7BAertD5t%2FePZAxtilUFDgYpMDBhao%2FgiDtUbavNhwRZ6P5SCPzsn2bG7vD5OCUsdYojtN31QNAw6nEbMzXE3lHlvHw7DbNvgTy4790eTh%2Ft1vqKQGTgTXEwYKJooCBi%2FLbBuuDhStNZy140fL8eC8t--Xq2GgUYEj8JZksQ9ksDy5aIacNFUfnTLvYfTaK6NRxAnluGFtTGHA%3D%7Ctkp%3ABk9SR5L-grOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/JmsAAeSw-dZqKalx/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "277797555016",
@@ -261,13 +275,13 @@
         "priceC": 749900,
         "shippingC": 1000,
         "landedC": 750900,
-        "url": "https://www.ebay.com/itm/277797555016?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0FFS918PNTV6KR1BV4BRK19&hash=item40ae064b48:g:UIkAAeSwz6Bpsxht&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAztkB0bKq59Swmv8yXWeAZmy0VMTJo2RWfX9IqVRBfPtpLWDMRq5t7mneLhbsT0QcjKI26%2FEdzy5pwpxBP1S7UpUnz0AWIRg1TmVyxyjvX6HrZq7yoGIFt226gSU7BvSmwlHwCfPIwS2o4QyZdP8c4PWmw834ixffcFREGc7Xf2PztZShYjbnq3sxsXIFDg4iBFwB%2FCjcIXnX6xgIKDBGq7Xykj6cEdDaj40JtxmS0lk669ouqwwG%2BNNwkf66fAdvnzlT4koVQLVStlmG3mg9Z4Fgnyno6agJuhC%2ByRF7mjZwB6j2R0OU13d%2FlPs4wylA%3D%7Ctkp%3ABk9SR9yR5e-DaA",
+        "url": "https://www.ebay.com/itm/277797555016?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0SK0QV130NFF6GSZST4Q6NB&hash=item40ae064b48:g:UIkAAeSwz6Bpsxht&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCiAI1WSF4k90%2BDlaH2YMzNFxp%2FTirOTZQAYyGmSKYowTOnVkD8fLo%2By8zEOO64nv%2FxmnUlCQiAIaTnx3%2BQEv%2FjuPIB0bOu3hBlRZJJuhV%2Fjgp3bf8peogLurxOCqJSU6mjTy00WxrBDJVbINQQTJZEW2oSiYNcAY%2B829UdXwufjz5%2FHIJZgF%2BnZQO68YCHXskf%2BhVzBeF%2BSBGDeOhLZDIdtM47TGiOMcGwjMMxF%2BdBzA1tF0wWlzq2Mxub%2Fz1N3fqogrIrO12PdrXCaL7qoM46%7Ctkp%3ABk9SR5L-grOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/UIkAAeSwz6Bpsxht/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "257490872584",
@@ -275,17 +289,173 @@
         "priceC": 1000000,
         "shippingC": 895,
         "landedC": 1000895,
-        "url": "https://www.ebay.com/itm/257490872584?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0FFS919J6PVKPYBRRSZAR6K&hash=item3bf3a6e908:g:rD0AAeSwdfpo6Krk&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCxb6wQnhEYwWuzclJQNTfsV%2F%2B9OsX1AFYdvRQjf7bqSzqsMhsmQmktR%2FJwoJN7jOWU1xx%2B2YtkvY9ZlAw8RlQSm1Up63GG3bdz7qH7TSVKnyZKUODJRjceqnxBuygq%2F2S8Q5lfjvL0YKYylvrATSBA3j8GlanKmQE3BA6FK%2Ffp2xHhQNR6zAZorH5f7whsmhGPUYNMzXRJHfS739Zylm7hXfHeR2TUj4QqGmtGHTwzVS9ioLi04BsgPR3vTZ2HBXIrtdiT1zPnHq2lf05JQUyj%7Ctkp%3ABk9SR9yR5e-DaA",
+        "url": "https://www.ebay.com/itm/257490872584?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=14043371668&itmmeta=01M0SK0QV2EHXEJVEGQM0TKXJK&hash=item3bf3a6e908:g:rD0AAeSwdfpo6Krk&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAjFGAx%2Bw9J8%2BzoAQ4cAyTDr2gzJKYff4yOX09f8dRUDnTIQCwr1q2%2BT2pVTPrrrF0o3J7AiqHPgZMF%2BEvZOvd4AWqhBKwFfzaigYPEOoyxgvZF%2F05qpR5fCTonm8MkIaJfekQfIvLo6CrVRgjPDH3uZ%2B504Fnhi9lzk5mNNHRzcLF9Zv83HBaC1cPbMXqmrpZ6TFDwuSbO5OGejIjwuYsHIeRHYCkaxD7A0EEXqH27teYQlonSssw6yPbp44TTHKIU9GQCaUCEBX0deapTuLVC8MR374JecFuAVYNuCUgVC2%2BtXbl8wcnuZIuep40MmSA%3D%7Ctkp%3ABk9SR5L-grOGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/rD0AAeSwdfpo6Krk/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094434764,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3633320,
+          "saleDate": "2026-08-24",
+          "priceC": 4600,
+          "title": "Haunter Holo PSA 1 Fossil 6/62 1999 Pokemon TCG POP 36 6/62",
+          "url": "https://www.ebay.com/itm/137618692548?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 1,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3633183,
+          "saleDate": "2026-08-24",
+          "priceC": 7100,
+          "title": "1999 Pokemon Haunter Holo Rare Fossil Unlimited 6/62 PSA 7 Vintage #Jun-62",
+          "url": "https://www.ebay.com/itm/327306860480?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 7,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3633006,
+          "saleDate": "2026-08-24",
+          "priceC": 651,
+          "title": "1999 Pokemon Fossil HAUNTER Holo Rare Unlimited #6/62 Moderate Play MP BW3",
+          "url": "https://www.ebay.com/itm/178421296344?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3633005,
+          "saleDate": "2026-08-24",
+          "priceC": 2050,
+          "title": "Fossil Pokémon TCG Haunter 6/62 6/62",
+          "url": "https://www.ebay.com/itm/128030254244?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3633184,
+          "saleDate": "2026-08-23",
+          "priceC": 5300,
+          "title": "1999 Pokemon Fossil Haunter Holo 6/62 CGC 7 Near Mint Vintage WOTC 6/62",
+          "url": "https://www.ebay.com/itm/117362813833?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 7,
+          "gradingDesignation": "nm-mt",
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3633153,
+          "saleDate": "2026-08-23",
+          "priceC": 8000,
+          "title": "Pokémon TCG Haunter Fossil Unlimited Holo Rare 6/62 PSA 8 English 1999 6/62",
+          "url": "https://www.ebay.com/itm/188809135923?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3633010,
+          "saleDate": "2026-08-23",
+          "priceC": 2300,
+          "title": "1999 POKEMON FOSSIL UNLIMITED HAUNTER HOLO 6/62 6/62",
+          "url": "https://www.ebay.com/itm/158195425560?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3633009,
+          "saleDate": "2026-08-23",
+          "priceC": 3500,
+          "title": "Pokémon TCG Haunter Fossil Holo Holo Rare Card 6/62 NM 🔥 Vintage 🔥 1999 #6",
+          "url": "https://www.ebay.com/itm/158195693551?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3633008,
+          "saleDate": "2026-08-23",
+          "priceC": 1950,
+          "title": "Haunter Holo 6/62 Fossil Rare Unlimited Holo Pokemon Tcg 6/62",
+          "url": "https://www.ebay.com/itm/137629620917?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3633007,
+          "saleDate": "2026-08-23",
+          "priceC": 1150,
+          "title": "Pokemon TCG Haunter 6/62 Fossil Holo English WOTC 50 HP, raw 6/62",
+          "url": "https://www.ebay.com/itm/307130470980?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2020726,
+          "saleDate": "2026-08-21",
+          "priceC": 2600,
+          "title": "Pokémon TCG Fossil Unlimited Set Haunter Holo Rare 6/62 NM-LP 6/62",
+          "url": "https://www.ebay.com/itm/327312368264?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2020725,
+          "saleDate": "2026-08-21",
+          "priceC": 3400,
+          "title": "Pokemon TCG Fossil Haunter 6/62 Holo Rare Unlimited 1999 English 50 HP WOTC 6/62",
+          "url": "https://www.ebay.com/itm/287525071580?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 863313,
           "saleDate": "2026-08-19",
@@ -1689,162 +1859,6 @@
           "gradingGrade": 10,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 109439,
-          "saleDate": "2026-06-30",
-          "priceC": 16000,
-          "title": "Pokémon 1999 Fossil Haunter Holo Rare 6/62 PSA 9 Graded English 6/62",
-          "url": "https://www.ebay.com/itm/336643272501?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 109580,
-          "saleDate": "2026-06-29",
-          "priceC": 3000,
-          "title": "Wizards of the Coast Pokemon TCG Haunter 6/62 Fossil Holo Rare TAG 4 VG EX 6/62",
-          "url": "https://www.ebay.com/itm/178188119317?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "TAG",
-          "gradingGrade": 4,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 109440,
-          "saleDate": "2026-06-29",
-          "priceC": 17000,
-          "title": "1999 Pokémon Haunter 6/62 PSA 9 (Fossil) #6",
-          "url": "https://www.ebay.com/itm/298199987213?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 109344,
-          "saleDate": "2026-06-29",
-          "priceC": 5563,
-          "title": "Haunter (6) #6 Near Mint English",
-          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F106522%2F-&sharedId=web&subId1=completed",
-          "sourceMarketplace": "TCGPlayer",
-          "gradingStatus": "raw",
-          "gradingCompany": null,
-          "gradingGrade": null,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 109552,
-          "saleDate": "2026-06-28",
-          "priceC": 18000,
-          "title": "1999 Pokemon Fossil Gengar 5/62 Holo PSA 5 EX AND Haunter 6/62 Holo PSA 6 EX-MT 5/62",
-          "url": "https://www.ebay.com/itm/188572300876?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "ambiguous",
-          "gradingCompany": "PSA",
-          "gradingGrade": 5,
-          "gradingDesignation": "excellent",
-          "agreementStatus": "unverifiable"
-        },
-        {
-          "id": 109509,
-          "saleDate": "2026-06-28",
-          "priceC": 5424,
-          "title": "1999 POKEMON FOSSIL #6/62 HAUNTER HOLO PSA 7 6/62",
-          "url": "https://www.ebay.com/itm/206359509047?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 109508,
-          "saleDate": "2026-06-28",
-          "priceC": 4400,
-          "title": "1999 POKEMON FOSSIL #6 HAUNTER-HOLO PSA 7 #6",
-          "url": "https://www.ebay.com/itm/198460168448?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 109362,
-          "saleDate": "2026-06-28",
-          "priceC": 175000,
-          "title": "1999 POKEMON FOSSIL #6 HAUNTER-HOLO PSA 10 (POP 133) 🔥🔥🔥🔥 #6",
-          "url": "https://www.ebay.com/itm/366507492064?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 109486,
-          "saleDate": "2026-06-27",
-          "priceC": 9999,
-          "title": "CGC 8.5 NM/MINT+ Haunter 6/62 Fossil Holo Pokemon Card 6/62",
-          "url": "https://www.ebay.com/itm/327234218620?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8.5,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "mismatch"
-        },
-        {
-          "id": 109627,
-          "saleDate": "2026-06-26",
-          "priceC": 10350,
-          "title": "1999 Pokemon Fossil—Haunter #6/62 Fossil—Holo Rare PSA 1 6/62",
-          "url": "https://www.ebay.com/itm/407013654308?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 1,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 109510,
-          "saleDate": "2026-06-26",
-          "priceC": 5000,
-          "title": "1999 POKEMON FOSSIL #6 HAUNTER-HOLO PSA 7 6/62",
-          "url": "https://www.ebay.com/itm/168492232521?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 109363,
-          "saleDate": "2026-06-26",
-          "priceC": 180000,
-          "title": "Pokemon Haunter Holo Fossil Unlimited 6/62 PSA 10 Gem Mint #22798",
-          "url": "https://www.ebay.com/itm/287418443294?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1944,9 +1958,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 329,
+      "englishSaleCount": 341,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787209946791
+      "lastCapturedAt": 1787555486884
     }
   }
 }

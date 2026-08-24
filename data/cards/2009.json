@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 2009,
@@ -29,7 +29,7 @@
         "psa10Pop": 36,
         "cgc10Pop": 20,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 2 sales per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787211965049
+        "fetchedAt": 1787557325086
       },
       "bestCgc10": {
         "itemId": "287436715441",
@@ -37,13 +37,13 @@
         "priceC": 100000,
         "shippingC": 1282,
         "landedC": 101282,
-        "url": "https://www.ebay.com/itm/287436715441?_skw=%28golduck%29+%2843%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=18043373416&itmmeta=01M0F28091RHNM8RSX3WNAA5HA&hash=item42ec9035b1:g:Uh8AAeSwFH9qSF2z&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC7eHowFhV%2BDnm%2FfCcw2CWgAbZQdW2uukeQMg5L54xf0xqBAasMZD4220lsM16PTYuFQyKGLj0D8lH6ZiaM2FQL40qaxVMwPGYnCFGbxAQedDLZSHIhyfc3ZbjtP%2FYyWUTMX9yGyW8yNx71ka02%2FchEG%2FwwOUe%2Bqiq4GWiITpa3bvQKePRKkIk6hRGdrHBh2ert%2BkYiHSQJzlB3v54Amw8bsfzgaKBLiZ09BVrbcAtb%2B9RH0%2BRMjiG6OZtvjzZQjNGm4N%2BN3sAcPpAkwwHWolp462%2F9qw93Ev8dIxGQE0zDpA%3D%3D%7Ctkp%3ABk9SR_KEoOKDaA",
+        "url": "https://www.ebay.com/itm/287436715441?_skw=%28golduck%29+%2843%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=18043373416&itmmeta=01M0SBKFZ2SXQ3R18MJEB46CM6&hash=item42ec9035b1:g:Uh8AAeSwFH9qSF2z&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC7eHowFhV%2BDnm%2FfCcw2CWgAbZQdW2uukeQMg5L54xf03kkXDwhCjP47CgxONkA7a0XTgS5w%2FvRS%2FyRB30gaP3x104vcHWU%2FMY%2FL1%2BT7HiImP0bhpl1Diq3T0j7r1clat4xMnkQ6605EIj2I8YeWPBX%2BDQu6bVnPxLS%2BSAbM4T%2FxiuMlgu2przVpoaVTI3E3eLPuDUNFQtWARICMn0lyOK%2BBHmcTq%2BkONLSd1msDa3rKKVzifIIeqXacQPt948rP4zHFvQQ7GBCeAl9wfTswXYc17XWGqmWvdR5BSiywLy3eA%3D%3D%7Ctkp%3ABk9SR-7_zauGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Uh8AAeSwFH9qSF2z/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094567887,
-        "lastSeen": 1787212132335
+        "lastSeen": 1787557485243
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -71,7 +71,7 @@
         "ratio": 2.151804203198661
       },
       "firstOpportunityAt": 1787094567887,
-      "updatedAt": 1787212132335
+      "updatedAt": 1787557485243
     },
     "prices": {
       "variantId": 2009,
@@ -86,7 +86,7 @@
       "cgc10Pop": 20,
       "bgs10C": 380900,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 2 sales per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787211965049
+      "fetchedAt": 1787557325086
     },
     "listings": [
       {
@@ -95,17 +95,43 @@
         "priceC": 100000,
         "shippingC": 1282,
         "landedC": 101282,
-        "url": "https://www.ebay.com/itm/287436715441?_skw=%28golduck%29+%2843%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=18043373416&itmmeta=01M0F28091RHNM8RSX3WNAA5HA&hash=item42ec9035b1:g:Uh8AAeSwFH9qSF2z&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC7eHowFhV%2BDnm%2FfCcw2CWgAbZQdW2uukeQMg5L54xf0xqBAasMZD4220lsM16PTYuFQyKGLj0D8lH6ZiaM2FQL40qaxVMwPGYnCFGbxAQedDLZSHIhyfc3ZbjtP%2FYyWUTMX9yGyW8yNx71ka02%2FchEG%2FwwOUe%2Bqiq4GWiITpa3bvQKePRKkIk6hRGdrHBh2ert%2BkYiHSQJzlB3v54Amw8bsfzgaKBLiZ09BVrbcAtb%2B9RH0%2BRMjiG6OZtvjzZQjNGm4N%2BN3sAcPpAkwwHWolp462%2F9qw93Ev8dIxGQE0zDpA%3D%3D%7Ctkp%3ABk9SR_KEoOKDaA",
+        "url": "https://www.ebay.com/itm/287436715441?_skw=%28golduck%29+%2843%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=18043373416&itmmeta=01M0SBKFZ2SXQ3R18MJEB46CM6&hash=item42ec9035b1:g:Uh8AAeSwFH9qSF2z&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC7eHowFhV%2BDnm%2FfCcw2CWgAbZQdW2uukeQMg5L54xf03kkXDwhCjP47CgxONkA7a0XTgS5w%2FvRS%2FyRB30gaP3x104vcHWU%2FMY%2FL1%2BT7HiImP0bhpl1Diq3T0j7r1clat4xMnkQ6605EIj2I8YeWPBX%2BDQu6bVnPxLS%2BSAbM4T%2FxiuMlgu2przVpoaVTI3E3eLPuDUNFQtWARICMn0lyOK%2BBHmcTq%2BkONLSd1msDa3rKKVzifIIeqXacQPt948rP4zHFvQQ7GBCeAl9wfTswXYc17XWGqmWvdR5BSiywLy3eA%3D%3D%7Ctkp%3ABk9SR-7_zauGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Uh8AAeSwFH9qSF2z/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094567887,
-        "lastSeen": 1787212132335
+        "lastSeen": 1787557485243
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3861672,
+          "saleDate": "2026-08-24",
+          "priceC": 26699,
+          "title": "2002 POKEMON LEGENDARY COLLECTION #43 GOLDUCK-REVERSE FOIL PSA 7 #43",
+          "url": "https://www.ebay.com/itm/298591603913?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 7,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3861563,
+          "saleDate": "2026-08-23",
+          "priceC": 10233,
+          "title": "Pokemon Cards Golduck 43/110 Reverse Holo Legendary Collection Uncommon MP 43/110",
+          "url": "https://www.ebay.com/itm/800536671895?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 337259,
           "saleDate": "2026-08-13",
@@ -1639,32 +1665,6 @@
           "gradingGrade": 4,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 337379,
-          "saleDate": "2025-07-23",
-          "priceC": 10500,
-          "title": "GOLDUCK 2002 Pokemon Legendary Collection 43/110 Reverse Holo PSA NM 7 43/110",
-          "url": "https://www.ebay.com/itm/376388293423?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 337305,
-          "saleDate": "2025-07-17",
-          "priceC": 49999,
-          "title": "Pokemon Golduck 43/110 Reverse Holo Legendary Collection - CGC 10 43/110",
-          "url": "https://www.ebay.com/itm/306025924580?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1719,9 +1719,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 189,
+      "englishSaleCount": 191,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787211963020
+      "lastCapturedAt": 1787557322916
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 14582,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/c5f38d96642c9c9e4659168ff10a974ca1b6923331b508f15ebf75a2d2a1c57f/1600.jpg",
       "popularityScore": 91,
       "market": {
-        "ungradedC": 10583,
-        "grade9C": 130190,
-        "grade95C": 143200,
+        "ungradedC": 10000,
+        "grade9C": 130024,
+        "grade95C": 143000,
         "cgc10C": 238000,
         "cgc10PristineC": 428400,
         "psa10C": 396729,
         "bgs10C": 515700,
         "psa9Pop": 121,
         "psa10Pop": 12,
-        "cgc10Pop": 0,
+        "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    5 sales per year\"}",
-        "fetchedAt": 1787224062190
+        "fetchedAt": 1787563760411
       },
       "bestCgc10": {
         "itemId": "286991075995",
@@ -37,34 +37,47 @@
         "priceC": 115000,
         "shippingC": 999,
         "landedC": 115999,
-        "url": "https://www.ebay.com/itm/286991075995?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0FDSGTMTF8R6XNMT5GW0W8B&hash=item42d2004a9b:g:ZpkAAeSwAyxpMsV1&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD23s5GJkK%2FtGZT9g9wvhFoTLhuBaz4aNQeBFuJWJM71zep8jFKAoM3IVvPe82LTo1qepfXG0MzpXCGOjQJ0w5jF6WlqXilbtqMDtvNqc0Mr2T%2B0uk8bIi6uWN0rwnlxQv7nlZ%2FZlFFrZxpSMpRbhBnhIWd0wRz2ueXBu%2FI6Jfse1eum41bSU6c%2B4toYkm2eSw5Jbv7oHN00L5T%2BCoRWshyUmjqITOTNxiqIqB58DfFqmXHb8W7jSxzRFzowyl%2BIkxkn%2Fq3vgpkloeEh4nCOMi9PArMY1BIgQocTnbM1aRU15ofIa4e%2BFICpLMGU8gv8Eo%2FMLd3i438yBVLa6OdFhEn%7Ctkp%3ABk9SR_qN5u2DaA",
+        "url": "https://www.ebay.com/itm/286991075995?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0SHS31SHEPKNFFR74WY1ES3&hash=item42d2004a9b:g:ZpkAAeSwAyxpMsV1&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBIkD1BKBc40JRBsEqICsChVJzTwrbhq3BawkxoN%2FreyFYAQwIFhxyS5JcaxwA1stPvEF1KEZdXVQacOkzTvqwXYbEQ0JfhcrcCo1W%2FRj4fqQQG54X8nMsIxcVjaZyJp1b7xVNNdseBxVi%2F9SLRFK12P3J8cgtj7o%2FVGaf727nZwyGJj1SfJC1kFx1E5exzl4Cz7i%2BsSJx7dsfMBPiGUinNr76hpmwlDu%2F9kLcYpyeEv9M%2FjI%2FyM%2BIfYfoY9PkwZEGT43ts42H%2B%2FugOyFmOCsnPo5B6jisQMJuywuL5QMup7g%3D%3D%7Ctkp%3ABk9SR5Sx5LGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ZpkAAeSwAyxpMsV1/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "377440016830",
+        "title": "2016 POKEMON XY BREAKPOINT SECRET #123 FULL ART/GYARADOS EX PSA 10Opens in a new window or tab",
+        "priceC": 95000,
+        "shippingC": 548,
+        "landedC": 95548,
+        "url": "https://www.ebay.com/itm/377440016830?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0SHS31SXK75ACEQZBWET1AR&hash=item57e12d99be:g:LfwAAeSwE~FqiSSa&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBwfwcZmRcJ3l9eOyafktEdo41XzrXbwsYPu68cEqDunGfb1B%2FiOJ%2FulKy0lQhvctuf%2FD7RB%2FZyFBiHqB93WJj0yvFtenAzAbha52S9fqC5%2BWnMeJH38LwWGsji28p1P%2FZgYJfhODRFvq6v3qQD4dTErz8SP62NRyu1esrU0jkAt%2FZFL2Q%2BDQuJjKctSK1f3FUw5uWlp1tViSQl9Z1svE1dldSx%2F9WCkvfA4UqBkICrH5XcBd8F0jtuY9D%2BAkoKq4x7vkz%2BYpYav4ADCZmckhD%2BdfYlXeHyUaXnVRwe6MBGrw%3D%3D%7Ctkp%3ABk9SR5Sx5LGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/LfwAAeSwE~FqiSSa/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787391452101,
+        "lastSeen": 1787563919508
+      },
       "bestPsa9": {
         "itemId": "188766188646",
         "title": "2016 POKEMON XY BREAKPOINT SECRET #123 FULL ART/GYARADOS EX PSA 9Opens in a new window or tab",
         "priceC": 52500,
         "shippingC": 517,
         "landedC": 53017,
-        "url": "https://www.ebay.com/itm/188766188646?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0FDSGTK4XBNPGTQESHJ5X1C&hash=item2bf3577466:g:8jIAAeSwgGdqeGwN&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDRGtr4mKPx7MjlXXYyKVmbxy8CWB3qhWrwlqzqAyJ3cblNclxxSRrONF4bXoNuGKMYkDfUkfegViqAAtJuRs9i0Z0C0g8BkAFUOEplkFyjOsgOoropvxLzwmHwbhbph13vPAV0BhnP9OVig6515%2FmKbbbD8top8usGkGWreSV7I8B3DBGh7iP1LSluxlzE4Ofr8nLkbqLASu52X68jMHltRWMzQuqBup55ICUejWUL%2BlfEebw5JvR%2BFJ15iw02bVNAlIAwS%2B2NYCH9NxsGNq6crtM6mD%2Bc4TL%2BFid3YBZgX%2Fd18cs58i%2FeXXI3wj227kgm0WKpzOJbLQBD1lvKs5d4%7Ctkp%3ABk9SR_iN5u2DaA",
+        "url": "https://www.ebay.com/itm/188766188646?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0SHS31RNV2F7GN07T5RAHNT&hash=item2bf3577466:g:8jIAAeSwgGdqeGwN&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDRGtr4mKPx7MjlXXYyKVmbxy8CWB3qhWrwlqzqAyJ3cblNclxxSRrONF4bXoNuGKMYkDfUkfegViqAAtJuRs9i0Z0C0g8BkAFUOEplkFyjOsgOoropvxLzwmHwbhbph10%2Fva6aboakQEQUNHCP5YAvL0H4kKg972vvP%2FXo%2BCpDNVbuRlANh7d6g3v0bgwmzPENCE1MsqvN%2Fzhl0ljgNyvzELZVV%2BoXEQ2JfzpO1Fu1xne8Uq8Ry4loZjOMTjuDFyRAwExoDwQgGipPcEZCN7ZQN%2FMT9dE2p5s86i5lB4NwL7dG8yJWrxBYk77JeAmYz1Bk%2BmwHcTPXL6HvPIF4FyJt%7Ctkp%3ABk9SR5Cx5LGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8jIAAeSwgGdqeGwN/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
       },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
         "psa9Bin": 3
       },
@@ -84,22 +97,22 @@
         "ratio": 2.6291029098933723
       },
       "firstOpportunityAt": 1787224259777,
-      "updatedAt": 1787224259777
+      "updatedAt": 1787563919508
     },
     "prices": {
       "variantId": 14582,
-      "ungradedC": 10583,
-      "grade9C": 130190,
-      "grade95C": 143200,
+      "ungradedC": 10000,
+      "grade9C": 130024,
+      "grade95C": 143000,
       "cgc10C": 238000,
       "cgc10PristineC": 428400,
       "psa10C": 396729,
       "psa9Pop": 121,
       "psa10Pop": 12,
-      "cgc10Pop": 0,
+      "cgc10Pop": null,
       "bgs10C": 515700,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    5 sales per year\"}",
-      "fetchedAt": 1787224062190
+      "fetchedAt": 1787563760411
     },
     "listings": [
       {
@@ -108,13 +121,27 @@
         "priceC": 52500,
         "shippingC": 517,
         "landedC": 53017,
-        "url": "https://www.ebay.com/itm/188766188646?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0FDSGTK4XBNPGTQESHJ5X1C&hash=item2bf3577466:g:8jIAAeSwgGdqeGwN&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDRGtr4mKPx7MjlXXYyKVmbxy8CWB3qhWrwlqzqAyJ3cblNclxxSRrONF4bXoNuGKMYkDfUkfegViqAAtJuRs9i0Z0C0g8BkAFUOEplkFyjOsgOoropvxLzwmHwbhbph13vPAV0BhnP9OVig6515%2FmKbbbD8top8usGkGWreSV7I8B3DBGh7iP1LSluxlzE4Ofr8nLkbqLASu52X68jMHltRWMzQuqBup55ICUejWUL%2BlfEebw5JvR%2BFJ15iw02bVNAlIAwS%2B2NYCH9NxsGNq6crtM6mD%2Bc4TL%2BFid3YBZgX%2Fd18cs58i%2FeXXI3wj227kgm0WKpzOJbLQBD1lvKs5d4%7Ctkp%3ABk9SR_iN5u2DaA",
+        "url": "https://www.ebay.com/itm/188766188646?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0SHS31RNV2F7GN07T5RAHNT&hash=item2bf3577466:g:8jIAAeSwgGdqeGwN&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDRGtr4mKPx7MjlXXYyKVmbxy8CWB3qhWrwlqzqAyJ3cblNclxxSRrONF4bXoNuGKMYkDfUkfegViqAAtJuRs9i0Z0C0g8BkAFUOEplkFyjOsgOoropvxLzwmHwbhbph10%2Fva6aboakQEQUNHCP5YAvL0H4kKg972vvP%2FXo%2BCpDNVbuRlANh7d6g3v0bgwmzPENCE1MsqvN%2Fzhl0ljgNyvzELZVV%2BoXEQ2JfzpO1Fu1xne8Uq8Ry4loZjOMTjuDFyRAwExoDwQgGipPcEZCN7ZQN%2FMT9dE2p5s86i5lB4NwL7dG8yJWrxBYk77JeAmYz1Bk%2BmwHcTPXL6HvPIF4FyJt%7Ctkp%3ABk9SR5Cx5LGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8jIAAeSwgGdqeGwN/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
+      },
+      {
+        "itemId": "158114269987",
+        "title": "2016 Pokemon Xy Breakpoint Gyarados EX #123 Breakpoint-Secret Fa PSA 9Opens in a new window or tab",
+        "priceC": 55000,
+        "shippingC": 597,
+        "landedC": 55597,
+        "url": "https://www.ebay.com/itm/158114269987?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0SHS31RYF6Q0PZDTD3VFSZA&hash=item24d0584b23:g:TPUAAeSwPFVqYsoC&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBFtxnaRrIHhZc8nGx5fTUM%2BuwbWfSiLb8%2BWJkvw539tg%2F66jsTRVB4jHAZ%2FEgVkcTKoU7XzBPrm%2BBZMIN2Tpds8v2YhlYX6fZ6AHUM43%2FPp4gv8Vax0n9gBTAHxS0IDME6Ft%2FJZ%2BBRDdxDIHoXBJhrlyi5Q8To31CHibe66S4VHNwgPvlK6tNPiXk9IkYmJWGVSFLUCzPa5KWRUly7JTKx894bdmmLbar7N5i3ta%2BNzLvJLv19wCzzpJCQ5JPygg3qFkmGGztsYQVvqYGPtRahZ5Zl%2BOZSpeDDFHtaPxlDKvpIXC9lmWWKi8uhnkopW4WclbbYAQwRpH%2Fg1Oro1r2E%7Ctkp%3ABk9SR5Kx5LGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/TPUAAeSwPFVqYsoC/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787563919508,
+        "lastSeen": 1787563919508
       },
       {
         "itemId": "198456177863",
@@ -122,13 +149,13 @@
         "priceC": 55000,
         "shippingC": 600,
         "landedC": 55600,
-        "url": "https://www.ebay.com/itm/198456177863?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0FDSGTKGH2HT3FQAGN41Z4G&hash=item2e34e8f4c7:g:0msAAeSwnx1qPtgT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xALI%2B2N15r40pv79U50HyPvsqeWDX8I1rOP55q07enh0Gzvk8wys9X3BD3IuZ%2Fj%2BrJ8qq9no3EBMH8Ht5kuJKMp7belWAV21kOYVfapT93qU1Op1o2aEEXCubXfxMVgS3iP5ffWIoG9c%2FysAUFqSpMuIZRwsYZzZqy0MHxYFq61oIvrlRrVB1jxgi8w4Jr9e8NNmnZxkj5OaUzyavPeSBugiuaXgi3l7faB5S7zogHcG5tSpG73ZgmVar%2FJxEmWFm1MUkAB1xkJDvD0PwE%2BaJxq%2FG3NFX1rGC4l312eD6oIl14s8BZKtw2kiEhqancSmvKkbUTYjmu5DOVBAn7E6%2Bhf%7Ctkp%3ABk9SR_iN5u2DaA",
+        "url": "https://www.ebay.com/itm/198456177863?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0SHS31R4PFT41CYN8SFRWQF&hash=item2e34e8f4c7:g:0msAAeSwnx1qPtgT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAwUW8e3R3Gbh%2BYks7%2FZQOMQgVS3YQRrfbGBBs01Q6GDz59s6qatsD2H6kpZFsRYucIJwUI1afjNmNSqc2DwKVa3OkL4Frx83lEi3PNsNLtEUE7Cc3H%2B6x28G2xgVeJVfTCJveseZdDq8Rk3qcNeKMQmsZkCoXpxvP%2Bk1POk2NAYjnHYqqE%2FU8sWVRANhoi0oD%2Bt5xtf30XXyd4RBh7BhS6TvfSdpgb8F4syTAhcBhjELX5%2F6TQsa3wgpk6tA28bXp2BAjdZbxAGC5TFqyKcHHQDdekvB1WdHmzoA2m1ftwoA%3D%3D%7Ctkp%3ABk9SR5Kx5LGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/0msAAeSwnx1qPtgT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
       },
       {
         "itemId": "326783787389",
@@ -136,13 +163,27 @@
         "priceC": 59999,
         "shippingC": 573,
         "landedC": 60572,
-        "url": "https://www.ebay.com/itm/326783787389?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0FDSGTKKA8HDZKWWYJQ74DB&hash=item4c15d4e17d:g:LWwAAeSwlaFo0LCU&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDPBid4pzEKGnOxRm8iehg0jURkhhLuxIWqfA9WH2Aafah8mRaklyvcf4dVuWtpRUy44KcyM%2Fe1MQUhs%2FOEvvJx%2B%2FZzA8z5AbqtTvTKcwrOVIEdXMYsHS0F8fVgBViwbjJBN0sCCvXvBp0harXid3zMU7bUlRsxTqSgfeBRY8lyi9fjzjTpe5lFLR8Uil%2FUtZRsTO8ZYVEoOOYFmSxnSrV6nNrCXqbSyT7EaoAAh3AZ0WbrlyjGgYInQnSmZkdsIbinXQLP2TBahGa7TV6FOkwjBa7Ol57DqajtsT7fjDwbQWSRuxMp0zUMo2ASo7t5AgRHkM4U5RdMVlaWh1nPRvVL%7Ctkp%3ABk9SR_qN5u2DaA",
+        "url": "https://www.ebay.com/itm/326783787389?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0HTS1GS1AJ0C5512VVYAA60&hash=item4c15d4e17d:g:LWwAAeSwlaFo0LCU&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDPBid4pzEKGnOxRm8iehg0jURkhhLuxIWqfA9WH2Aafah8mRaklyvcf4dVuWtpRUy44KcyM%2Fe1MQUhs%2FOEvvJx%2B%2FZzA8z5AbqtTvTKcwrOVIEdXMYsHS0F8fVgBViwbjLjxFeF5P8XPRe1KAGT0tjxMvCULG%2BMIBIbuBOyUhp0Uxb6PEOhxZOQO%2FzZiTB0R%2FCmSfR9MEXk%2BO3LFI3ueoAJPJ9LMe3rGXzFNdXI9dxhmb8ENrId6IGLJnz5nxSxGGDR77mCqk1DTybJeYPLdDgHtuRKtGTn9m50CYLhbmE0snNUrvXeSBrUhupWNZpOHvG6heyOLIagTQkbQvkHxOqG%7Ctkp%3ABk9SR-CY5LqEaA",
         "imageUrl": "https://i.ebayimg.com/images/g/LWwAAeSwlaFo0LCU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787305011497
+      },
+      {
+        "itemId": "377440016830",
+        "title": "2016 POKEMON XY BREAKPOINT SECRET #123 FULL ART/GYARADOS EX PSA 10Opens in a new window or tab",
+        "priceC": 95000,
+        "shippingC": 548,
+        "landedC": 95548,
+        "url": "https://www.ebay.com/itm/377440016830?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0SHS31SXK75ACEQZBWET1AR&hash=item57e12d99be:g:LfwAAeSwE~FqiSSa&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBwfwcZmRcJ3l9eOyafktEdo41XzrXbwsYPu68cEqDunGfb1B%2FiOJ%2FulKy0lQhvctuf%2FD7RB%2FZyFBiHqB93WJj0yvFtenAzAbha52S9fqC5%2BWnMeJH38LwWGsji28p1P%2FZgYJfhODRFvq6v3qQD4dTErz8SP62NRyu1esrU0jkAt%2FZFL2Q%2BDQuJjKctSK1f3FUw5uWlp1tViSQl9Z1svE1dldSx%2F9WCkvfA4UqBkICrH5XcBd8F0jtuY9D%2BAkoKq4x7vkz%2BYpYav4ADCZmckhD%2BdfYlXeHyUaXnVRwe6MBGrw%3D%3D%7Ctkp%3ABk9SR5Sx5LGGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/LfwAAeSwE~FqiSSa/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787391452101,
+        "lastSeen": 1787563919508
       },
       {
         "itemId": "286991075995",
@@ -150,27 +191,27 @@
         "priceC": 115000,
         "shippingC": 999,
         "landedC": 115999,
-        "url": "https://www.ebay.com/itm/286991075995?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0FDSGTMTF8R6XNMT5GW0W8B&hash=item42d2004a9b:g:ZpkAAeSwAyxpMsV1&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD23s5GJkK%2FtGZT9g9wvhFoTLhuBaz4aNQeBFuJWJM71zep8jFKAoM3IVvPe82LTo1qepfXG0MzpXCGOjQJ0w5jF6WlqXilbtqMDtvNqc0Mr2T%2B0uk8bIi6uWN0rwnlxQv7nlZ%2FZlFFrZxpSMpRbhBnhIWd0wRz2ueXBu%2FI6Jfse1eum41bSU6c%2B4toYkm2eSw5Jbv7oHN00L5T%2BCoRWshyUmjqITOTNxiqIqB58DfFqmXHb8W7jSxzRFzowyl%2BIkxkn%2Fq3vgpkloeEh4nCOMi9PArMY1BIgQocTnbM1aRU15ofIa4e%2BFICpLMGU8gv8Eo%2FMLd3i438yBVLa6OdFhEn%7Ctkp%3ABk9SR_qN5u2DaA",
+        "url": "https://www.ebay.com/itm/286991075995?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0SHS31SHEPKNFFR74WY1ES3&hash=item42d2004a9b:g:ZpkAAeSwAyxpMsV1&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBIkD1BKBc40JRBsEqICsChVJzTwrbhq3BawkxoN%2FreyFYAQwIFhxyS5JcaxwA1stPvEF1KEZdXVQacOkzTvqwXYbEQ0JfhcrcCo1W%2FRj4fqQQG54X8nMsIxcVjaZyJp1b7xVNNdseBxVi%2F9SLRFK12P3J8cgtj7o%2FVGaf727nZwyGJj1SfJC1kFx1E5exzl4Cz7i%2BsSJx7dsfMBPiGUinNr76hpmwlDu%2F9kLcYpyeEv9M%2FjI%2FyM%2BIfYfoY9PkwZEGT43ts42H%2B%2FugOyFmOCsnPo5B6jisQMJuywuL5QMup7g%3D%3D%7Ctkp%3ABk9SR5Sx5LGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ZpkAAeSwAyxpMsV1/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
       },
       {
         "itemId": "336711980654",
         "title": "CGC 10 GEM MINT 💎 #123 Gyarados EX 2016 Pokemon XY Breakpoint Secret RareOpens in a new window or tab",
-        "priceC": 184999,
+        "priceC": 175749,
         "shippingC": 0,
-        "landedC": 184999,
-        "url": "https://www.ebay.com/itm/336711980654?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0FDSGTMZPS4XW159WW8H97X&hash=item4e6599166e:g:6I8AAeSw529qZ9L5&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDYaBosS34T9VMz5Gea0r%2BowdYaxrXRVGpjte%2Fo3tqYZi7nbwd0FXhtnanvZe8YwCe%2FcmBAwDFSy2q6%2Fv6WEID1HNPmYzXrSlW7OHOSajQ2XTtZ9DPgQxYEMp64Aap0KwTLDBUYKlTUy0fFAMHopxUuv5JmgfcXrYr59siYR8c3AJVt4Vjy6eru7A4gVCoPwVxr5d2baKUS8uL2JJSBhcxYbopdS6OzIVglAkomq37J3seRTp3Lp%2BFXVyhcNhijcms4YBW5tKFDlbqsYx4cbTgmTLbIPPQsEd2xopaWF%2BXOeg%3D%3D%7Ctkp%3ABk9SR_yN5u2DaA",
+        "landedC": 175749,
+        "url": "https://www.ebay.com/itm/336711980654?_skw=%28gyarados%29+%28123%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=6043385674&itmmeta=01M0SHS31SQ3A0SF02MEG0ANXB&hash=item4e6599166e:g:6I8AAeSw529qZ9L5&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA8a8a8ZhtLaZu04jAl0731HTWRhMqlvAqxj80oIV5jbCGy3DJjf9dzOXXaF5jhKvwuwfJzgORpwgEPIL0FC1aEE9KndHLXMEQ0Z41sv10MlL2WFAmbLTWw%2BIp0AWwaDjZRUy1WVmXs86acCKkGGPbXGUhP%2Bj%2BVG7mvoLEgYWWCIYmZ7T18Luz3%2FTSFl3%2FsCLF882iMr3ockryrmZke9x8dIwd1oj47j2grddVz2ZX7YYSP9CSNOgqk4Uf6J1qckLBbBUkCqVDUGvQm%2B0aNodWOBX5%2BHMok4Mjq9W9C7lgcW3xdfIqmMnCZGs%2Bm1PPL%2BMjDVp2%2BnoJHCFqe2YJgm6vF%7Ctkp%3ABk9SR5Sx5LGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/6I8AAeSw529qZ9L5/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787224259777
+        "lastSeen": 1787563919508
       }
     ],
     "marketHistory": {
@@ -1755,7 +1796,7 @@
       ],
       "englishSaleCount": 147,
       "excludedLanguageCount": 3,
-      "lastCapturedAt": 1787224060126
+      "lastCapturedAt": 1787563758124
     }
   }
 }

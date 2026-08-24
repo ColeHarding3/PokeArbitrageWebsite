@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 2755,
@@ -29,7 +29,7 @@
         "psa10Pop": 191,
         "cgc10Pop": 37,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787212734479
+        "fetchedAt": 1787558091857
       },
       "bestCgc10": {
         "itemId": "128023520493",
@@ -37,13 +37,13 @@
         "priceC": 81500,
         "shippingC": 1000,
         "landedC": 82500,
-        "url": "https://www.ebay.com/itm/128023520493?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0F300G55TAR44FMDN66PQFS&hash=item1dcecbe4ed:g:kasAAeSwBJRqfObu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAgIec4emMw1ClVCnKo74PpbCBK%2Fb4zydh8qRUJxdyCqD2EL9%2B5S7rfngk56QVs%2FJYesC74huZfbnoDKchMCJiZT%2BlabZyQIxIBq1M8GsIBhmIpHwpw3ym4IbvhFSK793ZLza66u%2BQnSE6qY4ZlWoW%2Bf9y4W7jV3tDCh24EM7fEImgvC4r6Ey3RcJt72jqlXXtMlodAYPuZDhhq9FbbETMq%2FSJTOxNWqS6UavAzB7TixgmTZ7UaJjKcaF657P2ZhK2wk7g%2BFocl0qOwYkCHd15cnbiB0X5La2ZsxL5Nd17E4EIPwIbT%2BBMKFLGVbVlaTcc%3D%7Ctkp%3ABk9SR6yIgOODaA",
+        "url": "https://www.ebay.com/itm/128023520493?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0SCBDJWS5JBZXNRE2FWT6HE&hash=item1dcecbe4ed:g:kasAAeSwBJRqfObu&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDLZSYMBYkrOpVdFHHB3A1wpojzyG6EsImbcfJbOoM2d27aXilSI4ClyVKyvuiPdL63yMWGGzs25yXetcUFwQOq2yv%2F1eTAC3PdmbCEeZsxkAd1fEFZGPaISx%2Fc51YPRqkIKDUSaRP3l%2FWYnwJDdL10VY7BjDeOz406zGBzhMrv5lHHEu1Fuw9xDtgPS6wovv0i3HBnowmoBbHLWb66HJp9WUDk%2BuEWuiYcucV1SyMgVoFDnf7u6vNrE4v869twur614bHeBkrwCQ2yiinKHD8i%7Ctkp%3ABk9SR-LZrayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/kasAAeSwBJRqfObu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094577812,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
       },
       "bestPsa10": {
         "itemId": "397915724060",
@@ -51,22 +51,35 @@
         "priceC": 299999,
         "shippingC": 999,
         "landedC": 300998,
-        "url": "https://www.ebay.com/itm/397915724060?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0F300G5R8EE4XV00MRMB5D5&hash=item5ca5a0191c:g:PPsAAeSwNBlp-jXD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDDUb%2F1js%2B3jYkd9bEY6QPThaDey7zJmGgKnp%2B21spq3hHChvHHIx%2BhjL2A2F%2Beu%2F1KqeOEUuMuVh7vHRVCgPk9TMNwDpIpfUxXhQc8%2FN3QbIsg8WcKazZIeMTX24dn8mqNfLXR8qiEm%2FrYPDDAov%2Ftsqoq5gbwgNjQNkhg0ONZah8ySkgurauSjmR6%2Fz%2BUYGNG5Mz3RmqeunaeEdTXFpdEZ7TBWctHUYz7SiPdoZ330QJ9Ejp0HLbLlo3OSQWxlvfrztpyK07WQN9cHnWUT%2FxN%7Ctkp%3ABk9SR66IgOODaA",
+        "url": "https://www.ebay.com/itm/397915724060?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0SCBDJYB14S8R8FZM24XVQA&hash=item5ca5a0191c:g:PPsAAeSwNBlp-jXD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDDUb%2F1js%2B3jYkd9bEY6QPThaDey7zJmGgKnp%2B21spq3lZO0rzhB5wopPaU3osAfk7rsDJZgXNKDfKLhJsmlaAix57beU%2FfEoT4ra0OV%2FaAw077p1l%2FKhzTV3ZBo3PX65DCf%2Bzebsdrenmiz5cMzX42fhqm%2B4xybDHOHPC8%2B6nn4Bi1F5hFmESOm9lp5Y%2FwuDTCZXfSE6Swup%2BUn8buKlFIa021B%2B2iWJ6t6Hq71Bv7mAO%2B80Cc8qN1t0InJphClFaLMeIc80LG2C3Y1%2FFrx4O%2F%7Ctkp%3ABk9SR-TZrayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/PPsAAeSwNBlp-jXD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
       },
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "168633806892",
+        "title": "2003 Pokémon Skyridge Umbreon #32/144 PSA 9 MINTOpens in a new window or tab",
+        "priceC": 84999,
+        "shippingC": 540,
+        "landedC": 85539,
+        "url": "https://www.ebay.com/itm/168633806892?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0SCBDJWN0638H5VH252W44V&hash=item27435bb02c:g:e4wAAeSw0yNqiwPQ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAuWJ6ndMqpcjNwq1DDhiDqz4xnv%2FUcOyMD%2BsXLwu5Fvq8e8HQRLcabZVrSbMd1kes4GmJSjlFQMH5XK8pkHMKwyPeHXZspNU8ukjwdvb5VR4w4Dowa6n%2FXO1AVzCte5vNpzCvyTbwZqeydHSkqpetImME164RBUYAX5fzBRTN%2FtyZz0EmAiYb6DU55cI0O2AiXqqMd5yLyasdj8tcR%2BPJ154ity%2BK4Ds0ga3Ch3mgDYqqy6w02T8bF1ud7a4ZNLGHZDrMo7BYoIFHMqh5W7cw6%7Ctkp%3ABk9SR-LZrayGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/e4wAAeSw0yNqiwPQ/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787558299109,
+        "lastSeen": 1787558299109
+      },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 0,
-        "pristine10": 1,
+        "pristine10": 0,
         "psa10Bin": 2,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 2
       },
       "ratio": {
         "ok": true,
@@ -84,7 +97,7 @@
         "ratio": 1.7767864476386037
       },
       "firstOpportunityAt": 1787094577812,
-      "updatedAt": 1787212943224
+      "updatedAt": 1787558299109
     },
     "prices": {
       "variantId": 2755,
@@ -99,7 +112,7 @@
       "cgc10Pop": 37,
       "bgs10C": 225000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787212734479
+      "fetchedAt": 1787558091857
     },
     "listings": [
       {
@@ -108,13 +121,27 @@
         "priceC": 81500,
         "shippingC": 1000,
         "landedC": 82500,
-        "url": "https://www.ebay.com/itm/128023520493?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0F300G55TAR44FMDN66PQFS&hash=item1dcecbe4ed:g:kasAAeSwBJRqfObu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAgIec4emMw1ClVCnKo74PpbCBK%2Fb4zydh8qRUJxdyCqD2EL9%2B5S7rfngk56QVs%2FJYesC74huZfbnoDKchMCJiZT%2BlabZyQIxIBq1M8GsIBhmIpHwpw3ym4IbvhFSK793ZLza66u%2BQnSE6qY4ZlWoW%2Bf9y4W7jV3tDCh24EM7fEImgvC4r6Ey3RcJt72jqlXXtMlodAYPuZDhhq9FbbETMq%2FSJTOxNWqS6UavAzB7TixgmTZ7UaJjKcaF657P2ZhK2wk7g%2BFocl0qOwYkCHd15cnbiB0X5La2ZsxL5Nd17E4EIPwIbT%2BBMKFLGVbVlaTcc%3D%7Ctkp%3ABk9SR6yIgOODaA",
+        "url": "https://www.ebay.com/itm/128023520493?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0SCBDJWS5JBZXNRE2FWT6HE&hash=item1dcecbe4ed:g:kasAAeSwBJRqfObu&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDLZSYMBYkrOpVdFHHB3A1wpojzyG6EsImbcfJbOoM2d27aXilSI4ClyVKyvuiPdL63yMWGGzs25yXetcUFwQOq2yv%2F1eTAC3PdmbCEeZsxkAd1fEFZGPaISx%2Fc51YPRqkIKDUSaRP3l%2FWYnwJDdL10VY7BjDeOz406zGBzhMrv5lHHEu1Fuw9xDtgPS6wovv0i3HBnowmoBbHLWb66HJp9WUDk%2BuEWuiYcucV1SyMgVoFDnf7u6vNrE4v869twur614bHeBkrwCQ2yiinKHD8i%7Ctkp%3ABk9SR-LZrayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/kasAAeSwBJRqfObu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094577812,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
+      },
+      {
+        "itemId": "168633806892",
+        "title": "2003 Pokémon Skyridge Umbreon #32/144 PSA 9 MINTOpens in a new window or tab",
+        "priceC": 84999,
+        "shippingC": 540,
+        "landedC": 85539,
+        "url": "https://www.ebay.com/itm/168633806892?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0SCBDJWN0638H5VH252W44V&hash=item27435bb02c:g:e4wAAeSw0yNqiwPQ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAuWJ6ndMqpcjNwq1DDhiDqz4xnv%2FUcOyMD%2BsXLwu5Fvq8e8HQRLcabZVrSbMd1kes4GmJSjlFQMH5XK8pkHMKwyPeHXZspNU8ukjwdvb5VR4w4Dowa6n%2FXO1AVzCte5vNpzCvyTbwZqeydHSkqpetImME164RBUYAX5fzBRTN%2FtyZz0EmAiYb6DU55cI0O2AiXqqMd5yLyasdj8tcR%2BPJ154ity%2BK4Ds0ga3Ch3mgDYqqy6w02T8bF1ud7a4ZNLGHZDrMo7BYoIFHMqh5W7cw6%7Ctkp%3ABk9SR-LZrayGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/e4wAAeSw0yNqiwPQ/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787558299109,
+        "lastSeen": 1787558299109
       },
       {
         "itemId": "327299863761",
@@ -122,27 +149,27 @@
         "priceC": 89900,
         "shippingC": 0,
         "landedC": 89900,
-        "url": "https://www.ebay.com/itm/327299863761?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0F300G5B8JDGNRMJ7MAMPFR&hash=item4c349794d1:g:J-MAAeSwY5dqdk~2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBzixigll%2FwTwWCqmy4A1LiiS%2BwP8eoF1u5aTggwk%2BzDN2gJQkqippJVeS3QUKMkc82TjER6pvdksDYAcbwQwwz1uXhkzpd%2BMSnxWXuxResA%2BF9MGd2QABgiAFtKfZB1wbEuxHHDczYr0Hx5aS2vEDNTx3a2aGFybzu8qughy9IpFD2V%2FCjnKuMOvyjVZGzzKCSHp8%2FzPUHbnWiISDLLkHtKjctcHYFoNwwWkJceWNiDX6CkHyo6IR85mCop378%2FmQ%2BYOkUvbShVqsKqe3UNbsu%7Ctkp%3ABk9SR6yIgOODaA",
+        "url": "https://www.ebay.com/itm/327299863761?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0SCBDJX7591ZP6SQY0PEF3V&hash=item4c349794d1:g:J-MAAeSwY5dqdk~2&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB759ln671skeZX4yZhZfF0UpLNz8HankFfq1BKRTOarxFBXDJgdl%2Bn%2BkwwvhZ9UaHL%2BahJI6Uv5eXRBkhve8nj3xdjUp2bVrswVrUuom4duTDpkk1ZBI5qtSA9KUKoD5KP88ZU6GERM0q6bPD6fxMDGY0XOace0%2FQmiHaiI9a6cX69wJF3%2FKDpZspl1WY2OuklsrSgJbgpabZE2fIJRI31nvGimploWZSA3n2JXvXZxlPY0Dgvc%2BHDX4grwLYlDMSz73Gg1T7UU6s07oQJKT7FNq8T8mZJvzSZYmKPqHqXw3Mezr6UannyywxF4z%2FuAZ4%3D%7Ctkp%3ABk9SR-LZrayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/J-MAAeSwY5dqdk~2/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
       },
       {
-        "itemId": "287526194986",
-        "title": "2003 Pokémon Skyridge Umbreon #32/144 CGC Pristine 10 E-Reader VintageOpens in a new window or tab",
-        "priceC": 111100,
-        "shippingC": 562,
-        "landedC": 111662,
-        "url": "https://www.ebay.com/itm/287526194986?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0F300G56DS8EW0QXB4H9SWA&hash=item42f1e58f2a:g:XmYAAeSw1yVqgBIa&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAX4ZytJGu3E5fuieN3cZqfuZJqG%2FkxuuBRenHwuiM1%2BjToG4ZFWkF6t7QO6p1zypcjqD7DJQa3U%2BZQyEypU4M8XDIIgtmJAZLGbLaubGM5WcCTTiQMurxrA8jSahdzDPXL2e0MLvlfwbbtgLz%2BY3eBu4dLGTP2EyzlKLlwougnSWsQjRB%2FFwsq5%2BMKc95E9jQOJ65Dstb0g3XGXJFnaohcTYCGShwGLpxYk6tshgQZqzfLNZLK1NWaDR4OZl8kHdHfJcVl1WwLF7lGO%2FiaUuohSWuBRwiQYwtvx%2FkPRMQKggawQ%2FIXRVlGsfQXRZUfw1Q%3D%7Ctkp%3ABk9SR6yIgOODaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/XmYAAeSw1yVqgBIa/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "pristine10",
+        "itemId": "267764147876",
+        "title": "Pokémon TCG - Umbreon - 32/144 - Rare - 2003 Skyridge - PSA 9 MINT (LOW POP)Opens in a new window or tab",
+        "priceC": 124999,
+        "shippingC": 1999,
+        "landedC": 126998,
+        "url": "https://www.ebay.com/itm/267764147876?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0SCBDJXP7HQGS6SR6AV64KA&hash=item3e57fca6a4:g:mCUAAeSw3h9qiTfS&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCYs8P%2BPyZl3n7TI9zInDRq7vEMYgx7SA0hh8d9TrLJk2WYBxNJZKnQ%2Ftzc1kM7QWkm66FFFGUqKnFPfl66jCN5Y75Usi9NcVCYeSe0T%2B049xpSJK9OWCs8NZh3nIyhTc6U%2B5VN%2BGhUJoG9XvL6ig4YlWzltD0ouEHokv0BZSH7m10PB%2BGcyDgZj3i%2B1%2B5nT%2Fq1aTDND7Iw3W8FpvtHJKX60FjM%2BqKjO%2FHBSSElTDwz1i560lWZwYwKKDquFxJNY4Gbdnh7ZixXrcLCndLdPIV1%7Ctkp%3ABk9SR-TZrayGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/mCUAAeSw3h9qiTfS/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
         "freshness": "live",
-        "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "firstSeen": 1787472542569,
+        "lastSeen": 1787558299109
       },
       {
         "itemId": "397915724060",
@@ -150,13 +177,13 @@
         "priceC": 299999,
         "shippingC": 999,
         "landedC": 300998,
-        "url": "https://www.ebay.com/itm/397915724060?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0F300G5R8EE4XV00MRMB5D5&hash=item5ca5a0191c:g:PPsAAeSwNBlp-jXD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDDUb%2F1js%2B3jYkd9bEY6QPThaDey7zJmGgKnp%2B21spq3hHChvHHIx%2BhjL2A2F%2Beu%2F1KqeOEUuMuVh7vHRVCgPk9TMNwDpIpfUxXhQc8%2FN3QbIsg8WcKazZIeMTX24dn8mqNfLXR8qiEm%2FrYPDDAov%2Ftsqoq5gbwgNjQNkhg0ONZah8ySkgurauSjmR6%2Fz%2BUYGNG5Mz3RmqeunaeEdTXFpdEZ7TBWctHUYz7SiPdoZ330QJ9Ejp0HLbLlo3OSQWxlvfrztpyK07WQN9cHnWUT%2FxN%7Ctkp%3ABk9SR66IgOODaA",
+        "url": "https://www.ebay.com/itm/397915724060?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0SCBDJYB14S8R8FZM24XVQA&hash=item5ca5a0191c:g:PPsAAeSwNBlp-jXD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDDUb%2F1js%2B3jYkd9bEY6QPThaDey7zJmGgKnp%2B21spq3lZO0rzhB5wopPaU3osAfk7rsDJZgXNKDfKLhJsmlaAix57beU%2FfEoT4ra0OV%2FaAw077p1l%2FKhzTV3ZBo3PX65DCf%2Bzebsdrenmiz5cMzX42fhqm%2B4xybDHOHPC8%2B6nn4Bi1F5hFmESOm9lp5Y%2FwuDTCZXfSE6Swup%2BUn8buKlFIa021B%2B2iWJ6t6Hq71Bv7mAO%2B80Cc8qN1t0InJphClFaLMeIc80LG2C3Y1%2FFrx4O%2F%7Ctkp%3ABk9SR-TZrayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/PPsAAeSwNBlp-jXD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
       },
       {
         "itemId": "157922054615",
@@ -164,13 +191,13 @@
         "priceC": 777700,
         "shippingC": 9000,
         "landedC": 786700,
-        "url": "https://www.ebay.com/itm/157922054615?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0F300G6T6DMVT6E5KWYH4KK&hash=item24c4e351d7:g:gnQAAeSwEv9qC5vU&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBUn9xNCWEJXMGXW65R2pXWVloLQqIrmg2rs%2FtP5bcqPvJNPAWAlipCUW2ndssN4FQAHTzS%2FRM8a5dx0mcyWvIwiyNezVMNszElc4rNEU5avdd%2Fy64qnpOnagbULBiRw4KJzShQwJJ0Lh2kZXX2y6633ZFGnR4dGbfh1zeiEf3Vgmp3YTnOs9TOszluFN6E8DGQuC0gpkEPlpE1e2Vv9fgUEEqWCXqp3CBx3KBewdpXwKKkKt%2FII0UfLyz9KSYyycQEWUUTW4%2BGi%2BmPZIGpKrs5%7Ctkp%3ABk9SR66IgOODaA",
+        "url": "https://www.ebay.com/itm/157922054615?_skw=%28umbreon%29+%2832%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363026&itmmeta=01M0SCBDJY0698WNRXBYX2E8T0&hash=item24c4e351d7:g:gnQAAeSwEv9qC5vU&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBEkQaIlXlSgTD0QEa7AdkYxHa7vt6inWDmHkI%2B9fOdRi1j0O%2BalTPGArT2fEMV8FS9mhb%2FcYoAmtBJHQ4pTtH1ZGHGTzAGdnP06sk8AN4gbKZYcHeaGQ2CC2gYtCh621A784L9YINmp3wJZCzHVIsWKBHIabAoEFjYibViHTdHLY%2FjjrFiRY4VhHuFtdDnkEYaKCYQzCMbaY3EXNwjxxtYw5viUCe3lyRbLALjx2rB%2F74hJZAvWj7hBvSfHDK%2Bk29bVc24MwubXJ%2FePR2zG%2F9FGw6KGoWM%2F%2BOU0LErN7PA5HzVWXIZfUdwHbsHH7tpww4%3D%7Ctkp%3ABk9SR-bZrayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/gnQAAeSwEv9qC5vU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
       }
     ],
     "marketHistory": {
@@ -367,6 +394,19 @@
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3953530,
+          "saleDate": "2026-07-26",
+          "priceC": 40000,
+          "title": "2003 POKEMON SKYRIDGE #32 UMBREON PSA 5 #32",
+          "url": "https://www.ebay.com/itm/117293632664?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 5,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -653,6 +693,19 @@
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3953524,
+          "saleDate": "2026-06-15",
+          "priceC": 25500,
+          "title": "119445372 Umbreon 2003 Pokemon Skyridge #32 PSA 6 32/144",
+          "url": "https://www.ebay.com/itm/157973027628?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 6,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1708,32 +1761,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 428601,
-          "saleDate": "2025-08-18",
-          "priceC": 76700,
-          "title": "Pokemon Umbreon Skyridge NON Holo Rare #32 PSA 10 Gem Mint",
-          "url": "https://www.ebay.com/itm/286753565733?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 428602,
-          "saleDate": "2025-08-10",
-          "priceC": 81000,
-          "title": "Pokemon Umbreon Skyridge NON Holo Rare #32 PSA 10 Gem Mint",
-          "url": "https://www.ebay.com/itm/286739114496?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1813,9 +1840,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 164,
+      "englishSaleCount": 166,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787212732455
+      "lastCapturedAt": 1787558090373
     }
   }
 }

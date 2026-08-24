@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 562,
@@ -18,32 +18,32 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/db0c606f99b954ff9b6226bdddec9f1bd7cf94e8b34c8069f56c41c1046d79ec/1600.jpg",
       "popularityScore": 80,
       "market": {
-        "ungradedC": 6100,
+        "ungradedC": 5900,
         "grade9C": 26382,
         "grade95C": 29000,
-        "cgc10C": 46356,
+        "cgc10C": 46366,
         "cgc10PristineC": 255000,
         "psa10C": 365000,
         "bgs10C": 474500,
         "psa9Pop": 1,
-        "psa10Pop": 0,
+        "psa10Pop": null,
         "cgc10Pop": 103,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787209966594
+        "fetchedAt": 1787555505504
       },
       "bestCgc10": {
-        "itemId": "407135049626",
+        "itemId": "407161908491",
         "title": "CGC 10 HITMONLEE 7 FOSSIL 1ST EDITION HOLO POKEMON GEM MINTOpens in a new window or tab",
         "priceC": 99999,
         "shippingC": 0,
         "landedC": 99999,
-        "url": "https://www.ebay.com/itm/407135049626?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX4WNDC22E65ETZREKK&hash=item5ecb23d79a:g:~k8AAOSw3dVn9JLh&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDB6xW%2B68k7rHpTt8it5Urczb%2BRHtX3Tx1PdDdjc3USDS2%2Fgch0tOOqU%2FRUNoKtHDWI2kZmZjwW0jRlDSlkBqJBn2nKYzDwFJOsSncN8SU30GF2KPinGGxGlrQ2bSWb8yWIVB5trh41Kp%2Bj4r5TbSVT6sFSatPuDkhfmk3m3RE0%2FcL0rELVxF8LML%2F9dX51%2FvjGuUi9x%2BoLUvz9OP9NyA0l%2Ftw5BuLgQHDP4YVPJl4Lt0ffMKxkdAve1AbsaWKE4PlqCJ77ZRh6XjaavpwjGZUS%7Ctkp%3ABk9SR97vqeCDaA",
+        "url": "https://www.ebay.com/itm/407161908491?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0S9VBQZHXE5VWX4HQEDSAEV&hash=item5eccbdad0b:g:~k8AAOSw3dVn9JLh&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBgy05VCQw3n%2FOq%2FMfZZTnvyWBb06NRVqM7rpe3ht33Wh7qBdkdwGXXZfIDLN5zf0OUIwiMuNkjcz5VBnwE0hK979T2jYo9CTz2s89JKaUbHXk7obn4OhhzA5CZYCIXgea9U%2BmzYNWg3q%2FPeYgMtvSM%2F5i6WHRsS%2FSlDt2iGaHfyBtZeIZ9CTy5MCaeK3CFF381zskWwL8LN3ZiPC1Bs6DzZr0RkldoMaewWFBklhM4SvQAENbU6MbpAEplXJFs%2FPZRzFK4Kk%2F%2Bz11lHgnTyL0GUvcYtdbFjR0oasYI161vAABHZdtBcf2zXsugCcVG2jU%3D%7Ctkp%3ABk9SR6K87amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~k8AAOSw3dVn9JLh/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
-        "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
+        "firstSeen": 1787382975001,
+        "lastSeen": 1787555685458
       },
       "bestPsa10": {
         "itemId": "278243942704",
@@ -51,13 +51,13 @@
         "priceC": 359999,
         "shippingC": 0,
         "landedC": 359999,
-        "url": "https://www.ebay.com/itm/278243942704?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX4FDKS4HZG2JFG2F0E&hash=item40c8a1a130:g:O8kAAeSwgZNpzUtg&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD3VDcHwggwx7Dm5Tyt1AEMpy0oewxxq67JC57%2Bi%2BFGxO1%2Bh0A19Ph2R1dgr4mE1BudRpEjz5lt9654Xpne2Vpq7U6tz8I0D3z%2FzZ90PwlGI23GA6GAXlkxk3OWBojaJ3Yv5IX7lXhRD%2FoZUcutP8ZTZDPFxPinCJQL1b7ZiEWwwNlfnhiAp%2F1g0RUoz%2BNnbd8%2FurgdzUMq05qNpx8tiY6OeKxl%2FqPyql2W12XJOHEYnATIaerYJtiLRhuIPILwFd8zxFxL--%2F2Vq0onz%2Bnbsjr%7Ctkp%3ABk9SR97vqeCDaA",
+        "url": "https://www.ebay.com/itm/278243942704?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0S9VBQZW6KNPPSYRVC5CE6H&hash=item40c8a1a130:g:O8kAAeSwgZNpzUtg&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDW6kqdO2PmeNg1WN5E%2FbogFaoQjXyMwaJKa4FEVb4JXX3aKb83uXKjZSJcsjNeyJbyBHXw8krBbeP%2BVO4hsG5dtDM5%2B74T3OJhaM624Zj54hKIif2slhTFJEkTd32qtrHyf0PwCBH5qSWG0vLa73GPIFDX437YcQFYvnkbw7KotaICBousdEOALlTdRWKW7lcRsCpVQndrBcf3FMa7SZNmFuLLbfbvkV9on8hu6HTtXfIq7DvCaBUlpCsVtuyk8l9ry1xsnviySxj1qPcRxQijEISa3g%2FaIMFlWrxxGBb04cVhXBGKRgOhZH6miVX6Wiw%3D%7Ctkp%3ABk9SR6S87amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/O8kAAeSwgZNpzUtg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
+        "lastSeen": 1787555685458
       },
       "bestPsa9": {
         "itemId": "383866677207",
@@ -65,13 +65,13 @@
         "priceC": 30000,
         "shippingC": 790,
         "landedC": 30790,
-        "url": "https://www.ebay.com/itm/383866677207?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX3VZC7TGNX0A88M5WA&hash=item59603ca7d7:g:7dAAAOSw-Wdf3nlN&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDpABA8y2SWe9e4GxyQZptaldKaagFxF0xNkUoo1OwTOJazHLEIlxzGiYv2uU8M7fJ9aiFkwQDzJue6Okn9u8ShXymKlbDYsqJ%2BXfOMz%2BwKYCeiKxxnA7OpdECDmYrTfrUcl40VH0hUb08SKyUbSpoZSIdaptB6RGPmTBvQQ1ksbcxQ5wH2GdviInRKtN0heeZ4EoKHtwWDp%2BLitDpUyR5yx25TVK%2BR5L%2BSjum0NeV5i5ULA%2BEuGOePAlXcs4F%2FPajtXWBQ2Es5apRmH5Mj9Tms%7Ctkp%3ABk9SR9zvqeCDaA",
+        "url": "https://www.ebay.com/itm/383866677207?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0S9VBQYQ9BKVJAVTR3H45CC&hash=item59603ca7d7:g:7dAAAOSw-Wdf3nlN&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBNPtbjY4XHiTZEb1pPCq1KZ%2BC9fpYAFfXGXBDLL8i3zojTPibYfl86Yfx7RceVIBLF0qGPAuyZpL0OrodeEXKMIzVDFQZR%2FLyYOpPKYsrJ0pl3KRzfQQZ2qncAgAb8Z4bL6EXSy1r6R3Gr4KYvmNImu%2BDxFlSlwn68aw5UuszvaE%2BiEVGQrKtOvn80F3NVO4N2IGVuSoh6nyxmQYAq6CCdga4OuTYQqOzBhQ5pMOqJvmAwzk3hMtFnW1m6yRfVxaXahZp3hVutV0X5PtS%2Bg15cgQB0gvI%2BY0vnk3PsOcyfXrxmaI8qRCvzcB4sYWS91P8%3D%7Ctkp%3ABk9SR6C87amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7dAAAOSw-Wdf3nlN/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
+        "lastSeen": 1787555685458
       },
       "counts": {
         "cgc10Bin": 1,
@@ -79,7 +79,7 @@
         "pristine10": 0,
         "psa10Bin": 3,
         "psa10Auction": 0,
-        "psa9Bin": 8
+        "psa9Bin": 7
       },
       "ratio": {
         "ok": true,
@@ -96,23 +96,23 @@
         "psa10ValueC": 365000,
         "ratio": 2.7057279890881327
       },
-      "firstOpportunityAt": 1787040561909,
-      "updatedAt": 1787210174793
+      "firstOpportunityAt": 1787382975001,
+      "updatedAt": 1787555685458
     },
     "prices": {
       "variantId": 562,
-      "ungradedC": 6100,
+      "ungradedC": 5900,
       "grade9C": 26382,
       "grade95C": 29000,
-      "cgc10C": 46356,
+      "cgc10C": 46366,
       "cgc10PristineC": 255000,
       "psa10C": 365000,
       "psa9Pop": 1,
-      "psa10Pop": 0,
+      "psa10Pop": null,
       "cgc10Pop": 103,
       "bgs10C": 474500,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787209966594
+      "fetchedAt": 1787555505504
     },
     "listings": [
       {
@@ -121,13 +121,13 @@
         "priceC": 30000,
         "shippingC": 790,
         "landedC": 30790,
-        "url": "https://www.ebay.com/itm/383866677207?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX3VZC7TGNX0A88M5WA&hash=item59603ca7d7:g:7dAAAOSw-Wdf3nlN&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDpABA8y2SWe9e4GxyQZptaldKaagFxF0xNkUoo1OwTOJazHLEIlxzGiYv2uU8M7fJ9aiFkwQDzJue6Okn9u8ShXymKlbDYsqJ%2BXfOMz%2BwKYCeiKxxnA7OpdECDmYrTfrUcl40VH0hUb08SKyUbSpoZSIdaptB6RGPmTBvQQ1ksbcxQ5wH2GdviInRKtN0heeZ4EoKHtwWDp%2BLitDpUyR5yx25TVK%2BR5L%2BSjum0NeV5i5ULA%2BEuGOePAlXcs4F%2FPajtXWBQ2Es5apRmH5Mj9Tms%7Ctkp%3ABk9SR9zvqeCDaA",
+        "url": "https://www.ebay.com/itm/383866677207?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0S9VBQYQ9BKVJAVTR3H45CC&hash=item59603ca7d7:g:7dAAAOSw-Wdf3nlN&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBNPtbjY4XHiTZEb1pPCq1KZ%2BC9fpYAFfXGXBDLL8i3zojTPibYfl86Yfx7RceVIBLF0qGPAuyZpL0OrodeEXKMIzVDFQZR%2FLyYOpPKYsrJ0pl3KRzfQQZ2qncAgAb8Z4bL6EXSy1r6R3Gr4KYvmNImu%2BDxFlSlwn68aw5UuszvaE%2BiEVGQrKtOvn80F3NVO4N2IGVuSoh6nyxmQYAq6CCdga4OuTYQqOzBhQ5pMOqJvmAwzk3hMtFnW1m6yRfVxaXahZp3hVutV0X5PtS%2Bg15cgQB0gvI%2BY0vnk3PsOcyfXrxmaI8qRCvzcB4sYWS91P8%3D%7Ctkp%3ABk9SR6C87amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7dAAAOSw-Wdf3nlN/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
+        "lastSeen": 1787555685458
       },
       {
         "itemId": "398170277072",
@@ -135,13 +135,13 @@
         "priceC": 33999,
         "shippingC": 700,
         "landedC": 34699,
-        "url": "https://www.ebay.com/itm/398170277072?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX3BS6G06369SQ1XAZK&hash=item5cb4cc44d0:g:9qoAAeSwms5qVSg1&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBb0oRQ9%2FP3GSVPL%2BvokzivAAA89c2SnQHbgeqXzXx%2F8GVTpLsdwnw2crNCAZIxtsvs%2BAoMJjvzlon1uhEwhIP%2BavwiXOY4M67D2vcp4Irb8MJPZp7S%2BtWCGrG6KrwXUldgtMtd1of24v8%2FJdalrmB6gzYHWCjq%2FA4PK2Y%2FxDOwhR3jBaaL5c3qXZ%2Fq8vwTlf6sm30pkp5YyaQupF2Nh8SYUwJ4EViyfjSOd2z1XzjG6HdEytu8Dikbs2MaitEx%2BSn3Ic7UQgzaEfeRknBPzmBKMuV8n2qfL4i6JiBZU4vwMzMkLViV7q2g4chmRzvyq4w%3D%7Ctkp%3ABk9SR9zvqeCDaA",
+        "url": "https://www.ebay.com/itm/398170277072?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0S9VBQYYFBHPRDMZ9C2ZS3B&hash=item5cb4cc44d0:g:9qoAAeSwms5qVSg1&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBb0oRQ9%2FP3GSVPL%2BvokzivAAA89c2SnQHbgeqXzXx%2F8GVTpLsdwnw2crNCAZIxtsvs%2BAoMJjvzlon1uhEwhIP%2BavwiXOY4M67D2vcp4Irb8MJPZp7S%2BtWCGrG6KrwXUlehwVGjxMVORRFwygoc%2B4eRLv6yj8lReMG30m7dxiuNtl%2B%2BnEIOeBJP8LZNKlx9Ql90EXUN1lsIX8L9bHZUB2UaXvu%2Fht0YeY4TW91e4HS3y%2F38q533jjU31I%2BYCgIebYKVKTOahxLiYEUjRERk3qb6Ninc%2FVTp2iPIs4gevX%2B2U1q8nt%2BeRcoUDXlrPNMtgwQ%3D%7Ctkp%3ABk9SR6C87amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/9qoAAeSwms5qVSg1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
+        "lastSeen": 1787555685458
       },
       {
         "itemId": "227438720497",
@@ -149,13 +149,13 @@
         "priceC": 39997,
         "shippingC": 0,
         "landedC": 39997,
-        "url": "https://www.ebay.com/itm/227438720497?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX3538PZS6XYC41K869&hash=item34f46775f1:g:oC0AAeSwYexqXXCD&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDb5N6fFMXRIid549PCiNqg%2F9l6SPYbqezPG1l4fOsTz%2BiGZwVayFsAOOBuU2LyDcn2xSaMUI--khGApFfS5AIyJ18THXdCafKMH9rWFNPDl9eEwQyLx77tAe%2Fq69u%2BPAhKNUEyNh9LJ3WN56PIyoXj8luGEuqkLCH%2BrG3LHmvC8T21zeCqUumRLA%2BLSQ2OOO1BlKZrdGZLWykNgS%2FEtNv5mVUPUjMI0lRbrpBrQHRXHBtkLEbrJjkZ6%2FXhCIgOayy7TU0nY8Gy7gA1Gr818NuQKpWU8VzCAA9OrO85%2Fko1zx98dVyZlqKpTIw4iV4PSDc%3D%7Ctkp%3ABk9SR9zvqeCDaA",
+        "url": "https://www.ebay.com/itm/227438720497?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0S9VBQYFBRMHDJ6ZCB2WAEF&hash=item34f46775f1:g:oC0AAeSwYexqXXCD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDlFAXA9ttBlWzaspV6Si%2FlwYqdHjBNGhwG0m3%2FWBrOIWFFc5CgX%2FHcEHSs5XwPJUhlHoSpphfPezn2Zi%2F5kuxDojBEDcyTQ4BmUkSHoQwNkNH919NEzEdG4B8JhlL6tf15eWe1syonYuu8GZqXpxuLwm%2BmBiqhHQp5%2FuM6s4xo7gg6Op5xH97XEx6uI0W1LryZ0VloSaQT4JYaQIsgwbyHbSpdtVimnopwo%2BBeqMCupxmQJYSY3aRGHwU5wcUHKCYYx%2BoS5Uu4EyFtLAEJc7NE%7Ctkp%3ABk9SR6C87amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/oC0AAeSwYexqXXCD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
+        "lastSeen": 1787555685458
       },
       {
         "itemId": "318569796785",
@@ -163,27 +163,13 @@
         "priceC": 40000,
         "shippingC": 0,
         "landedC": 40000,
-        "url": "https://www.ebay.com/itm/318569796785?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX37YH3QHZKMZKTHZNS&hash=item4a2c3d54b1:g:vxAAAeSwsehqUi0d&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAEA34BaHIp9qi4caHWr%2B2F284plhzJNwfJ75kr8T4yrKQLT7I%2FVKiOdaswpjDb1RonShKECfXplufbRti6ShUWN7mAqFplTvjhK8yiCjz9K16laL8P9iJwGNuL9W20KV7zhKrttFGyW82d6NUfvH1B713FPpK%2B64JJN9twvwt2sxWtbnRBhlqDnsj7dgQmbI%2BJZxUvMmtq7g0ZqleLPBkeHLPdBdxzX%2Ft2QFndoKjxf89pWPSJXiBmvA4nqIu6ijix0MYn%2FaNaylrWdFt9wLz3Y7ZSps%2BkXvt6wFSHjgIUnDGIMaFNnIE1edFMxnJFsoQ%3D%7Ctkp%3ABk9SR9zvqeCDaA",
+        "url": "https://www.ebay.com/itm/318569796785?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0S9VBQYSG06JVX7JP5AYECS&hash=item4a2c3d54b1:g:vxAAAeSwsehqUi0d&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAOmGMV2KYLezkaqCua%2FpWaNHSVIzCP%2BCmj7uGLD%2BE7m1Ua09uvRI7CmVVCj2FZkPKbxghdXmkK3HZ3zGTlQh81Yz0i0v65Y%2BxmhwdCLgnq0LBNCcpJCXWy3hohhy%2F9unp9c2gnE2FPjweNIOetqqWoWpcdouX%2Fs2cHDI1rTCtoT3fllVyEUFuoAr0khqp0WG4o%2FBEWwtUTC0GSNQdEPl8oPq3CGNEcQAELEBJzo%2B0ie1VL%2Fzdzh46kARO83MitmuMx1coo7dsNny%2FWHRD7DEyo%7Ctkp%3ABk9SR6C87amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/vxAAAeSwsehqUi0d/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
-      },
-      {
-        "itemId": "407000082466",
-        "title": "1999 Pokemon Fossil Hitmonlee Holo 1st Edition PSA 9 Fresh Cert Opens in a new window or tab",
-        "priceC": 50000,
-        "shippingC": 597,
-        "landedC": 50597,
-        "url": "https://www.ebay.com/itm/407000082466?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX33WST3RMRR9R2PBDA&hash=item5ec3186822:g:R-cAAeSwTAVqLsrn&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCr7R17i7cLzipLE7CT1W2BzDbkMXhSzy0SjU88Q07Qqhg2W2I4PSuEthGFdOTP7VSo%2BuoEko0rQllukacPsbgZPZbBQyHlVQzli2--NxLCQIc8qTJkjqTgfwO92gC%2BQM2MTp7bD3qx54Asg6HUc9%2FA17FDtJvJ7mphXOkkCLcV%2B7hpm3aM%2F2KYKA4zxtP12%2BtCMpweKO04ZFy5yroOXQ%2F%2Bzq%2Fp7GS1QhWO60Pf62nAx8nscjgtL%2BLBGOU9i0CBqHXV6CWD2DBoRbJEkQcaawER%7Ctkp%3ABk9SR97vqeCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/R-cAAeSwTAVqLsrn/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
+        "lastSeen": 1787555685458
       },
       {
         "itemId": "206197971274",
@@ -191,27 +177,27 @@
         "priceC": 51900,
         "shippingC": 624,
         "landedC": 52524,
-        "url": "https://www.ebay.com/itm/206197971274?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX3JSS3TG82ZNVH1A1G&hash=item30025b594a:g:7q4AAeSwjapp2Q0b&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC6mFzYZ8QcjccTXpC1OKC6kBq0hSIDCTAD8%2BnHyatAQr39HNCkRlChYmR18Gu21u3wfD2PlvoHLZtk0gNHwP6ss88Pzg6W7cltfTQcOA9o6SByVgonntptAz5P6%2FVCl2wu37OUhkefJwTcLo3q3H%2BXQ3nAQNBKJZEIMmbQSY6KHjxYM3ZU8INkJvdXNvHk6pvsvRNbt2wPSPvBVP8l7LPAqfGB1KLz955cXMCjJ6ilHNQe404jKHSHyD6uiZgaIDJd%2BXqzhVAsx5aCrOg5q%2FSa7CyWckoJFs%2Fo1FiYh1KZvSq76LWsjqf8udfFbvGK9Iw%3D%7Ctkp%3ABk9SR97vqeCDaA",
+        "url": "https://www.ebay.com/itm/206197971274?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0S9VBQZG5V6F246QXPH5E3E&hash=item30025b594a:g:7q4AAeSwjapp2Q0b&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBbh7%2Fz5PyYGVPPUBRANXPHyLeEpKldLP7YP7210Q0HWb7L%2F2viLeR1GCgp%2F5%2F1%2FDJtV8D1Uo5ftvhqMDipNho8XaAC7207WCSJ--f%2FlkAXr5DIPprBflbaRrez5c8mgICF0uA41Jikz4X0fLzUTSefwGFJ3m57sTKTfOvuCXKD38fa3NpMpGJJRuyPa55XvkW%2Fh5%2BIGe5QH1DJ6OazIV297LfOMIEoVFlsa57joLKNp9LPstNQzK%2B%2Bmu0FHhWWI7ZseiJyIla9Fao0x91Ljf34%7Ctkp%3ABk9SR6K87amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7q4AAeSwjapp2Q0b/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
+        "lastSeen": 1787555685458
       },
       {
-        "itemId": "407135049626",
+        "itemId": "407161908491",
         "title": "CGC 10 HITMONLEE 7 FOSSIL 1ST EDITION HOLO POKEMON GEM MINTOpens in a new window or tab",
         "priceC": 99999,
         "shippingC": 0,
         "landedC": 99999,
-        "url": "https://www.ebay.com/itm/407135049626?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX4WNDC22E65ETZREKK&hash=item5ecb23d79a:g:~k8AAOSw3dVn9JLh&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDB6xW%2B68k7rHpTt8it5Urczb%2BRHtX3Tx1PdDdjc3USDS2%2Fgch0tOOqU%2FRUNoKtHDWI2kZmZjwW0jRlDSlkBqJBn2nKYzDwFJOsSncN8SU30GF2KPinGGxGlrQ2bSWb8yWIVB5trh41Kp%2Bj4r5TbSVT6sFSatPuDkhfmk3m3RE0%2FcL0rELVxF8LML%2F9dX51%2FvjGuUi9x%2BoLUvz9OP9NyA0l%2Ftw5BuLgQHDP4YVPJl4Lt0ffMKxkdAve1AbsaWKE4PlqCJ77ZRh6XjaavpwjGZUS%7Ctkp%3ABk9SR97vqeCDaA",
+        "url": "https://www.ebay.com/itm/407161908491?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0S9VBQZHXE5VWX4HQEDSAEV&hash=item5eccbdad0b:g:~k8AAOSw3dVn9JLh&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBgy05VCQw3n%2FOq%2FMfZZTnvyWBb06NRVqM7rpe3ht33Wh7qBdkdwGXXZfIDLN5zf0OUIwiMuNkjcz5VBnwE0hK979T2jYo9CTz2s89JKaUbHXk7obn4OhhzA5CZYCIXgea9U%2BmzYNWg3q%2FPeYgMtvSM%2F5i6WHRsS%2FSlDt2iGaHfyBtZeIZ9CTy5MCaeK3CFF381zskWwL8LN3ZiPC1Bs6DzZr0RkldoMaewWFBklhM4SvQAENbU6MbpAEplXJFs%2FPZRzFK4Kk%2F%2Bz11lHgnTyL0GUvcYtdbFjR0oasYI161vAABHZdtBcf2zXsugCcVG2jU%3D%7Ctkp%3ABk9SR6K87amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~k8AAOSw3dVn9JLh/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
-        "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
+        "firstSeen": 1787382975001,
+        "lastSeen": 1787555685458
       },
       {
         "itemId": "314149290030",
@@ -219,13 +205,13 @@
         "priceC": 189999,
         "shippingC": 0,
         "landedC": 189999,
-        "url": "https://www.ebay.com/itm/314149290030?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX4KCF4TF5DWGF2RQCE&hash=item4924c1c02e:g:BJ8AAOSwIrljI836&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDQsWtkn0vHq6seXyHCJof1SWi%2Bwwntxf1EJrTGL0h1PriJlZQzLa7rn%2Fr%2BoLsefFQbKyux%2FlSnVGZeYLvxEa7Xwx37gP6kexuD8QhAfZx4TIvNPQGYJeDDxaV4ic1s3w0cW26kWYXEXn4AUpKwopQiv33w4XHGIPDudp9nI0%2BwBELxTTTPqrLz3Rzfa2Gmy8m%2FOkfiXCcIqW%2FkPadIkzTkc%2B%2F6PSCn32HvUBfNyfuh09%2FAEzIiTxpmxWImQsQi4AmS%2BlUoxbqh68iKraJaUqOP%7Ctkp%3ABk9SR97vqeCDaA",
+        "url": "https://www.ebay.com/itm/314149290030?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0S9VBQZ8RB3NFXW0G203E4B&hash=item4924c1c02e:g:BJ8AAOSwIrljI836&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDQsWtkn0vHq6seXyHCJof1SWi%2Bwwntxf1EJrTGL0h1PlW3IqjCYjQrCBsgUTIkOnIIa4InkqXMgpyW7nBpAa%2FtEmkf2x3Tpf%2BXwCPYckzi8boCpHVNT0IMK%2FGBN4Zs9U%2FbBDNBLY31pswNb8o3o35vkcanVWzzrOO1LNpRVoZ%2FIMf7RL52fOcSSaPliesgu4F0fTwySfAdbC9cof5z2gVTGp2jhwVCFvBynT1U9gTnuELkOBuMnh7PwfUfZlQYK6F1eJPmh041W2xCBORHuIC1%7Ctkp%3ABk9SR6K87amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BJ8AAOSwIrljI836/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
+        "lastSeen": 1787555685458
       },
       {
         "itemId": "168513998454",
@@ -233,13 +219,13 @@
         "priceC": 349500,
         "shippingC": 1199,
         "landedC": 350699,
-        "url": "https://www.ebay.com/itm/168513998454?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX4950SSPN5R76V4MH6&hash=item273c378e76:g:YNMAAeSwwgpqSWDD&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAsAeWwROwbX%2BpXSWW0o1n3cbuBC%2B0aZ19see3qMK5QEAryBAOnj3%2BWDhUver%2BbR7RbI%2BgSztH8KCNnY5JuahBnhgjEE%2B76BmwiSr5ncQXXH9wNRWr3bmywmJSVwQrNpjXdG%2F%2BuTuy2ovQ2HmJd05cV8Mc1PpPwKQNhh2Qg7m%2BEXEqc33NtZy1M4Da57Ex0PQ2uzzKzypwTHsEobzKQQeA24JFyEopgAm3%2BmHhlfWkjFID55TrqCU%2FZL%2FMzpUANW0PRU7uAFa4czY0vdDRx4%2FsGDCvqLae90clBA7UYSsIayIdumt5nsmEt3sS1eytZKgs%3D%7Ctkp%3ABk9SR97vqeCDaA",
+        "url": "https://www.ebay.com/itm/168513998454?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0S9VBQZ4AYM65CRGCR2HHJB&hash=item273c378e76:g:YNMAAeSwwgpqSWDD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDkEJIj6qrE%2Ffr%2BQIyv47KsiE2YnrsEgiWT98dxV5q0kOC%2Bm8EbgP8dVDuX0Waxsp%2FPZ2wQejk%2BtXqSKtUAHEllmKfWtQK%2FdnS%2F1tpKN%2FT2mTANzaablH3kyryfvsUEcAjyzu8dpVe4wDcc67ADMhioxisVUhCYranIP%2FFpqAEmxNtmXz3JwcrBMvpx5ncffmRKNpAfNY6zW5qgJhC%2BNO05KJH9iht9Pg7tJRZoUjjQl8vnMgFyuroVQT0K%2FSCzx3RDLrX2I%2FCQW%2B0UlOMOnnNB%7Ctkp%3ABk9SR6S87amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/YNMAAeSwwgpqSWDD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
+        "lastSeen": 1787555685458
       },
       {
         "itemId": "278243942704",
@@ -247,27 +233,27 @@
         "priceC": 359999,
         "shippingC": 0,
         "landedC": 359999,
-        "url": "https://www.ebay.com/itm/278243942704?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX4FDKS4HZG2JFG2F0E&hash=item40c8a1a130:g:O8kAAeSwgZNpzUtg&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD3VDcHwggwx7Dm5Tyt1AEMpy0oewxxq67JC57%2Bi%2BFGxO1%2Bh0A19Ph2R1dgr4mE1BudRpEjz5lt9654Xpne2Vpq7U6tz8I0D3z%2FzZ90PwlGI23GA6GAXlkxk3OWBojaJ3Yv5IX7lXhRD%2FoZUcutP8ZTZDPFxPinCJQL1b7ZiEWwwNlfnhiAp%2F1g0RUoz%2BNnbd8%2FurgdzUMq05qNpx8tiY6OeKxl%2FqPyql2W12XJOHEYnATIaerYJtiLRhuIPILwFd8zxFxL--%2F2Vq0onz%2Bnbsjr%7Ctkp%3ABk9SR97vqeCDaA",
+        "url": "https://www.ebay.com/itm/278243942704?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0S9VBQZW6KNPPSYRVC5CE6H&hash=item40c8a1a130:g:O8kAAeSwgZNpzUtg&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDW6kqdO2PmeNg1WN5E%2FbogFaoQjXyMwaJKa4FEVb4JXX3aKb83uXKjZSJcsjNeyJbyBHXw8krBbeP%2BVO4hsG5dtDM5%2B74T3OJhaM624Zj54hKIif2slhTFJEkTd32qtrHyf0PwCBH5qSWG0vLa73GPIFDX437YcQFYvnkbw7KotaICBousdEOALlTdRWKW7lcRsCpVQndrBcf3FMa7SZNmFuLLbfbvkV9on8hu6HTtXfIq7DvCaBUlpCsVtuyk8l9ry1xsnviySxj1qPcRxQijEISa3g%2FaIMFlWrxxGBb04cVhXBGKRgOhZH6miVX6Wiw%3D%7Ctkp%3ABk9SR6S87amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/O8kAAeSwgZNpzUtg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
+        "lastSeen": 1787555685458
       },
       {
         "itemId": "318599118268",
-        "title": "1999 Pokemon Fossil 1st Edition Holo Hitmonlee #7/62 (PSA 10)Opens in a new window or tab",
-        "priceC": 500000,
+        "title": "1999 Pokemon Fossil 1st Edition Hitmonlee Holo #7/62 PSA 10 GEM MINT WOTCOpens in a new window or tab",
+        "priceC": 394999,
         "shippingC": 0,
-        "landedC": 500000,
-        "url": "https://www.ebay.com/itm/318599118268?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX4W0Q912YQ7CJ40XGB&hash=item4a2dfcbdbc:g:gawAAeSw86VqWvz2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAGNQk%2FhjABT1u1pvDh1dh39Yh4LYMJyV7SvrzP3YEcAvxU%2F1ag88DGlhXpdDM4Jxcb03WTCZTUIX8Rkucnezv2TiU3qtv8qhX4w6%2B2vl9mAaOppcOMvzEurTFGdI98Jn3POk5IUvnLr5ihD%2FMzKD6yuPh%2FxrQR6ciQBRTWGAWmElZ3o6GOC4jo1elkTqWzfOO1Z4Wd%2Bqu968CPZn8xaI5t6hYZUYc2nwVA2kNTdXL3ncF2Kp5DqPe9yyWVqagZRnVVGKUntvSapRPmJzvVbqKx%7Ctkp%3ABk9SR97vqeCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/gawAAeSw86VqWvz2/s-l500.webp",
+        "landedC": 394999,
+        "url": "https://www.ebay.com/itm/318599118268?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0S9VBQZK90HCHY3WNAYBFMV&hash=item4a2dfcbdbc:g:pRwAAeSwQUJqi4ao&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAGNQk%2FhjABT1u1pvDh1dh39Yh4LYMJyV7SvrzP3YEcAmMNbHD1G6EnHbjwVXitj28qOgo8vlw1Ypm1LHPsNKQo7tSPCKg03plNJdRcurLRaiz%2BXuBOds2f5k6%2BGQPBF4WHxMiLJgrDN1IgNN3XsS41%2Bl%2BxzSNSym%2BbF6Z1gKvipHo3uMzPsvpolETDU5eImMR8yZ%2FIZnR9lOGAwtrTDGM8yVSknBl1xouk9TzTmpEG7bJIZfzaLMc2z%2BWOJIeOFYYk9AHWrFtNOITd6XFVXCp8%7Ctkp%3ABk9SR6S87amGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/pRwAAeSwQUJqi4ao/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
+        "lastSeen": 1787555685458
       },
       {
         "itemId": "298461334589",
@@ -275,17 +261,56 @@
         "priceC": 600000,
         "shippingC": 572,
         "landedC": 600572,
-        "url": "https://www.ebay.com/itm/298461334589?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0F0AEX4PAJ5E64TGJV8W07T&hash=item457dae8c3d:g:BjYAAeSwPuhqQXuk&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDMZptOI05Xj904UEotoZBldRkinl7Nwd0%2FpChtmAXOSgNFtqGOSLwq%2B%2BryHIYGFwgxpJqAy4tk48cAhriyPempQ%2Btap5lhXlS9huzJSAVOVQoIs6neIGZZ37DBjc5qM%2FW8QrGEPlcR3XCMU8J8Cch9kosYk8s%2FPwlo63SLO5I6UxcmjrN9K2rExbTYbtFwXEvQ%2FOA7Ip2jPi%2BNOOoq1LVm3%2B7cSv9HMAcvRM9akC22o2Kk0t%2BvNCoRRub6kaIPHTIXpcHY%2FlcepLQVbR8K%2FA1F%7Ctkp%3ABk9SR-DvqeCDaA",
+        "url": "https://www.ebay.com/itm/298461334589?_skw=%28hitmonlee%29+%287%2Cfossil%29+%28CGC%2CPSA%29&epid=18043373267&itmmeta=01M0S9VBR0QD9VE70SEEC0KQ2F&hash=item457dae8c3d:g:BjYAAeSwPuhqQXuk&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDMZptOI05Xj904UEotoZBldRkinl7Nwd0%2FpChtmAXOSuD43XWR7bvOnmXntuYbap7yU8yv6%2BLiooCByn%2BTGgrHBOqKas%2ByqxTh5%2FdbWZAFkm5FhuFBEd%2BXJXu0immhWvHs1iFwHIQK72nla%2B7DVH%2B2VjT4e5llwUFZ2kEuYuCxc6kLueQUXatuRHbcZJ7dyHDuJSF44JNyjIa5qwJCZzY%2B2IIT7Bt03X%2BQ8zj0e3NadK7iHRWL9S6oY7PYC8gk3bCS1Gez98yMgoSL7sQS6AZ1%7Ctkp%3ABk9SR6S87amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BjYAAeSwPuhqQXuk/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787210174793
+        "lastSeen": 1787555685458
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 2984987,
+          "saleDate": "2026-08-22",
+          "priceC": 6300,
+          "title": "Pokémon TCG Hitmonlee Fossil 7/62 Holo 1st Edition Holo Rare MP/MP+ 7/62",
+          "url": "https://www.ebay.com/itm/188782373728?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3641954,
+          "saleDate": "2026-08-21",
+          "priceC": 12995,
+          "title": "Hitmonlee (7) #7 Near Mint English 1st Edition",
+          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F106523%2F-&sharedId=web&subId1=completed",
+          "sourceMarketplace": "TCGPlayer",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2029368,
+          "saleDate": "2026-08-21",
+          "priceC": 4300,
+          "title": "Pokémon Hitmonlee 7/62 Holo 1st Edition Fossil 7/62",
+          "url": "https://www.ebay.com/itm/128025586998?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 872162,
           "saleDate": "2026-08-18",
@@ -1806,45 +1831,6 @@
           "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 118451,
-          "saleDate": "2026-06-04",
-          "priceC": 8900,
-          "title": "1999 POKEMON HITMONLEE-HOLO 1ST EDITION FOSSIL #7 PSA 7 #7",
-          "url": "https://www.ebay.com/itm/800075969926?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 118439,
-          "saleDate": "2026-06-04",
-          "priceC": 14400,
-          "title": "1999 POKEMON HITMONLEE-HOLO 1ST EDITION FOSSIL #7 PSA 8 7/62",
-          "url": "https://www.ebay.com/itm/800080909914?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 118438,
-          "saleDate": "2026-06-04",
-          "priceC": 13750,
-          "title": "1999 POKEMON FOSSIL 1ST EDITION #7 HITMONLEE-HOLO PSA 8 #7",
-          "url": "https://www.ebay.com/itm/306951393265?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1939,9 +1925,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 309,
+      "englishSaleCount": 312,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787209964838
+      "lastCapturedAt": 1787555503957
     }
   }
 }

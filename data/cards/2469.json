@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 2469,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/1013b2d9993a62bbc2674daf36ebdb6525b56fa016d96192f7a760a95c934e9a/1600.jpg",
       "popularityScore": 91,
       "market": {
-        "ungradedC": 85106,
-        "grade9C": 552648,
-        "grade95C": 607900,
+        "ungradedC": 82500,
+        "grade9C": 554387,
+        "grade95C": 609800,
         "cgc10C": 343390,
         "cgc10PristineC": 3000000,
-        "psa10C": 2451149,
-        "bgs10C": 3186500,
+        "psa10C": 2448261,
+        "bgs10C": 3182700,
         "psa9Pop": 298,
         "psa10Pop": 91,
         "cgc10Pop": 8,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787212508284
+        "fetchedAt": 1787557868102
       },
       "bestCgc10": {
         "itemId": "389867477758",
@@ -37,36 +37,49 @@
         "priceC": 1500000,
         "shippingC": 1998,
         "landedC": 1501998,
-        "url": "https://www.ebay.com/itm/389867477758?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0F2S53N7HJA6KRW895851DT&hash=item5ac5e99afe:g:WiwAAeSw-Bhp19OB&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDrfsYPyUHPg9e2Kn0tLJIjiAjxNZnEqrYth3JNeBgN9M%2FYQdgG%2F93rZpKNUWi8C2WqNrsfjpNEnbt1mnZH3%2BVyVzabVbvhYUBs7svTdeqWUlOQ4Ay1Qyfen7qqaaeXYuSFZyZrDVrVvqIzKRKvK6wKGgoCJ%2Fj%2BDTKPRD63oEC99hdtgxBsFx2bEH07ZeZvU4fpAgczl4UVBgTm9um9%2F0B05V0SdRSLQHNHvZhXK1q%2FXb3%2FjyENnLSuCAppU%2BWmjAMCB4zRx7F40AlgKsu7ILrT%7Ctkp%3ABk9SR47S5OKDaA",
+        "url": "https://www.ebay.com/itm/389867477758?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0SC4HNBBMMYKYPDEFKGCVVQ&hash=item5ac5e99afe:g:WiwAAeSw-Bhp19OB&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBjcMLC580shWL2ykhyFP0B%2B85EZI55qGv8Z7aJkNjUEs9S%2FRSsfrS2ntqdu5Z9CAbhRbwnwjPpGzzjhRFaC7rf%2FeYixyeO4hfl%2Fs7XvTU3L53Kbh6F%2FO8A9FhKhsnXxilI8U2Y6SzLaL%2BrUK%2BFKy%2B2%2FdZdJpmD7BBxJgeeONmDR8wbYeW6F7hVPMceqJKrIxpr%2FTwg3xpVHCrDHc4kOGeiIsyev4zb1MJo7OJHgQ5kWqmfY8CtJDGOpW48fSQ4TRZYDCgEA55FgR2WuGutGEfGf%2Br7MlW6BajOztq0C1DgbBGJU3Cql%2BY16bxSWkJxUF8%3D%7Ctkp%3ABk9SR_6akqyGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/WiwAAeSw-Bhp19OB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787054322608,
-        "lastSeen": 1787212719513
+        "lastSeen": 1787558075872
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "407158777637",
+        "title": "2003 POKEMON AQUAPOLIS #H29 UMBREON-HOLO PSA 10 (SWIRL)Opens in a new window or tab",
+        "priceC": 9084299,
+        "shippingC": 941,
+        "landedC": 9085240,
+        "url": "https://www.ebay.com/itm/407158777637?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&itmmeta=01M0SC4HNCZ0RB8XB596F0WDCP&hash=item5ecc8de725:g:xkUAAeSw~7pqhw1T&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCMINPpuhl2wfO2E9zpUgQZTU3tE8lNJtXR7X6Q6x0KdSZ1y6HhHbtXbSMxt1%2BW0E4GptwfpUaM4lvknxpz68cbd9jtH6nKeaISx5BqrDpz8g%2FNbL2Yhjv0SY4WVQ1E5LldGxLujSfxG%2Bxm1lUQLqveAxHYAlVq7LBfQwoDmJoRoRVbWcU2PLjVnY%2FOTXakFTZmffx8c0HxB78cWY7D5%2BncwqMSU6zzx0tziqnvqKu%2FgQQlk2AeP5SQmQnV6hMtSG40aSb6QOScIm9y5riSgohWRfQFQDV1RlmHVfqJ3lTqPmn26OQ0rLf%2F3eOKQ4Zhow4%3D%7Ctkp%3ABk9SR4CbkqyGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/xkUAAeSw~7pqhw1T/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787299779529,
+        "lastSeen": 1787558075872
+      },
       "bestPsa9": {
         "itemId": "407063877951",
         "title": "Umbreon #H29/H32 Aquapolis Holo (w/ great swirl!) PSA 9 Pokemon Card*TEOpens in a new window or tab",
         "priceC": 600000,
         "shippingC": 0,
         "landedC": 600000,
-        "url": "https://www.ebay.com/itm/407063877951?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0F2S53NECDC2439GB40KD45&hash=item5ec6e5d93f:g:SXgAAeSweXxqUUPz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCxefaLHIifAZg21yGV4DjpJ5h39JGut4z9O8na%2B1z8dJ4QKB8YPChB1ozdIgTxNWUEbes4cfsznxi7sou1r9lk1Neb6fNUXBXxRoXRr7KzyeD%2BOqTeW%2FQQiUZEAbELPmmG32ARBRGO8fPGEQR49Pjn0QzkpBSH38oh6sewza%2B2VHNg58vNpXg5qPuRMhATDQbPhhlKI0lhxGDcRW4K1HxE7XtbevMmJpSTPzibuMiZeiMzw0trxDmVdtIVht3rAP4VvITFYaRjaSf%2FeuqLXM8PPdjea%2FnctArijLxPOUmW7d53Yjbg0DQQTPdEruVJk84%3D%7Ctkp%3ABk9SR47S5OKDaA",
+        "url": "https://www.ebay.com/itm/407063877951?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0SC4HNBFYHQB49348FTAQVT&hash=item5ec6e5d93f:g:SXgAAeSweXxqUUPz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBh%2FCuz9kLqy%2FZzgv2rXikF0k2S0uX7Vl9vzvZ%2BPvF8fOB0qlsBdQeetZKIkXf10nfN2rS5hnZiQKsqwA2TzTXYkmG7MQBcevDfMMsU8f9QbF1C3lhY1vMG7wGau3R06iXl8GbJrmVLzSaSPcI0iJUf7k0AMVldRZlItY6nwrZ%2Bdwz8ML9U5K5yzabKCEGRE8Cp6TcL9yJePntL6DH6JqpnynAyCq3CyNd1pZUxGkN8oeELYe9N8nVFfkOitZk4ZFFA05Wixej3sJ4TXGsDH%2FvA%7Ctkp%3ABk9SR_yakqyGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/SXgAAeSweXxqUUPz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787054322608,
-        "lastSeen": 1787212719513
+        "lastSeen": 1787558075872
       },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
-        "psa9Bin": 5
+        "psa9Bin": 6
       },
       "ratio": {
         "ok": true,
@@ -80,26 +93,26 @@
         "cgc10CostC": 1501998,
         "submissionFeeC": 99900,
         "totalCostC": 1601898,
-        "psa10ValueC": 2451149,
-        "ratio": 1.5301529810262575
+        "psa10ValueC": 2448261,
+        "ratio": 1.528350119670541
       },
       "firstOpportunityAt": 1787054322608,
-      "updatedAt": 1787212719513
+      "updatedAt": 1787558075872
     },
     "prices": {
       "variantId": 2469,
-      "ungradedC": 85106,
-      "grade9C": 552648,
-      "grade95C": 607900,
+      "ungradedC": 82500,
+      "grade9C": 554387,
+      "grade95C": 609800,
       "cgc10C": 343390,
       "cgc10PristineC": 3000000,
-      "psa10C": 2451149,
+      "psa10C": 2448261,
       "psa9Pop": 298,
       "psa10Pop": 91,
       "cgc10Pop": 8,
-      "bgs10C": 3186500,
+      "bgs10C": 3182700,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787212508284
+      "fetchedAt": 1787557868102
     },
     "listings": [
       {
@@ -108,41 +121,41 @@
         "priceC": 600000,
         "shippingC": 0,
         "landedC": 600000,
-        "url": "https://www.ebay.com/itm/407063877951?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0F2S53NECDC2439GB40KD45&hash=item5ec6e5d93f:g:SXgAAeSweXxqUUPz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCxefaLHIifAZg21yGV4DjpJ5h39JGut4z9O8na%2B1z8dJ4QKB8YPChB1ozdIgTxNWUEbes4cfsznxi7sou1r9lk1Neb6fNUXBXxRoXRr7KzyeD%2BOqTeW%2FQQiUZEAbELPmmG32ARBRGO8fPGEQR49Pjn0QzkpBSH38oh6sewza%2B2VHNg58vNpXg5qPuRMhATDQbPhhlKI0lhxGDcRW4K1HxE7XtbevMmJpSTPzibuMiZeiMzw0trxDmVdtIVht3rAP4VvITFYaRjaSf%2FeuqLXM8PPdjea%2FnctArijLxPOUmW7d53Yjbg0DQQTPdEruVJk84%3D%7Ctkp%3ABk9SR47S5OKDaA",
+        "url": "https://www.ebay.com/itm/407063877951?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0SC4HNBFYHQB49348FTAQVT&hash=item5ec6e5d93f:g:SXgAAeSweXxqUUPz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBh%2FCuz9kLqy%2FZzgv2rXikF0k2S0uX7Vl9vzvZ%2BPvF8fOB0qlsBdQeetZKIkXf10nfN2rS5hnZiQKsqwA2TzTXYkmG7MQBcevDfMMsU8f9QbF1C3lhY1vMG7wGau3R06iXl8GbJrmVLzSaSPcI0iJUf7k0AMVldRZlItY6nwrZ%2Bdwz8ML9U5K5yzabKCEGRE8Cp6TcL9yJePntL6DH6JqpnynAyCq3CyNd1pZUxGkN8oeELYe9N8nVFfkOitZk4ZFFA05Wixej3sJ4TXGsDH%2FvA%7Ctkp%3ABk9SR_yakqyGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/SXgAAeSweXxqUUPz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787054322608,
-        "lastSeen": 1787212719513
+        "lastSeen": 1787558075872
       },
       {
         "itemId": "327316307378",
         "title": "2003 POKEMON AQUAPOLIS #H29 UMBREON-HOLO SWIRL PSA 9Opens in a new window or tab",
-        "priceC": 651748,
-        "shippingC": 3311,
-        "landedC": 655059,
-        "url": "https://www.ebay.com/itm/327316307378?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&itmmeta=01M0F2S53PCETMJ67DJANCTMPT&hash=item4c35927db2:g:VIwAAeSww31qTxMj&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBumCUNQtvbvcGgsdaeuc5TTAdb5grVVAvPG5da8NvECpjLWB0qs1zShTAoCKN02g3As33PAEOtUj0Fjh9oMFM6chStiXkp2e8fedNPI%2BK4GYZ9KFGrxyAIo1vlgWmJ3TqIxOzED6%2Fj9AeWAHm1ePH4HvWuecvMTR4fi7Bp0%2F4jQVyq4IktyAmT1qYIsFig3jMkD9hreU6XbKK5nyxq9jzpikvOufEjV%2FjMDG52g3W0jcruzcOnp1PSHCT0OiZAAxqvHQl0z7zwgfjX8NqbCCDD%7Ctkp%3ABk9SR5DS5OKDaA",
+        "priceC": 654069,
+        "shippingC": 3296,
+        "landedC": 657365,
+        "url": "https://www.ebay.com/itm/327316307378?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&itmmeta=01M0SC4HNC85DAM40XYZV667MA&hash=item4c35927db2:g:VIwAAeSww31qTxMj&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBumCUNQtvbvcGgsdaeuc5TTAdb5grVVAvPG5da8NvECsrGtKquPN%2B0X%2FwDktEFZ8wop5DCgXYGGO%2BuXEX5sEU8n%2B1XttgnGtA%2F5Q412Zo1nGYkKrcX49gmPeBZXT1F%2FytkVQ6WzxGo6si7FK5aeV0n3sHRB6uUGP5nklbn9KAkH5%2FPwh2HcO36wurCOx0ST%2FD5a7MigpKZikaVbU5YmLy%2Fn%2BKbaxRq07PNxAutQhPT%2B7q33xmeipaeS0JMEyXtkwvwlZ%2F3UBdbU%2FD46EHdvoFZ%7Ctkp%3ABk9SR_6akqyGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/VIwAAeSww31qTxMj/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787212719513,
-        "lastSeen": 1787212719513
+        "lastSeen": 1787558075872
       },
       {
         "itemId": "398272369680",
         "title": "2003 Pokémon Aquapolis Umbreon Holo H29/H32 PSA 9Opens in a new window or tab",
-        "priceC": 688888,
+        "priceC": 699999,
         "shippingC": 0,
-        "landedC": 688888,
-        "url": "https://www.ebay.com/itm/398272369680?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0F2S53N53TN4RQMW3ZP14A3&hash=item5cbae21410:g:wFMAAeSwm6tqeo3j&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDlD1RSXo6OraEjuhfgWbI%2BnNClj5bYneDRdljq7Tj8i2U8TMQlJB8ysFmdztkCTnD2%2BRUMAYD0anVV0EG537wOrlCVDA5xUclfLMCKoD%2BMWt2oSrRfvbB79ALsvO3gzD9ySAcPhKi69kGVt0e6XEWsFa1aX%2BWmmC8IIQ%2F6cw65eGOIZtXNHVLWv6lJ%2F%2BpqSPslc62LRhpFe0Z7Mj%2BVfXFYQPiPhYvAaADESCJcmUfmih180sRIrAQul1rs60Q0iv015IytU7BILJWSKUkAyp3G%7Ctkp%3ABk9SR47S5OKDaA",
+        "landedC": 699999,
+        "url": "https://www.ebay.com/itm/398272369680?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0SC4HNBR621406YDY0AWVTM&hash=item5cbae21410:g:wFMAAeSwm6tqeo3j&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDlD1RSXo6OraEjuhfgWbI%2BnNClj5bYneDRdljq7Tj8i5xo4xlgYAHLxTzMpySkt%2BRvfiQyDYGx16W6HKySqptkbOOyxC9gFSYlGmDe8keer%2FMWqMhoFx4HSOpYC2cy0xnYMyTNeYLWXLksVZuRhSBioTrW408LLjTnUYJ7B1cPqNzFK5NjZnOSL5l5tDNBZe6uX07L%2FcOHgKxNR72rOR72OXg8DJMqVERrAuqzo8PEoYYAMXZgJZuBjarSTV8uPZI5DXEK5PaRBbemPAu90i5f%7Ctkp%3ABk9SR_6akqyGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/wFMAAeSwm6tqeo3j/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787054322608,
-        "lastSeen": 1787212719513
+        "lastSeen": 1787558075872
       },
       {
         "itemId": "287319722122",
@@ -150,13 +163,13 @@
         "priceC": 699999,
         "shippingC": 999,
         "landedC": 700998,
-        "url": "https://www.ebay.com/itm/287319722122?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0F2S53NQ8ME3B74040FNF7A&hash=item42e597088a:g:xSQAAeSweBdp~ORl&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCNvjebYeV5rnOiUAXLW%2BkJ%2FsvN6c3xK30pi0O73Xyc602nlX9PpTMNWc1KjhyPbjjlN9pXkVDcUojh7XQ6mRCu5K6FIbQgUkDc%2BiItCRODVd2rZCtD9wdC5ycsRoTnuxLTFPzjohYsPXxhz22ybXppAYLUzpOeHVk83lmAhlZTt7iysdB5gl8iUsT65KFa%2B6k9Dg4sA9LnoGZCgwfIKuxDqzlEnvJfe7EXODM2jGbfSfUAL1kLaQzAIA7GonIKhgSO5yciy7eIVscesTu3XufW%7Ctkp%3ABk9SR47S5OKDaA",
+        "url": "https://www.ebay.com/itm/287319722122?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0SC4HNBGTE570A0S5X3KN37&hash=item42e597088a:g:xSQAAeSweBdp~ORl&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCm6WNdfiJexdup4L7r1nFKKAJiVwFU%2FR3ib22Eg7Vx%2FzEEgf0Jj6d%2FZsCV3lWASu8oFGwW4xSl0DP%2FFrsqJ6T%2F%2BfTdqagAI49dRwtNTNX2qFq9vD%2B0K6yJ%2FGoiAFEOmUSWaAXUNoHvUCfkvMkx5gb%2F7d%2B2pnVv6ThBDUZkMNRmb0K179gvoj7rQWKdUyHvrB3HgUIUHZLyh6au8LujqPliXEVDsg%2FWenrZCxflY4n15Fif7CopYB2WIsPA3Vx%2B65LddbzR%2FFAV7%2BwD%2F78YquMQQ36JP2BX1GZnZC77oJ%2BTmSi2yIIIds0ccSpHL1be0ow%3D%7Ctkp%3ABk9SR_6akqyGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/xSQAAeSweBdp~ORl/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787054322608,
-        "lastSeen": 1787212719513
+        "lastSeen": 1787558075872
       },
       {
         "itemId": "267639169891",
@@ -164,13 +177,27 @@
         "priceC": 888800,
         "shippingC": 0,
         "landedC": 888800,
-        "url": "https://www.ebay.com/itm/267639169891?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0F2S53N453NH6KBQYW55N8F&hash=item3e5089a363:g:~L0AAeSwz9pp3nDH&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA04LCp%2FXmCauayqQovUFTs538p05pv8QbG9EsHtNp73uOz5GVpa7oIxWECBHlWI5fSkDEmeNjaVBR18LRARrdwYduRS8CijJofQJ3Kg--eZuepzt%2Fvm%2FtRcrQ5tfurH8OnAswGbqGHcCQOy%2BAtREt57de1H5w7NTO5J%2FhAAdqHSYk7Bo81Wx%2BPOW9gMaOi0ZLniLpB7xGlML%2FJIv88EzaIvqvp22JT7kROSJk2AIAsQc%2FVE6gEqoDHgMQs330iv00VFkJm9i5s5iYhlzMwKcZyMch%2Fk72yPzMr57Q12%2B%2BbjC48i4NaHUfh2ZofTq00sDA%3D%7Ctkp%3ABk9SR47S5OKDaA",
+        "url": "https://www.ebay.com/itm/267639169891?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0SC4HNB7G7GPW5W9FF302S7&hash=item3e5089a363:g:~L0AAeSwz9pp3nDH&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA3Egl2IdN2uK91NxYNoqfOlKrIWqYnJzxkg%2F4XxdFfYvSyMCU46HDxM61h4m9XhIOX04Um9U2pzzl6zBxfyFm9124CktJT4Kps5h%2Bhm2QKKwNIUC54iACQUOEDo54UHK7uBaniKt0SfQW8zfZEHKKlMMWbNCAESwn8sVezD5s%2FkNAcUTJWWqYapphEiDobkUJr96p0gRdSIHPBMuHRBkacE4ITI3dXr%2Fyy5JRzGFkAZ%2BdbcYnuEcYNrYjhxagvGoswZWVMhExnlG4bjwvb%2Bz4r%7Ctkp%3ABk9SR_6akqyGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~L0AAeSwz9pp3nDH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787054322608,
-        "lastSeen": 1787212719513
+        "lastSeen": 1787558075872
+      },
+      {
+        "itemId": "287536364096",
+        "title": "Pokemon PSA 9 Umbreon #H30 Holo Aquapolis 2003 EnglishOpens in a new window or tab",
+        "priceC": 908276,
+        "shippingC": 2336,
+        "landedC": 910612,
+        "url": "https://www.ebay.com/itm/287536364096?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&itmmeta=01M0SC4HNC69A3GT9WNAX439VN&hash=item42f280ba40:g:8OcAAeSwvk9qhwVT&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC%2Bs%2B%2BRa4%2Bno39d863BX4sTS2QpYbKJ8e9tcuurLyEpsX18WsxmmJtWNoRMlzakWaFuUDwf5xupOivYDlquNscKv0J4vbA7Lbhyfr5uVdTaHtTrSggxJ7HBBQWYZXkwodAG2BjNy4TVCKhM70x85KsBoP7AxhRIF8GDwKjYYd23rD6YK285QSUlsfsYcZcs6%2ByG7e3M%2FMOr0r1cKLyeHQOw9UD4r79lbIhJp6b%2FL3fbqCLFEUjeVB82zPn0CcybfI%2F8z8TN%2BbvyJ4OhWMhZVaWVjvjpUEP4UR6aZ9GkEytT2sbIavGO6GHgPFkXVlklh%2FU%3D%7Ctkp%3ABk9SR_6akqyGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/8OcAAeSwvk9qhwVT/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787299779529,
+        "lastSeen": 1787558075872
       },
       {
         "itemId": "389867477758",
@@ -178,13 +205,27 @@
         "priceC": 1500000,
         "shippingC": 1998,
         "landedC": 1501998,
-        "url": "https://www.ebay.com/itm/389867477758?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0F2S53N7HJA6KRW895851DT&hash=item5ac5e99afe:g:WiwAAeSw-Bhp19OB&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDrfsYPyUHPg9e2Kn0tLJIjiAjxNZnEqrYth3JNeBgN9M%2FYQdgG%2F93rZpKNUWi8C2WqNrsfjpNEnbt1mnZH3%2BVyVzabVbvhYUBs7svTdeqWUlOQ4Ay1Qyfen7qqaaeXYuSFZyZrDVrVvqIzKRKvK6wKGgoCJ%2Fj%2BDTKPRD63oEC99hdtgxBsFx2bEH07ZeZvU4fpAgczl4UVBgTm9um9%2F0B05V0SdRSLQHNHvZhXK1q%2FXb3%2FjyENnLSuCAppU%2BWmjAMCB4zRx7F40AlgKsu7ILrT%7Ctkp%3ABk9SR47S5OKDaA",
+        "url": "https://www.ebay.com/itm/389867477758?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0SC4HNBBMMYKYPDEFKGCVVQ&hash=item5ac5e99afe:g:WiwAAeSw-Bhp19OB&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBjcMLC580shWL2ykhyFP0B%2B85EZI55qGv8Z7aJkNjUEs9S%2FRSsfrS2ntqdu5Z9CAbhRbwnwjPpGzzjhRFaC7rf%2FeYixyeO4hfl%2Fs7XvTU3L53Kbh6F%2FO8A9FhKhsnXxilI8U2Y6SzLaL%2BrUK%2BFKy%2B2%2FdZdJpmD7BBxJgeeONmDR8wbYeW6F7hVPMceqJKrIxpr%2FTwg3xpVHCrDHc4kOGeiIsyev4zb1MJo7OJHgQ5kWqmfY8CtJDGOpW48fSQ4TRZYDCgEA55FgR2WuGutGEfGf%2Br7MlW6BajOztq0C1DgbBGJU3Cql%2BY16bxSWkJxUF8%3D%7Ctkp%3ABk9SR_6akqyGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/WiwAAeSw-Bhp19OB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787054322608,
-        "lastSeen": 1787212719513
+        "lastSeen": 1787558075872
+      },
+      {
+        "itemId": "407158777637",
+        "title": "2003 POKEMON AQUAPOLIS #H29 UMBREON-HOLO PSA 10 (SWIRL)Opens in a new window or tab",
+        "priceC": 9084299,
+        "shippingC": 941,
+        "landedC": 9085240,
+        "url": "https://www.ebay.com/itm/407158777637?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&itmmeta=01M0SC4HNCZ0RB8XB596F0WDCP&hash=item5ecc8de725:g:xkUAAeSw~7pqhw1T&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCMINPpuhl2wfO2E9zpUgQZTU3tE8lNJtXR7X6Q6x0KdSZ1y6HhHbtXbSMxt1%2BW0E4GptwfpUaM4lvknxpz68cbd9jtH6nKeaISx5BqrDpz8g%2FNbL2Yhjv0SY4WVQ1E5LldGxLujSfxG%2Bxm1lUQLqveAxHYAlVq7LBfQwoDmJoRoRVbWcU2PLjVnY%2FOTXakFTZmffx8c0HxB78cWY7D5%2BncwqMSU6zzx0tziqnvqKu%2FgQQlk2AeP5SQmQnV6hMtSG40aSb6QOScIm9y5riSgohWRfQFQDV1RlmHVfqJ3lTqPmn26OQ0rLf%2F3eOKQ4Zhow4%3D%7Ctkp%3ABk9SR4CbkqyGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/xkUAAeSw~7pqhw1T/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787299779529,
+        "lastSeen": 1787558075872
       }
     ],
     "marketHistory": {
@@ -1490,6 +1531,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 2310969,
+          "saleDate": "2026-04-30",
+          "priceC": 75000,
+          "title": "2003 Pokémon Umbreon Holo Aquapolis H29/H32 Rare Vintage H29/H32",
+          "url": "https://www.ebay.com/itm/406310271566?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 398817,
           "saleDate": "2026-04-30",
           "priceC": 620000,
@@ -1735,19 +1789,6 @@
           "gradingGrade": 6,
           "gradingDesignation": "excellent",
           "agreementStatus": "match"
-        },
-        {
-          "id": 398899,
-          "saleDate": "2026-04-06",
-          "priceC": 119999,
-          "title": "2003 POKEMON AQUAPOLIS #H29 UMBREON-HOLO PSA 6 #H29",
-          "url": "https://www.ebay.com/itm/267626128508?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 6,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1827,9 +1868,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 283,
+      "englishSaleCount": 284,
       "excludedLanguageCount": 2,
-      "lastCapturedAt": 1787212506480
+      "lastCapturedAt": 1787557865789
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 5037,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/5f378792dc7706da4675e986519ab7a847657f1583f63d9f8b412a00aff45931/1600.jpg",
       "popularityScore": 79,
       "market": {
-        "ungradedC": 3898,
+        "ungradedC": 3924,
         "grade9C": 22329,
         "grade95C": 24600,
-        "cgc10C": 19755,
-        "cgc10PristineC": 35600,
+        "cgc10C": 19864,
+        "cgc10PristineC": 35800,
         "psa10C": 154346,
         "bgs10C": 200700,
         "psa9Pop": 204,
         "psa10Pop": 45,
         "cgc10Pop": 21,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787217436834
+        "fetchedAt": 1787560422892
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -44,41 +44,54 @@
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787217436834
+      "updatedAt": 1787560422892
     },
     "prices": {
       "variantId": 5037,
-      "ungradedC": 3898,
+      "ungradedC": 3924,
       "grade9C": 22329,
       "grade95C": 24600,
-      "cgc10C": 19755,
-      "cgc10PristineC": 35600,
+      "cgc10C": 19864,
+      "cgc10PristineC": 35800,
       "psa10C": 154346,
       "psa9Pop": 204,
       "psa10Pop": 45,
       "cgc10Pop": 21,
       "bgs10C": 200700,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787217436834
+      "fetchedAt": 1787560422892
     },
     "listings": [
       {
         "itemId": "800537021485",
         "title": "2006 Pokémon Kingdra δ Holo EX Holon Phantoms #10/110 CGC 10Opens in a new window or tab",
-        "priceC": 99,
+        "priceC": 550,
         "shippingC": 795,
-        "landedC": 894,
-        "url": "https://www.ebay.com/itm/800537021485?_skw=%28kingdra%2Cdelta%29+%2810%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=17043371190&itmmeta=01M0F7MKCEW381M3A0KBBZH29V&hash=itemba63b98c2d:g:iqoAAeSwtwVqhKTt&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBlOiiRnT35LgikrPs0X4KNuSHwqJ3vc1lhcRz5WEFx914L5sqp1qnC%2BplOR6GraWTtwksdltmQmqofQOJoBKDcpUodHAGaSf8ubI52rUpzvq14FJjJAe9M0eE%2F128XwK0vBBGfnGt2mBW4T3CE112eoj%2FM04uxO6yBP4F0dvXKWEVa2%2BY0ur6%2BTQUkRrUmVKixiCnQU6V0%2BdyW4NM5vXAsfLtD6yhXdcFYqUHngVlCb61LqcUSRRPi2GkY1MeB%2BCkuC1IXPPxLxzGorjyyfah8q1CNz8BlY78DmDda3V8leSEBKKufQkqPJe4t%2BGW0lhLc7V7HsOzYW874fByRWu0Z%7Ctkp%3ABk9SR9a20ueDaA",
+        "landedC": 1345,
+        "url": "https://www.ebay.com/itm/800537021485?_skw=%28kingdra%2Cdelta%29+%2810%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=17043371190&itmmeta=01M0PXBCJ2JVDMYTHJJJ7KREEY&hash=itemba63b98c2d:g:iqoAAeSwtwVqhKTt&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBJNNHp42Uvv8c8CgcHPGlrDCWtnPmC4MTQvNIVMv1xemVi0jO1rs2lY4IubVlowaKdZtPVPrWVTwt4UXfhwNX3%2F7JUkSk7IElNIFW7ea9pI5gLoLUml1r%2FqnDKvk%2FslH3stU78KAseV9owHBNTvw4yrdHNGnc5%2Fex1%2BdDzN%2BwJmvLSjfXpkCjJ%2FIU6a4oOpj1%2BkRFMEUCbS%2BEIhEpnNiDrBappw4%2BRwNHEyM%2B5tS4vWte9uZ%2B6kf%2FKQFzD0mpJyQ0Rb2t4tHNuc%2F8J56eqxWzsJVZSfkGul0cG0HRR85J6jw%3D%3D%7Ctkp%3ABk9SR5TKrd2FaA",
         "imageUrl": "https://i.ebayimg.com/images/g/iqoAAeSwtwVqhKTt/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787217904343,
-        "lastSeen": 1787217904343
+        "lastSeen": 1787475392228
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 2595930,
+          "saleDate": "2026-08-20",
+          "priceC": 4050,
+          "title": "KINGDRA POKEMON HOLON PHANTOMS HOLO EXCELLENT CONDITION 10/110 10/110",
+          "url": "https://www.ebay.com/itm/407142692853?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 655043,
           "saleDate": "2026-08-17",
@@ -1625,19 +1638,6 @@
           "gradingGrade": 6,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 655088,
-          "saleDate": "2025-11-12",
-          "priceC": 3520,
-          "title": "Kingdra (Delta Species) #10 Near Mint English",
-          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F86450%2F-&sharedId=web&subId1=completed",
-          "sourceMarketplace": "TCGPlayer",
-          "gradingStatus": "raw",
-          "gradingCompany": null,
-          "gradingGrade": null,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1737,9 +1737,9 @@
           "count": 3
         }
       ],
-      "englishSaleCount": 190,
+      "englishSaleCount": 191,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787217435318
+      "lastCapturedAt": 1787560420753
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 4293,
@@ -18,7 +18,7 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/0d15b76a0ed8664c647050284c5811fb0a8b627fc8e1628cebf47d20d73d9e45/1600.jpg",
       "popularityScore": 89,
       "market": {
-        "ungradedC": 24404,
+        "ungradedC": 20000,
         "grade9C": 85839,
         "grade95C": 94400,
         "cgc10C": 118000,
@@ -29,7 +29,7 @@
         "psa10Pop": 15,
         "cgc10Pop": 14,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787214719601
+        "fetchedAt": 1787559623112
       },
       "bestCgc10": {
         "itemId": "287478427989",
@@ -37,23 +37,36 @@
         "priceC": 200000,
         "shippingC": 999,
         "landedC": 200999,
-        "url": "https://www.ebay.com/itm/287478427989?_skw=%28groudon%29+%2814%2Cemerald%29+%28CGC%2CPSA%29&epid=14043372407&itmmeta=01M0F4WD5M2JAS9K6DJEGXTA2Q&hash=item42ef0cb155:g:nDgAAeSwT55qYS1L&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA2GNxrW9sYdN%2F112ycDFe4%2FDzr2sOfhDgxi6wVzVkbOSrq16ALxigZmVV%2Fvl9nbervEmu%2FHEpXtJ%2F5cRIcU3hnyIJiMwJ48o%2B7VuW0myFzldD1lFHPz8Vj1BXN1MuNUGybUx3IyFHUgFlJm8%2F92NPK8Yz%2B01ypyAwRCabWteUoj88h8YzboA5OFFo6R7x9dscVuVJPajROfCxu2iL%2BmPB18sL8yq1Yos9UyLu15Za9Z%2BS8bJoSZak2tEpsDMlNJucRa3vmcLsgTzygHuNnhHJ%2F%2BEnGg%2Fvl25omRK%2FAbE6Vl4%2B6KlegYyzyA%2FgJ2p%2BrWLw%3D%7Ctkp%3ABk9SR4jT8eSDaA",
+        "url": "https://www.ebay.com/itm/287478427989?_skw=%28groudon%29+%2814%2Cemerald%29+%28CGC%2CPSA%29&epid=14043372407&itmmeta=01M0SDRMDEMT97J1NQY5M8XX4T&hash=item42ef0cb155:g:nDgAAeSwT55qYS1L&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC5aJ6tliNmTEAUldJZu1JaI08lbcs3WL2QtJ0aRjcJcUThcfEiw%2FeSEfPMgy2PkVjLPI6%2Br7y6CDfEnJM5hPgOoEUV4tGYm0%2ByG21sgU7BR9kpGneFjqRPq2LOV1BQHZSpvw3HxDJQU7Kc%2Blyda7edoV2BxF7l5c6xirAcUdhQjH6sIH4KTyq%2Fuxf0AH8KF7rVZg%2Fj%2FVd3cl4pNNGt5YXhos4T89JPwFXCmqrGqkuEvA7B7cIdDBOXn2E6F1M%2FSsFu0xVIE4hMyiTjGK2MuRuO%7Ctkp%3ABk9SR_7G4q2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/nDgAAeSwT55qYS1L/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787064622165,
-        "lastSeen": 1787215079202
+        "lastSeen": 1787559754294
       },
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "168628883801",
+        "title": "Groudon Reverse Holo EX Emerald Pokemon 14/106 PSA 9 - Pop 79 - Only 15 HigherOpens in a new window or tab",
+        "priceC": 150000,
+        "shippingC": 860,
+        "landedC": 150860,
+        "url": "https://www.ebay.com/itm/168628883801?_skw=%28groudon%29+%2814%2Cemerald%29+%28CGC%2CPSA%29&epid=14043372407&itmmeta=01M0SDRMDE2EGNR2JJD90FRCSY&hash=item2743109159:g:CiAAAeSwpfhqh3A1&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCW5lPZZAG6KB448a3qQCooRTTrvOL0M0OpHVvkELbZZDfr2nhFtrGH%2FJ3cIgoNDIJ1TIFdgPn1paBT0VPkth6PPhiOeDuTG8JiBFTMOSUZPtVXaWXyS0nD5nvQb2pK0b%2F896TXB6kOZBCDrJGV16dT%2FuvluAUGnMI8t4fraXD9BuXfW3a3BFRICN8RicxzZa0W1FDrUTenmZBWL6Tt63mpJOxAvAAukeqcxMgk5SR4XEoo9u8i60PwLc2XX3P4%2BPydmSjtlSr594xtrtHX5u2T%7Ctkp%3ABk9SR_7G4q2GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/CiAAAeSwpfhqh3A1/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787301204361,
+        "lastSeen": 1787559754294
+      },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 2
       },
       "ratio": {
         "ok": true,
@@ -71,11 +84,11 @@
         "ratio": 0.4928276825615556
       },
       "firstOpportunityAt": 1787064622165,
-      "updatedAt": 1787215079202
+      "updatedAt": 1787559754294
     },
     "prices": {
       "variantId": 4293,
-      "ungradedC": 24404,
+      "ungradedC": 20000,
       "grade9C": 85839,
       "grade95C": 94400,
       "cgc10C": 118000,
@@ -86,26 +99,67 @@
       "cgc10Pop": 14,
       "bgs10C": 133900,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787214719601
+      "fetchedAt": 1787559623112
     },
     "listings": [
+      {
+        "itemId": "168628883801",
+        "title": "Groudon Reverse Holo EX Emerald Pokemon 14/106 PSA 9 - Pop 79 - Only 15 HigherOpens in a new window or tab",
+        "priceC": 150000,
+        "shippingC": 860,
+        "landedC": 150860,
+        "url": "https://www.ebay.com/itm/168628883801?_skw=%28groudon%29+%2814%2Cemerald%29+%28CGC%2CPSA%29&epid=14043372407&itmmeta=01M0SDRMDE2EGNR2JJD90FRCSY&hash=item2743109159:g:CiAAAeSwpfhqh3A1&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCW5lPZZAG6KB448a3qQCooRTTrvOL0M0OpHVvkELbZZDfr2nhFtrGH%2FJ3cIgoNDIJ1TIFdgPn1paBT0VPkth6PPhiOeDuTG8JiBFTMOSUZPtVXaWXyS0nD5nvQb2pK0b%2F896TXB6kOZBCDrJGV16dT%2FuvluAUGnMI8t4fraXD9BuXfW3a3BFRICN8RicxzZa0W1FDrUTenmZBWL6Tt63mpJOxAvAAukeqcxMgk5SR4XEoo9u8i60PwLc2XX3P4%2BPydmSjtlSr594xtrtHX5u2T%7Ctkp%3ABk9SR_7G4q2GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/CiAAAeSwpfhqh3A1/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787301204361,
+        "lastSeen": 1787559754294
+      },
       {
         "itemId": "287478427989",
         "title": "Pokemon Groudon EX Emerald 14/106 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
         "priceC": 200000,
         "shippingC": 999,
         "landedC": 200999,
-        "url": "https://www.ebay.com/itm/287478427989?_skw=%28groudon%29+%2814%2Cemerald%29+%28CGC%2CPSA%29&epid=14043372407&itmmeta=01M0F4WD5M2JAS9K6DJEGXTA2Q&hash=item42ef0cb155:g:nDgAAeSwT55qYS1L&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA2GNxrW9sYdN%2F112ycDFe4%2FDzr2sOfhDgxi6wVzVkbOSrq16ALxigZmVV%2Fvl9nbervEmu%2FHEpXtJ%2F5cRIcU3hnyIJiMwJ48o%2B7VuW0myFzldD1lFHPz8Vj1BXN1MuNUGybUx3IyFHUgFlJm8%2F92NPK8Yz%2B01ypyAwRCabWteUoj88h8YzboA5OFFo6R7x9dscVuVJPajROfCxu2iL%2BmPB18sL8yq1Yos9UyLu15Za9Z%2BS8bJoSZak2tEpsDMlNJucRa3vmcLsgTzygHuNnhHJ%2F%2BEnGg%2Fvl25omRK%2FAbE6Vl4%2B6KlegYyzyA%2FgJ2p%2BrWLw%3D%7Ctkp%3ABk9SR4jT8eSDaA",
+        "url": "https://www.ebay.com/itm/287478427989?_skw=%28groudon%29+%2814%2Cemerald%29+%28CGC%2CPSA%29&epid=14043372407&itmmeta=01M0SDRMDEMT97J1NQY5M8XX4T&hash=item42ef0cb155:g:nDgAAeSwT55qYS1L&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC5aJ6tliNmTEAUldJZu1JaI08lbcs3WL2QtJ0aRjcJcUThcfEiw%2FeSEfPMgy2PkVjLPI6%2Br7y6CDfEnJM5hPgOoEUV4tGYm0%2ByG21sgU7BR9kpGneFjqRPq2LOV1BQHZSpvw3HxDJQU7Kc%2Blyda7edoV2BxF7l5c6xirAcUdhQjH6sIH4KTyq%2Fuxf0AH8KF7rVZg%2Fj%2FVd3cl4pNNGt5YXhos4T89JPwFXCmqrGqkuEvA7B7cIdDBOXn2E6F1M%2FSsFu0xVIE4hMyiTjGK2MuRuO%7Ctkp%3ABk9SR_7G4q2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/nDgAAeSwT55qYS1L/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787064622165,
-        "lastSeen": 1787215079202
+        "lastSeen": 1787559754294
+      },
+      {
+        "itemId": "318755572008",
+        "title": "Groudon EX Emerald Reverse Holo Rare #14 & Kyogre Emerald Stamp #6 PSA 9Opens in a new window or tab",
+        "priceC": 555500,
+        "shippingC": 517,
+        "landedC": 556017,
+        "url": "https://www.ebay.com/itm/318755572008?_skw=%28groudon%29+%2814%2Cemerald%29+%28CGC%2CPSA%29&epid=14043372407&itmmeta=01M0SDRMDEG5GY90G88THEYVAP&hash=item4a37500928:g:Jc8AAeSwk7Fqhg4e&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAzAm0CcYBk4m%2FnCTD79tyrjWhxj5jsYXPKajtR7CSCrIuo5QWyeQjtpDuja3dbRNukkhhWRZHK2K2jQ8YnJCMvzmUU6DaR3cFT%2Fu8TggQqfEOaRvi6fgf33pV9JcR%2F78uBxQ2J%2FPbfV13O%2B5uek8NsExX0IvecpK4wn3oedBg2DF3w17vVsc0cITPh3sby9wVTWJS7RwhH4k6giSoZFf7xksegQwLsljUSdPq12H03PZ3C4XaOx7whDkrTUvhfNSBGfHGrBmxtIwQwmii%2F101g%7Ctkp%3ABk9SR_7G4q2GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/Jc8AAeSwk7Fqhg4e/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787215079202,
+        "lastSeen": 1787559754294
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3281967,
+          "saleDate": "2026-08-23",
+          "priceC": 39151,
+          "title": "2005 Pokemon EX Emerald Groudon #14 Stamped Reverse Foil PSA 8 #14",
+          "url": "https://www.ebay.com/itm/237008744575?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 582800,
           "saleDate": "2026-08-17",
@@ -1559,9 +1613,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 110,
+      "englishSaleCount": 111,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787214717780
+      "lastCapturedAt": 1787559621031
     }
   }
 }

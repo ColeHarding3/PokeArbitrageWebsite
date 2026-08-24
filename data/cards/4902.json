@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 4902,
@@ -19,19 +19,32 @@
       "popularityScore": 97,
       "market": {
         "ungradedC": 6799,
-        "grade9C": 22951,
+        "grade9C": 23128,
         "grade95C": 51500,
         "cgc10C": 27451,
         "cgc10PristineC": 49400,
-        "psa10C": 196757,
-        "bgs10C": 255800,
+        "psa10C": 195845,
+        "bgs10C": 254600,
         "psa9Pop": 79,
         "psa10Pop": 56,
         "cgc10Pop": 11,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787215903264
+        "fetchedAt": 1787560016383
       },
-      "bestCgc10": null,
+      "bestCgc10": {
+        "itemId": "227470680919",
+        "title": "Eevee 69/113 Reverse Holo EX Delta Species Pokemon CGC 9.5 Mint+Opens in a new window or tab",
+        "priceC": 29999,
+        "shippingC": 999,
+        "landedC": 30998,
+        "url": "https://www.ebay.com/itm/227470680919?_skw=%28eevee%29+%2869%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=20043376071&itmmeta=01M0SE4Z3G8E87YVVMG67BSB37&hash=item34f64f2357:g:MW8AAeSwdh5qem4V&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA4IwdGKnjvKsqhpCq0ystPKcI97krkCPG5RsYIwkTIfufgdHY%2Fb7xOAQgDy6wwYEQspASk1DZsmS3j97UJAv1YE5QdIMILlv8G3O%2Bp2%2FYLChlK2VJ4%2B4zUwceGsU7qBYCa4jlDD5CbSGH5lpNqEn9dvM9cuFGSYuJ8GtFv6rzyqu3PxLi9K15jMyHvMVrxB%2Bbdtp9oNWBnY2nCNII32lDZg6rkziH5RkQVf7Ccu8843lCMHhZ%2BtBsc%2Bfi30683PtZ3RxWXpUFr8RCrCjKP49%2Fi%7Ctkp%3ABk9SR_bxk66GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/MW8AAeSwdh5qem4V/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787094580234,
+        "lastSeen": 1787560190120
+      },
       "bestPsa10": null,
       "bestPsa9": {
         "itemId": "398306568486",
@@ -39,55 +52,69 @@
         "priceC": 37500,
         "shippingC": 572,
         "landedC": 38072,
-        "url": "https://www.ebay.com/itm/398306568486?_skw=%28eevee%29+%2869%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=20043376071&itmmeta=01M0F6277H4ASACYTAYSBY93SP&hash=item5cbcebe926:g:kNgAAeSwM2lqhpoN&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBfJ4kMybvriIUEy9gQcgn9nEjKdNrZ7hU%2BSSAQeYvbehXdeGUglSuOdylU3uyez0562lsXStSpfumXG4f5gaoHlKp69bamSsvdP8IDcmJWz9vQIelFhivl6USVgu2UEIcp6qvLHiJXZy86csINbKBgEREfUj3ElPbY51wY%2BTIAeoB89JDs3IW3pE4lzlmsKLkrhlKrrNk2YvCGAgFJre%2B56QVP6FMc0VCRIbOfMPmJk6lN4%2FPrim0nAyHTa0JFO0u%2FugMEQYfmsLB5aLQzp3rDxy%2BzRRD8smLZsJfrr6jm8PFKHbrmSyRvrEbpKHt87ZA%3D%7Ctkp%3ABk9SR5b0iOaDaA",
+        "url": "https://www.ebay.com/itm/398306568486?_skw=%28eevee%29+%2869%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=20043376071&itmmeta=01M0SE4Z3GJEHKFDAYEJC6DT94&hash=item5cbcebe926:g:kNgAAeSwM2lqhpoN&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBfJ4kMybvriIUEy9gQcgn9nEjKdNrZ7hU%2BSSAQeYvbehXdeGUglSuOdylU3uyez0562lsXStSpfumXG4f5gaoHlKp69bamSsvdP8IDcmJWz9vQIelFhivl6USVgu2UEIf4yEZCfzN0cK%2BZQR4Uep2h9Cmjg3GgzdInESA%2BOO0nCc2E5KlBlCeWgfGhi9mNqYBQki68Sdx%2BB1q8Owk28F3e0tHdACcq3G9kxkK%2BoAuSOLQEtx4Q4iRCXAmxIJbyVV0IN%2B6lfvvPdVdtoFNfJ%2FzWrsAIdXv9tHT88cxsW8d%2FFpMKYSv8MOTtA5dO754RbhI%3D%7Ctkp%3ABk9SR_bxk66GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/kNgAAeSwM2lqhpoN/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787216261391,
-        "lastSeen": 1787216261391
+        "lastSeen": 1787560190120
       },
       "counts": {
-        "cgc10Bin": 0,
+        "cgc10Bin": 1,
         "cgc10Auction": 1,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
         "psa9Bin": 4
       },
-      "ratio": null,
-      "firstOpportunityAt": null,
-      "updatedAt": 1787216261391
+      "ratio": {
+        "ok": true,
+        "tier": {
+          "id": "express",
+          "label": "Express",
+          "feeC": 14900,
+          "declaredValueCapC": 250000,
+          "turnaroundBizDays": 30
+        },
+        "cgc10CostC": 30998,
+        "submissionFeeC": 14900,
+        "totalCostC": 45898,
+        "psa10ValueC": 195845,
+        "ratio": 4.266961523377925
+      },
+      "firstOpportunityAt": 1787094580234,
+      "updatedAt": 1787560190120
     },
     "prices": {
       "variantId": 4902,
       "ungradedC": 6799,
-      "grade9C": 22951,
+      "grade9C": 23128,
       "grade95C": 51500,
       "cgc10C": 27451,
       "cgc10PristineC": 49400,
-      "psa10C": 196757,
+      "psa10C": 195845,
       "psa9Pop": 79,
       "psa10Pop": 56,
       "cgc10Pop": 11,
-      "bgs10C": 255800,
+      "bgs10C": 254600,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787215903264
+      "fetchedAt": 1787560016383
     },
     "listings": [
       {
-        "itemId": "800537021352",
-        "title": "2005 Pokémon Eevee Reverse Holo EX Delta Species #69/113 CGC 10Opens in a new window or tab",
-        "priceC": 7600,
-        "shippingC": 795,
-        "landedC": 8395,
-        "url": "https://www.ebay.com/itm/800537021352?_skw=%28eevee%29+%2869%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=20043376071&itmmeta=01M0F6277GPEC6Y5Y4NHRRBN1V&hash=itemba63b98ba8:g:UNkAAeSwjU9qg~DL&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAxoFqWxyLsXSym4nxUgGK9P%2FZV%2Fh%2FNjPcrpNH6eaeMX0Yp3QWKyO0eNnheas1InvTn8FGAWi1goWZrbPrqDNeUjCP7%2BERvu7G411WtpQPTqE37Nn0fPfDYbTHcfU7iBSroI7bENPPx%2BpN4cg8u%2FSQiUGC%2BGqOypqbX7W2kwJxT5XkzCZjbidh9yRZG1jwHLjbbMAI%2FkxI3en%2BL%2Frw7dJcXCpuIo6et7Zwccc1roG9UcKibSM3MfFD4gmpMmM3%2B4m4Ca%2FaS0%2F82%2F503K1iJYQRbAv7fcQqdTS5J%2FSCkEYtPu2pb9SQL9kUrtGLGiAlKCqg%3D%7Ctkp%3ABk9SR5T0iOaDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/UNkAAeSwjU9qg~DL/s-l500.webp",
-        "listingType": "auction",
+        "itemId": "227470680919",
+        "title": "Eevee 69/113 Reverse Holo EX Delta Species Pokemon CGC 9.5 Mint+Opens in a new window or tab",
+        "priceC": 29999,
+        "shippingC": 999,
+        "landedC": 30998,
+        "url": "https://www.ebay.com/itm/227470680919?_skw=%28eevee%29+%2869%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=20043376071&itmmeta=01M0SE4Z3G8E87YVVMG67BSB37&hash=item34f64f2357:g:MW8AAeSwdh5qem4V&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA4IwdGKnjvKsqhpCq0ystPKcI97krkCPG5RsYIwkTIfufgdHY%2Fb7xOAQgDy6wwYEQspASk1DZsmS3j97UJAv1YE5QdIMILlv8G3O%2Bp2%2FYLChlK2VJ4%2B4zUwceGsU7qBYCa4jlDD5CbSGH5lpNqEn9dvM9cuFGSYuJ8GtFv6rzyqu3PxLi9K15jMyHvMVrxB%2Bbdtp9oNWBnY2nCNII32lDZg6rkziH5RkQVf7Ccu8843lCMHhZ%2BtBsc%2Bfi30683PtZ3RxWXpUFr8RCrCjKP49%2Fi%7Ctkp%3ABk9SR_bxk66GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/MW8AAeSwdh5qem4V/s-l500.webp",
+        "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
-        "firstSeen": 1787216261391,
-        "lastSeen": 1787216261391
+        "firstSeen": 1787094580234,
+        "lastSeen": 1787560190120
       },
       {
         "itemId": "398306568486",
@@ -95,13 +122,27 @@
         "priceC": 37500,
         "shippingC": 572,
         "landedC": 38072,
-        "url": "https://www.ebay.com/itm/398306568486?_skw=%28eevee%29+%2869%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=20043376071&itmmeta=01M0F6277H4ASACYTAYSBY93SP&hash=item5cbcebe926:g:kNgAAeSwM2lqhpoN&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBfJ4kMybvriIUEy9gQcgn9nEjKdNrZ7hU%2BSSAQeYvbehXdeGUglSuOdylU3uyez0562lsXStSpfumXG4f5gaoHlKp69bamSsvdP8IDcmJWz9vQIelFhivl6USVgu2UEIcp6qvLHiJXZy86csINbKBgEREfUj3ElPbY51wY%2BTIAeoB89JDs3IW3pE4lzlmsKLkrhlKrrNk2YvCGAgFJre%2B56QVP6FMc0VCRIbOfMPmJk6lN4%2FPrim0nAyHTa0JFO0u%2FugMEQYfmsLB5aLQzp3rDxy%2BzRRD8smLZsJfrr6jm8PFKHbrmSyRvrEbpKHt87ZA%3D%7Ctkp%3ABk9SR5b0iOaDaA",
+        "url": "https://www.ebay.com/itm/398306568486?_skw=%28eevee%29+%2869%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=20043376071&itmmeta=01M0SE4Z3GJEHKFDAYEJC6DT94&hash=item5cbcebe926:g:kNgAAeSwM2lqhpoN&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBfJ4kMybvriIUEy9gQcgn9nEjKdNrZ7hU%2BSSAQeYvbehXdeGUglSuOdylU3uyez0562lsXStSpfumXG4f5gaoHlKp69bamSsvdP8IDcmJWz9vQIelFhivl6USVgu2UEIf4yEZCfzN0cK%2BZQR4Uep2h9Cmjg3GgzdInESA%2BOO0nCc2E5KlBlCeWgfGhi9mNqYBQki68Sdx%2BB1q8Owk28F3e0tHdACcq3G9kxkK%2BoAuSOLQEtx4Q4iRCXAmxIJbyVV0IN%2B6lfvvPdVdtoFNfJ%2FzWrsAIdXv9tHT88cxsW8d%2FFpMKYSv8MOTtA5dO754RbhI%3D%7Ctkp%3ABk9SR_bxk66GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/kNgAAeSwM2lqhpoN/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787216261391,
-        "lastSeen": 1787216261391
+        "lastSeen": 1787560190120
+      },
+      {
+        "itemId": "800537021352",
+        "title": "2005 Pokémon Eevee Reverse Holo EX Delta Species #69/113 CGC 10Opens in a new window or tab",
+        "priceC": 50400,
+        "shippingC": 795,
+        "landedC": 51195,
+        "url": "https://www.ebay.com/itm/800537021352?_skw=%28eevee%29+%2869%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=20043376071&itmmeta=01M0SE4Z3G5NTJ72FP10NJNANM&hash=itemba63b98ba8:g:UNkAAeSwjU9qg~DL&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAkOehXTZVfI6ExmgDTgquxQj%2BLSeFxw%2FNNzh59hYU5JQP%2FiuSYb%2BrNO4mbgltHwnU%2B5ol70kfI%2FjzSuY%2BVAgri%2BMiyfHMb7%2FXkMJ7xcAscxQH%2FvA2vad4rBX1iP2ehBzXOuv4MK6R9GAeCrHDLIyWCjXGzVUybwCiqOfZF%2BV8w6aCQKP75G6sDjVv2Ts88Rzakz%2BS8EU5d0XVu2Yv15WgdJQGoKC2Wlb48Hl1qTz1%2BAG30IerJSfpwUYXpbOtjKqRtRtu6%2BXKq28u1%2BiGsd8AA%7Ctkp%3ABk9SR_bxk66GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/UNkAAeSwjU9qg~DL/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787216261391,
+        "lastSeen": 1787560190120
       },
       {
         "itemId": "188230596522",
@@ -109,13 +150,13 @@
         "priceC": 69999,
         "shippingC": 0,
         "landedC": 69999,
-        "url": "https://www.ebay.com/itm/188230596522?_skw=%28eevee%29+%2869%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=20043376071&itmmeta=01M0F6277J53125EFWHCE6Z3K5&hash=item2bd36af7aa:g:FmQAAeSwU5VpzCfH&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDRfLdETRBs7x18AMhvvw7ewWb--D%2FfPnhSYfbNQMKKOFLQkr8%2B4%2BrA6CpkmXE6RN3jyISEixVsasaF%2FnYzDOi4t%2Fzy52H8LXLhkqh6vPHuP0t1I7A4lqcFaNdXCNFEQ2w0G1DtWhaiLKcu2F92pRDaTMbrwp0IYrunCpbZnLBVyvqLkoXf7mjQ%2BfPbCdL3Mks%2Bo0ZALnL46QeKo26yNLWeNo2Icbwtmi0FjVtVVUxl20Fo64PucFIkRJO4XR1egUQGKxMKxqrgzNwaQU0ObwV5%7Ctkp%3ABk9SR5b0iOaDaA",
+        "url": "https://www.ebay.com/itm/188230596522?_skw=%28eevee%29+%2869%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=20043376071&itmmeta=01M0SE4Z3G3K52ZSB8D8TMK63D&hash=item2bd36af7aa:g:FmQAAeSwU5VpzCfH&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDRfLdETRBs7x18AMhvvw7ewWb--D%2FfPnhSYfbNQMKKOCb9fXuchili%2BT7FnbK%2BGaXrnzrMSMvUqrCOWJv%2FcjBWDy%2Fpsta9hdHimAzzfjCHbC4rxYweziYphtT1B7LMv2ZP8Lb9nflLmb7oC1BIAbDQzZMjeOvOx7geoYy60SrK52s9hpyj8leWUpYK1e7i2pbEFxAyZguOnGcPzVAZBXJEKE6NvO2IEI28Sp1A9eQ7iYTNPkPaW04hCwYfeZcFEC6N5s7UWwPxk4bfRNglvyfX%7Ctkp%3ABk9SR_jxk66GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/FmQAAeSwU5VpzCfH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787216261391
+        "lastSeen": 1787560190120
       },
       {
         "itemId": "389950943569",
@@ -123,13 +164,13 @@
         "priceC": 72500,
         "shippingC": 1059,
         "landedC": 73559,
-        "url": "https://www.ebay.com/itm/389950943569?_skw=%28eevee%29+%2869%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=20043376071&itmmeta=01M0F6277J9TNPTKZQ51YM2PAT&hash=item5acae33151:g:EMIAAeSw7clp8WZX&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCqt3MeCEbdydkAymzl1M3liBvQvQvoa4pTbCTg6MKo7YixM0fnYP2Z96PyL3eK3zepxftay8eCoVNA1O77%2FHEKPMlAPVD%2BH7A9nSxGz8u1sLaPJ7Di531tYexZKDsPXQmHX09WKfKARaAcaK2%2BKdrmgWYdrIPUY%2Bu4BSMXXoYxNuIzDigXadpOD1S1mvh5fvZBLvy6OpbMLunNLahMwX9T5X%2BG4bNzYWGFyXMJSTjokvrBt2MkD7Ezip7acqNQczpkvLZ9A19%2F4pRB8vk0KEDJxv4ttMJHuAFZBw3jEXsgN%2B1XioseTz0EhTvBYkjmVOg%3D%7Ctkp%3ABk9SR5b0iOaDaA",
+        "url": "https://www.ebay.com/itm/389950943569?_skw=%28eevee%29+%2869%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=20043376071&itmmeta=01M0SE4Z3GDEASVTMB3CJN661T&hash=item5acae33151:g:EMIAAeSw7clp8WZX&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAj2KcDJmmaawKs7E2UuS59gUpgYAIL3anSTTistSv9W98OvUjAObp3vbI9c6MJaglsWGrl9Un6xKG3QSQ4LotmmgK89%2F6VUOJhRyTHciUYDVIdLjDa5AYhMFb2YoVuhe1FTxfPjQrc5n8ccRIgt3pCek%2FaeprjvA4%2B8tULqkorZy3ZgiTm1w05RcsuX4ebBVJuzY7OSRYYj0q1T%2BA2ZqYBKDC9sVnDzD%2BPv%2Bk8%2Fkb5JN9EdGYkZY74cOFc2E0AW1QO25U9IMIK1LgseiF1r6gU%7Ctkp%3ABk9SR_jxk66GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EMIAAeSw7clp8WZX/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787216261391
+        "lastSeen": 1787560190120
       },
       {
         "itemId": "198582851011",
@@ -137,13 +178,13 @@
         "priceC": 150000,
         "shippingC": 0,
         "landedC": 150000,
-        "url": "https://www.ebay.com/itm/198582851011?_skw=%28eevee%29+%2869%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=20043376071&itmmeta=01M0F6277JGQPS4E4FMWN6SBYG&hash=item2e3c75d5c3:g:aSsAAeSwvgtqfOTd&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDOXcmss6fVnibdlPHV7t3Y3KhQOyxxVl%2BjVNDZyL%2BNPdpF%2FJSMkQ6gmjELDj0E3wMsxQ4pYyP3%2FtVdEn0IqWKmrQ823jWdmBiivN6wHrAyXaRXIYatWGo0Ki%2F8JNhAiFmn8rj8HVPsV4YN5PvzjItP72%2BqQkUcg6dlIa%2Bpc%2FPCCkOEzIWaSnXg3UAZduAl%2FSj0HZpriJKFSYaCcvDZqTp9oxcGw%2BK8V0BiO2q%2BlG5PU4WOg2Jccx64qX6FrpnVsQ2%2B2%2F8VcmhDjWbBbcBlrhZ%2FyWHSxwnH24SQRkQ803hVPhAz0poM%2BQSDc%2BS8FHKtYio%3D%7Ctkp%3ABk9SR5j0iOaDaA",
+        "url": "https://www.ebay.com/itm/198582851011?_skw=%28eevee%29+%2869%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=20043376071&itmmeta=01M0SE4Z3GV43Z4TMCK28QR5EN&hash=item2e3c75d5c3:g:aSsAAeSwvgtqfOTd&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDrtIKyBbX3VOKAsDJF8Bl5%2Fa3%2FpxLHCNR8YV2uWzng1pSQs6H5iogS%2B4MBqqYxhJRKsMW5elUA3c%2FnQTcxHXsOxIsc%2BzV9eC6O0H%2F82o8%2BlaZxEipUM7q%2B8uQsIT0txbMDba2c4mAKFcbwBL8KhGUMajz6ZZpMvZPFLSU79rjO9VbvZ8X%2Fnq8Wti%2BJs4a0QVMbh72a%2FfizQD%2B9nwYZcmXWEbsgSTYvdfEwaz3QDhBT6aFtn7DowBQsvKxFHOgWtDEATwfWH6yF5etRs9Ek4J%2BT%7Ctkp%3ABk9SR_jxk66GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/aSsAAeSwvgtqfOTd/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787216261391,
-        "lastSeen": 1787216261391
+        "lastSeen": 1787560190120
       }
     ],
     "marketHistory": {
@@ -185,6 +226,19 @@
           "gradingCompany": null,
           "gradingGrade": null,
           "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2562819,
+          "saleDate": "2026-08-05",
+          "priceC": 99900,
+          "title": "CGC 10 GEM MINT Eevee 69/113 EX Delta Species Reverse Holo Stamped Pokemon Card 69/113",
+          "url": "https://www.ebay.com/itm/327262547469?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 10,
+          "gradingDesignation": "gem-mint",
           "agreementStatus": "match"
         },
         {
@@ -236,6 +290,19 @@
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 4176066,
+          "saleDate": "2026-07-26",
+          "priceC": 14750,
+          "title": "Pokemon Eevee EX Delta Species 69/113 Reverse Holo CGC 9.5 69/113",
+          "url": "https://www.ebay.com/itm/287468641882?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 9.5,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1586,9 +1653,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 105,
+      "englishSaleCount": 107,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787215901419
+      "lastCapturedAt": 1787560014655
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 1352,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/9c99702a3d2963a29ea86053c9ddabc08358c600d5143c4e19ca871ecebee9af/1600.jpg",
       "popularityScore": 74,
       "market": {
-        "ungradedC": 5020,
-        "grade9C": 15375,
+        "ungradedC": 6498,
+        "grade9C": 15975,
         "grade95C": 30630,
         "cgc10C": 42459,
-        "cgc10PristineC": 117205,
-        "psa10C": 181250,
-        "bgs10C": 282886,
+        "cgc10PristineC": 116431,
+        "psa10C": 167800,
+        "bgs10C": 282243,
         "psa9Pop": 853,
         "psa10Pop": 180,
         "cgc10Pop": 83,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 2 sales per week\":\"volume: \\n    5 sales per year\"}",
-        "fetchedAt": 1787211058611
+        "fetchedAt": 1787556485082
       },
       "bestCgc10": {
         "itemId": "327277014038",
@@ -37,13 +37,13 @@
         "priceC": 55000,
         "shippingC": 0,
         "landedC": 55000,
-        "url": "https://www.ebay.com/itm/327277014038?_skw=%28bellossom%29+%283%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=14043371965&itmmeta=01M0F1BJ4WJ6S8MAG3NZ3NP1ST&hash=item4c333aec16:g:SSsAAeSwVDJqY97j&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAv4r1OnMip37vwxlh99k0o12wsuFyBlAfU%2B1%2BKzOF55MCYjpoEbZalA6y0dBHj4e4y5AUcHiRBaa0J%2Bz6chQG1iUalXQZsEVYi0TSioBPaGnd%2FWvS%2BZiEHcpQg2Kv%2BjRSnzCIFzBp9gv0a%2BgTpN%2Booc1uWCrNvX7hL8v7Ix7lEzSZsNnq5DDFC1c6stEMJf0fez%2BnQKdZn74JN5yA17Oevo2WzO%2ByMnEdnXb07o5u5afeWpGc%2F%2BStW0ZH2rgXVF6a%2Fv70u%2BE8NnadSZjx865ON%7Ctkp%3ABk9SR9SiruGDaA",
+        "url": "https://www.ebay.com/itm/327277014038?_skw=%28bellossom%29+%283%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=14043371965&itmmeta=01M0SAS0WSCNMBJKCGREN0D0EP&hash=item4c333aec16:g:SSsAAeSwVDJqY97j&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBPOM7gNGUKzb1sw2twn577ux6o0JjswZyy8glxD%2BrCnHmAJf7CyEtrTwd499h2C2yh344wsFRjGoLs%2FrWJsL--0xin2M2ekoC8lmJJB%2B3PMvCkZD0%2B%2BCcgL6kx%2BNuiOBpfn%2FhI%2FkrX8O5lTfRXMW8th%2B9EBXcOa72QJ2LXenhN1yNT1GP92XhXk1dUtRwRs0R0iJMBPy0iXUIFJsAAvKEFBkQLILl3KPtZaj5IMPqdbQ%2B6NKYfr8DEXg%2FTa2%2BbIDVdoBoPnBQp%2BvUGT7tLWa34dyp8V9fW4I6DGXnrRM%2F%2Bg5r8NWi%2FtifS5Fz7V50qQWU%3D%7Ctkp%3ABk9SR9iO5KqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/SSsAAeSwVDJqY97j/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787211216789
+        "lastSeen": 1787556630681
       },
       "bestPsa10": {
         "itemId": "206121668360",
@@ -51,22 +51,35 @@
         "priceC": 1799900,
         "shippingC": 0,
         "landedC": 1799900,
-        "url": "https://www.ebay.com/itm/206121668360?_skw=%28bellossom%29+%283%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=14043371965&itmmeta=01M0F1BJ4WN837WN9WD4EMS6BQ&hash=item2ffdcf0f08:g:8ocAAeSwtWhprkhS&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDGcFWm0OHGdYdbZnf15%2BK40ofVXXAtcQg%2Bfr3k%2FFUHXeGHIYflFCT1XIIXwmipH94H30kkvWS8pr3S3zwO3CMz5%2FIs%2Btwlha5xFpKWlo3wvPatwWGpe242wSWkxTf2lCQGn94dhwhtJCc5SRcG884n52LEpKQq6am2xWI0ors%2BJ1K3QoTYwnKfuqQoJ6G8iIxPRlDIdcdZk6VtT3OIJ1%2BZf8%2FHbDu8ceCDnQH%2BIKzOEPNbHPFT5XM%2FafM7lnwBZn6WY7kQ6NXgzwSn3OBwfHLZmbB6ad76Ot4mv%2B8BLkfykpAXUS7%2BRmDevrCnqJgfczg0gZ3wF%2FUs%2Bssd7ZfdIdt1%7Ctkp%3ABk9SR9airuGDaA",
+        "url": "https://www.ebay.com/itm/206121668360?_skw=%28bellossom%29+%283%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=14043371965&itmmeta=01M0SAS0WT7PV5MRYAYYDYRQ5M&hash=item2ffdcf0f08:g:8ocAAeSwtWhprkhS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCNGfYhzSENPhbNUsKNBxrHJhX24xpww2XEaRCNWoSu0X4TH41NMEAVK17gF7VnFCktGX83psLc7gt3Ab5VeWeo%2FIOjCDnQtqPMAJT2hyWsOkk92ztfI6uvGy4%2FKhidUER2SuPxa7nasmn%2Bam3JUmUd%2FUnwyPXfYL4mu%2FvfyjwM%2FlJ1Ru8NV7JVO8RKpRG7PUyTq2%2BrnWOWP8XA316gwMUEWGNIogSElg4JGDvBnUYzfY3cZtLHFPXEg99s2moNF0YCjBZzEuN4eYQckwwlxumHHlO%2B%2BKDDCoqDxrElMHoj4A%3D%3D%7Ctkp%3ABk9SR9qO5KqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8ocAAeSwtWhprkhS/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787211216789
+        "lastSeen": 1787556630681
       },
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "257693166314",
+        "title": "2000 Pokemon Neo Genesis 1st Edition Bellossom #3 1st Edition PSA 9Opens in a new window or tab",
+        "priceC": 22000,
+        "shippingC": 699,
+        "landedC": 22699,
+        "url": "https://www.ebay.com/itm/257693166314?_skw=%28bellossom%29+%283%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=14043371965&itmmeta=01M0SAS0WS7X5DAH1G1G1NWV1T&hash=item3bffb5aaea:g:r-QAAeSwFHNqhz-Z&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xADpNX34Ud0IRGigqmlDuqlfeqpzIttJDYamYzK30ENh0KQ%2FByX2TVRrVECqnaPQIpjA75dEnpwgzbzsz9vnRGEj3pFBz2x1y8Ga9OPCrkGRYC3OCF6cNWcgLN%2B5rfgbNyThQGF7FJvPTKmAtD01kqDu7kRNlcRAZp%2BaNF1JkHCAl%2BHsjinjHISS%2BuJvhTcXnV83%2B7Yk%2F25pKx9BzMedxUVdvP6BmMxdnNhX5tzR3L9RVq1eawmQchZLnCVHwzcvA1PoYdxHyebC143anqvRPNA%7Ctkp%3ABk9SR9aO5KqGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/r-QAAeSwFHNqhz-Z/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787298426293,
+        "lastSeen": 1787556630681
+      },
       "counts": {
         "cgc10Bin": 1,
-        "cgc10Auction": 1,
+        "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 1,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -80,41 +93,41 @@
         "cgc10CostC": 55000,
         "submissionFeeC": 14900,
         "totalCostC": 69900,
-        "psa10ValueC": 181250,
-        "ratio": 2.5929899856938485
+        "psa10ValueC": 167800,
+        "ratio": 2.400572246065808
       },
       "firstOpportunityAt": 1787046039169,
-      "updatedAt": 1787211216789
+      "updatedAt": 1787556630681
     },
     "prices": {
       "variantId": 1352,
-      "ungradedC": 5020,
-      "grade9C": 15375,
+      "ungradedC": 6498,
+      "grade9C": 15975,
       "grade95C": 30630,
       "cgc10C": 42459,
-      "cgc10PristineC": 117205,
-      "psa10C": 181250,
+      "cgc10PristineC": 116431,
+      "psa10C": 167800,
       "psa9Pop": 853,
       "psa10Pop": 180,
       "cgc10Pop": 83,
-      "bgs10C": 282886,
+      "bgs10C": 282243,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 2 sales per week\":\"volume: \\n    5 sales per year\"}",
-      "fetchedAt": 1787211058611
+      "fetchedAt": 1787556485082
     },
     "listings": [
       {
-        "itemId": "287524892649",
-        "title": "Pokemon Bellossom Neo Genesis 1st Edition 3/111 Holo CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 5600,
+        "itemId": "257693166314",
+        "title": "2000 Pokemon Neo Genesis 1st Edition Bellossom #3 1st Edition PSA 9Opens in a new window or tab",
+        "priceC": 22000,
         "shippingC": 699,
-        "landedC": 6299,
-        "url": "https://www.ebay.com/itm/287524892649?_skw=%28bellossom%29+%283%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=14043371965&itmmeta=01M0F1BJ4TGRGS6ZYEP5K879QZ&hash=item42f1d1afe9:g:RbUAAeSwtEFqfylU&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCxU%2FNwNA5scjbOAE1Qrcif0noZkhKJ8uCOyqF1G25qRuUHKCu8mFi5BZAktwPi%2FESc7R%2BkKPvFlGX43iydzw95Tsoxs5I%2BJCdA1vRBzPly66xL3ECIl%2B8mE23mr0CMlrMVJ97xmJYA3faAdaiaSUXFeDhCh%2B8SzMXD0DVRy6rHXWUyVUEoXCl5QKLrabgBHH%2FIfQc2h2CATCRApp3IMbikHPGhrFN1%2FVECE80fk2puURJAq1KqXHNMO8piWnzJXe3eBw3q7P8mCrbMZ%2F9j2VUCIVijR0mYeAEp3IH%2Fi8oY4o29jDccVhcoXZRZDZjCJvc%3D%7Ctkp%3ABk9SR9CiruGDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/RbUAAeSwtEFqfylU/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "gemMint10",
+        "landedC": 22699,
+        "url": "https://www.ebay.com/itm/257693166314?_skw=%28bellossom%29+%283%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=14043371965&itmmeta=01M0SAS0WS7X5DAH1G1G1NWV1T&hash=item3bffb5aaea:g:r-QAAeSwFHNqhz-Z&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xADpNX34Ud0IRGigqmlDuqlfeqpzIttJDYamYzK30ENh0KQ%2FByX2TVRrVECqnaPQIpjA75dEnpwgzbzsz9vnRGEj3pFBz2x1y8Ga9OPCrkGRYC3OCF6cNWcgLN%2B5rfgbNyThQGF7FJvPTKmAtD01kqDu7kRNlcRAZp%2BaNF1JkHCAl%2BHsjinjHISS%2BuJvhTcXnV83%2B7Yk%2F25pKx9BzMedxUVdvP6BmMxdnNhX5tzR3L9RVq1eawmQchZLnCVHwzcvA1PoYdxHyebC143anqvRPNA%7Ctkp%3ABk9SR9aO5KqGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/r-QAAeSwFHNqhz-Z/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
         "freshness": "live",
-        "firstSeen": 1787046039169,
-        "lastSeen": 1787211216789
+        "firstSeen": 1787298426293,
+        "lastSeen": 1787556630681
       },
       {
         "itemId": "327277014038",
@@ -122,13 +135,13 @@
         "priceC": 55000,
         "shippingC": 0,
         "landedC": 55000,
-        "url": "https://www.ebay.com/itm/327277014038?_skw=%28bellossom%29+%283%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=14043371965&itmmeta=01M0F1BJ4WJ6S8MAG3NZ3NP1ST&hash=item4c333aec16:g:SSsAAeSwVDJqY97j&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAv4r1OnMip37vwxlh99k0o12wsuFyBlAfU%2B1%2BKzOF55MCYjpoEbZalA6y0dBHj4e4y5AUcHiRBaa0J%2Bz6chQG1iUalXQZsEVYi0TSioBPaGnd%2FWvS%2BZiEHcpQg2Kv%2BjRSnzCIFzBp9gv0a%2BgTpN%2Booc1uWCrNvX7hL8v7Ix7lEzSZsNnq5DDFC1c6stEMJf0fez%2BnQKdZn74JN5yA17Oevo2WzO%2ByMnEdnXb07o5u5afeWpGc%2F%2BStW0ZH2rgXVF6a%2Fv70u%2BE8NnadSZjx865ON%7Ctkp%3ABk9SR9SiruGDaA",
+        "url": "https://www.ebay.com/itm/327277014038?_skw=%28bellossom%29+%283%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=14043371965&itmmeta=01M0SAS0WSCNMBJKCGREN0D0EP&hash=item4c333aec16:g:SSsAAeSwVDJqY97j&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBPOM7gNGUKzb1sw2twn577ux6o0JjswZyy8glxD%2BrCnHmAJf7CyEtrTwd499h2C2yh344wsFRjGoLs%2FrWJsL--0xin2M2ekoC8lmJJB%2B3PMvCkZD0%2B%2BCcgL6kx%2BNuiOBpfn%2FhI%2FkrX8O5lTfRXMW8th%2B9EBXcOa72QJ2LXenhN1yNT1GP92XhXk1dUtRwRs0R0iJMBPy0iXUIFJsAAvKEFBkQLILl3KPtZaj5IMPqdbQ%2B6NKYfr8DEXg%2FTa2%2BbIDVdoBoPnBQp%2BvUGT7tLWa34dyp8V9fW4I6DGXnrRM%2F%2Bg5r8NWi%2FtifS5Fz7V50qQWU%3D%7Ctkp%3ABk9SR9iO5KqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/SSsAAeSwVDJqY97j/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787211216789
+        "lastSeen": 1787556630681
       },
       {
         "itemId": "206121668360",
@@ -136,17 +149,56 @@
         "priceC": 1799900,
         "shippingC": 0,
         "landedC": 1799900,
-        "url": "https://www.ebay.com/itm/206121668360?_skw=%28bellossom%29+%283%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=14043371965&itmmeta=01M0F1BJ4WN837WN9WD4EMS6BQ&hash=item2ffdcf0f08:g:8ocAAeSwtWhprkhS&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDGcFWm0OHGdYdbZnf15%2BK40ofVXXAtcQg%2Bfr3k%2FFUHXeGHIYflFCT1XIIXwmipH94H30kkvWS8pr3S3zwO3CMz5%2FIs%2Btwlha5xFpKWlo3wvPatwWGpe242wSWkxTf2lCQGn94dhwhtJCc5SRcG884n52LEpKQq6am2xWI0ors%2BJ1K3QoTYwnKfuqQoJ6G8iIxPRlDIdcdZk6VtT3OIJ1%2BZf8%2FHbDu8ceCDnQH%2BIKzOEPNbHPFT5XM%2FafM7lnwBZn6WY7kQ6NXgzwSn3OBwfHLZmbB6ad76Ot4mv%2B8BLkfykpAXUS7%2BRmDevrCnqJgfczg0gZ3wF%2FUs%2Bssd7ZfdIdt1%7Ctkp%3ABk9SR9airuGDaA",
+        "url": "https://www.ebay.com/itm/206121668360?_skw=%28bellossom%29+%283%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=14043371965&itmmeta=01M0SAS0WT7PV5MRYAYYDYRQ5M&hash=item2ffdcf0f08:g:8ocAAeSwtWhprkhS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCNGfYhzSENPhbNUsKNBxrHJhX24xpww2XEaRCNWoSu0X4TH41NMEAVK17gF7VnFCktGX83psLc7gt3Ab5VeWeo%2FIOjCDnQtqPMAJT2hyWsOkk92ztfI6uvGy4%2FKhidUER2SuPxa7nasmn%2Bam3JUmUd%2FUnwyPXfYL4mu%2FvfyjwM%2FlJ1Ru8NV7JVO8RKpRG7PUyTq2%2BrnWOWP8XA316gwMUEWGNIogSElg4JGDvBnUYzfY3cZtLHFPXEg99s2moNF0YCjBZzEuN4eYQckwwlxumHHlO%2B%2BKDDCoqDxrElMHoj4A%3D%3D%7Ctkp%3ABk9SR9qO5KqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8ocAAeSwtWhprkhS/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787211216789
+        "lastSeen": 1787556630681
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3110556,
+          "saleDate": "2026-08-22",
+          "priceC": 2700,
+          "title": "Pokemon - Bellossom - Neo Genesis - 3/111 - Holo Rare 1st Edition - No Shining",
+          "url": "https://www.ebay.com/itm/407147266869?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 1898796,
+          "saleDate": "2026-08-20",
+          "priceC": 9200,
+          "title": "2000 POKEMON NEO GENESIS 1ST EDITION #3 BELLOSSOM-HOLO PSA 7 #3",
+          "url": "https://www.ebay.com/itm/307121185928?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 7,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 1898611,
+          "saleDate": "2026-08-20",
+          "priceC": 7101,
+          "title": "Bellossom 3/111 Holo Rare 1st Edition Pokemon TCG Neo Genesis WOTC LP 3/111",
+          "url": "https://www.ebay.com/itm/257677297441?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 243717,
           "saleDate": "2026-08-17",
@@ -1667,45 +1719,6 @@
           "gradingGrade": 6,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 243612,
-          "saleDate": "2026-03-29",
-          "priceC": 305000,
-          "title": "Pokemon Bellossom Neo Genesis 1st Edition Holo Rare #3 PSA 10 Gem Mint",
-          "url": "https://www.ebay.com/itm/287220018883?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 243743,
-          "saleDate": "2026-03-28",
-          "priceC": 9000,
-          "title": "2000 Pokemon Neo Genesis Bellossom Holo Foil Rare #3 3/111 TCG 1st Edition PSA 8 #3",
-          "url": "https://www.ebay.com/itm/298127851186?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 243745,
-          "saleDate": "2026-03-27",
-          "priceC": 10000,
-          "title": "First Edition 2000 Pokemon Neo Genesis 3/111 Bellossom Holo PSA NM-MT 8 3/111",
-          "url": "https://www.ebay.com/itm/389793168488?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1790,9 +1803,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 258,
+      "englishSaleCount": 261,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787211056639
+      "lastCapturedAt": 1787556482922
     }
   }
 }

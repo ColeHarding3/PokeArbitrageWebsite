@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 2751,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/2c9ae39c9536a79957f3378cebbeb1ebb9bfdb66a514dc85035f25bbdd2c2bb3/1600.jpg",
       "popularityScore": 75,
       "market": {
-        "ungradedC": 90000,
-        "grade9C": 615167,
-        "grade95C": 676700,
+        "ungradedC": 105872,
+        "grade9C": 615394,
+        "grade95C": 676900,
         "cgc10C": 275000,
-        "cgc10PristineC": 1026089,
+        "cgc10PristineC": 1024509,
         "psa10C": 2746342,
         "bgs10C": 3570200,
         "psa9Pop": 267,
         "psa10Pop": 216,
         "cgc10Pop": 30,
-        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787212731321
+        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    4 sales per year\"}",
+        "fetchedAt": 1787558089650
       },
       "bestCgc10": {
         "itemId": "327299863683",
@@ -37,49 +37,36 @@
         "priceC": 1250000,
         "shippingC": 0,
         "landedC": 1250000,
-        "url": "https://www.ebay.com/itm/327299863683?_skw=%28celebi%29+%28145%2Cskyridge%29+%28CGC%2CPSA%29&epid=8043378252&itmmeta=01M0F2ZXSGJYTC799HT2ZWCMR0&hash=item4c34979483:g:A2IAAeSw6fRqdk7a&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC9ZVu0yF%2BXp1GCHQj4YdDa2GATCZHnypsxQ%2FsSgef7WbVSixh8lH2HWrmu6Zs6%2F8OxdYB2ddqYjPnItRtIL46t1%2BfmrI9PTRfQpW7P4qYoGuprmWtRkn61lATLJrGOKX4vXSaxok0inbsG6UsM9Tz9v%2FYuBSKiIh%2BBrp9ck%2BKYdimNFZh30j3RUXtPbB%2BtVbZuZkJeIlYM2bpUR8Hd8cYA1QxWHzYaaM0YgQ8afH0bVUXRGmRaxuutdtV9zL%2FIzuWib%2BJjZiwh6wEm09K0mEDl0959Tl4BAnmHnr018qDebkjKOpjmmR6KQZ76ikHvJRA%3D%7Ctkp%3ABk9SR_rc_-KDaA",
+        "url": "https://www.ebay.com/itm/327299863683?_skw=%28celebi%29+%28145%2Cskyridge%29+%28CGC%2CPSA%29&epid=8043378252&itmmeta=01M0SCB8YJGBAX9W119TSKF71T&hash=item4c34979483:g:A2IAAeSw6fRqdk7a&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC9ZVu0yF%2BXp1GCHQj4YdDa2GATCZHnypsxQ%2FsSgef7WbVSixh8lH2HWrmu6Zs6%2F8OxdYB2ddqYjPnItRtIL46t1%2BfmrI9PTRfQpW7P4qYoGuprmWtRkn61lATLJrGOKX5cHWqkER2joVjx1MpWvqvYZb0XkME7V%2Bpyy2bJLLFHha4tY4aE9HAkJog3e%2FEAGbp8b9EZF3rFDm6GX52O%2BtxGGW%2F7G2L9CP8dyYaPSnxlVJVe%2FoLt6mKLKh8QZ0E7YNXnZSR877aJfOG6qc1oDm3sNj69kaPILIF%2FhI9O%2B7uEg8WrB5r0evhfcVvcHORg6BA%3D%7Ctkp%3ABk9SR7yPrayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/A2IAAeSw6fRqdk7a/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
       },
       "bestPsa10": {
-        "itemId": "157713089862",
-        "title": "Skyridge Celebi Holo PSA 10Opens in a new window or tab",
-        "priceC": 4000000,
-        "shippingC": 16816,
-        "landedC": 4016816,
-        "url": "https://www.ebay.com/itm/157713089862?_skw=%28celebi%29+%28145%2Cskyridge%29+%28CGC%2CPSA%29&epid=8043378252&itmmeta=01M0F2ZXSGA68K6MVSHVKQSEXM&hash=item24b86ec546:g:tXkAAeSwSgxpobe1&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCMNBTt8EqXyCS6XGhZUTD6aXqM%2BdWLTd%2BuOZHHhksUNQ6CfWeSlXZUpZzGFAk0Y%2FDx0MehO0UxKzeBaUF8MwkQtxe%2BMl0r%2BT%2FRjjIm4nwpfFOjmUot47darZcg7m48mjQWjRe6Do2tmb%2BXaw1dBIHSm6GujDLqW4d4UvC6xGiRn6SWnj%2FrT6MoBwdxKQoCjoZy9pjK7z9oQnBR%2Bidj1q31vEKFHyi%2FGKoUyaZnxtJN%2BUO%2Fk%2FPzGYEK7A1yR1Os4h%2F4WWIRdro2jtBrVMv%2BjHxYNzXTux%2BdX90UJ6xiBVCf7K%2FmkzWJQAJVREBaiY3JwPc%3D%7Ctkp%3ABk9SR_rc_-KDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/tXkAAeSwSgxpobe1/s-l500.webp",
+        "itemId": "307141251205",
+        "title": "2003 POKEMON SKYRIDGE #145 CELEBI-HOLO PSA 10Opens in a new window or tab",
+        "priceC": 3475000,
+        "shippingC": 599,
+        "landedC": 3475599,
+        "url": "https://www.ebay.com/itm/307141251205?_skw=%28celebi%29+%28145%2Cskyridge%29+%28CGC%2CPSA%29&epid=8043378252&itmmeta=01M0SCB8YJ8ZT3FJMATVQDZN0T&hash=item47830b9085:g:q54AAeSwicVqiiIE&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBQWaPwsBcAP%2FM7NJ85TDJWb2QcfJ4N3kVejgkX8Jt%2BLH%2FNiu5UePCD1UP9n9UlT06lsgBbDdfLSuMWRTgDaLmy8hPUPkERIBOxaz%2B9%2B%2BsgAchOyVHiQEVxKFnr6ibuYHNUGWzlmGrHm1B1zq3aeHtn6Ryp9tMiSEY2Ap2qiUIlaVJrxgQql%2BwLSrjFLAshka7W2Z1rEyBbJwyOJykWtS82KAlDoeegIRTT0amQeTZtj21eVgqxkKcYnrJag0cUITEDJQ2PHsAc%2BrwCWg0IqkVahAsrsHNXaRzM5LINDWME6B9piCDvuJTwgXY9b3z8sgc%3D%7Ctkp%3ABk9SR7yPrayGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/q54AAeSwicVqiiIE/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
-        "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "firstSeen": 1787472542569,
+        "lastSeen": 1787558299109
       },
-      "bestPsa9": {
-        "itemId": "147414098081",
-        "title": "Celebi 145 Skyridge Holo Pokemon Card w/ Great Swirl! PSA 9 MintOpens in a new window or tab",
-        "priceC": 720000,
-        "shippingC": 0,
-        "landedC": 720000,
-        "url": "https://www.ebay.com/itm/147414098081?_skw=%28celebi%29+%28145%2Cskyridge%29+%28CGC%2CPSA%29&epid=8043378252&itmmeta=01M0F2ZXSG8CFF3SC7EWPETEJ4&hash=item225290a0a1:g:kTQAAeSwmGZqR9z1&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBV1sJ73Inc3p%2BX0YdoWa6xkcZKYuWEIjMQSBOxkMZeeexttYIlDnSBbp0fG4kzjwcoSMBQhbkZYL8LDg%2BaZLitdAqMiRAfL67vmqoSfdLPmUnXEJDwqgHckK2%2FFsPNYjf4%2FzHbSPvK54o00QbRePLxXKBU42qQa2OmmhrrsnoJLekt4iZB2tBAejgCO2tZ0RlceyoYsDQx4KwY%2B2eO69FRITtLGnLQIb4o956WgAsjeNVPq1pDAXt%2B6bBz2ftkrPO3VPrC8Iq%2FbWHKxRjyCc4k%7Ctkp%3ABk9SR_rc_-KDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/kTQAAeSwmGZqR9z1/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
-      },
+      "bestPsa9": null,
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 2,
+        "psa10Bin": 3,
         "psa10Auction": 0,
-        "psa9Bin": 1
+        "psa9Bin": 0
       },
       "ratio": {
         "ok": true,
@@ -97,51 +84,51 @@
         "ratio": 1.894159597213601
       },
       "firstOpportunityAt": 1787055777278,
-      "updatedAt": 1787212943224
+      "updatedAt": 1787558299109
     },
     "prices": {
       "variantId": 2751,
-      "ungradedC": 90000,
-      "grade9C": 615167,
-      "grade95C": 676700,
+      "ungradedC": 105872,
+      "grade9C": 615394,
+      "grade95C": 676900,
       "cgc10C": 275000,
-      "cgc10PristineC": 1026089,
+      "cgc10PristineC": 1024509,
       "psa10C": 2746342,
       "psa9Pop": 267,
       "psa10Pop": 216,
       "cgc10Pop": 30,
       "bgs10C": 3570200,
-      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787212731321
+      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    4 sales per year\"}",
+      "fetchedAt": 1787558089650
     },
     "listings": [
-      {
-        "itemId": "147414098081",
-        "title": "Celebi 145 Skyridge Holo Pokemon Card w/ Great Swirl! PSA 9 MintOpens in a new window or tab",
-        "priceC": 720000,
-        "shippingC": 0,
-        "landedC": 720000,
-        "url": "https://www.ebay.com/itm/147414098081?_skw=%28celebi%29+%28145%2Cskyridge%29+%28CGC%2CPSA%29&epid=8043378252&itmmeta=01M0F2ZXSG8CFF3SC7EWPETEJ4&hash=item225290a0a1:g:kTQAAeSwmGZqR9z1&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBV1sJ73Inc3p%2BX0YdoWa6xkcZKYuWEIjMQSBOxkMZeeexttYIlDnSBbp0fG4kzjwcoSMBQhbkZYL8LDg%2BaZLitdAqMiRAfL67vmqoSfdLPmUnXEJDwqgHckK2%2FFsPNYjf4%2FzHbSPvK54o00QbRePLxXKBU42qQa2OmmhrrsnoJLekt4iZB2tBAejgCO2tZ0RlceyoYsDQx4KwY%2B2eO69FRITtLGnLQIb4o956WgAsjeNVPq1pDAXt%2B6bBz2ftkrPO3VPrC8Iq%2FbWHKxRjyCc4k%7Ctkp%3ABk9SR_rc_-KDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/kTQAAeSwmGZqR9z1/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
-      },
       {
         "itemId": "327299863683",
         "title": "CGC 10 GEM MINT Celebi 145/144 Skyridge Holo Pokemon CardOpens in a new window or tab",
         "priceC": 1250000,
         "shippingC": 0,
         "landedC": 1250000,
-        "url": "https://www.ebay.com/itm/327299863683?_skw=%28celebi%29+%28145%2Cskyridge%29+%28CGC%2CPSA%29&epid=8043378252&itmmeta=01M0F2ZXSGJYTC799HT2ZWCMR0&hash=item4c34979483:g:A2IAAeSw6fRqdk7a&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC9ZVu0yF%2BXp1GCHQj4YdDa2GATCZHnypsxQ%2FsSgef7WbVSixh8lH2HWrmu6Zs6%2F8OxdYB2ddqYjPnItRtIL46t1%2BfmrI9PTRfQpW7P4qYoGuprmWtRkn61lATLJrGOKX4vXSaxok0inbsG6UsM9Tz9v%2FYuBSKiIh%2BBrp9ck%2BKYdimNFZh30j3RUXtPbB%2BtVbZuZkJeIlYM2bpUR8Hd8cYA1QxWHzYaaM0YgQ8afH0bVUXRGmRaxuutdtV9zL%2FIzuWib%2BJjZiwh6wEm09K0mEDl0959Tl4BAnmHnr018qDebkjKOpjmmR6KQZ76ikHvJRA%3D%7Ctkp%3ABk9SR_rc_-KDaA",
+        "url": "https://www.ebay.com/itm/327299863683?_skw=%28celebi%29+%28145%2Cskyridge%29+%28CGC%2CPSA%29&epid=8043378252&itmmeta=01M0SCB8YJGBAX9W119TSKF71T&hash=item4c34979483:g:A2IAAeSw6fRqdk7a&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC9ZVu0yF%2BXp1GCHQj4YdDa2GATCZHnypsxQ%2FsSgef7WbVSixh8lH2HWrmu6Zs6%2F8OxdYB2ddqYjPnItRtIL46t1%2BfmrI9PTRfQpW7P4qYoGuprmWtRkn61lATLJrGOKX5cHWqkER2joVjx1MpWvqvYZb0XkME7V%2Bpyy2bJLLFHha4tY4aE9HAkJog3e%2FEAGbp8b9EZF3rFDm6GX52O%2BtxGGW%2F7G2L9CP8dyYaPSnxlVJVe%2FoLt6mKLKh8QZ0E7YNXnZSR877aJfOG6qc1oDm3sNj69kaPILIF%2FhI9O%2B7uEg8WrB5r0evhfcVvcHORg6BA%3D%7Ctkp%3ABk9SR7yPrayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/A2IAAeSw6fRqdk7a/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
+      },
+      {
+        "itemId": "307141251205",
+        "title": "2003 POKEMON SKYRIDGE #145 CELEBI-HOLO PSA 10Opens in a new window or tab",
+        "priceC": 3475000,
+        "shippingC": 599,
+        "landedC": 3475599,
+        "url": "https://www.ebay.com/itm/307141251205?_skw=%28celebi%29+%28145%2Cskyridge%29+%28CGC%2CPSA%29&epid=8043378252&itmmeta=01M0SCB8YJ8ZT3FJMATVQDZN0T&hash=item47830b9085:g:q54AAeSwicVqiiIE&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBQWaPwsBcAP%2FM7NJ85TDJWb2QcfJ4N3kVejgkX8Jt%2BLH%2FNiu5UePCD1UP9n9UlT06lsgBbDdfLSuMWRTgDaLmy8hPUPkERIBOxaz%2B9%2B%2BsgAchOyVHiQEVxKFnr6ibuYHNUGWzlmGrHm1B1zq3aeHtn6Ryp9tMiSEY2Ap2qiUIlaVJrxgQql%2BwLSrjFLAshka7W2Z1rEyBbJwyOJykWtS82KAlDoeegIRTT0amQeTZtj21eVgqxkKcYnrJag0cUITEDJQ2PHsAc%2BrwCWg0IqkVahAsrsHNXaRzM5LINDWME6B9piCDvuJTwgXY9b3z8sgc%3D%7Ctkp%3ABk9SR7yPrayGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/q54AAeSwicVqiiIE/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787472542569,
+        "lastSeen": 1787558299109
       },
       {
         "itemId": "157713089862",
@@ -149,13 +136,13 @@
         "priceC": 4000000,
         "shippingC": 16816,
         "landedC": 4016816,
-        "url": "https://www.ebay.com/itm/157713089862?_skw=%28celebi%29+%28145%2Cskyridge%29+%28CGC%2CPSA%29&epid=8043378252&itmmeta=01M0F2ZXSGA68K6MVSHVKQSEXM&hash=item24b86ec546:g:tXkAAeSwSgxpobe1&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCMNBTt8EqXyCS6XGhZUTD6aXqM%2BdWLTd%2BuOZHHhksUNQ6CfWeSlXZUpZzGFAk0Y%2FDx0MehO0UxKzeBaUF8MwkQtxe%2BMl0r%2BT%2FRjjIm4nwpfFOjmUot47darZcg7m48mjQWjRe6Do2tmb%2BXaw1dBIHSm6GujDLqW4d4UvC6xGiRn6SWnj%2FrT6MoBwdxKQoCjoZy9pjK7z9oQnBR%2Bidj1q31vEKFHyi%2FGKoUyaZnxtJN%2BUO%2Fk%2FPzGYEK7A1yR1Os4h%2F4WWIRdro2jtBrVMv%2BjHxYNzXTux%2BdX90UJ6xiBVCf7K%2FmkzWJQAJVREBaiY3JwPc%3D%7Ctkp%3ABk9SR_rc_-KDaA",
+        "url": "https://www.ebay.com/itm/157713089862?_skw=%28celebi%29+%28145%2Cskyridge%29+%28CGC%2CPSA%29&epid=8043378252&itmmeta=01M0SCB8YJXFC3VVB8PT7T1DJM&hash=item24b86ec546:g:tXkAAeSwSgxpobe1&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCMNBTt8EqXyCS6XGhZUTD6aXqM%2BdWLTd%2BuOZHHhksUNQ6CfWeSlXZUpZzGFAk0Y%2FDx0MehO0UxKzeBaUF8MwkQtxe%2BMl0r%2BT%2FRjjIm4nwpfFOjmUot47darZcg7m48mjSPYKD99zGsuD5827HzCiUYJRfpMqA%2Bb7NDaiPRJSiW6pQ1J9a0D5B611wnrQM7PQdqLzjMZ1W7HVQ3x9c03hjs%2FXoR36n6sgfJMJGdPyhQKl8F9MD6eMsVKHQJBsAXF%2F2Bp7lcmDGkF0QlRbSx%2FehC7D8%2Be0ZImmahTwDIVRgDFogsPasvE7kXvkiVg%2FBh65g%3D%7Ctkp%3ABk9SR7yPrayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/tXkAAeSwSgxpobe1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
       },
       {
         "itemId": "267321334412",
@@ -163,17 +150,43 @@
         "priceC": 10000000,
         "shippingC": 597,
         "landedC": 10000597,
-        "url": "https://www.ebay.com/itm/267321334412?_skw=%28celebi%29+%28145%2Cskyridge%29+%28CGC%2CPSA%29&epid=8043378252&itmmeta=01M0F2ZXSG0TDBSD6KT04TQ3NG&hash=item3e3d97da8c:g:D~EAAOSwwk5hzOyi&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCXQQMpeNV6Mtv96n5Rr0GwNU4182BgIJh%2BuhbrDoPX1KNIRO4LjsznHEdtmXrDDAa3gEbQrvuzAXRyOIkMYZvtYfiM14ByTYuDVXszls2dlV2E7QJ90pl2KK5km7WWlfSr48jnC%2BKiO4rLlqKICwVQ3NIlN%2BKFxfRw7sJrg1%2F6%2FoMvyc%2BI%2BCQGZFqaGWB2FB1VfwvNdSqXNYmqAwYSuwsmXxY9Ag5P9kidXgx7KBxAJaK0%2BGqzsBTI7Q%2FMigEA2QA8MoutOn82kpMhM5BL87bnw0Hilkm5caUT2CoKD35h1YXmktL7UuDMryRGSWsZKtc%3D%7Ctkp%3ABk9SR_rc_-KDaA",
+        "url": "https://www.ebay.com/itm/267321334412?_skw=%28celebi%29+%28145%2Cskyridge%29+%28CGC%2CPSA%29&epid=8043378252&itmmeta=01M0SCB8YJF9DBTD2A4QNAV9HM&hash=item3e3d97da8c:g:D~EAAOSwwk5hzOyi&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCXQQMpeNV6Mtv96n5Rr0GwNU4182BgIJh%2BuhbrDoPX1KNIRO4LjsznHEdtmXrDDAa3gEbQrvuzAXRyOIkMYZvtYfiM14ByTYuDVXszls2dlV2E7QJ90pl2KK5km7WWlfSpFcck9caqj%2BVcBdCZYndHc5PBfs5X5QrV%2FXegAsLQgUkfLHtVt82F1%2FFBVK2PtsiO5HEX9v3k90E%2BXcpi8bUK%2FeqwuuNrpUQZsh4qLFecVAvhPhbopX5BXZUh2gvk3WCIOVmaR0v5CSLtqijTJR%2FGinLKVIvYjCQpJImO7hG9c8cDH%2BlJfADlNshKet4dm2M%3D%7Ctkp%3ABk9SR7yPrayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/D~EAAOSwwk5hzOyi/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3174267,
+          "saleDate": "2026-08-23",
+          "priceC": 210600,
+          "title": "2003 POKEMON SKYRIDGE #145 CELEBI-HOLO PSA 5 #145",
+          "url": "https://www.ebay.com/itm/307127134876?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 5,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2339158,
+          "saleDate": "2026-08-20",
+          "priceC": 181486,
+          "title": "Pokémon Celebi Holo Rare Crystal Type 145/144 2003 Skyridge 145/144",
+          "url": "https://www.ebay.com/itm/158192142236?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 427648,
           "saleDate": "2026-08-14",
@@ -1707,32 +1720,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 427763,
-          "saleDate": "2025-09-26",
-          "priceC": 350000,
-          "title": "Pokemon Celebi Skyridge Crystal Holo Secret Rare #145 PSA 9 Mint",
-          "url": "https://www.ebay.com/itm/286840547547?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 427849,
-          "saleDate": "2025-09-22",
-          "priceC": 152100,
-          "title": "Pokemon Celebi Skyridge Crystal Holo Secret Rare #145 CHIPPED SLAB PSA 5",
-          "url": "https://www.ebay.com/itm/286815133989?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 5,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1817,9 +1804,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 227,
+      "englishSaleCount": 229,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787212729270
+      "lastCapturedAt": 1787558087453
     }
   }
 }

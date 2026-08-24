@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 460,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/9d922319794675089f85ad2a2ddc22f81aeed0600d012577e96fd9cafb860d92/1600.jpg",
       "popularityScore": 90,
       "market": {
-        "ungradedC": 3800,
-        "grade9C": 18000,
-        "grade95C": 19800,
-        "cgc10C": 38511,
-        "cgc10PristineC": 122600,
+        "ungradedC": 3100,
+        "grade9C": 18100,
+        "grade95C": 19900,
+        "cgc10C": 38471,
+        "cgc10PristineC": 126949,
         "psa10C": 172500,
         "bgs10C": 224300,
-        "psa9Pop": 0,
-        "psa10Pop": 0,
-        "cgc10Pop": 0,
-        "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    2 sales per week\",\"volume: 1 sale per day\":\"volume: \\n    2 sales per month\"}",
-        "fetchedAt": 1787209799051
+        "psa9Pop": null,
+        "psa10Pop": null,
+        "cgc10Pop": null,
+        "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    2 sales per week\",\"volume: 3 sales per week\":\"volume: \\n    1 sale per month\"}",
+        "fetchedAt": 1787555361106
       },
       "bestCgc10": {
         "itemId": "800455872129",
@@ -37,13 +37,13 @@
         "priceC": 42500,
         "shippingC": 607,
         "landedC": 43107,
-        "url": "https://www.ebay.com/itm/800455872129?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03VN2YNG9Z179B1SY57QW&hash=itemba5ee34e81:g:kbcAAeSw371qcPS~&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB8XXgHlS7WDVc889mcyb4V9DMRGcYYyrhzgmEYn01RFbdKNDq0sRZUPSVTfEDhjzJ1PnLA3yJxsKpQ9ZGOXMxx3Ic5Iu25HMEtMz%2FkKXgKzm%2BUTA7q9Dbcu5REHgCDRwByoaF4M0lsaTul4iQGYGmAQ%2FIYy88S72K5t8j2O3EKjHRoggGSv5qe3BvdDm1uREfJ0SxnCZ0Fp4pzfYgo%2BRFiTvXjocro7ZeKdmMzS3%2F2KIYJZ7I8DQ0JXBNNJf1du8GWQcqrP8N3Du%2BYcPt5O6hNTFdbT%2FNZpx6AhxThoV4qHQ%3D%3D%7Ctkp%3ABk9SR_C6j-CDaA",
+        "url": "https://www.ebay.com/itm/800455872129?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NJABKR9K5SX3QBGDQ83N&hash=itemba5ee34e81:g:kbcAAeSw371qcPS~&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCaQpWO%2FaEkWZ3%2Bjx1BUJSadh%2Fv9SzsxMdxd54z0FFFfntQDsjayTB09IwS0DkQ47NalHQTvi4fvUKZMnrtbV7QPzUILmSvBeyVmyXMiskGjq7Tfz5YLps%2FTMFno8Qgf2tuWUHPFcyXEmAEcw7kxvG3OS6ag3g6cw%2FKOR1zoHGIMT0BA0EA3VreA%2FejQpR75gNy%2FPX1iZR1CdeDzq9r5khsRhOozWf4982u9jcEcFZ%2FFgOR3vdS13A5GQ2Rfe1Us0jqrDDMA9shGLAW6Ijzkt7WmYxPQEZjnkGD4686YjtBQEDZiHv5QszMUOOgZQQtAciejiN9AJX8Y0ACZlRDqoV%2B%7Ctkp%3ABk9SR8il1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/kbcAAeSw371qcPS~/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       "bestPsa10": {
         "itemId": "178071415835",
@@ -51,34 +51,34 @@
         "priceC": 189999,
         "shippingC": 0,
         "landedC": 189999,
-        "url": "https://www.ebay.com/itm/178071415835?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F041J2TSG9YJ825FBR2310&hash=item2975e22c1b:g:XyIAAeSwVqBp6WzF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBsAXzZb4rlaJMBLahGHLMOiOeFJ%2BNi0sDGhrnWo0bVmZ0Lj19jNeMBUWtrjqhI7nsZLkiIWeWHoz0N%2B6CS1GjpKzgvFp%2BDWmFWMOGZsjD%2BOCCEJ1jbwtiyIhFTL8VdhX4OeDn7g6QgierkjfA2BmWBal1tNX3mWJVnjRs9Zo6bJWmKgD47Sqnh0CjGvgqQX%2BLpxkQGZ5ZoaKwaGsTXDtfpZPRTpCjOY8LisnuBwlezD%2Few%2FwKkner3UZfs7sCPofC2JXLUm136wB6JpBwlnqrvvxVnyklZ2GXZIO5uM2gtRw%3D%3D%7Ctkp%3ABk9SR56ZkOCDaA",
+        "url": "https://www.ebay.com/itm/178071415835?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0M4YZNX74XDDKSZD84DRMBS&hash=item2975e22c1b:g:XyIAAeSwVqBp6WzF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBsAXzZb4rlaJMBLahGHLMOiOeFJ%2BNi0sDGhrnWo0bVmQ7u35QakUM5dDxOiTgCzRWlUpgYKxc8WS6pihcXbe7jY%2B3HgG2dK05UEbeI7lXat0BilJE5OGQvH3URfwhNH%2F7cGmWmASrQoc7D2YToS%2BkmoR2QtTbFBGo2YKkftnCncpzN%2BnKml5tWX9WWlQU0ofB%2BoTpWdvQpAZmxQJ%2BlKXQTLAhuenkOwxYNe5Rc0Q23aeQ8MY02DkVjkVNPIdqGeB6kLOAmrOSrsG62MIxLDq3KFcWCGKJxpNyTrtPQ1UjOEg%3D%3D%7Ctkp%3ABk9SR8b7-4SFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XyIAAeSwVqBp6WzF/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787382758536
       },
       "bestPsa9": {
         "itemId": "147516608727",
         "title": "Pokemon Black Star Promo Dragonite #5 PSA 9Opens in a new window or tab",
-        "priceC": 17000,
+        "priceC": 18440,
         "shippingC": 0,
-        "landedC": 17000,
-        "url": "https://www.ebay.com/itm/147516608727?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03PKEYDS49MFKX1AMC8XW&hash=item2258acd0d7:g:5ccAAeSwRUZqhnGu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDVopTsnghbqBJdj5oNn0GjaI5wxdRj1%2FX7zELKqyF9j%2B3Tn8kz%2BRAVKIFS3rZmzZ9VQRccQ%2F%2B6hSiSERj3rXfnuLUwxDSTHDPO7fDE25nWXppAfrz3JAXHFME9Dv8nOFFJObtJdD%2BTuvK3GsY%2B9r%2F40hrmH8E3QxT1qIV%2Byol9MaYUIdm5JFNYnPcm2txuGZ3L9hkEDyLVkaPwhFQzkeg%2BONRgegd0Z9Tvr%2BLdbMYfTPa2ZSMIMdsz9v7MtiIzvGY3DETjsNgeaYr1Sqcg1bA%2FYBsJoeltWE3Em9gLNWnstg%3D%3D%7Ctkp%3ABk9SR4jqjuCDaA",
+        "landedC": 18440,
+        "url": "https://www.ebay.com/itm/147516608727?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0M4YKDWFYGXWEX5622EKNER&hash=item2258acd0d7:g:5ccAAeSwRUZqhnGu&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDy4soLPOSELpKfDa3Rvd67B6zAZCK21Cegz8VLCsMySdrCEapz6a1nimjFu1yPtj8POoCiVFT67bXRE1m6Gu5yBfdgg6iybjNSlaa69GZbToUD9DbOrd3%2B1bjV6opG48a5mozaiQhOnx%2BAsDN8CUEXNKcY1%2F1Z1Q7rur9x3UB%2FuY%2FKyBva13d8W0HOFQG1XE%2B3DrhByvGjQWWbeyeTYuz9SelQaRTuQh%2F73vdakayZ%2FRQV4YNDyDwRXib7xEQAhWB%2FIEt8jNjA10zjI1gCKQgqe3T3QV0gtWhEPzvtdDUdNQPrgBorELoX4SCCuYrRXQWPB%2FGnKef3DFo%2BT0p15oBk%7Ctkp%3ABk9SR6K3-oSFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/5ccAAeSwRUZqhnGu/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787209932750,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787382758536
       },
       "counts": {
         "cgc10Bin": 6,
         "cgc10Auction": 0,
         "pristine10": 1,
         "psa10Bin": 7,
-        "psa10Auction": 1,
+        "psa10Auction": 2,
         "psa9Bin": 13
       },
       "ratio": {
@@ -97,51 +97,65 @@
         "ratio": 2.9737790266691952
       },
       "firstOpportunityAt": 1787039418956,
-      "updatedAt": 1787209932750
+      "updatedAt": 1787555472276
     },
     "prices": {
       "variantId": 460,
-      "ungradedC": 3800,
-      "grade9C": 18000,
-      "grade95C": 19800,
-      "cgc10C": 38511,
-      "cgc10PristineC": 122600,
+      "ungradedC": 3100,
+      "grade9C": 18100,
+      "grade95C": 19900,
+      "cgc10C": 38471,
+      "cgc10PristineC": 126949,
       "psa10C": 172500,
-      "psa9Pop": 0,
-      "psa10Pop": 0,
-      "cgc10Pop": 0,
+      "psa9Pop": null,
+      "psa10Pop": null,
+      "cgc10Pop": null,
       "bgs10C": 224300,
-      "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    2 sales per week\",\"volume: 1 sale per day\":\"volume: \\n    2 sales per month\"}",
-      "fetchedAt": 1787209799051
+      "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    2 sales per week\",\"volume: 3 sales per week\":\"volume: \\n    1 sale per month\"}",
+      "fetchedAt": 1787555361106
     },
     "listings": [
       {
-        "itemId": "800536415393",
-        "title": "1999 POKEMON GAME DRAGONITE MOVIE PROMO #5 PSA 10Opens in a new window or tab",
-        "priceC": 5000,
-        "shippingC": 795,
-        "landedC": 5795,
-        "url": "https://www.ebay.com/itm/800536415393?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03HM3P3DFFF54D72CMPAP&hash=itemba63b04ca1:g:DMIAAeSwSUlqhfjQ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA0TEo1b%2FWWTMbiDw7F9Ret7q%2F1YqH%2Fuq0Xz9UguWZaz8CkvmfGQI7ZPF9xnBulV0YDarFoCI2V1wAEcnK9N%2Bee52qa5d772yEPTDObgnE6eK1elN4OWPjr2yagHmM%2BjwbgRHs4IHSq5AHaCJyle6NgtTDg50jvVArUi47%2FaVHdsaQvpiXr87kI3IjoyufkmMT5xJ8sUcU7n3o84eLIjjjcLXw0kjvqvWs8oY4p%2FBndYVVHUtMtFnPl2zHoWWeRAAcyldcNydRZV2cbqFHVOkRSRo0Pr48kYWSvDj0xpWWvOA%3D%3D%7Ctkp%3ABk9SR6yajuCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/DMIAAeSwSUlqhfjQ/s-l500.webp",
+        "itemId": "366620788642",
+        "title": "1999 Pokemon Black Star Promo The First Movie #5 Dragonite PSA 10 GEM MINTOpens in a new window or tab",
+        "priceC": 11250,
+        "shippingC": 2000,
+        "landedC": 13250,
+        "url": "https://www.ebay.com/itm/366620788642?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NDG9KNTSSVCZG2PTZ66Z&hash=item555c4d47a2:g:6loAAeSwEQFqiHMp&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDfAbGwIFq5mfJGRIZVtWvTDZQqOLdxNpgigROmy1rGo3ZNH2A7E75hV6l7FSMkh%2FwHOo84LsUUGDhjkdQqr2TnTTPddTkjmSXzjZqbwbkrkKcZJRIOJuRiW2ArBc%2FTxszvrKV7pRAB6a4lL78jBRqJf%2FKrFRiOMrcOTsXD%2BeY3vFhxE0J9hr0IJXQhyzm0k0wU1EE03McTli8oRYEQoRlu1y9BdU4UC5hTq4DKh4Gr1aUNxCcxHtJf1M4sUvghCEIRpvh2ZkfyS1STdO28ihgejp1ay4igOVjzSWz7h99LEA%3D%3D%7Ctkp%3ABk9SR8DY1amGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/6loAAeSwEQFqiHMp/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa10",
         "freshness": "live",
-        "firstSeen": 1787209932750,
-        "lastSeen": 1787209932750
+        "firstSeen": 1787382758536,
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "147516608727",
         "title": "Pokemon Black Star Promo Dragonite #5 PSA 9Opens in a new window or tab",
-        "priceC": 17000,
+        "priceC": 18440,
         "shippingC": 0,
-        "landedC": 17000,
-        "url": "https://www.ebay.com/itm/147516608727?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03PKEYDS49MFKX1AMC8XW&hash=item2258acd0d7:g:5ccAAeSwRUZqhnGu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDVopTsnghbqBJdj5oNn0GjaI5wxdRj1%2FX7zELKqyF9j%2B3Tn8kz%2BRAVKIFS3rZmzZ9VQRccQ%2F%2B6hSiSERj3rXfnuLUwxDSTHDPO7fDE25nWXppAfrz3JAXHFME9Dv8nOFFJObtJdD%2BTuvK3GsY%2B9r%2F40hrmH8E3QxT1qIV%2Byol9MaYUIdm5JFNYnPcm2txuGZ3L9hkEDyLVkaPwhFQzkeg%2BONRgegd0Z9Tvr%2BLdbMYfTPa2ZSMIMdsz9v7MtiIzvGY3DETjsNgeaYr1Sqcg1bA%2FYBsJoeltWE3Em9gLNWnstg%3D%3D%7Ctkp%3ABk9SR4jqjuCDaA",
+        "landedC": 18440,
+        "url": "https://www.ebay.com/itm/147516608727?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0M4YKDWFYGXWEX5622EKNER&hash=item2258acd0d7:g:5ccAAeSwRUZqhnGu&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDy4soLPOSELpKfDa3Rvd67B6zAZCK21Cegz8VLCsMySdrCEapz6a1nimjFu1yPtj8POoCiVFT67bXRE1m6Gu5yBfdgg6iybjNSlaa69GZbToUD9DbOrd3%2B1bjV6opG48a5mozaiQhOnx%2BAsDN8CUEXNKcY1%2F1Z1Q7rur9x3UB%2FuY%2FKyBva13d8W0HOFQG1XE%2B3DrhByvGjQWWbeyeTYuz9SelQaRTuQh%2F73vdakayZ%2FRQV4YNDyDwRXib7xEQAhWB%2FIEt8jNjA10zjI1gCKQgqe3T3QV0gtWhEPzvtdDUdNQPrgBorELoX4SCCuYrRXQWPB%2FGnKef3DFo%2BT0p15oBk%7Ctkp%3ABk9SR6K3-oSFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/5ccAAeSwRUZqhnGu/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787209932750,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787382758536
+      },
+      {
+        "itemId": "237020682010",
+        "title": "PSA 9 1999 Pokemon Game Movie Dragonite #5Opens in a new window or tab",
+        "priceC": 19800,
+        "shippingC": 562,
+        "landedC": 20362,
+        "url": "https://www.ebay.com/itm/237020682010?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0M4YKDWVDHH7HDEKP9T9SJP&hash=item372f88971a:g:2sEAAeSw3B1qh-8D&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCj5P35sR7L%2BZIT0GlKOV84ds6zDhm1GKJ5fsvmHdboxf5HTbVocaxjymlE5EnFhIBAR9Q4%2BjvCnwlfbD%2BDr0BwtGWU6iMulghrxUtZTCJGqBaQiWTZt0alYzuRX%2FM%2F3sQAB%2Fv8JolLaziuGDZDcC3sUGdlxSNSxw5L5OvXyar9jyOO%2FsWEm%2FYi5AKLAVBGr8KXvxtc%2FLiZH7IE0tTS6rK9F8DEfRBZC42ipZD5DguenrMxuYRjTMR50H8VsfJjI5X6j7jUutnMnwqcXZpayvzsFGokltPikkll3eV9JzgVITjxYtuDTetaTL6RRAaV3%2FDJw8FjHgWkZQSsIyaUR9ud%7Ctkp%3ABk9SR6K3-oSFaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/2sEAAeSw3B1qh-8D/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787296401499,
+        "lastSeen": 1787382758536
       },
       {
         "itemId": "318588534887",
@@ -149,27 +163,41 @@
         "priceC": 20000,
         "shippingC": 597,
         "landedC": 20597,
-        "url": "https://www.ebay.com/itm/318588534887?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03PKFX818J6PWWDHQ1XQA&hash=item4a2d5b4067:g:6yEAAeSw2OBqWB87&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDKLy%2BeneJNnDcTUUCyclbyboT2LY1aLHF26AeUUQl68tSX3bFbTonw0vJ%2BGJ%2FpsnoU5O8eiF2ZoH57c06gNEEjyDAZKkABMkX8SryQ5csVwHyi5IJe6bmvF%2FpgV46Q8eg8v0QrOtoHucjrLV94reDsfu9Lceympsunl0s0waff6kWkHwuwCLHmFZgn1sqg5fHkijZmAyhd7iNpVo3xuqLo7tcpd%2BSBlWO0hdQivRAgon6YXfvGzFXl4AXjLwj%2FtsQt33Kccg3MLV6SHHdEPKSMdful8q49qXlqy%2BEQIPjwTA%3D%3D%7Ctkp%3ABk9SR4rqjuCDaA",
+        "url": "https://www.ebay.com/itm/318588534887?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NDGD3NRWMWS5269BC4Q7&hash=item4a2d5b4067:g:6yEAAeSw2OBqWB87&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAhKAeKEi5rfN2nHkKgcDMKxS6eYCjnfp%2BuuFmo%2Bhp4vHzkwXx%2BVVM%2BewdZ971y%2BIxwB17shCu2kqi8zKTOLpNpKI0juV8Y5uSTpOLsO0q%2BkNs9J%2FMMyWOF0ianH9EfGQveecGltps1P2%2FXDw%2FzQl3t1nVMWIhbtGCc%2FaF5cdE3qvD12pVOViIGNocx2aZWajJDecQzAZPSScO3xPATDV6iemSi1XGNNsvXDPIt%2BhvFgH53%2FyaKZONM4O3bJrQRsV%2Br%2FRg0cAUO2gkNHTAkinqC0KwHVJuDAGqX%2FdePCzv3Z7kHm87wxB6mEdpv6Fp6geS1Af%2FlA5rVVhwLxpIQrO6f%7Ctkp%3ABk9SR8zY1amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/6yEAAeSw2OBqWB87/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "366539848591",
         "title": "1999 Pokemon Game Dragonite Movie Promo #5 PSA MINT 9Opens in a new window or tab",
         "priceC": 20950,
-        "shippingC": 607,
-        "landedC": 21557,
-        "url": "https://www.ebay.com/itm/366539848591?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03PKFGN87H9AC383A6DCN&hash=item55577a3b8f:g:J04AAeSwhnRqTDS6&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC0tI1Hwdg5juI7iTRvbvj9X0bW3nOW65Ka6tUI5dZyhTd2XlgA311SR%2B%2Fgk7C1sbuKngidDAvLaT9URHrybtDKEdK%2BNlWiO8GHLNDDVXgT8WL%2Ftm8OeBBHvwseo26t%2FF9ib6ngeROAOyLpS0qZ%2BnFNgK25ROTDcAX6Jz76qlzn6jr3MCT9hY1V6s6cR80UU%2Fd%2FbvpEs%2F1M6GFkX13H19POGsGwHiMmXd2qzp669wATcFZxVDoRLVW1ux4CZHF%2BQcciJW%2FOizBQRytoNrhbjbQ4U5KIPnU3I6wV0%2FDOdrWnEau2%2FRwYJkrywSetVgm6zkXb%2FuS%2FhQ1Ko4yYoFgXDn%2Fr%7Ctkp%3ABk9SR4zqjuCDaA",
+        "shippingC": 583,
+        "landedC": 21533,
+        "url": "https://www.ebay.com/itm/366539848591?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NDGDRD4PKG8V6Q0PFKKY&hash=item55577a3b8f:g:J04AAeSwhnRqTDS6&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCIw8tUvrSvOF7Fe9Tu02H0rp5dSjD5WQsGlgAmcV6ib5REeUQaIW%2FHYG8fUX6eA6Goz0JI0z4BhcGok8oX0zQYx7WKYERMhjrlON%2BI3b3lL%2FGEi9CgwKJ49u8SaLBQnSnbeT6L8fwFJ8n0NN9A74L69mxRhtEKRyPf3mlGWY0ZZXejCJInkVYmCh9P4m1zWFxCXl%2FVina37mU5Rog6DKk%2F12P%2FPiKsl3jSfQP9mAwzFboG1x5l3K7797jj96dOkAGwQzmrjaw3pQ9Hy%2B4o1e7GicFT9Xf%2F%2B%2BB3QrMzBg7xCg%3D%3D%7Ctkp%3ABk9SR87Y1amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/J04AAeSwhnRqTDS6/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
+      },
+      {
+        "itemId": "188744292349",
+        "title": "#5 Dragonite 1999 Pokemon Game Movie Movie Promo PSA 9Opens in a new window or tab",
+        "priceC": 20999,
+        "shippingC": 675,
+        "landedC": 21674,
+        "url": "https://www.ebay.com/itm/188744292349?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0PQ9P8V31P18PH2WP3MXQ65&hash=item2bf20957fd:g:ElUAAeSwDTBqcmUQ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAe%2Bf67Iz2sh6ht0h7nP%2Bksgn1Uo%2FZx3JD4TTDhyEkJ2E4NOfVAR3hwq7jxDcItd8QIvN3vF57%2BrDv9LqfJZy8BZkPw7eyusSH0Xxxd9mf%2FddTnBrXr5nxvc6EAWN1yR3E%2B441yKFZcggnZhVtV%2FfExeF0iX2KD1tgBvR%2FVNleTnyfJTKuu70A3IAuPJ3Oi7zm3DJcoUWLVt9YxzK4qEGIdBrN4N9Vzet4WbeNFxzY0AtOoVbHY7v8sb5lE8sfCsnpmTLgZxGdwXpby9Gj8Jmio4O8804nRP2dXiPPJn1cgy7SWPiWnwRkv8uqVyBQzr%2F2lS7YuIOK6yNpLdZvYSRSd%7Ctkp%3ABk9SR-TkpteFaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/ElUAAeSwDTBqcmUQ/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787039418956,
+        "lastSeen": 1787469106787
       },
       {
         "itemId": "188768873646",
@@ -177,13 +205,13 @@
         "priceC": 21500,
         "shippingC": 597,
         "landedC": 22097,
-        "url": "https://www.ebay.com/itm/188768873646?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03PKFS30KF6WZN1CP9JHZ&hash=item2bf3806cae:g:7wMAAeSw-wlqeSCt&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xASg8QWEnesZzKW453n19SEMEvC9ywPaypj0tZk7BClO01afwosvvcFIA6AotmZTN0f%2BrkKHD%2BFTx8PU4Oo8eyXxZ2prfFHcTf61xVeQTnA2DV%2BB3HrKpmUw0CROpdOFsr6%2F1TnvgmReuHSArQKoQc753tyb4XQ8MVJTeSjkoCDcfiIOu9cczNyBuR9XX0GCa6vJ%2FqKW1CnUKbQEYhEFNolKUO3h9C%2B19qfqCRIYRxudZMf2lITqBiSBdt%2BNYmQtdDIjSREtfSqqUZ0C9pKG4jxmCNReGWldHWg3zO6zcdYWS8RYa2ni2Pa8Z3PkHMkIugBL0%2Bt28tv6jNySec5rlDw%7Ctkp%3ABk9SR4zqjuCDaA",
+        "url": "https://www.ebay.com/itm/188768873646?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NDGEQ2HMKNR7YE8N3W6D&hash=item2bf3806cae:g:7wMAAeSw-wlqeSCt&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xASg8QWEnesZzKW453n19SEMEvC9ywPaypj0tZk7BClO01afwosvvcFIA6AotmZTN0f%2BrkKHD%2BFTx8PU4Oo8eyXxZ2prfFHcTf61xVeQTnA2DV%2BB3HrKpmUw0CROpdOFsomPw%2BDeBrbJSWCCSTrF%2B7CVKB59Lj8oW84BEQ%2Bi7HZnt8bLVtajZBK0BzUvOSdGBhBNjfewy9Ea6aRXasK0jB7TtuX%2Fne5%2BwBPGwTaRT5YD%2B2wpRNmXhsWQvirccSDBxgrXRypzXTvzCspky%2FGmsi16savA7HNmOyWOElBHkNJ%2BesEWaVkj2t0MLSqUKhjWBHdYw3kBKLLZrhgo%2Feo21TB%7Ctkp%3ABk9SR87Y1amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7wMAAeSw-wlqeSCt/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "158021252340",
@@ -191,13 +219,13 @@
         "priceC": 22000,
         "shippingC": 517,
         "landedC": 22517,
-        "url": "https://www.ebay.com/itm/158021252340?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03PKFVZD0DHQEWY4EZGNZ&hash=item24caccf4f4:g:u00AAeSwt5BqOx0q&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD5XMZVfdT%2F7cmQ5pVW7GMbFdyns3iJ3s8SaIVausE%2B4ox16QYs0I12ZGIZJPjWZ5C3UaD97y6qq3eCUzWytK0D1bEDMeD0tYPqhVw3XEbPA49Bk%2Ba9AbBdr2KSAEMQomZeDlcRJCuUUK4qk216u5WFLtvF2KShmqUVSbky8QS4t%2BU0DuvCjZR%2F2WwZPrj80o6rN%2BIX7CJNcvJy699PF9lC%2F4Vbk3nviFzyFlIb9zVOlu6qsV7knDY96GJgGbJlD8VfWxQl0yfqxmOp5h1%2BxkKUK9FFGg%2BbghNfVTvq4q2UICYXvk9mQAL7IQ6PTggdb44zg5a7XbbuqZC9BI2A%2BB6t%7Ctkp%3ABk9SR4zqjuCDaA",
+        "url": "https://www.ebay.com/itm/158021252340?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NDGEE9GGWQC2482QGMC5&hash=item24caccf4f4:g:u00AAeSwt5BqOx0q&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCKpwa8ZGGSn6Q4Y3xVCyeJ%2BqBQ784LVdX%2FZzQZZixQ72qb9kZSviCGZzQC5d%2BnxWyhCKKDV%2FaBGcdByFwK3cJYupAR%2FxZUZwoXKUKoAtmXLK0ZozRT%2FYy3%2FIRYQH0dUAG%2Fvyo2nqTr5Vl%2Frk2AVRg3o8BT4B7Pu8E4u9AZbfMhTzLg%2BAqddMstAygb%2FiAzBcWGrPaWY7%2FmRXuRCvPZiZ7VM%2BXEVo8OoUxxvLppJPM0M3tG60CvJbrTcpQgihQX3unQdlHfVNhxyc%2FBrqDw%2B31qJ891Bdd%2BTHfoivZovY%2Buuw%3D%3D%7Ctkp%3ABk9SR87Y1amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/u00AAeSwt5BqOx0q/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "278160126161",
@@ -205,41 +233,27 @@
         "priceC": 22500,
         "shippingC": 562,
         "landedC": 23062,
-        "url": "https://www.ebay.com/itm/278160126161?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03PKG1RQ62G9ZJ1ZTF6P0&hash=item40c3a2b0d1:g:QgwAAeSwKEZqTAhY&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDx2Iyf3jqlUbDmQVn%2FbRbWi2jz2Tua6Kq%2F4XARFbicSigkiY2fhBFv7miHX2qb1O9YZ02sYJjfvqLwAjrfAIwylfSo2GMwblthZ8n06T2oDu8BRHRe3YVyAFr5%2BZ4s4vZw4LBLQeRx1%2FTvxL%2BhBB3jtGsEn%2FomZQOhKK4K6ZxWq52YL74O0K7a5DYISDI3PRRaW6QfoMUa%2B6BSusY6%2ByE8h7yZT4jypwdfXapTZdEpqttGn6yaPPSSfH38B3ycp13zwrVfXxQwDtcW2zQGjAogqFMdpSyM5mdlhM7Mk2u%2B8Q%3D%3D%7Ctkp%3ABk9SR47qjuCDaA",
+        "url": "https://www.ebay.com/itm/278160126161?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NDGEM5MMF2MX28EKY453&hash=item40c3a2b0d1:g:QgwAAeSwKEZqTAhY&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDx2Iyf3jqlUbDmQVn%2FbRbWi2jz2Tua6Kq%2F4XARFbicSmO6RmI%2B1FTIgQTzqW2RHnDz4n62jqLbzgxrwbfMKSuJaVBg8gtgnwfoL4IvtE05ILrhHerj70KdHoy60nig6L6A3bHx6sKvZupbqX8RK5nxcobkbQ9wDxEXrPmopeTDaJHDvB%2FPE4Xogh4Ll%2FGOofNdbUcB%2F9v4isOCa0VHM3lCu7sgV0S%2FfnEa4qKYul2mbjMVQsZYzjIn1exp1NvhdejBv0nEg4Du1b6YjzBDSXJp4dBjOrIcWIVnDfBzi%2BQh3Q%3D%3D%7Ctkp%3ABk9SR9DY1amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/QgwAAeSwKEZqTAhY/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "398225834462",
         "title": "1999 Pokemon TCG Dragonite Movie Promo #5 Holo English PSA 9 WotCOpens in a new window or tab",
         "priceC": 22499,
-        "shippingC": 597,
-        "landedC": 23096,
-        "url": "https://www.ebay.com/itm/398225834462?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03PKFGXDNYM78FSPM4D6K&hash=item5cb81c01de:g:u3cAAeSwK8xqaWe~&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xASawZM2OSGB2IcP2MIcWcSzEbLamCwE9%2B9XQNF%2Bkmw3XQzc8nqaT7%2FVS8Br5n4WZ1RlZhE2Ys6KVUUyatSu%2B6Dy59duIVtFFqbXAR%2BI30xkDIs6dYZfK1RIvJHQ6Qu1IVU5cLiO5ZWC%2BqvfwCoY7m%2F5ThtrTVxdIMh74si1Ms7DbcV2feQKFXSjJ9xYpCzepbHB8ioXNBANT%2FEEhI7B0uv6vr227WrUaremoE%2FONwwidBV2aWMhu5wQUBLqoKD2g%2F7s2ghRALKBgetP8lkRDx9Dvzi4ax6C9F577Ovp%2BRuihRv1doXELj%2BpUJU%2FseOpdORyUeedCAoN%2FSesVpT0Dtn%7Ctkp%3ABk9SR47qjuCDaA",
+        "shippingC": 572,
+        "landedC": 23071,
+        "url": "https://www.ebay.com/itm/398225834462?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0HJHN7X0XKM5J9DCH4W1NR5&hash=item5cb81c01de:g:u3cAAeSwK8xqaWe~&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xASawZM2OSGB2IcP2MIcWcSzEbLamCwE9%2B9XQNF%2Bkmw3XQzc8nqaT7%2FVS8Br5n4WZ1RlZhE2Ys6KVUUyatSu%2B6Dy59duIVtFFqbXAR%2BI30xkDIs6dYZfK1RIvJHQ6Qu1IXwU0uyEW%2BK1vM%2FH6evtWia%2FE3HGWTVKR2d3woQSvf4I1pHn4ARw60FkW72YHWO5GUjHbjOvSJ9I98fJiuW5tjf2Q9v%2FbVQOEkgPYPQ1Bvp0LeSBppLB1CeZFpZ%2F7FjiZeA1EOFr8sfvPt8%2FZcBV1ic3E5PKW1nE%2BcIQQ7aEH6%2FfdlQ8NdcrTfWRKYy%2B5yxveYtikL7XHfM3jJb3OU%2FolvK%7Ctkp%3ABk9SR7bUxrKEaA",
         "imageUrl": "https://i.ebayimg.com/images/g/u3cAAeSwK8xqaWe~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
-      },
-      {
-        "itemId": "188744292349",
-        "title": "#5 Dragonite 1999 Pokemon Game Movie Movie Promo PSA 9Opens in a new window or tab",
-        "priceC": 22499,
-        "shippingC": 675,
-        "landedC": 23174,
-        "url": "https://www.ebay.com/itm/188744292349?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03PKGTE07G8SBWNV5VQMV&hash=item2bf20957fd:g:ElUAAeSwDTBqcmUQ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBzpyGC1inAj0Iy5tkQrkdquDCS9EL6E8F1I77T6I1l43gz9PkrXvveExHk%2FF1rO8ei%2FTy9vKopPUdn11ptn0b8kmw6zq%2BIuzz6%2BR19VeAyCfiP%2FhmuAjkwYCTjYh44a3%2FSt7usCdjswR9ELPKZRFXzC91YBjD4TblpXqziVeVLMjERWBUInjKgqIVwVZ%2FgN8XXScB7FdKpYv4sAQ2bjinOS68DlUcCxHo3F2KuVQ2ZLNgGccSVtOMZwvkWlHCjjBBGMv%2BUNm6lDSBMqyDYnzmajzKL9jNswXzx7B0NJDMDsg%3D%3D%7Ctkp%3ABk9SR47qjuCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/ElUAAeSwDTBqcmUQ/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787296401499
       },
       {
         "itemId": "800156783604",
@@ -247,13 +261,13 @@
         "priceC": 24000,
         "shippingC": 548,
         "landedC": 24548,
-        "url": "https://www.ebay.com/itm/800156783604?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03PKGYYADK8YKBH51QZ4K&hash=itemba4d0f93f4:g:WfEAAeSwjoNqKcFb&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCuGrh2qE%2Fn6bGaESrw1KEuewmIqZ1aE8PzhJqPxFgXMFJqtoTp6CoPlX9z0rA8Y8W26Jt3avZJ7w9O4pGfUY22KpMdslWD%2FvglhEmyNXm03AyO3XWiSAsS7PtvAW%2BR9B5jqTzG1BR3HSV73FzIGVcjUfrR3%2BFNeFrmpAUKBbKUVEKTxGAW0I8exruJd4qTZpHKNyuYLw1TFAa2rrTx6%2BFRUuuCkLq6CE4JCcJmdkvfZW98BKhPom7%2FkXA4vAySgQZyAX4iF7rcimiRhVNpmeri3KB4DhRWf%2F59%2FDzB0VCHb2pKhTVyeCJiK9Alzd4ISPvsCeStozU0twlzpLRsbD8i%7Ctkp%3ABk9SR47qjuCDaA",
+        "url": "https://www.ebay.com/itm/800156783604?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NDGEDG9ZDC4KJM7W4MZH&hash=itemba4d0f93f4:g:WfEAAeSwjoNqKcFb&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC6Xn%2BIjiUFq2ymb3sDd91%2B8PuylwNxdFDdUc97xvq3K%2B4JHMoFReF4CaXdikAcq25aLVoos9LizKNjg2Uic8jAC%2B27rGUxnZ5NILNdJpnioPp3tBq1Kx9ixmw5fJKzX7xxhucPWSchOXNHU1xdW7NmbXIqZAFtLSRJ%2FN4V3Rj3S7WAjFPeOOMSenCI29haQhEhIkaNqprpq4ijblrFfR%2Fo%2FNg73FXtsz3fCvxojch164L4CFOGiIwr9%2BxvL7EuAEgGXje9cycwYVUYsIdQhGi%2BJRt5Vuk3BdxDIQVWB4TTnQ%3D%3D%7Ctkp%3ABk9SR9DY1amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/WfEAAeSwjoNqKcFb/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "227476305294",
@@ -261,13 +275,13 @@
         "priceC": 24999,
         "shippingC": 0,
         "landedC": 24999,
-        "url": "https://www.ebay.com/itm/227476305294?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03PKGVEHF3XEMXM5GJ491&hash=item34f6a4f58e:g:KBQAAeSwielqOuf4&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAouji0mybsUBdi4b6QGE9383IglI08Lrqc15lKA6%2BmIrdDxJ0Ml60%2FvbGaH0N7VINSEMjPnWpYPfAIByAqzSNiJvGal%2FMVY2kXwYG7CmJEknP0Y9bqji2473%2BbiFM2vGNBtRw81qtnRzqaX%2BleMdjHCPL1dY7wF7KSnYnWo5pyws5RP%2FJ3uWy3sSVJvFPwToMfvON6XqaIQVUwZECyIphwHHRw3t28KEsh5xkUjW4SAmHQBdDjHSJfQqMpz8Jen1gIRt2o2moFeqgAPgbq0%2BhPKc8DjKTegtUFLNAdwSW%2F%2B%2F%2BfqnTNQjeoVlzz1%2F%2BT5FR95vEo25Q%2ByvowcbykcrFi%7Ctkp%3ABk9SR47qjuCDaA",
+        "url": "https://www.ebay.com/itm/227476305294?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NDGE693M1016FYH0PV04&hash=item34f6a4f58e:g:KBQAAeSwielqOuf4&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAAi0174adXxyg5vwo3oFLi2TTmPvykcQ%2BDavk0wmlgzHdOtcMRu%2FipyHUJDfzdtinGaeLyuhHRdLBKAmSJ1FSqMbok%2FAVtosQVkKhamlT6qPJ7kq%2BeSBG1fzw%2BAYpmnmgUEMGUaaChdW9L6tO6Kz%2Fub%2BnW5hFUTvjvMy%2FZgQb84GHOPTFZwz6cBZxUU2QmdMFhO4GN%2Bmz2FR%2B9ijIhB8KRjV4s4Fh4A6R%2Bj1G2YGqDtk8CXPhQwv4%2F%2BCLzXhRzv7YSXtSKnaJb6k142jZcPIAvoxf5K%2BRQGM61Qlz20EnSLw%3D%3D%7Ctkp%3ABk9SR9LY1amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/KBQAAeSwielqOuf4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787209932750,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "227335773950",
@@ -275,13 +289,13 @@
         "priceC": 25000,
         "shippingC": 1290,
         "landedC": 26290,
-        "url": "https://www.ebay.com/itm/227335773950?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03VN0F519K2CTVDCPBZXH&hash=item34ee449efe:g:7LwAAeSw5-9p~isB&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDUuPAXCNorAfI17QyXYad7BjgcMJbWtJgg2edXLvuwGg2V5QmRUE%2FHfu%2FfLRcrPmt7Xa8MyphGlqjTxQ0MNueuGqePlMBzlb2hSVaUIDtMBqKiy6uE3aLmPTWkuUjxsA5JfLkeXcLpVoNCWpvdqUfnsE7d5ynUBPWPH9pZ6Us%2BvvPwF2Ky%2Bx2Kq%2BozYNvzTMYPJ3ziKQBnFApVEwYE3fIK6429MkhmoyEAau0rTx34qLNZ4IsPL%2FaiV4K17IQ%2Bdptjcn5YYSGp2fsArjkMKz0HfLVdb19k3CIEKL1MBpyBcg%3D%3D%7Ctkp%3ABk9SR-a6j-CDaA",
+        "url": "https://www.ebay.com/itm/227335773950?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NDGF8P0TVJ2M5255WNKR&hash=item34ee449efe:g:7LwAAeSw5-9p~isB&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDUuPAXCNorAfI17QyXYad7BjgcMJbWtJgg2edXLvuwGontQypRZqwBYt%2BCPNV7x%2FhPmJhoQuSApoqWnSdKs9nPOUcFOHdw7lPe8Svz%2FvTQt%2B3mgOOSykH08mUb0EA8iMsj1t879rlNdrVneGWb%2FUIYcja%2FEV9dIEiw8%2FxFKF%2FzcrAje9Smm4gmsbZcXQEoSQMcIW5OHCpNOMw9nyotguTl%2BoLzBLG18GL5TJwzgrZuZ2JYFjaq44sAt0J5w81kTnYyf1fJe%2Bi6q1r8Poum1B3FHwS6e3e%2BXkaGkgOBupghhw%3D%3D%7Ctkp%3ABk9SR9TY1amGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7LwAAeSw5-9p~isB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "147398367258",
@@ -289,13 +303,13 @@
         "priceC": 35500,
         "shippingC": 0,
         "landedC": 35500,
-        "url": "https://www.ebay.com/itm/147398367258?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03VN1B3GBB2ZGG1B11H8M&hash=item2251a0981a:g:jOoAAeSw3XhqPaSf&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAtbPO6yjU8qNOQPTLsX9WHs78tal8TF2gleBJK8B093mjew2XLDHJ0Kz4j6iCEXVCWuNOk%2F4I5%2BK0HwsFWcFR3LBXekdoDzTWpYk1SaVMCG%2Bday1BFcKCDsJSuv%2F9qunghQa3an3P%2FNa4M5%2Ff6Z8iMXxQVC1005bSoBxKnVoegZAy7I%2Fz%2BkdENP7DXvodLpg81BDdA0bYLtGU78hupk9zctWHtCL8%2Bg0UtWSfCNgzoc3vgS4trCm2i9La9RDC0zbt%2FLXf9%2FXroky7wI%2BEb7lBvbA%2BhXWKXt4UqZy2b%2BlAmPLWEEc1CZP6Q0Bp2ioASGX5S1Bd98SpWBGXMI4XmGw0Y%7Ctkp%3ABk9SR-i6j-CDaA",
+        "url": "https://www.ebay.com/itm/147398367258?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NJA94AGNN09KF73G9779&hash=item2251a0981a:g:jOoAAeSw3XhqPaSf&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBKPod0Vgx8v0tObCRPl6Ks1qQC1x9e2vYalRbsTQNwbIjxPVr%2BgYeOwpZwvNo7AoG4sCNx%2FNCAfjsva3AKXksPeAd1LrytjGNx68CXguGZITvmwRzFP5XiNc6nZyJEZfc1mtqLqZUap6Z9x9PiN3aRSMGcxab7SgeYl%2FxBIvODQdj7yFiQkLJoboZ0sCZqi%2B1wvsuGipE9hff3%2Fzc%2F7fzTXIRPuICxq5OOvxyYxDVgLgLc3Qxr%2FGXWgiGvEPvCucibqcux6Zxi35UilJrEyuvlW%2BzHjnwoQ8Bo2kFrogCXKA%3D%3D%7Ctkp%3ABk9SR8Kl1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/jOoAAeSw3XhqPaSf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "800455872129",
@@ -303,13 +317,13 @@
         "priceC": 42500,
         "shippingC": 607,
         "landedC": 43107,
-        "url": "https://www.ebay.com/itm/800455872129?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03VN2YNG9Z179B1SY57QW&hash=itemba5ee34e81:g:kbcAAeSw371qcPS~&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB8XXgHlS7WDVc889mcyb4V9DMRGcYYyrhzgmEYn01RFbdKNDq0sRZUPSVTfEDhjzJ1PnLA3yJxsKpQ9ZGOXMxx3Ic5Iu25HMEtMz%2FkKXgKzm%2BUTA7q9Dbcu5REHgCDRwByoaF4M0lsaTul4iQGYGmAQ%2FIYy88S72K5t8j2O3EKjHRoggGSv5qe3BvdDm1uREfJ0SxnCZ0Fp4pzfYgo%2BRFiTvXjocro7ZeKdmMzS3%2F2KIYJZ7I8DQ0JXBNNJf1du8GWQcqrP8N3Du%2BYcPt5O6hNTFdbT%2FNZpx6AhxThoV4qHQ%3D%3D%7Ctkp%3ABk9SR_C6j-CDaA",
+        "url": "https://www.ebay.com/itm/800455872129?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NJABKR9K5SX3QBGDQ83N&hash=itemba5ee34e81:g:kbcAAeSw371qcPS~&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCaQpWO%2FaEkWZ3%2Bjx1BUJSadh%2Fv9SzsxMdxd54z0FFFfntQDsjayTB09IwS0DkQ47NalHQTvi4fvUKZMnrtbV7QPzUILmSvBeyVmyXMiskGjq7Tfz5YLps%2FTMFno8Qgf2tuWUHPFcyXEmAEcw7kxvG3OS6ag3g6cw%2FKOR1zoHGIMT0BA0EA3VreA%2FejQpR75gNy%2FPX1iZR1CdeDzq9r5khsRhOozWf4982u9jcEcFZ%2FFgOR3vdS13A5GQ2Rfe1Us0jqrDDMA9shGLAW6Ijzkt7WmYxPQEZjnkGD4686YjtBQEDZiHv5QszMUOOgZQQtAciejiN9AJX8Y0ACZlRDqoV%2B%7Ctkp%3ABk9SR8il1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/kbcAAeSw371qcPS~/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "307064019990",
@@ -317,13 +331,13 @@
         "priceC": 45000,
         "shippingC": 517,
         "landedC": 45517,
-        "url": "https://www.ebay.com/itm/307064019990?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03VN2W3657EMPP107R92X&hash=item477e711c16:g:PR4AAeSwEe9qf39e&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBaxyUiHEW0s374VCymZvkik6B%2Bv8Gxg92px2Rv8I5zXPMbaUNdKiYKVydkUN9Aqd6UWBZK32Wt1E7HGHxrNGy2ef0QtmUbjx8qrAOyQoTJ317yXBNyoOWvfyek8dTlrmsdMSUVxr%2BGL5S26TWJ9Q%2BazNm0HSBbQUGzaKO96JUZ38Us2pX5pz0AODZEGRSzIrrErdCXconm6ckByY7K9ykfCfGym%2Bjg78kX%2FPsyQCd0H6FuWZgEOPnzs8jZEQAcNv78pfke3T9lSPA1%2Be1wECsakKj7bLJpIyfeJJd7Eh6p2g%3D%3D%7Ctkp%3ABk9SR_C6j-CDaA",
+        "url": "https://www.ebay.com/itm/307064019990?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NJAB0V4S6PF94G156BX2&hash=item477e711c16:g:PR4AAeSwEe9qf39e&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDHcNGsS9JCKzzhoIWDT5rMI1uSBAu16wtK8YyYd89U6v5ximt7rJolnXNXQpnhmqBVK3COlax1wm41gEMTGRpAwPZS7AY54fAiWM%2BrjEQQypzHHSGp73AWdJsDShTaK9iI6aTJAcxeRBvGu3ra2WQR2HSszpHswRuu9WI7rVNljxsRlx%2BWYr7M2kj4%2FOHdlzm00cGD5n5tgl1t%2B2IxZ%2BcxZBz9jk14RMb2qcAWKX7upzifQqgQNuXdcFOy3O153muoWBZM3OnqTq0cy0Yj8158thEi6fCW4FA9yttmaq8NvEDQ3bgKDL6Fkuxyyo7Fh%2BXyVZxC2tLn2f4S%2FC4Ykfli%7Ctkp%3ABk9SR8il1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/PR4AAeSwEe9qf39e/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "147458712830",
@@ -331,13 +345,13 @@
         "priceC": 47500,
         "shippingC": 0,
         "landedC": 47500,
-        "url": "https://www.ebay.com/itm/147458712830?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03VN2DBG5YMN384QDS8V8&hash=item22553964fe:g:pz4AAeSwEChqY4XD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDpixLHo20089JNl6Ob5GBqz37tlEWB%2Bj1QscbqA8usQd0IdtckkdkyXGjB9hmNqBaKkKBpn9tZZzPSFsmO9muSpbzLV9C4SSkRjZg7G8OFOZvJ7ZW5JntX0NWIg5RgkleQz0p%2BEh5xM9lFetkoyKhJfmYc4BvmeXQXtv0TYP%2FmVwEIHHyNne1yRqmq1Zp4xvC%2BVPCqZyuDhypBHYZVq194gazLoPXNeuQaL8NOv38fZlwPOidNa6o3B69yW3PgiSjxbZ3n9FAGPrH1vSXK4ehHbu8uKJBkQqANVwNfv9srMXLomMclft37uqWpDiPZYi%2B9dTKJNrMSAjNvTlQ1hBCA%7Ctkp%3ABk9SR_C6j-CDaA",
+        "url": "https://www.ebay.com/itm/147458712830?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NJAC7AAKBDH9EDZ9NMD3&hash=item22553964fe:g:pz4AAeSwEChqY4XD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC7tqBLhFVwIARc488w8IBQWseQ5fCVxxAGaVhuEJcuDpXZ7wS0as4qSYFwbnEjPmbIaJUI1l8VkefSynqz8rkKiGuII8JeNPNpALHjZdE6ja5zv5%2B5JexNeY4SI%2F70qoWovlHTpTmYPfaCVnlBgyjCfBba8fxyRIM1%2BgQO0IKe8kKk80CYHUTYpPymW8a%2F5CAULoMtUjWFDPpiRPDMXzdjx3SU8P3SVziZ2GgS2Kl8y3znZG%2Fj0m3L2U0OQvwAZ3QZGlfHbfNzSnL8MRxyQMfULyxXKxjI2oL%2FiBGg8l%2BQYQ%3D%3D%7Ctkp%3ABk9SR8il1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/pz4AAeSwEChqY4XD/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "307110177716",
@@ -345,13 +359,13 @@
         "priceC": 50000,
         "shippingC": 562,
         "landedC": 50562,
-        "url": "https://www.ebay.com/itm/307110177716?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03VN2E3T7V831D1VKJV6C&hash=item4781316bb4:g:rGQAAeSwC~ZqdAvu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCPQPkQBhpN41qyp4BjbTV8kGuh%2Fw7F9RWp2SRxW43w8mi7D61%2BCwgVDSambkICCNz2zgPFKlkSLGJ8CCNMnbeGwiJeytNKhfGkyHvJK%2FNl%2FfaK7N5nzT9kjX52T0kBDZaQkBkZKAu2HrXJtP393EjrJwt7CkTwIb7VjMdD5FB5PT6hOBOf3JEb2JawmOm6IaGkZMs2aZNulVZDqHXNOaRSWi99MbEZBpVd61uHEorce9tNRR2xKTE6tUKwY68n1TNUjZZ%2FMwOdg1kKbvsb%2BAFxJDkDsE%2BxvgSmwX91uKYGww%3D%3D%7Ctkp%3ABk9SR_C6j-CDaA",
+        "url": "https://www.ebay.com/itm/307110177716?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NJACSGA6RAJX387S2JV3&hash=item4781316bb4:g:rGQAAeSwC~ZqdAvu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCPQPkQBhpN41qyp4BjbTV8kGuh%2Fw7F9RWp2SRxW43w8u7%2BxDKedZwOsRh3Cxxwhi24Wp8pDijgbKmmfX1XnzJTaBCYKmVIrJbF66Ub%2FGidnw%2Fr2ZY2zZoXFmobqymJV5EE0ZbnFo%2FNPJbkBWTbgQMet%2BBTmHJZAyVJpnQOucJYc6QvxiNRGvsxbtRViN4GX5Gq%2BgmlFRdvF1sSgfrgHWeV5F%2FQ8yjWjamNLVpp00TLJ%2FCzoliceGsQUyBoSeyKxOEoYPlsxwKWfX%2FlVjLw3y9HSFOGuRepOtamJqv9fzyP6g%3D%3D%7Ctkp%3ABk9SR8il1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/rGQAAeSwC~ZqdAvu/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "168533356483",
@@ -359,13 +373,13 @@
         "priceC": 60000,
         "shippingC": 517,
         "landedC": 60517,
-        "url": "https://www.ebay.com/itm/168533356483?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03VN3N2QAH5FD02A1QXBK&hash=item273d5eefc3:g:6hIAAeSw3CxqVTue&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCV%2BvP43n7WAAn2y%2Fp7jFS%2BGh03VEehVh6CNQY4gGpc2JxgKSceepr1U1qdcV9v%2BYlUznhzs5MxMlzTiHknt71xgZBEnHLjenRrANiZE7IvI8MxSTaI3vj2Qy3mlvpG5kH4JBrRCIdojuezS8CKY8t1TKX6BSznblrBCilBujU18Y1irVeJgImh7ZPC2y0F8P1Ro0EbsRfLgpaadmp%2F4nDfVwdc%2BfhI8iRTP65V07rvHp4kblrzArHZ1J%2BREdw24H7wS7XgT1Ebsiog3eUQKBsZuXtxWa3ZcekHWEIhJFp5pQ%3D%3D%7Ctkp%3ABk9SR_a6j-CDaA",
+        "url": "https://www.ebay.com/itm/168533356483?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NJADAJ53K1YSMTS7Z3QB&hash=item273d5eefc3:g:6hIAAeSw3CxqVTue&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCV%2BvP43n7WAAn2y%2Fp7jFS%2BGh03VEehVh6CNQY4gGpc2IxyTYpgFlGnNmMmAKauNJoId8DsFMKF7JGgQqYF2PplQkf6ssZCWfb2Qw6ieuFFEUEzsTbnmB2GfrhYkBG2G1Y3z1kenc4AEAoByF4k0ibkFnyNmBktwCyLOccBFYaDVIsbVIDQPsokp0nH%2BsfcHPt6DwrzFXlNC7w8ktafIbp3TzxcXq%2F85%2B4qY%2B2KfEkO0buM6FMD%2Bjj2XKbIKmKVnlMrwOr3lfi3vxqq5Es2BEoKVpk7DYDZdtOHPUgWebjdpw%3D%3D%7Ctkp%3ABk9SR8ql1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/6hIAAeSw3CxqVTue/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "336285723437",
@@ -373,13 +387,27 @@
         "priceC": 99900,
         "shippingC": 0,
         "landedC": 99900,
-        "url": "https://www.ebay.com/itm/336285723437?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F03VN4N1P7AC3CACGBYCVC&hash=item4e4c30eb2d:g:AokAAeSwVXRpFiG2&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAQnn1THSrxXuWMh%2FJcxqGaK0hosS3Iv4E%2By1T3qEf2C7HD0GFzGyKDQaqxwPa0LzM2JqC9dpwciXglLiNd%2BNfO0X5J7Sg2ybZOSSho7wZH4GLUQQGd4kUK0gBDWT5C0TooD12GVuz6zht6Tp88VGe1wVzvniuMaisU4iwqKnAt2h0tq%2FRcPwB0LUsWsF66jRnS73gq719ASDb4nqSyWHlx9WpRnEKkV%2BRluz8LHgwBDKurrt7mwuRPPimhggoAgZZeslf6Qfmse4KcBK28P8gv2cNF99Fyo9l%2F6%2BlnYPXvCw%3D%3D%7Ctkp%3ABk9SR_66j-CDaA",
+        "url": "https://www.ebay.com/itm/336285723437?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NJAFNF6A9M6C6DHDEG9V&hash=item4e4c30eb2d:g:AokAAeSwVXRpFiG2&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD2ZA3qC1lzc3Cq53GLyh8q0q2XtZCyg%2BG%2BWA7BwqoeXQFqReQfiaOOZxhdASVGIhsvV%2Fjk0tPcwExrLfl46PSJReEkjFGYUBVx08mmmi3dPUV%2BQdu1EvquJjSbwlDajAnHYQWeu7SpcGCyKMdfSXyfj2dEl0rFy3pDunyQWOR%2F%2B0Z6C6e%2FgrttP6wyPWPqeK8yosNWb8DjiePj2ohje2csPIHsLop%2ByXRVYhFbi8lo%2BEjF7ldZhJrD0hZoiouH7mT2M0qWrtIlcCGAECCBLh3XqH5Flvlq0TnACglsQWqDuoH%2BrY4BtZsJgavMCk4pQM9cMa4oh1ciwDJDQX9Hmi9L%7Ctkp%3ABk9SR9Cl1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/AokAAeSwVXRpFiG2/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
+      },
+      {
+        "itemId": "800536415393",
+        "title": "1999 POKEMON GAME DRAGONITE MOVIE PROMO #5 PSA 10Opens in a new window or tab",
+        "priceC": 127600,
+        "shippingC": 795,
+        "landedC": 128395,
+        "url": "https://www.ebay.com/itm/800536415393?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NPSTJ2J1NGGEVT4P3YTJ&hash=itemba63b04ca1:g:DMIAAeSwSUlqhfjQ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCr7V%2BDLGvR90tQ%2F6hJDsvPTXV2q39fwxQPFCTpcoEsF5hBmznt20LRQAmdoxpDxODl5BikNTHJ4oAAjWAnixLvx5nXDdLXfgnF4BNjBdy8Soe9hrBiyye03yi%2B10Aygjnc8V7K2g2bvQ%2BXQMoEP8q0%2FcRvhDPJ%2B%2BjyW9T4RtBI6HU%2BbDgI5VwNo3HFyeRdKqnHSwPR%2BifVBSiJNwk%2FW4i9cVEfcvut1LsWW1%2F9hotKnc6X2ATbiM3p5ej3TgHxea09TrhJCjdhzidPv8bi%2B%2FgohT39hCIIgescO6le%2FokmuMsCyyBLEXK9ABW4HGSKS9j7tRfLTu4e5lKe127X6rm8%7Ctkp%3ABk9SR67t1qmGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/DMIAAeSwSUlqhfjQ/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787209932750,
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "178071415835",
@@ -387,13 +415,13 @@
         "priceC": 189999,
         "shippingC": 0,
         "landedC": 189999,
-        "url": "https://www.ebay.com/itm/178071415835?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F041J2TSG9YJ825FBR2310&hash=item2975e22c1b:g:XyIAAeSwVqBp6WzF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBsAXzZb4rlaJMBLahGHLMOiOeFJ%2BNi0sDGhrnWo0bVmZ0Lj19jNeMBUWtrjqhI7nsZLkiIWeWHoz0N%2B6CS1GjpKzgvFp%2BDWmFWMOGZsjD%2BOCCEJ1jbwtiyIhFTL8VdhX4OeDn7g6QgierkjfA2BmWBal1tNX3mWJVnjRs9Zo6bJWmKgD47Sqnh0CjGvgqQX%2BLpxkQGZ5ZoaKwaGsTXDtfpZPRTpCjOY8LisnuBwlezD%2Few%2FwKkner3UZfs7sCPofC2JXLUm136wB6JpBwlnqrvvxVnyklZ2GXZIO5uM2gtRw%3D%3D%7Ctkp%3ABk9SR56ZkOCDaA",
+        "url": "https://www.ebay.com/itm/178071415835?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0M4YZNX74XDDKSZD84DRMBS&hash=item2975e22c1b:g:XyIAAeSwVqBp6WzF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBsAXzZb4rlaJMBLahGHLMOiOeFJ%2BNi0sDGhrnWo0bVmQ7u35QakUM5dDxOiTgCzRWlUpgYKxc8WS6pihcXbe7jY%2B3HgG2dK05UEbeI7lXat0BilJE5OGQvH3URfwhNH%2F7cGmWmASrQoc7D2YToS%2BkmoR2QtTbFBGo2YKkftnCncpzN%2BnKml5tWX9WWlQU0ofB%2BoTpWdvQpAZmxQJ%2BlKXQTLAhuenkOwxYNe5Rc0Q23aeQ8MY02DkVjkVNPIdqGeB6kLOAmrOSrsG62MIxLDq3KFcWCGKJxpNyTrtPQ1UjOEg%3D%3D%7Ctkp%3ABk9SR8b7-4SFaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XyIAAeSwVqBp6WzF/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787382758536
       },
       {
         "itemId": "327153680968",
@@ -401,13 +429,13 @@
         "priceC": 200000,
         "shippingC": 597,
         "landedC": 200597,
-        "url": "https://www.ebay.com/itm/327153680968?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&itmmeta=01M0F041J2DBWED404J8ZY4GN8&hash=item4c2be10248:g:63oAAeSwE8ZqApS-&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBC5gtqGb4uxih8Va5iiBjd7EVxyrDzkGbqKGwYxZrVh6ACbb7vRwMNhipn%2BgYs7Mr8FGXlEr1ay57rgbXpTos4AY7zxVjGO5v9bp9%2F3AVnJ3CXSeYWriv1zJGuzXXHSzqU4l7Kn27xQj9dAu1XZYXKKDgq4meT3IjfqpV50WBtE2NMPuZfmr4XEat5W2oAP%2FyFaJPFewGGqQUo3tOjksMzeHFZdnNIOLi0bm4PJEr1AR%2BbVb%2FX%2BvCeIXv9ojKgmUzuIwc6UbN%2FP8mxHEkoZP1QMeqAofSk%2Bb9GFAcdRGkFD6nZpz9XMZgifw3IIsBJ5lE24rQwVGeArADiPY2Q3T3x%7Ctkp%3ABk9SR56ZkOCDaA",
+        "url": "https://www.ebay.com/itm/327153680968?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&itmmeta=01M0S9NPSV4M64EWMV906RDJD9&hash=item4c2be10248:g:63oAAeSwE8ZqApS-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCCcsvQDR85dzD770mpMGGBPbQ3Ht0vNSb4YLyRlK8Wgt697IfapodsYqkfLhoncSy5AQo9bhXpYFBnVXMPeKnE3yS1ckPftLgPQtKORsnwMNWtiKb0pbvIYG1YP48xUEGc0VPa4ZvGWhB%2FZx2E9bmAhHcfIuOx8b5kiJRyx6qXPuEZ%2Fl2uGEUOv%2FQO7aQ5b2a4A%2BjolsDEecLv8gSuA4g429VFuhLo8JQntT16EoZiq%2BATQQu%2F9EnUtqK2%2FfkedkNRpuMjE0S8mRBcmRv5LH8gPxUk2D1%2F3ZJkKEjLPCHWAw%3D%3D%7Ctkp%3ABk9SR7Lt1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/63oAAeSwE8ZqApS-/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "327145348420",
@@ -415,13 +443,13 @@
         "priceC": 220000,
         "shippingC": 624,
         "landedC": 220624,
-        "url": "https://www.ebay.com/itm/327145348420?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F041J2H5QAEFF1Z2XVDAQK&hash=item4c2b61dd44:g:6s0AAeSwICVp~JrG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD5mAkTi%2Bcy9P0szk%2FpxYBD95gZI2w4qLfodCPaX8nW2BZ%2FLlf5WdabRj%2FMHreYoB7P%2FIFP99flKTfgCbyKiXvzGLgSlBZWqm5fQDSHICmnj9Tf4tkeriXK5JWoE0w48sShXZ0AI%2BhFXLNziJV%2FZH4fvVZYgwlRP36x5Y2rq0joswJewVXB3Lii8sqcr%2F1FbEoco4rk6A2As1AGSt4aOd32ozaA3hGmHVugm7rJ53IMkJtD1jmwMWvkkDKOAPoDNk4kYhkh4eA4bTiVaBCNyIO0Kpp3Sh4%2F7vRULC4hiAU%2BMQ%3D%3D%7Ctkp%3ABk9SR56ZkOCDaA",
+        "url": "https://www.ebay.com/itm/327145348420?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NPSVGENZGC84HM3BKK1S&hash=item4c2b61dd44:g:6s0AAeSwICVp~JrG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD5mAkTi%2Bcy9P0szk%2FpxYBD95gZI2w4qLfodCPaX8nW2MXkuPUK8Z2VZ941F48yTDixjT%2BylPkev5TpuAMmZRI0F1Gb51l1kI4%2BfgGCZObYRdkSBKMTWFzabjKOTgB6NYG3v8bzzpyRoIorRKg0MnTuWu9Yf%2Bzm%2FVgV3D0yKOtVktSezgzmBSKTCCsXs1cfWiS2GwO5NjKD1k%2FkXs66zzT48hYGpeoNjTO%2FAoqZqDIK6hYT%2FxEJAZjzMwhNLAMRe8wGFHX%2BcMT0isrUXHn7JKO0Go6hLwAt1gAsJRo1jL8Fxg%3D%3D%7Ctkp%3ABk9SR7Lt1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/6s0AAeSwICVp~JrG/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "178101989680",
@@ -429,13 +457,13 @@
         "priceC": 248900,
         "shippingC": 624,
         "landedC": 249524,
-        "url": "https://www.ebay.com/itm/178101989680?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F041J2NG62TZJNTSHXNJWJ&hash=item2977b4b130:g:VrAAAeSwFO1p97VZ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDtwqHFHdT8g%2BK2ZwTQSH2YEHwqwPUfqmL4Yf3gad%2BSah3CeTNNG0ETiyqYJqpam4eUfpXj%2FEzvqjNj3XdEbBBDxUqkwfE%2FPZnXy9DiXMH%2BSwZiWM0tfOlFCsPJQSDqUHxLYmnmHId0R7tA%2B%2Beux3s%2FPat7OsgABSxwaEUg3diRAy7Q6i9zzbY%2BWojXeQQSnEQitdw2bNqDcsfn%2FTjjYmx3Ov6CTE1YVKuGJ2y3aCA5IgHdHsrWu3mlJUFS02duK8NzLzsvKvJm9y80Bh5Qq6qIdQxvApaABQytQb6NRm6nsGVNZE87DBYEX2On3uam0YnNq11vbBuvfCgaZyTNDUo8%7Ctkp%3ABk9SR56ZkOCDaA",
+        "url": "https://www.ebay.com/itm/178101989680?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NPSVJT37CNN51EJNGGDE&hash=item2977b4b130:g:VrAAAeSwFO1p97VZ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAEeJhBTLTc3E8j3eQx637lyi9kafhlxAR5Ck3KItNocnTe%2BxxXWK3GQ07O8rI1JOUHmQiSKLrYbBA82xz1lW9W5TaiW38E53Hxgi9C8p7CGVbXrXT5ysmhLT%2FFUKwsTrY%2B0PzofNEh%2Bddk0aPKaW7qIkrmsZABLlqtU%2BAhXCsDZhwT4riq%2BMqrKE3GWtmi%2FTcaPa8S%2FicYeNy8w5zFJbrZZM0J5YCcGJ5%2FA%2BiTlwxy1BljChnyYlI5lFpqxqCc2D7qhrooJ3CF3BG9qdMPx6T9XZKmrKE%2FhGwC026xloGj%2FA%3D%3D%7Ctkp%3ABk9SR7Lt1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/VrAAAeSwFO1p97VZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "366413597307",
@@ -443,13 +471,13 @@
         "priceC": 249000,
         "shippingC": 840,
         "landedC": 249840,
-        "url": "https://www.ebay.com/itm/366413597307?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F041J2TABX2141NR6J28SG&hash=item554ff3ca7b:g:ZAAAAeSwTpVqCO5l&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB8pFbyfIaBzawBkohpI6Kp5Oph6phzISuThdIYv1IqpfOVJqWquyRO%2BFLWyyWn33jGQ6ybKdWMDWTm1%2FdSIJ8Xiv1imMtBf1FyAd%2FqqtngSIo9UXWS7sksH%2B34%2FsmqMn%2F07XDqj1uNIeJYjoLbAqTGqD7zF4qOlZJbvGg6rvRRVx%2BIdyoGGBeyhqGmLaKPGznua4yGlbquJ%2B3qSWk%2BGvGjxCR%2B%2FBYn0Hw2kTWfwljW%2BQMvxsFm%2FOA1s%2Bcu64B4so83jiiUuiGHueF%2Bj06%2BiCDQDLXbMuJuU20UtY2DdSPR1SkCewuCdLw4TwYdjizsDtzHvDIcqg4JQVhYTH6sW1d0%7Ctkp%3ABk9SR56ZkOCDaA",
+        "url": "https://www.ebay.com/itm/366413597307?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NPSVFXY9E9CF9JB3FPWR&hash=item554ff3ca7b:g:ZAAAAeSwTpVqCO5l&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBszUImESKq1H%2Bzao0Wuy1KTNXz33YPtnqi4kdv0KZDoRTKLAn%2Bg3T1niwWCSyoTiykufWgShLfRVga0oxDQZg%2BgmeIYDg%2FyrUMYgu4NhgX60X1Nf0NC87A3p%2BQSwT0OI2e2B6m0er9kzi4uWUs0xNZjFILyHqnn95u5ZOWCMOdX8%2FuMaQc2n306%2BoYgu5UbE1VRiJW6ssPS7k4MNVx%2FOQrCtbVEHUITI2hifz9nEvjOdZbaCMK5nIhgJkYNAJ8arrt%2BQMHI4JYkJfDygNr8UyMXq%2FjL18t0216Uo5xIPVy%2FA%3D%3D%7Ctkp%3ABk9SR7Lt1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ZAAAAeSwTpVqCO5l/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "327142569365",
@@ -457,27 +485,27 @@
         "priceC": 249500,
         "shippingC": 790,
         "landedC": 250290,
-        "url": "https://www.ebay.com/itm/327142569365?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F041J2FC6B32WPBNTY0ET4&hash=item4c2b377595:g:PWgAAeSwgE5p-qzs&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDuB3SQakb9nPGWUsmUIK2iBx7l6RvvNCuSUypIc88WOxYMjPpAsm7%2FR3HAKSg%2BaxCDCU407E%2Fc5zuvE1vN8iPxquX27ti%2B4jRoErJj6cE38sTGrAooi2oSDY8CC1RKPHDXi7BEuxByUWK6LsESm%2FdfcvRA3crEFTrbDqtBg4sby3VMWVyndH1GG7tl156%2F8QP7YqaFSEyGBwqEHzdrlbouQcMuFjsuOQ2fKpNG%2FbBd%2BvM9M3BwLjTuehHw5AeOYhIlbTdbLDCPPNoC8l4Y12uZENkO%2FWDZZeBomuJisjhunA%3D%3D%7Ctkp%3ABk9SR56ZkOCDaA",
+        "url": "https://www.ebay.com/itm/327142569365?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NPSVHH467WNM9VWVAT29&hash=item4c2b377595:g:PWgAAeSwgE5p-qzs&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDuB3SQakb9nPGWUsmUIK2iBx7l6RvvNCuSUypIc88WO%2FeREY08m%2B%2FBA2fW3%2F9jNPwXDeW0COjEjIjX5aoq4cBGEwILQcxGq%2Bq0CU%2BoTlnxmIg89scDfAFCXIvw7S%2BMIp0spptwl13GFvN%2F86VdfyxMGOyU4mxjEAclbr0WT1dlWcCnQY1HK%2FOv19iL7gtZc2%2FLl%2B1E2N7HAf9jwTRuZPZQvfdwUgGpBU%2FVdGnLmkiQYYTgMlkgjSsna2GwMlL0YVOPtHAUfaKFfS5paR2mN6SIIY3Vl3tULquyGEwo5lvs2w%3D%3D%7Ctkp%3ABk9SR7Lt1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/PWgAAeSwgE5p-qzs/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "366481474702",
         "title": "Pokemon 1999 Movie Promo Holo Dragonite #5 PSA 10 English Pokemon TCG WizardsOpens in a new window or tab",
         "priceC": 250000,
-        "shippingC": 528,
-        "landedC": 250528,
-        "url": "https://www.ebay.com/itm/366481474702?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F041J2QNV233BZTPTPN92Y&hash=item5553ff848e:g:aNgAAeSwtYRqMGuZ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDRPHWAulZRUs4I0bQjw8Uydc7gBfwsaUspPlimIygoZJLsSQg443kRVElKKkB6mWF4zKqpjhy8o%2FTpQMBItuhF3H2I72lb3csex7iIWhaI8gjyF5rqcXF4n7EQ7CWuM%2BkqHXi425KoEiBA99xQVjAYKJjVLSfkeKp0THCfiph4lEss%2BCfDkXrscf8von5DY4Ujxg3vVcIcDDn67t1uxueXpmx2VdYQc8nNp6MGPBuYxPvmDU9u0ppYZgdFGKpdnnVLxrjRBdlo7INTolkuk%2FVpaAxVtQpoqqD4lA9p46cIug%3D%3D%7Ctkp%3ABk9SR56ZkOCDaA",
+        "shippingC": 562,
+        "landedC": 250562,
+        "url": "https://www.ebay.com/itm/366481474702?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NPSVG3P7PXRQKPR1GXFS&hash=item5553ff848e:g:aNgAAeSwtYRqMGuZ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCaOiVvfrP8q7kI%2BMo7HgDZo5Thy8Pz3sjCbZLPtuJVbsm25KAbuT8sSH%2FJHtQ8nNUymw6MUnvTq35nRx9y1iopyMrCcQThO4tEFaQ7OOTleZsgaeNBZrFC7MUqfyrScygd030SZuz65UXlPjKEH79n%2BNWUnkQ%2FETN7PlZrcm28KB3TIc7GAfY5h6gYIapiHsCk5xmaz6otdT%2BQiZ7t6GixeAkwAjbvFuhbgSrZrVVvfarLStfJ2vmOcFE54TGKN5cEhQM6OQsTmngZ6NqR0GXOoski%2FZ2Je6AS9iko2E31ilSvegeWgP2IDXPozF9zSwsDDgZ8Gt1%2FRBRgZyZXwsVA%7Ctkp%3ABk9SR7Tt1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/aNgAAeSwtYRqMGuZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "389997160101",
@@ -485,13 +513,13 @@
         "priceC": 259999,
         "shippingC": 860,
         "landedC": 260859,
-        "url": "https://www.ebay.com/itm/389997160101?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0F041J2P6JEY6PB7TJ16NR5&hash=item5acda466a5:g:eMoAAeSwI3Zp~3ax&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2FXaPO%2BQcGSjo49%2BKKAAg8tisvG90GgUJMd%2FQUxIRO%2BhonmNmWSgKzB99WhVSn4j1mmnZRNR%2FJGiqy3Vl4Ig3QsJf8C%2FBj1SVHXUSWAwxq1DZpBD7k%2FYGgPWIvXgtyX1ei1plS4L6eskKgmNcxFnqhd7D97qpcXXVgOS%2Bs39xdvXNRsFYlGFowbRqzY6WwCgpRxdoxHzu%2FgPiyVIEfIQnYlRKwBpU82a977bAE1nWh%2Ba7z5ENbB3JN%2FzW16o7EFvWvH%2BAY2CjxeiuwHhL9kja%2FI4O8qVF%2BEDTXiHNxwaSYMw%3D%3D%7Ctkp%3ABk9SR56ZkOCDaA",
+        "url": "https://www.ebay.com/itm/389997160101?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0S9NPSVB2WBNSHW5DXFJ1A9&hash=item5acda466a5:g:eMoAAeSwI3Zp~3ax&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCCRpT3BO8B%2FkJgYJqemMRcQAsoO357DdliuJb6uaxRDKVT9f7EzmSH5pyVuEct246ry6s8OG1Qnos1tcXk%2F13z5hDJtiN%2Fxc%2FdInDM2pfqrqrFtoPs5H5Se2%2FeV7JEii%2FAc6pnHfprmhFty4m1Qp%2FOhEqh1DeW09%2FgXY9mI597nfBdf8bv%2FbJ8yuEZlyAyhkzMMIPOYJ7M40k%2BiYUGpDLYkpAsSuIL7Qlb0pics5lBo3GbCoBXXYEKvLJTszgvZFmrzHltKYVzLkPXT4Q%2F5D2n6Zt89MxpEFhIJSjnGZ7orjW0Pm50jLWx989d3Yr63Rr%2BQVeN2I%2FC%2FZ03YXS9ANA0%7Ctkp%3ABk9SR7Tt1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/eMoAAeSwI3Zp~3ax/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       },
       {
         "itemId": "158198466041",
@@ -499,17 +527,108 @@
         "priceC": 750000,
         "shippingC": 875,
         "landedC": 750875,
-        "url": "https://www.ebay.com/itm/158198466041?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=20043376450&itmmeta=01M0F041J3KXQV3MQ51X091QJK&hash=item24d55d05f9:g:7mwAAeSwaclqgxKq&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDi1I8LrqOTHTnpk4MF%2FAj3EO%2FaP2wowtbMvvSPuq4S4QyQb%2F6tAMV7n3%2BsL%2BJF9SyXEK0G1IccevRk2npRvX79YKt5BEGnFBBSfaZ3fsOxkUh%2BENTTXZdcmK4AOucyz0dwN9IeeqjtUqOXBGBOPB%2BvTGoxbHfmp2JYytakPfEfuTRrVeaMEzQC9b%2BG%2FtfHddxg%2FB4nDofwUAh4rTwBV90AjvFrmHYC2bJDxR%2BaWy%2Birw%2BhgPBdmxYpuordIDppsw%2FB9%2Byj71VjRSV9%2Fsl2hXHtanuVbQd%2BzRUPviejLEneJU0PMqV0CeA%2FTaC1bp3ix78wDnl714ByXXXtxBZzI6Ti%7Ctkp%3ABk9SR6CZkOCDaA",
+        "url": "https://www.ebay.com/itm/158198466041?_skw=%28dragonite%29+%285%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=20043376450&itmmeta=01M0S9NPSWJDA051DNQZA4TGHN&hash=item24d55d05f9:g:7mwAAeSwaclqgxKq&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDi1I8LrqOTHTnpk4MF%2FAj3EO%2FaP2wowtbMvvSPuq4S4QyQb%2F6tAMV7n3%2BsL%2BJF9SyXEK0G1IccevRk2npRvX79YKt5BEGnFBBSfaZ3fsOxkUh%2BENTTXZdcmK4AOucyz0cnN8HZApgY7ddxzyI%2FILbmGozMIwKg%2BKPagJeYR2%2Fmm6rhH5edjt%2BX%2FXo6rcw%2BSd%2FTRqEQKRi52WmLo9nB39WMMoXHs7ttntCxKLuDh2yKGMGyw4iq21UNbBsBbo4EZbpWxqRDnKsB29XaipdmBRv7YTqVEgZA03YDGExXeKivxF2K235LdnCdtIp%2FaTekJnUg2QiHsgSILr%2B7woSVZUnA%7Ctkp%3ABk9SR7Tt1qmGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7mwAAeSwaclqgxKq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787209932750
+        "lastSeen": 1787555472276
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3616508,
+          "saleDate": "2026-08-24",
+          "priceC": 22750,
+          "title": "Pokemon 1999 Dragonite 5 Black Star Movie Promo PSA 9 #5",
+          "url": "https://www.ebay.com/itm/407142994746?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3616344,
+          "saleDate": "2026-08-23",
+          "priceC": 2050,
+          "title": "Pokémon TCG Dragonite Black Star Promo From The First Pokémon Movie 🔥 Hp 🔥 05/53",
+          "url": "https://www.ebay.com/itm/158194887575?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3616343,
+          "saleDate": "2026-08-23",
+          "priceC": 2050,
+          "title": "Pokémon TCG Dragonite Movie Promo 05/53 English 90HP Regular 05/53",
+          "url": "https://www.ebay.com/itm/168618464448?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2958704,
+          "saleDate": "2026-08-23",
+          "priceC": 6686,
+          "title": "1999 POKEMON - FIRST MOVIE PROMO - BLACK STAR - DRAGONITE (#5) #5",
+          "url": "https://www.ebay.com/itm/206491870405?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2958705,
+          "saleDate": "2026-08-22",
+          "priceC": 6100,
+          "title": "Pokémon TCG Dragonite Black Star Promo Card #5 #5",
+          "url": "https://www.ebay.com/itm/227476463308?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2004713,
+          "saleDate": "2026-08-21",
+          "priceC": 3100,
+          "title": "Pokémon TCG Dragonite 5 Promo 1999 English 05/53",
+          "url": "https://www.ebay.com/itm/800505403233?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2004714,
+          "saleDate": "2026-08-20",
+          "priceC": 2607,
+          "title": "Pokemon Dragonite #5 Black Star Promo WOTC 1999 The First Movie Holo - HP #5",
+          "url": "https://www.ebay.com/itm/800501935001?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 844826,
           "saleDate": "2026-08-20",
@@ -1978,97 +2097,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 92530,
-          "saleDate": "2026-07-10",
-          "priceC": 10817,
-          "title": "1999 POKEMON MOVIE PROMO DRAGONITE #5 NONHOLO BLACK STAR WOTC STAMPED PSA 8 B E2 #4",
-          "url": "https://www.ebay.com/itm/358578151093?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 92507,
-          "saleDate": "2026-07-10",
-          "priceC": 25000,
-          "title": "Pokemon Dragonite WB Movie Black Star Promo #5 PSA 9 Mint",
-          "url": "https://www.ebay.com/itm/287386167746?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 92357,
-          "saleDate": "2026-07-09",
-          "priceC": 8499,
-          "title": "Dragonite Movie Promo #5 Near Mint English",
-          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F84909%2F-&sharedId=web&subId1=completed",
-          "sourceMarketplace": "TCGPlayer",
-          "gradingStatus": "raw",
-          "gradingCompany": null,
-          "gradingGrade": null,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 92508,
-          "saleDate": "2026-07-08",
-          "priceC": 17550,
-          "title": "Wizards of the Coast 1999 Pokemon Dragonite Movie Promo #5 PSA 9 English 05/53",
-          "url": "https://www.ebay.com/itm/307035636271?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 92428,
-          "saleDate": "2026-07-08",
-          "priceC": 39500,
-          "title": "1999 Dragonite Black Star Promo Pokemon Card WB Movie Promo, #5, CGC 10 #5",
-          "url": "https://www.ebay.com/itm/358699675053?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 92533,
-          "saleDate": "2026-07-07",
-          "priceC": 4600,
-          "title": "1999 Dragonite Black Star Promo Pokemon Card WB Movie Promo #5 CGC 8",
-          "url": "https://www.ebay.com/itm/398146336001?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 92532,
-          "saleDate": "2026-07-07",
-          "priceC": 8600,
-          "title": "1999 Pokemon TCG Dragonite Movie Promo #5 Holo English WotC PSA 8 NM/MT #5",
-          "url": "https://www.ebay.com/itm/227409201850?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -2093,9 +2121,9 @@
           "count": 7
         }
       ],
-      "englishSaleCount": 406,
+      "englishSaleCount": 413,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787209796033
+      "lastCapturedAt": 1787555358592
     }
   }
 }

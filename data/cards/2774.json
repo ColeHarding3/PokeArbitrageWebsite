@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 2774,
@@ -19,17 +19,17 @@
       "popularityScore": 93,
       "market": {
         "ungradedC": 55000,
-        "grade9C": 167900,
-        "grade95C": 169100,
-        "cgc10C": 68811,
+        "grade9C": 172700,
+        "grade95C": 183500,
+        "cgc10C": 68855,
         "cgc10PristineC": 1037000,
-        "psa10C": 172500,
-        "bgs10C": 224300,
+        "psa10C": 207200,
+        "bgs10C": 269400,
         "psa9Pop": 128,
         "psa10Pop": 16,
         "cgc10Pop": 18,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787212742095
+        "fetchedAt": 1787558099861
       },
       "bestCgc10": {
         "itemId": "307127239492",
@@ -37,34 +37,47 @@
         "priceC": 439999,
         "shippingC": 599,
         "landedC": 440598,
-        "url": "https://www.ebay.com/itm/307127239492?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0F30037BCMDTAWMDF73FVX5&hash=item478235c344:g:XoIAAeSwhANqDa3H&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xASLK1iw87HY7RCmjV5tAYsE60iauOI0zxUlmM2%2FrNTV3goi7B2LD3qw8VHv0bWQfCFdc6vD5CiOdIKe%2FxVPdHLGeVo30kZLeMe1kzo1VQFjhEgFJ0UYEM9DENt8UA8304VEw5--4gPqyHfJeBkR%2B1XkD5oP%2FejOdUQ8mDxQyxQDI%2Fl5a9DQYp%2BywWfGetHtekq7pa%2BJHheqZntw%2BPb1OpHmYP4g3JhF%2Bs5XrsSDQg0RoOOMwr080yi1JemHrh3ps3gGtmrK8vWyW2uOtdXodnITHnTn%2Bc4uRfmLaT3kvhU96xv9t4MJ2oAw0X%2FF9s%2FTZ8%3D%7Ctkp%3ABk9SR4SCgOODaA",
+        "url": "https://www.ebay.com/itm/307127239492?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0SCBC93WH9VJ7BKKZN7FTDF&hash=item478235c344:g:XoIAAeSwhANqDa3H&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDYmvG6fMaijZUf17GhfUTOZhtTvjqVqMO44EVNB9S%2F48i7H%2F6g3YsvXLeudw%2BENNneqCBf4nFUX86btNynYczGlDKZkugCm4hO9D7Rni9rJykUfSwrgDfw0ses35xosV7aAgMN9vSLVvb%2BEh1OPe7kh6%2BZ0YMn0%2B5fH9Wv8QDZQs%2BjYU0w6iQ%2FdrUD8MElatrn8kPTpibF5FQ5W1H91IBvdpcBJKuk3cm%2F1csFQV7uyZmmjWIw%2B4etR6lT40cxziTcwcndiA2SFA5noaIFqtU4%7Ctkp%3ABk9SR_DErayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XoIAAeSwhANqDa3H/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787212943224,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "287536560838",
+        "title": "Pokemon Snorlax Reverse Holo Skyridge 100/144 PSA 10 Gem MintOpens in a new window or tab",
+        "priceC": 12500000,
+        "shippingC": 999,
+        "landedC": 12500999,
+        "url": "https://www.ebay.com/itm/287536560838?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0SCBC9415D6D6K8D9TPT2HR&hash=item42f283bac6:g:du4AAeSwvk9qhyt8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDG2IXvmRDOqGSlgOfBNC4GzwUGbBIXUHFVRs%2BNMMHohdJ4Oy9PsQZ6hZ6msZ%2BlY2a8xflJRxDGHciJcnByoHh512NTfz%2BlQGyyyJVqKGvB%2B87qt%2B5et4XdWcx3fOy0Z0KXDyAMjO%2BKlGVdgq6CEq4WxLCNA7wzIGgJ4Ehp2SylLlP6nq85uIjX4URAvccPwAWGhI1UXfBJ4Zb4B2f2hwJkmUoa3%2BSm2bwnjjIA0LWBswYJjL9wEyOlAIqvuUNgEZMKr97d2l%2FP%2BXIt4xGOTs5z%7Ctkp%3ABk9SR_LErayGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/du4AAeSwvk9qhyt8/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787299940081,
+        "lastSeen": 1787558299109
+      },
       "bestPsa9": {
         "itemId": "336657171212",
         "title": "2003 Pokemon Skyridge Snorlax Reverse Holo 100 PSA 9Opens in a new window or tab",
         "priceC": 694200,
         "shippingC": 562,
         "landedC": 694762,
-        "url": "https://www.ebay.com/itm/336657171212?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0F30038JAESZN6CZWN6PS3T&hash=item4e6254c30c:g:8LgAAeSwjwJqPezl&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBMdzL%2FVDchijcOSJAUg%2FO79LDEfAkwqDgm2aFcbCBpaOX4DQNRRGVWcesIuRZmO9aBM2rcCRSMczJjWIpAzsIpMmFs%2Ftqb4iKsTUfQsC38UaoeZNqT7DBYcT7WePxrOM3XU23LYoaj4se4XgQhwoko%2B%2BTn2o7LA15DD%2FEWLz%2FrrNQWUZl0OKKfjNKflQWBBgq2goRi2tjEa9RUNsBnHPOKNCMyZatFbQwlMJWGAjExV9R1O5LidP3ofcW53RPW8TeQPPjNbkcwm%2BpcX0KAR09hMIwb3QVZw42rPVF%2BluSG8MMEC3a5L6cjlybp7BNw8R0%3D%7Ctkp%3ABk9SR4SCgOODaA",
+        "url": "https://www.ebay.com/itm/336657171212?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0SCBC9399KPGVXBKSZC80CF&hash=item4e6254c30c:g:8LgAAeSwjwJqPezl&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBMdzL%2FVDchijcOSJAUg%2FO79LDEfAkwqDgm2aFcbCBpaOX4DQNRRGVWcesIuRZmO9aBM2rcCRSMczJjWIpAzsIpMmFs%2Ftqb4iKsTUfQsC38UaoeZNqT7DBYcT7WePxrOM0qpQwJyi09%2FTMu%2B7l55Ay%2F73BW3oE7xUyU7wtFqJ9KqMoyGeSbJgCGjffC%2BfLrlAWTm3GOlJFL857tnc2BTMLP9zjS7DDBWrJtRG9%2FdztHU5bpWVdqynqvrPagzjZ6SFHb1Mf2yUGFEbccbl9nKnPmnkXXrSZIQgkDN6jC4KGKvjMAVWM2iXE0vQoMQV2WXQ8%3D%7Ctkp%3ABk9SR_DErayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8LgAAeSwjwJqPezl/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
       },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
         "psa9Bin": 3
       },
@@ -80,26 +93,26 @@
         "cgc10CostC": 440598,
         "submissionFeeC": 14900,
         "totalCostC": 455498,
-        "psa10ValueC": 172500,
-        "ratio": 0.3787063829039864
+        "psa10ValueC": 207200,
+        "ratio": 0.4548867393490202
       },
       "firstOpportunityAt": 1787212943224,
-      "updatedAt": 1787212943224
+      "updatedAt": 1787558299109
     },
     "prices": {
       "variantId": 2774,
       "ungradedC": 55000,
-      "grade9C": 167900,
-      "grade95C": 169100,
-      "cgc10C": 68811,
+      "grade9C": 172700,
+      "grade95C": 183500,
+      "cgc10C": 68855,
       "cgc10PristineC": 1037000,
-      "psa10C": 172500,
+      "psa10C": 207200,
       "psa9Pop": 128,
       "psa10Pop": 16,
       "cgc10Pop": 18,
-      "bgs10C": 224300,
+      "bgs10C": 269400,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787212742095
+      "fetchedAt": 1787558099861
     },
     "listings": [
       {
@@ -108,13 +121,13 @@
         "priceC": 439999,
         "shippingC": 599,
         "landedC": 440598,
-        "url": "https://www.ebay.com/itm/307127239492?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0F30037BCMDTAWMDF73FVX5&hash=item478235c344:g:XoIAAeSwhANqDa3H&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xASLK1iw87HY7RCmjV5tAYsE60iauOI0zxUlmM2%2FrNTV3goi7B2LD3qw8VHv0bWQfCFdc6vD5CiOdIKe%2FxVPdHLGeVo30kZLeMe1kzo1VQFjhEgFJ0UYEM9DENt8UA8304VEw5--4gPqyHfJeBkR%2B1XkD5oP%2FejOdUQ8mDxQyxQDI%2Fl5a9DQYp%2BywWfGetHtekq7pa%2BJHheqZntw%2BPb1OpHmYP4g3JhF%2Bs5XrsSDQg0RoOOMwr080yi1JemHrh3ps3gGtmrK8vWyW2uOtdXodnITHnTn%2Bc4uRfmLaT3kvhU96xv9t4MJ2oAw0X%2FF9s%2FTZ8%3D%7Ctkp%3ABk9SR4SCgOODaA",
+        "url": "https://www.ebay.com/itm/307127239492?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0SCBC93WH9VJ7BKKZN7FTDF&hash=item478235c344:g:XoIAAeSwhANqDa3H&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDYmvG6fMaijZUf17GhfUTOZhtTvjqVqMO44EVNB9S%2F48i7H%2F6g3YsvXLeudw%2BENNneqCBf4nFUX86btNynYczGlDKZkugCm4hO9D7Rni9rJykUfSwrgDfw0ses35xosV7aAgMN9vSLVvb%2BEh1OPe7kh6%2BZ0YMn0%2B5fH9Wv8QDZQs%2BjYU0w6iQ%2FdrUD8MElatrn8kPTpibF5FQ5W1H91IBvdpcBJKuk3cm%2F1csFQV7uyZmmjWIw%2B4etR6lT40cxziTcwcndiA2SFA5noaIFqtU4%7Ctkp%3ABk9SR_DErayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XoIAAeSwhANqDa3H/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787212943224,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
       },
       {
         "itemId": "127974202160",
@@ -122,13 +135,13 @@
         "priceC": 450000,
         "shippingC": 572,
         "landedC": 450572,
-        "url": "https://www.ebay.com/itm/127974202160?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0F30038VPNRJB5Q9PV9P6Z8&hash=item1dcbdb5b30:g:BBwAAeSwDDdqVjbv&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDXcDffLk1bJf75h5I4i53nuP0xmhXiZVDa6K5c74RCF5saq5TOS2wmE7qIvtQVpGzpmI6PNWtzmapuL0Qoq5YnlIV00k8xEBIvFeiMGFRmKxwp0LZmjPdanfRIYrMSnldjN1OK9M26HU4rvDdS9DDmeWDv54tCZDhrpgZWutGOsHklkrtXiMQiNNKrc7sePwJIig0%2FmHkkZUGgFjqjhvs5tikG3bXDCS6bTzXKAWN65X1EFscwnxESB5l5mGXZ1vv05xkp2WNC3l%2Bizodt4iYq%7Ctkp%3ABk9SR4SCgOODaA",
+        "url": "https://www.ebay.com/itm/127974202160?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0SCBC939DE5P7DXJDD4B1CA&hash=item1dcbdb5b30:g:BBwAAeSwDDdqVjbv&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDXcDffLk1bJf75h5I4i53nuP0xmhXiZVDa6K5c74RCFyQTdmDXyqzOgEDh25kjANjK2OKeJhQhvnlTxPnyStN4mEHkPMLR7mtmu3k8iSaeNZb6Ww%2F9iuw1v2v7Eksx0L7feh5tZu%2BdRcm6aV1DBv5fTTRivVNl2hGMpVtmTq%2BEG1ckZGZqK1SPDWbgdIfx%2F9wXV0ieVpPHgj7KiQt3ceq0BDQ3fnkoBnKujynho%2Bpeb456kVeHSLvov5YwC54Zp%2Bf9np8wDW4bJ2aAmtwcdCcv%7Ctkp%3ABk9SR_DErayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BBwAAeSwDDdqVjbv/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
       },
       {
         "itemId": "336657171212",
@@ -136,13 +149,13 @@
         "priceC": 694200,
         "shippingC": 562,
         "landedC": 694762,
-        "url": "https://www.ebay.com/itm/336657171212?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0F30038JAESZN6CZWN6PS3T&hash=item4e6254c30c:g:8LgAAeSwjwJqPezl&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBMdzL%2FVDchijcOSJAUg%2FO79LDEfAkwqDgm2aFcbCBpaOX4DQNRRGVWcesIuRZmO9aBM2rcCRSMczJjWIpAzsIpMmFs%2Ftqb4iKsTUfQsC38UaoeZNqT7DBYcT7WePxrOM3XU23LYoaj4se4XgQhwoko%2B%2BTn2o7LA15DD%2FEWLz%2FrrNQWUZl0OKKfjNKflQWBBgq2goRi2tjEa9RUNsBnHPOKNCMyZatFbQwlMJWGAjExV9R1O5LidP3ofcW53RPW8TeQPPjNbkcwm%2BpcX0KAR09hMIwb3QVZw42rPVF%2BluSG8MMEC3a5L6cjlybp7BNw8R0%3D%7Ctkp%3ABk9SR4SCgOODaA",
+        "url": "https://www.ebay.com/itm/336657171212?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0SCBC9399KPGVXBKSZC80CF&hash=item4e6254c30c:g:8LgAAeSwjwJqPezl&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBMdzL%2FVDchijcOSJAUg%2FO79LDEfAkwqDgm2aFcbCBpaOX4DQNRRGVWcesIuRZmO9aBM2rcCRSMczJjWIpAzsIpMmFs%2Ftqb4iKsTUfQsC38UaoeZNqT7DBYcT7WePxrOM0qpQwJyi09%2FTMu%2B7l55Ay%2F73BW3oE7xUyU7wtFqJ9KqMoyGeSbJgCGjffC%2BfLrlAWTm3GOlJFL857tnc2BTMLP9zjS7DDBWrJtRG9%2FdztHU5bpWVdqynqvrPagzjZ6SFHb1Mf2yUGFEbccbl9nKnPmnkXXrSZIQgkDN6jC4KGKvjMAVWM2iXE0vQoMQV2WXQ8%3D%7Ctkp%3ABk9SR_DErayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8LgAAeSwjwJqPezl/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
       },
       {
         "itemId": "336593344444",
@@ -150,27 +163,41 @@
         "priceC": 700000,
         "shippingC": 0,
         "landedC": 700000,
-        "url": "https://www.ebay.com/itm/336593344444?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0F300389SHBS48G3T5E34C4&hash=item4e5e86d7bc:g:-PYAAeSwqyxqDTHx&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA3c7rAyUFEHZalLhs5XvhEyqFjpICC7FFRE2TxDBe2oyhNN7mZYwE%2F%2BhcOJqNKNC1imBACfBd3YZfi1s8NHCUrz6XVDvzX1G563Lp%2FbVBJOaGddhylR%2FeXoGwAijwIPY%2ByEWoCvc%2BszNiBrU45AvgzpdbqteOvQCxH1MmYAEPg6SkDB3TN99r45EgS0UBPoLCs%2BUJj9qJhLMjr96ROYxuRfHl397x8gdPvwW%2Fk5tjtyIk4DKr2NQWrbjQZC7lnGtTSS5C1rYam0mXX9VWePlOh%7Ctkp%3ABk9SR4SCgOODaA",
+        "url": "https://www.ebay.com/itm/336593344444?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0SCBC939800EE7GQD1H1HJ6&hash=item4e5e86d7bc:g:-PYAAeSwqyxqDTHx&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA3c7rAyUFEHZalLhs5XvhEyqFjpICC7FFRE2TxDBe2ox8WUW4JY4CpRFd7LBy3uqUbK%2BCyW3k1TBWatFMj6ZBZpfdOcTM71VDb%2FmB6CuRzS%2BkOL8Yl0l2hHyvh2ur8mFjVJuvhWwvqD6l3EsIAM%2BN0ibYygOz2HksOb4VmATiUNnU5jKRBaJz5%2FH50ctQHL69y%2FyFlcBWG6I5TJEJGRK9fxLuca8v8XiA5H5SNS2SB7mojDU%2FJFaKXWOWHk9fLjOru54zk7QDUnokmOKOpjRJa%7Ctkp%3ABk9SR_DErayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-PYAAeSwqyxqDTHx/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
       },
       {
         "itemId": "336741025460",
         "title": "Nintendo Pokemon TCG 2003 Skyridge Snorlax 100/144 Reverse Holo PSA 9Opens in a new window or tab",
         "priceC": 800000,
-        "shippingC": 548,
-        "landedC": 800548,
-        "url": "https://www.ebay.com/itm/336741025460?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0F300380RCZ6PFJZHHH99TD&hash=item4e675446b4:g:zmIAAeSw1cJqfzfu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBx%2FQLxxjq5SqGUV2cyIWSvoIFfrUcx6ac97WO4yYkH101clid1j9v50DULaLyDlN9uw6mtSzrpEYujBndWuJX2bFRw8AUEr8q%2B1GIDlo0YFmwsSExGVLPCQ1aFOEZWW9uJgNsYqfdKH4LHbdanwV34cQQhKJFM9aYjSUNTHB0bZU5E70RzwpeSSFCfLQ6x6wkvaYufqBa2CkTC5y3z7jtyJR7MilHSreZhLOarlIe49vorrpJf6ZLFXYgcMeyUfWdfS6b1sjxlg2OWwJW1d%2FDIPXB%2F7OCP5Z5BUvJtzFY3whI984MVGhw0yI0io%2ByZ7jc%3D%7Ctkp%3ABk9SR4aCgOODaA",
+        "shippingC": 540,
+        "landedC": 800540,
+        "url": "https://www.ebay.com/itm/336741025460?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0SCBC93EYVHB5SPTXVBFPWR&hash=item4e675446b4:g:zmIAAeSw1cJqfzfu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBx%2FQLxxjq5SqGUV2cyIWSvoIFfrUcx6ac97WO4yYkH101clid1j9v50DULaLyDlN9uw6mtSzrpEYujBndWuJX2bFRw8AUEr8q%2B1GIDlo0YFmwsSExGVLPCQ1aFOEZWW9sW65hnh3ifi3IXZq1k9noIX0QHTbkmkywx9DLIdQ%2BBw2Zvfogi60OmjG7p8P6dudCJuK%2Fy10RKjGuSXESU%2Fn2qkpJvgv2gITp%2FYp3Cs8Hz%2BCJEvXYBx8N0xK1pPTVg7DtzLVm7yApPD%2BvEhedOUz4nol6fHffw%2FrEcAt6WzB5Fj0zLKHi3ICIGuQJAj%2FLxnKY%3D%7Ctkp%3ABk9SR_DErayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/zmIAAeSw1cJqfzfu/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787212943224
+        "lastSeen": 1787558299109
+      },
+      {
+        "itemId": "287536560838",
+        "title": "Pokemon Snorlax Reverse Holo Skyridge 100/144 PSA 10 Gem MintOpens in a new window or tab",
+        "priceC": 12500000,
+        "shippingC": 999,
+        "landedC": 12500999,
+        "url": "https://www.ebay.com/itm/287536560838?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043378878&itmmeta=01M0SCBC9415D6D6K8D9TPT2HR&hash=item42f283bac6:g:du4AAeSwvk9qhyt8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDG2IXvmRDOqGSlgOfBNC4GzwUGbBIXUHFVRs%2BNMMHohdJ4Oy9PsQZ6hZ6msZ%2BlY2a8xflJRxDGHciJcnByoHh512NTfz%2BlQGyyyJVqKGvB%2B87qt%2B5et4XdWcx3fOy0Z0KXDyAMjO%2BKlGVdgq6CEq4WxLCNA7wzIGgJ4Ehp2SylLlP6nq85uIjX4URAvccPwAWGhI1UXfBJ4Zb4B2f2hwJkmUoa3%2BSm2bwnjjIA0LWBswYJjL9wEyOlAIqvuUNgEZMKr97d2l%2FP%2BXIt4xGOTs5z%7Ctkp%3ABk9SR_LErayGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/du4AAeSwvk9qhyt8/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787299940081,
+        "lastSeen": 1787558299109
       }
     ],
     "marketHistory": {
@@ -1765,7 +1792,7 @@
       ],
       "englishSaleCount": 128,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787212740362
+      "lastCapturedAt": 1787558098148
     }
   }
 }

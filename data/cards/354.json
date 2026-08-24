@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 354,
@@ -18,18 +18,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/62c277be1ffd29a3b9fb3dde42ffb6b1251fa98470678bf69168e6a2eaf602fc/1600.jpg",
       "popularityScore": 77,
       "market": {
-        "ungradedC": 4266,
-        "grade9C": 32306,
+        "ungradedC": 4288,
+        "grade9C": 32278,
         "grade95C": 35500,
-        "cgc10C": 75153,
-        "cgc10PristineC": 135300,
-        "psa10C": 409976,
-        "bgs10C": 533000,
+        "cgc10C": 73809,
+        "cgc10PristineC": 132900,
+        "psa10C": 409888,
+        "bgs10C": 532900,
         "psa9Pop": 781,
         "psa10Pop": 69,
         "cgc10Pop": 37,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787209583885
+        "fetchedAt": 1787555161082
       },
       "bestCgc10": {
         "itemId": "127987383610",
@@ -37,13 +37,13 @@
         "priceC": 295000,
         "shippingC": 0,
         "landedC": 295000,
-        "url": "https://www.ebay.com/itm/127987383610?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0FFNFWF4SC4D44NR8WW9J9W&hash=item1dcca47d3a:g:I-sAAeSwvM9qX-CP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAINpBJfQPxqsZb2c89EGp9NyRE99rYTcuE7%2FUkc3O3aXM6A5npic1qS0BiNzDG0jMbOkm5DXwqGAzhC0z28QOR%2Fg6dBG6H8FdXciHFZqADtGbFCLQSVgtkfZ0vfBZe%2BYjhhY%2FQNq6hqsj%2FGLr4HYvWX%2FxmIFJdjFrVdA0BtprofBKlmWLfb228%2BvcsJpJ%2FN6BZGC0KElxI%2BdkmwklF%2FTH2z%2B4MSMQvSyKf4I50nSVWFdWjCBnuM3dTtCYaPcmcMo0Gr5lSlSvJdw9QiH%2BE4t0KJc7b3kq5TYQcOmI%2BYpkHyqH%2B9i4d1uB059bbPZk0%2FGk%3D%7Ctkp%3ABk9SR7b-1e-DaA",
+        "url": "https://www.ebay.com/itm/127987383610?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0SJYMBY2BWGNETTCYT5ASBY&hash=item1dcca47d3a:g:I-sAAeSwvM9qX-CP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAINpBJfQPxqsZb2c89EGp9NyRE99rYTcuE7%2FUkc3O3aXM6A5npic1qS0BiNzDG0jMbOkm5DXwqGAzhC0z28QOR%2Fg6dBG6H8FdXciHFZqADtGbFCLQSVgtkfZ0vfBZe%2BYjyjEAYLfdfTe5I%2BdptMSkDhTnjjzLsoWr4LM6YEnPxZEJPuvzyo1HquLAQ065a9GgX%2BZXb59Y9bcU9lq8%2FfBcst8wGOAfQm5GKNQ4vJInifQn52lt2Y%2FiHpY2jjCdPEqRfCfHIkqb3qz4vpWzuA1FVeo1byXc1DBoZi1PCCt2ipICmSDu2rt3B5sfjGdWNflE%3D%7Ctkp%3ABk9SR6TG-rKGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/I-sAAeSwvM9qX-CP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       "bestPsa10": {
         "itemId": "267743997497",
@@ -51,13 +51,13 @@
         "priceC": 2999999,
         "shippingC": 0,
         "landedC": 2999999,
-        "url": "https://www.ebay.com/itm/267743997497?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0FFNFWFSPFYVE2YYN6HW378&hash=item3e56c92e39:g:GpUAAeSwIO1puXoz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xARUP6qBqYyxrep17YtpP1D4FawHMMMKzqwhm0ZPSY2hpKnL3RSuv3J01%2FHh3r81W%2FvNJ2dsEcOnsBBp%2BVtishVXLRCLBt0Utkit%2FfM6AMDyu732MXKrZ5xuNfAN%2FIWI2vmCyQ6dhCFnXZX09fJA2eM32QFYqvkh8RXmAyMBNyS%2FXgZT0zMEvxTGhAxnYAP9VXKDAgxrnxpqunBwg8%2F0H%2Fj%2FmpZXi%2FZb%2FjI7NusWqH4W3%2BCrJhuK7xVqs0llqNZKG8ibYL%2By8tntseo7FthjCEV%7Ctkp%3ABk9SR7j-1e-DaA",
+        "url": "https://www.ebay.com/itm/267743997497?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0SJYMBZ7VRVG8JYM52KGNNM&hash=item3e56c92e39:g:GpUAAeSwIO1puXoz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xARUP6qBqYyxrep17YtpP1D4FawHMMMKzqwhm0ZPSY2hikRs46K4oiAPBwocbYPHaBTIt6cJY1vS1Ygwh4TY5bDvQ7DGAB6ShnOfNB7Gtuv8Sb5W7cO9QoT8XfBePbZdshEOnomeRjrNbkUP9OIK1gIm3Nmi5ugy9Ft%2BnXMXEpYCnRONIbxZatPCX%2FVfcxnSWn0TqadnP8YTjUr%2FHsy2NiaCBAujIH0pbcNpX0kmYia4BKjh%2BoeTXyu76TZDgHKoAOZzsqTMIBeWPT7P37%2FFgsp%7Ctkp%3ABk9SR6bG-rKGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GpUAAeSwIO1puXoz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       "bestPsa9": {
         "itemId": "257396537627",
@@ -65,13 +65,13 @@
         "priceC": 37500,
         "shippingC": 597,
         "landedC": 38097,
-        "url": "https://www.ebay.com/itm/257396537627?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0FFNFWD7VY0T8W2KR75QYWR&hash=item3bee07791b:g:YJIAAeSwLkJprcQZ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA5agBVDWe%2Fe0zSO5RJnBNy88Ya4LJNoYyLU790LFfMQ%2FsRFB3m5WuiV55u9JJjCd8pYmhy%2Bx%2B4VAg0fydY0nvq6qZUpSw%2Fuc1cT5iSJ9wRH9thCWvVubh42%2FPAlZK%2FQpOMgvYLU6BAR7gvnbgjJSsE1YIYzwrzMsvejZdVa0gcl%2FBu4rbCfSwM98k7Hb%2F6dgxOT50hKW%2FsnlAGQ04IA6tZaiFOpqycdS3TNVs7qwFztzIMe7dyAQRm8rf95Pl5FoBf0U2fFy3SNj8N31rjoK0xpi2Y2vIYA58uzj2D05L%2BQd%2B4tZhbK5aMiGTU5a%2F6TA4%3D%7Ctkp%3ABk9SR7T-1e-DaA",
+        "url": "https://www.ebay.com/itm/257396537627?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0SJYMBV78T7J68GDM6CQTJS&hash=item3bee07791b:g:YJIAAeSwLkJprcQZ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA5agBVDWe%2Fe0zSO5RJnBNy88Ya4LJNoYyLU790LFfMQ%2FsRFB3m5WuiV55u9JJjCd8pYmhy%2Bx%2B4VAg0fydY0nvq6qZUpSw%2Fuc1cT5iSJ9wRH9thCWvVubh42%2FPAlZK%2FQpMUh8xsEYzQT40f%2FjK3aMOct%2Bg4bg7%2BtwOdY9%2F5FGwzUoupo%2FbdI8coRGk6IeCsAdkYo4dKS9dlljJcaLOQBPv2aLfIPEPAgwrb4fHntEE4ZBCuQPrrCeWdxM8MSrdSj6feRdjCnZ%2F3eqx07cECmUWcwCnrvwWbdJgt4rTmM2vcIrqxRJEcXUcxxWjDld%2F3dkQ%3D%7Ctkp%3ABk9SR57G-rKGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/YJIAAeSwLkJprcQZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       "counts": {
         "cgc10Bin": 1,
@@ -93,41 +93,55 @@
         "cgc10CostC": 295000,
         "submissionFeeC": 34900,
         "totalCostC": 329900,
-        "psa10ValueC": 409976,
-        "ratio": 1.242728099424068
+        "psa10ValueC": 409888,
+        "ratio": 1.2424613519248258
       },
       "firstOpportunityAt": 1787038800668,
-      "updatedAt": 1787227384326
+      "updatedAt": 1787565789327
     },
     "prices": {
       "variantId": 354,
-      "ungradedC": 4266,
-      "grade9C": 32306,
+      "ungradedC": 4288,
+      "grade9C": 32278,
       "grade95C": 35500,
-      "cgc10C": 75153,
-      "cgc10PristineC": 135300,
-      "psa10C": 409976,
+      "cgc10C": 73809,
+      "cgc10PristineC": 132900,
+      "psa10C": 409888,
       "psa9Pop": 781,
       "psa10Pop": 69,
       "cgc10Pop": 37,
-      "bgs10C": 533000,
+      "bgs10C": 532900,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787209583885
+      "fetchedAt": 1787555161082
     },
     "listings": [
+      {
+        "itemId": "287538830736",
+        "title": "Pokemon Clefable Holo Jungle 1/64 1st Edition PSA 9 MintOpens in a new window or tab",
+        "priceC": 99,
+        "shippingC": 699,
+        "landedC": 798,
+        "url": "https://www.ebay.com/itm/287538830736?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0SJY90E573H2VGH82WRBA1P&hash=item42f2a65d90:g:V2kAAeSwfDJqdh9h&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDhluyFWxQxslsVP1XI7kCoONW%2BZtZaxOHxjkzCaZg8wmqKi1dEg48Rueyv9fzKt0UInTWWbuGCt9D9aMlkkJ3Q7P7xu2diQHfYKgtFlMVy3DTrwGObiZ2LTr1XJTdMcieS766MXUfnpg4YQDNcJKd6lGvgyn%2BT7xK%2BJ2va2FBlKnuNe1u%2BnMMC7Guj1g6Lovl54gP7edAtuLlxiq4bf%2BiPUBtujkME4nuxhZNX2Dq2YDI8D%2BUn5BVKE9qHVjV5pDCpI%2F3e2%2BFTX%2BXJ3cgkvDJHsemk%2F9SjEkNh70oBfe5vZv2FeMO6XLWuvgqjZ8vXpQg%3D%7Ctkp%3ABk9SR86Q-bKGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/V2kAAeSwfDJqdh9h/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787555336878,
+        "lastSeen": 1787565789327
+      },
       {
         "itemId": "257396537627",
         "title": "1999 POKEMON JUNGLE 1ST EDITION #1/64 CLEFABLE HOLO PSA 9Opens in a new window or tab",
         "priceC": 37500,
         "shippingC": 597,
         "landedC": 38097,
-        "url": "https://www.ebay.com/itm/257396537627?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0FFNFWD7VY0T8W2KR75QYWR&hash=item3bee07791b:g:YJIAAeSwLkJprcQZ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA5agBVDWe%2Fe0zSO5RJnBNy88Ya4LJNoYyLU790LFfMQ%2FsRFB3m5WuiV55u9JJjCd8pYmhy%2Bx%2B4VAg0fydY0nvq6qZUpSw%2Fuc1cT5iSJ9wRH9thCWvVubh42%2FPAlZK%2FQpOMgvYLU6BAR7gvnbgjJSsE1YIYzwrzMsvejZdVa0gcl%2FBu4rbCfSwM98k7Hb%2F6dgxOT50hKW%2FsnlAGQ04IA6tZaiFOpqycdS3TNVs7qwFztzIMe7dyAQRm8rf95Pl5FoBf0U2fFy3SNj8N31rjoK0xpi2Y2vIYA58uzj2D05L%2BQd%2B4tZhbK5aMiGTU5a%2F6TA4%3D%7Ctkp%3ABk9SR7T-1e-DaA",
+        "url": "https://www.ebay.com/itm/257396537627?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0SJYMBV78T7J68GDM6CQTJS&hash=item3bee07791b:g:YJIAAeSwLkJprcQZ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA5agBVDWe%2Fe0zSO5RJnBNy88Ya4LJNoYyLU790LFfMQ%2FsRFB3m5WuiV55u9JJjCd8pYmhy%2Bx%2B4VAg0fydY0nvq6qZUpSw%2Fuc1cT5iSJ9wRH9thCWvVubh42%2FPAlZK%2FQpMUh8xsEYzQT40f%2FjK3aMOct%2Bg4bg7%2BtwOdY9%2F5FGwzUoupo%2FbdI8coRGk6IeCsAdkYo4dKS9dlljJcaLOQBPv2aLfIPEPAgwrb4fHntEE4ZBCuQPrrCeWdxM8MSrdSj6feRdjCnZ%2F3eqx07cECmUWcwCnrvwWbdJgt4rTmM2vcIrqxRJEcXUcxxWjDld%2F3dkQ%3D%7Ctkp%3ABk9SR57G-rKGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/YJIAAeSwLkJprcQZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "147262548002",
@@ -135,13 +149,13 @@
         "priceC": 40000,
         "shippingC": 562,
         "landedC": 40562,
-        "url": "https://www.ebay.com/itm/147262548002?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=19043376325&itmmeta=01M0FFNFWEGVYK8CAC9WRK96RX&hash=item2249882822:g:eU8AAeSwGgVp4YUj&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCtiii0YZkkk6k8x%2F2M8QwRfKH00DL6RtHu30BOGp%2B5Nvga0orRpKLAkAFhunuAcqlgcMIC5gb2KkuoOWuVJnu6yRC9wOytCOCeXFVvYGL%2BJ1Ud96wNOSnMrI%2BLnMum7jfCBz1teqlg3SubJTaAEj4HKdJMAXeuDLP66cNiEOJ%2FaAcwIOJ32MkIaw5ZMb4H3a7ffj59OFW2jYO%2BHP%2BU39dd1OBrJPno0yYy2eonongB2Vl59%2B2QZqc0oHO07MmvXwMaiCax5lpcNssGF7mpDER8%7Ctkp%3ABk9SR7T-1e-DaA",
+        "url": "https://www.ebay.com/itm/147262548002?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=19043376325&itmmeta=01M0SJYMBVZTYBE5XFX9SE692E&hash=item2249882822:g:eU8AAeSwGgVp4YUj&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDtDBBXkoPF%2FjkIGoLwtqXQpyor14jgjb0uxghv37jkgfUi8LpazwZ0Og91pI9HEKeyIZL6ZJoPC9qGfyc%2B2JBGxeWmmQ51SiiJKjeqBCcno%2FOCN7QVw65ZFYZGGcYFQ18Iy3NkaQuHlNlPj4wr1NCVVgDf1YU9Lr2G1Q%2FMvRJxOggnwiiUeBV0E9M8dIwEk8fo0Qc3ka2Wm0q4q6qUbYMIbpuhT1kzLNaTR0rwcOHvF8Ylqwn6Y72gVINN%2FcYi5clQCR00o8FX%2F2C%2BkCJ2LA3CaMIo6ZgfznoC%2BF1md1fIO%2BPG8XdqYFkO8TwVc1rpSHk%3D%7Ctkp%3ABk9SR57G-rKGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/eU8AAeSwGgVp4YUj/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "287320431439",
@@ -149,27 +163,27 @@
         "priceC": 39999,
         "shippingC": 699,
         "landedC": 40698,
-        "url": "https://www.ebay.com/itm/287320431439?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0FFNFWEDWMY95A1VM1YY0ER&hash=item42e5a1db4f:g:hzsAAeSwOA1p~OTB&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAljwJN76NLDLMjpa8voFn0wzqIMKqm2i9t8%2BreQseilNpriwhidrFNqOnWlWUIZvui1NHkHHbeAvFhWnY%2B5fj%2FusFiSSIQV6fV9UCz8jzFsoz4mfnm2FQKFgGouk5R9XQ7PkGG1uAUeogb9NNdSRwgfS7aJbowqYe52C8%2F3bTm0KagLW%2BBy1U0EbBGOyec7fbYL3O%2BWljCPWiRj6eO6qyD7faBa14TMlrpFYb1bztgYH8CEYYh0JcmgCuch4pAaKTPxYrumx3RLj7A7eenRDVv%7Ctkp%3ABk9SR7T-1e-DaA",
+        "url": "https://www.ebay.com/itm/287320431439?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0SJYMBVMCEZJ5444EZBTE4A&hash=item42e5a1db4f:g:hzsAAeSwOA1p~OTB&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAljwJN76NLDLMjpa8voFn0wzqIMKqm2i9t8%2BreQseilK%2FbVxByiPXlTaKi6901yrSyMRMbd7pnr9kmPva13th4SrAgLfNBYI9IraEIQAkG9Grp4AAJ35YOtbbA618vxsFLZsmrBzceqPxC42Z2rSkJkqTgPjnscUcdf4YdKMAi6GBH53CrCSLsFMRhUyvGg%2B9x5lT6NoG95A%2Bz0VVPr3wtUkkViAZ33a46QseN8zfJXbg138p8i7XFdWUey6MO5R161MmUZXBVBci3pQuU5Fn8%7Ctkp%3ABk9SR57G-rKGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/hzsAAeSwOA1p~OTB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "127916979500",
         "title": "1999 POKEMON JUNGLE 1ST EDITION #1 CLEFABLE-HOLO PSA 9 New LabelOpens in a new window or tab",
-        "priceC": 90804,
+        "priceC": 98700,
         "shippingC": 800,
-        "landedC": 91604,
-        "url": "https://www.ebay.com/itm/127916979500?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0FFNFWER59E0Q7512K2D2WE&hash=item1dc872352c:g:eMsAAeSwlmBqKynY&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBTYnFk%2Fxn%2FB9RtElpsIdSdUByUBN5MBjFSA0tSvRTmIzwhu3RSoROKhZs6zfhWWc4H14yNtBJubqC9rfzN9%2FuhciZFPwrgl7OOemWKeUHmseDvuSaK2ab%2FvROa5DD9k1Ymh9jdGHyK77dIkLrXYveKIHf9Fw4X7DEnqFMDrJBEr4R7tJ63IaLE54V4Z1zfyV6W2XREZh1IcO%2FIYue7QNIdGYskCAvvvDH5FZ7a%2BG31QTDXJq4MeEsTgxUbbIuej6nY%2BbxAea78QpJUbmBnZ5hIOTW97fm0ON8p9wkc5eCxR4Xbx9Uba2W5EMlyH3IzwyI%3D%7Ctkp%3ABk9SR7b-1e-DaA",
+        "landedC": 99500,
+        "url": "https://www.ebay.com/itm/127916979500?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0SJYMBXFXQA0M55R0YJJVE8&hash=item1dc872352c:g:eMsAAeSwlmBqKynY&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBgBnSxnz%2BgKMK4GlT8ViSEg1x0OoL7juHRnjQLN78CnR7al6cvJ1h0HkWlFElv95bG6p8yabL5gv5exkzZhd3RO8ODQV5vFG0Jth6LtfACFExKBGgvQJIQjVkk6VQ4lkWB0WRWkRNh00GX6UBsEJ9CWBH%2BHykuGEXv%2BHhTFxXLpErkKoWEZ7SCNhKLC2mq9hFeHZn5wtWocVbGswp8n1hQ0Wp1pGz4NP3MOhFCV5mb00%2BPY1wV24riSaVdsV9OspzJ2ok97V9Hhf6Q5Lzbo8IQ%7Ctkp%3ABk9SR6LG-rKGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/eMsAAeSwlmBqKynY/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "198176518923",
@@ -177,13 +191,13 @@
         "priceC": 125000,
         "shippingC": 597,
         "landedC": 125597,
-        "url": "https://www.ebay.com/itm/198176518923?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0FFNFWE95JC8CP7NQQB6AZF&hash=item2e243db30b:g:0yYAAeSwk1ppsiI9&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAR6NMBlhC39t4U7ApyVBnRb%2Fiz1Bqjziq%2Fcz664buyJ%2FvQhLJEDia%2BWeffATmAdUkTxmkFFaPOwAs760VjGRjWCzZcbsWWJemVbzcLklHOQHO8t8Ni7aFpry8leOA31Eyf4fSKpD2aB9BPsQ50R2kyWHNHaKNVYWGV9vtom6oOCCx5rtfG6JBFNhHSL1UVEJ3YH5RTY6g7b%2BoEREdil7g7PFJGLLOtl5bWP21aMdAe7eEPkB7WE1vyCALtA6kZ7sIV1eAXtc0jY%2F2LHL4dYwJNlML%2BBH6g7VamJnww10C66W1bYHWxunAB0KQFUSN7jqw%3D%7Ctkp%3ABk9SR7b-1e-DaA",
+        "url": "https://www.ebay.com/itm/198176518923?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0SJYMBXZCSC7TJ79EV3R1WM&hash=item2e243db30b:g:0yYAAeSwk1ppsiI9&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAR6NMBlhC39t4U7ApyVBnRb%2Fiz1Bqjziq%2Fcz664buyJ%2FvQhLJEDia%2BWeffATmAdUkTxmkFFaPOwAs760VjGRjWCzZcbsWWJemVbzcLklHOQHO8t8Ni7aFpry8leOA31EwPoyDrJUZcQEKCxAudnVrHkqBYNZntVLD1%2BTLsZd6DWpxpq1oVidd3MxVH52WWMVtJvXhoBeZ7YFcNDiaV2WesFy%2FFjkuYkC6j%2BakWAPVwNskCcgPVGfiQOfnAbP2%2FUIljmuJVQwSpV8VW%2FqkGxOhIO0q0MUB7vGMzdlaBqn9HM0NqiCiJMBuPybURa6nEv6Y%3D%7Ctkp%3ABk9SR6TG-rKGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/0yYAAeSwk1ppsiI9/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "127987383610",
@@ -191,13 +205,13 @@
         "priceC": 295000,
         "shippingC": 0,
         "landedC": 295000,
-        "url": "https://www.ebay.com/itm/127987383610?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0FFNFWF4SC4D44NR8WW9J9W&hash=item1dcca47d3a:g:I-sAAeSwvM9qX-CP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAINpBJfQPxqsZb2c89EGp9NyRE99rYTcuE7%2FUkc3O3aXM6A5npic1qS0BiNzDG0jMbOkm5DXwqGAzhC0z28QOR%2Fg6dBG6H8FdXciHFZqADtGbFCLQSVgtkfZ0vfBZe%2BYjhhY%2FQNq6hqsj%2FGLr4HYvWX%2FxmIFJdjFrVdA0BtprofBKlmWLfb228%2BvcsJpJ%2FN6BZGC0KElxI%2BdkmwklF%2FTH2z%2B4MSMQvSyKf4I50nSVWFdWjCBnuM3dTtCYaPcmcMo0Gr5lSlSvJdw9QiH%2BE4t0KJc7b3kq5TYQcOmI%2BYpkHyqH%2B9i4d1uB059bbPZk0%2FGk%3D%7Ctkp%3ABk9SR7b-1e-DaA",
+        "url": "https://www.ebay.com/itm/127987383610?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0SJYMBY2BWGNETTCYT5ASBY&hash=item1dcca47d3a:g:I-sAAeSwvM9qX-CP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAINpBJfQPxqsZb2c89EGp9NyRE99rYTcuE7%2FUkc3O3aXM6A5npic1qS0BiNzDG0jMbOkm5DXwqGAzhC0z28QOR%2Fg6dBG6H8FdXciHFZqADtGbFCLQSVgtkfZ0vfBZe%2BYjyjEAYLfdfTe5I%2BdptMSkDhTnjjzLsoWr4LM6YEnPxZEJPuvzyo1HquLAQ065a9GgX%2BZXb59Y9bcU9lq8%2FfBcst8wGOAfQm5GKNQ4vJInifQn52lt2Y%2FiHpY2jjCdPEqRfCfHIkqb3qz4vpWzuA1FVeo1byXc1DBoZi1PCCt2ipICmSDu2rt3B5sfjGdWNflE%3D%7Ctkp%3ABk9SR6TG-rKGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/I-sAAeSwvM9qX-CP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       },
       {
         "itemId": "267743997497",
@@ -205,17 +219,43 @@
         "priceC": 2999999,
         "shippingC": 0,
         "landedC": 2999999,
-        "url": "https://www.ebay.com/itm/267743997497?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0FFNFWFSPFYVE2YYN6HW378&hash=item3e56c92e39:g:GpUAAeSwIO1puXoz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xARUP6qBqYyxrep17YtpP1D4FawHMMMKzqwhm0ZPSY2hpKnL3RSuv3J01%2FHh3r81W%2FvNJ2dsEcOnsBBp%2BVtishVXLRCLBt0Utkit%2FfM6AMDyu732MXKrZ5xuNfAN%2FIWI2vmCyQ6dhCFnXZX09fJA2eM32QFYqvkh8RXmAyMBNyS%2FXgZT0zMEvxTGhAxnYAP9VXKDAgxrnxpqunBwg8%2F0H%2Fj%2FmpZXi%2FZb%2FjI7NusWqH4W3%2BCrJhuK7xVqs0llqNZKG8ibYL%2By8tntseo7FthjCEV%7Ctkp%3ABk9SR7j-1e-DaA",
+        "url": "https://www.ebay.com/itm/267743997497?_skw=%28clefable%29+%281%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380403&itmmeta=01M0SJYMBZ7VRVG8JYM52KGNNM&hash=item3e56c92e39:g:GpUAAeSwIO1puXoz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xARUP6qBqYyxrep17YtpP1D4FawHMMMKzqwhm0ZPSY2hikRs46K4oiAPBwocbYPHaBTIt6cJY1vS1Ygwh4TY5bDvQ7DGAB6ShnOfNB7Gtuv8Sb5W7cO9QoT8XfBePbZdshEOnomeRjrNbkUP9OIK1gIm3Nmi5ugy9Ft%2BnXMXEpYCnRONIbxZatPCX%2FVfcxnSWn0TqadnP8YTjUr%2FHsy2NiaCBAujIH0pbcNpX0kmYia4BKjh%2BoeTXyu76TZDgHKoAOZzsqTMIBeWPT7P37%2FFgsp%7Ctkp%3ABk9SR6bG-rKGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GpUAAeSwIO1puXoz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787227384326
+        "lastSeen": 1787565789327
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 3593731,
+          "saleDate": "2026-08-23",
+          "priceC": 27500,
+          "title": "1999 POKEMON JUNGLE - 1ST ED. - HOLO #1/64 CLEFABLE MINT CGC 9 With Slab Guard 1/64",
+          "url": "https://www.ebay.com/itm/278286807464?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 9,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2936545,
+          "saleDate": "2026-08-22",
+          "priceC": 4000,
+          "title": "Pokémon TCG Clefable 1/64 Jungle 1st Edition Holo Rare 1999 English 01/64",
+          "url": "https://www.ebay.com/itm/377420975173?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 824119,
           "saleDate": "2026-08-19",
@@ -1749,32 +1789,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 70573,
-          "saleDate": "2026-05-18",
-          "priceC": 14888,
-          "title": "Pokémon TCG Clefable Jungle 1st Edition Holo Rare 1999 PSA 8 1/64 English 01/64",
-          "url": "https://www.ebay.com/itm/277879277835?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 70574,
-          "saleDate": "2026-05-16",
-          "priceC": 14900,
-          "title": "1999 POKEMON JUNGLE 1ST EDITION #1 CLEFABLE-HOLO PSA 8 #1",
-          "url": "https://www.ebay.com/itm/298306548602?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1874,9 +1888,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 255,
+      "englishSaleCount": 257,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787209582164
+      "lastCapturedAt": 1787555159400
     }
   }
 }

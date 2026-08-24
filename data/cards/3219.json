@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 3219,
@@ -18,42 +18,55 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/c35553451c130a85c3af27363041fb953b8b226c07f3860a3f4e34c7a7f346f0/1600.jpg",
       "popularityScore": 97,
       "market": {
-        "ungradedC": 4913,
+        "ungradedC": 4919,
         "grade9C": 19999,
         "grade95C": 22000,
         "cgc10C": 50600,
         "cgc10PristineC": 60101,
-        "psa10C": 524864,
-        "bgs10C": 682300,
+        "psa10C": 523056,
+        "bgs10C": 680000,
         "psa9Pop": 92,
         "psa10Pop": 13,
         "cgc10Pop": 25,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787213101027
+        "fetchedAt": 1787558452152
       },
       "bestCgc10": {
         "itemId": "800469335941",
         "title": "Cgc 10 Pokemon Eevee TCG Reverse Holo Card EX Sandstorm 63/100 Gem Pop 20Opens in a new window or tab",
-        "priceC": 142429,
-        "shippingC": 3563,
-        "landedC": 145992,
-        "url": "https://www.ebay.com/itm/800469335941?_skw=%28eevee%29+%2863%2Csandstorm%29+%28CGC%2CPSA%29&itmmeta=01M0F3A2QFXD9XWTJ6FWBQ230E&hash=itemba5fb0bf85:g:tMQAAeSwRXVqdCkw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAe%2FMsVGk43thXv2L3wYKaJYqD7KpGTG8TB2S%2B1Ajr0sfCkWxn%2BXpLeAmETCWIUNJ%2FgeudWigron2jCJUMJMFVGyik%2F67yoMDEOvJ%2F2uHqIbn9Ft9NgA%2Fz1drf9sOThuqwA9NFSWfMhCT2hH07OL3xJzVxfM7k9ZVv%2Fo8XwwohJSMPxqcw%2Belz6x%2Fc9CrcovcjpwOFHW6316m%2FcoTijki3o%2Bb4X3LyRyh5vzyipll43I%2Bkn2sdBZTVN%2F29Sc02%2FEysy34aR8kU7N91nHrrsBlp9%7Ctkp%3ABk9SR4SsqOODaA",
+        "priceC": 143348,
+        "shippingC": 3586,
+        "landedC": 146934,
+        "url": "https://www.ebay.com/itm/800469335941?_skw=%28eevee%29+%2863%2Csandstorm%29+%28CGC%2CPSA%29&itmmeta=01M0SCN0D2PEZYXM6MDD6FV4MG&hash=itemba5fb0bf85:g:tMQAAeSwRXVqdCkw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAe%2FMsVGk43thXv2L3wYKaJYqD7KpGTG8TB2S%2B1Ajr0sQ817JAaAP8T6cpY%2FT4FiEy10ENBxFLI3rJQNsthOEDMbTe5WsreupGMLHoo12KSH0Hr2ft%2FDLPAU3xpC4e%2F7owEgo1RpU0mmk%2BArs570M0idyI7b0bSCg1wJ2N7dQe5kgvtu2SuelXgpNgm7rH%2F6luYUnUfo0%2B5937OFnYWr4tRluBtdkmcSghdQSj8NU5%2FdUS8wYO4BHnV4sgW0f9nfXgPir%2B5AQf1F175NR22gJNS%7Ctkp%3ABk9SR9yG1KyGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/tMQAAeSwRXVqdCkw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787057553322,
-        "lastSeen": 1787213250072
+        "lastSeen": 1787558576390
       },
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "206509887239",
+        "title": "2003 Pokemon Reverse Holo Foil Eevee Pokemon EX Sandstorm 63/100 PSA 9 MintOpens in a new window or tab",
+        "priceC": 75041,
+        "shippingC": 4295,
+        "landedC": 79336,
+        "url": "https://www.ebay.com/itm/206509887239?_skw=%28eevee%29+%2863%2Csandstorm%29+%28CGC%2CPSA%29&epid=6052765571&itmmeta=01M0SCN0D2SK99YG5BRXWRJAN6&hash=item3014f2cf07:g:kYcAAeSw61RqiayW&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAC09VFUkBJRgDH2%2FOlTAVSrZUfLs7fKseSTgzwI9wiJtNLYS5LyY8yDdAJCrQXjvHhPI7cqfw4CoMhXXzrHfe3z2FS5cdxT7JoY98KtTbMwryA3MyV9%2B7FxVN%2BznRN2ezvvFFGCeDfcwWuFI2Pzr%2BWRqXmHk8U62s3anX84TrBFz1Uzf7RRpDQ21OLyqJwgsulbfJnsWkEiAREfxihV4mKL%2FRWF3fWF768Od%2BTS3Ek0yqkWbRSw%2BUBlAN2o8tu2xxGA6lmVX727E9q9kgEtks%2B1GWrH%2B5K1hn06uS4db0Ygr6YvdKvBeP3Ry4DBFYMdIA%3D%7Ctkp%3ABk9SR9yG1KyGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/kYcAAeSw61RqiayW/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787473052679,
+        "lastSeen": 1787558576390
+      },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -64,44 +77,58 @@
           "declaredValueCapC": 1000000,
           "turnaroundBizDays": 10
         },
-        "cgc10CostC": 145992,
+        "cgc10CostC": 146934,
         "submissionFeeC": 59900,
-        "totalCostC": 205892,
-        "psa10ValueC": 524864,
-        "ratio": 2.549219979406679
+        "totalCostC": 206834,
+        "psa10ValueC": 523056,
+        "ratio": 2.528868561261688
       },
       "firstOpportunityAt": 1787057553322,
-      "updatedAt": 1787213250072
+      "updatedAt": 1787558576390
     },
     "prices": {
       "variantId": 3219,
-      "ungradedC": 4913,
+      "ungradedC": 4919,
       "grade9C": 19999,
       "grade95C": 22000,
       "cgc10C": 50600,
       "cgc10PristineC": 60101,
-      "psa10C": 524864,
+      "psa10C": 523056,
       "psa9Pop": 92,
       "psa10Pop": 13,
       "cgc10Pop": 25,
-      "bgs10C": 682300,
+      "bgs10C": 680000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787213101027
+      "fetchedAt": 1787558452152
     },
     "listings": [
       {
+        "itemId": "206509887239",
+        "title": "2003 Pokemon Reverse Holo Foil Eevee Pokemon EX Sandstorm 63/100 PSA 9 MintOpens in a new window or tab",
+        "priceC": 75041,
+        "shippingC": 4295,
+        "landedC": 79336,
+        "url": "https://www.ebay.com/itm/206509887239?_skw=%28eevee%29+%2863%2Csandstorm%29+%28CGC%2CPSA%29&epid=6052765571&itmmeta=01M0SCN0D2SK99YG5BRXWRJAN6&hash=item3014f2cf07:g:kYcAAeSw61RqiayW&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAC09VFUkBJRgDH2%2FOlTAVSrZUfLs7fKseSTgzwI9wiJtNLYS5LyY8yDdAJCrQXjvHhPI7cqfw4CoMhXXzrHfe3z2FS5cdxT7JoY98KtTbMwryA3MyV9%2B7FxVN%2BznRN2ezvvFFGCeDfcwWuFI2Pzr%2BWRqXmHk8U62s3anX84TrBFz1Uzf7RRpDQ21OLyqJwgsulbfJnsWkEiAREfxihV4mKL%2FRWF3fWF768Od%2BTS3Ek0yqkWbRSw%2BUBlAN2o8tu2xxGA6lmVX727E9q9kgEtks%2B1GWrH%2B5K1hn06uS4db0Ygr6YvdKvBeP3Ry4DBFYMdIA%3D%7Ctkp%3ABk9SR9yG1KyGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/kYcAAeSw61RqiayW/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787473052679,
+        "lastSeen": 1787558576390
+      },
+      {
         "itemId": "800469335941",
         "title": "Cgc 10 Pokemon Eevee TCG Reverse Holo Card EX Sandstorm 63/100 Gem Pop 20Opens in a new window or tab",
-        "priceC": 142429,
-        "shippingC": 3563,
-        "landedC": 145992,
-        "url": "https://www.ebay.com/itm/800469335941?_skw=%28eevee%29+%2863%2Csandstorm%29+%28CGC%2CPSA%29&itmmeta=01M0F3A2QFXD9XWTJ6FWBQ230E&hash=itemba5fb0bf85:g:tMQAAeSwRXVqdCkw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAe%2FMsVGk43thXv2L3wYKaJYqD7KpGTG8TB2S%2B1Ajr0sfCkWxn%2BXpLeAmETCWIUNJ%2FgeudWigron2jCJUMJMFVGyik%2F67yoMDEOvJ%2F2uHqIbn9Ft9NgA%2Fz1drf9sOThuqwA9NFSWfMhCT2hH07OL3xJzVxfM7k9ZVv%2Fo8XwwohJSMPxqcw%2Belz6x%2Fc9CrcovcjpwOFHW6316m%2FcoTijki3o%2Bb4X3LyRyh5vzyipll43I%2Bkn2sdBZTVN%2F29Sc02%2FEysy34aR8kU7N91nHrrsBlp9%7Ctkp%3ABk9SR4SsqOODaA",
+        "priceC": 143348,
+        "shippingC": 3586,
+        "landedC": 146934,
+        "url": "https://www.ebay.com/itm/800469335941?_skw=%28eevee%29+%2863%2Csandstorm%29+%28CGC%2CPSA%29&itmmeta=01M0SCN0D2PEZYXM6MDD6FV4MG&hash=itemba5fb0bf85:g:tMQAAeSwRXVqdCkw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAe%2FMsVGk43thXv2L3wYKaJYqD7KpGTG8TB2S%2B1Ajr0sQ817JAaAP8T6cpY%2FT4FiEy10ENBxFLI3rJQNsthOEDMbTe5WsreupGMLHoo12KSH0Hr2ft%2FDLPAU3xpC4e%2F7owEgo1RpU0mmk%2BArs570M0idyI7b0bSCg1wJ2N7dQe5kgvtu2SuelXgpNgm7rH%2F6luYUnUfo0%2B5937OFnYWr4tRluBtdkmcSghdQSj8NU5%2FdUS8wYO4BHnV4sgW0f9nfXgPir%2B5AQf1F175NR22gJNS%7Ctkp%3ABk9SR9yG1KyGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/tMQAAeSwRXVqdCkw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787057553322,
-        "lastSeen": 1787213250072
+        "lastSeen": 1787558576390
       }
     ],
     "marketHistory": {
@@ -181,6 +208,19 @@
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2390267,
+          "saleDate": "2026-08-03",
+          "priceC": 4988,
+          "title": "2003 POKEMON EX SANDSTORM #63 EEVEE-REVERSE FOIL PSA 5 #63",
+          "url": "https://www.ebay.com/itm/298522800824?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 5,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1652,19 +1692,6 @@
           "gradingGrade": 10,
           "gradingDesignation": "gem-mint",
           "agreementStatus": "match"
-        },
-        {
-          "id": 478374,
-          "saleDate": "2023-10-29",
-          "priceC": 5000,
-          "title": "2003 Pokemon EX Sandstorm Reverse Holo Eevee 63/100 - HP",
-          "url": "https://www.ebay.com/itm/394951245530?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "raw",
-          "gradingCompany": null,
-          "gradingGrade": null,
-          "gradingDesignation": null,
-          "agreementStatus": "mismatch"
         }
       ],
       "monthlyPsa10": [
@@ -1694,9 +1721,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 132,
+      "englishSaleCount": 133,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787213099618
+      "lastCapturedAt": 1787558450246
     }
   }
 }

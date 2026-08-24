@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 14787,
@@ -23,13 +23,13 @@
         "grade95C": 46700,
         "cgc10C": 70000,
         "cgc10PristineC": 126000,
-        "psa10C": 61517,
-        "bgs10C": 80000,
+        "psa10C": 500000,
+        "bgs10C": 650000,
         "psa9Pop": 118,
         "psa10Pop": 33,
         "cgc10Pop": 1,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\"}",
-        "fetchedAt": 1787224270723
+        "fetchedAt": 1787563931022
       },
       "bestCgc10": {
         "itemId": "257623550023",
@@ -37,13 +37,13 @@
         "priceC": 200000,
         "shippingC": 0,
         "landedC": 200000,
-        "url": "https://www.ebay.com/itm/257623550023?_skw=%28entei%2Craikou%2Clegend%29+%2890%2Cunleashed%29+%28CGC%2CPSA%29&epid=8043377385&itmmeta=01M0FDYZZK9YA1H22RPZKZVX2A&hash=item3bfb8f6847:g:RBYAAeSwuzZqWDni&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCQhdtOwY3vSzRQKOdEZ6l9DARXnv8cVvcL5daDmmKPi587gw4NmjauufkEnuPinM9sk9WRBLQAE1hXiDJdd9FiX3keHkMcRYLs3InBiwK5lBk6r%2FlKQSzqViHk3aSAlcDGmrPAL5UnbvKo2%2BsDEHAT9lDMUhiy1b9jqQLWJbLb7mdg5j6N7JPK27%2BRfS%2FdouGr%2FBWhmOH%2BFdYzn6cRm0ey2Q%2F5q4omB4yEPndQLBzp0JLyvqazi8E9NZ7k5FL3aIunOrg9K7ZFjXmdkVXIedXsIxVNX8npi2PxmF4zalDcidqG4NP0zfkPrCc9YQfDwHiJTiN0gsc6Gjvx3oKzgBpL%7Ctkp%3ABk9SR5SA_O2DaA",
+        "url": "https://www.ebay.com/itm/257623550023?_skw=%28entei%2Craikou%2Clegend%29+%2890%2Cunleashed%29+%28CGC%2CPSA%29&epid=8043377385&itmmeta=01M0SHW44FPVHVVDEDYN8EG4KK&hash=item3bfb8f6847:g:RBYAAeSwuzZqWDni&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCQhdtOwY3vSzRQKOdEZ6l9DARXnv8cVvcL5daDmmKPi587gw4NmjauufkEnuPinM9sk9WRBLQAE1hXiDJdd9FiX3keHkMcRYLs3InBiwK5lBk6r%2FlKQSzqViHk3aSAlcCIciw3G%2FXu5243zIRwONiRnBV5tDzXZrrGWTzYpoAhQVSd8q65U2UDoO5d6Rt4Lam1eyL4guAlLtgq0SCONnUUENhj3OKVP%2B8EZop0OPLwKeEaxFOeDDyBp%2BNx5iL8qYvIZG1BKp7l2J0K2eyd0I2m1qkOWqz1NZGp%2F0tMKl%2FZ5FLT0yW%2B6ZciLTgn5oiKqXDj%2FfPk2LogDTsY7vELvuZi%7Ctkp%3ABk9SR8TC8LGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/RBYAAeSwuzZqWDni/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787224417682,
-        "lastSeen": 1787224417682
+        "lastSeen": 1787564057017
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -58,20 +58,20 @@
       "ratio": {
         "ok": true,
         "tier": {
-          "id": "regular",
-          "label": "Regular",
-          "feeC": 7999,
-          "declaredValueCapC": 150000,
-          "turnaroundBizDays": 50
+          "id": "superExpress",
+          "label": "Super Express",
+          "feeC": 34900,
+          "declaredValueCapC": 500000,
+          "turnaroundBizDays": 15
         },
         "cgc10CostC": 200000,
-        "submissionFeeC": 7999,
-        "totalCostC": 207999,
-        "psa10ValueC": 61517,
-        "ratio": 0.29575622959725767
+        "submissionFeeC": 34900,
+        "totalCostC": 234900,
+        "psa10ValueC": 500000,
+        "ratio": 2.1285653469561514
       },
       "firstOpportunityAt": 1787224417682,
-      "updatedAt": 1787224417682
+      "updatedAt": 1787564057017
     },
     "prices": {
       "variantId": 14787,
@@ -80,13 +80,13 @@
       "grade95C": 46700,
       "cgc10C": 70000,
       "cgc10PristineC": 126000,
-      "psa10C": 61517,
+      "psa10C": 500000,
       "psa9Pop": 118,
       "psa10Pop": 33,
       "cgc10Pop": 1,
-      "bgs10C": 80000,
+      "bgs10C": 650000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\"}",
-      "fetchedAt": 1787224270723
+      "fetchedAt": 1787563931022
     },
     "listings": [
       {
@@ -95,13 +95,13 @@
         "priceC": 200000,
         "shippingC": 0,
         "landedC": 200000,
-        "url": "https://www.ebay.com/itm/257623550023?_skw=%28entei%2Craikou%2Clegend%29+%2890%2Cunleashed%29+%28CGC%2CPSA%29&epid=8043377385&itmmeta=01M0FDYZZK9YA1H22RPZKZVX2A&hash=item3bfb8f6847:g:RBYAAeSwuzZqWDni&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCQhdtOwY3vSzRQKOdEZ6l9DARXnv8cVvcL5daDmmKPi587gw4NmjauufkEnuPinM9sk9WRBLQAE1hXiDJdd9FiX3keHkMcRYLs3InBiwK5lBk6r%2FlKQSzqViHk3aSAlcDGmrPAL5UnbvKo2%2BsDEHAT9lDMUhiy1b9jqQLWJbLb7mdg5j6N7JPK27%2BRfS%2FdouGr%2FBWhmOH%2BFdYzn6cRm0ey2Q%2F5q4omB4yEPndQLBzp0JLyvqazi8E9NZ7k5FL3aIunOrg9K7ZFjXmdkVXIedXsIxVNX8npi2PxmF4zalDcidqG4NP0zfkPrCc9YQfDwHiJTiN0gsc6Gjvx3oKzgBpL%7Ctkp%3ABk9SR5SA_O2DaA",
+        "url": "https://www.ebay.com/itm/257623550023?_skw=%28entei%2Craikou%2Clegend%29+%2890%2Cunleashed%29+%28CGC%2CPSA%29&epid=8043377385&itmmeta=01M0SHW44FPVHVVDEDYN8EG4KK&hash=item3bfb8f6847:g:RBYAAeSwuzZqWDni&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCQhdtOwY3vSzRQKOdEZ6l9DARXnv8cVvcL5daDmmKPi587gw4NmjauufkEnuPinM9sk9WRBLQAE1hXiDJdd9FiX3keHkMcRYLs3InBiwK5lBk6r%2FlKQSzqViHk3aSAlcCIciw3G%2FXu5243zIRwONiRnBV5tDzXZrrGWTzYpoAhQVSd8q65U2UDoO5d6Rt4Lam1eyL4guAlLtgq0SCONnUUENhj3OKVP%2B8EZop0OPLwKeEaxFOeDDyBp%2BNx5iL8qYvIZG1BKp7l2J0K2eyd0I2m1qkOWqz1NZGp%2F0tMKl%2FZ5FLT0yW%2B6ZciLTgn5oiKqXDj%2FfPk2LogDTsY7vELvuZi%7Ctkp%3ABk9SR8TC8LGGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/RBYAAeSwuzZqWDni/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787224417682,
-        "lastSeen": 1787224417682
+        "lastSeen": 1787564057017
       }
     ],
     "marketHistory": {
@@ -1686,7 +1686,7 @@
       ],
       "englishSaleCount": 141,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787224269110
+      "lastCapturedAt": 1787563928817
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 2049,
@@ -19,17 +19,17 @@
       "popularityScore": 76,
       "market": {
         "ungradedC": 9972,
-        "grade9C": 50000,
-        "grade95C": 55000,
-        "cgc10C": 53088,
-        "cgc10PristineC": 55638,
-        "psa10C": 135224,
+        "grade9C": 44475,
+        "grade95C": 48900,
+        "cgc10C": 53038,
+        "cgc10PristineC": 95500,
+        "psa10C": 135225,
         "bgs10C": 175800,
         "psa9Pop": 184,
         "psa10Pop": 43,
         "cgc10Pop": 18,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 2 sales per month\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787211982125
+        "fetchedAt": 1787557337842
       },
       "bestCgc10": {
         "itemId": "158041772927",
@@ -37,28 +37,28 @@
         "priceC": 59899,
         "shippingC": 0,
         "landedC": 59899,
-        "url": "https://www.ebay.com/itm/158041772927?_skw=%28dewgong%29+%2840%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=13043374503&itmmeta=01M0F28JP37GW2G2RBRTTPV5PP&hash=item24cc06137f:g:s~EAAeSw3fxqQ~-k&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAtcH0kmGT3WUm8KmZDnJbgYFvSIM%2Bq02AMmxLhF%2FG4KXhkZ7MsStEw7kgtqs3wWimJdJjzpfCtZcbnJGUw23g7p7QvGxytBJqVa1n9iCAIyvN3xEFtpNxgjqHtA9q39aCtNBYRmAzAapG1QoBEQ6wLPtsiizM%2FIyFxsIzB3hvsl4i6DaF3BfearjLhoUcMz8UwRMtxxcQwcID3F4gcxSVs2QeJbBnJCQjv4REEJOU%2FU5BbpIivmiP6zsYEl%2B3vvDAlmsZevGfwNbZunnYv6v%2F5TVNkehy%2FgsmZ2tyf%2B9OQKQ%3D%3D%7Ctkp%3ABk9SR6irouKDaA",
+        "url": "https://www.ebay.com/itm/158041772927?_skw=%28dewgong%29+%2840%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=13043374503&itmmeta=01M0SBM128NKNFSDVFD25DRX1W&hash=item24cc06137f:g:s~EAAeSw3fxqQ~-k&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB%2BVYtmItiWHztVuw17n%2BPf9ozMe1GHPlhrXddFtTtwGihFLCCSf1iZdT%2BAhDb06vvs5lrho6qfJER5wrvhm03CSTpNl%2BwZGFcGBdHqb%2F4eDmvdvu1LogMwaF1VgBDV8AxIPIXKGYMKfrV91iXHvLeLjbr%2BGW0KbIQktuteNJDTXnWypw3KsceZno8vsaIpHoTinP5gQehqaohpSQcykAqPVvKyS5oV%2Bv6HQtOv2gp3eyllTablsce72LfbZK5Pa2zkPBNIyyHp%2FrCxOgvGCtipr42tmHwbe38kgamslGBF3KpQo4qLVMa81lh7AZdA4dDOE9IHHrIqR8IYxLTKRyib%7Ctkp%3ABk9SR5CS0KuGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/s~EAAeSw3fxqQ~-k/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094567887,
-        "lastSeen": 1787212132335
+        "lastSeen": 1787557485243
       },
       "bestPsa10": null,
       "bestPsa9": {
         "itemId": "366457423884",
         "title": "Pokemon TCG Dewgong Reverse Holo 40/110 Legendary Collection PSA 9 WOTC CardOpens in a new window or tab",
-        "priceC": 75807,
-        "shippingC": 4898,
-        "landedC": 80705,
-        "url": "https://www.ebay.com/itm/366457423884?_skw=%28dewgong%29+%2840%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=18052758357&itmmeta=01M0F28JP337TMVNREJ6QDRDMR&hash=item555290880c:g:-JcAAeSwv8dqIsV6&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBXlQYu8UQx69enYNmPYXG3GRkd0zMzRZ3pseJmg8c8r9R6jlMsYXiJFRzpwW1W9IAyS2gfKRLL2yrdku4WYMX0ew9BVlwA9%2FMMW9fypm%2BBsGHeeB9UwNowfzo8GUhFdGEzdXVnMOri%2FrUPeVRRBgg5baB6Mio7O7rCnx8RjeZzVersu6hsbDZsYtYMCdkNSy23DgLH9I0daT5ez5WuPShlUeOYC4zlcaWZSWOQE8xUDLSmlk9XjiLyqcOl6%2FwkUtQDPrYqViqd%2FS2Jz0Z8KgHsB0AnXaAJrzjZHnNk0eFjwQ%3D%3D%7Ctkp%3ABk9SR6qrouKDaA",
+        "priceC": 76019,
+        "shippingC": 4912,
+        "landedC": 80931,
+        "url": "https://www.ebay.com/itm/366457423884?_skw=%28dewgong%29+%2840%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=18052758357&itmmeta=01M0SBM12802ZD943ATA7SSTZQ&hash=item555290880c:g:-JcAAeSwv8dqIsV6&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCihGbmeHJPfNVheR2jimkmTbSgpgmyKMlBHPgUTOloqmWqlsx9vXBJL3EgtDo3EiJfZ0T3Bm4Y17U7HqiOnKrezR9qN%2FALgj37dZy2esxGTx1RqaajHkbiCtMovZSk4o5up4t0MGeD%2BM4X3VT%2Bbqqtv9vxHYx6ftJOUy7XKRtJxyYGPIh8449ZvJf%2FEXSzez5MndTRO6btIlZARnHosyoWSaDTnw9c1WpCFbZxSCczg9Bod9Q9ODJMIhHZ65TWYPgCA06ikPeoKrdk8WRSlSz2qFenbOJSHVZfWAzytXjusNT%2F1%2FBBoySpab%2Bod48oja3JhMmzgNDtaQWR0blKFMvu%7Ctkp%3ABk9SR5CS0KuGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-JcAAeSwv8dqIsV6/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787212132335
+        "lastSeen": 1787557485243
       },
       "counts": {
         "cgc10Bin": 1,
@@ -80,26 +80,26 @@
         "cgc10CostC": 59899,
         "submissionFeeC": 7999,
         "totalCostC": 67898,
-        "psa10ValueC": 135224,
-        "ratio": 1.991575598692156
+        "psa10ValueC": 135225,
+        "ratio": 1.9915903266664703
       },
       "firstOpportunityAt": 1787094567887,
-      "updatedAt": 1787212132335
+      "updatedAt": 1787557485243
     },
     "prices": {
       "variantId": 2049,
       "ungradedC": 9972,
-      "grade9C": 50000,
-      "grade95C": 55000,
-      "cgc10C": 53088,
-      "cgc10PristineC": 55638,
-      "psa10C": 135224,
+      "grade9C": 44475,
+      "grade95C": 48900,
+      "cgc10C": 53038,
+      "cgc10PristineC": 95500,
+      "psa10C": 135225,
       "psa9Pop": 184,
       "psa10Pop": 43,
       "cgc10Pop": 18,
       "bgs10C": 175800,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 2 sales per month\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787211982125
+      "fetchedAt": 1787557337842
     },
     "listings": [
       {
@@ -108,27 +108,27 @@
         "priceC": 59899,
         "shippingC": 0,
         "landedC": 59899,
-        "url": "https://www.ebay.com/itm/158041772927?_skw=%28dewgong%29+%2840%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=13043374503&itmmeta=01M0F28JP37GW2G2RBRTTPV5PP&hash=item24cc06137f:g:s~EAAeSw3fxqQ~-k&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAtcH0kmGT3WUm8KmZDnJbgYFvSIM%2Bq02AMmxLhF%2FG4KXhkZ7MsStEw7kgtqs3wWimJdJjzpfCtZcbnJGUw23g7p7QvGxytBJqVa1n9iCAIyvN3xEFtpNxgjqHtA9q39aCtNBYRmAzAapG1QoBEQ6wLPtsiizM%2FIyFxsIzB3hvsl4i6DaF3BfearjLhoUcMz8UwRMtxxcQwcID3F4gcxSVs2QeJbBnJCQjv4REEJOU%2FU5BbpIivmiP6zsYEl%2B3vvDAlmsZevGfwNbZunnYv6v%2F5TVNkehy%2FgsmZ2tyf%2B9OQKQ%3D%3D%7Ctkp%3ABk9SR6irouKDaA",
+        "url": "https://www.ebay.com/itm/158041772927?_skw=%28dewgong%29+%2840%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=13043374503&itmmeta=01M0SBM128NKNFSDVFD25DRX1W&hash=item24cc06137f:g:s~EAAeSw3fxqQ~-k&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB%2BVYtmItiWHztVuw17n%2BPf9ozMe1GHPlhrXddFtTtwGihFLCCSf1iZdT%2BAhDb06vvs5lrho6qfJER5wrvhm03CSTpNl%2BwZGFcGBdHqb%2F4eDmvdvu1LogMwaF1VgBDV8AxIPIXKGYMKfrV91iXHvLeLjbr%2BGW0KbIQktuteNJDTXnWypw3KsceZno8vsaIpHoTinP5gQehqaohpSQcykAqPVvKyS5oV%2Bv6HQtOv2gp3eyllTablsce72LfbZK5Pa2zkPBNIyyHp%2FrCxOgvGCtipr42tmHwbe38kgamslGBF3KpQo4qLVMa81lh7AZdA4dDOE9IHHrIqR8IYxLTKRyib%7Ctkp%3ABk9SR5CS0KuGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/s~EAAeSw3fxqQ~-k/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787094567887,
-        "lastSeen": 1787212132335
+        "lastSeen": 1787557485243
       },
       {
         "itemId": "366457423884",
         "title": "Pokemon TCG Dewgong Reverse Holo 40/110 Legendary Collection PSA 9 WOTC CardOpens in a new window or tab",
-        "priceC": 75807,
-        "shippingC": 4898,
-        "landedC": 80705,
-        "url": "https://www.ebay.com/itm/366457423884?_skw=%28dewgong%29+%2840%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=18052758357&itmmeta=01M0F28JP337TMVNREJ6QDRDMR&hash=item555290880c:g:-JcAAeSwv8dqIsV6&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBXlQYu8UQx69enYNmPYXG3GRkd0zMzRZ3pseJmg8c8r9R6jlMsYXiJFRzpwW1W9IAyS2gfKRLL2yrdku4WYMX0ew9BVlwA9%2FMMW9fypm%2BBsGHeeB9UwNowfzo8GUhFdGEzdXVnMOri%2FrUPeVRRBgg5baB6Mio7O7rCnx8RjeZzVersu6hsbDZsYtYMCdkNSy23DgLH9I0daT5ez5WuPShlUeOYC4zlcaWZSWOQE8xUDLSmlk9XjiLyqcOl6%2FwkUtQDPrYqViqd%2FS2Jz0Z8KgHsB0AnXaAJrzjZHnNk0eFjwQ%3D%3D%7Ctkp%3ABk9SR6qrouKDaA",
+        "priceC": 76019,
+        "shippingC": 4912,
+        "landedC": 80931,
+        "url": "https://www.ebay.com/itm/366457423884?_skw=%28dewgong%29+%2840%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=18052758357&itmmeta=01M0SBM12802ZD943ATA7SSTZQ&hash=item555290880c:g:-JcAAeSwv8dqIsV6&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCihGbmeHJPfNVheR2jimkmTbSgpgmyKMlBHPgUTOloqmWqlsx9vXBJL3EgtDo3EiJfZ0T3Bm4Y17U7HqiOnKrezR9qN%2FALgj37dZy2esxGTx1RqaajHkbiCtMovZSk4o5up4t0MGeD%2BM4X3VT%2Bbqqtv9vxHYx6ftJOUy7XKRtJxyYGPIh8449ZvJf%2FEXSzez5MndTRO6btIlZARnHosyoWSaDTnw9c1WpCFbZxSCczg9Bod9Q9ODJMIhHZ65TWYPgCA06ikPeoKrdk8WRSlSz2qFenbOJSHVZfWAzytXjusNT%2F1%2FBBoySpab%2Bod48oja3JhMmzgNDtaQWR0blKFMvu%7Ctkp%3ABk9SR5CS0KuGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-JcAAeSwv8dqIsV6/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787212132335
+        "lastSeen": 1787557485243
       },
       {
         "itemId": "267760625336",
@@ -136,17 +136,30 @@
         "priceC": 85000,
         "shippingC": 500,
         "landedC": 85500,
-        "url": "https://www.ebay.com/itm/267760625336?_skw=%28dewgong%29+%2840%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=13043374503&itmmeta=01M0F28JP3TN7WAKZDRC2ZY86T&hash=item3e57c6e6b8:g:hcsAAeSwKX9qhBR-&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA5dk%2BC2Sn3TMX2wL88sZf5oVSlHb97aEpP8RdMgKEytY%2BbdFPHiylPnI4EjUY6mr7psb6RVBMYSXlDZZBd8maH4ChpI0Xi0L5dO7qIRvT66d23WqtcVdV%2B246k3e%2B8VNXnl%2B27LGHwYwMhDKdJu8kOLxqDWpcvO70lI6B8lMBmZlf%2Bv0sZAxYpoIOFfyB5vGjifiTmvvNThixykZe9d9CwH9m3Q2sF4bmbg6cm1bqFkBR9FzO4Zlah%2FPaLab24YahEVPVrAqt2UYncTRyl0iG5Pl9PtSl%2FQJlg16lK%2BcjU3Y7o33%2FoGKsnUr4l4JCYGvBXioJxn%2BjyotUmhIsonN7d%7Ctkp%3ABk9SR6irouKDaA",
+        "url": "https://www.ebay.com/itm/267760625336?_skw=%28dewgong%29+%2840%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=13043374503&itmmeta=01M0SBM128J13R39ABKSDHJEKD&hash=item3e57c6e6b8:g:hcsAAeSwKX9qhBR-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB9AWXvYvsDcFi1iUCrViFhqg%2Bjdre2ZCHnqj1O6fTfdO2%2FvcXnlaiemS7ZyXkRWVBIhjCOV9j4ywSC4kOSTjGCUuiHtJU4MalFLW3o3zULpOqI%2Fh4iteoszr45AQXlacyyFYvbvYHczknLa42ZVKTQqvH%2F9KekHvwM4OQw5H9oYfFSVrRGutrMudG1IupDob8C1Boi7%2Fc4kVcUgS62ewK47yF9E7TaBF33prAN4zXjbRx08wLTiEXvRXsn0ckKKvNo2WK%2FhLtB3K378pnsxjZpP3aRKbJTtrsOynozQtYebw%3D%3D%7Ctkp%3ABk9SR5CS0KuGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/hcsAAeSwKX9qhBR-/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787212132335
+        "lastSeen": 1787557485243
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 2256028,
+          "saleDate": "2026-08-21",
+          "priceC": 38000,
+          "title": "2002 Pokemon Legendary Collection #40 Dewgong Reverse Holo Foil CGC 9 MINT",
+          "url": "https://www.ebay.com/itm/377416180718?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 9,
+          "gradingDesignation": "mint",
+          "agreementStatus": "match"
+        },
         {
           "id": 344533,
           "saleDate": "2026-08-17",
@@ -1693,19 +1706,6 @@
           "gradingGrade": 9,
           "gradingDesignation": "mint",
           "agreementStatus": "match"
-        },
-        {
-          "id": 344543,
-          "saleDate": "2025-04-16",
-          "priceC": 13139,
-          "title": "PSA 7 6 Seq Pokemon Legendary Collection Reverse Holo Seel Dewgong 92 40/110",
-          "url": "https://www.ebay.com/itm/387836465618?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1785,9 +1785,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 183,
+      "englishSaleCount": 184,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787211980532
+      "lastCapturedAt": 1787557335964
     }
   }
 }

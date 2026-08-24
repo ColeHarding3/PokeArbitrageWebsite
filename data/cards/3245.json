@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 3245,
@@ -18,7 +18,7 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/e71f370e10992b90ddd04145ad7846159c5d1ec41875f3bd55800934eb70cb78/1600.jpg",
       "popularityScore": 76,
       "market": {
-        "ungradedC": 1886,
+        "ungradedC": 1884,
         "grade9C": 8080,
         "grade95C": 8900,
         "cgc10C": 9500,
@@ -29,39 +29,66 @@
         "psa10Pop": 22,
         "cgc10Pop": 28,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787213114481
+        "fetchedAt": 1787558465877
       },
-      "bestCgc10": null,
+      "bestCgc10": {
+        "itemId": "398221221206",
+        "title": "Pokemon 2003 TCG Shiftry Holo Rare Card 12/100 EX Sandstorm CGC 10 Gem MintOpens in a new window or tab",
+        "priceC": 22500,
+        "shippingC": 548,
+        "landedC": 23048,
+        "url": "https://www.ebay.com/itm/398221221206?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=10043375599&itmmeta=01M0SCNEBABQ2NCM66WECQ0VZ3&hash=item5cb7d59d56:g:1pUAAeSw3CxqZ8hq&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAJlEfdpy3SGEdKL0PJHVkOwCmARMjpuRphL7Dp9CkbinD7IuTCA2b1PBJifMPFztBRjjy20XlCwfWsPksE6h4iwApI%2FTEccJ2ysFAIoUNVI3BnDc%2BkYENGkpN41S0EeZuXa1%2Fm0ZeaMYVBecUohVfVKBWcRtl43mNhj%2FblOOb35j5UXcCHx4erLCyJ%2FXzeEerWZaX7cNS%2Bw3QAaIorfCQ5inInkPSCA0Tnkw5nVuZ817dxgFjbVPf%2FQm4clml1GVHfE2MuF8oq%2BBA76rDJJNrd%7Ctkp%3ABk9SR_rl1ayGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/1pUAAeSw3CxqZ8hq/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787057553322,
+        "lastSeen": 1787558576390
+      },
       "bestPsa10": null,
       "bestPsa9": {
         "itemId": "406666104781",
         "title": "PSA 9 Shiftry 12/100 EX Sandstorm Pokemon Card Holo MINTOpens in a new window or tab",
-        "priceC": 10477,
-        "shippingC": 2645,
-        "landedC": 13122,
-        "url": "https://www.ebay.com/itm/406666104781?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=21052760734&itmmeta=01M0F3AM7X8KJXCGGPR6TN83FH&hash=item5eaf304fcd:g:gLUAAeSwUBJpglWh&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDzvNq9QgaDF%2FBPc3LeiT5mMzjwc4ufalyrTRAm3rs%2FicfR8Eo1X5GHvdaV%2Fb4EUWEjdfWTvRLdfa0WA24YoDB%2Fqe5DJZBmmSGS5qSYhQb8zj4B6jaVvCnxM3T9pIYShQS%2FEN%2BbGIPhtceFRf5ZQ9nmnzgepg5M9blJYj0mQmyw2UMLKiDPeoCdNdHM%2BUBPA9ohZVq3l5aT1mJmCNY9HKCOjS%2BAneVQb9Ee0R1BXL1HB6O3m4jsjA1CPvoCEpxcGMllarT4rszkTMmTFOPO0xCD%7Ctkp%3ABk9SR6bEquODaA",
+        "priceC": 10506,
+        "shippingC": 2652,
+        "landedC": 13158,
+        "url": "https://www.ebay.com/itm/406666104781?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=21052760734&itmmeta=01M0SCNEBA4SRRGXM2DEQCSTZW&hash=item5eaf304fcd:g:gLUAAeSwUBJpglWh&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDT5G4SiXZb5WuEd8l6%2F7%2BjThi0x7rvd6eDA9fklavOaDPh%2F7WA2gLBsFCreT45l2S1pbA8GnWhExBM8S1cOijmndkb7XFvSrkU2JQOKWVjYLwW2KoQjO1lQaJNOHmrn9qEXoxwE1l9MnNXpBup451214eb84%2BYYcz%2FWVvqJENGMBszVMr12tp2p0DxpQ7k340aOQvaNcBbkUa2saA%2B6GfGhsJqEwih7qe9rRgYM22UTQ9HG1Bnllsx6DzIQQ1WI4NyXsoVCDBmzRnPfcp2H1JqxmTad0CDLGyVAIVdDJ2%2FP3Sl7j1YsQ3xkzoHrA1YIvY%3D%7Ctkp%3ABk9SR_zl1ayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/gLUAAeSwUBJpglWh/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787057553322,
-        "lastSeen": 1787213250072
+        "lastSeen": 1787558576390
       },
       "counts": {
-        "cgc10Bin": 0,
-        "cgc10Auction": 1,
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
         "psa9Bin": 2
       },
-      "ratio": null,
-      "firstOpportunityAt": null,
-      "updatedAt": 1787213250072
+      "ratio": {
+        "ok": true,
+        "tier": {
+          "id": "regular",
+          "label": "Regular",
+          "feeC": 7999,
+          "declaredValueCapC": 150000,
+          "turnaroundBizDays": 50
+        },
+        "cgc10CostC": 23048,
+        "submissionFeeC": 7999,
+        "totalCostC": 31047,
+        "psa10ValueC": 112500,
+        "ratio": 3.6235385061358585
+      },
+      "firstOpportunityAt": 1787057553322,
+      "updatedAt": 1787558576390
     },
     "prices": {
       "variantId": 3245,
-      "ungradedC": 1886,
+      "ungradedC": 1884,
       "grade9C": 8080,
       "grade95C": 8900,
       "cgc10C": 9500,
@@ -72,54 +99,67 @@
       "cgc10Pop": 28,
       "bgs10C": 146300,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787213114481
+      "fetchedAt": 1787558465877
     },
     "listings": [
       {
-        "itemId": "137619604653",
-        "title": "SHIFTRY POKEMON COMPANY/WIZ.OF THE COAST 12/100 2003 EX SANDSTORM HOLO EN CGC 10Opens in a new window or tab",
-        "priceC": 1810,
-        "shippingC": 4670,
-        "landedC": 6480,
-        "url": "https://www.ebay.com/itm/137619604653?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&itmmeta=01M0F3AM7XEYSX2WW040DW8BJH&hash=item200ac484ad:g:-ooAAeSwk8ZqY0hl&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCmtRorsezFX1UpWycs1PZR7FRm0lSA0r9L718H8yRvD%2B4rU80uj9wDqxEDt5epM2l448pLABCLc5zk2a6Jq%2BWkB9aGnLZ%2FnvvTpnE4ZyIWSWIiRP0FKHDOUVyebAfkQ%2BWGq47EIZgYTdCMePc%2FGcsi1psNT9XGEJ9WHS%2BLMnBeU6cHrKo69f5qyRcSJAfkozxf7YhH1Qqe817h%2B34va4C%2BDrBbCjFJua8Sku1T3YRzyEMIUJnedOyvG6%2BsWcyGlzMmy9K7zxutPsQh8g4LGjRx%7Ctkp%3ABk9SR6bEquODaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/-ooAAeSwk8ZqY0hl/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "gemMint10",
-        "freshness": "live",
-        "firstSeen": 1787057553322,
-        "lastSeen": 1787213250072
-      },
-      {
         "itemId": "406666104781",
         "title": "PSA 9 Shiftry 12/100 EX Sandstorm Pokemon Card Holo MINTOpens in a new window or tab",
-        "priceC": 10477,
-        "shippingC": 2645,
-        "landedC": 13122,
-        "url": "https://www.ebay.com/itm/406666104781?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=21052760734&itmmeta=01M0F3AM7X8KJXCGGPR6TN83FH&hash=item5eaf304fcd:g:gLUAAeSwUBJpglWh&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDzvNq9QgaDF%2FBPc3LeiT5mMzjwc4ufalyrTRAm3rs%2FicfR8Eo1X5GHvdaV%2Fb4EUWEjdfWTvRLdfa0WA24YoDB%2Fqe5DJZBmmSGS5qSYhQb8zj4B6jaVvCnxM3T9pIYShQS%2FEN%2BbGIPhtceFRf5ZQ9nmnzgepg5M9blJYj0mQmyw2UMLKiDPeoCdNdHM%2BUBPA9ohZVq3l5aT1mJmCNY9HKCOjS%2BAneVQb9Ee0R1BXL1HB6O3m4jsjA1CPvoCEpxcGMllarT4rszkTMmTFOPO0xCD%7Ctkp%3ABk9SR6bEquODaA",
+        "priceC": 10506,
+        "shippingC": 2652,
+        "landedC": 13158,
+        "url": "https://www.ebay.com/itm/406666104781?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=21052760734&itmmeta=01M0SCNEBA4SRRGXM2DEQCSTZW&hash=item5eaf304fcd:g:gLUAAeSwUBJpglWh&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDT5G4SiXZb5WuEd8l6%2F7%2BjThi0x7rvd6eDA9fklavOaDPh%2F7WA2gLBsFCreT45l2S1pbA8GnWhExBM8S1cOijmndkb7XFvSrkU2JQOKWVjYLwW2KoQjO1lQaJNOHmrn9qEXoxwE1l9MnNXpBup451214eb84%2BYYcz%2FWVvqJENGMBszVMr12tp2p0DxpQ7k340aOQvaNcBbkUa2saA%2B6GfGhsJqEwih7qe9rRgYM22UTQ9HG1Bnllsx6DzIQQ1WI4NyXsoVCDBmzRnPfcp2H1JqxmTad0CDLGyVAIVdDJ2%2FP3Sl7j1YsQ3xkzoHrA1YIvY%3D%7Ctkp%3ABk9SR_zl1ayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/gLUAAeSwUBJpglWh/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787057553322,
-        "lastSeen": 1787213250072
+        "lastSeen": 1787558576390
       },
       {
         "itemId": "157639318503",
         "title": "PSA 9 Shiftry 12/100 EX Sandstorm Pokemon Card Holo MINTOpens in a new window or tab",
-        "priceC": 13599,
-        "shippingC": 1797,
-        "landedC": 15396,
-        "url": "https://www.ebay.com/itm/157639318503?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=21052760734&itmmeta=01M0F3AM7XJ9S7QH991R6XJGVK&hash=item24b4091be7:g:8~oAAeSwXUppd6as&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAzGXiOcwfX0cIKL33K4D%2FJ3XpCOzl5XF19lSoh%2F5iUHWxnQ5Skf%2BSpMD5JYKC%2FFB6w49yAu8dtKBCxHB%2BlU%2FUs7N4xO2FcYum8xLIRCntr61rNilC%2B3qoaM7QJeMoN6XwjOmvKkG5h8xijGSFwIEqSv0tvudogbjNgwhgQfx%2BIANlEBbJ2aNbT5XQT8fAfSsdlgHz%2Fr68FBr9aMjfbUkTEXDTwj1pVSx3YqrBo4B%2Fn%2FTRVlLYuJAFRi5%2FiGqgeYR7IxCToa6Rm3puO89UZM1ciTBWQP2wcLtAkb9BnARksYw1cOXwAfHHTIL4rW%2BEUC58%3D%7Ctkp%3ABk9SR6bEquODaA",
+        "priceC": 13637,
+        "shippingC": 1802,
+        "landedC": 15439,
+        "url": "https://www.ebay.com/itm/157639318503?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=21052760734&itmmeta=01M0SCNEBAB4ZWWTRV04FRCR3C&hash=item24b4091be7:g:8~oAAeSwXUppd6as&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBFG3--G2j14wDLHQpL4I57YXioRboKcK5xnBePUbUe5qacg60hXfU%2FwuUH%2BH5dSd4LfvgVuceMCUmGBroHAOhUfZbauWUP2qGRX6proP5aHf5nOpjf11EYdsBeEkodJd0Nc2GUCpaqCMf1XBDnvy7%2BWeTet3GJ2eOPxYN0O6PAlcSy4GhezmpbE1lq9ROYzXv67YGlDY5S6gNleODqssDWArGH0o93UP91r7CZQoWLNgIGycUAt8ByyOOD3hIMix6o5ZMrq%2Fi7GVYPGTnB7S00%7Ctkp%3ABk9SR_zl1ayGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8~oAAeSwXUppd6as/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787057553322,
-        "lastSeen": 1787213250072
+        "lastSeen": 1787558576390
+      },
+      {
+        "itemId": "398221221206",
+        "title": "Pokemon 2003 TCG Shiftry Holo Rare Card 12/100 EX Sandstorm CGC 10 Gem MintOpens in a new window or tab",
+        "priceC": 22500,
+        "shippingC": 548,
+        "landedC": 23048,
+        "url": "https://www.ebay.com/itm/398221221206?_skw=%28shiftry%29+%2812%2Csandstorm%29+%28CGC%2CPSA%29&epid=10043375599&itmmeta=01M0SCNEBABQ2NCM66WECQ0VZ3&hash=item5cb7d59d56:g:1pUAAeSw3CxqZ8hq&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAJlEfdpy3SGEdKL0PJHVkOwCmARMjpuRphL7Dp9CkbinD7IuTCA2b1PBJifMPFztBRjjy20XlCwfWsPksE6h4iwApI%2FTEccJ2ysFAIoUNVI3BnDc%2BkYENGkpN41S0EeZuXa1%2Fm0ZeaMYVBecUohVfVKBWcRtl43mNhj%2FblOOb35j5UXcCHx4erLCyJ%2FXzeEerWZaX7cNS%2Bw3QAaIorfCQ5inInkPSCA0Tnkw5nVuZ817dxgFjbVPf%2FQm4clml1GVHfE2MuF8oq%2BBA76rDJJNrd%7Ctkp%3ABk9SR_rl1ayGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/1pUAAeSw3CxqZ8hq/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787057553322,
+        "lastSeen": 1787558576390
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 4006840,
+          "saleDate": "2026-08-23",
+          "priceC": 11796,
+          "title": "SHIFTRY POKEMON COMPANY/WIZ.OF THE COAST 12/100 2003 EX SANDSTORM HOLO EN CGC 10",
+          "url": "https://www.ebay.com/itm/137619604653?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 10,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 481201,
           "saleDate": "2026-08-16",
@@ -1666,19 +1706,6 @@
           "gradingGrade": 7,
           "gradingDesignation": "excellent",
           "agreementStatus": "match"
-        },
-        {
-          "id": 481246,
-          "saleDate": "2022-12-05",
-          "priceC": 30500,
-          "title": "2003 Pokemon Ex Sandstorm Shiftry Holo Rare Card 12/100 Graded PSA 10",
-          "url": "https://www.ebay.com/itm/364058332869?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1718,9 +1745,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 123,
+      "englishSaleCount": 124,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787213112168
+      "lastCapturedAt": 1787558464295
     }
   }
 }

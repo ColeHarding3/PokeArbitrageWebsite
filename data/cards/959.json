@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 959,
@@ -19,9 +19,9 @@
       "popularityScore": 83,
       "market": {
         "ungradedC": 11700,
-        "grade9C": 32815,
-        "grade95C": 36100,
-        "cgc10C": 46716,
+        "grade9C": 33106,
+        "grade95C": 36400,
+        "cgc10C": 46733,
         "cgc10PristineC": 153900,
         "psa10C": 244000,
         "bgs10C": 317200,
@@ -29,7 +29,7 @@
         "psa10Pop": 138,
         "cgc10Pop": 89,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787210635719
+        "fetchedAt": 1787556094716
       },
       "bestCgc10": {
         "itemId": "147478859850",
@@ -37,13 +37,13 @@
         "priceC": 70000,
         "shippingC": 0,
         "landedC": 70000,
-        "url": "https://www.ebay.com/itm/147478859850?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHH0QYXMJYTSBT2T1FB7&hash=item22566cd04a:g:JisAAeSwn2Jqb7DD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDmleQNWA%2B3TEfBv4uia9IhOQZR3M9jUEHnNsP3y%2B8zoey1Xe%2FeawPqH02LR8X%2BewWo4WfYULMrxYBDEwENSHAKOCfiOkk6dXZ6VJlLZ9L13o9BpKo7r%2FkmaegJrdPv4T990iOLUhvddpnDv7wOvcogL9M7IdlSoL%2FSqw8PSy7KJLFd62nBjiqpE6y4nhIGOxZd%2FIysiAfLcu5QvTNm5m6M5ZOOLhora5pwqOjy5MOlcndRsgPeFTzJu0q3VK9U%2BJjx1iwwzA%2BnJfjGQmS2LqJGspRUMYm1BLGSvCEeoUQRlWyq4lBh1yS2rkw8qLiWc6s175goIQwaSncB9Bf%2Ffb3Z%7Ctkp%3ABk9SR-qY-uCDaA",
+        "url": "https://www.ebay.com/itm/147478859850?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TTMWSZ8H8S09SXC25H&hash=item22566cd04a:g:JisAAeSwn2Jqb7DD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCjn%2F9dbNo9hFDk7spPz4inbY%2BmLA6mmwwuuMCD3ov25prHRqW9ZMeia8v3PM4TH2bmsMbq%2BVaGgO6UlyBOlrJEorTkfLHt1V58fsiE%2BXKSUTdFTvrodMh0Eso%2BsZiGjbwJubs2c9xCVpveS0CV1G6eqHoKA%2FMFaJ1aju968xl7Gi%2BHeJKct9E1EYnqa8hwYnZJ5ILkLebODdk%2Fa9VfPrWvP0G62or0lrIP80siqG0Ey1T%2BTUL98ir3Z80W3dpJ5jqmWODHmEgWkEgsb8DJpv%2FBJR5VVmdaTIcWCS9YVDjmYg%3D%3D%7Ctkp%3ABk9SR9LdtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/JisAAeSwn2Jqb7DD/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787210808963
+        "lastSeen": 1787556258367
       },
       "bestPsa10": {
         "itemId": "287491018796",
@@ -51,35 +51,35 @@
         "priceC": 300000,
         "shippingC": 999,
         "landedC": 300999,
-        "url": "https://www.ebay.com/itm/287491018796?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHH16PDX6QBDBCVBTVC3&hash=item42efccd02c:g:O3QAAeSwihxqaf3d&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDNNvdaB1TkJuQTqPfHs3kqWMTb14GKzlFCkhEbXcyrAKGvN6u6%2BmJB%2B5fowKh0kWFFy%2BGe9thg5IIINt9Qm3q56IiLa2nM7k82ZrlZPlD4gRjziX1pTNO4CW7clQl0TNA7JSczKGbHlbi8%2BMOjBEfT0cR4vsKSDajYcWYdIQ2MCIdF50gI1PnngzQ2K3s5%2B4BOVPbFLrmXzh5INwpIAOsEZ5%2BCeOkfY9um%2Fs1GQAKtpyZCabKy1jVgemO5N7LllKs93cKWsW6bRgH6XYps7Vq5Qj1Oph8yd9PbuEd1WJQ3f8MiJNmt%2Fr2Puhm3GbFRx7CnUEhDIV%2FkYVvfAWWDy2YH%7Ctkp%3ABk9SR-qY-uCDaA",
+        "url": "https://www.ebay.com/itm/287491018796?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TTD9HWJCAA02WZMNJ5&hash=item42efccd02c:g:O3QAAeSwihxqaf3d&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCDBn%2FK%2Biait9Gh8PKd4wPrdWJkRKQ5aGfgqAqcWt1xVXFumH0LGNiEipsQctUUvjqOxoMbdbnUBGzyRRz9Nhj%2F%2BCFh9eLc4Jj%2FPDlAM9D3I%2BcCMfik1QinM1o5L70XY%2FfM9BTfxhOT0OXpZeGYQbbZ13VxzMFOYizA4R1t1Pgup4%2FtGsWJOrNUTTCtG0vFGo32gk%2Bha%2FSG7QwQ5jJWekrqkniOIPMFIbwWDHgY19Ivm5%2FmeT%2FwUGYDxeHjlQJtqIPZFZYO3o63F0F63D4wBnaiomVXFF7VhVDSqdNYkM3VMg%3D%3D%7Ctkp%3ABk9SR9TdtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/O3QAAeSwihxqaf3d/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787210808963
+        "lastSeen": 1787556258367
       },
       "bestPsa9": {
-        "itemId": "147464588012",
-        "title": "2000 Pokemon Gym Heroes 1st Edition Holo Brock's Rhydon #2 PSA 9 MINTOpens in a new window or tab",
-        "priceC": 35999,
-        "shippingC": 599,
-        "landedC": 36598,
-        "url": "https://www.ebay.com/itm/147464588012?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHGZANKPQ4N1GJYR8JPT&hash=item2255930aec:g:eGMAAeSwMndqZ2K7&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xACNr%2Byd3SufxeRdZcOzjfe0I77YWyZLmh0h%2BjtQ%2BM5WfJdV4II62J%2B2mZPuXPbN07azwkw7qC8HzKDo2ovx%2FtF1fcYYvh8GFK%2BL3AurMBTWXy1kqiijCVMk8L%2BpRNaDqCVqnhIhxtOidAoPvywHSJItKEEU%2FpbmEL3ZNyalQ639nYdkGnLNwGanj2LFrbpNKbILDgiO4iS4agNWYwKBxKfb5bnxvIFvC4wNqEhyYQrOCjd8FjAPoQ%2B0IiRcGa7jHNXRzaQehzyzR9B4kQJj1xFn77ww%2F%2Btl1U3e%2BMIp3QKRPQ0R9MSLTKVMgbJGDHulvh7dF7cKsCBNFx95FL00Fxr%7Ctkp%3ABk9SR-iY-uCDaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/eGMAAeSwMndqZ2K7/s-l500.webp",
+        "itemId": "366624124885",
+        "title": "Pokemon 2000 Gym Heroes Holo 1st Edition #2 Brock's Rhydon PSA 9Opens in a new window or tab",
+        "priceC": 28600,
+        "shippingC": 562,
+        "landedC": 29162,
+        "url": "https://www.ebay.com/itm/366624124885?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=13043374614&itmmeta=01M0SAD0S3FBE76VAAJQ0P4Q08&hash=item555c802fd5:g:g2gAAeSw2o5qiy1J&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCiuNbyKFTjJyDKfEtZJJdPpvxTHozSKapiJ3tjLoEZdDFgP86NhYAmKqnYC%2FqFO%2BlHr%2FQmMALbOmT85YP2JUAp3Z3bHlAHTxy9pQjPB3FLn8HwArfWrHtny6q67JJGTv88LaP0hjVgcSUMds0EVw4JAWDjsngt9mNjnOH8Or1Mtph7mvPUjhTaCZlWByt0PAVTvcTNlsZ4ktT3ofGy4npBbeB0WZ83VlAQThujZLFOgMOXp1%2FyPAShW18nYUTc%2FHjuxXesx6rpDs6p%2BbkbxvDQJoBYhUFJQeYDcLXrS5iutw%3D%3D%7Ctkp%3ABk9SR_KMtKqGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/g2gAAeSw2o5qiy1J/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
-        "firstSeen": 1787043800671,
-        "lastSeen": 1787210808963
+        "firstSeen": 1787556258367,
+        "lastSeen": 1787556258367
       },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 0,
-        "pristine10": 0,
+        "pristine10": 1,
         "psa10Bin": 4,
         "psa10Auction": 0,
-        "psa9Bin": 5
+        "psa9Bin": 6
       },
       "ratio": {
         "ok": true,
@@ -97,14 +97,14 @@
         "ratio": 2.87396937573616
       },
       "firstOpportunityAt": 1787043800671,
-      "updatedAt": 1787210808963
+      "updatedAt": 1787556258367
     },
     "prices": {
       "variantId": 959,
       "ungradedC": 11700,
-      "grade9C": 32815,
-      "grade95C": 36100,
-      "cgc10C": 46716,
+      "grade9C": 33106,
+      "grade95C": 36400,
+      "cgc10C": 46733,
       "cgc10PristineC": 153900,
       "psa10C": 244000,
       "psa9Pop": 861,
@@ -112,36 +112,50 @@
       "cgc10Pop": 89,
       "bgs10C": 317200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787210635719
+      "fetchedAt": 1787556094716
     },
     "listings": [
       {
-        "itemId": "206501271990",
+        "itemId": "366624124885",
+        "title": "Pokemon 2000 Gym Heroes Holo 1st Edition #2 Brock's Rhydon PSA 9Opens in a new window or tab",
+        "priceC": 28600,
+        "shippingC": 562,
+        "landedC": 29162,
+        "url": "https://www.ebay.com/itm/366624124885?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=13043374614&itmmeta=01M0SAD0S3FBE76VAAJQ0P4Q08&hash=item555c802fd5:g:g2gAAeSw2o5qiy1J&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCiuNbyKFTjJyDKfEtZJJdPpvxTHozSKapiJ3tjLoEZdDFgP86NhYAmKqnYC%2FqFO%2BlHr%2FQmMALbOmT85YP2JUAp3Z3bHlAHTxy9pQjPB3FLn8HwArfWrHtny6q67JJGTv88LaP0hjVgcSUMds0EVw4JAWDjsngt9mNjnOH8Or1Mtph7mvPUjhTaCZlWByt0PAVTvcTNlsZ4ktT3ofGy4npBbeB0WZ83VlAQThujZLFOgMOXp1%2FyPAShW18nYUTc%2FHjuxXesx6rpDs6p%2BbkbxvDQJoBYhUFJQeYDcLXrS5iutw%3D%3D%7Ctkp%3ABk9SR_KMtKqGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/g2gAAeSw2o5qiy1J/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787556258367,
+        "lastSeen": 1787556258367
+      },
+      {
+        "itemId": "206511179917",
         "title": "2000 POKEMON GYM HEROES BROCK'S RHYDON HOLO 1ST EDITION #2 PSA 9Opens in a new window or tab",
-        "priceC": 35000,
+        "priceC": 33500,
         "shippingC": 999,
-        "landedC": 35999,
-        "url": "https://www.ebay.com/itm/206501271990?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHGZ4VGBG9BSJR0EPVND&hash=item30146f59b6:g:P~gAAeSw24RqVUSt&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCezNMlyXF%2BiQodakRO0c9Wm%2BLsIdChdVcA2DZf%2BaVQYFCUmDpsLXuNCGhrEvjulkn9c0bajUn%2FGXIJlC4Ut5QunT4H6GaJU4%2Bl6q483Bj5%2BC%2BF77lmBjznvniNLE%2FweyNsBcK7BhUBOr9TILmDmNja9%2BLaJXLFRlwBnh%2BL%2BCTX3iVolrRREDfqQJfcvOx8DT%2BEmD6iX2p9qd812DgAz6DDm9qhGyRgpoNMh6T3CALSj%2FUfsW2JZbq6Qh9%2FtcW43LoxCR5ZECOQuhbvtmHySJkYOleDd4%2FjXNLgHADRcvCd30CYxUA7H63LVwNkNSKW2VQ%3D%7Ctkp%3ABk9SR-iY-uCDaA",
+        "landedC": 34499,
+        "url": "https://www.ebay.com/itm/206511179917?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TSQHHQ43J96SGXJGA3&hash=item301506888d:g:P~gAAeSw24RqVUSt&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB9s6L%2BrYMfO7PF2HdlAZsX5jAIFwuN8ltXq3t2sLFPOi6mLq7P7qcYQTxM5JYbU2cI%2BOUKA%2BEnrLAXY%2FbqwOn0CCSPCcP7PBypctXjgACvJuplOnNLEdGxFb2gC6XGmPBoMPLGPLcJm9pztnVrN8%2Fn4cQt%2B%2B2KjrD4%2FYqCfWD%2FjMxX9asOq%2BVxlv6Im7%2BH3M1w%2BpbAHbMRSHVnqJB5GLFn81wxSaxXhtdsus40uGH4hW7IIojkLkDTSrxw7KFDcFjy4G6qVTw%2BG8sVl1c5MExW1mLPNYCIHdZhEWXb7YqNskqe3dPSkxSqpHQciM6wOsk%3D%7Ctkp%3ABk9SR9DdtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/P~gAAeSw24RqVUSt/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "freshness": "live",
-        "firstSeen": 1787210808963,
-        "lastSeen": 1787210808963
+        "firstSeen": 1787556258367,
+        "lastSeen": 1787556258367
       },
       {
-        "itemId": "147464588012",
+        "itemId": "147523016166",
         "title": "2000 Pokemon Gym Heroes 1st Edition Holo Brock's Rhydon #2 PSA 9 MINTOpens in a new window or tab",
         "priceC": 35999,
         "shippingC": 599,
         "landedC": 36598,
-        "url": "https://www.ebay.com/itm/147464588012?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHGZANKPQ4N1GJYR8JPT&hash=item2255930aec:g:eGMAAeSwMndqZ2K7&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xACNr%2Byd3SufxeRdZcOzjfe0I77YWyZLmh0h%2BjtQ%2BM5WfJdV4II62J%2B2mZPuXPbN07azwkw7qC8HzKDo2ovx%2FtF1fcYYvh8GFK%2BL3AurMBTWXy1kqiijCVMk8L%2BpRNaDqCVqnhIhxtOidAoPvywHSJItKEEU%2FpbmEL3ZNyalQ639nYdkGnLNwGanj2LFrbpNKbILDgiO4iS4agNWYwKBxKfb5bnxvIFvC4wNqEhyYQrOCjd8FjAPoQ%2B0IiRcGa7jHNXRzaQehzyzR9B4kQJj1xFn77ww%2F%2Btl1U3e%2BMIp3QKRPQ0R9MSLTKVMgbJGDHulvh7dF7cKsCBNFx95FL00Fxr%7Ctkp%3ABk9SR-iY-uCDaA",
+        "url": "https://www.ebay.com/itm/147523016166?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TSNZK5HMNRTJB2H68A&hash=item22590e95e6:g:eGMAAeSwMndqZ2K7&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCQt04Uou9V1%2B1BElIZ%2BG%2BMP0B8RxCaElfJzu15HonrtszgFuw6KoxcCsHU%2BqZg2rJJtDM%2FgaYF8UPO%2F%2BwIKfqBadZOYXmGtj5kpB9XLeJzLGXY8RAit1KaRpZb7brKNyuBPIsKuHyfpQcfE8X%2FRwvmruEqTCrjxz0Ae51%2B97vT6o6eMud0C1XRbyEe%2FeKxUvD7Irv4nG%2FK2Vc3EeSMilsi1YhBgpUaSW3NL493tB0Kx4WO5jlJPL21Od0q6%2BzmFn94a5Zba8UnFGELqmTp4v34ha2w6eMQELa9XMijSIa2og%3D%3D%7Ctkp%3ABk9SR9DdtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/eGMAAeSwMndqZ2K7/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
-        "firstSeen": 1787043800671,
-        "lastSeen": 1787210808963
+        "firstSeen": 1787556258367,
+        "lastSeen": 1787556258367
       },
       {
         "itemId": "377423606758",
@@ -149,13 +163,13 @@
         "priceC": 37500,
         "shippingC": 860,
         "landedC": 38360,
-        "url": "https://www.ebay.com/itm/377423606758?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHGZT2S2VS5HY8RNPYQ7&hash=item57e03333e6:g:yYYAAeSwXiNqYVI1&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB31R0GgcfyANe0QVzd7fq3X1Dk1ymk1PxX8oikkAC6xiKbs50GCfE4AJw3o%2B%2BF6dehCQArzQzPURkYCDD1z6nMiXKG7CMlTBGV1b%2F1FKWYpYIashFQhZzdsPZC826Ku5o%2Ftz3K54T%2BXMjB5c2lb%2FJdWv6D1k0BUM8zCdAMsR6mJG0ywzeTwYbLTyZRFJF9iqJl%2BTV1lI6uJ%2FXs4mvKl3VV%2BIZL6KXWqDe59Ak4vJYbaMG%2Bfa9eoBm2%2BVZ2axsEU7FSDVxCINivrcZChB2vW7NURe8Ogrcz3xK3L7Ln%2BEh8mQ%3D%3D%7Ctkp%3ABk9SR-iY-uCDaA",
+        "url": "https://www.ebay.com/itm/377423606758?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TSDA6H097XS7M0F204&hash=item57e03333e6:g:yYYAAeSwXiNqYVI1&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDGG3z2jTURSurN7hyyQjgfx6EVbT3QpC4kp4EsXgjs9VjmpUeji0PnYaatJ6bJvHn8ZSYSEvJHXYkPRe9jhcyimjD%2Fcko28%2BxEuMynPsvTgNpHHO0o320gXzGomrunWni0G2ASokf45JEXtNxZpdDy5hX4BMFwwG85CI6fmWT57BthaktKFjSxf%2BatRFaeyOAZCsT42EilGzhBAK9pvHBogiAKV6HqjJ4htinxzB25e88NMd4BeabsORwhDb3E%2BWrDkZjV3zSUbJiiFm1kWeOBBZtFJ1mZZFUJ2IW1BTCl1YHGlsq5sVYPRAyQJcGihlUz5xvGHbG%2B12jDM7fYYTVG%7Ctkp%3ABk9SR9DdtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/yYYAAeSwXiNqYVI1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787210808963
+        "lastSeen": 1787556258367
       },
       {
         "itemId": "257643828592",
@@ -163,13 +177,13 @@
         "priceC": 42000,
         "shippingC": 540,
         "landedC": 42540,
-        "url": "https://www.ebay.com/itm/257643828592?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHH0NTRD0JYFYB5JM76K&hash=item3bfcc4d570:g:fCUAAeSwC~ZqZnU3&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBczQ%2FLmqHu9FKbr8%2FyzDYeFeV7%2FImEUfbGWWboEiOvjM5LLvx8g67ow%2FJG7EKzz48Mpi6CehHYAEkPngZOHuLRn3RMgiRgpiP6rYP9NE9gdd%2FE2TkH8K7j53nSunYjqvwjLjNkjMwAMg1yQgnQziQVt3iZbwqrY41EAxQZ94Ne702uXdpEzbPaqLKJHKGx4ADTU8cpO4CoM1YMNqoZQQdmvKcxC2wF6I63xvZ6eckD5KwF4IRttJ4XCQFXud7mNuBhGQlKfYT0%2Fc6X9KM5%2B3497BYyrBeRMpPzhoaYJsiKX8Yh8YyUvO3t28qqSOxXQ3b4twtanwbdBXcRFW2HxiZx%7Ctkp%3ABk9SR-iY-uCDaA",
+        "url": "https://www.ebay.com/itm/257643828592?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TT5BQ5XFP4K9CXZHH4&hash=item3bfcc4d570:g:fCUAAeSwC~ZqZnU3&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xACQC7Q6marj7K4olTBFYhLoYDqJVf3dguikgVWZwk5ePx8H38k9ldNYo%2BaJhM3sS54hz7LcjOblCMuO2jUyO6%2BvCdiBreoHtiUF9Vx6pChuhmPyCkdfLK5jcqHsCUi5RNH6XeMVoWCw83dUoIzZFqMILg4ASuthwwh4PK79uk%2FMVatf%2Ft8i6YsdTy731bR6Mx9yWcBvvXpjcgqMgAJ%2B2Oi%2BKJ1VxREJ%2FL0Jm5ixYF6OdwreTCIkzPx3OJNgKWar1UtZ6sobrkCbIrCkq%2Bench6RLblB74s5Up8z5%2FcqlUPnw%3D%3D%7Ctkp%3ABk9SR9LdtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/fCUAAeSwC~ZqZnU3/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787210808963
+        "lastSeen": 1787556258367
       },
       {
         "itemId": "336583755765",
@@ -177,13 +191,13 @@
         "priceC": 45000,
         "shippingC": 562,
         "landedC": 45562,
-        "url": "https://www.ebay.com/itm/336583755765?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHH0X5DFV213ET9TBYX2&hash=item4e5df487f5:g:uVYAAeSwYOtqBh0w&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDJ34u1pG1UvqGXbsejxCOT8ibfD0ZG0TggYqVqXBUcbfFI70o%2BWwu3QTcBIllmpgQqz%2B1MbH7egBtbNwg%2Fgko5Azkeg3a0jvz%2BPwvs2JSqX9Kp10G7P3aulFCM7qcLz1eYD7IawBmibSp1RT738L%2FEETM2vkWo5JSjiCcUNv%2Bxp25G1sUPbRFJ2sVZvPLnMRYy7SZ7WhmEU72GIl7rnUBu%2BjAK8BFfpHDo2TDohcJV5XP3CTElYp0ofxsBO8jH2%2FPjXVWKdB%2F2LbVY3gCCFLEZV8KDZe9x9TgL9apdN0cSyQ%3D%3D%7Ctkp%3ABk9SR-iY-uCDaA",
+        "url": "https://www.ebay.com/itm/336583755765?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TTV43H4B9H4FV7NH09&hash=item4e5df487f5:g:uVYAAeSwYOtqBh0w&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBEejGeSiEAchgtJW6k%2Bcv7Xod4xTZNsBYo57tpnFejpypfvGeSsFvV9Crsn2LbDSFlrQkvKtxTxC%2FweUm%2BcWbzaxlYvosSE3PV1jyX%2FDW%2FWCLVfWyL0R9y4lDK%2BbC1qZ%2BuQSzdWGr1O7NY127nsiH%2FkAGdK%2Bwrp481JkfpMSrPFTeslbor2vwXqkdynkCCtNP5dL4qxBCCQvSROQcZ6xqSF6WmjLmb4lAvesdE52s5Aw%2BqxpsPj8k%2FhE666RWjhepSivyWDNClf%2FrW0xD%2FddBYSkES86JRHcZC%2FH%2Bj5q0405VJF2v%2FUi657XltLc5yF%2B3eM09twL5b%2BJ6fgPPbTM2U%7Ctkp%3ABk9SR9LdtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/uVYAAeSwYOtqBh0w/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787210808963
+        "lastSeen": 1787556258367
       },
       {
         "itemId": "147478859850",
@@ -191,13 +205,13 @@
         "priceC": 70000,
         "shippingC": 0,
         "landedC": 70000,
-        "url": "https://www.ebay.com/itm/147478859850?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHH0QYXMJYTSBT2T1FB7&hash=item22566cd04a:g:JisAAeSwn2Jqb7DD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDmleQNWA%2B3TEfBv4uia9IhOQZR3M9jUEHnNsP3y%2B8zoey1Xe%2FeawPqH02LR8X%2BewWo4WfYULMrxYBDEwENSHAKOCfiOkk6dXZ6VJlLZ9L13o9BpKo7r%2FkmaegJrdPv4T990iOLUhvddpnDv7wOvcogL9M7IdlSoL%2FSqw8PSy7KJLFd62nBjiqpE6y4nhIGOxZd%2FIysiAfLcu5QvTNm5m6M5ZOOLhora5pwqOjy5MOlcndRsgPeFTzJu0q3VK9U%2BJjx1iwwzA%2BnJfjGQmS2LqJGspRUMYm1BLGSvCEeoUQRlWyq4lBh1yS2rkw8qLiWc6s175goIQwaSncB9Bf%2Ffb3Z%7Ctkp%3ABk9SR-qY-uCDaA",
+        "url": "https://www.ebay.com/itm/147478859850?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TTMWSZ8H8S09SXC25H&hash=item22566cd04a:g:JisAAeSwn2Jqb7DD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCjn%2F9dbNo9hFDk7spPz4inbY%2BmLA6mmwwuuMCD3ov25prHRqW9ZMeia8v3PM4TH2bmsMbq%2BVaGgO6UlyBOlrJEorTkfLHt1V58fsiE%2BXKSUTdFTvrodMh0Eso%2BsZiGjbwJubs2c9xCVpveS0CV1G6eqHoKA%2FMFaJ1aju968xl7Gi%2BHeJKct9E1EYnqa8hwYnZJ5ILkLebODdk%2Fa9VfPrWvP0G62or0lrIP80siqG0Ey1T%2BTUL98ir3Z80W3dpJ5jqmWODHmEgWkEgsb8DJpv%2FBJR5VVmdaTIcWCS9YVDjmYg%3D%3D%7Ctkp%3ABk9SR9LdtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/JisAAeSwn2Jqb7DD/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787210808963
+        "lastSeen": 1787556258367
       },
       {
         "itemId": "127984117063",
@@ -205,27 +219,27 @@
         "priceC": 80000,
         "shippingC": 597,
         "landedC": 80597,
-        "url": "https://www.ebay.com/itm/127984117063?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHH1HACKPG80D301HV3C&hash=item1dcc72a547:g:xDQAAeSwB-dqXYfY&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBgHyulTcKElNujkCKNrwP%2FaGN5SuSYZuSdadKbxN%2FqHhhlTsr%2FPd%2BV4WGzkE3%2Fo7ROLHcV8qcModanVGWveYS20uz76Mu4V%2F2UomETBv3RgRGi8Ym5kvhO8cJjUbJoUoQjexm18Lz1iHptHRmxE4gVEP7Y8HpwWgf2edtmImcbMBWaUMef6mbpvkZiG%2F48GPiH9lTM3K59rTy8mqe2Ju%2FXzXeuY8mzAuKt7i4njhrBehyMXpgiFNJaMjh0UfeJZsUWRbbqw90e6ZUhMMqVNaJgNP14rUXoTrecgMGu9LMhOw%3D%3D%7Ctkp%3ABk9SR-qY-uCDaA",
+        "url": "https://www.ebay.com/itm/127984117063?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TTF0XMV3HW7YMQPRV7&hash=item1dcc72a547:g:xDQAAeSwB-dqXYfY&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCz65GiRQH2J19HEyIkWF62%2Fyn3R8zguuGSuComJ8BXU0NrzyV8rvKPV1p3oeU79teR1%2F3B7JvrTK1m1vt2Ux9uQNdl149Ln4t2uFSmHJkpiv2mW4NjQXGD80CwN103FYIlIrYmjinFvxuQuoNX6LSch01Y5%2B%2B8%2Fvu0xwPDNr9w5D2n8RPenDuMlwh%2BbxuPqrrfz4TZ9K%2BiMCO6k4J7%2FffPPfwCeXiXYKkA8KtOWO3yeuVuzwgPyjAYttV2xkcjC0ZHbXEOREA%2BvRPx1FUAf73E6HW6CMMmXg5WmcwhIt5lsBkLjUgKOaD5AgSIeBGi%2FbHfhT6Nk3XiQp6b8HFWX2om%7Ctkp%3ABk9SR9LdtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/xDQAAeSwB-dqXYfY/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787210808963
+        "lastSeen": 1787556258367
       },
       {
         "itemId": "127997253862",
         "title": "2000 Pokemon Gym Heroes 1st Edition #2 Brock's Rhydon Holo PSA 9 MintOpens in a new window or tab",
-        "priceC": 182804,
+        "priceC": 198700,
         "shippingC": 800,
-        "landedC": 183604,
-        "url": "https://www.ebay.com/itm/127997253862?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHH1ATM9FGZ7KKNETQSM&hash=item1dcd3b18e6:g:iKIAAeSwAY9qZ5Ce&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCLUZ2ZaBtb51wWI2sdeExMntGsNlr0Q%2FWRgKbT9i9xZILY5Rl%2FhJ%2FsBp5lZfrCY4C%2BJQBdfXei%2BO9r2h66uU5i22X6hIvcpWzra%2FUlMBcwtfVqhPlQhYruB2vB56l87UIs5rHswWrpfXZoxxxZ1DthGV%2BracMULY1m4iUxFm2d0c%2FUsbdg6ddJuW%2FXOjGmbczFqU%2BkUMHubAYL96HCDJ0kxOBkPs2%2BAj%2Bo5B%2FoEvUc4OgBlS7SA9h5xD%2BBNS0qqlViXCArYKsbarByHxn6SIetvbG232dQewIvJrl7KuXaAA%3D%3D%7Ctkp%3ABk9SR-qY-uCDaA",
+        "landedC": 199500,
+        "url": "https://www.ebay.com/itm/127997253862?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TTCQ2V1TXPYSBH75V3&hash=item1dcd3b18e6:g:iKIAAeSwAY9qZ5Ce&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCLUZ2ZaBtb51wWI2sdeExMntGsNlr0Q%2FWRgKbT9i9xZKf%2BAdMMXMtMK83e6hQqxmSDWCPtfaXEXxXHQ0voIdQQsuEDz3v9BPF2HSV9I0VC%2FpmQDQHS5xVLvgwmsoxwa%2FK9wmJFZboPyNw8qFHm7Ys65ReeYw27qPEcTlDvvrORfVfU%2FayFcNelyMuvCXdkjLuzquSb9mBV1%2FIvv8ZPuRcrmVHiSYJ436va66OsG%2FnG%2BgLkIAWT7ACELyzb51FY6Id0rVeD4XkQhcBbKnhFBWYHU9B3mxPSv3gWUb8DKu9zPQ%3D%3D%7Ctkp%3ABk9SR9TdtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/iKIAAeSwAY9qZ5Ce/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787210808963
+        "lastSeen": 1787556258367
       },
       {
         "itemId": "287491018796",
@@ -233,13 +247,27 @@
         "priceC": 300000,
         "shippingC": 999,
         "landedC": 300999,
-        "url": "https://www.ebay.com/itm/287491018796?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHH16PDX6QBDBCVBTVC3&hash=item42efccd02c:g:O3QAAeSwihxqaf3d&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDNNvdaB1TkJuQTqPfHs3kqWMTb14GKzlFCkhEbXcyrAKGvN6u6%2BmJB%2B5fowKh0kWFFy%2BGe9thg5IIINt9Qm3q56IiLa2nM7k82ZrlZPlD4gRjziX1pTNO4CW7clQl0TNA7JSczKGbHlbi8%2BMOjBEfT0cR4vsKSDajYcWYdIQ2MCIdF50gI1PnngzQ2K3s5%2B4BOVPbFLrmXzh5INwpIAOsEZ5%2BCeOkfY9um%2Fs1GQAKtpyZCabKy1jVgemO5N7LllKs93cKWsW6bRgH6XYps7Vq5Qj1Oph8yd9PbuEd1WJQ3f8MiJNmt%2Fr2Puhm3GbFRx7CnUEhDIV%2FkYVvfAWWDy2YH%7Ctkp%3ABk9SR-qY-uCDaA",
+        "url": "https://www.ebay.com/itm/287491018796?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TTD9HWJCAA02WZMNJ5&hash=item42efccd02c:g:O3QAAeSwihxqaf3d&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCDBn%2FK%2Biait9Gh8PKd4wPrdWJkRKQ5aGfgqAqcWt1xVXFumH0LGNiEipsQctUUvjqOxoMbdbnUBGzyRRz9Nhj%2F%2BCFh9eLc4Jj%2FPDlAM9D3I%2BcCMfik1QinM1o5L70XY%2FfM9BTfxhOT0OXpZeGYQbbZ13VxzMFOYizA4R1t1Pgup4%2FtGsWJOrNUTTCtG0vFGo32gk%2Bha%2FSG7QwQ5jJWekrqkniOIPMFIbwWDHgY19Ivm5%2FmeT%2FwUGYDxeHjlQJtqIPZFZYO3o63F0F63D4wBnaiomVXFF7VhVDSqdNYkM3VMg%3D%3D%7Ctkp%3ABk9SR9TdtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/O3QAAeSwihxqaf3d/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787210808963
+        "lastSeen": 1787556258367
+      },
+      {
+        "itemId": "137306849350",
+        "title": "CGC 10 PRISTINE 1st Edition Brock's Rhydon 2/132 Gym Heroes Pokemon 2000 VintageOpens in a new window or tab",
+        "priceC": 380000,
+        "shippingC": 1195,
+        "landedC": 381195,
+        "url": "https://www.ebay.com/itm/137306849350?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TTYWZDDX3WPYDEDS6K&hash=item1ff8204046:g:b98AAeSw5F9ppVzN&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDrtZ2oGTonhDicZ6viXrrRY68AlQrjKKsTm7CpA8vQ%2BB1RtRZd7g%2Bc6GByxpkiqf%2F8r8SOyR76LmXGw7IemFa10SQ0krXg%2BWc1XuaTLe%2FYUFpNxxh43Ok1M%2BRyBOOhMsYsU7twjD0gaS7ukfg0qnmupVuaDhKSzi%2F5iOe%2BMryww824qYub85uj7VOAOiZ0JnT5Mt3Ih5Q2tmJMyObmewrny7uY83d9TPxBfFwxsm1JepLqyIqvB8JnuH3rNGKcU88LpFEmiOj49nNDV9D0582K%2B%2BaDB2vRzzdf1MB%2BLSeUUg%3D%3D%7Ctkp%3ABk9SR9TdtKqGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/b98AAeSw5F9ppVzN/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "pristine10",
+        "freshness": "live",
+        "firstSeen": 1787043800671,
+        "lastSeen": 1787556258367
       },
       {
         "itemId": "236735241799",
@@ -247,13 +275,13 @@
         "priceC": 400000,
         "shippingC": 548,
         "landedC": 400548,
-        "url": "https://www.ebay.com/itm/236735241799?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHH1P2MMGGSQB82R8ZW5&hash=item371e851e47:g:4YcAAeSwtcVqOQ9B&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCDOT0Ni5Ag7DnR2SJzDqzwizTwY0Mb0iSfP0aeA4Gonl%2BpnI6lKiLMwfIM6NPiIKWaWhU3twB9xptFwjVdvNrw%2FeLaklfm81PKhib4C4Y6o96iPHXuQb%2BizciOyYzVtPc%2FjUsbhG9u%2B7NenP5kNXmI9HzHyB6f9rN0sjBQl0R4StyUnalytXfuU5d9p%2BVBoZXTkA%2BZ88t%2Fo5LbLGsMjDKDaDZBZOfXqm0FXYpY%2BpAueK%2Fke2UiKf3tzU6YtL%2F%2B7tfasQtEH7N%2B1UcsPZD9QkwQo3LVJzUJmay875T73I49%2Bg%3D%3D%7Ctkp%3ABk9SR-qY-uCDaA",
+        "url": "https://www.ebay.com/itm/236735241799?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TTSME2P4S0BA5B2RJC&hash=item371e851e47:g:4YcAAeSwtcVqOQ9B&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA1qmrRzC6LBNeiwY5Az9EfRa8rSzx1PeCKR21YE3ILMz%2Bar7dIKsJ7nlcQRDKVjDdylARV1L1rwg%2FEWKxfZxqS0xYoBmTPyzrbCDV6V4ituCdr1BD4EC6hyraAO6ewCkJEbGt7%2FPKxvyjnqa%2Fl%2FMFTREEMFfTHuJG3IGS%2FGNQ6%2Bs3fwK3jF%2F3%2BpKgqTLtsyqKWcpK0BB3hywng1tkej2wt24876okc2e%2FvKEGGcpAkkwtR0ryeJ%2FqeyFwfsjWDSTD5WCxZZ91NUwTPeqdKUpu5j9YYMGyfZSV7EPSDgqx55BoHDPdZc6Zt%2BH2JluBmanTJOJp2QEn8S7of4jstlr4o%7Ctkp%3ABk9SR9TdtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/4YcAAeSwtcVqOQ9B/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787210808963
+        "lastSeen": 1787556258367
       },
       {
         "itemId": "366343237592",
@@ -261,13 +289,13 @@
         "priceC": 500000,
         "shippingC": 597,
         "landedC": 500597,
-        "url": "https://www.ebay.com/itm/366343237592?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHH1FMME3APTWAJYBB7K&hash=item554bc22fd8:g:sN0AAeSwKuRqFNL0&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBjKd7tJ7l2TriQdZiC2GpOMi58XYEB3fHCYXpO7whMdsxIxE%2BpBfmSNlrD2uCHlc5%2F5edCqi4mX3fKg7%2BBH%2BFFIA1ILjvce6s7g6pcA28C9%2FvRmPnjKVCx4GyopjxdweARpGPEGCSA48Aqx%2FEvm2vrceytfJpAPiw%2BcXDf8T7fYZ2JLv21ryUjR5Gctri76Gsrp61l4TZfntdRz8gvYdbEgAe8wSWIHuTXV2YBDMdLI%2FwOqKQhzCxztK5jIWI1sV9%2FvzdzmKZfCKFKpTPNfz2NmweEDOGK9bE4%2FFIx5xEwqn1%2FsVpED1AJYUJ8AffdvJmTm%2BixaajTSOtFy7sQQ96y%7Ctkp%3ABk9SR-qY-uCDaA",
+        "url": "https://www.ebay.com/itm/366343237592?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TT5BEMH6RWRQ1VCFMV&hash=item554bc22fd8:g:sN0AAeSwKuRqFNL0&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBjKd7tJ7l2TriQdZiC2GpOMi58XYEB3fHCYXpO7whMdsxIxE%2BpBfmSNlrD2uCHlc5%2F5edCqi4mX3fKg7%2BBH%2BFFIA1ILjvce6s7g6pcA28C9%2FvRmPnjKVCx4GyopjxdweBoCUeUUKimVxVoepDuNvxqMaTbIFI74s7uqDD49mUWOn%2BdNcDeO0lkZapay528tlSqwCJaa07LhPRDbM4vb%2F6cttXlq64qpBgWjoBZR%2F1ZC4dO6atUAwrzKdXkO36IrC8co5ZpQFeBuxGNrlWPykLUCRr508KguhEIO6ahfCkv1Bp7xFLBe2MWPHXL4ysjmjuRj4jtET%2BHIsL8GKvzvcC3%7Ctkp%3ABk9SR9TdtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/sN0AAeSwKuRqFNL0/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787210808963
+        "lastSeen": 1787556258367
       },
       {
         "itemId": "277781214052",
@@ -275,17 +303,30 @@
         "priceC": 799999,
         "shippingC": 0,
         "landedC": 799999,
-        "url": "https://www.ebay.com/itm/277781214052?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0F0YHH1VZH0ZQDV3Z9H545D&hash=item40ad0cf364:g:Hz4AAeSwzrlp5Ydl&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCzUos7KXwdyKwBToFOTZt%2FsskiCrmmFsxvC5E4tQR25jXRqdsTAYGKhdM7w4suNrjajoO0rdzFSe7PGsfzOle5jYRoQVZu2JUIOBhhiHNPhB6SJ9VhwJgrGrMPAnvVQor6FcIeO7em5E4oPPudSnIpUlFbw83uMjHHpjiTB70C26fjAKNkBpcr%2FKvntStfiMxAf%2F17wO0wlLZVhfSN6MonecxijPqM9sLE1qN5sAdtW5DkR5y0lUQU3xml9QLXADqn2ozlh04LoVnwOw303q1e7nuFFCOv0gIU%2B93r8kXG6A%3D%3D%7Ctkp%3ABk9SR-qY-uCDaA",
+        "url": "https://www.ebay.com/itm/277781214052?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=15043376875&itmmeta=01M0SAD5TTW8ZKB2S3A6J26A1Z&hash=item40ad0cf364:g:Hz4AAeSwzrlp5Ydl&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCzUos7KXwdyKwBToFOTZt%2FsskiCrmmFsxvC5E4tQR25lPsJH8crifh4sUsrUWeyKJ%2B6U8ObNHjuTforkf3iKJaFvE%2BmarP%2BtmVObJDP5yS3u%2FA0oRMOZeDPVLAuYosxL%2BaTEWdJ1Pyhcpmwowxk9eYmwBusFlNg3aglBVYqWx7VgoPQ2stYO74%2B0pqAs1qhL3IfFg5JtaH6lZaBUDSRUMq%2FfrIUid%2BFB55ZV6lHh7WejQnkdjf8Yzwb8vNOP6nGwOuqms3ZhwR8VUQdQsqs%2Fm%2FqmPEBLf7MGpBil%2BvulmKFA%3D%3D%7Ctkp%3ABk9SR9TdtKqGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Hz4AAeSwzrlp5Ydl/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787210808963
+        "lastSeen": 1787556258367
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 2097566,
+          "saleDate": "2026-08-21",
+          "priceC": 15100,
+          "title": "2000 POKEMON GYM HEROES #2 BROCK'S RHYDON HOLO-1ST EDITION PSA 8 002/132",
+          "url": "https://www.ebay.com/itm/366606093883?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 939747,
           "saleDate": "2026-08-17",
@@ -1832,19 +1873,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 186047,
-          "saleDate": "2026-03-19",
-          "priceC": 13250,
-          "title": "2000 Pokemon Gym Heroes 1st Edition Brock's Rhydon Holo #2 PSA 8 #2",
-          "url": "https://www.ebay.com/itm/147198699981?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1959,9 +1987,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 253,
+      "englishSaleCount": 254,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787210633810
+      "lastCapturedAt": 1787556092439
     }
   }
 }

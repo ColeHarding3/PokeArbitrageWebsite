@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260820T211529574Z-843544fc09",
-  "generatedAt": 1787260529574,
+  "snapshotId": "20260824T103728953Z-dc83d8663c",
+  "generatedAt": 1787567848953,
   "data": {
     "deal": {
       "variantId": 3714,
@@ -18,9 +18,9 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/c1c511506113459fb5b30b4006eb477b766854c17ece66632bc75f9568fe992f/1600.jpg",
       "popularityScore": 87,
       "market": {
-        "ungradedC": 5739,
-        "grade9C": 10550,
-        "grade95C": 15153,
+        "ungradedC": 5688,
+        "grade9C": 14032,
+        "grade95C": 15231,
         "cgc10C": 30000,
         "cgc10PristineC": 54000,
         "psa10C": 202500,
@@ -29,22 +29,35 @@
         "psa10Pop": 57,
         "cgc10Pop": 33,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787213616174
+        "fetchedAt": 1787558888154
       },
-      "bestCgc10": null,
+      "bestCgc10": {
+        "itemId": "800430178678",
+        "title": "2004 EX Hidden Legends Milotic 12/101 Holo CGC 10!🔥Swirl🔥Opens in a new window or tab",
+        "priceC": 40000,
+        "shippingC": 548,
+        "landedC": 40548,
+        "url": "https://www.ebay.com/itm/800430178678?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=2314420327&itmmeta=01M0SD2DQ2357B647BFNQSATWG&hash=itemba5d5b4176:g:ZoYAAeSwYexqarNr&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBpyhUgS3ciEJIrYnAQ0IQckhL6izDPqhiQQCBjmMrDw1Fh%2BBJAnZwqawiOASDdHcJiQ%2BEvZ%2Fb2UgHaM8cmeBW%2FMC8OyIiVxcHEWpJN8nes8P%2Bje7WhDklMGx4C5ABnNi%2FPAval6EbeCFVSlgywBbIih79xYeK5Q0Kb0pVa9ESBAuq%2B%2BqzCZ7HI%2FxleGcxxfozNqYSYKavtVw5Tx6sjbaDP%2F3paDc%2FBNqCvcMCFA7XyXiRefn1yNKc5rZP5rv5ZRCYA7l0N8hu51n3s2bEOTs0vh%2F94ytQHUYblKMI%2FrIxH%2BT%2BON9ZszAC0t3BTTc7VDvI%3D%7Ctkp%3ABk9SR-Lbia2GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/ZoYAAeSwYexqarNr/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787060323903,
+        "lastSeen": 1787559016400
+      },
       "bestPsa10": {
         "itemId": "127626168663",
         "title": "PSA 10 2004 MILOTIC HOLO - EX HIDDEN LEGENDS - POKEMON GRADED CARD GEM MINTOpens in a new window or tab",
         "priceC": 999595,
         "shippingC": 0,
         "landedC": 999595,
-        "url": "https://www.ebay.com/itm/127626168663?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=2314420327&itmmeta=01M0F3T3Z6RR34Q4E15V985BG7&hash=item1db71cc957:g:hLUAAeSwqYdpaXFW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB%2FN1mKYu90VKNdAxoeyYtkMtmzA7qzyNDsufbvHCRY5C9YnSvap3LtF05uayAo6hB%2B3WZgFTkP2reGD8FXmNwdS536sdtg76VrgkKgrP3oMqXJRbt7tDK6NGFTdFGR6fh0AaVxRHVbd8fCkBymVubUllla77Sym1GwOmqdj%2F1nBrTjfEJWh0qvcivLEWqk3X0U7DvJyxJxNt8txJrrf3%2BWRtJdj6Qw5B6XhdQe0FZyBKTsFvAQVk3ItSqEDnIjPGbY8g5%2F3PaSy2vAvX3Ie9yeH%2BpY0KydWK1RmpmAGH7saA%3D%3D%7Ctkp%3ABk9SR-q_6OODaA",
+        "url": "https://www.ebay.com/itm/127626168663?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=2314420327&itmmeta=01M0SD2DQ3KGD26PEN0FQZZBV8&hash=item1db71cc957:g:hLUAAeSwqYdpaXFW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB%2FN1mKYu90VKNdAxoeyYtkMtmzA7qzyNDsufbvHCRY5K5xWkPFbUDbkDq%2BkDuJx6mImqY%2BuBhLFNUflmzmJONJfvRFOVO4uYbu5mRZKDMYkiMegyz9I3Oyyg%2FZmUJXFmnuRoE9hav0ddbMh7M9tkcmCEkIseh2yjFG%2FCUX5pcnJrJuaxCdWNj2O7RkCoCsb0Or5RrT96gIFGRZQWlDakIlbiJrS7nRrVSEWUI1ixLtp99M3GoQ5a4HKI2%2BfxBVdecbhzPjLtAmNsfGD1OpVB2oiOaExoZIvMffUjNPUsy5zw%3D%3D%7Ctkp%3ABk9SR-Tbia2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/hLUAAeSwqYdpaXFW/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787060323903,
-        "lastSeen": 1787213780817
+        "lastSeen": 1787559016400
       },
       "bestPsa9": {
         "itemId": "287490151292",
@@ -52,31 +65,45 @@
         "priceC": 42500,
         "shippingC": 699,
         "landedC": 43199,
-        "url": "https://www.ebay.com/itm/287490151292?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=2314420327&itmmeta=01M0F3T3Z6CYS6DR8M82EFD00Z&hash=item42efbf937c:g:VY4AAeSw6FJqaVFF&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDp%2FPmfUWg2CaPsmu7jCYox3hx3oGZHPmsUSHgYqa8lHH5lDrbP57ErfIpTFK7DpZaA9DiuUFcD3tny002uVp8C8twl2BVCaYwNXg7ZXuJL%2B4Eml78ErTjNIcWZQzALLUUh1QK2JC9xv4oJWFXepJyGkq75US%2FnPnG0mChx5g89TVGqU7F0XFJBq8pB0M%2B555DxcXh%2BDlHWvsfPgd5oK%2FRMUNAn4MKVZoG3ziCCgxbJ%2Fbl1OYras1wLIzV%2FmnWdbfdv%2B8NeYWG0qcKjQDlysHA%2B1TLQdvdeZ4UnWejKzbK7G3UwNuqSW%2FerLRl3uJMR8q0%3D%7Ctkp%3ABk9SR-q_6OODaA",
+        "url": "https://www.ebay.com/itm/287490151292?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=2314420327&itmmeta=01M0SD2DQ2WPZD3241N7SDM28H&hash=item42efbf937c:g:VY4AAeSw6FJqaVFF&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDp%2FPmfUWg2CaPsmu7jCYox3hx3oGZHPmsUSHgYqa8lHH5lDrbP57ErfIpTFK7DpZaA9DiuUFcD3tny002uVp8C8twl2BVCaYwNXg7ZXuJL%2B4Eml78ErTjNIcWZQzALLUXiV51RH1rWhTBq%2ByY9Gs5KZb894akO3Fz3XJp0qv6XIUinlcu39C0msKn0XmO3o7fXg2fexKMZvog7PzBHJ4HHyUBnOjIhPd6O9kALIMvtMoCbqe32xRsynQIXfo51iXaE4FN1Y6XTqtK26TbA%2B1MSI3PIYZe96DI3SlSe8Jjz%2F76JSptypp4jwcWe2qZ%2FfJM%3D%7Ctkp%3ABk9SR-Tbia2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/VY4AAeSw6FJqaVFF/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787060323903,
-        "lastSeen": 1787213780817
+        "lastSeen": 1787559016400
       },
       "counts": {
-        "cgc10Bin": 0,
-        "cgc10Auction": 1,
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 3,
         "psa10Auction": 0,
         "psa9Bin": 2
       },
-      "ratio": null,
-      "firstOpportunityAt": null,
-      "updatedAt": 1787213780817
+      "ratio": {
+        "ok": true,
+        "tier": {
+          "id": "express",
+          "label": "Express",
+          "feeC": 14900,
+          "declaredValueCapC": 250000,
+          "turnaroundBizDays": 30
+        },
+        "cgc10CostC": 40548,
+        "submissionFeeC": 14900,
+        "totalCostC": 55448,
+        "psa10ValueC": 202500,
+        "ratio": 3.652070408310489
+      },
+      "firstOpportunityAt": 1787060323903,
+      "updatedAt": 1787559016400
     },
     "prices": {
       "variantId": 3714,
-      "ungradedC": 5739,
-      "grade9C": 10550,
-      "grade95C": 15153,
+      "ungradedC": 5688,
+      "grade9C": 14032,
+      "grade95C": 15231,
       "cgc10C": 30000,
       "cgc10PristineC": 54000,
       "psa10C": 202500,
@@ -85,22 +112,22 @@
       "cgc10Pop": 33,
       "bgs10C": 263300,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787213616174
+      "fetchedAt": 1787558888154
     },
     "listings": [
       {
-        "itemId": "800509732947",
-        "title": "Pokémon Milotic 2004 EX Hidden Legends 12/101 Holo CGC 10Opens in a new window or tab",
-        "priceC": 1150,
-        "shippingC": 795,
-        "landedC": 1945,
-        "url": "https://www.ebay.com/itm/800509732947?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=2314420327&itmmeta=01M0F3T3Z5GT0XC50X0PCK21FP&hash=itemba62192853:g:KQEAAeSwH-Nqfpu7&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB0UFNmAbeiEA370RNXF4g9cFP00w3LfaHa52BNwx%2FOpZRhwboj67opeaXJbUOzQ8DdGAu5vlWbt8aLHvCLwwfVOyttKiCFgqeNnppT7Xm6u2lfPb5hXsTTggZCuagruHCT3%2BIQVZEYX%2FcgA%2Faka0manVof1s9LDLtlKQsHrtyOCZ1rH9DbqTEm2qPkbqGF1hb4ufio0sR8vt6Jr%2FVT7Y7InVop9rA0qSzbJf%2BfbveHtYrAVMxcE98eRqSRVP33RxYowB%2BOxQ67ldRSqoPZqkPOtTE8aaE1BiQf0LVAgu8KyYqJaWgGVq4n44diX%2FICMoo%3D%7Ctkp%3ABk9SR-i_6OODaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/KQEAAeSwH-Nqfpu7/s-l500.webp",
-        "listingType": "auction",
+        "itemId": "800430178678",
+        "title": "2004 EX Hidden Legends Milotic 12/101 Holo CGC 10!🔥Swirl🔥Opens in a new window or tab",
+        "priceC": 40000,
+        "shippingC": 548,
+        "landedC": 40548,
+        "url": "https://www.ebay.com/itm/800430178678?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=2314420327&itmmeta=01M0SD2DQ2357B647BFNQSATWG&hash=itemba5d5b4176:g:ZoYAAeSwYexqarNr&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBpyhUgS3ciEJIrYnAQ0IQckhL6izDPqhiQQCBjmMrDw1Fh%2BBJAnZwqawiOASDdHcJiQ%2BEvZ%2Fb2UgHaM8cmeBW%2FMC8OyIiVxcHEWpJN8nes8P%2Bje7WhDklMGx4C5ABnNi%2FPAval6EbeCFVSlgywBbIih79xYeK5Q0Kb0pVa9ESBAuq%2B%2BqzCZ7HI%2FxleGcxxfozNqYSYKavtVw5Tx6sjbaDP%2F3paDc%2FBNqCvcMCFA7XyXiRefn1yNKc5rZP5rv5ZRCYA7l0N8hu51n3s2bEOTs0vh%2F94ytQHUYblKMI%2FrIxH%2BT%2BON9ZszAC0t3BTTc7VDvI%3D%7Ctkp%3ABk9SR-Lbia2GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/ZoYAAeSwYexqarNr/s-l500.webp",
+        "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787060323903,
-        "lastSeen": 1787213780817
+        "lastSeen": 1787559016400
       },
       {
         "itemId": "287490151292",
@@ -108,27 +135,41 @@
         "priceC": 42500,
         "shippingC": 699,
         "landedC": 43199,
-        "url": "https://www.ebay.com/itm/287490151292?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=2314420327&itmmeta=01M0F3T3Z6CYS6DR8M82EFD00Z&hash=item42efbf937c:g:VY4AAeSw6FJqaVFF&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDp%2FPmfUWg2CaPsmu7jCYox3hx3oGZHPmsUSHgYqa8lHH5lDrbP57ErfIpTFK7DpZaA9DiuUFcD3tny002uVp8C8twl2BVCaYwNXg7ZXuJL%2B4Eml78ErTjNIcWZQzALLUUh1QK2JC9xv4oJWFXepJyGkq75US%2FnPnG0mChx5g89TVGqU7F0XFJBq8pB0M%2B555DxcXh%2BDlHWvsfPgd5oK%2FRMUNAn4MKVZoG3ziCCgxbJ%2Fbl1OYras1wLIzV%2FmnWdbfdv%2B8NeYWG0qcKjQDlysHA%2B1TLQdvdeZ4UnWejKzbK7G3UwNuqSW%2FerLRl3uJMR8q0%3D%7Ctkp%3ABk9SR-q_6OODaA",
+        "url": "https://www.ebay.com/itm/287490151292?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=2314420327&itmmeta=01M0SD2DQ2WPZD3241N7SDM28H&hash=item42efbf937c:g:VY4AAeSw6FJqaVFF&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDp%2FPmfUWg2CaPsmu7jCYox3hx3oGZHPmsUSHgYqa8lHH5lDrbP57ErfIpTFK7DpZaA9DiuUFcD3tny002uVp8C8twl2BVCaYwNXg7ZXuJL%2B4Eml78ErTjNIcWZQzALLUXiV51RH1rWhTBq%2ByY9Gs5KZb894akO3Fz3XJp0qv6XIUinlcu39C0msKn0XmO3o7fXg2fexKMZvog7PzBHJ4HHyUBnOjIhPd6O9kALIMvtMoCbqe32xRsynQIXfo51iXaE4FN1Y6XTqtK26TbA%2B1MSI3PIYZe96DI3SlSe8Jjz%2F76JSptypp4jwcWe2qZ%2FfJM%3D%7Ctkp%3ABk9SR-Tbia2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/VY4AAeSw6FJqaVFF/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787060323903,
-        "lastSeen": 1787213780817
+        "lastSeen": 1787559016400
       },
       {
         "itemId": "407124861336",
         "title": "Milotic - 12/101 - PSA 9 -🌀SWIRLS - EX Hidden Legends Holo - Pokemon TCGOpens in a new window or tab",
-        "priceC": 43449,
-        "shippingC": 2123,
-        "landedC": 45572,
-        "url": "https://www.ebay.com/itm/407124861336?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&itmmeta=01M0F3T3Z61PBHEFGFZAEZY1C1&hash=item5eca886198:g:9PgAAeSwVjtqdJkb&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDN5LfthxGZ5Vkz5vb%2F7BIxJhsjvCK0pnh1ymInKkpXRuuOGNwwE6hpe5ry1heiuHXxHoC9FnNzjGjEodwWuTceTfi4O7Sy1qunXKWxrJ6LujqjrXhS4Qz5G3ZmFRjtx%2FFMu4WoE7C7Kx4ockCcWQUrR%2BhA9aUtRsSE2hDV%2BfmHgiYuXol1OOxXl8UnQ8m4OlXKArl2Mm5qey5DKThH4TwSX1QNdHrUxQQhox9ozVV6BqNCxbDVG%2BUUeROiPlFjp4BGc%2Br8mFvcw5uTfiXNYH9HMGz0kX4%2FXfuA91zsjtI83g%3D%3D%7Ctkp%3ABk9SR-q_6OODaA",
+        "priceC": 43604,
+        "shippingC": 2196,
+        "landedC": 45800,
+        "url": "https://www.ebay.com/itm/407124861336?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&itmmeta=01M0SD2DQ34JE679N9TTN5ZT3A&hash=item5eca886198:g:9PgAAeSwVjtqdJkb&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCPPHbJ5RKCvutO3WcASy0C%2BeGBTZxKug9sM%2BGNQxZ4sFLw37R9tUinWJ6nWUBVpi4cYRj1vbgiobmoY7q4keX2xebhd5UVAdxNSaB7%2BtZutL%2BiWkrPk7%2FjyyIhshQt2Jiwk9iDodmKHnkmtyTLTp5CKTDDgekqLIhNS6tmsRpYNwAjMzrs%2BSMNDZyRyr3f6NnZVFBogP0WvdwV%2BBqx7SK7tMTTHnU1V3L%2BxAXLFcaJ5iQe%2BbM67fvkF8alj2e7iInqL3QBzpxtBe74HIwMP425TBMjEvhC%2FzWDJAWJViUItDiSwF7YBitKkSvbfYSgY%2FzcBG2%2B8TyAQKrduRjVLvBk%7Ctkp%3ABk9SR-bbia2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/9PgAAeSwVjtqdJkb/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787060323903,
-        "lastSeen": 1787213780817
+        "lastSeen": 1787559016400
+      },
+      {
+        "itemId": "800479414320",
+        "title": "Milotic 12/101 Holo Rare 2004 Pokemon EX Hidden Legends - CGC 10 [Old Label]Opens in a new window or tab",
+        "priceC": 49900,
+        "shippingC": 1141,
+        "landedC": 51041,
+        "url": "https://www.ebay.com/itm/800479414320?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=2314420327&itmmeta=01M0SD2DQ21XD9688ZKP1GQQZ1&hash=itemba604a8830:g:-xMAAeSwtlZqd3nS&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBH7e19i9G9PKBh2ucmXX7GLOKOFQeE57ck3R0vepiBCO7d0e%2F7AXXyyeLEoy%2B7e2txKLTiXfUYILvd2QSDGcg3hcFgheusMpRNQv7I%2BdheLr3tyh3Zz0sJSIY4mJgUpcpIkcNvH7f5m3xHlT0f5xLVerDqJeVBngKeLDBbam5%2F4A2oWDq5CARQZFUXTwe7hlMkkBrVIPoIv%2FacK25bJ%2FxyeN6Xl5G5wLFgc8MLGohJa%2BQcVFoowqKcBijDzJ6InZ6Qzevuvw6Ik92Jv0ztPa5%2B%7Ctkp%3ABk9SR-Tbia2GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/-xMAAeSwtlZqd3nS/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787060323903,
+        "lastSeen": 1787559016400
       },
       {
         "itemId": "127626168663",
@@ -136,13 +177,13 @@
         "priceC": 999595,
         "shippingC": 0,
         "landedC": 999595,
-        "url": "https://www.ebay.com/itm/127626168663?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=2314420327&itmmeta=01M0F3T3Z6RR34Q4E15V985BG7&hash=item1db71cc957:g:hLUAAeSwqYdpaXFW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB%2FN1mKYu90VKNdAxoeyYtkMtmzA7qzyNDsufbvHCRY5C9YnSvap3LtF05uayAo6hB%2B3WZgFTkP2reGD8FXmNwdS536sdtg76VrgkKgrP3oMqXJRbt7tDK6NGFTdFGR6fh0AaVxRHVbd8fCkBymVubUllla77Sym1GwOmqdj%2F1nBrTjfEJWh0qvcivLEWqk3X0U7DvJyxJxNt8txJrrf3%2BWRtJdj6Qw5B6XhdQe0FZyBKTsFvAQVk3ItSqEDnIjPGbY8g5%2F3PaSy2vAvX3Ie9yeH%2BpY0KydWK1RmpmAGH7saA%3D%3D%7Ctkp%3ABk9SR-q_6OODaA",
+        "url": "https://www.ebay.com/itm/127626168663?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=2314420327&itmmeta=01M0SD2DQ3KGD26PEN0FQZZBV8&hash=item1db71cc957:g:hLUAAeSwqYdpaXFW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB%2FN1mKYu90VKNdAxoeyYtkMtmzA7qzyNDsufbvHCRY5K5xWkPFbUDbkDq%2BkDuJx6mImqY%2BuBhLFNUflmzmJONJfvRFOVO4uYbu5mRZKDMYkiMegyz9I3Oyyg%2FZmUJXFmnuRoE9hav0ddbMh7M9tkcmCEkIseh2yjFG%2FCUX5pcnJrJuaxCdWNj2O7RkCoCsb0Or5RrT96gIFGRZQWlDakIlbiJrS7nRrVSEWUI1ixLtp99M3GoQ5a4HKI2%2BfxBVdecbhzPjLtAmNsfGD1OpVB2oiOaExoZIvMffUjNPUsy5zw%3D%3D%7Ctkp%3ABk9SR-Tbia2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/hLUAAeSwqYdpaXFW/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787060323903,
-        "lastSeen": 1787213780817
+        "lastSeen": 1787559016400
       },
       {
         "itemId": "187838854966",
@@ -150,13 +191,13 @@
         "priceC": 1000000,
         "shippingC": 573,
         "landedC": 1000573,
-        "url": "https://www.ebay.com/itm/187838854966?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=2314420327&itmmeta=01M0F3T3Z6MHWM81H2GYQXSXWP&hash=item2bbc117736:g:lVAAAeSwKxhqKu3l&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAXuRTB%2BsADXW9ZjYCVBw4eQVZrXD1f2lrdrpeao5FJ6kBO2wZdu6GON9mhls0D%2BFX3C8o2L01oAHIC4nrYiyTzjUdB9AYiyKyiF5bwfQmnL5a0QGUitw%2BFa6mxEvISaTfbxBbxtoh%2Bv66eeOpMenkuJEPuE0vELSwNtj5shIX6TFhHr%2Bf1JIs4hGU0svH5SjmYAbnsdaRBU2gqR9uFSEVmItsF0oJSG%2FKJlN4kmh82hVtzneWBf636oDeiSBXtqSsR29U5McgBE58QPDL8Tpz88eLBtkIoex7osG%2BeCtLO7A%3D%3D%7Ctkp%3ABk9SR-q_6OODaA",
+        "url": "https://www.ebay.com/itm/187838854966?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=2314420327&itmmeta=01M0SD2DQ3X6G5XGNH4WEJRE85&hash=item2bbc117736:g:lVAAAeSwKxhqKu3l&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA6BCTcEklMn8HBrpIH6Um9cA5eCl0s%2B%2FSm1ICYil963dZ74TZIgXkY52kXtOFmlbJAZRrhvgG0ZceXbZ616lvAWH34BOZjTK59OjYFh%2B8TyGRb5wQgwAdiyA8m4TIhuCOqtb1Ry%2Bp191I%2FQrcJ2tSOAu%2FzldQAtXjJiGsiuumBuvmTcxtgQ0jConjX4KvpMSF%2FmvnPNWGtWLqaaH1FmshcWNgCdop5X2OTpYyvCp17uGQvQAa0V3LZQKYrVrXkqCqXBLXJR8rHn2RqGh2z%2FiVb9%2FrXVUJ3qaHSRI1FntwzQAQ1J12wKVSakIVGH3mNtIxdoNT1KooHznBEkhke4kkb%7Ctkp%3ABk9SR-Tbia2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/lVAAAeSwKxhqKu3l/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787060323903,
-        "lastSeen": 1787213780817
+        "lastSeen": 1787559016400
       },
       {
         "itemId": "147323184023",
@@ -164,17 +205,56 @@
         "priceC": 3000000,
         "shippingC": 517,
         "landedC": 3000517,
-        "url": "https://www.ebay.com/itm/147323184023?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=6043385321&itmmeta=01M0F3T3Z6GNERJVA5ZKC09B8G&hash=item224d256397:g:g~AAAeSwu-dqD1xD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCOJYVXOZuQOFi%2FHSvWkAZpaJFuAhemhSacE%2BM0LblLsG3e2k2VViESBT2xvyfdaAiV8o%2Fdu5cP7UmWYy%2By%2BUuQDQ04gc2LSUJPgI6MTSp0bSU9IjfBDQikml%2BfPzsSWPLl4y%2B2k0rLJfTD90rkgMlqkc9Vq1sFtjecZyrGt0Mt64jCfKx%2FZe0%2Btyn2n9u7J1C53pU4%2Fq8ZaGAVhVEFNA4IEKMeORFUoFnjFxs3F8KgHGKjET3Nrg%2FEmgoNHbcNIfewAfQVk0vvsPn7YR5U2I%2FOHOanZGngg4RUPmdSqPsiaG9DJhPB3rHQG3nw34LNFtYzN8l20KyVSW7xHsbsicv9%7Ctkp%3ABk9SR-q_6OODaA",
+        "url": "https://www.ebay.com/itm/147323184023?_skw=%28milotic%29+%2812%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=6043385321&itmmeta=01M0SD2DQ3781XKPMMQDAH1753&hash=item224d256397:g:g~AAAeSwu-dqD1xD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCOJYVXOZuQOFi%2FHSvWkAZpaJFuAhemhSacE%2BM0LblLsG3e2k2VViESBT2xvyfdaAiV8o%2Fdu5cP7UmWYy%2By%2BUuQDQ04gc2LSUJPgI6MTSp0bSU9IjfBDQikml%2BfPzsSWPIn31ZJ8y8nl%2BQrrWvI1aAMM55UTRTpxBddk6ERmDvV2EGAw0EKc7IFNxCR3jA32%2Fi5SFVfLrffjH1ruKNT%2BioENF0vKz19fJCiIR6RhGxqPBKE13NtvCobNvLbTKvnTxhlWLeN0cx0Le9pEu1ldYidw2sVx4nxQH8xDrqaQuv5kcBF%2FZon3cCneCVDWa6zTlct5Uko3z0mtyTs%2FQ%2BaiXU7%7Ctkp%3ABk9SR-Tbia2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/g~AAAeSwu-dqD1xD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787060323903,
-        "lastSeen": 1787213780817
+        "lastSeen": 1787559016400
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 4047330,
+          "saleDate": "2026-08-24",
+          "priceC": 2600,
+          "title": "2004 POKEMON EX HIDDEN LEGENDS #12 MILOTIC HOLO 12/101",
+          "url": "https://www.ebay.com/itm/168618274803?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 3267379,
+          "saleDate": "2026-08-22",
+          "priceC": 2900,
+          "title": "Pokémon Milotic 12/101 EX Hidden Legends Rare Holo Pokemon Card 2004 12/101",
+          "url": "https://www.ebay.com/itm/820007285666?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2433928,
+          "saleDate": "2026-08-22",
+          "priceC": 31500,
+          "title": "Pokémon Milotic 2004 EX Hidden Legends 12/101 Holo CGC 10 12/101",
+          "url": "https://www.ebay.com/itm/800509732947?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 10,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 1276770,
           "saleDate": "2026-08-18",
@@ -324,6 +404,19 @@
           "priceC": 5000,
           "title": "Pokemon TCG - Milotic - Hidden Legends 12/101 Holo Foil Rare Card 12/101",
           "url": "https://www.ebay.com/itm/206456540802?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2433863,
+          "saleDate": "2026-08-06",
+          "priceC": 749,
+          "title": "Milotic 12/101 Hidden Legends Holo Pokémon Card 12/101",
+          "url": "https://www.ebay.com/itm/377388925736?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -722,6 +815,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 2433954,
+          "saleDate": "2026-06-04",
+          "priceC": 40247,
+          "title": "PSA 9 Milotic 12/101 Hidden Legends EX Pokemon Card Holo MINT 93/101",
+          "url": "https://www.ebay.com/itm/157638561652?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 522072,
           "saleDate": "2026-05-31",
           "priceC": 32149,
@@ -757,6 +863,19 @@
           "gradingStatus": "graded",
           "gradingCompany": "CGC",
           "gradingGrade": 9,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 2433984,
+          "saleDate": "2026-05-17",
+          "priceC": 18500,
+          "title": "2004 POKEMON EX HIDDEN LEGENDS #12 MILOTIC-HOLO PSA 8 #12",
+          "url": "https://www.ebay.com/itm/298237882301?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1656,84 +1775,6 @@
           "gradingGrade": 9,
           "gradingDesignation": "mint",
           "agreementStatus": "unverifiable"
-        },
-        {
-          "id": 522087,
-          "saleDate": "2025-06-06",
-          "priceC": 8100,
-          "title": "2004 Pokemon Ex Hidden Legends #12 Milotic Holo PSA 9 MINT",
-          "url": "https://www.ebay.com/itm/388488190243?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 522114,
-          "saleDate": "2025-05-28",
-          "priceC": 5499,
-          "title": "POKEMON EX Hidden Legends MILOTIC 12/101 Holo Rare PSA 8 NM-MT Beautiful SWIRL 12/101",
-          "url": "https://www.ebay.com/itm/156885970563?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 522028,
-          "saleDate": "2025-05-25",
-          "priceC": 62000,
-          "title": "Pokemon Milotic EX Hidden Legends Holo Rare #12 PSA 10 Gem Mint",
-          "url": "https://www.ebay.com/itm/286578061625?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 522088,
-          "saleDate": "2025-05-23",
-          "priceC": 7449,
-          "title": "2004 Pokemon EX Hidden Legends Milotic Holo 12/101 PSA 9",
-          "url": "https://www.ebay.com/itm/335762252969?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 522089,
-          "saleDate": "2025-05-20",
-          "priceC": 9000,
-          "title": "2004 Pokemon Ex Hidden Legends Milotic Holo 12/101 PSA 9 and Rev Foil Feebas 61 12/101",
-          "url": "https://www.ebay.com/itm/316616956019?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 522115,
-          "saleDate": "2025-05-12",
-          "priceC": 2896,
-          "title": "2004 POKEMON EX HIDDEN LEGENDS #12 MILOTIC-HOLO PSA 8 #12",
-          "url": "https://www.ebay.com/itm/306273349825?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1853,9 +1894,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 183,
+      "englishSaleCount": 189,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787213614623
+      "lastCapturedAt": 1787558886757
     }
   }
 }
