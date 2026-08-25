@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 5701,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/c4319039e3e61e0076f5a6735d46fc33092db6719539f21f13330999d9453e89/1600.jpg",
       "popularityScore": 88,
       "market": {
-        "ungradedC": 13000,
+        "ungradedC": 12011,
         "grade9C": 50250,
         "grade95C": 55300,
-        "cgc10C": 81281,
-        "cgc10PristineC": 146300,
+        "cgc10C": 83571,
+        "cgc10PristineC": 150400,
         "psa10C": 722500,
         "bgs10C": 939300,
         "psa9Pop": 196,
         "psa10Pop": 41,
         "cgc10Pop": 12,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787560855265
+        "fetchedAt": 1787648464570
       },
       "bestCgc10": {
         "itemId": "307087777683",
@@ -38,13 +38,13 @@
         "priceC": 149999,
         "shippingC": 0,
         "landedC": 149999,
-        "url": "https://www.ebay.com/itm/307087777683?_skw=%28salamence%2Cdelta%29+%2898%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=15043377456&itmmeta=01M0SEYJWFVM2M2WMEZ5Z2V46V&hash=item477fdb9f93:g:XhEAAeSwmaVqZkFl&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCa%2BUWfLpBYFZC9gOpS34Ow53JgRFmUb4diHmSnJw7tYSUJYnGckmiKZ9Hcvep6G%2Bm74Y5efPN9gE%2BHqaGpRnT0jRndwHb8q2h49EvSJtz9pJIwPRCce51G0Or4UdIWJv1KiiSqBlluyVDuj80YCVYICkvrYwgQPI1fpcJEROSo3qAKTdambWdl%2BRsqgDCS9jI6FS65080wMqk3rMFZYVB1ISLP8RcNQCgY7NMUrV1OI1KWq9MHj8Pgn7t%2Bjj0VK7biCIIN25et9UOk8%2BGVpjJ1v5TgtbP3a5Zg8qH0o%2BkUfw%3D%3D%7Ctkp%3ABk9SR9au-q6GaA",
+        "url": "https://www.ebay.com/itm/307087777683?_skw=%28salamence%2Cdelta%29+%2898%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=15043377456&itmmeta=01M0W2GJYY256P5J043CAVZHP9&hash=item477fdb9f93:g:XhEAAeSwmaVqZkFl&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCWBhtEmDN6zGUMeqxkKy7zWhhH5abhikc2oMcVXPinZumD8U6ys%2Fvd8N7BeElk6BeTtB9a240PWVKWA40Odqgq83HLgkN%2BBRIhdnsT0gqgM3bxQQbocbzfMVAWLF69%2BxStvpbfuS0bjSjA9IJkBOUfSSoQSLql1Fj8QD7x7Qpa2M5wqbg5krDw11infv4ocdcRBRfAmh2gcfqokj83%2BvKtUmwiBi3Bzm1p63GUxDLFOfSsP1V8BH8w66u9aKDrs2551uoOz8bfQ3DvtWc%2Fxzt27vjVVqn0b9BaananfOieNvJGIDyjCW4iUSGpxqzqLKFB%2FIkk2XYoFpok%2F1zVIeP7%7Ctkp%3ABk9SR-CvwoKHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XhEAAeSwmaVqZkFl/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787579311794
+        "lastSeen": 1787648774395
       },
       "bestPsa10": null,
       "bestPsa9": {
@@ -53,13 +53,13 @@
         "priceC": 145000,
         "shippingC": 607,
         "landedC": 145607,
-        "url": "https://www.ebay.com/itm/406893328816?_skw=%28salamence%2Cdelta%29+%2898%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=15043377456&itmmeta=01M0SEYJWF8AGJ1ZHK1NWTNNW7&hash=item5ebcbb79b0:g:QYMAAeSwPXpp8lJb&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAfBclh8GImmYJoVpOxDjM6LDsnT5eW5NvXRyX8M%2BAAHMg3D6fx0QUG3Q3eXY0MfhVp6VvdGIdF4hKlbaBN4w8sAhYiYE%2F53ralBpdEmmN1cWAVQug7itC9SJ6lEheKGSiwwdU2CCBIGi%2BzXyWkhYF179VnHJVJVpd1IFMVdNpGxz7wUuUPUvBLblowc6dXZMYaUutP9MZyGX0OvkTFepTc0pzIZd%2F7U5jgM%2Fj5reC1cw%2F8kG3%2FNSXTr8nrn9rFBL84jO6JHJuLgOO2QsLQ6RrEnfU5tUcBXUC%2B3frpH31DvglIAk%2Bx29NQqPL%2B6XnKAa%2BeFXZsqLSKIe2vUXgMOXoa%7Ctkp%3ABk9SR9au-q6GaA",
+        "url": "https://www.ebay.com/itm/406893328816?_skw=%28salamence%2Cdelta%29+%2898%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=15043377456&itmmeta=01M0W2GJYY9KKJQ0SCGA5X6MCR&hash=item5ebcbb79b0:g:QYMAAeSwPXpp8lJb&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB20gcSJaGUOG06TJ0ebH%2FQDbf7cTfN8zUiW041r9MDmoT8IaglK95EHtfFPQUsQIqYXikzsm98PNRqysuUqnkK0V8GzcKk%2FIKz5wQXlz6ePdt3yxpsBcYolhfTrKriAi1MFUFBhVds7lEXjlrXHrHAjoJt4s1BRyGMpmEKbNpI0MEU%2FPq9FlPz3bhV1A16CcUGxq76TLKj%2BPqk9U7h0t5hiYvD2D8gupaCMg7WFITsDKBmnJfB7Gp7oooawKXbGyAiGnL1bZ2095DsMniqTait6bA%2BIKxsrWNwzpi1%2BMIF3g%3D%3D%7Ctkp%3ABk9SR-CvwoKHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/QYMAAeSwPXpp8lJb/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787579311794
+        "lastSeen": 1787648774395
       },
       "counts": {
         "cgc10Bin": 1,
@@ -85,22 +85,22 @@
         "ratio": 3.442131691908966
       },
       "firstOpportunityAt": 1787218759794,
-      "updatedAt": 1787579311794
+      "updatedAt": 1787648774395
     },
     "prices": {
       "variantId": 5701,
-      "ungradedC": 13000,
+      "ungradedC": 12011,
       "grade9C": 50250,
       "grade95C": 55300,
-      "cgc10C": 81281,
-      "cgc10PristineC": 146300,
+      "cgc10C": 83571,
+      "cgc10PristineC": 150400,
       "psa10C": 722500,
       "psa9Pop": 196,
       "psa10Pop": 41,
       "cgc10Pop": 12,
       "bgs10C": 939300,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787560855265
+      "fetchedAt": 1787648464570
     },
     "listings": [
       {
@@ -109,13 +109,13 @@
         "priceC": 145000,
         "shippingC": 607,
         "landedC": 145607,
-        "url": "https://www.ebay.com/itm/406893328816?_skw=%28salamence%2Cdelta%29+%2898%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=15043377456&itmmeta=01M0SEYJWF8AGJ1ZHK1NWTNNW7&hash=item5ebcbb79b0:g:QYMAAeSwPXpp8lJb&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAfBclh8GImmYJoVpOxDjM6LDsnT5eW5NvXRyX8M%2BAAHMg3D6fx0QUG3Q3eXY0MfhVp6VvdGIdF4hKlbaBN4w8sAhYiYE%2F53ralBpdEmmN1cWAVQug7itC9SJ6lEheKGSiwwdU2CCBIGi%2BzXyWkhYF179VnHJVJVpd1IFMVdNpGxz7wUuUPUvBLblowc6dXZMYaUutP9MZyGX0OvkTFepTc0pzIZd%2F7U5jgM%2Fj5reC1cw%2F8kG3%2FNSXTr8nrn9rFBL84jO6JHJuLgOO2QsLQ6RrEnfU5tUcBXUC%2B3frpH31DvglIAk%2Bx29NQqPL%2B6XnKAa%2BeFXZsqLSKIe2vUXgMOXoa%7Ctkp%3ABk9SR9au-q6GaA",
+        "url": "https://www.ebay.com/itm/406893328816?_skw=%28salamence%2Cdelta%29+%2898%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=15043377456&itmmeta=01M0W2GJYY9KKJQ0SCGA5X6MCR&hash=item5ebcbb79b0:g:QYMAAeSwPXpp8lJb&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB20gcSJaGUOG06TJ0ebH%2FQDbf7cTfN8zUiW041r9MDmoT8IaglK95EHtfFPQUsQIqYXikzsm98PNRqysuUqnkK0V8GzcKk%2FIKz5wQXlz6ePdt3yxpsBcYolhfTrKriAi1MFUFBhVds7lEXjlrXHrHAjoJt4s1BRyGMpmEKbNpI0MEU%2FPq9FlPz3bhV1A16CcUGxq76TLKj%2BPqk9U7h0t5hiYvD2D8gupaCMg7WFITsDKBmnJfB7Gp7oooawKXbGyAiGnL1bZ2095DsMniqTait6bA%2BIKxsrWNwzpi1%2BMIF3g%3D%3D%7Ctkp%3ABk9SR-CvwoKHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/QYMAAeSwPXpp8lJb/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787579311794
+        "lastSeen": 1787648774395
       },
       {
         "itemId": "307087777683",
@@ -123,13 +123,13 @@
         "priceC": 149999,
         "shippingC": 0,
         "landedC": 149999,
-        "url": "https://www.ebay.com/itm/307087777683?_skw=%28salamence%2Cdelta%29+%2898%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=15043377456&itmmeta=01M0SEYJWFVM2M2WMEZ5Z2V46V&hash=item477fdb9f93:g:XhEAAeSwmaVqZkFl&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCa%2BUWfLpBYFZC9gOpS34Ow53JgRFmUb4diHmSnJw7tYSUJYnGckmiKZ9Hcvep6G%2Bm74Y5efPN9gE%2BHqaGpRnT0jRndwHb8q2h49EvSJtz9pJIwPRCce51G0Or4UdIWJv1KiiSqBlluyVDuj80YCVYICkvrYwgQPI1fpcJEROSo3qAKTdambWdl%2BRsqgDCS9jI6FS65080wMqk3rMFZYVB1ISLP8RcNQCgY7NMUrV1OI1KWq9MHj8Pgn7t%2Bjj0VK7biCIIN25et9UOk8%2BGVpjJ1v5TgtbP3a5Zg8qH0o%2BkUfw%3D%3D%7Ctkp%3ABk9SR9au-q6GaA",
+        "url": "https://www.ebay.com/itm/307087777683?_skw=%28salamence%2Cdelta%29+%2898%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=15043377456&itmmeta=01M0W2GJYY256P5J043CAVZHP9&hash=item477fdb9f93:g:XhEAAeSwmaVqZkFl&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCWBhtEmDN6zGUMeqxkKy7zWhhH5abhikc2oMcVXPinZumD8U6ys%2Fvd8N7BeElk6BeTtB9a240PWVKWA40Odqgq83HLgkN%2BBRIhdnsT0gqgM3bxQQbocbzfMVAWLF69%2BxStvpbfuS0bjSjA9IJkBOUfSSoQSLql1Fj8QD7x7Qpa2M5wqbg5krDw11infv4ocdcRBRfAmh2gcfqokj83%2BvKtUmwiBi3Bzm1p63GUxDLFOfSsP1V8BH8w66u9aKDrs2551uoOz8bfQ3DvtWc%2Fxzt27vjVVqn0b9BaananfOieNvJGIDyjCW4iUSGpxqzqLKFB%2FIkk2XYoFpok%2F1zVIeP7%7Ctkp%3ABk9SR-CvwoKHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XhEAAeSwmaVqZkFl/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787579311794
+        "lastSeen": 1787648774395
       },
       {
         "itemId": "287519693661",
@@ -137,13 +137,13 @@
         "priceC": 150000,
         "shippingC": 999,
         "landedC": 150999,
-        "url": "https://www.ebay.com/itm/287519693661?_skw=%28salamence%2Cdelta%29+%2898%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=15043377456&itmmeta=01M0SEYJWFK11N6SVNZHNBT20J&hash=item42f1825b5d:g:QBwAAeSwrJFqe8Lj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xANfqIBq13yMExd8dsiX503TvK53OtZyKU9ygDUbkADTKGMEI2BAf9SR2vbd8IlJSOwrqSJYRitHYJCtE%2B%2FJODt2ab430uYCZsawP9NSvoJDRdFS1%2BVg6MEm2DoqR87zokjLTJmQSy6QHS5tDd0X1QG%2BfdcCs0zE4xdSXWjzRLfiqIN%2BYkxO8ZAOxfNQQHwXix%2BTWVGILgd838YhtCtNTOGNzMCrW%2FI9pvZOQlgnHRnVg4mHCLYtBN%2Bt5nGhfCyYK4X6nmdtHHjhMTLZ8kXATwVKZ2OKng%2FDaSOYrVMPkhgTQ%3D%3D%7Ctkp%3ABk9SR9iu-q6GaA",
+        "url": "https://www.ebay.com/itm/287519693661?_skw=%28salamence%2Cdelta%29+%2898%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=15043377456&itmmeta=01M0W2GJYY0MRE3JXDDC1BFG9Z&hash=item42f1825b5d:g:QBwAAeSwrJFqe8Lj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xANfqIBq13yMExd8dsiX503TvK53OtZyKU9ygDUbkADTPgrQERWpxpw%2FbjFmU7oQHImNIio8cAVyelro4k%2BkXTYoXqglsm8g9ti168U%2FUaB734kK8wAxTq8r2ea5DPDelT49HV%2BV8pZe3OiegurKUwnhhTPK9ajH77v%2B4QK0Z%2BhlKhb3rI4%2FfCeCcBaobXibuBWRhESjq8hmarYTnQ5eOTnvW18ZSp3oC3vZqZaqSy4s35pKG%2FfAgkDdQ%2FhPeTxiNa8TrrZSSxa3ZodJwVv9jmoJ%2FjdLUWyNamx8IZVWgwMOA%3D%3D%7Ctkp%3ABk9SR-CvwoKHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/QBwAAeSwrJFqe8Lj/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787579311794
+        "lastSeen": 1787648774395
       },
       {
         "itemId": "287370491634",
@@ -151,13 +151,13 @@
         "priceC": 3379456,
         "shippingC": 1336,
         "landedC": 3380792,
-        "url": "https://www.ebay.com/itm/287370491634?_skw=%28salamence%2Cdelta%29+%2898%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=15043377456&itmmeta=01M0SEYJWKJ2E2H5DFKTNA9QR8&hash=item42e89db6f2:g:HUgAAeSwFGdqH2ZR&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC0kH42DJgUvz0G%2F02EM%2FfHehpNjjA2vNuiTxjxMAHINiKbIn37LwVtxGlN1n0dTa%2BVB%2F0MaEX2RHdgWQeBOgfdMHmBwVgyLQ0dh1T5b2G4uhP0n7qD6jRhh4Dwr%2FrZldLDH0DbUYqQH4r2%2F1ceR3UEBkUPV6CedvQAA6TlALBV97l7eH8uhkAcQMilDS1B07zvE6sQOQDUar75XrDlQuljFk8BQDZeOfXmHnHRBcOIJURVzvM2AEyFMlL8fmZ9Lm9JUNpWs188sa5cegfYaHqOvKlm2zOPQkHcrjQxEgUcIQ%3D%3D%7Ctkp%3ABk9SR9yu-q6GaA",
+        "url": "https://www.ebay.com/itm/287370491634?_skw=%28salamence%2Cdelta%29+%2898%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=15043377456&itmmeta=01M0W2GJYZS0W9CQYNSDBJ1ZXQ&hash=item42e89db6f2:g:HUgAAeSwFGdqH2ZR&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC0kH42DJgUvz0G%2F02EM%2FfHehpNjjA2vNuiTxjxMAHINpu%2BcDmbcJGyDNPsspyzDMnzdOarMitybKCprErA1RRk7IV6UJwElO0CnWiSc0%2Fucms%2BRC8c%2FBrSdpqRMkFSURYA5NrG4ddC16VuC1HRosOOZg42PX1hXhjpL%2Bvq5QkRIDVgEqez0Am9YaFgRZRVNPrCI6rRtQsDH2J9qcFGLYkMpd9qDLtIDH4cssAFgPJU%2BcxN%2Bw6atXYepV1cio4WaEyp8OWe9W8Dvr2NicJx6pQ%2FF4F1WuOS3J2L6Q22rITXGw%3D%3D%7Ctkp%3ABk9SR-KvwoKHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HUgAAeSwFGdqH2ZR/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787579311794
+        "lastSeen": 1787648774395
       }
     ],
     "marketHistory": {
@@ -1742,7 +1742,7 @@
       ],
       "englishSaleCount": 194,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787560852875
+      "lastCapturedAt": 1787648462299
     }
   }
 }

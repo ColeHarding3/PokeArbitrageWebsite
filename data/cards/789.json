@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 789,
@@ -30,7 +30,7 @@
         "psa10Pop": 477,
         "cgc10Pop": 242,
         "salesVolumeJson": "{\"volume: 3 sales per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-        "fetchedAt": 1787555928318
+        "fetchedAt": 1787642435266
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -45,7 +45,7 @@
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787555928318
+      "updatedAt": 1787642435266
     },
     "prices": {
       "variantId": 789,
@@ -60,7 +60,7 @@
       "cgc10Pop": 242,
       "bgs10C": 131000,
       "salesVolumeJson": "{\"volume: 3 sales per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-      "fetchedAt": 1787555928318
+      "fetchedAt": 1787642435266
     },
     "listings": [
       {
@@ -80,6 +80,19 @@
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 4631265,
+          "saleDate": "2026-08-24",
+          "priceC": 2050,
+          "title": "Dark Gyarados (PreRelease Stamp) 8/82 Holo Rare Team Rocket Pokemon LP+ Vintage #Aug-82",
+          "url": "https://www.ebay.com/itm/168619268449?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 3675931,
           "saleDate": "2026-08-24",
@@ -1626,19 +1639,6 @@
           "gradingGrade": null,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 152426,
-          "saleDate": "2026-06-11",
-          "priceC": 15500,
-          "title": "2000 Pokemon Team Rocket Dark Gyarados Holo #8 Prerelease Stamp PSA 9 8/62",
-          "url": "https://www.ebay.com/itm/178210531767?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1718,9 +1718,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 312,
+      "englishSaleCount": 313,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787555926077
+      "lastCapturedAt": 1787642432176
     }
   }
 }

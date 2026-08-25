@@ -1,134 +1,134 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "lastSuccessfulSyncAt": null,
   "status": "partial",
   "defaultThreshold": 3,
   "cutoffSetId": "hgss4",
   "setCount": 62,
-  "dealCount": 2190,
-  "detailCount": 757,
-  "eventCount": 1402,
+  "dealCount": 2194,
+  "detailCount": 761,
+  "eventCount": 1556,
   "setStatuses": [
     {
       "setId": "base1",
       "status": "partial",
-      "finishedAt": 1787554824973,
-      "error": "29 of 69 eBay card searches failed or were not attempted (incomplete=7, non-authoritative=22)"
+      "finishedAt": 1787641222849,
+      "error": "28 of 69 eBay card searches failed or were not attempted (incomplete=6, unknown=3, non-authoritative=19)"
     },
     {
       "setId": "base2",
       "status": "partial",
-      "finishedAt": 1787555133434,
-      "error": "21 of 63 eBay card searches failed or were not attempted (non-authoritative=21)"
+      "finishedAt": 1787641554014,
+      "error": "19 of 63 eBay card searches failed or were not attempted (non-authoritative=19)"
     },
     {
       "setId": "basep",
       "status": "partial",
-      "finishedAt": 1787555343532,
-      "error": "23 of 48 eBay card searches failed or were not attempted (incomplete=14, non-authoritative=9)"
+      "finishedAt": 1787641784277,
+      "error": "23 of 48 eBay card searches failed or were not attempted (incomplete=12, unknown=3, non-authoritative=8)"
     },
     {
       "setId": "base3",
       "status": "partial",
-      "finishedAt": 1787555475861,
-      "error": "21 of 57 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=20)"
+      "finishedAt": 1787641930061,
+      "error": "20 of 57 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=19)"
     },
     {
       "setId": "base4",
       "status": "partial",
-      "finishedAt": 1787555692560,
-      "error": "34 of 100 eBay card searches failed or were not attempted (incomplete=7, non-authoritative=27)"
+      "finishedAt": 1787642177560,
+      "error": "33 of 100 eBay card searches failed or were not attempted (incomplete=7, non-authoritative=26)"
     },
     {
       "setId": "base5",
       "status": "partial",
-      "finishedAt": 1787555919854,
+      "finishedAt": 1787642426442,
       "error": "49 of 68 eBay card searches failed or were not attempted (incomplete=45, non-authoritative=4)"
     },
     {
       "setId": "gym1",
       "status": "partial",
-      "finishedAt": 1787556071949,
+      "finishedAt": 1787642597224,
       "error": "21 of 91 eBay card searches failed or were not attempted (incomplete=14, non-authoritative=7)"
     },
     {
       "setId": "gym2",
       "status": "partial",
-      "finishedAt": 1787556263808,
-      "error": "22 of 95 eBay card searches failed or were not attempted (incomplete=9, non-authoritative=13)"
+      "finishedAt": 1787642801572,
+      "error": "23 of 95 eBay card searches failed or were not attempted (non-authoritative=13, incomplete=10)"
     },
     {
       "setId": "neo1",
       "status": "partial",
-      "finishedAt": 1787556456499,
+      "finishedAt": 1787643023392,
       "error": "14 of 81 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=13)"
     },
     {
       "setId": "neo2",
       "status": "partial",
-      "finishedAt": 1787556635777,
+      "finishedAt": 1787643236663,
       "error": "12 of 71 eBay card searches failed or were not attempted (non-authoritative=12)"
     },
     {
       "setId": "si1",
       "status": "partial",
-      "finishedAt": 1787556805570,
+      "finishedAt": 1787643507559,
       "error": "2 of 18 eBay card searches failed or were not attempted (non-authoritative=2)"
     },
     {
       "setId": "neo3",
       "status": "partial",
-      "finishedAt": 1787556857343,
-      "error": "12 of 61 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=11)"
+      "finishedAt": 1787643580946,
+      "error": "11 of 61 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=10)"
     },
     {
       "setId": "neo4",
       "status": "partial",
-      "finishedAt": 1787557009953,
-      "error": "22 of 98 eBay card searches failed or were not attempted (incomplete=14, non-authoritative=8)"
+      "finishedAt": 1787643828899,
+      "error": "23 of 98 eBay card searches failed or were not attempted (incomplete=15, non-authoritative=8)"
     },
     {
       "setId": "base6",
       "status": "partial",
-      "finishedAt": 1787557294991,
-      "error": "16 of 99 eBay card searches failed or were not attempted (incomplete=8, non-authoritative=8)"
+      "finishedAt": 1787644156128,
+      "error": "16 of 99 eBay card searches failed or were not attempted (incomplete=9, unknown=1, non-authoritative=6)"
     },
     {
       "setId": "ecard1",
       "status": "partial",
-      "finishedAt": 1787557491209,
-      "error": "38 of 136 eBay card searches failed or were not attempted (incomplete=9, non-authoritative=29)"
+      "finishedAt": 1787644511029,
+      "error": "35 of 136 eBay card searches failed or were not attempted (incomplete=7, unknown=3, non-authoritative=25)"
     },
     {
       "setId": "bp",
       "status": "partial",
-      "finishedAt": 1787557818374,
-      "error": "3 of 8 eBay card searches failed or were not attempted (incomplete=3)"
+      "finishedAt": 1787645057008,
+      "error": "4 of 8 eBay card searches failed or were not attempted (incomplete=3, non-authoritative=1)"
     },
     {
       "setId": "ecard2",
       "status": "partial",
-      "finishedAt": 1787557858137,
-      "error": "1 of 152 eBay card searches failed or were not attempted (non-authoritative=1)"
+      "finishedAt": 1787645169939,
+      "error": "1 of 152 eBay card searches failed or were not attempted (unknown=1)"
     },
     {
       "setId": "ecard3",
       "status": "partial",
-      "finishedAt": 1787558078733,
+      "finishedAt": 1787645489120,
       "error": "3 of 156 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=2)"
     },
     {
       "setId": "ex1",
       "status": "partial",
-      "finishedAt": 1787558302890,
-      "error": "3 of 87 eBay card searches failed or were not attempted (non-authoritative=1, unknown=2)"
+      "finishedAt": 1787645786559,
+      "error": "1 of 87 eBay card searches failed or were not attempted (non-authoritative=1)"
     },
     {
       "setId": "ex2",
       "status": "partial",
-      "finishedAt": 1787558437144,
+      "finishedAt": 1787645941920,
       "error": "2 of 92 eBay card searches failed or were not attempted (non-authoritative=2)"
     },
     {
@@ -140,247 +140,247 @@
     {
       "setId": "ex3",
       "status": "partial",
-      "finishedAt": 1787558578095,
+      "finishedAt": 1787646091726,
       "error": "2 of 93 eBay card searches failed or were not attempted (non-authoritative=2)"
     },
     {
       "setId": "ex4",
       "status": "partial",
-      "finishedAt": 1787558723865,
+      "finishedAt": 1787646244183,
       "error": "59 of 77 eBay card searches failed or were not attempted (incomplete=59)"
     },
     {
       "setId": "ex5",
       "status": "partial",
-      "finishedAt": 1787558877465,
+      "finishedAt": 1787646403788,
       "error": "2 of 93 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=1)"
     },
     {
       "setId": "ex6",
       "status": "partial",
-      "finishedAt": 1787559018872,
-      "error": "3 of 99 eBay card searches failed or were not attempted (non-authoritative=3)"
+      "finishedAt": 1787646549257,
+      "error": "4 of 99 eBay card searches failed or were not attempted (non-authoritative=4)"
     },
     {
       "setId": "pop1",
       "status": "partial",
-      "finishedAt": 1787559188481,
+      "finishedAt": 1787646722329,
       "error": "2 of 17 eBay card searches failed or were not attempted (non-authoritative=2)"
     },
     {
       "setId": "ex7",
       "status": "partial",
-      "finishedAt": 1787559241174,
-      "error": "37 of 97 eBay card searches failed or were not attempted (incomplete=30, non-authoritative=7)"
+      "finishedAt": 1787646777814,
+      "error": "35 of 97 eBay card searches failed or were not attempted (incomplete=30, non-authoritative=5)"
     },
     {
       "setId": "ex8",
       "status": "partial",
-      "finishedAt": 1787559445596,
-      "error": "11 of 96 eBay card searches failed or were not attempted (incomplete=6, non-authoritative=5)"
+      "finishedAt": 1787646973979,
+      "error": "10 of 96 eBay card searches failed or were not attempted (incomplete=6, non-authoritative=4)"
     },
     {
       "setId": "ex9",
       "status": "partial",
-      "finishedAt": 1787559611498,
-      "error": "3 of 86 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=2)"
+      "finishedAt": 1787647143277,
+      "error": "4 of 86 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=3)"
     },
     {
       "setId": "ex10",
       "status": "partial",
-      "finishedAt": 1787559756206,
-      "error": "5 of 97 eBay card searches failed or were not attempted (non-authoritative=5)"
+      "finishedAt": 1787647293482,
+      "error": "3 of 97 eBay card searches failed or were not attempted (non-authoritative=3)"
     },
     {
       "setId": "pop2",
       "status": "partial",
-      "finishedAt": 1787559922775,
-      "error": "4 of 13 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=3)"
+      "finishedAt": 1787647468213,
+      "error": "5 of 13 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=4)"
     },
     {
       "setId": "ex11",
       "status": "partial",
-      "finishedAt": 1787559976338,
+      "finishedAt": 1787647533817,
       "error": "45 of 95 eBay card searches failed or were not attempted (incomplete=35, non-authoritative=10)"
     },
     {
       "setId": "ex12",
       "status": "partial",
-      "finishedAt": 1787560192889,
+      "finishedAt": 1787647764879,
       "error": "4 of 82 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=3)"
     },
     {
       "setId": "pop3",
-      "status": "partial",
-      "finishedAt": 1787560346857,
-      "error": "4 of 15 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=3)"
+      "status": "error",
+      "finishedAt": 1787647949268,
+      "error": "pop3: WorkerTransportError: PokeWorker-01: controller could not reach worker: fetch failed"
     },
     {
       "setId": "ex13",
       "status": "partial",
-      "finishedAt": 1787560403083,
+      "finishedAt": 1787648006059,
       "error": "4 of 90 eBay card searches failed or were not attempted (incomplete=3, non-authoritative=1)"
     },
     {
       "setId": "ex14",
       "status": "partial",
-      "finishedAt": 1787560649144,
+      "finishedAt": 1787648253289,
       "error": "5 of 82 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=3)"
     },
     {
       "setId": "pop4",
       "status": "partial",
-      "finishedAt": 1787560799883,
+      "finishedAt": 1787648406943,
       "error": "1 of 14 eBay card searches failed or were not attempted (incomplete=1)"
     },
     {
       "setId": "ex15",
       "status": "partial",
-      "finishedAt": 1787560848385,
-      "error": "29 of 81 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=27)"
+      "finishedAt": 1787648456246,
+      "error": "28 of 81 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=25, unknown=1)"
     },
     {
       "setId": "ex16",
       "status": "partial",
-      "finishedAt": 1787561168650,
+      "finishedAt": 1787648780115,
       "error": "2 of 81 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=1)"
     },
     {
       "setId": "pop5",
       "status": "partial",
-      "finishedAt": 1787561312255,
-      "error": "6 of 12 eBay card searches failed or were not attempted (incomplete=6)"
+      "finishedAt": 1787648930507,
+      "error": "7 of 12 eBay card searches failed or were not attempted (incomplete=7)"
     },
     {
       "setId": "dpp",
       "status": "partial",
-      "finishedAt": 1787561358058,
+      "finishedAt": 1787648979330,
       "error": "23 of 30 eBay card searches failed or were not attempted (incomplete=20, non-authoritative=3)"
     },
     {
       "setId": "dp1",
       "status": "partial",
-      "finishedAt": 1787561438051,
+      "finishedAt": 1787649061683,
       "error": "3 of 107 eBay card searches failed or were not attempted (non-authoritative=3)"
     },
     {
       "setId": "dp2",
       "status": "partial",
-      "finishedAt": 1787561623719,
+      "finishedAt": 1787649257987,
       "error": "2 of 111 eBay card searches failed or were not attempted (non-authoritative=2)"
     },
     {
       "setId": "pop6",
       "status": "partial",
-      "finishedAt": 1787561801007,
+      "finishedAt": 1787649441976,
       "error": "2 of 17 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=1)"
     },
     {
       "setId": "dp3",
       "status": "partial",
-      "finishedAt": 1787561844385,
+      "finishedAt": 1787649489714,
       "error": "9 of 120 eBay card searches failed or were not attempted (incomplete=4, non-authoritative=5)"
     },
     {
       "setId": "dp4",
       "status": "partial",
-      "finishedAt": 1787562037380,
+      "finishedAt": 1787649693685,
       "error": "1 of 100 eBay card searches failed or were not attempted (non-authoritative=1)"
     },
     {
       "setId": "pop7",
       "status": "partial",
-      "finishedAt": 1787562188517,
+      "finishedAt": 1787649854083,
       "error": "1 of 17 eBay card searches failed or were not attempted (non-authoritative=1)"
     },
     {
       "setId": "dp5",
       "status": "partial",
-      "finishedAt": 1787562229362,
+      "finishedAt": 1787649898552,
       "error": "6 of 82 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=4)"
     },
     {
       "setId": "dp6",
       "status": "partial",
-      "finishedAt": 1787562374539,
+      "finishedAt": 1787650051215,
       "error": "8 of 135 eBay card searches failed or were not attempted (non-authoritative=8)"
     },
     {
       "setId": "pop8",
       "status": "partial",
-      "finishedAt": 1787562594986,
-      "error": "2 of 14 eBay card searches failed or were not attempted (unknown=1, non-authoritative=1)"
+      "finishedAt": 1787650295387,
+      "error": "1 of 14 eBay card searches failed or were not attempted (non-authoritative=1)"
     },
     {
       "setId": "dp7",
       "status": "partial",
-      "finishedAt": 1787562649028,
+      "finishedAt": 1787650347255,
       "error": "1 of 92 eBay card searches failed or were not attempted (non-authoritative=1)"
     },
     {
       "setId": "pl1",
       "status": "partial",
-      "finishedAt": 1787562789734,
+      "finishedAt": 1787650493823,
       "error": "22 of 115 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=20)"
     },
     {
       "setId": "pop9",
       "status": "partial",
-      "finishedAt": 1787563000285,
+      "finishedAt": 1787650715269,
       "error": "6 of 17 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=4)"
     },
     {
       "setId": "pl2",
       "status": "partial",
-      "finishedAt": 1787563052794,
-      "error": "5 of 104 eBay card searches failed or were not attempted (non-authoritative=5)"
+      "finishedAt": 1787650779326,
+      "error": "4 of 104 eBay card searches failed or were not attempted (non-authoritative=4)"
     },
     {
       "setId": "pl3",
       "status": "partial",
-      "finishedAt": 1787563221118,
-      "error": "15 of 146 eBay card searches failed or were not attempted (non-authoritative=15)"
+      "finishedAt": 1787650960493,
+      "error": "14 of 146 eBay card searches failed or were not attempted (non-authoritative=14)"
     },
     {
       "setId": "pl4",
       "status": "partial",
-      "finishedAt": 1787563485133,
-      "error": "17 of 99 eBay card searches failed or were not attempted (incomplete=13, non-authoritative=4)"
+      "finishedAt": 1787651259327,
+      "error": "16 of 99 eBay card searches failed or were not attempted (incomplete=13, non-authoritative=3)"
     },
     {
       "setId": "ru1",
       "status": "partial",
-      "finishedAt": 1787563644819,
-      "error": "4 of 16 eBay card searches failed or were not attempted (unknown=1, incomplete=2, non-authoritative=1)"
+      "finishedAt": 1787651424873,
+      "error": "4 of 16 eBay card searches failed or were not attempted (incomplete=3, non-authoritative=1)"
     },
     {
       "setId": "hsp",
       "status": "partial",
-      "finishedAt": 1787563694890,
+      "finishedAt": 1787651475815,
       "error": "5 of 11 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=3)"
     },
     {
       "setId": "hgss1",
       "status": "partial",
-      "finishedAt": 1787563751202,
+      "finishedAt": 1787651539864,
       "error": "7 of 99 eBay card searches failed or were not attempted (incomplete=3, non-authoritative=4)"
     },
     {
       "setId": "hgss2",
       "status": "partial",
-      "finishedAt": 1787563922730,
-      "error": "3 of 82 eBay card searches failed or were not attempted (non-authoritative=3)"
+      "finishedAt": 1787651722991,
+      "error": "2 of 82 eBay card searches failed or were not attempted (non-authoritative=2)"
     },
     {
       "setId": "hgss3",
       "status": "partial",
-      "finishedAt": 1787564059355,
-      "error": "5 of 80 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=4)"
+      "finishedAt": 1787651870260,
+      "error": "4 of 80 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=3)"
     },
     {
       "setId": "hgss4",
       "status": "partial",
-      "finishedAt": 1787564191689,
+      "finishedAt": 1787652012269,
       "error": "3 of 95 eBay card searches failed or were not attempted (non-authoritative=3)"
     }
   ]

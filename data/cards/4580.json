@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 4580,
@@ -30,7 +30,7 @@
         "psa10Pop": 10,
         "cgc10Pop": 10,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 5 sales per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787559510301
+        "fetchedAt": 1787647042049
       },
       "bestCgc10": {
         "itemId": "287370589361",
@@ -38,13 +38,13 @@
         "priceC": 57499,
         "shippingC": 0,
         "landedC": 57499,
-        "url": "https://www.ebay.com/itm/287370589361?_skw=%28mightyena%29+%2812%2Cdeoxys%29+%28CGC%2CPSA%29&epid=28043374550&itmmeta=01M0SDME9DT7NF9P6SY2Q0MAJ5&hash=item42e89f34b1:g:x6QAAeSwIiFqH3NY&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCzTz1nClfX29dRQ3YnL6v8OQmFZ9ZG3vBnvEGJPfyWSfKUX9VxT6tXImcgzKyxw5grfiKMdxRPaQawBBtTM741yTQp2CL0mZbGj%2FOHdg9kyfStqggWmYIpnSEA8rjPfGx4bAssyf7shaCpZnhS0f%2B3T%2FfioR6kDqNHygEVG6w1M1piJwguVXKxpnJSnMCFWWlvLwcW2LZP3%2B7yttVZV65nNTFV%2B76CvcwhZAja%2F1cGrLM1s1O8skDO5T49FaNpRY9clldfjoJkYXh%2FtYiDEXixVWuV6i0ya2nM18qQclCVRL8Lja2yPPbU2drZU9W4kys%3D%7Ctkp%3ABk9SR_rk0a2GaA",
+        "url": "https://www.ebay.com/itm/287370589361?_skw=%28mightyena%29+%2812%2Cdeoxys%29+%28CGC%2CPSA%29&epid=28043374550&itmmeta=01M0W13QZDEPKJZHB1PGQT6RHB&hash=item42e89f34b1:g:x6QAAeSwIiFqH3NY&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCzTz1nClfX29dRQ3YnL6v8OQmFZ9ZG3vBnvEGJPfyWSfKUX9VxT6tXImcgzKyxw5grfiKMdxRPaQawBBtTM741yTQp2CL0mZbGj%2FOHdg9kyfStqggWmYIpnSEA8rjPfGwmvNlFqhlV72iqbZDC%2BjuIdCCxLTBCoG1PnBB8K53X7OG8clu3O%2F9WdJr84aXuAl6W5lCAuoMlSstscDjT7wNxcjpzc5iObOohwliYe6R2%2FD%2B0A2m%2F66g82KuZBlNAVZKYwA4reAw7EnouwALa5Jcn27ObKdNvqfnKfLKdoGT%2BeVaLKnyOXkTuDqBtAF0VlPs%3D%7Ctkp%3ABk9SR4qAj4GHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/x6QAAeSwIiFqH3NY/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787579327990
+        "lastSeen": 1787647141705
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -72,7 +72,7 @@
         "ratio": 2.0004427616110414
       },
       "firstOpportunityAt": 1787066511306,
-      "updatedAt": 1787579327990
+      "updatedAt": 1787647141705
     },
     "prices": {
       "variantId": 4580,
@@ -87,7 +87,7 @@
       "cgc10Pop": 10,
       "bgs10C": 170300,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 5 sales per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787559510301
+      "fetchedAt": 1787647042049
     },
     "listings": [
       {
@@ -96,17 +96,30 @@
         "priceC": 57499,
         "shippingC": 0,
         "landedC": 57499,
-        "url": "https://www.ebay.com/itm/287370589361?_skw=%28mightyena%29+%2812%2Cdeoxys%29+%28CGC%2CPSA%29&epid=28043374550&itmmeta=01M0SDME9DT7NF9P6SY2Q0MAJ5&hash=item42e89f34b1:g:x6QAAeSwIiFqH3NY&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCzTz1nClfX29dRQ3YnL6v8OQmFZ9ZG3vBnvEGJPfyWSfKUX9VxT6tXImcgzKyxw5grfiKMdxRPaQawBBtTM741yTQp2CL0mZbGj%2FOHdg9kyfStqggWmYIpnSEA8rjPfGx4bAssyf7shaCpZnhS0f%2B3T%2FfioR6kDqNHygEVG6w1M1piJwguVXKxpnJSnMCFWWlvLwcW2LZP3%2B7yttVZV65nNTFV%2B76CvcwhZAja%2F1cGrLM1s1O8skDO5T49FaNpRY9clldfjoJkYXh%2FtYiDEXixVWuV6i0ya2nM18qQclCVRL8Lja2yPPbU2drZU9W4kys%3D%7Ctkp%3ABk9SR_rk0a2GaA",
+        "url": "https://www.ebay.com/itm/287370589361?_skw=%28mightyena%29+%2812%2Cdeoxys%29+%28CGC%2CPSA%29&epid=28043374550&itmmeta=01M0W13QZDEPKJZHB1PGQT6RHB&hash=item42e89f34b1:g:x6QAAeSwIiFqH3NY&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCzTz1nClfX29dRQ3YnL6v8OQmFZ9ZG3vBnvEGJPfyWSfKUX9VxT6tXImcgzKyxw5grfiKMdxRPaQawBBtTM741yTQp2CL0mZbGj%2FOHdg9kyfStqggWmYIpnSEA8rjPfGwmvNlFqhlV72iqbZDC%2BjuIdCCxLTBCoG1PnBB8K53X7OG8clu3O%2F9WdJr84aXuAl6W5lCAuoMlSstscDjT7wNxcjpzc5iObOohwliYe6R2%2FD%2B0A2m%2F66g82KuZBlNAVZKYwA4reAw7EnouwALa5Jcn27ObKdNvqfnKfLKdoGT%2BeVaLKnyOXkTuDqBtAF0VlPs%3D%7Ctkp%3ABk9SR4qAj4GHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/x6QAAeSwIiFqH3NY/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787579327990
+        "lastSeen": 1787647141705
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 5076200,
+          "saleDate": "2026-08-25",
+          "priceC": 2700,
+          "title": "2005 Pokemon EX Deoxys Mightyena Reverse Holo #12/107",
+          "url": "https://www.ebay.com/itm/377433182831?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 608292,
           "saleDate": "2026-08-15",
@@ -1514,9 +1527,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 103,
+      "englishSaleCount": 104,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787559508342
+      "lastCapturedAt": 1787647040365
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 3383,
@@ -30,7 +30,7 @@
         "psa10Pop": 91,
         "cgc10Pop": 47,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787558589399
+        "fetchedAt": 1787646104067
       },
       "bestCgc10": {
         "itemId": "287542425536",
@@ -38,34 +38,47 @@
         "priceC": 127500,
         "shippingC": 860,
         "landedC": 128360,
-        "url": "https://www.ebay.com/itm/287542425536?_skw=%28golem%29+%2891%2Cdragon%29+%28CGC%2CPSA%29&epid=28043374705&itmmeta=01M0SCTP282DYB8XXZDFAVRH4N&hash=item42f2dd37c0:g:0bYAAeSw0yNqi7Im&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBX6wlMxnqkBKsra0IoEBwfgm5cXWlMyXeRnrOf4FXF9WKihOCqAEmkcECugYasMXKqaGq8ZCq7RX4zDekRF%2Br94v36IuriZxoHDxU%2FzmxEErKlcJOp7uyRMLxrt6v%2FHz%2B3M8YIIqnETc9lChL3As8m8zvJs28zXCHksvXhkPZ1jjCVBf7cJKL2MDLSdQaTdIy6JNmuukwGFI9wFW8GdxXd3b5VMxO1%2BCGiO3qZER%2BTsxxwutBFY3JKp%2BmXJ9y4PdZWqS7C1pTrkc7tcqAoBtalxzie%2BisLcS216QSQhRFBOrrA5Nyb4iGNoD%2FDmQMMNP4%3D%7Ctkp%3ABk9SR6jh6qyGaA",
+        "url": "https://www.ebay.com/itm/287542425536?_skw=%28golem%29+%2891%2Cdragon%29+%28CGC%2CPSA%29&epid=28043374705&itmmeta=01M0W084WKRG0VZMTFPXZMS80X&hash=item42f2dd37c0:g:0bYAAeSw0yNqi7Im&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBX6wlMxnqkBKsra0IoEBwfgm5cXWlMyXeRnrOf4FXF9WKihOCqAEmkcECugYasMXKqaGq8ZCq7RX4zDekRF%2Br94v36IuriZxoHDxU%2FzmxEErKlcJOp7uyRMLxrt6v%2FHz%2BEhFyaU5dALXbUVnfcfxLS8pcotoyKzvLb1fUoI3cRbVcXu1NqPv82sDhFSb0hl83QPRe6ioqXw6JjZVIeb4akuzaxZK7drB1F0BH5G7Q6eLteBf1Fh6Ym4wxtx%2FLZsoZKwQsY%2FPlFXcIaeS6ar6BWLC0CqS62ij1Qh8k4IzujU32YkYjqnEDq%2FRiBnqr5UYk%3D%7Ctkp%3ABk9SR77OoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/0bYAAeSw0yNqi7Im/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787558720761,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "800559602585",
+        "title": "2003 POKEMON EX DRAGON #91 GOLEM EX-HOLO PSA 10Opens in a new window or tab",
+        "priceC": 450000,
+        "shippingC": 0,
+        "landedC": 450000,
+        "url": "https://www.ebay.com/itm/800559602585?_skw=%28golem%29+%2891%2Cdragon%29+%28CGC%2CPSA%29&epid=28043374705&itmmeta=01M0W084WK9RXZXBJK7Z5FY0Y5&hash=itemba65121b99:g:onEAAeSwTtFqjT9f&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCbddt%2BmoffpeSeLvaUff3WYa8jb5KseW593CzpHuhYFUDg9pLmPqKVhJIwlO525o6HU3fn8QaTfr%2BXFlXO56hqNPXS9WH1feluoNwW6GjkwTFTObGBdq3mFEnI5eeXaSLzW%2BahmRFu4aRevuMm6XZolRbmdW32saBblyXzc6Hk4RFApRTXR56GeSTcVYFN%2BDKNnzwI7IEXYBcdh3XiL7pHLAeKA9cPktqAZcEcNksSjHdxBblPFGE%2B%2BwgNfq6WXguCBQ9cQDzciIq7IUiiGB19%7Ctkp%3ABk9SR77OoICHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/onEAAeSwTtFqjT9f/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787646242482,
+        "lastSeen": 1787646242482
+      },
       "bestPsa9": {
         "itemId": "800370028691",
         "title": "PSA 9 Golem EX Holo #91 Dragon [July 19th 2026] US/UK/EU/CA 72h deliveryOpens in a new window or tab",
-        "priceC": 45548,
-        "shippingC": 4088,
-        "landedC": 49636,
-        "url": "https://www.ebay.com/itm/800370028691?_skw=%28golem%29+%2891%2Cdragon%29+%28CGC%2CPSA%29&itmmeta=01M0SCTP28PCRD7VVQ1SK8T4Y7&hash=itemba59c57093:g:-VgAAeSwnxdqXJFy&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBJA4X1g%2BdS%2FlBgilGtmjfJx3vNI61BLxddbmDAHq%2FVwPhXnZulfb%2FFx92Gl%2FUb6QijF7Q878WQp3%2BRrtq2uaEKuwZwC4jpHzoaMFJNxCT2fKvPprvINY7BkAZqbvVgm2WfAMEBqRwCdLrGiIDw7VRFPUkALo0tA8nfGcKEKho03U1ZtegEitvp6ExY74LuEyuQBl00K0XCqRpmSeeZXnVpsge%2FjlFBoQ0%2B2iFPL0tSXxLut7%2F2y%2FCroz5DwqiBYKt6f11LGDzALgtKnof%2FlQnG%7Ctkp%3ABk9SR6jh6qyGaA",
+        "priceC": 45490,
+        "shippingC": 4082,
+        "landedC": 49572,
+        "url": "https://www.ebay.com/itm/800370028691?_skw=%28golem%29+%2891%2Cdragon%29+%28CGC%2CPSA%29&itmmeta=01M0W084WKRNTK4X487KJ9ZWND&hash=itemba59c57093:g:-VgAAeSwnxdqXJFy&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBJA4X1g%2BdS%2FlBgilGtmjfJx3vNI61BLxddbmDAHq%2FVwKKTViIFVj0JWxdfEWMQnZ380maIFOEVlw%2BQQC23j%2BVoBvLCfxahFpWV8f7f5uapZoYYgBblXoecJ8YJtNCxrww%2B%2BgFvvAZivRWS1zjU6H8g9KuaqrHMkeHgtnQpZM2TheengPrZzFzPKkMUCOrWUHJB00A9jrbCeLo3I9dukKAuFYME3kWmxGneMebDxFpTdLQS%2B0zV6QpddPmSOOBFxuBYoeJ2N%2BfQsB8O34n81EiC%7Ctkp%3ABk9SR77OoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-VgAAeSwnxdqXJFy/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 1,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
         "psa9Bin": 1
       },
@@ -85,7 +98,7 @@
         "ratio": 0.8008932303698326
       },
       "firstOpportunityAt": 1787558720761,
-      "updatedAt": 1787579319009
+      "updatedAt": 1787646242482
     },
     "prices": {
       "variantId": 3383,
@@ -100,22 +113,22 @@
       "cgc10Pop": 47,
       "bgs10C": 142000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787558589399
+      "fetchedAt": 1787646104067
     },
     "listings": [
       {
         "itemId": "800370028691",
         "title": "PSA 9 Golem EX Holo #91 Dragon [July 19th 2026] US/UK/EU/CA 72h deliveryOpens in a new window or tab",
-        "priceC": 45548,
-        "shippingC": 4088,
-        "landedC": 49636,
-        "url": "https://www.ebay.com/itm/800370028691?_skw=%28golem%29+%2891%2Cdragon%29+%28CGC%2CPSA%29&itmmeta=01M0SCTP28PCRD7VVQ1SK8T4Y7&hash=itemba59c57093:g:-VgAAeSwnxdqXJFy&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBJA4X1g%2BdS%2FlBgilGtmjfJx3vNI61BLxddbmDAHq%2FVwPhXnZulfb%2FFx92Gl%2FUb6QijF7Q878WQp3%2BRrtq2uaEKuwZwC4jpHzoaMFJNxCT2fKvPprvINY7BkAZqbvVgm2WfAMEBqRwCdLrGiIDw7VRFPUkALo0tA8nfGcKEKho03U1ZtegEitvp6ExY74LuEyuQBl00K0XCqRpmSeeZXnVpsge%2FjlFBoQ0%2B2iFPL0tSXxLut7%2F2y%2FCroz5DwqiBYKt6f11LGDzALgtKnof%2FlQnG%7Ctkp%3ABk9SR6jh6qyGaA",
+        "priceC": 45490,
+        "shippingC": 4082,
+        "landedC": 49572,
+        "url": "https://www.ebay.com/itm/800370028691?_skw=%28golem%29+%2891%2Cdragon%29+%28CGC%2CPSA%29&itmmeta=01M0W084WKRNTK4X487KJ9ZWND&hash=itemba59c57093:g:-VgAAeSwnxdqXJFy&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBJA4X1g%2BdS%2FlBgilGtmjfJx3vNI61BLxddbmDAHq%2FVwKKTViIFVj0JWxdfEWMQnZ380maIFOEVlw%2BQQC23j%2BVoBvLCfxahFpWV8f7f5uapZoYYgBblXoecJ8YJtNCxrww%2B%2BgFvvAZivRWS1zjU6H8g9KuaqrHMkeHgtnQpZM2TheengPrZzFzPKkMUCOrWUHJB00A9jrbCeLo3I9dukKAuFYME3kWmxGneMebDxFpTdLQS%2B0zV6QpddPmSOOBFxuBYoeJ2N%2BfQsB8O34n81EiC%7Ctkp%3ABk9SR77OoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-VgAAeSwnxdqXJFy/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       },
       {
         "itemId": "287542425536",
@@ -123,13 +136,13 @@
         "priceC": 127500,
         "shippingC": 860,
         "landedC": 128360,
-        "url": "https://www.ebay.com/itm/287542425536?_skw=%28golem%29+%2891%2Cdragon%29+%28CGC%2CPSA%29&epid=28043374705&itmmeta=01M0SCTP282DYB8XXZDFAVRH4N&hash=item42f2dd37c0:g:0bYAAeSw0yNqi7Im&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBX6wlMxnqkBKsra0IoEBwfgm5cXWlMyXeRnrOf4FXF9WKihOCqAEmkcECugYasMXKqaGq8ZCq7RX4zDekRF%2Br94v36IuriZxoHDxU%2FzmxEErKlcJOp7uyRMLxrt6v%2FHz%2B3M8YIIqnETc9lChL3As8m8zvJs28zXCHksvXhkPZ1jjCVBf7cJKL2MDLSdQaTdIy6JNmuukwGFI9wFW8GdxXd3b5VMxO1%2BCGiO3qZER%2BTsxxwutBFY3JKp%2BmXJ9y4PdZWqS7C1pTrkc7tcqAoBtalxzie%2BisLcS216QSQhRFBOrrA5Nyb4iGNoD%2FDmQMMNP4%3D%7Ctkp%3ABk9SR6jh6qyGaA",
+        "url": "https://www.ebay.com/itm/287542425536?_skw=%28golem%29+%2891%2Cdragon%29+%28CGC%2CPSA%29&epid=28043374705&itmmeta=01M0W084WKRG0VZMTFPXZMS80X&hash=item42f2dd37c0:g:0bYAAeSw0yNqi7Im&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBX6wlMxnqkBKsra0IoEBwfgm5cXWlMyXeRnrOf4FXF9WKihOCqAEmkcECugYasMXKqaGq8ZCq7RX4zDekRF%2Br94v36IuriZxoHDxU%2FzmxEErKlcJOp7uyRMLxrt6v%2FHz%2BEhFyaU5dALXbUVnfcfxLS8pcotoyKzvLb1fUoI3cRbVcXu1NqPv82sDhFSb0hl83QPRe6ioqXw6JjZVIeb4akuzaxZK7drB1F0BH5G7Q6eLteBf1Fh6Ym4wxtx%2FLZsoZKwQsY%2FPlFXcIaeS6ar6BWLC0CqS62ij1Qh8k4IzujU32YkYjqnEDq%2FRiBnqr5UYk%3D%7Ctkp%3ABk9SR77OoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/0bYAAeSw0yNqi7Im/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787558720761,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       },
       {
         "itemId": "298379901609",
@@ -137,17 +150,44 @@
         "priceC": 199999,
         "shippingC": 0,
         "landedC": 199999,
-        "url": "https://www.ebay.com/itm/298379901609?_skw=%28golem%29+%2891%2Cdragon%29+%28CGC%2CPSA%29&epid=28043374705&itmmeta=01M0SCTP28TCTXSVMYQQGYWK15&hash=item4578d3faa9:g:oBQAAeSwDSdqMmkk&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA20b7VT4G%2FaKFMPuEsM9ZgpoRznbs7gZL3DFtAElfrakCEwJRYazqLu54nqh%2BgVDP95T4kdKFAmVmoTOGXtm0KYPi8hGUrx4xUuQt%2FhBBbcz0vOJSNBfBusN6dpJXOy8F2fW5ZvYDiZKS9KY5cBP%2FrEtYUY4O0Dxne436ljQqqSJVNhJO94%2BJfesR96u88Za4AEPcdbJEyCoc6ie6uDgft21S3FJUqla6wRGf9S%2FjsPWBsFEsTJMISlEcbfdhTZ4IipelNgojklxmegQKTtQGk%7Ctkp%3ABk9SR6jh6qyGaA",
+        "url": "https://www.ebay.com/itm/298379901609?_skw=%28golem%29+%2891%2Cdragon%29+%28CGC%2CPSA%29&epid=28043374705&itmmeta=01M0W084WKV6VCB3G2XA1276GX&hash=item4578d3faa9:g:oBQAAeSwDSdqMmkk&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBYCkzM9BbJFW0s%2FpcXOagjuDSonqk2c8blKh2S9IcmdMCbyDYrH%2Bwi%2BUJyxdWRKULrKRa5nDzOcL6dyDHOBoyGl%2BCuUKpI1MOr%2FRuyUnU8jG3VoK63oS6PkBHe7kruAkGwJFOLNVm7Zu5AbpO%2BOiK981ZJkKTEftCm6e%2FXOUdebdFj%2FryDUUb5XP9SYdtIpkI8rET2TijhdHSvVKTMEkgri6UunKXm80fyShtmKbdDmUvl1ANUXqcrDV4Aq3ju0zP4u7c%2BKbKYyqp9rhSBjR8XdKTvBGI6AO58OnUtIShQUM6vA3QbGdZ6%2BKc1uvGD%2BiI%3D%7Ctkp%3ABk9SR77OoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/oBQAAeSwDSdqMmkk/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "freshness": "live",
         "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
+      },
+      {
+        "itemId": "800559602585",
+        "title": "2003 POKEMON EX DRAGON #91 GOLEM EX-HOLO PSA 10Opens in a new window or tab",
+        "priceC": 450000,
+        "shippingC": 0,
+        "landedC": 450000,
+        "url": "https://www.ebay.com/itm/800559602585?_skw=%28golem%29+%2891%2Cdragon%29+%28CGC%2CPSA%29&epid=28043374705&itmmeta=01M0W084WK9RXZXBJK7Z5FY0Y5&hash=itemba65121b99:g:onEAAeSwTtFqjT9f&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCbddt%2BmoffpeSeLvaUff3WYa8jb5KseW593CzpHuhYFUDg9pLmPqKVhJIwlO525o6HU3fn8QaTfr%2BXFlXO56hqNPXS9WH1feluoNwW6GjkwTFTObGBdq3mFEnI5eeXaSLzW%2BahmRFu4aRevuMm6XZolRbmdW32saBblyXzc6Hk4RFApRTXR56GeSTcVYFN%2BDKNnzwI7IEXYBcdh3XiL7pHLAeKA9cPktqAZcEcNksSjHdxBblPFGE%2B%2BwgNfq6WXguCBQ9cQDzciIq7IUiiGB19%7Ctkp%3ABk9SR77OoICHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/onEAAeSwTtFqjT9f/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787646242482,
+        "lastSeen": 1787646242482
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 4974546,
+          "saleDate": "2026-08-25",
+          "priceC": 7300,
+          "title": "2003 POKEMON EX DRAGON #91/97 GOLEM EX HOLO RARE",
+          "url": "https://www.ebay.com/itm/366611995429?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 4018029,
           "saleDate": "2026-08-24",
@@ -1694,19 +1734,6 @@
           "gradingGrade": 10,
           "gradingDesignation": "gem-mint",
           "agreementStatus": "match"
-        },
-        {
-          "id": 493310,
-          "saleDate": "2025-12-21",
-          "priceC": 17900,
-          "title": "CGC 10 GEM MINT Golem ex 2003 EX Dragon 91/97 Holo Pokemon Card 91/97",
-          "url": "https://www.ebay.com/itm/326896119279?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1811,9 +1838,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 240,
+      "englishSaleCount": 241,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787558587706
+      "lastCapturedAt": 1787646101953
     }
   }
 }

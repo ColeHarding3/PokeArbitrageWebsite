@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 1479,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/694fbd1fff0048f0250322c03680199ec4f29f9889b76dc74daae94061a35118/1600.jpg",
       "popularityScore": 76,
       "market": {
-        "ungradedC": 5699,
-        "grade9C": 23432,
+        "ungradedC": 5085,
+        "grade9C": 23551,
         "grade95C": 26111,
         "cgc10C": 29946,
         "cgc10PristineC": 382700,
-        "psa10C": 305600,
-        "bgs10C": 397300,
+        "psa10C": 528171,
+        "bgs10C": 686600,
         "psa9Pop": 332,
         "psa10Pop": 27,
         "cgc10Pop": 24,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per month\",\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787556646217
+        "fetchedAt": 1787643259771
       },
       "bestCgc10": {
         "itemId": "327304065034",
@@ -38,13 +38,13 @@
         "priceC": 79900,
         "shippingC": 0,
         "landedC": 79900,
-        "url": "https://www.ebay.com/itm/327304065034?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=10043376507&itmmeta=01M0SAZF8B6A5WG6AWAPZYKD2Z&hash=item4c34d7b00a:g:TvsAAeSwBCJqekgO&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDLUX46wMCjETs4165YWcwuzl6GTOs5XZJGFcLfYaxDfoPWjbRUJAnR5wo7wjeBM82IdbNB2ycUdeknBtPJLPfbdo%2Fd7fcPgsDUXm5dkXsyM7N77%2B6g8UAq2Qyo6%2BXNrddu85JjxMnT%2Fa4htb6gnVX3gisqbZQVY1ZFUOtRRU6MI2vtgbVR6H%2FcB2qHbPX%2By7JfnH4VtFzgB0OQrylP5ipw7myA0EpVMVj9jAudC5On1yVNgv%2FCClpD6Xh%2FRulLyZY3NCueloeOS7%2BszMiUEL8L%7Ctkp%3ABk9SR8z0_aqGaA",
+        "url": "https://www.ebay.com/itm/327304065034?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=10043376507&itmmeta=01M0VXN9NER2PHPNE9A5YDBQDJ&hash=item4c34d7b00a:g:TvsAAeSwBCJqekgO&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDLUX46wMCjETs4165YWcwuzl6GTOs5XZJGFcLfYaxDfoSoHg9M8yaJa4Stn3iejuvvb49DyhaV1rTycQLl2ghofaRKvi%2B5ywH02w6dK6v%2FxeOGQYaqiiYghTh0MSnAXb4lPZaOzULBuQgJgh5YTRyC4BajSkS%2FLqUyEh8rpDyHq1my3tmqZGCUgrPHnM8D7EztBkoOigWj3RUq3zJjJxKKl0yhZdjCMv6NiX0DWNbJkBVdflZWUBwI%2BwezEZoRzdZ%2FtJ%2FWXvyGo1BFSNPSjOwZ%7Ctkp%3ABk9SR4yb1f2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/TvsAAeSwBCJqekgO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787298591537,
-        "lastSeen": 1787579343853
+        "lastSeen": 1787643504771
       },
       "bestPsa10": {
         "itemId": "237014893913",
@@ -52,97 +52,70 @@
         "priceC": 999999,
         "shippingC": 945,
         "landedC": 1000944,
-        "url": "https://www.ebay.com/itm/237014893913?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=10043376507&itmmeta=01M0SAZM59H2VRGFEG319MJFPC&hash=item372f304559:g:IdsAAeSw1~Nqe4Xu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC%2F%2Boay4Ay9kFpBppieJooLZlfSDoUYDg0XXMyxCCRB9Vf3CORJzxGyd4VVnXOxDfjMhzr%2FXje1F9jw97kssDMybyGaghEhDviafrgf7Ysu42KQspd2Klz8N2cHOmkrJTz%2B3PeVsAXrobIIso5zIZC7j8Lk1VhVuZuWLwoxZVz4FPX1DrFI8mQLpWk5CdZwAzVjjTAwPkUtulVgTzwxAXfSjaYaG9pxgOE5molEaSjDxkZ4IH2vmy2DudWakgjPmylsVKPCszT7kDcgJCbd8uxoE0LyXfg%2Bmgddwu4dhPtcHQ%3D%3D%7Ctkp%3ABk9SR-jC_qqGaA",
+        "url": "https://www.ebay.com/itm/237014893913?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=10043376507&itmmeta=01M0VXNEN17K9BFE6M4Q0J1D0T&hash=item372f304559:g:IdsAAeSw1~Nqe4Xu&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAUS9Ex4Furktbzz%2Bfi%2F27k6ZEiDB5lsdAafe2Cc7xpjKfmI44MQdS4es3X32dAOOpuggiVIZnUB9%2BE7df4narbGSkj%2B7g88swlbfWXr4oh5OAJ8T7K97eJvhvXgEYg3vdy%2Bin8v4e6ru%2F18w3ieVIBGZOtjTEH0EXoWMmobIiStM2auRxroadXHK4YsD6%2B5wd3hr9Ewsk4aRBB%2BNi7tZ0QNcfE4acRFXieS%2FtN2o%2BAV8Z%2Fb7YrEVea9RV7RxlxxuVA3utfjkCLjoHaSIi5MCGhTbb1H1Ew%2Be2w2kgl9GOc0szdSLdrd4CEZ0Vf9IQVTSNRsTD1rdhka8hpHItlTnzf%7Ctkp%3ABk9SR-Dq1f2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/IdsAAeSw1~Nqe4Xu/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787579343853
+        "lastSeen": 1787643504771
       },
-      "bestPsa9": {
-        "itemId": "398175947784",
-        "title": "2008 POKEMON DIAMOND & PEARL MAJESTIC DAWN #6 KABUTOPS-HOLO PSA 9 LOW POPOpens in a new window or tab",
-        "priceC": 27499,
-        "shippingC": 562,
-        "landedC": 28061,
-        "url": "https://www.ebay.com/itm/398175947784?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=20043375811&itmmeta=01M0SAZF8AS73VNZGHX8QFFPWP&hash=item5cb522cc08:g:Hw0AAeSwlcJqVxAb&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAUI4KIV4YCMcLhSOjAhXVY%2FkxSPLTe67WlxSjdB6EFzDLE9SyzO24jnZHBkaoHT%2FldjcQ7Dg8S4s%2BAlht1hUxYGIQ6nhgUu%2BqBNERMqiMszY7iFP9BtdXgFd1nO5%2FBbCRhl4xjTKb%2F3l4iiQ12s56LtKwA0Kffz1zX5EYpz4o81F0%2BZtwAeEepTskdSgZrYJX6%2BtYkknlM1dNqIb%2B6TUQX5fsK1l3P%2BbXGZuWpXAndAy3xMNb%2BLwvofTXiSNI7BICir%2BEq%2BvZazhhJRw2oS1e03q2l26I9IZQQEv6pL2ROL4TT7S28psgRBlyzev%2Bvbrxpcf1Kq4Eb0psIHqICVrop%7Ctkp%3ABk9SR8j0_aqGaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/Hw0AAeSwlcJqVxAb/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787047017265,
-        "lastSeen": 1787579343853
-      },
+      "bestPsa9": null,
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 2,
+        "psa10Bin": 1,
         "psa10Auction": 0,
-        "psa9Bin": 1
+        "psa9Bin": 0
       },
       "ratio": {
         "ok": true,
         "tier": {
-          "id": "superExpress",
-          "label": "Super Express",
-          "feeC": 34900,
-          "declaredValueCapC": 500000,
-          "turnaroundBizDays": 15
+          "id": "walkThrough",
+          "label": "Walk-Through",
+          "feeC": 59900,
+          "declaredValueCapC": 1000000,
+          "turnaroundBizDays": 10
         },
         "cgc10CostC": 79900,
-        "submissionFeeC": 34900,
-        "totalCostC": 114800,
-        "psa10ValueC": 305600,
-        "ratio": 2.662020905923345
+        "submissionFeeC": 59900,
+        "totalCostC": 139800,
+        "psa10ValueC": 528171,
+        "ratio": 3.778047210300429
       },
       "firstOpportunityAt": 1787298591537,
-      "updatedAt": 1787579343853
+      "updatedAt": 1787643504771
     },
     "prices": {
       "variantId": 1479,
-      "ungradedC": 5699,
-      "grade9C": 23432,
+      "ungradedC": 5085,
+      "grade9C": 23551,
       "grade95C": 26111,
       "cgc10C": 29946,
       "cgc10PristineC": 382700,
-      "psa10C": 305600,
+      "psa10C": 528171,
       "psa9Pop": 332,
       "psa10Pop": 27,
       "cgc10Pop": 24,
-      "bgs10C": 397300,
+      "bgs10C": 686600,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per month\",\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787556646217
+      "fetchedAt": 1787643259771
     },
     "listings": [
-      {
-        "itemId": "398175947784",
-        "title": "2008 POKEMON DIAMOND & PEARL MAJESTIC DAWN #6 KABUTOPS-HOLO PSA 9 LOW POPOpens in a new window or tab",
-        "priceC": 27499,
-        "shippingC": 562,
-        "landedC": 28061,
-        "url": "https://www.ebay.com/itm/398175947784?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=20043375811&itmmeta=01M0SAZF8AS73VNZGHX8QFFPWP&hash=item5cb522cc08:g:Hw0AAeSwlcJqVxAb&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAUI4KIV4YCMcLhSOjAhXVY%2FkxSPLTe67WlxSjdB6EFzDLE9SyzO24jnZHBkaoHT%2FldjcQ7Dg8S4s%2BAlht1hUxYGIQ6nhgUu%2BqBNERMqiMszY7iFP9BtdXgFd1nO5%2FBbCRhl4xjTKb%2F3l4iiQ12s56LtKwA0Kffz1zX5EYpz4o81F0%2BZtwAeEepTskdSgZrYJX6%2BtYkknlM1dNqIb%2B6TUQX5fsK1l3P%2BbXGZuWpXAndAy3xMNb%2BLwvofTXiSNI7BICir%2BEq%2BvZazhhJRw2oS1e03q2l26I9IZQQEv6pL2ROL4TT7S28psgRBlyzev%2Bvbrxpcf1Kq4Eb0psIHqICVrop%7Ctkp%3ABk9SR8j0_aqGaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/Hw0AAeSwlcJqVxAb/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787047017265,
-        "lastSeen": 1787579343853
-      },
       {
         "itemId": "327304065034",
         "title": "CGC 10 GEM MINT Kabutops 6/75 Neo Discovery Holo Pokemon CardOpens in a new window or tab",
         "priceC": 79900,
         "shippingC": 0,
         "landedC": 79900,
-        "url": "https://www.ebay.com/itm/327304065034?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=10043376507&itmmeta=01M0SAZF8B6A5WG6AWAPZYKD2Z&hash=item4c34d7b00a:g:TvsAAeSwBCJqekgO&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDLUX46wMCjETs4165YWcwuzl6GTOs5XZJGFcLfYaxDfoPWjbRUJAnR5wo7wjeBM82IdbNB2ycUdeknBtPJLPfbdo%2Fd7fcPgsDUXm5dkXsyM7N77%2B6g8UAq2Qyo6%2BXNrddu85JjxMnT%2Fa4htb6gnVX3gisqbZQVY1ZFUOtRRU6MI2vtgbVR6H%2FcB2qHbPX%2By7JfnH4VtFzgB0OQrylP5ipw7myA0EpVMVj9jAudC5On1yVNgv%2FCClpD6Xh%2FRulLyZY3NCueloeOS7%2BszMiUEL8L%7Ctkp%3ABk9SR8z0_aqGaA",
+        "url": "https://www.ebay.com/itm/327304065034?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=10043376507&itmmeta=01M0VXN9NER2PHPNE9A5YDBQDJ&hash=item4c34d7b00a:g:TvsAAeSwBCJqekgO&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDLUX46wMCjETs4165YWcwuzl6GTOs5XZJGFcLfYaxDfoSoHg9M8yaJa4Stn3iejuvvb49DyhaV1rTycQLl2ghofaRKvi%2B5ywH02w6dK6v%2FxeOGQYaqiiYghTh0MSnAXb4lPZaOzULBuQgJgh5YTRyC4BajSkS%2FLqUyEh8rpDyHq1my3tmqZGCUgrPHnM8D7EztBkoOigWj3RUq3zJjJxKKl0yhZdjCMv6NiX0DWNbJkBVdflZWUBwI%2BwezEZoRzdZ%2FtJ%2FWXvyGo1BFSNPSjOwZ%7Ctkp%3ABk9SR4yb1f2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/TvsAAeSwBCJqekgO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787298591537,
-        "lastSeen": 1787579343853
+        "lastSeen": 1787643504771
       },
       {
         "itemId": "237000091764",
@@ -164,27 +137,13 @@
         "priceC": 999999,
         "shippingC": 945,
         "landedC": 1000944,
-        "url": "https://www.ebay.com/itm/237014893913?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=10043376507&itmmeta=01M0SAZM59H2VRGFEG319MJFPC&hash=item372f304559:g:IdsAAeSw1~Nqe4Xu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC%2F%2Boay4Ay9kFpBppieJooLZlfSDoUYDg0XXMyxCCRB9Vf3CORJzxGyd4VVnXOxDfjMhzr%2FXje1F9jw97kssDMybyGaghEhDviafrgf7Ysu42KQspd2Klz8N2cHOmkrJTz%2B3PeVsAXrobIIso5zIZC7j8Lk1VhVuZuWLwoxZVz4FPX1DrFI8mQLpWk5CdZwAzVjjTAwPkUtulVgTzwxAXfSjaYaG9pxgOE5molEaSjDxkZ4IH2vmy2DudWakgjPmylsVKPCszT7kDcgJCbd8uxoE0LyXfg%2Bmgddwu4dhPtcHQ%3D%3D%7Ctkp%3ABk9SR-jC_qqGaA",
+        "url": "https://www.ebay.com/itm/237014893913?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=10043376507&itmmeta=01M0VXNEN17K9BFE6M4Q0J1D0T&hash=item372f304559:g:IdsAAeSw1~Nqe4Xu&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAUS9Ex4Furktbzz%2Bfi%2F27k6ZEiDB5lsdAafe2Cc7xpjKfmI44MQdS4es3X32dAOOpuggiVIZnUB9%2BE7df4narbGSkj%2B7g88swlbfWXr4oh5OAJ8T7K97eJvhvXgEYg3vdy%2Bin8v4e6ru%2F18w3ieVIBGZOtjTEH0EXoWMmobIiStM2auRxroadXHK4YsD6%2B5wd3hr9Ewsk4aRBB%2BNi7tZ0QNcfE4acRFXieS%2FtN2o%2BAV8Z%2Fb7YrEVea9RV7RxlxxuVA3utfjkCLjoHaSIi5MCGhTbb1H1Ew%2Be2w2kgl9GOc0szdSLdrd4CEZ0Vf9IQVTSNRsTD1rdhka8hpHItlTnzf%7Ctkp%3ABk9SR-Dq1f2GaA",
         "imageUrl": "https://i.ebayimg.com/images/g/IdsAAeSw1~Nqe4Xu/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787579343853
-      },
-      {
-        "itemId": "188603405594",
-        "title": "Pokémon 2001 PSA 10 English Kabutops Neo Discovery Holo #6 Pop 27Opens in a new window or tab",
-        "priceC": 1200000,
-        "shippingC": 0,
-        "landedC": 1200000,
-        "url": "https://www.ebay.com/itm/188603405594?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=10043376507&itmmeta=01M0SAZM5926WMKYK4W5J0FNGW&hash=item2be9a3951a:g:dkMAAeSw3bJqSnKb&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDgq4NVBATMeMkx37%2BtGeOBf%2FLSSlzxd9f6ZoyEc5r9N1o7qnPholYYYqxg%2FJkPrL3UJ%2BX2z7gLT5GQrnALfXGR49y2z7KCuA2Om6M0LM5b53XU3r49%2FYfNQxdhrXtBV%2B%2Fccs4jVH4veWLj%2BkrByKOU5AtqDdmSUdbXK88H7EpwtCt8ynwZrTgBKySj6orCiUDX9n%2FTeUYJXUuSl2xZ3tHOd9IIgteIkoTDlUyeKx1IJ1lvRIVbyQC3zBswiFd27s5YATCYaxJ47phDDbd9OavC0AEay0moFTA3wuMUP0UwTS65MvBsHfr7Mm0wywpJyomPDFIFK5aE8AgDy2R19COS%7Ctkp%3ABk9SR-jC_qqGaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/dkMAAeSw3bJqSnKb/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787047017265,
-        "lastSeen": 1787579343853
+        "lastSeen": 1787643504771
       }
     ],
     "marketHistory": {
@@ -1779,7 +1738,7 @@
       ],
       "englishSaleCount": 247,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787556644793
+      "lastCapturedAt": 1787643258400
     }
   }
 }

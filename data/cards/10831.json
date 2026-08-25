@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 10831,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/e04b3bde301c2545be7b125f54d625099143cbab2d2c8eaf35ad994f743c8bfc/1600.jpg",
       "popularityScore": 81,
       "market": {
-        "ungradedC": 3536,
-        "grade9C": 15157,
-        "grade95C": 16700,
-        "cgc10C": 83600,
-        "cgc10PristineC": 150500,
-        "psa10C": 139250,
-        "bgs10C": 181000,
+        "ungradedC": 3387,
+        "grade9C": 15074,
+        "grade95C": 16600,
+        "cgc10C": 82300,
+        "cgc10PristineC": 148100,
+        "psa10C": 137210,
+        "bgs10C": 178400,
         "psa9Pop": 41,
         "psa10Pop": 8,
         "cgc10Pop": 1,
-        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787559835925
+        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
+        "fetchedAt": 1787647384323
       },
       "bestCgc10": {
         "itemId": "198389204793",
@@ -38,34 +38,47 @@
         "priceC": 17999,
         "shippingC": 528,
         "landedC": 18527,
-        "url": "https://www.ebay.com/itm/198389204793?_skw=%28houndour%29+%2860%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=19043376264&itmmeta=01M0SDYN3Z9HSTGG85ZS2N4VGA&hash=item2e30eb0739:g:EIsAAeSwlRRqGj-R&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAG7UWwZ2%2BiSG%2BIcz70E2LzgT3Qbe05HDcAf0tSpwFtXoKNuw0Ys3qP3nSvrpb1HAqQlnghZwB7fzcyxoxWPA9BhrYGW9EiNgXfT0Z7XufTf1lk0WsBCS2aLCO7FiFr9iD8yAo9kU%2BV0AJ98lZnc5Zs%2BJSLXfe8X0S77Cr6BkkKJ5HfZgW7OrEpi7BNBjDYlr1DGCqRNmNBc%2BtxGsbNzVajU4z0hgtL0%2FPpNBCkEhnniYm1mBSMo4hXoXu5w9QFaOrY048vL4GWPgDIwm5m9a6re0wuSLdGk1pWZl%2F3%2BBPLNiWocPVIUfydrMTeAOGTv0Z%2F86E7jf5oLdwIbBrvXjAe%7Ctkp%3ABk9SR5rS-q2GaA",
+        "url": "https://www.ebay.com/itm/198389204793?_skw=%28houndour%29+%2860%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=19043376264&itmmeta=01M0W1EDB07X3VP9YRADGK726F&hash=item2e30eb0739:g:EIsAAeSwlRRqGj-R&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAG7UWwZ2%2BiSG%2BIcz70E2LzgT3Qbe05HDcAf0tSpwFtXoKNuw0Ys3qP3nSvrpb1HAqQlnghZwB7fzcyxoxWPA9BhrYGW9EiNgXfT0Z7XufTf1lk0WsBCS2aLCO7FiFr9iBr7nd7JF63qk%2Fsqg1JyB%2FfgQXGBv6fCOjTcin0wTUQSEUOaKACOvkjWt90YYhZV2Z%2BPYYpMaWKFtpjd%2Bee%2BiRP2jiIWfj7NjsiQGONvy67cnTNxuSsA7LKVg%2Ft%2Fqx4SR0HWXVqSRqSGV0CsTNCrS80KU67lzFG%2FWV9SWY5Zg0PL5e1sZKtBMBcCetX3nlL1Ib0gwDFHa3ykIj1I8Lwl%2Fql%7Ctkp%3ABk9SR-TVuYGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EIsAAeSwlRRqGj-R/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787579300774
+        "lastSeen": 1787647466067
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "206350749290",
+        "title": "Pokemon Houndour EX Team Rocket Returns Reverse Holo Rare #60 PSA 10 Gem MintOpens in a new window or tab",
+        "priceC": 361141,
+        "shippingC": 2386,
+        "landedC": 363527,
+        "url": "https://www.ebay.com/itm/206350749290?_skw=%28houndour%29+%2860%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&itmmeta=01M0W1EDB032D6VEG22J6XDTDY&hash=item300b768e6a:g:VjAAAeSwXCJqMPG0&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC2OalxSumZ7FXDkeebu0sB6PBKa8s9%2Bv3lS7ulN%2BOttQ%2B5pJWDHQfXumlGYV%2FSfp6OMcRnSeQ7VUBP8kj5nLB6ACxfDsCKWceb4tmHIUBG9y%2ByVBjKxUw86xQl%2BFnoNTO0VWzgKruh3NoiChI3ujyLvpY5%2FwQBDSmgpnrx6PpsDEN5BIbRvkX7ENlcGMJTLi1VBu8yvApqqiPT7eHn96NKOcdb5AXd3I1hZ6CnbtG%2BljhTd16LCrMH26feXNFU2mOfxSY3AlMAzIlxIysz%2FwDp9QWaRwPwAy6UCY%2BcgYrbWjIF3SxtcFPCeBkCz8miHfjHp7C%2BOg4T6i9ZTDsqHdgx%7Ctkp%3ABk9SR-bVuYGHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/VjAAAeSwXCJqMPG0/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787214401857,
+        "lastSeen": 1787647466067
+      },
       "bestPsa9": {
         "itemId": "287532354017",
         "title": "Houndour Reverse Holo 60/115 PSA 9 Unseen Forces Pokemon Card GameOpens in a new window or tab",
-        "priceC": 21829,
-        "shippingC": 4774,
-        "landedC": 26603,
-        "url": "https://www.ebay.com/itm/287532354017?_skw=%28houndour%29+%2860%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=6052765577&itmmeta=01M0SDYN3ZZKACMEZQ6KC3M5E9&hash=item42f24389e1:g:yLwAAeSwyTVqhEDr&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xASCx2YasnMLWsjfWq5uXbFfZ852F91DJ5ZnB%2FZvK56YyRMmzd4t9KJXrZYv1%2Fw2MSfUw3m4e665mgQXAtLF3ZuoktKfx1w3DvUelJZioGfaul3wvv%2BY5Rv36S4QS5xtc5AbfCvENiPKoW1r%2FRNM6eowb%2BFTFh%2FRXowcC%2FFTcQsUCQmfbg8qcmlRU1m%2FkaTp1PcRixew2WO5VxLp1Ix6GR%2B75HdnGgPx2P%2BvKAjnYqdWUPWeIiC5sY3G0lx52rhkt%2B8hd%2FwrmuEwuiy04CMl%2FyMUIVth9rCvtUdi8zMlbh3yWplkGnDU4CHJ0ISVovs6pcbw0LJ0v3u5FnRIQHM7ML2%7Ctkp%3ABk9SR5rS-q2GaA",
+        "priceC": 21810,
+        "shippingC": 4770,
+        "landedC": 26580,
+        "url": "https://www.ebay.com/itm/287532354017?_skw=%28houndour%29+%2860%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=6052765577&itmmeta=01M0W1EDB02778BRS0ECMVGFNW&hash=item42f24389e1:g:yLwAAeSwyTVqhEDr&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xASCx2YasnMLWsjfWq5uXbFfZ852F91DJ5ZnB%2FZvK56YyRMmzd4t9KJXrZYv1%2Fw2MSfUw3m4e665mgQXAtLF3ZuoktKfx1w3DvUelJZioGfaul3wvv%2BY5Rv36S4QS5xtc7iQ3Pq%2BxGv9sMLCooDAWRD5YYpWDbcbss6Owc6AJGEozjl05gtQNFMX1nDQBh5%2F4GUGEmXTTGp4kA5Nn1uKmZQPB3cEXJ%2Bb9D4Zb%2FITC9SmbiCxiG2etZU2P0ql8yg0neYEQxyrNM%2B4bwHwQl94jB8OXuv1H4MXYp%2FaCegW8L1%2BQFeUtdjhRZOtQdR2HuXa8BDfdJVVXNxzfjZaUJXjBee%7Ctkp%3ABk9SR-bVuYGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/yLwAAeSwyTVqhEDr/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787579300774
+        "lastSeen": 1787647466067
       },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
         "psa9Bin": 1
       },
@@ -81,26 +94,26 @@
         "cgc10CostC": 18527,
         "submissionFeeC": 7999,
         "totalCostC": 26526,
-        "psa10ValueC": 139250,
-        "ratio": 5.2495664630928145
+        "psa10ValueC": 137210,
+        "ratio": 5.172660785644274
       },
       "firstOpportunityAt": 1787215619257,
-      "updatedAt": 1787579300774
+      "updatedAt": 1787647466067
     },
     "prices": {
       "variantId": 10831,
-      "ungradedC": 3536,
-      "grade9C": 15157,
-      "grade95C": 16700,
-      "cgc10C": 83600,
-      "cgc10PristineC": 150500,
-      "psa10C": 139250,
+      "ungradedC": 3387,
+      "grade9C": 15074,
+      "grade95C": 16600,
+      "cgc10C": 82300,
+      "cgc10PristineC": 148100,
+      "psa10C": 137210,
       "psa9Pop": 41,
       "psa10Pop": 8,
       "cgc10Pop": 1,
-      "bgs10C": 181000,
-      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787559835925
+      "bgs10C": 178400,
+      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
+      "fetchedAt": 1787647384323
     },
     "listings": [
       {
@@ -109,27 +122,41 @@
         "priceC": 17999,
         "shippingC": 528,
         "landedC": 18527,
-        "url": "https://www.ebay.com/itm/198389204793?_skw=%28houndour%29+%2860%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=19043376264&itmmeta=01M0SDYN3Z9HSTGG85ZS2N4VGA&hash=item2e30eb0739:g:EIsAAeSwlRRqGj-R&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAG7UWwZ2%2BiSG%2BIcz70E2LzgT3Qbe05HDcAf0tSpwFtXoKNuw0Ys3qP3nSvrpb1HAqQlnghZwB7fzcyxoxWPA9BhrYGW9EiNgXfT0Z7XufTf1lk0WsBCS2aLCO7FiFr9iD8yAo9kU%2BV0AJ98lZnc5Zs%2BJSLXfe8X0S77Cr6BkkKJ5HfZgW7OrEpi7BNBjDYlr1DGCqRNmNBc%2BtxGsbNzVajU4z0hgtL0%2FPpNBCkEhnniYm1mBSMo4hXoXu5w9QFaOrY048vL4GWPgDIwm5m9a6re0wuSLdGk1pWZl%2F3%2BBPLNiWocPVIUfydrMTeAOGTv0Z%2F86E7jf5oLdwIbBrvXjAe%7Ctkp%3ABk9SR5rS-q2GaA",
+        "url": "https://www.ebay.com/itm/198389204793?_skw=%28houndour%29+%2860%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=19043376264&itmmeta=01M0W1EDB07X3VP9YRADGK726F&hash=item2e30eb0739:g:EIsAAeSwlRRqGj-R&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAG7UWwZ2%2BiSG%2BIcz70E2LzgT3Qbe05HDcAf0tSpwFtXoKNuw0Ys3qP3nSvrpb1HAqQlnghZwB7fzcyxoxWPA9BhrYGW9EiNgXfT0Z7XufTf1lk0WsBCS2aLCO7FiFr9iBr7nd7JF63qk%2Fsqg1JyB%2FfgQXGBv6fCOjTcin0wTUQSEUOaKACOvkjWt90YYhZV2Z%2BPYYpMaWKFtpjd%2Bee%2BiRP2jiIWfj7NjsiQGONvy67cnTNxuSsA7LKVg%2Ft%2Fqx4SR0HWXVqSRqSGV0CsTNCrS80KU67lzFG%2FWV9SWY5Zg0PL5e1sZKtBMBcCetX3nlL1Ib0gwDFHa3ykIj1I8Lwl%2Fql%7Ctkp%3ABk9SR-TVuYGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EIsAAeSwlRRqGj-R/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787579300774
+        "lastSeen": 1787647466067
       },
       {
         "itemId": "287532354017",
         "title": "Houndour Reverse Holo 60/115 PSA 9 Unseen Forces Pokemon Card GameOpens in a new window or tab",
-        "priceC": 21829,
-        "shippingC": 4774,
-        "landedC": 26603,
-        "url": "https://www.ebay.com/itm/287532354017?_skw=%28houndour%29+%2860%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=6052765577&itmmeta=01M0SDYN3ZZKACMEZQ6KC3M5E9&hash=item42f24389e1:g:yLwAAeSwyTVqhEDr&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xASCx2YasnMLWsjfWq5uXbFfZ852F91DJ5ZnB%2FZvK56YyRMmzd4t9KJXrZYv1%2Fw2MSfUw3m4e665mgQXAtLF3ZuoktKfx1w3DvUelJZioGfaul3wvv%2BY5Rv36S4QS5xtc5AbfCvENiPKoW1r%2FRNM6eowb%2BFTFh%2FRXowcC%2FFTcQsUCQmfbg8qcmlRU1m%2FkaTp1PcRixew2WO5VxLp1Ix6GR%2B75HdnGgPx2P%2BvKAjnYqdWUPWeIiC5sY3G0lx52rhkt%2B8hd%2FwrmuEwuiy04CMl%2FyMUIVth9rCvtUdi8zMlbh3yWplkGnDU4CHJ0ISVovs6pcbw0LJ0v3u5FnRIQHM7ML2%7Ctkp%3ABk9SR5rS-q2GaA",
+        "priceC": 21810,
+        "shippingC": 4770,
+        "landedC": 26580,
+        "url": "https://www.ebay.com/itm/287532354017?_skw=%28houndour%29+%2860%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=6052765577&itmmeta=01M0W1EDB02778BRS0ECMVGFNW&hash=item42f24389e1:g:yLwAAeSwyTVqhEDr&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xASCx2YasnMLWsjfWq5uXbFfZ852F91DJ5ZnB%2FZvK56YyRMmzd4t9KJXrZYv1%2Fw2MSfUw3m4e665mgQXAtLF3ZuoktKfx1w3DvUelJZioGfaul3wvv%2BY5Rv36S4QS5xtc7iQ3Pq%2BxGv9sMLCooDAWRD5YYpWDbcbss6Owc6AJGEozjl05gtQNFMX1nDQBh5%2F4GUGEmXTTGp4kA5Nn1uKmZQPB3cEXJ%2Bb9D4Zb%2FITC9SmbiCxiG2etZU2P0ql8yg0neYEQxyrNM%2B4bwHwQl94jB8OXuv1H4MXYp%2FaCegW8L1%2BQFeUtdjhRZOtQdR2HuXa8BDfdJVVXNxzfjZaUJXjBee%7Ctkp%3ABk9SR-bVuYGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/yLwAAeSwyTVqhEDr/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787579300774
+        "lastSeen": 1787647466067
+      },
+      {
+        "itemId": "206350749290",
+        "title": "Pokemon Houndour EX Team Rocket Returns Reverse Holo Rare #60 PSA 10 Gem MintOpens in a new window or tab",
+        "priceC": 361141,
+        "shippingC": 2386,
+        "landedC": 363527,
+        "url": "https://www.ebay.com/itm/206350749290?_skw=%28houndour%29+%2860%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&itmmeta=01M0W1EDB032D6VEG22J6XDTDY&hash=item300b768e6a:g:VjAAAeSwXCJqMPG0&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC2OalxSumZ7FXDkeebu0sB6PBKa8s9%2Bv3lS7ulN%2BOttQ%2B5pJWDHQfXumlGYV%2FSfp6OMcRnSeQ7VUBP8kj5nLB6ACxfDsCKWceb4tmHIUBG9y%2ByVBjKxUw86xQl%2BFnoNTO0VWzgKruh3NoiChI3ujyLvpY5%2FwQBDSmgpnrx6PpsDEN5BIbRvkX7ENlcGMJTLi1VBu8yvApqqiPT7eHn96NKOcdb5AXd3I1hZ6CnbtG%2BljhTd16LCrMH26feXNFU2mOfxSY3AlMAzIlxIysz%2FwDp9QWaRwPwAy6UCY%2BcgYrbWjIF3SxtcFPCeBkCz8miHfjHp7C%2BOg4T6i9ZTDsqHdgx%7Ctkp%3ABk9SR-bVuYGHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/VjAAAeSwXCJqMPG0/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787214401857,
+        "lastSeen": 1787647466067
       }
     ],
     "marketHistory": {
@@ -1493,7 +1520,7 @@
       ],
       "englishSaleCount": 103,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787559834299
+      "lastCapturedAt": 1787647382700
     }
   }
 }

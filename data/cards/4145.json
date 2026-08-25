@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 4145,
@@ -30,7 +30,7 @@
         "psa10Pop": 34,
         "cgc10Pop": 9,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787559266770
+        "fetchedAt": 1787646805291
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -45,7 +45,7 @@
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787559266770
+      "updatedAt": 1787646805291
     },
     "prices": {
       "variantId": 4145,
@@ -60,7 +60,7 @@
       "cgc10Pop": 9,
       "bgs10C": 440100,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787559266770
+      "fetchedAt": 1787646805291
     },
     "listings": [
       {
@@ -87,7 +87,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SqoAAeSwwSNqf3S5/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787214401857,
         "lastSeen": 1787393380611
       }
@@ -1722,9 +1722,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 126,
+      "englishSaleCount": 127,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787559265182
+      "lastCapturedAt": 1787646803776
     }
   }
 }

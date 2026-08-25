@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 5727,
@@ -30,7 +30,7 @@
         "psa10Pop": 15,
         "cgc10Pop": 7,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787560868085
+        "fetchedAt": 1787648477957
       },
       "bestCgc10": {
         "itemId": "366621292341",
@@ -38,13 +38,13 @@
         "priceC": 100000,
         "shippingC": 500,
         "landedC": 100500,
-        "url": "https://www.ebay.com/itm/366621292341?_skw=%28altaria%2Cdelta%29+%2890%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=23043384397&itmmeta=01M0SEZWAAA7KY6K69DX5Y7TR0&hash=item555c54f735:g:EjgAAeSw5AhqFwgE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDx74TpyeKZNYLIhTOdX10KU6y7OyjZd7xVfsErZY0SiFM3hynI%2BHcPzuuCeH2TJ6k5b7H0vLpD7uYNj7%2Ff%2B2TFQtMIS%2FvMK5SXfGBht1Q46J%2BwWdlwFaKNOb3QLWaiuI4dXsjUIeEHiYv8EYaWq6NNmMw5uSkL8dz4gURAg95duSDRF7v5w53BnB8vNXmzPveQfywh6k2Xa875QMGiGUSTdSKS5ruCwLkBM7WElNfarKwMDGONgy76isaiepdzRPDe6xfNiMEwMRX4T2uY58YuEOy6RRN9QUorUmsI%2BPbteQ%3D%3D%7Ctkp%3ABk9SR8zF_66GaA",
+        "url": "https://www.ebay.com/itm/366621292341?_skw=%28altaria%2Cdelta%29+%2890%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=23043384397&itmmeta=01M0W2HJH7EDSEQDJKJX245M2B&hash=item555c54f735:g:EjgAAeSw5AhqFwgE&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDf1p7tjwpYc8koe%2BgcRztnWNfW1Fbnj4zjzqPFoBWylAnfiXYGU5%2FK5mb52PONJCg74l2iUsJe7UCJEGp%2F8Ai8FALoyvJRq0JqoYHbre1Z2deQwpw0UGm9%2FOagtaB5lBM%2BiJEyUumVrr%2B--eqPD6mWHVLuIJm85GiOpp8YGFZRURHy0RuuND9jfKTO0cYGbeK9s6BHkjqwTmSu5TqM0EykCk4HtAl3cmL9%2F9%2B0ITxRGQobtDmUXFJgUY0nWPJaPZkgyLs%2Bx30I5aLxMsy0Np%2BnU7m04mufisHuROYClMt6iZac9UDe4aWhhSpBNSfmfdqr1SfIigeLZJcGjT280moL%7Ctkp%3ABk9SR_SoxoKHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EjgAAeSw5AhqFwgE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787388511745,
-        "lastSeen": 1787579311794
+        "lastSeen": 1787648774395
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -72,7 +72,7 @@
         "ratio": 8.483008982035928
       },
       "firstOpportunityAt": 1787388511745,
-      "updatedAt": 1787579311794
+      "updatedAt": 1787648774395
     },
     "prices": {
       "variantId": 5727,
@@ -87,7 +87,7 @@
       "cgc10Pop": 7,
       "bgs10C": 2210000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787560868085
+      "fetchedAt": 1787648477957
     },
     "listings": [
       {
@@ -96,13 +96,13 @@
         "priceC": 100000,
         "shippingC": 500,
         "landedC": 100500,
-        "url": "https://www.ebay.com/itm/366621292341?_skw=%28altaria%2Cdelta%29+%2890%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=23043384397&itmmeta=01M0SEZWAAA7KY6K69DX5Y7TR0&hash=item555c54f735:g:EjgAAeSw5AhqFwgE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDx74TpyeKZNYLIhTOdX10KU6y7OyjZd7xVfsErZY0SiFM3hynI%2BHcPzuuCeH2TJ6k5b7H0vLpD7uYNj7%2Ff%2B2TFQtMIS%2FvMK5SXfGBht1Q46J%2BwWdlwFaKNOb3QLWaiuI4dXsjUIeEHiYv8EYaWq6NNmMw5uSkL8dz4gURAg95duSDRF7v5w53BnB8vNXmzPveQfywh6k2Xa875QMGiGUSTdSKS5ruCwLkBM7WElNfarKwMDGONgy76isaiepdzRPDe6xfNiMEwMRX4T2uY58YuEOy6RRN9QUorUmsI%2BPbteQ%3D%3D%7Ctkp%3ABk9SR8zF_66GaA",
+        "url": "https://www.ebay.com/itm/366621292341?_skw=%28altaria%2Cdelta%29+%2890%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=23043384397&itmmeta=01M0W2HJH7EDSEQDJKJX245M2B&hash=item555c54f735:g:EjgAAeSw5AhqFwgE&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDf1p7tjwpYc8koe%2BgcRztnWNfW1Fbnj4zjzqPFoBWylAnfiXYGU5%2FK5mb52PONJCg74l2iUsJe7UCJEGp%2F8Ai8FALoyvJRq0JqoYHbre1Z2deQwpw0UGm9%2FOagtaB5lBM%2BiJEyUumVrr%2B--eqPD6mWHVLuIJm85GiOpp8YGFZRURHy0RuuND9jfKTO0cYGbeK9s6BHkjqwTmSu5TqM0EykCk4HtAl3cmL9%2F9%2B0ITxRGQobtDmUXFJgUY0nWPJaPZkgyLs%2Bx30I5aLxMsy0Np%2BnU7m04mufisHuROYClMt6iZac9UDe4aWhhSpBNSfmfdqr1SfIigeLZJcGjT280moL%7Ctkp%3ABk9SR_SoxoKHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EjgAAeSw5AhqFwgE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787388511745,
-        "lastSeen": 1787579311794
+        "lastSeen": 1787648774395
       }
     ],
     "marketHistory": {
@@ -1682,7 +1682,7 @@
       ],
       "englishSaleCount": 173,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787560866446
+      "lastCapturedAt": 1787648475896
     }
   }
 }

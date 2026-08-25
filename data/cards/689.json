@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 689,
@@ -30,22 +30,35 @@
         "psa10Pop": 81,
         "cgc10Pop": 54,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per week\",\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787555701365
+        "fetchedAt": 1787642187876
       },
       "bestCgc10": null,
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "227280220416",
+        "title": "2000 POKEMON BASE SET II \" PERFECT CENTERING \" #7 GYARADOS - HOLO PSA 9Opens in a new window or tab",
+        "priceC": 21900,
+        "shippingC": 3400,
+        "landedC": 25300,
+        "url": "https://www.ebay.com/itm/227280220416?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&itmmeta=01M0VWG64DWQN4Q96ANXBEC0C4&hash=item34eaf4f100:g:b~sAAeSwgyhpy1Uy&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCOMspCghkGmPpT7l%2FRnsvhGtPnagfo2%2BBesWZZapHEPwfsDomW4K%2BGG16cAwlFjVQLa4av1XcsbLWLKvfEg3GjCXMLJojnAOuSaPy2Iyq2AAbtPc0tHcZEcrDkF5IRGTdK0ZFmOIQgPNKw8K8BPKnt9H%2BVrZ0SiwosZmijGHf8j2vBL%2B2h5wJ690E5msdGsy5i%2BsxncptB2iRzUITcxp3AVEqLUdUhGMyJaq0wtsEYqJzHnmPssb3%2FKCaWI5ZtyzSUtGS%2B801Jro80yTQz4kJl%7Ctkp%3ABk9SR7DiwPyGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/b~sAAeSwgyhpy1Uy/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787296960631,
+        "lastSeen": 1787642421489
+      },
       "counts": {
         "cgc10Bin": 0,
-        "cgc10Auction": 1,
+        "cgc10Auction": 2,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 2
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787555701365
+      "updatedAt": 1787642421489
     },
     "prices": {
       "variantId": 689,
@@ -60,22 +73,64 @@
       "cgc10Pop": 54,
       "bgs10C": 151600,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per week\",\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787555701365
+      "fetchedAt": 1787642187876
     },
     "listings": [
       {
         "itemId": "287541276558",
         "title": "Pokemon Gyarados Base Set 2 7/130 Holo CGC 9.5Opens in a new window or tab",
         "priceC": 99,
-        "shippingC": 699,
-        "landedC": 798,
-        "url": "https://www.ebay.com/itm/287541276558?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=15043377694&itmmeta=01M0SA07KTNKC1GYB71EN6VMHX&hash=item42f2cbaf8e:g:s58AAeSww45qit9Z&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDJcW8%2FfjzXA5quilbC5KPgFO9aW5KY%2BpzynMjgANg4nu9sV%2BEBS3mJuC6j2qancTubJMvoC7%2Bp5QqqzPgyh53fGQAEHr8%2FAvASbb%2FTQryR19VQwP7LmZJ7%2B775X22xhtRVQdO1qDI8HKKqnPe%2FEhl58QdAoxleDIZ4qQv7zesC44%2Fu14axkpGbRFtSm7VGBALJm49MWhOMluSX%2BFKFWKf040WNrsgrP%2B2ezJI64Gn4Z9X0z4Fjnyqf0zT%2BBqSYghbQvCeRrRr9bkHlI5olDDABpcIK4DHLZ13RudDzmNawVEl9TKtff0BcU0z2Bd3Tri4%3D%7Ctkp%3ABk9SR576gKqGaA",
+        "shippingC": 1503,
+        "landedC": 1602,
+        "url": "https://www.ebay.com/itm/287541276558?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=15043377694&itmmeta=01M0VWFSEDXKHDHGH5RJEPT8QS&hash=item42f2cbaf8e:g:s58AAeSww45qit9Z&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDLDQ3oZMrN6uLd0Yw6lukjkG3PZVqpkOygWM%2Bz2zs%2FrHeWLqTExa0uzocR%2B5RbzmLeIaF6wupHjlweck3hcjiueXHZsT%2FfkNjZr%2Bx8xIHY9HOqdoqPewQ6sEI6OeiLU7ezlriUQfytaK1YbHMso7Aebqdd%2FjtdJnOrhw7ORLnrU%2FA3TBwIs%2BeLqX1fZFh3cKVNIHks92EPGaMW1xCx018ljZBeEBDrcX1w1THybVDxmsy31N7DFrikHay0TH2C4TBqDOftdk6810KyImFgqGKE%7Ctkp%3ABk9SR7iXv_yGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/s58AAeSww45qit9Z/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787555910622,
-        "lastSeen": 1787579269844
+        "lastSeen": 1787642421489
+      },
+      {
+        "itemId": "227280220416",
+        "title": "2000 POKEMON BASE SET II \" PERFECT CENTERING \" #7 GYARADOS - HOLO PSA 9Opens in a new window or tab",
+        "priceC": 21900,
+        "shippingC": 3400,
+        "landedC": 25300,
+        "url": "https://www.ebay.com/itm/227280220416?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&itmmeta=01M0VWG64DWQN4Q96ANXBEC0C4&hash=item34eaf4f100:g:b~sAAeSwgyhpy1Uy&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCOMspCghkGmPpT7l%2FRnsvhGtPnagfo2%2BBesWZZapHEPwfsDomW4K%2BGG16cAwlFjVQLa4av1XcsbLWLKvfEg3GjCXMLJojnAOuSaPy2Iyq2AAbtPc0tHcZEcrDkF5IRGTdK0ZFmOIQgPNKw8K8BPKnt9H%2BVrZ0SiwosZmijGHf8j2vBL%2B2h5wJ690E5msdGsy5i%2BsxncptB2iRzUITcxp3AVEqLUdUhGMyJaq0wtsEYqJzHnmPssb3%2FKCaWI5ZtyzSUtGS%2B801Jro80yTQz4kJl%7Ctkp%3ABk9SR7DiwPyGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/b~sAAeSwgyhpy1Uy/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787296960631,
+        "lastSeen": 1787642421489
+      },
+      {
+        "itemId": "137472143236",
+        "title": "2000 Pokemon Gyarados-Holo Base Set 2 #7 PSA 9Opens in a new window or tab",
+        "priceC": 22999,
+        "shippingC": 3000,
+        "landedC": 25999,
+        "url": "https://www.ebay.com/itm/137472143236?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=15043377694&itmmeta=01M0VWG64D6YMN65TNHR1DYRT9&hash=item2001fa6f84:g:0LcAAeSwcIlqRW5v&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBdmzC5eOPlB9lsgtItNHOhi%2F2koPaxxhXSf2B96bj2rDvjlAdmhtr%2BDF1VqaQWGsnyYTqi0vBkpRIr3dlUtiDizOZOiZyDpWLeVI9wms7D1T1dBS9tf8iKyd%2BxnTt25hj7A03SNHeUr6z%2BwApxGJAtd9lDBzioK3GCLkXMHc%2BHKxRlFKvEvHv8BwEyumEqQO2hg1%2BeIyA2mbEZ9wbnqiyN%2FnxX0maGmS%2FtsB6ewJcyXkT10ji7xH66QY2sVkrTGJEEj0Kh1PgCylsX146MFxmbexo0McquywYOezAWDdvFNBsYtTIJILNZB9pVXwGPI1Q%3D%7Ctkp%3ABk9SR7DiwPyGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/0LcAAeSwcIlqRW5v/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787210439269,
+        "lastSeen": 1787642421489
+      },
+      {
+        "itemId": "407160085744",
+        "title": "Pokemon 2000 Gyarados 7/130 Holo Rare Base Set 2 GEM MINT CGC 10Opens in a new window or tab",
+        "priceC": 33000,
+        "shippingC": 3158,
+        "landedC": 36158,
+        "url": "https://www.ebay.com/itm/407160085744?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=15043377694&itmmeta=01M0VWG64FFZXACE2HJZWJ0C0Y&hash=item5ecca1dcf0:g:MzYAAeSwSGdqh9UT&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAHMKAcjRZgpgAyRPNlunNrOFAukKaE%2FgdYBiuTm9BOCM9aAj71ar2zL2hPGOtYDNv47NHXbe%2BGo3UCKKbhslsi9QepufLqlbGG8qzcITRMNrilKsdYkJ89KMBNAh0v0%2FKpvEYt%2BUoac%2B5N1%2BphmmZlY%2FjIGgMEH70RoS3KbHiZpKphQMo1R%2Bkr1XOPAPYLebBCOhxJNb9A612S6cRWpQm%2FV%2B1%2BtBv%2F2%2FZHQjjDPny5YIttOe3fV1Fxn7cYJ3VI%2B1KCzsRfOGzvFJ37ZFqKL2HKZ0DISJHLdI56OaFpxGtH6IyhGJg9tuYRekqZjEaZb2I%3D%7Ctkp%3ABk9SR7biwPyGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/MzYAAeSwSGdqh9UT/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787296960631,
+        "lastSeen": 1787642421489
       }
     ],
     "marketHistory": {
@@ -1735,7 +1790,7 @@
       ],
       "englishSaleCount": 326,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787555698983
+      "lastCapturedAt": 1787642185856
     }
   }
 }

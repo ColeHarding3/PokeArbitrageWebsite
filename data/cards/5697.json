@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 5697,
@@ -19,7 +19,7 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/36ca60c5581744cf9b61cef3169b95a467e8237d6fabebc286bbb024a85f0793/1600.jpg",
       "popularityScore": 93,
       "market": {
-        "ungradedC": 13649,
+        "ungradedC": 15545,
         "grade9C": 47050,
         "grade95C": 51800,
         "cgc10C": 69900,
@@ -30,7 +30,7 @@
         "psa10Pop": 69,
         "cgc10Pop": 27,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per month\",\"volume: 2 sales per week\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787560855878
+        "fetchedAt": 1787648464043
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -45,11 +45,11 @@
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787560855878
+      "updatedAt": 1787648464043
     },
     "prices": {
       "variantId": 5697,
-      "ungradedC": 13649,
+      "ungradedC": 15545,
       "grade9C": 47050,
       "grade95C": 51800,
       "cgc10C": 69900,
@@ -60,22 +60,22 @@
       "cgc10Pop": 27,
       "bgs10C": 478900,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per month\",\"volume: 2 sales per week\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787560855878
+      "fetchedAt": 1787648464043
     },
     "listings": [
       {
         "itemId": "137653596127",
         "title": "Pokemon Horizons Stickers 2023 Snorlax Lotte #10 Cgc 10Opens in a new window or tab",
-        "priceC": 100,
+        "priceC": 225,
         "shippingC": 400,
-        "landedC": 500,
-        "url": "https://www.ebay.com/itm/137653596127?_skw=%28snorlax%2Cdelta%29+%2810%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&itmmeta=01M0SF39X442K5K7H5JNQ9MKXX&hash=item200ccb2fdf:g:HKUAAeSwau1qi5mY&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCsRJpmnK3F4IlbQ2BeIeYLe4g1MJVJkuVAL%2BV3cZlO4kinCkRPvMfyDD8UpJabgI%2FPvUu4kc2%2F4M8qxgut2nBbfHxTVLuP4VGfODvK5I2%2BZ8Tl%2Bugu2ro0BG0MnHnVYWXvXyxIojuHz0pPABKlE0hgG3C05Dn6%2FlMYu1FsXgQgHnQKol3PJa%2BBWKlcXjDja3PwbEtkJcq04XLz%2BvcJIsuNJxMHFMTT%2FdWSij5YAUSFG7jXvUzHsp8sy448cUAS6JlHLkP0jlfYLEtsHagVlQmguDORkyTbms9TlJyihg8E9qCy2zQ7wInVgQhHZG%2BvvHAweISMq01eQMKI7HfxUH4%2B%7Ctkp%3ABk9SR_yeja-GaA",
+        "landedC": 625,
+        "url": "https://www.ebay.com/itm/137653596127?_skw=%28snorlax%2Cdelta%29+%2810%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&itmmeta=01M0W2N1GKVTM7AQYN1VZCKJ00&hash=item200ccb2fdf:g:HKUAAeSwau1qi5mY&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCsRJpmnK3F4IlbQ2BeIeYLe4g1MJVJkuVAL%2BV3cZlO4kinCkRPvMfyDD8UpJabgI%2FPvUu4kc2%2F4M8qxgut2nBbfHxTVLuP4VGfODvK5I2%2BZ8Tl%2Bugu2ro0BG0MnHnVYWXd%2F3mJP%2BPIJeVS05hLmSGrWvfeKm439UaPJUenBTHMntUgrieMjJT5q9Q1IxeigPWrkuU7Md9FQ%2F3Cm7d%2BenkDdAmGlBUcnTh34cZG2E1I4zmMGrdno%2BUXjQDcg%2FIY7dk7NP5cWllTRCWfOyUydBq7rxHP0iieS8ZbAPnVqdh%2B4xO3VPrqE10Knn6d2tcxUaYHs8wA4Pp5dwl03ag2UYX3%7Ctkp%3ABk9SR9CY1IKHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HKUAAeSwau1qi5mY/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787561161445,
-        "lastSeen": 1787579311794
+        "lastSeen": 1787648774395
       }
     ],
     "marketHistory": {
@@ -1760,7 +1760,7 @@
       ],
       "englishSaleCount": 241,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787560853791
+      "lastCapturedAt": 1787648461963
     }
   }
 }

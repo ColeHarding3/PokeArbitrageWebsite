@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 11234,
@@ -38,23 +38,36 @@
         "priceC": 32500,
         "shippingC": 0,
         "landedC": 32500,
-        "url": "https://www.ebay.com/itm/298564644448?_skw=%28flareon%29+%282%2Cpop%2Cseries%2C3%29+%28CGC%2CPSA%29&epid=19043375839&itmmeta=01M0SEDDRPGK2KD5FF25GD9RGB&hash=item4583d6ee60:g:jF8AAeSw~uRqdKm7&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAHWzMpPAAg%2FFGqo0hPuodpWQgc8YD--l1IxUC%2B3L5w76C%2Fc2nZgE3AuPljioJolD%2FYFjTLl%2BwILVSut1jshsWV4Dh5%2FlHwsWHa4aUXmkCc5dulScStE3QU%2BkOlV8WXuduo6WIGfjtLkx4b3UVbowmlFuSutskMbjDk7LBYn2iexC4VezbjhvV0FDMoohlQ2EcIJyn03Kv9dVXLAMs08MgxkeIJkETWRx53zvuQRgH0mfVd95cg2rMoPjra30Y%2B1zrxnaw1as70y2aLd0JdH%2FpR%7Ctkp%3ABk9SR9rcta6GaA",
+        "url": "https://www.ebay.com/itm/298564644448?_skw=%28flareon%29+%282%2Cpop%2Cseries%2C3%29+%28CGC%2CPSA%29&epid=19043375839&itmmeta=01M0W1YH43JZ0SD78WTZMPYAGC&hash=item4583d6ee60:g:jF8AAeSw~uRqdKm7&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA2eCLTDJdqhb7eDftFdAJqelmfWNLvrnKk1iyx7NxiC3gBSTSf3kx%2BjNQciW8bjR0QMpa8u1Eoi0gOm6kKXmcI0iI5azU3eENZ0fFEa%2BLEKAnMBBFaJ3XB7BGMshiLVJ0IMI4lKpHMNGwU7dscCdRFKIh9b%2B%2BuK%2FdUdHG0pf4UJBhYg1sXRifPOba4IYjkK3LPkSJ4OriokJJtUpk1PKYnao2d6YQ%2FkyR1QTAcvwRTZxFTZx%2F2BWMriuXYeOlKi9wf0rl%2BNeekNmIyQ%2BS0phNuI%2BAAtkDn8AJVMdK4yt56dibQmbzvdcZjmAQRsGwVAME%3D%7Ctkp%3ABk9SR6CS-oGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/jF8AAeSw~uRqdKm7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787217304958,
-        "lastSeen": 1787579362581
+        "lastSeen": 1787648004902
       },
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "178374150974",
+        "title": "Pokemon TCG 2006 POP Series 3 Flareon Holo 2/17 PSA 9 EnglishOpens in a new window or tab",
+        "priceC": 64000,
+        "shippingC": 548,
+        "landedC": 64548,
+        "url": "https://www.ebay.com/itm/178374150974?_skw=%28flareon%29+%282%2Cpop%2Cseries%2C3%29+%28CGC%2CPSA%29&epid=19043375839&itmmeta=01M0W1YH445TEKD4JRKTKFBRT5&hash=item2987ed8b3e:g:H2IAAeSwvw1qchwc&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC0Il7eYG5IPcV5IIUkgbXnAa18M4eWStb%2FELZs6LHdEDBZqSso7KQUYDoYbkIghBDH8bhpO2uYVUZwCK29Sr8kHuvROR7Tll004PGgMl7IrDpHFLpiUd374YdSSQbOm7QwuYfIyfbK5QJ%2Form8LHmJNeR5JUyrgpyFRCndBFK%2F0CUnhLNtgcBZ%2Bw%2F5PiF%2FE7YyBEWOsWkf%2BpNqBEc9Fnhjru18T7yRhs9gjhm4NCpXbIYKEYyf4GdORf1eH3bswTpkfaE1op%2B0uNdJ6QJEDFXP%7Ctkp%3ABk9SR6KS-oGHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/H2IAAeSwvw1qchwc/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787648004902,
+        "lastSeen": 1787648004902
+      },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 2,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -72,7 +85,7 @@
         "ratio": 4.863037974683544
       },
       "firstOpportunityAt": 1787217304958,
-      "updatedAt": 1787579362581
+      "updatedAt": 1787648004902
     },
     "prices": {
       "variantId": 11234,
@@ -96,13 +109,13 @@
         "priceC": 14999,
         "shippingC": 540,
         "landedC": 15539,
-        "url": "https://www.ebay.com/itm/227121912034?_skw=%28flareon%29+%282%2Cpop%2Cseries%2C3%29+%28CGC%2CPSA%29&itmmeta=01M0SED8MMYGTH08YEN4FSCDAF&hash=item34e18558e2:g:IrAAAeSwSj9pNjig&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDySECgie2uT2kDjjqVIIQ2ZxrnTnVxdXTYtWAadjIPitBktJDdTlv2LulL2PRlvuYo%2BgEYhkE7SS6uINCb3ki4D1O0fs1I5Cadm7tbn8iAaMXocZH0fnlSkr706lQErY%2BoAloeghJatgdV7jpcVqpSbD8%2F7VIBRxesUeVW9ljDF2LJ3oi3DfO97QgR37XLdlNWLerRyBVdpZyQbAkN7wD2IsGXagK7TKBEVG57yL9dAnN3g%2Br3P5%2Bf8b%2BBxtPdSiOQoCrCoc2tGqLTk53EO4GV%7Ctkp%3ABk9SR86Kta6GaA",
+        "url": "https://www.ebay.com/itm/227121912034?_skw=%28flareon%29+%282%2Cpop%2Cseries%2C3%29+%28CGC%2CPSA%29&itmmeta=01M0W1YCJ2ATW24NEH3EYX1NNZ&hash=item34e18558e2:g:IrAAAeSwSj9pNjig&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDySECgie2uT2kDjjqVIIQ2ZxrnTnVxdXTYtWAadjIPiplgiDAyMcR2HHdPNlLDDrI8iVs1dxsW1lFJGbmhW5Dp4kBqiGLfZyaKrM2YR0Tbt7MdXmcyK1xK30Qp3KhfyZYAIEyYFwfHtUkkIgJMurvK6li%2B2zphTvDdXY6NL0GokybIMB8bMLYu5IOC4jS0R%2B8wgPAD1REkfwyPU7J2xPZa1G79nMnmi8XzI--BXNhjYfmUOojNxwWejJvI2R1cTV%2FVLi3TxARiaP%2BPJBgrUEg6%7Ctkp%3ABk9SR6zJ-YGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/IrAAAeSwSj9pNjig/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "freshness": "live",
         "firstSeen": 1787217304958,
-        "lastSeen": 1787579362581
+        "lastSeen": 1787648004902
       },
       {
         "itemId": "177255405426",
@@ -110,13 +123,13 @@
         "priceC": 16900,
         "shippingC": 899,
         "landedC": 17799,
-        "url": "https://www.ebay.com/itm/177255405426?_skw=%28flareon%29+%282%2Cpop%2Cseries%2C3%29+%28CGC%2CPSA%29&itmmeta=01M0SED8MMQWB153P12QZVJ47Q&hash=item29453ed772:g:2hIAAeSwoZBn6fI0&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xApI%2FxvJGaRqnYKQSIDRWT8Z7Lm5mLsvcxI9v0AYVHrramuR1k8mQqqzyeWAX6oCZwFgfuecvC2WV2EnIdHwM0S0x79OJFWE66py4rX0ldKUSBZKkFZcilPix9Upc6TVj1DQXhEGlnm28510%2FbSflXBiXS3yk5y%2BjBC7nFZEJDWxWDSsPMnIoH0xSbUoHJ5987rTkfbRQFQHTZob35eoBtMmswbKBv%2F6P57cMeOj7LGEQWsgOAqbV9ObTUiri17dCA2wYog56bpN4yZz5hmehQYiSelrZJm2EzB2bYb2LcIPD0KUFkEg7VttgrMueKcGPg%3D%7Ctkp%3ABk9SR9CKta6GaA",
+        "url": "https://www.ebay.com/itm/177255405426?_skw=%28flareon%29+%282%2Cpop%2Cseries%2C3%29+%28CGC%2CPSA%29&itmmeta=01M0W1YCJ3DFVTXG7EJEFTGE7R&hash=item29453ed772:g:2hIAAeSwoZBn6fI0&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDhoj8SCagAV6Ii9u6J9eSWr4DEaPBRaJgix23wv0h%2Feb5KWzrm3KItp%2FcdAgOIjmRXK%2FbS3FPMm9FmR1u2XzBmwE0fd2fuq1mEISSxM%2F6K5pmxVmAo9kICXFDRD77qKEGsbXEtQCKYixgSbimk7lJs%2F%2Bt6ADETV8qwjrzUVctpLBrcatOct%2F9YcU50qGyXPfbBrIQmd%2BY5ffhoK4zQHT8R6OZ8vT8SSjJcJev6jaWQjNjzSGpldnH39j1W%2BhIKzuogEjnesH8sgwttd1c2D2JQ%7Ctkp%3ABk9SR67J-YGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/2hIAAeSwoZBn6fI0/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "freshness": "live",
         "firstSeen": 1787217304958,
-        "lastSeen": 1787579362581
+        "lastSeen": 1787648004902
       },
       {
         "itemId": "298564644448",
@@ -124,13 +137,27 @@
         "priceC": 32500,
         "shippingC": 0,
         "landedC": 32500,
-        "url": "https://www.ebay.com/itm/298564644448?_skw=%28flareon%29+%282%2Cpop%2Cseries%2C3%29+%28CGC%2CPSA%29&epid=19043375839&itmmeta=01M0SEDDRPGK2KD5FF25GD9RGB&hash=item4583d6ee60:g:jF8AAeSw~uRqdKm7&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAHWzMpPAAg%2FFGqo0hPuodpWQgc8YD--l1IxUC%2B3L5w76C%2Fc2nZgE3AuPljioJolD%2FYFjTLl%2BwILVSut1jshsWV4Dh5%2FlHwsWHa4aUXmkCc5dulScStE3QU%2BkOlV8WXuduo6WIGfjtLkx4b3UVbowmlFuSutskMbjDk7LBYn2iexC4VezbjhvV0FDMoohlQ2EcIJyn03Kv9dVXLAMs08MgxkeIJkETWRx53zvuQRgH0mfVd95cg2rMoPjra30Y%2B1zrxnaw1as70y2aLd0JdH%2FpR%7Ctkp%3ABk9SR9rcta6GaA",
+        "url": "https://www.ebay.com/itm/298564644448?_skw=%28flareon%29+%282%2Cpop%2Cseries%2C3%29+%28CGC%2CPSA%29&epid=19043375839&itmmeta=01M0W1YH43JZ0SD78WTZMPYAGC&hash=item4583d6ee60:g:jF8AAeSw~uRqdKm7&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA2eCLTDJdqhb7eDftFdAJqelmfWNLvrnKk1iyx7NxiC3gBSTSf3kx%2BjNQciW8bjR0QMpa8u1Eoi0gOm6kKXmcI0iI5azU3eENZ0fFEa%2BLEKAnMBBFaJ3XB7BGMshiLVJ0IMI4lKpHMNGwU7dscCdRFKIh9b%2B%2BuK%2FdUdHG0pf4UJBhYg1sXRifPOba4IYjkK3LPkSJ4OriokJJtUpk1PKYnao2d6YQ%2FkyR1QTAcvwRTZxFTZx%2F2BWMriuXYeOlKi9wf0rl%2BNeekNmIyQ%2BS0phNuI%2BAAtkDn8AJVMdK4yt56dibQmbzvdcZjmAQRsGwVAME%3D%7Ctkp%3ABk9SR6CS-oGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/jF8AAeSw~uRqdKm7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787217304958,
-        "lastSeen": 1787579362581
+        "lastSeen": 1787648004902
+      },
+      {
+        "itemId": "178374150974",
+        "title": "Pokemon TCG 2006 POP Series 3 Flareon Holo 2/17 PSA 9 EnglishOpens in a new window or tab",
+        "priceC": 64000,
+        "shippingC": 548,
+        "landedC": 64548,
+        "url": "https://www.ebay.com/itm/178374150974?_skw=%28flareon%29+%282%2Cpop%2Cseries%2C3%29+%28CGC%2CPSA%29&epid=19043375839&itmmeta=01M0W1YH445TEKD4JRKTKFBRT5&hash=item2987ed8b3e:g:H2IAAeSwvw1qchwc&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC0Il7eYG5IPcV5IIUkgbXnAa18M4eWStb%2FELZs6LHdEDBZqSso7KQUYDoYbkIghBDH8bhpO2uYVUZwCK29Sr8kHuvROR7Tll004PGgMl7IrDpHFLpiUd374YdSSQbOm7QwuYfIyfbK5QJ%2Form8LHmJNeR5JUyrgpyFRCndBFK%2F0CUnhLNtgcBZ%2Bw%2F5PiF%2FE7YyBEWOsWkf%2BpNqBEc9Fnhjru18T7yRhs9gjhm4NCpXbIYKEYyf4GdORf1eH3bswTpkfaE1op%2B0uNdJ6QJEDFXP%7Ctkp%3ABk9SR6KS-oGHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/H2IAAeSwvw1qchwc/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787648004902,
+        "lastSeen": 1787648004902
       }
     ],
     "marketHistory": {

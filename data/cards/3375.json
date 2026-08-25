@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 3375,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/8b6b495db0f6ca4703106b502aa38dab99a39b10efee203e9bb03b44328a2c4e/1600.jpg",
       "popularityScore": 90,
       "market": {
-        "ungradedC": 25417,
+        "ungradedC": 23819,
         "grade9C": 231544,
-        "grade95C": 254700,
-        "cgc10C": 229857,
+        "grade95C": 250000,
+        "cgc10C": 230200,
         "cgc10PristineC": 1400000,
-        "psa10C": 1507735,
-        "bgs10C": 1960100,
+        "psa10C": 1506000,
+        "bgs10C": 1957800,
         "psa9Pop": 555,
         "psa10Pop": 125,
         "cgc10Pop": 52,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787558587147
+        "fetchedAt": 1787646100381
       },
       "bestCgc10": {
         "itemId": "287292342603",
@@ -38,13 +38,13 @@
         "priceC": 499999,
         "shippingC": 999,
         "landedC": 500998,
-        "url": "https://www.ebay.com/itm/287292342603?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0SCS6C0TJEPMDC6SAQ33PAK&hash=item42e3f5414b:g:-dcAAeSw9cNp6-J5&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCjIQuF9ytQodSH2N%2BW8MyZ5VGYZfWiS%2FMc2tiNqHTkPO7ByaBMDl8YevN4V9FGXtpXLOL43JkbBY1XqbkaI1YQTt9xOzvvvS9L9ylVEcs6XPZBp06gYoy9r4zg8nM3ZvUcxPPsc6syw59A4a7RobZqY5PmmfG1nHGI%2BgJ2a7PmQHLHaM3OFnA8hH0pX5SezCvz2RgeTbWOjnNigtug8JDUXGBJgogutrY8L9eBFUbqTM2JohD0wuadK3%2BMOELxqMKLjjYsVFboECCyRyARuhT8BNEf4BkczVkDLP3XqFcaNE7NkBzHj%2Fu210Mu9DYdTW8%3D%7Ctkp%3ABk9SR57m5KyGaA",
+        "url": "https://www.ebay.com/itm/287292342603?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0W081GEVJ0YT78ACVES13Q6&hash=item42e3f5414b:g:-dcAAeSw9cNp6-J5&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCfMX%2F2VK6fZucqftuaz6%2Fj2mIu%2Fs%2BjK8WaxdGcg3aO5ilMiShcIi35waDHLvU%2FoJejjY9oT51jFNd8rLPIgRGOSZ6ki%2FT2%2BZJiULFLEuPUhvs0ZqroJuTil29OUqakZaU50xKKxjWqWshX7Ow8yyrgoOrUBEaMLQ9%2FBppQ5UeCsqaT8c5GprnJELYePPpNclqws6iGmuDQnicXEfVgzDP%2BVzyT16FbX8MRdEaIA%2FDd3rKHDQrDHgvUJ%2BwT7NplTJnma6cZAzdCoV3Its8itqjN%7Ctkp%3ABk9SR9CYoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-dcAAeSw9cNp6-J5/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       },
       "bestPsa10": {
         "itemId": "227414132349",
@@ -52,27 +52,27 @@
         "priceC": 6999000,
         "shippingC": 0,
         "landedC": 6999000,
-        "url": "https://www.ebay.com/itm/227414132349?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0SCS6C0HKDGFRPT92WCRYXE&hash=item34f2f0467d:g:1B0AAeSwxoRqS7xb&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCt6ivY1i1b%2F7fjdXhGb13S31LeOwKos0a%2FuhUGK%2FpwmnpWd7M1s0Dpf9PKJwPLSW%2BN0n%2BCaqMG%2BkgEDl9HON9FOUivvmLSe02JmghrF0WW%2BZiMvV1JZPJFzi%2Bl1F30auCfM9fRamJnM42wguHZ8ylEVI9CNgbIprPx4TtfcVihyxb%2FIJc0a0hty8HZM7a7SM77rYiUyd7Tb81ecVixj%2FbkLmpTcHq%2FSzywYVQIwgEXl%2FC%2FeUi2e81OpvSvtUqEIY722E5aSkLKjxENlpFUbrD9%7Ctkp%3ABk9SR6Dm5KyGaA",
+        "url": "https://www.ebay.com/itm/227414132349?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0W081GEPB7E6T9S4XBPRKC2&hash=item34f2f0467d:g:1B0AAeSwxoRqS7xb&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCt6ivY1i1b%2F7fjdXhGb13S31LeOwKos0a%2FuhUGK%2Fpwmo4muYZqnGzEMO17ZmXw2lUfVoH4L7HQ5s41ZIDocwQ75rCiUoi%2BH2YmqoUDLlEotAsAPrRdUBFY9hryyYkJe%2F8j3sAag7YzAWtdAkApD71ALKGptNXc1%2BGP%2BlYgv%2F5MvmaOTwASnDAQePSp9cosctzZ2UVLvu2r4LHto7p8vNiAwko0L6XDL1N5fJ0B5HPoqmnTts0VC16pfR%2Bfwx8Z5fU2fulp9dQlo38JJ0GnpR%2Fh%7Ctkp%3ABk9SR9CYoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/1B0AAeSwxoRqS7xb/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       },
       "bestPsa9": {
         "itemId": "336695183851",
         "title": "2018 Pokemon Japenese Sun and Moon : Dragon Storm : Dragonite EX : PSA 9Opens in a new window or tab",
         "priceC": 6350,
-        "shippingC": 562,
-        "landedC": 6912,
-        "url": "https://www.ebay.com/itm/336695183851?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=16073631262&itmmeta=01M0SCS6BXMMXT1D9QDKSKHK40&hash=item4e6498c9eb:g:5SAAAeSwwzRqW77C&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDb4hCFWiVjqBTsoI%2F88RSzNdahicvfsseEkULZ4wt8zkDTN2PI1%2FEsr7YzMAr7LqqsgBcOcf49VjChI1NM1QnRqZj8o4iMi5zL%2FOF6KhwoDurUCKpXBE3oUbcBQZ4IHCxwWgF%2Fwn2eC%2BxAH6oTMAnCJP%2FouchuD6uckgGx2coTRopjGwpD2C0TSP7JqDCoasN750A2WN7WHuZZKlxfQc6zu5St4dng%2F3c%2BT3nwMSXQqqY3mOCjcH1CjC%2FQYssFtqg4egEU4iqtxfQktEX3twKCeMkDdXwSatmgo7d2JWbheIjWEpV%2BDMYwRFXmNleL5fE%3D%7Ctkp%3ABk9SR5rm5KyGaA",
+        "shippingC": 548,
+        "landedC": 6898,
+        "url": "https://www.ebay.com/itm/336695183851?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=16073631262&itmmeta=01M0W081G94XFGW33NA3DX72XF&hash=item4e6498c9eb:g:5SAAAeSwwzRqW77C&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAeeloBubfbkwBWGxmL5RzLk0X5vvie9hfQG8RIwBaeDkDFn0uWs6b5P9ApKGXJALOh5wwgFjfla35XVaxcdvn5PteiTyKcsy%2BJG%2BuY2wKVYD3%2BQc214%2B0SD88ahoIAEDAqvlvbRpnXGI88Uagc15wK7rE5rTzqO92ctXLG%2BUeAkh%2BxWd0ibZclYQxzh2mRV%2FESHHYtGBOQMX9ntVMIZOrJYkDN6KVn4puRZ1tluLrhdspW7uYpc7RHVHPHDg2cERTBE%2FQtHECdoTgcB8DCkt5z%7Ctkp%3ABk9SR76YoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/5SAAAeSwwzRqW77C/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       },
       "counts": {
         "cgc10Bin": 2,
@@ -94,55 +94,55 @@
         "cgc10CostC": 500998,
         "submissionFeeC": 99900,
         "totalCostC": 600898,
-        "psa10ValueC": 1507735,
-        "ratio": 2.5091363259654718
+        "psa10ValueC": 1506000,
+        "ratio": 2.506248980692231
       },
       "firstOpportunityAt": 1787058454419,
-      "updatedAt": 1787579319009
+      "updatedAt": 1787646242482
     },
     "prices": {
       "variantId": 3375,
-      "ungradedC": 25417,
+      "ungradedC": 23819,
       "grade9C": 231544,
-      "grade95C": 254700,
-      "cgc10C": 229857,
+      "grade95C": 250000,
+      "cgc10C": 230200,
       "cgc10PristineC": 1400000,
-      "psa10C": 1507735,
+      "psa10C": 1506000,
       "psa9Pop": 555,
       "psa10Pop": 125,
       "cgc10Pop": 52,
-      "bgs10C": 1960100,
+      "bgs10C": 1957800,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787558587147
+      "fetchedAt": 1787646100381
     },
     "listings": [
       {
         "itemId": "336695183851",
         "title": "2018 Pokemon Japenese Sun and Moon : Dragon Storm : Dragonite EX : PSA 9Opens in a new window or tab",
         "priceC": 6350,
-        "shippingC": 562,
-        "landedC": 6912,
-        "url": "https://www.ebay.com/itm/336695183851?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=16073631262&itmmeta=01M0SCS6BXMMXT1D9QDKSKHK40&hash=item4e6498c9eb:g:5SAAAeSwwzRqW77C&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDb4hCFWiVjqBTsoI%2F88RSzNdahicvfsseEkULZ4wt8zkDTN2PI1%2FEsr7YzMAr7LqqsgBcOcf49VjChI1NM1QnRqZj8o4iMi5zL%2FOF6KhwoDurUCKpXBE3oUbcBQZ4IHCxwWgF%2Fwn2eC%2BxAH6oTMAnCJP%2FouchuD6uckgGx2coTRopjGwpD2C0TSP7JqDCoasN750A2WN7WHuZZKlxfQc6zu5St4dng%2F3c%2BT3nwMSXQqqY3mOCjcH1CjC%2FQYssFtqg4egEU4iqtxfQktEX3twKCeMkDdXwSatmgo7d2JWbheIjWEpV%2BDMYwRFXmNleL5fE%3D%7Ctkp%3ABk9SR5rm5KyGaA",
+        "shippingC": 548,
+        "landedC": 6898,
+        "url": "https://www.ebay.com/itm/336695183851?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=16073631262&itmmeta=01M0W081G94XFGW33NA3DX72XF&hash=item4e6498c9eb:g:5SAAAeSwwzRqW77C&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAeeloBubfbkwBWGxmL5RzLk0X5vvie9hfQG8RIwBaeDkDFn0uWs6b5P9ApKGXJALOh5wwgFjfla35XVaxcdvn5PteiTyKcsy%2BJG%2BuY2wKVYD3%2BQc214%2B0SD88ahoIAEDAqvlvbRpnXGI88Uagc15wK7rE5rTzqO92ctXLG%2BUeAkh%2BxWd0ibZclYQxzh2mRV%2FESHHYtGBOQMX9ntVMIZOrJYkDN6KVn4puRZ1tluLrhdspW7uYpc7RHVHPHDg2cERTBE%2FQtHECdoTgcB8DCkt5z%7Ctkp%3ABk9SR76YoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/5SAAAeSwwzRqW77C/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       },
       {
-        "itemId": "318744852961",
-        "title": "Dragonite EX HOLO DRAGON FRONTIERS POKEMON MINT PSA 9Opens in a new window or tab",
-        "priceC": 174999,
-        "shippingC": 0,
-        "landedC": 174999,
-        "url": "https://www.ebay.com/itm/318744852961?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=19043376388&itmmeta=01M0SCS6BZWKZ2WZEXYESMFQRN&hash=item4a36ac79e1:g:0CkAAeSwPU9puJ6l&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA1uQNASa0EDPImH5%2BG6FLkbrq0ICF7aaObtAzkvXWZ5oY5uxEPrNBUrkiSOX0o17NtFnmX%2FrNEKfcWFl5IRkyjmX8Z%2FhOuPnwBwu6cRs7%2BtYdd3upDWsmYNmQWgHoRTGcgfOOA9r4gONm%2F75PcmsD0K2X49NVz2CGic7qt1u0J6LBX8OpZKvPOwr80zlbaDAhRgzW%2FRLTUqYcoTMKNRMyKHljACxwrySwtlGs0s8cgZ6hgGP7ZGuVVSHpjDi9GjVquIM0flfNgviQ0GO5HVOSL%7Ctkp%3ABk9SR57m5KyGaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/0CkAAeSwPU9puJ6l/s-l500.webp",
-        "listingType": "auction",
+        "itemId": "158219269828",
+        "title": "Pokemon Dragonite ex 90/97 - PSA 9 - EX Dragon Silver Border Vintage *New Cert*Opens in a new window or tab",
+        "priceC": 310000,
+        "shippingC": 597,
+        "landedC": 310597,
+        "url": "https://www.ebay.com/itm/158219269828?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0W081GE2CV2ESQFSFSYDQTK&hash=item24d69a76c4:g:IDgAAeSwv9NqjILu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDOpIHKXFdhJBS77IeoCvah5aAIQe1qmtIleCEZmTomXxCTEK%2BGI0nAucoQSaqo99TDpafnCpvZvAt3TRzNIuJyO8Xouwbk4p3CD7LGcC98%2FQ063Jd2gRPV0gqOe4u6nk0FeN%2BPtA69MGVq2WNSaLGRTs%2BczHP5vzvPqSxpbMCg%2BpDlV4h0mkA3hkGaKcMH8gQ0yJ%2BJUpXSoebEYVXQthKGPmLjNlbGWbymjfziQpYTHPPVzGXebGz77CeJol%2F1rLxuMdVZMSnfx7pt5ymDpVWLz20anyJZ1s5A4e9uBVZmLNidW8enkTlzr1yvjEhyn1U%3D%7Ctkp%3ABk9SR86YoICHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/IDgAAeSwv9NqjILu/s-l500.webp",
+        "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
-        "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "firstSeen": 1787646242482,
+        "lastSeen": 1787646242482
       },
       {
         "itemId": "317916890334",
@@ -150,27 +150,13 @@
         "priceC": 320000,
         "shippingC": 600,
         "landedC": 320600,
-        "url": "https://www.ebay.com/itm/317916890334?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0SCS6BZ48EA939NHTQYFV3D&hash=item4a0552c4de:g:za0AAeSwzGxpnPEm&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBjKqH3Zpenv%2Blnyy6xmgxQW6NATE1Y1jtOUsUFu2ixHm1YjUXuWB%2BegXXKB874ywxj7P8jOGnJjvVZU%2B90FY3vSzSj5M3VKzn6hLjesF8rxELPJruwq6TcBc%2FmCXLvbWe40O7X3rgEJUDI0R3VTpel9IEcaL3Dw%2Fadqt6UK4Jpv8uEGGm2WpsejcIG6KHHC8WJSoqM6ShOQU4mtEMyo9SC2q2LErZQwvarQFoCBUlRTbH1TxBvBeEZyb0kBVK1nCuKil%2F9%2FYRWrmNtciLFPN0%2B%7Ctkp%3ABk9SR57m5KyGaA",
+        "url": "https://www.ebay.com/itm/317916890334?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0W081GE7C2S2KKRZ9T7EYQ8&hash=item4a0552c4de:g:za0AAeSwzGxpnPEm&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAYNwj3%2BHGnTK9W7C6O%2Bv35spZiN8Tu89GHoCb6urRpRMWXLiWfJcyZDPq2K6iHM9NLvjd%2BYInetgEWgGEm334VIX15B7uwr%2FhFI3PzsdcTn0su7kU7rId10AQARCe%2FOgi1pOIe%2FFgPovN0BgF4J2R8tGKC8M8JabR1Q3ppVV0DRiJ10ZHCMSatdkpLvf%2Bge4qutkdmZyiF5d2JSAxFqWl5%2Bggl8J4d6J%2F%2BWnHMSKd4F6q5Ti8xMLczKodr5j7afAPSFRj65IYkJBamT8RxP2FNhKFilEsHaDVzh2dckT7aVi%2FDRNKggqbP32gfLfQ5AxI%3D%7Ctkp%3ABk9SR9CYoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/za0AAeSwzGxpnPEm/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
-      },
-      {
-        "itemId": "158185290570",
-        "title": "Pokemon Dragonite ex 90/97 - PSA 9 - EX Dragon Silver Border Vintage *Swirl*Opens in a new window or tab",
-        "priceC": 400000,
-        "shippingC": 597,
-        "landedC": 400597,
-        "url": "https://www.ebay.com/itm/158185290570?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0SCS6C069QKRWVV90BPAK5C&hash=item24d493fb4a:g:4PMAAeSwTF5qfile&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAm%2B%2FiOxa7HOR5CyE%2FoAMylrpbofdX3mOJe6RjVaoy%2FW4%2BcTWzYrXHHKny%2BMiTWVD3d7hnf08eOoSA%2FHw%2FHQdJC3kJRlgvtfZEwose1hTd%2BdfcuviF3%2Bjx4ZRXzMXXcmn0hG2m4ZDfSilz9SKGxKdatPVz48HOwyAk1r%2F0AD7r4Ifv5sjS6ZgwB3koTQesBLxzSAwIURKvqh1dNCc5cOSOOPh2HuKWEJw6iYEZB0UBB4JUDgcJMI4qk%2BaLvhYymEklPtkm52voze1aOyJkHcybK%7Ctkp%3ABk9SR57m5KyGaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/4PMAAeSwTF5qfile/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       },
       {
         "itemId": "177071036407",
@@ -178,13 +164,13 @@
         "priceC": 480000,
         "shippingC": 500,
         "landedC": 480500,
-        "url": "https://www.ebay.com/itm/177071036407?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0SCS6C060911EG4H3RC8JB1&hash=item293a4197f7:g:vbUAAOSwzPxoGXWf&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB4mVVfiKZVrgGDQlGi002cXPaXkc5mH80OxfHliGkpdmiKahKq9Gi3pPX1ljWdmpaatxfDCu4HemndmsN1qbQOlcXBPMN84czh2XzZBVwX1P7aKbQFw%2FiH3Xq5VH07Kvzuq2XvhELUDMor66El1zJRyG%2F0%2FJRD9lx6VnwWyzlpWuZYGXmVHFRzn43uH%2BXvS6iq0lS3M5NLSLJp5VaVs7%2B4BLO4r3CPC6u1NXXZ%2Bc45X0u8%2BjOXCKFWtleldJbYjBmghT%2FOZkTg9rAXfPHbvVldP2nVQSXvioygqLqFtfPgTbgbdMu7auC%2B1qlxWuzJlHQ%3D%7Ctkp%3ABk9SR57m5KyGaA",
+        "url": "https://www.ebay.com/itm/177071036407?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0W081GERZ1B3ZBRJ7M733V2&hash=item293a4197f7:g:vbUAAOSwzPxoGXWf&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB4mVVfiKZVrgGDQlGi002cXPaXkc5mH80OxfHliGkpdmiKahKq9Gi3pPX1ljWdmpaatxfDCu4HemndmsN1qbQOlcXBPMN84czh2XzZBVwX1P7aKbQFw%2FiH3Xq5VH07KvzxS9fOY7Ge5TFaJ%2BMO%2B%2Bg%2F2Ftez62HbhkeDRdx6ETNTQpqMPnVc7QqyKp0pL644MYyY6fijrbLZ9CAeljxw%2FViEhxgDU9g%2B4D%2Btsjxin27ZWHPBvxtGFuM3LuJ%2BSz1BOEWepMWpvVfLyMfgFLkBbLun0T2uOJuxwwtht4aBxxQUHvdqJeJlFu2XQfVuGLLO8w%3D%7Ctkp%3ABk9SR9CYoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/vbUAAOSwzPxoGXWf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       },
       {
         "itemId": "287292342603",
@@ -192,13 +178,13 @@
         "priceC": 499999,
         "shippingC": 999,
         "landedC": 500998,
-        "url": "https://www.ebay.com/itm/287292342603?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0SCS6C0TJEPMDC6SAQ33PAK&hash=item42e3f5414b:g:-dcAAeSw9cNp6-J5&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCjIQuF9ytQodSH2N%2BW8MyZ5VGYZfWiS%2FMc2tiNqHTkPO7ByaBMDl8YevN4V9FGXtpXLOL43JkbBY1XqbkaI1YQTt9xOzvvvS9L9ylVEcs6XPZBp06gYoy9r4zg8nM3ZvUcxPPsc6syw59A4a7RobZqY5PmmfG1nHGI%2BgJ2a7PmQHLHaM3OFnA8hH0pX5SezCvz2RgeTbWOjnNigtug8JDUXGBJgogutrY8L9eBFUbqTM2JohD0wuadK3%2BMOELxqMKLjjYsVFboECCyRyARuhT8BNEf4BkczVkDLP3XqFcaNE7NkBzHj%2Fu210Mu9DYdTW8%3D%7Ctkp%3ABk9SR57m5KyGaA",
+        "url": "https://www.ebay.com/itm/287292342603?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0W081GEVJ0YT78ACVES13Q6&hash=item42e3f5414b:g:-dcAAeSw9cNp6-J5&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCfMX%2F2VK6fZucqftuaz6%2Fj2mIu%2Fs%2BjK8WaxdGcg3aO5ilMiShcIi35waDHLvU%2FoJejjY9oT51jFNd8rLPIgRGOSZ6ki%2FT2%2BZJiULFLEuPUhvs0ZqroJuTil29OUqakZaU50xKKxjWqWshX7Ow8yyrgoOrUBEaMLQ9%2FBppQ5UeCsqaT8c5GprnJELYePPpNclqws6iGmuDQnicXEfVgzDP%2BVzyT16FbX8MRdEaIA%2FDd3rKHDQrDHgvUJ%2BwT7NplTJnma6cZAzdCoV3Its8itqjN%7Ctkp%3ABk9SR9CYoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-dcAAeSw9cNp6-J5/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       },
       {
         "itemId": "188782430982",
@@ -206,13 +192,13 @@
         "priceC": 2200000,
         "shippingC": 1000,
         "landedC": 2201000,
-        "url": "https://www.ebay.com/itm/188782430982?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0SCS6C0EJ8QRQ8CJREFQ1D5&hash=item2bf44f4b06:g:2YsAAeSwTLhqPq1I&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAO0QdDq9SWgzkFy65oenEkodgi9IZKfTVD2CwivVl8qK2IHsjU6o7Fy0LoIb2qzsDDXvVXgsA3yIciAhLFqjD%2F7eFmHTCrjUwABjAREMwFTT1mebVCihVcISuiuw10NvaKQKroJLjM4qQ14BnhInnG7%2FKwbyT6ah3KSdfkflrOXIlz9hYaHAJ6DnMWhRf4J1oorabQ%2F6Hwjr8442Ugeq3lMaVTPFHUjy4FVh0d7nLKfGCd3e8e57nSyhtI464k8KyzKjxsCabpaxVQ7h%2B1jvyB4b5PM9Ddw9urQSZHcrVbZM3pUyFQ19voG1eu%2Bjz7FNQ%3D%7Ctkp%3ABk9SR6Dm5KyGaA",
+        "url": "https://www.ebay.com/itm/188782430982?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0W081GEWZ1GX5GYGT47513F&hash=item2bf44f4b06:g:2YsAAeSwTLhqPq1I&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAO0QdDq9SWgzkFy65oenEkodgi9IZKfTVD2CwivVl8qK2IHsjU6o7Fy0LoIb2qzsDDXvVXgsA3yIciAhLFqjD%2F7eFmHTCrjUwABjAREMwFTT1mebVCihVcISuiuw10NvaoE25RQKBxADzMTCEx8cekl53x%2BpE4DqZtZ22WbzyXTFmMVtgGMas9TTZU3Fg7682MruJ%2F6UClUEwVe8s9ofbdxtnni1vGp0buRs2JXdp4XDg%2BQsfyGlXDgxQIsuETy43DICw8ujfJ28gKTinK5%2Bf1NaVM6zaoZZA%2FJ2PDnw3LuRXSVR9GZ4MoIrjuesHgRKY%3D%7Ctkp%3ABk9SR9CYoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/2YsAAeSwTLhqPq1I/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "freshness": "live",
         "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       },
       {
         "itemId": "227414132349",
@@ -220,13 +206,13 @@
         "priceC": 6999000,
         "shippingC": 0,
         "landedC": 6999000,
-        "url": "https://www.ebay.com/itm/227414132349?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0SCS6C0HKDGFRPT92WCRYXE&hash=item34f2f0467d:g:1B0AAeSwxoRqS7xb&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCt6ivY1i1b%2F7fjdXhGb13S31LeOwKos0a%2FuhUGK%2FpwmnpWd7M1s0Dpf9PKJwPLSW%2BN0n%2BCaqMG%2BkgEDl9HON9FOUivvmLSe02JmghrF0WW%2BZiMvV1JZPJFzi%2Bl1F30auCfM9fRamJnM42wguHZ8ylEVI9CNgbIprPx4TtfcVihyxb%2FIJc0a0hty8HZM7a7SM77rYiUyd7Tb81ecVixj%2FbkLmpTcHq%2FSzywYVQIwgEXl%2FC%2FeUi2e81OpvSvtUqEIY722E5aSkLKjxENlpFUbrD9%7Ctkp%3ABk9SR6Dm5KyGaA",
+        "url": "https://www.ebay.com/itm/227414132349?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0W081GEPB7E6T9S4XBPRKC2&hash=item34f2f0467d:g:1B0AAeSwxoRqS7xb&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCt6ivY1i1b%2F7fjdXhGb13S31LeOwKos0a%2FuhUGK%2Fpwmo4muYZqnGzEMO17ZmXw2lUfVoH4L7HQ5s41ZIDocwQ75rCiUoi%2BH2YmqoUDLlEotAsAPrRdUBFY9hryyYkJe%2F8j3sAag7YzAWtdAkApD71ALKGptNXc1%2BGP%2BlYgv%2F5MvmaOTwASnDAQePSp9cosctzZ2UVLvu2r4LHto7p8vNiAwko0L6XDL1N5fJ0B5HPoqmnTts0VC16pfR%2Bfwx8Z5fU2fulp9dQlo38JJ0GnpR%2Fh%7Ctkp%3ABk9SR9CYoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/1B0AAeSwxoRqS7xb/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       },
       {
         "itemId": "277611138791",
@@ -234,13 +220,13 @@
         "priceC": 10000000,
         "shippingC": 524,
         "landedC": 10000524,
-        "url": "https://www.ebay.com/itm/277611138791?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0SCS6C0R1444JQFB8J3N5V0&hash=item40a2e9cee7:g:EFQAAeSwntRpUaep&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCB5R889J7SrowW2W8E%2Fdo%2BKGxgfmAeV3tTiTx7ocHnsI2ULpUpt5cKjhZgUuOntc5XR0UrZip7EkwrqyXagsxkYU6Z6LEvVthZwjtPnRtngQ8%2FHY1ycI63c4iGqEapXspFe0D4pN6DnXPRpmTmllol8x7D59b9zmTpQ1kceSgEazyV1n67GJPlvJjDlf25fIs9GT0SY%2FYaa7eYPSuUjYR5t5d6zV6r4ZFY8HBWiHhcUdRadrZuW%2FTx255bMEhNZgtHtmi1Xrhl%2FFpsmR9PqK6mVBo1FociAuamebJJbHKa1IU63UREbULBawGNpGcaujk%3D%7Ctkp%3ABk9SR6Dm5KyGaA",
+        "url": "https://www.ebay.com/itm/277611138791?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=4043368119&itmmeta=01M0W081GEPMX7GNTBZ25Z69QM&hash=item40a2e9cee7:g:EFQAAeSwntRpUaep&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCHSme9%2Bw%2FmF9UgN6I4NOf3Sq%2Bset%2FiT5cFWZVHJXsb9PGy0L7bQcvq1Zjyu161T1rFVh%2BrbkuoEgovN3sdqnwGDJWbtZDCXo9W5bikYHiVbJZ8OaBdUkh8IvetDNcB4utOiWcd8WYsmHIAruaSDf8O6nw8bDZLh9lYet6n1mPXchhwXvWfPptoNF4EynKptqgYO3expHZOZIq3U9hywAoE71afLNxoHNOxyHi%2BD4Yt6GGgEtsJ2zXocMUNDnPe6GtB40mvTKVgU3%2B%2B7g7GyoQq%7Ctkp%3ABk9SR9KYoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EFQAAeSwntRpUaep/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       },
       {
         "itemId": "336038031443",
@@ -248,13 +234,13 @@
         "priceC": 10000000,
         "shippingC": 548,
         "landedC": 10000548,
-        "url": "https://www.ebay.com/itm/336038031443?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=23043383772&itmmeta=01M0SCS6C0FH8Z1V10Z3JPDKN3&hash=item4e3d6d7053:g:fpsAAeSwtS9oX3kU&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAWjOrXBIPiJ6NTNKdWXphghnjIj6yTITQYGwEhgYSDCjlrZaxpBzoPienrocydYWlUE3FHaWK3OVUeHJpvuCxBlKFR4pOeA6Oa643YFGclM11mPifbPcZTpukHKoc%2FQFL4ONPjKnwfu1xueCpLop1INTiQoOP2c1Mo45BqOc5WjUSGQwv2uNC34Qrr8DtHkQeQ0WXaBw5Bo0RQ%2B0%2FBW9AU3FeFuddd6gInZQXjGiYHUWJL8tizjJ0MrJFThnXNlKNHztiBhAlhj5O1eClN5h%2BF%7Ctkp%3ABk9SR6Dm5KyGaA",
+        "url": "https://www.ebay.com/itm/336038031443?_skw=%28dragonite%29+%2890%2Cdragon%29+%28CGC%2CPSA%29&epid=23043383772&itmmeta=01M0W081GF99EGQMZ3D179TZPD&hash=item4e3d6d7053:g:fpsAAeSwtS9oX3kU&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAWjOrXBIPiJ6NTNKdWXphghnjIj6yTITQYGwEhgYSDCkGxKvSh2ckgAkMyLYXclVsdO14aDN1%2B6nPdIyfPJNOuRESlCswWFssYOLgV7KeGRODL2D1T8zDNdze8UqcN8r80WVSeT6%2FGyzDXHrRtoC2K5y57I1iNJXJeZc2ZS9JeMTfqm5AR%2FNiPzlVsPLLj0enIVGCscWrja2UHWloH%2BioB4JKiQB1TFComTY04SkS4kvoiWO%2BLJsr6e0hNlQKIAY%2Bqx52x3%2B04fcD8ACzzK3KW%7Ctkp%3ABk9SR9KYoICHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/fpsAAeSwtS9oX3kU/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787058454419,
-        "lastSeen": 1787579319009
+        "lastSeen": 1787646242482
       }
     ],
     "marketHistory": {
@@ -1919,7 +1905,7 @@
       ],
       "englishSaleCount": 335,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787558584889
+      "lastCapturedAt": 1787646098035
     }
   }
 }

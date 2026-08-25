@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 4077,
@@ -30,7 +30,7 @@
         "psa10Pop": null,
         "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787559194443
+        "fetchedAt": 1787646727258
       },
       "bestCgc10": null,
       "bestPsa10": {
@@ -39,39 +39,26 @@
         "priceC": 99999,
         "shippingC": 1200,
         "landedC": 101199,
-        "url": "https://www.ebay.com/itm/117088937435?_skw=%28blaziken%29+%281%2Cpop%2Cseries%29+%28CGC%2CPSA%29&epid=12043364705&itmmeta=01M0SDADN9VWPJX2QBK61GZ99K&hash=item1b430b65db:g:S68AAeSwk1pptohJ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBp3v8nSZQxF4UDUBQdfGZNwvZyRWpMPlkW4zMRhSHi1mBXSjOpCZARnFc1Xs8rEc1Rm7CYsgvpa41KFWLwFVg5uAa7KyzA6SZmfsLbHRxzlfnXOhwEoWxRg1rcY%2FWxW%2FTmhcFFZvd9wpvM1wwOykiK4maj%2BY8gZ8L2upzrsAPT9jcPRDZPJSCC7LY73NDwKTuiuUUW6gSith%2FPFf4inzHtRYcuyA5SAJB7n%2FB0Ps5ouGSIHGjfZXYMfJYRUJAk5waxwrKwMan11XOhvP0VFFk5%7Ctkp%3ABk9SR4Dbqa2GaA",
+        "url": "https://www.ebay.com/itm/117088937435?_skw=%28blaziken%29+%281%2Cpop%2Cseries%29+%28CGC%2CPSA%29&epid=12043364705&itmmeta=01M0W0SNEM0KNX10Z2KEAQTG68&hash=item1b430b65db:g:S68AAeSwk1pptohJ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAr3iRqJmbPt2xYJgkaqp3hIlqzPFvRTb8T4myZRA6bFScibnYaph9A19kwGpBEPxbw%2FHzeQ0bKX1MEuANsbRLzgUEZ4JQASs2tW%2B1XMFiTqM7g7U73SnPPp7yfNsJuDIAOzu8w%2FseEN%2FQMXAckqnN156nrhBw2JjxQ%2FNSPrhJ8y94yamvgkOBGybHSLctRWCHT0q0x5OTmH76aQbvybuwSnmHwRmGuOhf2uOYx2lZ4TPOkL8tAxBdPT41sLcOSFAmXek2%2FOxDUif01AULUsLbXEghgnabh4sLjQDEN6dDHYV3HJj3utEjC6u2R33VLYQc%3D%7Ctkp%3ABk9SR9TX5oCHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/S68AAeSwk1pptohJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787579361088
+        "lastSeen": 1787646776982
       },
-      "bestPsa9": {
-        "itemId": "227240961219",
-        "title": "Pokemon PSA 9 Blaziken HOLO #1 EX Emerald Signed By Both Artist And Voice ActorOpens in a new window or tab",
-        "priceC": 200000,
-        "shippingC": 0,
-        "landedC": 200000,
-        "url": "https://www.ebay.com/itm/227240961219?_skw=%28blaziken%29+%281%2Cpop%2Cseries%29+%28CGC%2CPSA%29&epid=2314420696&itmmeta=01M0SDADN95VDFNB37CAQR58XG&hash=item34e89de4c3:g:RLYAAeSwcKNpp21b&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBUorSQYd6abvt49xi%2FUo8oQceKoJ3lMsNWp8JidW1XDr9OVWj57zKEyAzBrQTXsbIAAANqGBbzDlHp%2FLeaAYZ0pmXbhDTM33GQ6bUeWYuO3llwuhI5IPIj0kn2E16Cb8mtUuH4hjjN70bTKQSFKTMVHu1zkEbK7hSTFF%2FgsGIbb%2BXVxSukey1YEnJ20hcmdaOAQ3mesnA%2Ba42yLPZ6ZOMWjqHwnX7GJh3ka81Bqzd%2B9N3R1ZO0miEHcATJEPSCNJj2nylPyX9LkJd%2FpKlfqnRP%7Ctkp%3ABk9SR4Dbqa2GaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/RLYAAeSwcKNpp21b/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787061558184,
-        "lastSeen": 1787579361088
-      },
+      "bestPsa9": null,
       "counts": {
         "cgc10Bin": 0,
         "cgc10Auction": 1,
         "pristine10": 0,
         "psa10Bin": 1,
         "psa10Auction": 0,
-        "psa9Bin": 1
+        "psa9Bin": 0
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787579361088
+      "updatedAt": 1787646776982
     },
     "prices": {
       "variantId": 4077,
@@ -86,7 +73,7 @@
       "cgc10Pop": null,
       "bgs10C": 650000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787559194443
+      "fetchedAt": 1787646727258
     },
     "listings": [
       {
@@ -109,27 +96,13 @@
         "priceC": 99999,
         "shippingC": 1200,
         "landedC": 101199,
-        "url": "https://www.ebay.com/itm/117088937435?_skw=%28blaziken%29+%281%2Cpop%2Cseries%29+%28CGC%2CPSA%29&epid=12043364705&itmmeta=01M0SDADN9VWPJX2QBK61GZ99K&hash=item1b430b65db:g:S68AAeSwk1pptohJ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBp3v8nSZQxF4UDUBQdfGZNwvZyRWpMPlkW4zMRhSHi1mBXSjOpCZARnFc1Xs8rEc1Rm7CYsgvpa41KFWLwFVg5uAa7KyzA6SZmfsLbHRxzlfnXOhwEoWxRg1rcY%2FWxW%2FTmhcFFZvd9wpvM1wwOykiK4maj%2BY8gZ8L2upzrsAPT9jcPRDZPJSCC7LY73NDwKTuiuUUW6gSith%2FPFf4inzHtRYcuyA5SAJB7n%2FB0Ps5ouGSIHGjfZXYMfJYRUJAk5waxwrKwMan11XOhvP0VFFk5%7Ctkp%3ABk9SR4Dbqa2GaA",
+        "url": "https://www.ebay.com/itm/117088937435?_skw=%28blaziken%29+%281%2Cpop%2Cseries%29+%28CGC%2CPSA%29&epid=12043364705&itmmeta=01M0W0SNEM0KNX10Z2KEAQTG68&hash=item1b430b65db:g:S68AAeSwk1pptohJ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAr3iRqJmbPt2xYJgkaqp3hIlqzPFvRTb8T4myZRA6bFScibnYaph9A19kwGpBEPxbw%2FHzeQ0bKX1MEuANsbRLzgUEZ4JQASs2tW%2B1XMFiTqM7g7U73SnPPp7yfNsJuDIAOzu8w%2FseEN%2FQMXAckqnN156nrhBw2JjxQ%2FNSPrhJ8y94yamvgkOBGybHSLctRWCHT0q0x5OTmH76aQbvybuwSnmHwRmGuOhf2uOYx2lZ4TPOkL8tAxBdPT41sLcOSFAmXek2%2FOxDUif01AULUsLbXEghgnabh4sLjQDEN6dDHYV3HJj3utEjC6u2R33VLYQc%3D%7Ctkp%3ABk9SR9TX5oCHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/S68AAeSwk1pptohJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787579361088
-      },
-      {
-        "itemId": "227240961219",
-        "title": "Pokemon PSA 9 Blaziken HOLO #1 EX Emerald Signed By Both Artist And Voice ActorOpens in a new window or tab",
-        "priceC": 200000,
-        "shippingC": 0,
-        "landedC": 200000,
-        "url": "https://www.ebay.com/itm/227240961219?_skw=%28blaziken%29+%281%2Cpop%2Cseries%29+%28CGC%2CPSA%29&epid=2314420696&itmmeta=01M0SDADN95VDFNB37CAQR58XG&hash=item34e89de4c3:g:RLYAAeSwcKNpp21b&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBUorSQYd6abvt49xi%2FUo8oQceKoJ3lMsNWp8JidW1XDr9OVWj57zKEyAzBrQTXsbIAAANqGBbzDlHp%2FLeaAYZ0pmXbhDTM33GQ6bUeWYuO3llwuhI5IPIj0kn2E16Cb8mtUuH4hjjN70bTKQSFKTMVHu1zkEbK7hSTFF%2FgsGIbb%2BXVxSukey1YEnJ20hcmdaOAQ3mesnA%2Ba42yLPZ6ZOMWjqHwnX7GJh3ka81Bqzd%2B9N3R1ZO0miEHcATJEPSCNJj2nylPyX9LkJd%2FpKlfqnRP%7Ctkp%3ABk9SR4Dbqa2GaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/RLYAAeSwcKNpp21b/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "freshness": "live",
-        "firstSeen": 1787061558184,
-        "lastSeen": 1787579361088
+        "lastSeen": 1787646776982
       }
     ],
     "marketHistory": {
@@ -1729,7 +1702,7 @@
       ],
       "englishSaleCount": 193,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787559192088
+      "lastCapturedAt": 1787646725700
     }
   }
 }

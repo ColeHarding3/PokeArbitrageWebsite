@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 542,
@@ -19,10 +19,10 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/23c0089693821361673f1e5a5165cb400491754f0c54769391f7966abd8eaa93/1600.jpg",
       "popularityScore": 90,
       "market": {
-        "ungradedC": 6309,
+        "ungradedC": 6317,
         "grade9C": 25013,
-        "grade95C": 29422,
-        "cgc10C": 49749,
+        "grade95C": 29646,
+        "cgc10C": 40704,
         "cgc10PristineC": 111500,
         "psa10C": 173750,
         "bgs10C": 225900,
@@ -30,21 +30,21 @@
         "psa10Pop": 529,
         "cgc10Pop": 102,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 3 sales per week\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787555495702
+        "fetchedAt": 1787641956430
       },
       "bestCgc10": {
         "itemId": "188824194066",
         "title": "Pokemon Fossil 1st Edition Dragonite #19 19/62 Regular Rare CGC 10 W/ GuardOpens in a new window or tab",
         "priceC": 62500,
-        "shippingC": 0,
-        "landedC": 62500,
-        "url": "https://www.ebay.com/itm/188824194066?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M0S9X7WXDJ9R5WAA2SW6JQ8P&hash=item2bf6cc8c12:g:GFoAAeSwZuRqh28S&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCmfDNwlh78jP%2FkF7XGuhQ%2FtFlaDwzEwDpIlm1ZfdDRZxsCgdCmx1JbjZuIQWOFKAcD2ztJCy7umzCKyIorD3TnMT0tbhTte7U%2FH8QHYaWcDDeL2A3d%2FoSAF%2B19xWi8tre0woUe%2BhyAY1QA82id6CUggFNgEDkhpkcCmOXt4rjAHtS9sZ4pptDYKc9VrvQK4IgyacrU9oRnHRF5StnJCxSZq7vBKhxtizYb4gNXbdh7NsiQm6gTqOslf2GrUtIDAYQOIkUw0UyDqK4CjUHdQFwm%7Ctkp%3ABk9SR9z-9KmGaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/188824194066?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M0VWCHTJJV6MC9NCMHQDTZ3M&hash=item2bf6cc8c12:g:GFoAAeSwZuRqh28S&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCmfDNwlh78jP%2FkF7XGuhQ%2FtFlaDwzEwDpIlm1ZfdDRZ5in%2FCzMAxhvsbAQpvBGh8mOWEe5mexdlsHeRtTihHGxV3odKG%2Fui0oWKAGWNj3b2Vj%2BPoxI%2FF%2BktI7fepo0Im4Ho2Y4Ty6xD866mAdU1DQvztw1UGyFW7PZ0IfVIx8bwU2ahgY6wP83CqktZ7cc3wGBb6dLv7DLgcr42WM%2Byf27eDvQ1hAqUZxDfXpeVj94TCfe2s2Ae0tFEXVObNSXTAObpNBem7iqcUGTGIQykJRT%7Ctkp%3ABk9SR8CdsvyGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GFoAAeSwZuRqh28S/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787296605948,
-        "lastSeen": 1787579265779
+        "lastSeen": 1787642172840
       },
       "bestPsa10": {
         "itemId": "117366903569",
@@ -64,48 +64,34 @@
         "itemId": "366462470830",
         "title": "1999 Pokemon Fossil Dragonite 1st Edition #19 PSA 9 MINTOpens in a new window or tab",
         "priceC": 29999,
-        "shippingC": 0,
-        "landedC": 29999,
-        "url": "https://www.ebay.com/itm/366462470830?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M0S9X7WSNCTSKGCWJ0V89P8A&hash=item5552dd8aae:g:CEgAAeSw26BqJcNP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC4AnTEGg8c3LaBGaDzj5Uwsejh2T16%2B1LUn2SwxRx4Xou%2Bglxubv76%2FCbcAz3PQ6G8scnHtyWUdSy68qDeMAcgXLfVlLSlfnLXDdz%2BmOCaBm8E80al5GactaCobMgIIcG7rXlMFh7K5ljbMnUE%2FRByCdkFHvgn%2BW%2BnuWYA%2Fg4zEu%2F7JfBwk1X8HMxLX4iycCR3FghLwhcHhbFn1nGj4ftOsDGJ5zYY5Dx74WD6GOHwYqgAyjPJUkkCryT01lOj6LYDNRd%2B3XsDDhp3HA%2B3hC7AcioANl%2BcBvc%2BnlaiekQz%2FTlOpuj3MA2dNT1Qu9yL1OA%3D%7Ctkp%3ABk9SR9b-9KmGaA",
+        "shippingC": 2308,
+        "landedC": 32307,
+        "url": "https://www.ebay.com/itm/366462470830?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M0VWC99ZDR8KX48BR5P35QTN&hash=item5552dd8aae:g:CEgAAeSw26BqJcNP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC4AnTEGg8c3LaBGaDzj5Uwsejh2T16%2B1LUn2SwxRx4Xou%2Bglxubv76%2FCbcAz3PQ6G8scnHtyWUdSy68qDeMAcgXLfVlLSlfnLXDdz%2BmOCaBm8E80al5GactaCobMgIIcEa9HUk7Ya42tnFOqMink2URi7n%2BMPvpPVONNKmk4tzfuZYFO1Y3FSDzeQl318%2BW9JbjiXNu8lcpg3tqD4iOAhb6jYhw4gDIggDjTlOp1DfQskEsWeN%2FpQpafkNA9RQBBI7xnIERSeZUpGOGZmHbM5DUgkN%2FqhD3JfHoBXU08hm1sJoRqi316eoqvA47tKn4SY%3D%7Ctkp%3ABk9SR5iVsfyGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/CEgAAeSw26BqJcNP/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787579265779
+        "lastSeen": 1787642172840
       },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 1,
+        "psa10Bin": 2,
         "psa10Auction": 0,
         "psa9Bin": 2
       },
-      "ratio": {
-        "ok": true,
-        "tier": {
-          "id": "express",
-          "label": "Express",
-          "feeC": 14900,
-          "declaredValueCapC": 250000,
-          "turnaroundBizDays": 30
-        },
-        "cgc10CostC": 62500,
-        "submissionFeeC": 14900,
-        "totalCostC": 77400,
-        "psa10ValueC": 173750,
-        "ratio": 2.244832041343669
-      },
+      "ratio": null,
       "firstOpportunityAt": 1787296605948,
-      "updatedAt": 1787579265779
+      "updatedAt": 1787642172840
     },
     "prices": {
       "variantId": 542,
-      "ungradedC": 6309,
+      "ungradedC": 6317,
       "grade9C": 25013,
-      "grade95C": 29422,
-      "cgc10C": 49749,
+      "grade95C": 29646,
+      "cgc10C": 40704,
       "cgc10PristineC": 111500,
       "psa10C": 173750,
       "psa9Pop": 1310,
@@ -113,7 +99,7 @@
       "cgc10Pop": 102,
       "bgs10C": 225900,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 3 sales per week\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787555495702
+      "fetchedAt": 1787641956430
     },
     "listings": [
       {
@@ -134,43 +120,29 @@
         "itemId": "366462470830",
         "title": "1999 Pokemon Fossil Dragonite 1st Edition #19 PSA 9 MINTOpens in a new window or tab",
         "priceC": 29999,
-        "shippingC": 0,
-        "landedC": 29999,
-        "url": "https://www.ebay.com/itm/366462470830?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M0S9X7WSNCTSKGCWJ0V89P8A&hash=item5552dd8aae:g:CEgAAeSw26BqJcNP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC4AnTEGg8c3LaBGaDzj5Uwsejh2T16%2B1LUn2SwxRx4Xou%2Bglxubv76%2FCbcAz3PQ6G8scnHtyWUdSy68qDeMAcgXLfVlLSlfnLXDdz%2BmOCaBm8E80al5GactaCobMgIIcG7rXlMFh7K5ljbMnUE%2FRByCdkFHvgn%2BW%2BnuWYA%2Fg4zEu%2F7JfBwk1X8HMxLX4iycCR3FghLwhcHhbFn1nGj4ftOsDGJ5zYY5Dx74WD6GOHwYqgAyjPJUkkCryT01lOj6LYDNRd%2B3XsDDhp3HA%2B3hC7AcioANl%2BcBvc%2BnlaiekQz%2FTlOpuj3MA2dNT1Qu9yL1OA%3D%7Ctkp%3ABk9SR9b-9KmGaA",
+        "shippingC": 2308,
+        "landedC": 32307,
+        "url": "https://www.ebay.com/itm/366462470830?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M0VWC99ZDR8KX48BR5P35QTN&hash=item5552dd8aae:g:CEgAAeSw26BqJcNP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC4AnTEGg8c3LaBGaDzj5Uwsejh2T16%2B1LUn2SwxRx4Xou%2Bglxubv76%2FCbcAz3PQ6G8scnHtyWUdSy68qDeMAcgXLfVlLSlfnLXDdz%2BmOCaBm8E80al5GactaCobMgIIcEa9HUk7Ya42tnFOqMink2URi7n%2BMPvpPVONNKmk4tzfuZYFO1Y3FSDzeQl318%2BW9JbjiXNu8lcpg3tqD4iOAhb6jYhw4gDIggDjTlOp1DfQskEsWeN%2FpQpafkNA9RQBBI7xnIERSeZUpGOGZmHbM5DUgkN%2FqhD3JfHoBXU08hm1sJoRqi316eoqvA47tKn4SY%3D%7Ctkp%3ABk9SR5iVsfyGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/CEgAAeSw26BqJcNP/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787579265779
+        "lastSeen": 1787642172840
       },
       {
         "itemId": "318569931653",
         "title": "1999 Pokemon Fossil 1st Edition #19 Dragonite - PSA9 MINTOpens in a new window or tab",
         "priceC": 30000,
-        "shippingC": 0,
-        "landedC": 30000,
-        "url": "https://www.ebay.com/itm/318569931653?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M0S9X7WT6E0AWC60KDGW6T0T&hash=item4a2c3f6385:g:BogAAeSw9MFqUjWn&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAvfBPYD%2BKUdjg2Svg6NWhKepdJ0l6%2FcdAdbDDiqSip3kPHCH%2Bx1w1BbXDbQb6ZozVnBcBJT5j12ZxW2DGo8uB0E9Gx6VhMJQPCOw%2Butr7PVuTsZ%2FiK8S0MwRO4fftMfbN2kyk%2Fe1Zt5lxFMuNdNth79%2BTH%2FfJV3%2BdPlDgm0IiK7nL0%2FF38gi7nO9t2k9MzOMJNVfGRNTNvXynozNyHyAv6RvrUm5Qsn6dCQ%2Fe5aYceD%2BwvdyYvxGBlKoTOsz31e3AyZtA89S6mc%2B4b3ZNrG%2Fg2L2wunzWCLhFyrlo%2BVoIWYYjk3xCQBp%2BcXlUrS2dn0UE%3D%7Ctkp%3ABk9SR9b-9KmGaA",
+        "shippingC": 2308,
+        "landedC": 32308,
+        "url": "https://www.ebay.com/itm/318569931653?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M0VWC99ZW65ZAVN07S0CCS1R&hash=item4a2c3f6385:g:BogAAeSw9MFqUjWn&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAvfBPYD%2BKUdjg2Svg6NWhKepdJ0l6%2FcdAdbDDiqSip3kPHCH%2Bx1w1BbXDbQb6ZozVnBcBJT5j12ZxW2DGo8uB0E9Gx6VhMJQPCOw%2Butr7PVuTsZ%2FiK8S0MwRO4fftMfbM9Zh6DQ16SmAfDI49w8%2F7KP9fjArOy4PWoa2DArFcQAuh7HQ0o7r339o2OAm%2Bb0nEXMINhuH5iKwUtLpy%2FYK3wxnyFfLmMwmgWEwy5Ue1iCyHyRqluT4hlj4Ex8DaOED%2BV3m%2BANBcELwssxGmZI3eyNQk4DnME9MHdfdtClfiIrG%2BKqwQ67ka69eSc2n9Z89g%3D%7Ctkp%3ABk9SR5iVsfyGaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BogAAeSw9MFqUjWn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787579265779
-      },
-      {
-        "itemId": "188824194066",
-        "title": "Pokemon Fossil 1st Edition Dragonite #19 19/62 Regular Rare CGC 10 W/ GuardOpens in a new window or tab",
-        "priceC": 62500,
-        "shippingC": 0,
-        "landedC": 62500,
-        "url": "https://www.ebay.com/itm/188824194066?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M0S9X7WXDJ9R5WAA2SW6JQ8P&hash=item2bf6cc8c12:g:GFoAAeSwZuRqh28S&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCmfDNwlh78jP%2FkF7XGuhQ%2FtFlaDwzEwDpIlm1ZfdDRZxsCgdCmx1JbjZuIQWOFKAcD2ztJCy7umzCKyIorD3TnMT0tbhTte7U%2FH8QHYaWcDDeL2A3d%2FoSAF%2B19xWi8tre0woUe%2BhyAY1QA82id6CUggFNgEDkhpkcCmOXt4rjAHtS9sZ4pptDYKc9VrvQK4IgyacrU9oRnHRF5StnJCxSZq7vBKhxtizYb4gNXbdh7NsiQm6gTqOslf2GrUtIDAYQOIkUw0UyDqK4CjUHdQFwm%7Ctkp%3ABk9SR9z-9KmGaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/GFoAAeSwZuRqh28S/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "gemMint10",
-        "freshness": "live",
-        "firstSeen": 1787296605948,
-        "lastSeen": 1787579265779
+        "lastSeen": 1787642172840
       },
       {
         "itemId": "117366903569",
@@ -185,10 +157,51 @@
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787579265779
+      },
+      {
+        "itemId": "188824194066",
+        "title": "Pokemon Fossil 1st Edition Dragonite #19 19/62 Regular Rare CGC 10 W/ GuardOpens in a new window or tab",
+        "priceC": 62500,
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/188824194066?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M0VWCHTJJV6MC9NCMHQDTZ3M&hash=item2bf6cc8c12:g:GFoAAeSwZuRqh28S&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCmfDNwlh78jP%2FkF7XGuhQ%2FtFlaDwzEwDpIlm1ZfdDRZ5in%2FCzMAxhvsbAQpvBGh8mOWEe5mexdlsHeRtTihHGxV3odKG%2Fui0oWKAGWNj3b2Vj%2BPoxI%2FF%2BktI7fepo0Im4Ho2Y4Ty6xD866mAdU1DQvztw1UGyFW7PZ0IfVIx8bwU2ahgY6wP83CqktZ7cc3wGBb6dLv7DLgcr42WM%2Byf27eDvQ1hAqUZxDfXpeVj94TCfe2s2Ae0tFEXVObNSXTAObpNBem7iqcUGTGIQykJRT%7Ctkp%3ABk9SR8CdsvyGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/GFoAAeSwZuRqh28S/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "freshness": "live",
+        "firstSeen": 1787296605948,
+        "lastSeen": 1787642172840
+      },
+      {
+        "itemId": "206513137279",
+        "title": "1999 Pokemon Fossil 1st Edition Dragonite #19 19/62 PSA 10 Gem MintOpens in a new window or tab",
+        "priceC": 200000,
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/206513137279?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M0VWCHTKWZGXZMFQ832XZW3N&hash=item301524667f:g:HBoAAeSw2G9qjJIN&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC5prbdUo51mX4h5LUkvCNJrXlM4N80Oj56t0GEx%2FObRb--mz1Xtv6DcyguF%2FRjcMkhEhkhzw7yFaOn5wMpzEy4Gd5TJeHgVd%2FdRVs%2FwHK6cVvG%2FzmxJqSseOEKVIlPIA%2Bc%2Fvyly7UwvM2u74wjpeTvGkBbstz8GJFIiRMGKzu8G2xx5e1y5lYPTFY0XsZrFDPmueyKum66%2B9G71RS69s8KSXMuXzcawFV%2FWMGc0KSY1O7ARYy0fXzg53e1bZgugZqtT6fo0njOoOpEErfPq9icR06W2zPJ4rmj4E2bm5dyJ9Vs9oYuI8Qpqng7PH8dS58%3D%7Ctkp%3ABk9SR8CdsvyGaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/HBoAAeSw2G9qjJIN/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787642172840,
+        "lastSeen": 1787642172840
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 4593332,
+          "saleDate": "2026-08-24",
+          "priceC": 5000,
+          "title": "Pokemon TCG Dragonite 19/62 Fossil 1st Edition Holo Rare 100 HP 1999 90/97",
+          "url": "https://www.ebay.com/itm/800525734428?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 3636829,
           "saleDate": "2026-08-23",
@@ -1735,19 +1748,6 @@
           "gradingGrade": 7,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 113071,
-          "saleDate": "2026-06-25",
-          "priceC": 174900,
-          "title": "1999 Pokémon Fossil Dragonite #19 1st Edition PSA 10 GEM MINT Non Holo Rare WOTC 19/62",
-          "url": "https://www.ebay.com/itm/358721853579?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1777,9 +1777,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 296,
+      "englishSaleCount": 298,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787555494127
+      "lastCapturedAt": 1787641954619
     }
   }
 }

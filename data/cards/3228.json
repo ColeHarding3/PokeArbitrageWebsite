@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260824T221445323Z-a31a3926d1",
-  "generatedAt": 1787609685323,
+  "snapshotId": "20260825T101315494Z-4f71d98e10",
+  "generatedAt": 1787652795494,
   "data": {
     "deal": {
       "variantId": 3228,
@@ -30,7 +30,7 @@
         "psa10Pop": 9,
         "cgc10Pop": 8,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 5 sales per year\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787558458378
+        "fetchedAt": 1787645965618
       },
       "bestCgc10": {
         "itemId": "147494621903",
@@ -38,34 +38,21 @@
         "priceC": 150000,
         "shippingC": 0,
         "landedC": 150000,
-        "url": "https://www.ebay.com/itm/147494621903?_skw=%28flareon%29+%285%2Csandstorm%29+%28CGC%2CPSA%29&epid=16043369989&itmmeta=01M0SCN3QCS67G7S85DQT8ESJR&hash=item22575d52cf:g:PWwAAeSwm6tqeU3L&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA%2B0JfTeEMcZU%2Bea%2BEFB9chEttQ80SicUIuo5jYpF88JrcHUJP0V%2FPG8%2BbdICFUM7BMKPPtsWlZydOJHOaYDhn6w4WhbWzvxSK%2BM2uU5Y3IgisjISJPNXsk%2FKETK8EZWKqgRrfp3aPlXqGiwBqd58AXv6ZE3bkqBI1oLRb%2F0H73ri2ogDLXYzoA7PIZPZ2fMcP7qkS6D9C4mSHoc15BM0x%2BNX3od8C9Fz9gUDChByjQdnoOpwtFbkNtD3Yt8KXqQkuuw7Weg251T%2BI5ChqZEK1r%7Ctkp%3ABk9SR5C81KyGaA",
+        "url": "https://www.ebay.com/itm/147494621903?_skw=%28flareon%29+%285%2Csandstorm%29+%28CGC%2CPSA%29&epid=16043369989&itmmeta=01M0W03SFWBK4ZHZC5EQA3597C&hash=item22575d52cf:g:PWwAAeSwm6tqeU3L&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA%2B0JfTeEMcZU%2Bea%2BEFB9chEttQ80SicUIuo5jYpF88JuC80A5eqS9%2FKXuCfO7W3V4jFb47dRTEMzqfXUEqJ3n9CudU0%2Ff%2F6Y232SZuh5KEJoCycfnDTqfM52nOeaTgycerdr3LByKWrQ2XgYQFwfZ8Kg8PWiN65zGsaWYhYyuZK3E3QOLAmGKydpFnSEGylPWC93YIK2trx9VvEv3VcZ1dFdAcdYLT8S5aMUCXicHnWBcGnGvrR1sOL9nDUtN77gNKtYnOoezGUgYiRuwahgrZ%7Ctkp%3ABk9SR66Yj4CHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/PWwAAeSwm6tqeU3L/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787558576390,
-        "lastSeen": 1787579318128
+        "lastSeen": 1787646090671
       },
-      "bestPsa10": {
-        "itemId": "306886861381",
-        "title": "2003 POKEMON EX SANDSTORM #5 FLAREON-REVERSE FOIL PSA 10Opens in a new window or tab",
-        "priceC": 2500000,
-        "shippingC": 599,
-        "landedC": 2500599,
-        "url": "https://www.ebay.com/itm/306886861381?_skw=%28flareon%29+%285%2Csandstorm%29+%28CGC%2CPSA%29&epid=16043369989&itmmeta=01M0SCN3QDTXV6YDR9D2NC6YJS&hash=item4773e1e245:g:2wAAAeSwLDppyXrF&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC7960bX1pfIWpaT5Q0N26cCKmocozyGE29oG2xkfJhtBRGzcUV4xQHvoXpOGnYZ0ANtIwQsfXS3Eajz76iEvFl6Y39F4gltT3UHtCqZ3gq3IgotipuGSVSrbSm1XFhADqbjmqs5TLmSXiklyWQK8YhTAp79Ve60dQ981A1iH3rNDrXznCFPyZ445laTqfJo%2F0Tc3X7y%2Fg1LthG94Vf70Y0IlyCNEq%2BFKTRUd75HZgvrKEjotVjtcO5pxrae3zKbRwDiOVjy4MXuK0BrvEP89B1%7Ctkp%3ABk9SR5K81KyGaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/2wAAAeSwLDppyXrF/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787558576390,
-        "lastSeen": 1787579318128
-      },
+      "bestPsa10": null,
       "bestPsa9": null,
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 1,
+        "psa10Bin": 0,
         "psa10Auction": 0,
         "psa9Bin": 0
       },
@@ -85,7 +72,7 @@
         "ratio": 1.170721649484536
       },
       "firstOpportunityAt": 1787558576390,
-      "updatedAt": 1787579318128
+      "updatedAt": 1787646090671
     },
     "prices": {
       "variantId": 3228,
@@ -100,7 +87,7 @@
       "cgc10Pop": 8,
       "bgs10C": 251000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 5 sales per year\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787558458378
+      "fetchedAt": 1787645965618
     },
     "listings": [
       {
@@ -109,27 +96,13 @@
         "priceC": 150000,
         "shippingC": 0,
         "landedC": 150000,
-        "url": "https://www.ebay.com/itm/147494621903?_skw=%28flareon%29+%285%2Csandstorm%29+%28CGC%2CPSA%29&epid=16043369989&itmmeta=01M0SCN3QCS67G7S85DQT8ESJR&hash=item22575d52cf:g:PWwAAeSwm6tqeU3L&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA%2B0JfTeEMcZU%2Bea%2BEFB9chEttQ80SicUIuo5jYpF88JrcHUJP0V%2FPG8%2BbdICFUM7BMKPPtsWlZydOJHOaYDhn6w4WhbWzvxSK%2BM2uU5Y3IgisjISJPNXsk%2FKETK8EZWKqgRrfp3aPlXqGiwBqd58AXv6ZE3bkqBI1oLRb%2F0H73ri2ogDLXYzoA7PIZPZ2fMcP7qkS6D9C4mSHoc15BM0x%2BNX3od8C9Fz9gUDChByjQdnoOpwtFbkNtD3Yt8KXqQkuuw7Weg251T%2BI5ChqZEK1r%7Ctkp%3ABk9SR5C81KyGaA",
+        "url": "https://www.ebay.com/itm/147494621903?_skw=%28flareon%29+%285%2Csandstorm%29+%28CGC%2CPSA%29&epid=16043369989&itmmeta=01M0W03SFWBK4ZHZC5EQA3597C&hash=item22575d52cf:g:PWwAAeSwm6tqeU3L&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA%2B0JfTeEMcZU%2Bea%2BEFB9chEttQ80SicUIuo5jYpF88JuC80A5eqS9%2FKXuCfO7W3V4jFb47dRTEMzqfXUEqJ3n9CudU0%2Ff%2F6Y232SZuh5KEJoCycfnDTqfM52nOeaTgycerdr3LByKWrQ2XgYQFwfZ8Kg8PWiN65zGsaWYhYyuZK3E3QOLAmGKydpFnSEGylPWC93YIK2trx9VvEv3VcZ1dFdAcdYLT8S5aMUCXicHnWBcGnGvrR1sOL9nDUtN77gNKtYnOoezGUgYiRuwahgrZ%7Ctkp%3ABk9SR66Yj4CHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/PWwAAeSwm6tqeU3L/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787558576390,
-        "lastSeen": 1787579318128
-      },
-      {
-        "itemId": "306886861381",
-        "title": "2003 POKEMON EX SANDSTORM #5 FLAREON-REVERSE FOIL PSA 10Opens in a new window or tab",
-        "priceC": 2500000,
-        "shippingC": 599,
-        "landedC": 2500599,
-        "url": "https://www.ebay.com/itm/306886861381?_skw=%28flareon%29+%285%2Csandstorm%29+%28CGC%2CPSA%29&epid=16043369989&itmmeta=01M0SCN3QDTXV6YDR9D2NC6YJS&hash=item4773e1e245:g:2wAAAeSwLDppyXrF&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC7960bX1pfIWpaT5Q0N26cCKmocozyGE29oG2xkfJhtBRGzcUV4xQHvoXpOGnYZ0ANtIwQsfXS3Eajz76iEvFl6Y39F4gltT3UHtCqZ3gq3IgotipuGSVSrbSm1XFhADqbjmqs5TLmSXiklyWQK8YhTAp79Ve60dQ981A1iH3rNDrXznCFPyZ445laTqfJo%2F0Tc3X7y%2Fg1LthG94Vf70Y0IlyCNEq%2BFKTRUd75HZgvrKEjotVjtcO5pxrae3zKbRwDiOVjy4MXuK0BrvEP89B1%7Ctkp%3ABk9SR5K81KyGaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/2wAAAeSwLDppyXrF/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "freshness": "live",
-        "firstSeen": 1787558576390,
-        "lastSeen": 1787579318128
+        "lastSeen": 1787646090671
       }
     ],
     "marketHistory": {
@@ -1693,7 +1666,7 @@
       ],
       "englishSaleCount": 118,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787558456739
+      "lastCapturedAt": 1787645963637
     }
   }
 }
