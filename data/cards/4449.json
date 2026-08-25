@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4449,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0pEAAeSwjpFpMHuL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/1AwAAeSwJk1p8SA9/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -83,6 +85,41 @@
         "totalCostC": 47899,
         "psa10ValueC": 120032,
         "ratio": 2.505939581202113
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "336326710237",
+          "title": "CGC 10 GEM MINT Dodrio 2005 EX Emerald 26/106 Reverse Holo Stamped Pokemon CardOpens in a new window or tab",
+          "priceC": 39900,
+          "shippingC": 0,
+          "landedC": 39900,
+          "url": "https://www.ebay.com/itm/336326710237?_skw=%28dodrio%29+%2826%2Cemerald%29+%28CGC%2CPSA%29&epid=2314420160&itmmeta=01M0W18TSXK6B9E1RDQW15MAR2&hash=item4e4ea253dd:g:0pEAAeSwjpFpMHuL&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDn0%2BPrpJfpkQxOJ0BEplzwfFme7A21so099m9cP6zwFGKk2%2FamXQU29m09MSMdGyv0klrw7Rn8Odr2Tr95arx%2BUMSLWGIWRrq6tUjcCRa9EnscxY8knqikS0YMBkc6MUE8GFawRjgcfrBFACYB%2FnigoaF%2FD97jAQo1QMrTyBkOu40S8uhmxtsZQupdDS3TGgH4m3FNqgsdasf9Im%2FzYFHvg9T%2BMGVZmYoOq2dFnGuAyJ0O5gP1rCIkLN5o5NvVTPIWpYRYQiv1uxjVvfpjEfl7%7Ctkp%3ABk9SR6Sto4GHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/0pEAAeSwjpFpMHuL/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787064622165,
+          "lastSeen": 1787677571153
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 39900,
+          "submissionFeeC": 7999,
+          "totalCostC": 47899,
+          "psa10ValueC": 120032,
+          "ratio": 2.505939581202113
+        },
+        "firstOpportunityAt": 1787064622165
       },
       "firstOpportunityAt": 1787064622165,
       "updatedAt": 1787677571153
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/1AwAAeSwJk1p8SA9/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/cuEAAOSwVL5gMCb0/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0pEAAeSwjpFpMHuL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153

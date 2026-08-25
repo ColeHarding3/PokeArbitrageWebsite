@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2212,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/1ZsAAeSw9SVqh4ax/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787299540326,
         "lastSeen": 1787677529172
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/b7EAAeSwrhNqYaiJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787579290352
@@ -83,6 +85,41 @@
         "totalCostC": 860497,
         "psa10ValueC": 694652,
         "ratio": 0.8072683577049078
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "820028741463",
+          "title": "Pokémon TCG Gengar 48/165 Expedition Reverse Holo CGC 10 (2002) Low PopOpens in a new window or tab",
+          "priceC": 800000,
+          "shippingC": 597,
+          "landedC": 800597,
+          "url": "https://www.ebay.com/itm/820028741463?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379238&itmmeta=01M0VZ46BJYENGY487Y7V9YV1G&hash=itembeed859757:g:1ZsAAeSw9SVqh4ax&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC2l2EWF4JaB%2BXPacC6XY8XeCnChPKfdGWg%2Bl7hRKrFErAcEnnauNPm8f6dhBsnV%2B0Wa%2BwklSk7SyKF%2B91kelvFjZknAEguNek5o20bAUKC9ofOmZOMWjlHGO8LiW8%2FiSzQ6pd7K3%2BWft006wSU82A%2BIS6u69qJEcMTLpldapo0DuDVN%2BQKnioS2r5gba7CXj3KnrTTx7j2XBi8h5ZgNhGvyj7EZnZNkYZ4RNPqTbGeIZOlV%2FjJsooOmWdxxMNfAp5ti8HlwyukndU%2BagTAWcb6UdkUFHI2tLP6sbBgx4koyQj2NwgK2GqBpgnN6R96QUbv%2B%2FtdET05Be%2BXEZ3BbzJV%7Ctkp%3ABk9SR4bmkP-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/1ZsAAeSw9SVqh4ax/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787299540326,
+          "lastSeen": 1787677529172
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 800597,
+          "submissionFeeC": 59900,
+          "totalCostC": 860497,
+          "psa10ValueC": 694652,
+          "ratio": 0.8072683577049078
+        },
+        "firstOpportunityAt": 1787299540326
       },
       "firstOpportunityAt": 1787299540326,
       "updatedAt": 1787677529172
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/b7EAAeSwrhNqYaiJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787579290352
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/b7EAAeSwrhNqYaiJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787645049763,
         "lastSeen": 1787677529172
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/1ZsAAeSw9SVqh4ax/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787299540326,
         "lastSeen": 1787677529172

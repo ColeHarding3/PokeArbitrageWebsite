@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 12781,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PwkAAeSwVjtqfLb9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498
@@ -70,6 +71,41 @@
         "totalCostC": 95899,
         "psa10ValueC": 285500,
         "ratio": 2.9770904806098084
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287520981542",
+          "title": "Pokemon Torchic Great Encounters 89/106 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 60000,
+          "shippingC": 999,
+          "landedC": 60999,
+          "url": "https://www.ebay.com/itm/287520981542?_skw=%28torchic%29+%2889%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=20043376208&itmmeta=01M0W3PVBTKBYE73ACFTW80DWN&hash=item42f1960226:g:PwkAAeSwVjtqfLb9&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCKlOesIM2dtlLieVMaqYEvQb96kEX4JtPu40M7zM2XiO3aDONqlusvBpQRkUYcNsorZiGNot4b6hfHqH2%2Fbs%2B2tmiZ8FzcOyWYlEAZND%2BeBpto8LCGNFdWE70lfouf6m5QS%2BL6h%2F7h7ChjW6uTBzgYTdvUtU0TVTj5T4R0kBWfFHxuRNd82JXWAK9mo2FGF%2BXRBn3yYMVa3mP5e65IBWRNAoYb5Cy4lIjYRHrwwEQF0URO3vHgEkwDSG7ZPGClA9bzc1jmUSKdHBzX5pphKTvKo%2F5Ych3HVS3qPa4AFE%2FOxkLJzj28l72HLJ91AAFUiTexTamCeYsyqN0ty1OW7UI4%7Ctkp%3ABk9SR6i224OHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/PwkAAeSwVjtqfLb9/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787220584144,
+          "lastSeen": 1787677523498
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 60999,
+          "submissionFeeC": 34900,
+          "totalCostC": 95899,
+          "psa10ValueC": 285500,
+          "ratio": 2.9770904806098084
+        },
+        "firstOpportunityAt": 1787220584144
       },
       "firstOpportunityAt": 1787220584144,
       "updatedAt": 1787677523498
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PwkAAeSwVjtqfLb9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/uU0AAeSwag5qKtIE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1542,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/pAgAAeSwCqtqh20A/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787298591537,
         "lastSeen": 1787677586318
@@ -70,6 +71,41 @@
         "totalCostC": 154900,
         "psa10ValueC": 317773,
         "ratio": 2.0514719173660425
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "278299944108",
+          "title": "Pokemon Poliwrath Neo Discovery 1st Edition Holo #9 CGC 10 Gem Mint SwirlOpens in a new window or tab",
+          "priceC": 120000,
+          "shippingC": 0,
+          "landedC": 120000,
+          "url": "https://www.ebay.com/itm/278299944108?_skw=%28poliwrath%29+%289%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=2314419945&itmmeta=01M0VXJ3GWKZTH6BPQS00DT9HW&hash=item40cbf824ac:g:pAgAAeSwCqtqh20A&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCt%2BaOIR3B9OQ%2FeYerBg2SE%2FF%2FshA8QlcUbj1wkQ2usdESH%2FfyCQovA2g9Vd75BNAMCt56De%2B7vuJuE9qGslHVPxZXRJgwQYHZjVuZF0webnhSQvOax%2FKXNZGabmORnNlysyHfAN7vCKdlmKHGPF%2Btx2bFKOnPutR6QThLJfN%2Frxm58Bt7ITCW9GDrdD32wXWqc2TYD8MCQepK2QcyfikrGeV0i5Fpqzn41fM4wRNcEmCQ0DgYuJt1CxdVCOommDyxs8fYR%2BYWRL76yerZP4i3ncY9JuRJhxWrCm%2Fk%2Ft%2BJRlA%3D%3D%7Ctkp%3ABk9SR-C4yP2GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/pAgAAeSwCqtqh20A/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787298591537,
+          "lastSeen": 1787677586318
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 120000,
+          "submissionFeeC": 34900,
+          "totalCostC": 154900,
+          "psa10ValueC": 317773,
+          "ratio": 2.0514719173660425
+        },
+        "firstOpportunityAt": 1787298591537
       },
       "firstOpportunityAt": 1787298591537,
       "updatedAt": 1787677586318
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/pAgAAeSwCqtqh20A/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787298591537,
         "lastSeen": 1787677586318
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CPIAAeSwn75qPBen/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787047017265,
         "lastSeen": 1787677586318

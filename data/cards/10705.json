@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 10705,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/1vYAAeSwHO1qidAP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787474806975,
         "lastSeen": 1787677540433
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/QVEAAeSwmH9p4oVo/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/AnwAAeSwrsFqWZU0/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -96,6 +99,41 @@
         "totalCostC": 67400,
         "psa10ValueC": 280275,
         "ratio": 4.158382789317508
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "227369256227",
+          "title": "2005 POKEMON UNSEEN FORCES REVERSE HOLO #7 HOUNDOOM CGC 10Opens in a new window or tab",
+          "priceC": 90000,
+          "shippingC": 597,
+          "landedC": 90597,
+          "url": "https://www.ebay.com/itm/227369256227?_skw=%28houndoom%29+%287%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=26043383618&itmmeta=01M0W1DMQ875FTE04779KP4594&hash=item34f0438523:g:XZcAAeSwt5tqMv0I&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBdalm50cEPU5ZjeWPpRAp76lgMKHkctYwglzlqFAqk7v3MaQqOET94ew2M0xpzO2Yf0Jmrn%2BtyUsFEPtIzHFL8DFcbT97WkK9SCVGRA7CLYaMNvP0bplq8FYcWkZinmUMqi%2Bfm33BOF3WsTJEvcLQ0z1%2Fzp11BdZNFRBtZzbLwZeGGsIVVqlIYvz3zpICO7%2Fxtux63jgsvY6rqHwR95BKeIL2chBsFTZPPv6%2Bd%2BdQE8vDbbanmgbpxuWfkRCuhwovgsmm2Gqi5YXIQzWiUtahSWKAzRf7MgFujM6iznhZhNOf4dfg7Bi1eOd8laMma%2BFY%3D%7Ctkp%3ABk9SR_rLtoGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/XZcAAeSwt5tqMv0I/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787215619257,
+          "lastSeen": 1787677540433
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 90597,
+          "submissionFeeC": 34900,
+          "totalCostC": 125497,
+          "psa10ValueC": 280275,
+          "ratio": 2.233320318413986
+        },
+        "firstOpportunityAt": 1787215619257
       },
       "firstOpportunityAt": 1787474806975,
       "updatedAt": 1787677540433
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/1vYAAeSwHO1qidAP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787474806975,
         "lastSeen": 1787677540433
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/AnwAAeSwrsFqWZU0/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/XZcAAeSwt5tqMv0I/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/QVEAAeSwmH9p4oVo/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433

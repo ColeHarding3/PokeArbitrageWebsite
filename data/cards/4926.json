@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4926,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/XnMAAeSwOgVqN1ag/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/y8sAAeSwzp1p12ru/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -83,6 +85,41 @@
         "totalCostC": 47570,
         "psa10ValueC": 100000,
         "ratio": 2.102165230187093
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "117260303973",
+          "title": "Pokemon Drowzee 67/113 Reverse Holo EX Delta Species CGC 10 Low Pop Gem MintOpens in a new window or tab",
+          "priceC": 38999,
+          "shippingC": 572,
+          "landedC": 39571,
+          "url": "https://www.ebay.com/itm/117260303973?_skw=%28drowzee%29+%2867%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383508&itmmeta=01M0W1NBT23R0BH1JMDN0EXY7F&hash=item1b4d423e65:g:XnMAAeSwOgVqN1ag&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xApsWANFnG509%2BXCfZVd7Yo0IEGdu%2FA%2B5HSWGYvUKy7DE7ZPLupC1Ht4Wl7%2FgGwvYG4k0eK49YAaVEz0ODFVn2YfKdu2vAib%2Fuseg3vzVZGjknkAgzvJO9xf9UvuIZ4j2KUyNncdDjSnccSaFsQQcLZA9walwDidjZC7j3M1ggMN1Dsfs1LI6IDsOkpPqZv4arDsUmIhLQKc%2FxMni%2BH7%2B0vTyutL3KzztM6cGSHwyapL7HTRCUZ5O%2BSJCypbiPgsdYCImO05tJ0wwSQzzCTG%2BMxM5APkIrJ8K8BMaMWVK%2F5PHpUyI5JE9cHtA%2BMOJh5Nv0%3D%7Ctkp%3ABk9SR-S91YGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/XnMAAeSwOgVqN1ag/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787089625972,
+          "lastSeen": 1787677542417
+        },
+        "cgc10Bin": 3,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 39571,
+          "submissionFeeC": 7999,
+          "totalCostC": 47570,
+          "psa10ValueC": 100000,
+          "ratio": 2.102165230187093
+        },
+        "firstOpportunityAt": 1787089625972
       },
       "firstOpportunityAt": 1787089625972,
       "updatedAt": 1787677542417
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/XnMAAeSwOgVqN1ag/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8gEAAeSwz6xqLcPz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/3jsAAeSwJVVp~pit/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/y8sAAeSwzp1p12ru/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417

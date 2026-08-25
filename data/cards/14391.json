@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 14391,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7-sAAOSwfFRmCIF9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787223812447,
         "lastSeen": 1787677603428
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ydUAAeSwRi9qUXaw/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220917787,
         "lastSeen": 1787677603428
@@ -83,6 +85,13 @@
         "totalCostC": 70845,
         "psa10ValueC": 385000,
         "ratio": 5.434399040158092
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": null,
+        "cgc10Bin": 0,
+        "cgc10Auction": 0,
+        "ratio": null,
+        "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787223812447,
       "updatedAt": 1787677603428
@@ -113,6 +122,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7-sAAOSwfFRmCIF9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787223812447,
         "lastSeen": 1787677603428
@@ -127,6 +137,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ydUAAeSwRi9qUXaw/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220917787,
         "lastSeen": 1787677603428
@@ -141,6 +152,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/NuEAAeSwe4RqZiRq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787223812447,
         "lastSeen": 1787677603428

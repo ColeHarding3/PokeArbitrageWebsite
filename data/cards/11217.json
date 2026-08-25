@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11217,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/xGEAAOSwdRplnMVZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/dlwAAeSw0olqLonH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -83,6 +85,41 @@
         "totalCostC": 12099,
         "psa10ValueC": 115000,
         "ratio": 9.504917761798495
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "389925298589",
+          "title": "Lairon 38/92 Legend Maker Stamp Reverse Holo Pokemon CGC 10Opens in a new window or tab",
+          "priceC": 88800,
+          "shippingC": 0,
+          "landedC": 88800,
+          "url": "https://www.ebay.com/itm/389925298589?_skw=%28lairon%29+%2838%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=17043371996&itmmeta=01M0W1WJMJ8YD1WC4SVV0W8FXE&hash=item5ac95be19d:g:a9gAAeSw5zhp6TMf&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAFgAypIKJ5hevhVuPUqQ2nkfyGGK1h7h6JGvAInSebofY%2B7OtxI5mAj%2BCoXc8KPyjA6unZ8RhQZe93HtaQ2Kqof3tVCddwTY7G9HHBwesMva0WKf8OVEaAouq82zX3Z7zWOihZiEVf6ZAIROy4FidbAdg13PZgHe67ke5wu8XpULELX2anxTwrDk8IilN8pooAfdW2nmREdUfkKk3f%2BZ41Dfly61LB8KMGzQCuafocaoMVnNL3agcVrk48VJpe%2Ba1Pe%2BNe5F5fKItQoPdR46e%2F2HyeUFd8IJcEUFDOI9zCwKcmseVwNI7Vr%2BREt6H76Is%3D%7Ctkp%3ABk9SR86q8oGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/a9gAAeSw5zhp6TMf/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787216884103,
+          "lastSeen": 1787677544402
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 88800,
+          "submissionFeeC": 7999,
+          "totalCostC": 96799,
+          "psa10ValueC": 115000,
+          "ratio": 1.1880288019504335
+        },
+        "firstOpportunityAt": 1787216884103
       },
       "firstOpportunityAt": 1787216884103,
       "updatedAt": 1787677544402
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/xGEAAOSwdRplnMVZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/dlwAAeSw0olqLonH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/a9gAAeSw5zhp6TMf/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BmgAAeSwNtJpwv5I/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402

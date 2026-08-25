@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2983,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/z8IAAeSwHWVqHD0v/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/UjAAAeSwK8xqb8uk/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/EeoAAeSw0XBqWP8X/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -96,6 +99,41 @@
         "totalCostC": 42598,
         "psa10ValueC": 135000,
         "ratio": 3.1691628714963143
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "178180542653",
+          "title": "Houndour CGC 10 Skyridge Reverse Holo 66/144 New CertOpens in a new window or tab",
+          "priceC": 31235,
+          "shippingC": 3364,
+          "landedC": 34599,
+          "url": "https://www.ebay.com/itm/178180542653?_skw=%28houndour%29+%2866%2Cskyridge%29+%28CGC%2CPSA%29&epid=20052755917&itmmeta=01M0VZT7JJTMZGWTN5HKV76GHV&hash=item297c6350bd:g:z8IAAeSwHWVqHD0v&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAOGr0FwXTXyUiFJuAUMd33qrce8dERg7uiuNjM7DG5So5WTMu8C4b4YRmyCI74CdaELQcRE6gy5FW8Q%2FdVq1NWzGq2UzXRVe6Gbv%2FbLMk7rvB7GlzahXyg0HxH4QEND0RBwYYgiELqNRtmqT9d0g%2BWiGYbeuxjnuLUdyVIq63d6CyNJFAq%2BO%2FrX7W%2BDRDl7X1PNvK9eNAPBzze979AXOEOYQypVlkNCCkN4WRNmVmvmMxsDQlpABEZtOQGdAJ9%2BYwvTZ58ZddiAuPtbVpECkGY%7Ctkp%3ABk9SR8L56P-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/z8IAAeSwHWVqHD0v/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787055777278,
+          "lastSeen": 1787677537341
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 34599,
+          "submissionFeeC": 7999,
+          "totalCostC": 42598,
+          "psa10ValueC": 135000,
+          "ratio": 3.1691628714963143
+        },
+        "firstOpportunityAt": 1787055777278
       },
       "firstOpportunityAt": 1787055777278,
       "updatedAt": 1787677537341
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/z8IAAeSwHWVqHD0v/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/EeoAAeSw0XBqWP8X/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/UjAAAeSwK8xqb8uk/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341

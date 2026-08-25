@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4270,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/l64AAeSwPZZqMCQ-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/WT4AAeSwFARqPEcg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -83,6 +85,41 @@
         "totalCostC": 43698,
         "psa10ValueC": 135000,
         "ratio": 3.089386241933269
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287396674982",
+          "title": "Pokemon Jumpluff EX Team Rocket Returns 11/109 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 35000,
+          "shippingC": 699,
+          "landedC": 35699,
+          "url": "https://www.ebay.com/itm/287396674982?_skw=%28jumpluff%29+%2811%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=11043365805&itmmeta=01M0W0Y4QX3KF0ZP087B60PETX&hash=item42ea2d3da6:g:l64AAeSwPZZqMCQ-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA1VzLGujwygWt%2FIGByhy%2FcbJBaJOdtNOW2QelxIhjIb3JpTnThqwet4PpPbnOBMRbG75jTujyiy74z%2Fwzfu9HrVjnIuDC8uJnR6%2BhUDP9I9jz3tx5uiNz%2B0b7RpWUiJuVpntuavtqXfV%2BluIzwtprSTqiPbGluSHsJ%2BdWJh3vtFzZPRoLT6R7Se%2FCBd4fU0tPN5KD%2B%2BEv7SGJp%2BhaY59kTOVUM%2FH8MBkpgtxYFYYQsvO5XyQw3Ae7egWYJtC2hbzLlzJVNm4oiLwR4%2Bz%2BKKpRl3PRmHhi%2F3qgZiW7Qj0TuDQ%3D%3D%7Ctkp%3ABk9SR5rM-ICHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/l64AAeSwPZZqMCQ-/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787214401857,
+          "lastSeen": 1787677567103
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 35699,
+          "submissionFeeC": 7999,
+          "totalCostC": 43698,
+          "psa10ValueC": 135000,
+          "ratio": 3.089386241933269
+        },
+        "firstOpportunityAt": 1787214401857
       },
       "firstOpportunityAt": 1787214401857,
       "updatedAt": 1787677567103
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/WT4AAeSwFARqPEcg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/l64AAeSwPZZqMCQ-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/WZgAAeSwbp5qhSld/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103

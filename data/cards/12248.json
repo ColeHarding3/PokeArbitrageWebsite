@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 12248,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/lQwAAOSwG85m4Xgz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/j0wAAeSw8OVqaiua/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -83,6 +85,41 @@
         "totalCostC": 114899,
         "psa10ValueC": 350000,
         "ratio": 3.046153578360125
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "235739392011",
+          "title": "Uxie 18/123 D&P Mysterious Treasures Holo Rare Vintage Pokemon TCG Card CGC 10Opens in a new window or tab",
+          "priceC": 79999,
+          "shippingC": 0,
+          "landedC": 79999,
+          "url": "https://www.ebay.com/itm/235739392011?_skw=%28uxie%29+%2818%2Cmysterious%2Ctreasures%29+%28CGC%2CPSA%29&epid=3043380542&itmmeta=01M0W39KF9N7MY1ZBX2EB0AYG2&hash=item36e329a80b:g:lQwAAOSwG85m4Xgz&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAZegRFxbmNwP8ipJkJKeiaugh%2BwNN%2FXyKHSn%2FZk9%2FYJevAGBp0jDIA%2BcyQtbj0ia0%2BPbtt0hhGsZX8Cy7fXHEHk5QrY2qGhAaKoU6kWYZ8n6d0NiD9EKGCDD%2FO7Jq7A9vlMsHaI5IOeG49uXMo5wuHWE%2B9YNRdaIwajm65kEyZKEN%2FQCIxuwZBqsfTLxp5tTDV6ronI8UhBqTlvrEXloPCUwCqMjMqYwru%2BLqeMif696LfFRyy2FW0rHh389d0FCLfi0cfdXmMEEqPdgGulXFkfUec0WPp3E5hPVbBa2tXf8isPSIXUDXCyULx%2F%2Bz2WxkRsZTTaZOMHYEDBhCaoeRX%7Ctkp%3ABk9SR_a3poOHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/lQwAAOSwG85m4Xgz/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787220120669,
+          "lastSeen": 1787677520812
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 79999,
+          "submissionFeeC": 34900,
+          "totalCostC": 114899,
+          "psa10ValueC": 350000,
+          "ratio": 3.046153578360125
+        },
+        "firstOpportunityAt": 1787220120669
       },
       "firstOpportunityAt": 1787220120669,
       "updatedAt": 1787677520812
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/j0wAAeSw8OVqaiua/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/f-oAAeSwOzVqGyxO/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/lQwAAOSwG85m4Xgz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812

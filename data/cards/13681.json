@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 13681,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/aJ4AAeSwysJqBk4f/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787222267288,
         "lastSeen": 1787677597946
@@ -70,6 +71,41 @@
         "totalCostC": 535499,
         "psa10ValueC": 305000,
         "ratio": 0.5695622214047085
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "306939316948",
+          "title": "2009 POKEMON PLATINUM REVERSE HOLO #96/127 SQUIRTLE CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 500000,
+          "shippingC": 599,
+          "landedC": 500599,
+          "url": "https://www.ebay.com/itm/306939316948?_skw=%28squirtle%29+%2896%2Cplatinum%29+%28CGC%2CPSA%29&epid=8043377634&itmmeta=01M0W4FP4MAXBA3T9VM7G33HDA&hash=item4777024ad4:g:aJ4AAeSwysJqBk4f&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBSUMA7rSZVZ73ybAkTmslA0r88DTv9CguR%2BnSXmF7O4mDeb2cMZmm0uHIl7YAUpaobx1g4YURw0ixPURHDbtGUOREB%2FgQmbrS3LZ4MorfpjF2YbvI%2BYV1z4Xv0dw%2BWLjho5yr4HjptqEz44d6NOI3U6jqtocsSqNAVsRppVoSouK8A1ueHXfEAnOPTfy1rBKkZSOag%2B5BYdMpWm9Ryn523EEKraLjurOIOV9XFPyEYKzzudPqj%2BnbOMEO6GID%2Fp1k3yH1ZnP4djBEeMwuZrAX6047s8JA%2BiTVNqoCSPBvcxvCyJaTUhn4Fl3CpxwEd59Y%3D%7Ctkp%3ABk9SR8rivoSHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/aJ4AAeSwysJqBk4f/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787222267288,
+          "lastSeen": 1787677597946
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 500599,
+          "submissionFeeC": 34900,
+          "totalCostC": 535499,
+          "psa10ValueC": 305000,
+          "ratio": 0.5695622214047085
+        },
+        "firstOpportunityAt": 1787222267288
       },
       "firstOpportunityAt": 1787222267288,
       "updatedAt": 1787677597946
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/aJ4AAeSwysJqBk4f/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787222267288,
         "lastSeen": 1787677597946

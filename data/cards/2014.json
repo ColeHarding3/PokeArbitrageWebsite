@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2014,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/~n4AAeSwd4NpRth7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/oncAAeSwKzZqX3DF/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ThwAAeSwSkloohyD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -96,6 +99,41 @@
         "totalCostC": 195395,
         "psa10ValueC": 370937,
         "ratio": 1.8983955577164207
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "366070464018",
+          "title": "Pokemon Legendary Kabutops Reverse Holo Card CGC 10 27/110 CollectionOpens in a new window or tab",
+          "priceC": 159500,
+          "shippingC": 995,
+          "landedC": 160495,
+          "url": "https://www.ebay.com/itm/366070464018?_skw=%28kabutops%29+%2827%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=4043368064&itmmeta=01M0VYJAWG65AFX6DEJJPN4TAE&hash=item553b7ffe12:g:~n4AAeSwd4NpRth7&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBmFPg3vYqzziSix6ZJWC4y8YKZYuDU5Jepkn6sjoE%2FPBOtKvQkOtxySUYvTM0eljxhvOWIPqtf%2FzK5fhRsolbb0cnp70xkeeLZ1pzttHUsB%2FJSik0juHCID1P5ixsr7qRon7b%2B5y1iCQ3bJyxqz9eHHlaUEHYzJNZsbY%2B2rTG9DooQ%2FIeWGrXAVsY10J09Pz%2FKSZqs%2BBxz8b7m8HWy7U9ayj%2BgqSoIgFg38XBfVQYMC0gRgB4h%2FprsqzPcl9y3sGgjJyUNjthxhmMbO%2BAuVKk4LznH673RPu%2FRyAKwXo%2BKEg%3D%3D%7Ctkp%3ABk9SR7Suyf6GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/~n4AAeSwd4NpRth7/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787050911353,
+          "lastSeen": 1787677514144
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 160495,
+          "submissionFeeC": 34900,
+          "totalCostC": 195395,
+          "psa10ValueC": 370937,
+          "ratio": 1.8983955577164207
+        },
+        "firstOpportunityAt": 1787050911353
       },
       "firstOpportunityAt": 1787050911353,
       "updatedAt": 1787677514144
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/~n4AAeSwd4NpRth7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ThwAAeSwSkloohyD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FqcAAeSwN9RqRqlv/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/oncAAeSwKzZqX3DF/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -182,6 +224,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wqQAAeSwLTxpzaey/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2471,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/OM4AAeSw4C1qjOGL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787645487343,
         "lastSeen": 1787677535654
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/X30AAeSwTpVqBjQJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -83,6 +85,41 @@
         "totalCostC": 350472,
         "psa10ValueC": 1650450,
         "ratio": 4.709220708073683
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "820043648048",
+          "title": "Nidoking Aquapolis Holo H18/H32 Gem mint CGC 10 Pokémon TCG POP 16Opens in a new window or tab",
+          "priceC": 250000,
+          "shippingC": 572,
+          "landedC": 250572,
+          "url": "https://www.ebay.com/itm/820043648048?_skw=%28nidoking%29+%28150%2Caquapolis%29+%28CGC%2CPSA%29&epid=5043380929&itmmeta=01M0VZFQYB814AZ6NV7T1ZYN98&hash=itembeee690c30:g:OM4AAeSw4C1qjOGL&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xANdNq7Hkvo%2FCAUbdxogaErpiuwFaXoacQHbF3RQMKxp6KRhKoOjqy%2FNX10KQhXob7SDUjfj9%2B5niHG4ogC73meOTKJHbr5ZAIhVxSAwJYoL6mseo6Gcr2BHfKFknF76tMOY%2FmIMO9eNXt1QluTxn8t0GKXR0VokT4P9MG3hIP4h2O%2FU6pLWadiB8CB1sqpqs3uzzbE%2FUSRIwDNz3qkNfFAZxb9zli5jA4W2jbdJzgjUDJAyM6wBav9bhAP%2BHfe8Mk2ioG1Vr4uDxn6Nw4nqrXK%7Ctkp%3ABk9SR8D_vv-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/OM4AAeSw4C1qjOGL/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787645487343,
+          "lastSeen": 1787677535654
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium1",
+            "label": "Premium 1",
+            "feeC": 99900,
+            "declaredValueCapC": 2500000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 250572,
+          "submissionFeeC": 99900,
+          "totalCostC": 350472,
+          "psa10ValueC": 1650450,
+          "ratio": 4.709220708073683
+        },
+        "firstOpportunityAt": 1787645487343
       },
       "firstOpportunityAt": 1787645487343,
       "updatedAt": 1787677535654
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/X30AAeSwTpVqBjQJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/WywAAeSwc1ppWsh7/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/TPkAAeSw8fdqdh3r/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787472174178,
         "lastSeen": 1787677535654
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/OM4AAeSw4C1qjOGL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787645487343,
         "lastSeen": 1787677535654

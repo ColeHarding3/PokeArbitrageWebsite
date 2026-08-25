@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 12976,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Xw4AAeSwU7hqcozN/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220917787,
         "lastSeen": 1787677524308
@@ -57,6 +58,27 @@
         "psa9Bin": 0
       },
       "ratio": null,
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "366586951971",
+          "title": "Pokemon TCG Articuno Holo 1/100 Majestic Dawn 2008 CGC 10 Gem Mint POP 4 TOP POPOpens in a new window or tab",
+          "priceC": 1500000,
+          "shippingC": null,
+          "landedC": null,
+          "url": "https://www.ebay.com/itm/366586951971?_skw=%28articuno%29+%281%2Cmajestic%2Cdawn%29+%28CGC%2CPSA%29&epid=11043365336&itmmeta=01M0W3WEC5VYBM97K29HR0W7FY&hash=item555a48f923:g:Xw4AAeSwU7hqcozN&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCcqISKERd6arcVRDysD3mktLma8hmg3csGgGL18xs0Retd0UV9%2FjMlSkPGJBbe753z%2FvsNJzrwasD5a5Px2Typ8lh8vNRlhix7J%2F3ZbMZifNoOBLoUe1P5gpukb4hJaxBXKqunYtBjIOrw%2Bx2gv6TIG68VW1Ic47TrzD533P7Y7Xg%2BYCnQCDVXKJClfidvxq1UvYc3NGx%2FgumOXJLe0WZKisDaweeucP1Ns6jgeu44%2BXJs5rQ3zm33I4JM8h4zWUtAemlQcRjQnGUzmuaGLsm3Dg8T6jQzSUvwpGh8LhAwBw%3D%3D%7Ctkp%3ABk9SR6Dm8YOHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/Xw4AAeSwU7hqcozN/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787220917787,
+          "lastSeen": 1787677524308
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": null,
+        "firstOpportunityAt": 1787220917787
+      },
       "firstOpportunityAt": 1787220917787,
       "updatedAt": 1787677524308
     },
@@ -86,6 +108,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Xw4AAeSwU7hqcozN/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220917787,
         "lastSeen": 1787677524308

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2066,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/2PsAAeSw3DRp1JaN/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ZAkAAeSw0-xqaqQn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -83,6 +85,41 @@
         "totalCostC": 314700,
         "psa10ValueC": 355000,
         "ratio": 1.1280584683825865
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "117129788925",
+          "title": "2002 POKEMON LEGENDARY (COLLECTION) METAPOD REVERSE FOIL CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 279800,
+          "shippingC": 0,
+          "landedC": 279800,
+          "url": "https://www.ebay.com/itm/117129788925?_skw=%28metapod%29+%2854%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369915&itmmeta=01M0VYK0JXBNRDZFC3M4RR6CG6&hash=item1b457abdfd:g:2PsAAeSw3DRp1JaN&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAezanOVwitUlIVujTepTQfFlyoIPz1TdycqguciJpNq3nMq4%2BFlBfd8pht9S3yeDPUIGBKHlhWSSgyaIfj3kM6fA%2F%2BmBWlzp1kLgWbOuZkUNnZImSOv30h6NHYuJ8qMo2dNVsRmDc5%2FlULPGv0kiKIt%2Bqb%2BBjRhtN1nVaJJHaJdGnSo03jmXJ8L0l7qjb3yFnm%2Bo3tshOXPl3XUWjc9u%2BtaVCM44wDvonlJZULDbCAkjOJnB4orkdHUXflxz96Pl6iCg6aWMGDRHf4oyKw8VDw%2FNBFzpubf9z83hgPTGjgow%3D%3D%7Ctkp%3ABk9SR7qKzP6GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/2PsAAeSw3DRp1JaN/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787050911353,
+          "lastSeen": 1787677514144
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 279800,
+          "submissionFeeC": 34900,
+          "totalCostC": 314700,
+          "psa10ValueC": 355000,
+          "ratio": 1.1280584683825865
+        },
+        "firstOpportunityAt": 1787050911353
       },
       "firstOpportunityAt": 1787050911353,
       "updatedAt": 1787677514144
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ZAkAAeSw0-xqaqQn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/h50AAOSw89NiUZ01/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7BEAAeSwrsFqUTjF/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/LUEAAeSwjIZo4ArP/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/2PsAAeSw3DRp1JaN/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144

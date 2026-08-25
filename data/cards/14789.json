@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 14789,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/THUAAeSwiwRqB2og/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224417682,
         "lastSeen": 1787677580385
@@ -70,6 +71,41 @@
         "totalCostC": 360800,
         "psa10ValueC": 565000,
         "ratio": 1.5659645232815964
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "406929261454",
+          "title": "Raikou Suicune Legend Unleashed Top 92 Heartgold Soulsilver CGC10(Not PSA)Opens in a new window or tab",
+          "priceC": 299900,
+          "shippingC": 1000,
+          "landedC": 300900,
+          "url": "https://www.ebay.com/itm/406929261454?_skw=%28raikou%2Csuicune%2Clegend%29+%2893%2Cunleashed%29+%28CGC%2CPSA%29&epid=3043379718&itmmeta=01M0W5M0NCSZNJ0R495477DHG1&hash=item5ebedfc38e:g:THUAAeSwiwRqB2og&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDuLRVWnAougPHexdr45tJdsNZwYbblW7HOqufTtzgbG9IYNO2CmEnkWB3YSfHHFhRgFDNQ8tBO%2BJISIHbdKgkh4wwo8n7aAIRN5oN9ZYXCw1UB0QuZBlFh0KaKfPqb21nwfO7c5NLUiGyT1Lhkee2V600rp9cEfWjbG91ajZ%2BQ6IkLtqBSywtMSk957MLQOWYZtGHVN8fu7jZ4Xl6hq2tDd7fUyGtJ5KLn7LGXuCOt%2Fjerx7BRvKJKSHkppbKMehre4zTL3y0snxXLzDCdeSAowDAV6OHvzFXF8k%2FI2a4fzQ%3D%3D%7Ctkp%3ABk9SR4yL0IWHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/THUAAeSwiwRqB2og/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787224417682,
+          "lastSeen": 1787677580385
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 300900,
+          "submissionFeeC": 59900,
+          "totalCostC": 360800,
+          "psa10ValueC": 565000,
+          "ratio": 1.5659645232815964
+        },
+        "firstOpportunityAt": 1787224417682
       },
       "firstOpportunityAt": 1787224417682,
       "updatedAt": 1787677580385
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/THUAAeSwiwRqB2og/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224417682,
         "lastSeen": 1787677580385

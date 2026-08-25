@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4128,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/25AAAeSwnmZqJLP-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/RPQAAeSwTFBqFItt/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -83,6 +85,41 @@
         "totalCostC": 310471,
         "psa10ValueC": 537129,
         "ratio": 1.7300456403335578
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "178199151388",
+          "title": "Team Rocket Returns Reverse Holo Stamped Rocket’s Meowth 46/109 CGC 10Opens in a new window or tab",
+          "priceC": 249999,
+          "shippingC": 572,
+          "landedC": 250571,
+          "url": "https://www.ebay.com/itm/178199151388?_skw=%28rockets%2Cmeowth%29+%2846%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=21043375930&itmmeta=01M0W0ZNCZ3SETDRMAQP62WW63&hash=item297d7f431c:g:25AAAeSwnmZqJLP-&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAqO6c6WNeqxZ%2FEZp6fUafeZOEcNrHDvRtj5kZTP4UX0VViK0clgLkXquOYusiphTeiav%2B%2Fe9Q2adufintNNpyurd0I9w6jc%2BJO4LvXvKhnz4NKSquLvlCMygSHNWkX26myrcTeF8XeA7k6eFeuK6uxKLHM9vOCUU4f%2Fi6qSovMwoVd7zWFRhcJb4KdANllIF3gMVTNJh%2FeSLyPmJQWIhLgbHL1zsc9N9%2B3mkNp7DwyO%2FiNrF0U7jTBxB4SVOdPpEgwBjKGF9izMb6MLRxaSNHO3dFW4Q9%2B8yVGBrVRr60f8xNuPeTg9H5jbeq5tCDEIqWaB5xWY6RfmXzJuKgNjrBH%7Ctkp%3ABk9SR-LW_oCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/25AAAeSwnmZqJLP-/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787214401857,
+          "lastSeen": 1787677567103
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 250571,
+          "submissionFeeC": 59900,
+          "totalCostC": 310471,
+          "psa10ValueC": 537129,
+          "ratio": 1.7300456403335578
+        },
+        "firstOpportunityAt": 1787214401857
       },
       "firstOpportunityAt": 1787214401857,
       "updatedAt": 1787677567103
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/RPQAAeSwTFBqFItt/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/25AAAeSwnmZqJLP-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/RoIAAeSwz~xo9U1Z/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103

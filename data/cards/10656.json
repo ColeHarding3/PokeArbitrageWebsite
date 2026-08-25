@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 10656,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/44sAAeSw459qciMz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ng0AAeSw1-lpk-rq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -70,6 +72,27 @@
         "psa9Bin": 4
       },
       "ratio": null,
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "158154109201",
+          "title": "Pokemon Gold Star Entei 113/115 - CGC 10 GEM MINT - EX Unseen Forces Holo Rare!Opens in a new window or tab",
+          "priceC": 350000,
+          "shippingC": null,
+          "landedC": null,
+          "url": "https://www.ebay.com/itm/158154109201?_skw=%28entei%2Cgold%2Cstar%29+%28113%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=2314420668&itmmeta=01M0W1DCWN457VEHHJGHXQFJHC&hash=item24d2b83111:g:44sAAeSw459qciMz&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAZueXks4D1XnWK1Nf90tKLu4KhIAQljFxugucpvs8Ytp3KYKngEtD7JIIGeq2r8S0vb0qh5%2BEb4U%2BHxRf6bHa810jGtWyKkbR2g%2FbMkd3QSWyqKuR1PL1k7KMTPYkhzD3SLbz4c%2FtBHZ8%2FXKGrxPwiCVkJh9eJJz0obBYHj7XbVQj2KwNBrZ%2BzQLQDNMgAYNO05ONlz9TNNw5CGpnXK3svMHuxpIeaLAkrXqspEk%2BT2TbP8W0oTB%2BXBd2PY%2FqsfK9%2Fncr0Rr52uIDqj7F%2F2FQ610p%2FXrckHHU9RWwOXHDpI2ESS7xAWPkW%2BgD%2Boppv9rcAt9aeIsH%2FRRXw5mTTLBjF%7Ctkp%3ABk9SR7zOtYGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/44sAAeSw459qciMz/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787215619257,
+          "lastSeen": 1787677540433
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": null,
+        "firstOpportunityAt": 1787215619257
+      },
       "firstOpportunityAt": 1787215619257,
       "updatedAt": 1787677540433
     },
@@ -99,6 +122,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ng0AAeSw1-lpk-rq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -113,6 +137,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/S6sAAeSwIGNqglFj/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -127,6 +152,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/44sAAeSw459qciMz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -141,6 +167,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/KzMAAeSw69pqg2kT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -155,6 +182,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MJoAAeSw6glqgYD1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433

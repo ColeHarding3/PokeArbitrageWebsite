@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2871,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BCMAAeSwetpqSAnf/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wCYAAeSwiC9qGmT3/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -83,6 +85,41 @@
         "totalCostC": 107899,
         "psa10ValueC": 100350,
         "ratio": 0.9300364229510931
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "327245412928",
+          "title": "CGC 10 GEM MINT Vaporeon 33/144 Skyridge Reverse Holo Pokemon CardOpens in a new window or tab",
+          "priceC": 99900,
+          "shippingC": 0,
+          "landedC": 99900,
+          "url": "https://www.ebay.com/itm/327245412928?_skw=%28vaporeon%29+%2833%2Cskyridge%29+%28CGC%2CPSA%29&epid=17043371243&itmmeta=01M0VZS9Q3AT0JH0695R3Y0Z4E&hash=item4c3158ba40:g:BCMAAeSwetpqSAnf&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDeR5OHbW08vdGYRhRdJAVmS5ls8hVe5bsPnWzI49FAHzUtl%2BXcTdkCwDQkX3ZnNtYPnKmUSVGfcgG98zb2v9sv2J2T78m6zJBxJ7kLw3I9cP6CuRkm2y0SQvur%2FuDQiuj%2FyP19A5%2BtVWqRwV2wkMJWH1ZNSB0wgt6F1%2FHctaB0g29HEuNm7tSzdGmS8qfaqlG0Ll637Xoz6sepEwpSTimIMv65x%2Bab5fzkpRJKwMofuPbXXIytTslSX7qH0WKUezT4oO2T4%2Fu8lEWfwe9uJdO2N0nQAN136b0UfbqW6RtvZTNaBWbPjsU5t7h%2BFvCwG%2BE%3D%7Ctkp%3ABk9SR-ab5f-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/BCMAAeSwetpqSAnf/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787055777278,
+          "lastSeen": 1787677537341
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 99900,
+          "submissionFeeC": 7999,
+          "totalCostC": 107899,
+          "psa10ValueC": 100350,
+          "ratio": 0.9300364229510931
+        },
+        "firstOpportunityAt": 1787055777278
       },
       "firstOpportunityAt": 1787055777278,
       "updatedAt": 1787677537341
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BCMAAeSwetpqSAnf/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wCYAAeSwiC9qGmT3/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/xL0AAeSwk8ZqVR~P/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341

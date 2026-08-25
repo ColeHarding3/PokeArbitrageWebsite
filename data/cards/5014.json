@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5014,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HxoAAeSwxahqB3yZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
         "lastSeen": 1787677545935
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/9SMAAeSwx7pqaFun/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
         "lastSeen": 1787677545935
@@ -83,6 +85,41 @@
         "totalCostC": 359899,
         "psa10ValueC": 727500,
         "ratio": 2.021400448459151
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "267670789778",
+          "title": "CGC 10 Rayquaza 16/110 Holo Ex Holon Phantoms Delta Species Pokemon CardOpens in a new window or tab",
+          "priceC": 299999,
+          "shippingC": 0,
+          "landedC": 299999,
+          "url": "https://www.ebay.com/itm/267670789778?_skw=%28rayquaza%2Cdelta%29+%2816%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043384134&itmmeta=01M0W22TQF87JRNEA4JCFBHT7Z&hash=item3e526c1e92:g:HxoAAeSwxahqB3yZ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBiKkQF5M2YQT6FVKV6Eno9qaXJCsuMfSNmWxWhp4IcOvO8%2BgmbK5X3tcK0pSkNyosbtECMmIK%2FGH0rAFoJWs7Z8dr%2FeyM5nR%2B%2FAqb4GpCgZ%2FzTdo54QAUkk9z1hVcGnmyzZIpi1rPTwPEKQBawKr2Oj0vG9JZibVgSO%2FrbMK7EIeDjtJ4Thyg41Ajm1cuHbFCGEZ%2FfBiYFZAQpXHHoHvWd2pN2ufm76eSDTz3dorwEj%2FgQkqkvdvq6hkxyh3uGd7O5HJzKtpMFF3sdX3osJLy5rEO%2B9STf%2BnuYaIZMDGH3bBMEOZVQR50YG07r8dW%2B%2BoXstOpp7VI0OxRp9MGGtMGw%7Ctkp%3ABk9SR4ysi4KHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/HxoAAeSwxahqB3yZ/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787092753589,
+          "lastSeen": 1787677545935
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 299999,
+          "submissionFeeC": 59900,
+          "totalCostC": 359899,
+          "psa10ValueC": 727500,
+          "ratio": 2.021400448459151
+        },
+        "firstOpportunityAt": 1787092753589
       },
       "firstOpportunityAt": 1787092753589,
       "updatedAt": 1787677545935
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/9SMAAeSwx7pqaFun/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
         "lastSeen": 1787677545935
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0CQAAeSwARVqZZzR/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
         "lastSeen": 1787677545935
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HxoAAeSwxahqB3yZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
         "lastSeen": 1787677545935
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/32cAAeSw0KVqi7kX/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560642844,
         "lastSeen": 1787677545935
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/RFAAAeSwajBp3HTH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
         "lastSeen": 1787677545935

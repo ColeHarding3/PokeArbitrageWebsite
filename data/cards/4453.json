@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4453,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fwgAAeSwrLtqSByU/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -70,6 +71,41 @@
         "totalCostC": 82998,
         "psa10ValueC": 112639,
         "ratio": 1.3571290874478903
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287436285673",
+          "title": "2005 Pokémon Feebas 50/106 EX Emerald Reverse Holo Stamped CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 74999,
+          "shippingC": 0,
+          "landedC": 74999,
+          "url": "https://www.ebay.com/itm/287436285673?_skw=%28feebas%29+%2850%2Cemerald%29+%28CGC%2CPSA%29&epid=16043369442&itmmeta=01M0W18RZBWX40V1HWAX00R09Q&hash=item42ec89a6e9:g:fwgAAeSwrLtqSByU&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xB554FX%2Ff4bO2L%2FS3Bw5WqtWq4gFYCj4cUuo0fAcRs0ijwnw6YH0HMR%2F7PQ%2BXO3TBMBphbqMt3koPFuxVp82xI%2B%2F13eBYKevdgCT2CNP1KzYlaMc7I%2BbJohO4lEn8ZiEO56%2BA%2B0s2n5q0nGNayEuqMjOljnn9229BeizhFeHeZbMH3hZccySUWEBl38XlslrBBGKCeWg3ET5ewQntI47%2FYdAZN7oH6lqZTwaZWJwU9LDh9iLucSMH6li82Anw0tTDolYYHdfNWx12242csget9P%7Ctkp%3ABk9SR_iPo4GHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/fwgAAeSwrLtqSByU/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787064622165,
+          "lastSeen": 1787677571153
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 74999,
+          "submissionFeeC": 7999,
+          "totalCostC": 82998,
+          "psa10ValueC": 112639,
+          "ratio": 1.3571290874478903
+        },
+        "firstOpportunityAt": 1787064622165
       },
       "firstOpportunityAt": 1787064622165,
       "updatedAt": 1787677571153
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fwgAAeSwrLtqSByU/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153

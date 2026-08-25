@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4197,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/jbsAAeSw0mNp~aef/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BAgAAeSwjRtqeVIS/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -83,6 +85,41 @@
         "totalCostC": 65745,
         "psa10ValueC": 164618,
         "ratio": 2.5038862270895126
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "327140876502",
+          "title": "Pokemon Sandshrew EX Team Rocket Returns Reverse Holo #74 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 49900,
+          "shippingC": 945,
+          "landedC": 50845,
+          "url": "https://www.ebay.com/itm/327140876502?_skw=%28sandshrew%29+%2874%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=16043370011&itmmeta=01M0W0YBXE009F4DNKF80WY5BT&hash=item4c2b1da0d6:g:jbsAAeSw0mNp~aef&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCojtSVZ7nYtMmLzxkEnffRuXBVnh1j9rwHWzZQi0ezA%2FyDof%2FR%2F6RSoamuGZlkk4QQ7o3uKg6eygbn6Xnw3XNl9ntO1ktSlOjXSOQXEhVfBGRq39xzojt455il4pWNZbng9F%2FpUUj9JAbSFMe98DuAmKG%2BhJb1%2BmyMGJT%2BX1oRXJ5bPBBBNdO6oTuIP%2FuM2WQSQl6p1o8wo3VDjVNXjdK7oCuLiOIYfj7jvC8sF32GlzbdmdYTT%2BFNeH2e0juf%2BH6RDa2dfKV6o%2BuxYmlAUlx6KMllML1nOogCvKRMKVo9CA%3D%3D%7Ctkp%3ABk9SR46_-YCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/jbsAAeSw0mNp~aef/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787214401857,
+          "lastSeen": 1787677567103
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 50845,
+          "submissionFeeC": 14900,
+          "totalCostC": 65745,
+          "psa10ValueC": 164618,
+          "ratio": 2.5038862270895126
+        },
+        "firstOpportunityAt": 1787214401857
       },
       "firstOpportunityAt": 1787214401857,
       "updatedAt": 1787677567103
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BAgAAeSwjRtqeVIS/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/jbsAAeSw0mNp~aef/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103

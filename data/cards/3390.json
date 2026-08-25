@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3390,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fUgAAeSwEChqWNdE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558720761,
         "lastSeen": 1787677560195
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/okUAAeSw~Bdpvy1L/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677560195
@@ -83,6 +85,41 @@
         "totalCostC": 108998,
         "psa10ValueC": 129639,
         "ratio": 1.1893704471641682
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287465909853",
+          "title": "Pokemon Magcargo ex EX Dragon 95/97 Holo CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 100000,
+          "shippingC": 999,
+          "landedC": 100999,
+          "url": "https://www.ebay.com/itm/287465909853?_skw=%28magcargo%29+%2895%2Cdragon%29+%28CGC%2CPSA%29&epid=18043373796&itmmeta=01M0W0897H6ZNT7MYXWP0PA4Y6&hash=item42ee4dae5d:g:fUgAAeSwEChqWNdE&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAw0989qd2y9Etw4jpssOMukIvupIKhJCcexE6a8PsY%2FEQ7SOlA5c4bnc2sBRbFtMxMF5gXTO7pEkNFjbyKOT2GSOkZ%2BHOMsdiQMeXx7HkEya8n8XTpQdg2oE4v1tD0RkSTdSBxDgnzkWfBX6qB89oi5ZloeBgGmfN3N%2Fq01eDb37p0zMzdDFVO8cCyB6acV9OTw%2Fqedyshygmaahi96S%2Bim2uonaLl5nlLRGsulZSqe01i%2B60uRzr%2Bm8o6EI7yYxcPciz0U%2Bed0cN20PjRmt%2BGwJvlJUW78cUbYMnabOwLcq0spHVObTjSaNJzYo0jZJc%3D%7Ctkp%3ABk9SR4SUoYCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/fUgAAeSwEChqWNdE/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787558720761,
+          "lastSeen": 1787677560195
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 100999,
+          "submissionFeeC": 7999,
+          "totalCostC": 108998,
+          "psa10ValueC": 129639,
+          "ratio": 1.1893704471641682
+        },
+        "firstOpportunityAt": 1787558720761
       },
       "firstOpportunityAt": 1787558720761,
       "updatedAt": 1787677560195
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/okUAAeSw~Bdpvy1L/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677560195
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/g2UAAeSwxChp-Vpc/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677560195
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7gMAAeSwcQBqXJ~I/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677560195
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/jl8AAeSw2SRqf-1x/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677560195
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fUgAAeSwEChqWNdE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558720761,
         "lastSeen": 1787677560195

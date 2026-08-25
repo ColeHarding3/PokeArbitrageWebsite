@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 13457,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fiIAAeSw3XppO6Fe/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787221548490,
         "lastSeen": 1787677527314
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/D1IAAeSwrBNqa9tV/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787221548490,
         "lastSeen": 1787677527314
@@ -83,6 +85,41 @@
         "totalCostC": 157998,
         "psa10ValueC": 135582,
         "ratio": 0.8581247863897011
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "167997770302",
+          "title": "CGC 10 Raichu 8/100 Holo Stormfront Pokemon Card 2008Opens in a new window or tab",
+          "priceC": 149999,
+          "shippingC": 0,
+          "landedC": 149999,
+          "url": "https://www.ebay.com/itm/167997770302?_skw=%28raichu%29+%288%2Cstormfront%29+%28CGC%2CPSA%29&epid=8043378298&itmmeta=01M0W4AC9FB2WKGX0VQK2S7DTJ&hash=item271d728a3e:g:fiIAAeSw3XppO6Fe&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDuoyW6AB1PhaRIhhy9c%2B2L7LOf6vAzBZCvLWFPbygLoeqDEJv9ZCTnGzAIb4WdwvPghfGWAp6GxafvPHcNaMQqOiGkXFE8eJsCze%2F1b0RtWq8ERCq2nAgZ%2Bacy1BrnZbyi07XKZgGDaPd3Mvm20ys8e8edLJQkxroOUfE3eHtziLFzFXLISMyvouAwVWcvJKjR5q7vEiZbJV1GFLTMOQeaq7P%2BLIG%2BP5fgKDquL8Um5TI6LkhErsMJVzhb1sG91FSGubP6quHQiAJ21QxssRVf%7Ctkp%3ABk9SR_zEqYSHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/fiIAAeSw3XppO6Fe/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787221548490,
+          "lastSeen": 1787677527314
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 149999,
+          "submissionFeeC": 7999,
+          "totalCostC": 157998,
+          "psa10ValueC": 135582,
+          "ratio": 0.8581247863897011
+        },
+        "firstOpportunityAt": 1787221548490
       },
       "firstOpportunityAt": 1787221548490,
       "updatedAt": 1787677527314
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/D1IAAeSwrBNqa9tV/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787221548490,
         "lastSeen": 1787677527314
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-~kAAeSwDCFqVtnT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787221548490,
         "lastSeen": 1787677527314
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fiIAAeSw3XppO6Fe/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787221548490,
         "lastSeen": 1787677527314

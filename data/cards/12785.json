@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 12785,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7~kAAeSwUg1p4Fqh/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/V8kAAeSw17BqXoov/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/WmMAAOSw6oxnBFiN/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498
@@ -96,6 +99,41 @@
         "totalCostC": 106999,
         "psa10ValueC": 111561,
         "ratio": 1.0426359124851634
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "389895964529",
+          "title": "2008 Pokemon Porygon2 49/106 STAFF PRERELEASE CGC 10 GEM Great Encounters STAMPOpens in a new window or tab",
+          "priceC": 99000,
+          "shippingC": 0,
+          "landedC": 99000,
+          "url": "https://www.ebay.com/itm/389895964529?_skw=%28porygon2%29+%2849%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=24048447296&itmmeta=01M0W3PXC510CW1VQBCD2ASZ0M&hash=item5ac79c4771:g:7~kAAeSwUg1p4Fqh&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB3IUYPPLpedPAF1K45S4%2FWXUeN9LwCfAHimDVQBXUMMlohG%2BY2S3%2F3swi%2FzYtfegDHhwmB2eqA8cUqKzmcSRbDURg9UtbSDzPqzbNDavTOMTso0vo9RsNa%2BkMvpkp1q7%2FdSzlTsm0UedTSdMXITIXMLzTa%2FDNeu5kRx7gTTG%2Fctl198IqWQJG2Ikxloe8QQDksRSFiA5UtXIbt3MUzD%2B56dKZxDg9cku7tKKkQau4fg1N5vK9EgsK5v5uKyX52dCnZ8iQKjsizclSVZ296%2FEQ4zZRK8OMNbKrX0cr3ZX99wLh5i4SM%2FEHb%2BCl4EYTnXQA0jv1kHRtuDGO44TBU2wr0%7Ctkp%3ABk9SR6bW24OHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/7~kAAeSwUg1p4Fqh/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787220584144,
+          "lastSeen": 1787677523498
+        },
+        "cgc10Bin": 3,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 99000,
+          "submissionFeeC": 7999,
+          "totalCostC": 106999,
+          "psa10ValueC": 111561,
+          "ratio": 1.0426359124851634
+        },
+        "firstOpportunityAt": 1787220584144
       },
       "firstOpportunityAt": 1787220584144,
       "updatedAt": 1787677523498
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/WmMAAOSw6oxnBFiN/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7~kAAeSwUg1p4Fqh/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/d7AAAeSw7DBqi5fp/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787649853172,
         "lastSeen": 1787677523498
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-qcAAeSw7x1ppznT/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498
@@ -182,6 +224,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/V8kAAeSw17BqXoov/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 14612,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/TVkAAeSwWyhp0qrV/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224259777,
         "lastSeen": 1787677578594
@@ -70,6 +71,41 @@
         "totalCostC": 62989,
         "psa10ValueC": 416800,
         "ratio": 6.6170283700328625
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "397805762529",
+          "title": "2010 Wobbuffet 13/123 Holo Pokemon TCG HeartGold & SoulSilver CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 27500,
+          "shippingC": 589,
+          "landedC": 28089,
+          "url": "https://www.ebay.com/itm/397805762529?_skw=%28wobbuffet%29+%2813%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=19043375861&itmmeta=01M0W5FD61VW4K41CFTADNMAA1&hash=item5c9f1237e1:g:TVkAAeSwWyhp0qrV&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAyUoapsPmsF%2FuVZR3lPwykwrVdIXCW2uR%2FyZYWdJH%2FIUn1jSbfWTE6Z%2FwRHf3jVt111NRDWC1L3sc%2Fniqs7pDNaUh5%2FVLQIM6PtSNg6cLLg2L7fNU5HbgjuPFYWYfhVmU23Xp8tefncIrGcNVCeMTrX%2FTfvvG5ovdoMr5UWCFUbPRl3%2FHWwz3LGYOG1uNKG5sAqPAKTAEPpYZ%2BoSeBEElZ5XDXYnQ2eRgzetEBwR2AC%2Bn%2F6V11aW9C5Uewolo7%2FCDr1zJFPxFACC0xx9wev--nIktgB06GfECS%2FcDjavrBWzjc31At09uEiwo6zaPXRZsZW0lrRhQ0xS%2FnKhArq%2Bom%7Ctkp%3ABk9SR5bTvYWHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/TVkAAeSwWyhp0qrV/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787224259777,
+          "lastSeen": 1787677578594
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 28089,
+          "submissionFeeC": 34900,
+          "totalCostC": 62989,
+          "psa10ValueC": 416800,
+          "ratio": 6.6170283700328625
+        },
+        "firstOpportunityAt": 1787224259777
       },
       "firstOpportunityAt": 1787224259777,
       "updatedAt": 1787677578594
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/TVkAAeSwWyhp0qrV/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224259777,
         "lastSeen": 1787677578594

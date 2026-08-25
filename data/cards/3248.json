@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3248,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BX4AAeSw6A5qaosu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -70,6 +71,41 @@
         "totalCostC": 53096,
         "psa10ValueC": 105675,
         "ratio": 1.9902629199939732
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "168573908179",
+          "title": "CGC 10 Gem Mint Dusclops 4/100 Sandstorm Holo Pokemon Opens in a new window or tab",
+          "priceC": 44500,
+          "shippingC": 597,
+          "landedC": 45097,
+          "url": "https://www.ebay.com/itm/168573908179?_skw=%28dusclops%29+%284%2Csandstorm%29+%28CGC%2CPSA%29&epid=19043376512&itmmeta=01M0W045ARBB5YP4EX10C5V8EP&hash=item273fc9b4d3:g:BX4AAeSw6A5qaosu&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBImeRqh%2FV%2B8f0RmdkwWfWipz2mMie1jFSou1BXGLUk%2Bbxv427rYloRSbPTeXWbE0Cwatx0knyzezwRammbCxRYW8%2BMh%2BqA3L6Rlw6Y1irNoI%2B7dv6rQcFF1X87q1NUyxlmTpIjkEwqyenSTLutrstGCjUWsffQhjLrMrH5EtQPy5G3QuYWi40qNRZcm96qhE1lO7GGpPd8mPOyuZto1x5jiO3XwMHni5kPTvVGHbijBHb2uc932vfiB%2BDQcLRKLyDlyXeSIfl4joiXAKyGRdpE%7Ctkp%3ABk9SR9LVkICHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/BX4AAeSw6A5qaosu/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787057553322,
+          "lastSeen": 1787677559236
+        },
+        "cgc10Bin": 3,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 45097,
+          "submissionFeeC": 7999,
+          "totalCostC": 53096,
+          "psa10ValueC": 105675,
+          "ratio": 1.9902629199939732
+        },
+        "firstOpportunityAt": 1787057553322
       },
       "firstOpportunityAt": 1787057553322,
       "updatedAt": 1787677559236
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BX4AAeSw6A5qaosu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ccgAAeSwkN9qVYdw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787646090671,
         "lastSeen": 1787677559236
@@ -128,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/RXMAAeSwiglqRzC-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236

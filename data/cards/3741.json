@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3741,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CBUAAeSwpfRqa6CD/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/mzMAAeSwzOhqZs7f/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-3AAAeSwKNZqPP0m/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -96,6 +99,41 @@
         "totalCostC": 108998,
         "psa10ValueC": 139999,
         "ratio": 1.2844180627167472
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287493408007",
+          "title": "Pokemon Jigglypuff EX Hidden Legends 63/101 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 100000,
+          "shippingC": 999,
+          "landedC": 100999,
+          "url": "https://www.ebay.com/itm/287493408007?_skw=%28jigglypuff%29+%2863%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=26043383361&itmmeta=01M0W0HSJT0CFEQ2EZSXE65B04&hash=item42eff14507:g:CBUAAeSwpfRqa6CD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBJ%2BzLFX0ampe%2Fk6qKQqcXRKiLMWRYY9vfLfGo5h0IU%2FfxiLbK5X0EMYALiIT6wBzFSeQ59iPjeucbHSrSYhkXDOzin9yBtpSmnGQL%2BE42Uc1mf5vx7CdqCgZ5CfmJlkOOpa%2Ba15iI5V3Q%2FX89FCXI8XYSlcCiLrHzhClSeDqzvbrQn2F9S3GMXRR4QMA%2Bu82EzJ5Vd2jPooSIMZq1UI7qhoJGn7xR6KB%2FOkloUAmE5Us3trwRYnrA8IcoBic3V1qqVNo2tidwH1%2FwjPeZ6aUcVwFblIQP%2BhtxWe6e2pDjYAQ%3D%3D%7Ctkp%3ABk9SR9CZx4CHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/CBUAAeSwpfRqa6CD/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787060323903,
+          "lastSeen": 1787677563415
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 100999,
+          "submissionFeeC": 7999,
+          "totalCostC": 108998,
+          "psa10ValueC": 139999,
+          "ratio": 1.2844180627167472
+        },
+        "firstOpportunityAt": 1787060323903
       },
       "firstOpportunityAt": 1787060323903,
       "updatedAt": 1787677563415
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-3AAAeSwKNZqPP0m/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CBUAAeSwpfRqa6CD/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/mzMAAeSwzOhqZs7f/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415

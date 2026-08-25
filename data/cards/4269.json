@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4269,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/YlgAAeSwSFFqVZdw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/RMcAAOSwOExnKrEf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -83,6 +85,41 @@
         "totalCostC": 115472,
         "psa10ValueC": 164700,
         "ratio": 1.42631980047111
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "407071133757",
+          "title": "CGC 10 Remoraid EX Team Rocket Returns 73/109 Reverse Holo Stamped Pokemon CardOpens in a new window or tab",
+          "priceC": 100000,
+          "shippingC": 572,
+          "landedC": 100572,
+          "url": "https://www.ebay.com/itm/407071133757?_skw=%28remoraid%29+%2873%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=13043374602&itmmeta=01M0W0YWJ0TFXJ1N35DQKNN21B&hash=item5ec754903d:g:YlgAAeSwSFFqVZdw&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAACmWHBeQHVS9jSV0Z%2BUiVqW6bCACTxfi9ZJRd5xjWHQke41E%2Bl75n1faKu3Pbl%2BHUApgWHMCIwY371t4KueCeUa4r2Ev7LK11AMJHQ3PTjrq0uLp10PuJeInq6tczgXRp1HcdZiXyKKHTFdOVKN91WG9BrMMFFlHbqgQOnRzhvh8UVvFJGZsbXuGpkLzfDm2bSCN6wet8CqfpfPr%2F5yfaE6xvZrK3jhIJTWB%2BuQ4Ahn8jhxbI4htqq4gWxKRUAdEp%2FTJEUUz0U0HfkcKRXpp2fvzohKBReFYDgQh5CKWM7A%3D%3D%7Ctkp%3ABk9SR5rJ-4CHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/YlgAAeSwSFFqVZdw/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787214401857,
+          "lastSeen": 1787677567103
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 100572,
+          "submissionFeeC": 14900,
+          "totalCostC": 115472,
+          "psa10ValueC": 164700,
+          "ratio": 1.42631980047111
+        },
+        "firstOpportunityAt": 1787214401857
       },
       "firstOpportunityAt": 1787214401857,
       "updatedAt": 1787677567103
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/RMcAAOSwOExnKrEf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/YlgAAeSwSFFqVZdw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103

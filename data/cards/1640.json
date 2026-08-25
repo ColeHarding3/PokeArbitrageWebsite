@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1640,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/9BUAAeSwBO5qjMN0/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787643825961,
         "lastSeen": 1787677588973
@@ -70,6 +71,41 @@
         "totalCostC": 153899,
         "psa10ValueC": 316877,
         "ratio": 2.0589932358234946
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "336759706343",
+          "title": "CGC 10 GEM MINT Celebi Neo Revelation 3/64 Holo Pokemon CardOpens in a new window or tab",
+          "priceC": 118999,
+          "shippingC": 0,
+          "landedC": 118999,
+          "url": "https://www.ebay.com/itm/336759706343?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M0VXTWHTRKSPHD4KCTJNF527&hash=item4e687152e7:g:9BUAAeSwBO5qjMN0&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDYaWXWKOKsgZOuwdg1unSaJz5zSLrkI7xGXxdNIpSpZR0%2FQWshjo405Djl2fYhbNSG8xGPjXAdoJadYyhTCfk9444lSjj2jMNyFI7zaPFfKHvofHJiaCFcsT3D2AYMRM78h6DF2qFNgOZmwvP%2BpogiOlmUjw5e6mGDelL7sz0S%2Bfx7T7bZycbhQq6mTSZXg4UkpyJPzy9pKNTK5WtDKILvz3giaEtmLZP2%2BbmfFhZCOq55MNJPjwpvqqzgq44mJ99%2B2uTnFQq9%2BJ92VlZGZ95suy0xQvB%2FCg8cNMaROlZO8Q%2FDu7hd8%2FZFMhDdKLhFuXyGA%2BP6%2B%2Fjsee6Rvy7bLxD0%7Ctkp%3ABk9SR6TJ6_2GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/9BUAAeSwBO5qjMN0/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787643825961,
+          "lastSeen": 1787677588973
+        },
+        "cgc10Bin": 3,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 118999,
+          "submissionFeeC": 34900,
+          "totalCostC": 153899,
+          "psa10ValueC": 316877,
+          "ratio": 2.0589932358234946
+        },
+        "firstOpportunityAt": 1787643825961
       },
       "firstOpportunityAt": 1787643825961,
       "updatedAt": 1787677588973
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/9BUAAeSwBO5qjMN0/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787643825961,
         "lastSeen": 1787677588973
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/~jcAAeSwb-JqDzO2/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787384323776,
         "lastSeen": 1787677588973
@@ -128,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/U-kAAeSwDwtpjM~B/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787048058606,
         "lastSeen": 1787677588973
@@ -142,6 +181,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/W54AAeSwzOhqZ9uJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094602715,
         "lastSeen": 1787677588973

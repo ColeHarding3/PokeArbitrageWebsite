@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3567,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BqwAAeSw6z9p6-JX/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/gwQAAeSw2DJqjPN~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787646402069,
         "lastSeen": 1787677561772
@@ -83,6 +85,41 @@
         "totalCostC": 210899,
         "psa10ValueC": 256500,
         "ratio": 1.216221983034533
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287292342683",
+          "title": "Pokemon Jirachi EX Team Magma Vs Aqua Holo Rare #97 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 175000,
+          "shippingC": 999,
+          "landedC": 175999,
+          "url": "https://www.ebay.com/itm/287292342683?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0W0CAVPPTPJYRSCKDTKSA5F&hash=item42e3f5419b:g:BqwAAeSw6z9p6-JX&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCTz2Fwo7HbRgWyWbPFs9cnPA7E599cfhmwuDAbeYNByj8VZgjKKyQQQ3ZoB36SGa1bDJV61b2%2BcFzaogkGmkY%2Bam%2BUSbJafNmp9sTOJLLjsvjGma2Lq510Bk2SCM97OkVLPN8YqNpPRU4o0M0oecYXqhOoaNRqEkY4WB9nHvZ4y9pvIUMmiAeMrj6ltj9kVWCrfl1arlO5dt%2BjMhXHEKcBl6wBj02aTw3t9YSbhmuzlw%2BRWDe3t3algI7%2FwVQrq7yQY%2FM6BK6100kqkoID6ZYbrg%2BQ3D%2FfN6ttqlFbiOjycPPIXKhNOnMoIekBnFyQMFU%3D%7Ctkp%3ABk9SR4iusYCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/BqwAAeSw6z9p6-JX/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787059396087,
+          "lastSeen": 1787677561772
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 175999,
+          "submissionFeeC": 34900,
+          "totalCostC": 210899,
+          "psa10ValueC": 256500,
+          "ratio": 1.216221983034533
+        },
+        "firstOpportunityAt": 1787059396087
       },
       "firstOpportunityAt": 1787059396087,
       "updatedAt": 1787677561772
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/gwQAAeSw2DJqjPN~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787646402069,
         "lastSeen": 1787677561772
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CEgAAeSwo4NqckNH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/kWcAAeSw4VVqV69T/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BqwAAeSw6z9p6-JX/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772

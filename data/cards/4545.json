@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4545,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5RYAAeSwMndqWxLx/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/3eQAAeSw92lqhI7l/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214704655,
         "lastSeen": 1787677569729
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Z0EAAeSwWEBqdBG8/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -96,6 +99,41 @@
         "totalCostC": 58596,
         "psa10ValueC": 118948,
         "ratio": 2.029967915898696
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "257627247850",
+          "title": "Pokemon Corphish 57/107 Deoxys Reverse Holo CGC 10Opens in a new window or tab",
+          "priceC": 50000,
+          "shippingC": 597,
+          "landedC": 50597,
+          "url": "https://www.ebay.com/itm/257627247850?_skw=%28corphish%29+%2857%2Cdeoxys%29+%28CGC%2CPSA%29&epid=3043380093&itmmeta=01M0W1476T97KVA2PG01KFRE72&hash=item3bfbc7d4ea:g:5RYAAeSwMndqWxLx&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBOxa45DU3eQFVB6ReqWXWaMeUFNPm1IwIXGcJvyJNGgqQW%2FOYrKkgQ4%2FFJbVVjDagwVjkY4tDVKkSuB0P%2BySOYNJhaJosf9ixhFyo2BIvQtGbnvIdkSx7Q8MmePrTiLS7RBGZ2HU1LXojrEh5fpdPKy00KZMAWv3iaXKkkHLTxUWLYLcqQZAzCGhLvT5%2FKMSmwdPTzLFSKXoLFb%2FAQ1qMZ1PImtwp1zw3N5oSNS1FaZh7nOHQJws0%2B6Hg5NkXY588j%2BifIo8SRASBE2KCffrVa%7Ctkp%3ABk9SR9LzkIGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/5RYAAeSwMndqWxLx/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787066511306,
+          "lastSeen": 1787677569729
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 50597,
+          "submissionFeeC": 7999,
+          "totalCostC": 58596,
+          "psa10ValueC": 118948,
+          "ratio": 2.029967915898696
+        },
+        "firstOpportunityAt": 1787066511306
       },
       "firstOpportunityAt": 1787066511306,
       "updatedAt": 1787677569729
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Z0EAAeSwWEBqdBG8/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5RYAAeSwMndqWxLx/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/vyMAAeSw4J9pxLdS/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/3eQAAeSw92lqhI7l/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214704655,
         "lastSeen": 1787677569729

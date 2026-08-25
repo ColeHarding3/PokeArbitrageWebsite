@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 29,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MFwAAeSwOjlqgOiG/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
         "lastSeen": 1787677491340
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ypUAAOSwwiNnLVpz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
         "lastSeen": 1787677491340
@@ -83,6 +85,41 @@
         "totalCostC": 859900,
         "psa10ValueC": 876886,
         "ratio": 1.0197534597046167
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "198573828151",
+          "title": "CGC 10 GEM MINT Zapdos 16/102 Base Set 1st Edition Shadowless Holo Pokemon CardOpens in a new window or tab",
+          "priceC": 800000,
+          "shippingC": 0,
+          "landedC": 800000,
+          "url": "https://www.ebay.com/itm/198573828151?_skw=%28zapdos%29+%2816%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=15043377122&itmmeta=01M0VVQ4BPBQ3QCV1DB1T4ASSP&hash=item2e3bec2837:g:MFwAAeSwOjlqgOiG&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCBCtCoFWmc7bzXmK3AagauCtN9z3oq5PSqZMepqM5VmztsTANfwTtwD161IbTUnw4gEHaE342MtEOR1CPI6Mk6%2BRCAmajmyIJ%2Fc7BeBvkZ7phTCdGHQA7Qu7UIyfPMxYNzt6nuAyRY%2BW21tLjNGtw6XTIXhn623fVZRQ6pgSdo24%2BN1%2F3DbnlbFYQBXdgwApEk5%2FcnK9ITc1qQPzfjBCH2JZ%2FgE302KZ%2BWrps4duX28tI0WFgUm6q%2Fbtwl3EDfY7t2VGKPzCi15u3%2B8Yly04lx%7Ctkp%3ABk9SR5LG3PuGaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/MFwAAeSwOjlqgOiG/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787038168986,
+          "lastSeen": 1787677491340
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 800000,
+          "submissionFeeC": 59900,
+          "totalCostC": 859900,
+          "psa10ValueC": 876886,
+          "ratio": 1.0197534597046167
+        },
+        "firstOpportunityAt": 1787038168986
       },
       "firstOpportunityAt": 1787038168986,
       "updatedAt": 1787677491340
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MFwAAeSwOjlqgOiG/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
         "lastSeen": 1787677491340
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ypUAAOSwwiNnLVpz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
         "lastSeen": 1787677491340
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-RQAAOSwVrlnsSe8/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
         "lastSeen": 1787677491340

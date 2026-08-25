@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 14376,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/vkEAAeSwdJpqaWZu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220917787,
         "lastSeen": 1787677603428
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/KMgAAeSwKA1qTgsG/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220917787,
         "lastSeen": 1787677603428
@@ -83,6 +85,41 @@
         "totalCostC": 8059900,
         "psa10ValueC": 863007,
         "ratio": 0.10707415724760853
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "358856312100",
+          "title": "2008 Pokemon Diamond & Pearl Majestic Dawn #98 Glaceon LV.X-Holo CGC 10 POP 2Opens in a new window or tab",
+          "priceC": 8000000,
+          "shippingC": 0,
+          "landedC": 8000000,
+          "url": "https://www.ebay.com/itm/358856312100?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=8043378166&itmmeta=01M0W57M5F41XF573T78F7VAGT&hash=item538d80c524:g:vkEAAeSwdJpqaWZu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDenqfarpQKtWiJAfgFcwOqEW9taRBfRns2%2Bp6Ief5u4i0kURaA%2FEeyf4dMVBkDM8Dbqz%2B3gbR74OmM6%2FlMBT5PgHyDey5qFSQO%2ByS92MSV2msX5hV7CPZC5Lns3Rc%2B%2BP4IYFdPLc0P4J8EDxgFqWpIG%2BJwLk6IOb6yWEtiSA1yo2CmovxWZLyZ%2BotCdjP52eT2%2F15lj86kO30PAJfR0GR2GehTqrtLJHct3N3lBksZMqI%2FelcpzM0%2BgHuVBkxiuYCu8BKGE8juFmUmt6avx%2FqRefaB0PsiAqPEkTQ7v0op0A%3D%3D%7Ctkp%3ABk9SR_zCnoWHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/vkEAAeSwdJpqaWZu/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787220917787,
+          "lastSeen": 1787677603428
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 8000000,
+          "submissionFeeC": 59900,
+          "totalCostC": 8059900,
+          "psa10ValueC": 863007,
+          "ratio": 0.10707415724760853
+        },
+        "firstOpportunityAt": 1787220917787
       },
       "firstOpportunityAt": 1787220917787,
       "updatedAt": 1787677603428
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/KMgAAeSwKA1qTgsG/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220917787,
         "lastSeen": 1787677603428
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/vkEAAeSwdJpqaWZu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220917787,
         "lastSeen": 1787677603428

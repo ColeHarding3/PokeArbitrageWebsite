@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11081,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ehoAAeSwjURpXZtK/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/dIgAAeSwZpxpX0v7/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FMEAAeSwuTdqiraE/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560344224,
         "lastSeen": 1787677544402
@@ -96,6 +99,41 @@
         "totalCostC": 400900,
         "psa10ValueC": 1410000,
         "ratio": 3.517086555250686
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "406564000692",
+          "title": "Pikachu 2006 EX Legend Maker 93/92 Holo CGC 10 Gem Mint SwirlOpens in a new window or tab",
+          "priceC": 300000,
+          "shippingC": 1000,
+          "landedC": 301000,
+          "url": "https://www.ebay.com/itm/406564000692?_skw=%28pikachu%2Cdelta%29+%2893%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=15043377001&itmmeta=01M0W1V2WSZYEXF66FT0YWN6NF&hash=item5ea91a53b4:g:ehoAAeSwjURpXZtK&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBzMyjwOJPVgmSzBwglCTKfbSx%2BxSm7OOkTFYV5kRMcP%2FZHdTATfgYOIv%2FOe5S%2FCbzK2HmKTxfIkCqywN8s5obe7ypk8ggzDgP9DVnyRFjzy6amVFmB4X060Iao9TyJFUfeQ0dJ1Gbkwr5jVAbJItQtpZcAkBiIymGU%2Fht0NVuTU%2B6ZRUmsdNShT%2BvGiGTnTY3AAiqUjTNbMbeZilq4PclxVpxJv1ry42vMVptZ9O6ENGNY5xQjiFjMOyzAJVKBxggVynMsGM%2BM73oVdd797RR6XHt2KmR0k8CxzKeSUfIHFQ%3D%3D%7Ctkp%3ABk9SR9qu7IGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/ehoAAeSwjURpXZtK/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787216884103,
+          "lastSeen": 1787677544402
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium1",
+            "label": "Premium 1",
+            "feeC": 99900,
+            "declaredValueCapC": 2500000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 301000,
+          "submissionFeeC": 99900,
+          "totalCostC": 400900,
+          "psa10ValueC": 1410000,
+          "ratio": 3.517086555250686
+        },
+        "firstOpportunityAt": 1787216884103
       },
       "firstOpportunityAt": 1787216884103,
       "updatedAt": 1787677544402
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FMEAAeSwuTdqiraE/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560344224,
         "lastSeen": 1787677544402
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/d0IAAeSwoAJqhytt/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787301744120,
         "lastSeen": 1787677544402
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/A-0AAeSwmvtp1zm0/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ehoAAeSwjURpXZtK/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -182,6 +224,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/dIgAAeSwZpxpX0v7/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402

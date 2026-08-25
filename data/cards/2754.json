@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2754,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PV4AAeSwCeVqMKrr/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qFcAAeSwzOhqa7nA/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qckAAeSwdbxpvv6O/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -96,6 +99,41 @@
         "totalCostC": 85362,
         "psa10ValueC": 176040,
         "ratio": 2.0622759541716453
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "366481997819",
+          "title": "CGC 10 Gem Mint 2003 Pokemon TCG Skyridge Snorlax 100/144 regular EnglishOpens in a new window or tab",
+          "priceC": 69900,
+          "shippingC": 562,
+          "landedC": 70462,
+          "url": "https://www.ebay.com/itm/366481997819?_skw=%28snorlax%29+%28100%2Cskyridge%29+%28CGC%2CPSA%29&epid=22043374106&itmmeta=01M0VZRZQ2VACCC0T60YQNA5E6&hash=item5554077ffb:g:PV4AAeSwCeVqMKrr&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBlMOJJw4%2FNORhe%2BVvBJEIMDRcKb0lKq7oI1FyQNAArQPhhFKx7qEzsR2QJITTiIhbLq4qfr1aIcvGR6TAdcZp8j3HilWzXQuoEzwpfP7tQgM9Paa3s0Ig%2BFST0qWgJiFOoNmH2lv2xG1MX0YCNliPyZMW6ODq8x%2FGhuYAtVysDdztzWqFtNp74PZ6uM6l4yp%2FMfeCEp8SkNBsnYXcAltpD1lnCceNegrMwnk%2F41IdKw0MI%2F5RaVTikg63Dar%2BhHfELyC2VhZko4UXmt0fjCX8d8qEN8frK4vXe6i7lOmGf8RkGj2%2BnB%2BR1D%2F8O4H6OA%2B0%3D%7Ctkp%3ABk9SR_z74_-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/PV4AAeSwCeVqMKrr/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787055777278,
+          "lastSeen": 1787677537341
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 70462,
+          "submissionFeeC": 14900,
+          "totalCostC": 85362,
+          "psa10ValueC": 176040,
+          "ratio": 2.0622759541716453
+        },
+        "firstOpportunityAt": 1787055777278
       },
       "firstOpportunityAt": 1787055777278,
       "updatedAt": 1787677537341
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PV4AAeSwCeVqMKrr/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qckAAeSwdbxpvv6O/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qFcAAeSwzOhqa7nA/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341

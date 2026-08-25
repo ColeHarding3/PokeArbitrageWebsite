@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3401,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/p2QAAeSw9XdqMu1P/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094586231,
         "lastSeen": 1787677560195
@@ -70,6 +71,41 @@
         "totalCostC": 31046,
         "psa10ValueC": 149500,
         "ratio": 4.8154351607292405
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "407020378166",
+          "title": "2003 Pokemon EX Dragon Altaria Holo #2/97 CGC 10Opens in a new window or tab",
+          "priceC": 120000,
+          "shippingC": 528,
+          "landedC": 120528,
+          "url": "https://www.ebay.com/itm/407020378166?_skw=%28altaria%29+%282%2Cdragon%29+%28CGC%2CPSA%29&epid=3043379669&itmmeta=01M0W08ENXZD5CF2D2GJ1RGWFM&hash=item5ec44e1836:g:UscAAeSw9tRqOb5t&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC6fNFxEu3u1cJaf0Pr13dbXvDL3hHUOz0mIeBoDDj%2B%2BOY%2BRirGtOYiwRfbRquXy0V%2B9Z%2FojWqkxcslLkr1507bASt2epdiV3tXT9bY97ooBmmZgMI%2BwU0Z1yW7HCOlloq7Xz0%2BFsPHzga8o0PyQNoxFztl916wtYX2eGHnPREAvmlV4q4xV1%2BGsYjTPoz4AvaISx4EX1dNBkqOrN36KYTKzwyaJSWsjcUVqL4qpBStMgXAXLqwBsxad91%2BXj%2Br2NXUmVu9otTn8WSSyHV1uOsYLnCbYfoC04rHAxqA%2BtB388b0rPPjLFDExf6Gmp2r9JQ%3D%7Ctkp%3ABk9SR6rroYCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/UscAAeSw9tRqOb5t/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787058454419,
+          "lastSeen": 1787677560195
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 120528,
+          "submissionFeeC": 7999,
+          "totalCostC": 128527,
+          "psa10ValueC": 149500,
+          "ratio": 1.1631797209924764
+        },
+        "firstOpportunityAt": 1787058454419
       },
       "firstOpportunityAt": 1787094586231,
       "updatedAt": 1787677560195
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/p2QAAeSw9XdqMu1P/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094586231,
         "lastSeen": 1787677560195
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/UscAAeSw9tRqOb5t/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677560195

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3610,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rM8AAeSws65qIJLP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772
@@ -70,6 +71,41 @@
         "totalCostC": 135899,
         "psa10ValueC": 252485,
         "ratio": 1.8578871073370664
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287372812537",
+          "title": "Pokemon Cubone EX Team Magma Vs Team Aqua Reverse Holo #40 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 100000,
+          "shippingC": 999,
+          "landedC": 100999,
+          "url": "https://www.ebay.com/itm/287372812537?_skw=%28cubone%29+%2840%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=9043370716&itmmeta=01M0W0CFW3KQ7V4WZA4T2Q1RJ3&hash=item42e8c120f9:g:rM8AAeSws65qIJLP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDdWRoYl%2FR7Y8xIL6wJmO1oFMa2bpIz9TmcLKihjB0AZAuznNCGfcsAQFf4WAjEDwFZMc%2BIvp18YXa7Cv%2Fw2KIaYYKq89JgOaZzwry7xvo2dUnOIe6ikNAKKmtQWUfLyytDC1uAWuUukKZs5DXPHHY1jNtHdiHzIVDAJHlbmwiOOWij27Hl6qNQIECL%2FXdwqs%2FzjcPgUWgyJRYBZufafmXCKC0WPMe6%2BtPgWH6c5rIWGchmwZzpXy1n1W5YEjx%2Bnnra2DQU%2BwKPJk1Kmn8DkE5LWLDV7Rmk5Qu0%2BNxdaRK4fIr1A0BDNr0OLAzJqZaT14M%3D%7Ctkp%3ABk9SR6b-sYCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/rM8AAeSws65qIJLP/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787059396087,
+          "lastSeen": 1787677561772
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 100999,
+          "submissionFeeC": 34900,
+          "totalCostC": 135899,
+          "psa10ValueC": 252485,
+          "ratio": 1.8578871073370664
+        },
+        "firstOpportunityAt": 1787059396087
       },
       "firstOpportunityAt": 1787059396087,
       "updatedAt": 1787677561772
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rM8AAeSws65qIJLP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772

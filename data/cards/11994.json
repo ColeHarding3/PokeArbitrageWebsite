@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11994,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/c6cAAeSwsUZqSZtT/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787219911031,
         "lastSeen": 1787476439600
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/UFcAAeSwz-BqVHTx/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787219911031,
         "lastSeen": 1787677519723
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/KZIAAeSwYtNqimpK/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787476439600,
         "lastSeen": 1787677519723
@@ -96,6 +99,41 @@
         "totalCostC": 1599899,
         "psa10ValueC": 1200000,
         "ratio": 0.7500473467387628
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "198475963836",
+          "title": "2007 Pokemon Diamond Pearl Black Star Promo DP17 INFERNAPE Lv X CGC 10 CardOpens in a new window or tab",
+          "priceC": 1499999,
+          "shippingC": 0,
+          "landedC": 1499999,
+          "url": "https://www.ebay.com/itm/198475963836?_skw=%28infernape%2Clv%2Cx%29+%28121%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=11043365420&itmmeta=01M0PYBP1MMAZ72PJAEZ7V3SS4&hash=item2e3616ddbc:g:c6cAAeSwsUZqSZtT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAT40R2DZh%2BnMLE4fMu35HzctGvd%2BH0fj9d3eNeoYSGzeH2G2mNGQKAZj6WsyB--WS2Vn%2Fi1TukieVqSti5whx65PQ4XM1NHZaImcin3NRsTJShbigbtcRM88seqdzrh5%2BByxAWkI7%2FztOiPb4en00Vp%2Bq2o%2FjWEAAp1JAVQuHj%2FnGg2BpZ70deX5BAR%2BCmtVVsPw7bBcXZPJuJoB81uHdTfaPi3R5uTDk3xmgy5aTYJO434IQmX9I4YPKoApm5XYGfhVrSY65M1DT2R9qmhzFuaLlO7SzRhQnM2Byp580QAg%3D%3D%7Ctkp%3ABk9SR4bhrt6FaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/c6cAAeSwsUZqSZtT/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787219911031,
+          "lastSeen": 1787476439600
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium1",
+            "label": "Premium 1",
+            "feeC": 99900,
+            "declaredValueCapC": 2500000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 1499999,
+          "submissionFeeC": 99900,
+          "totalCostC": 1599899,
+          "psa10ValueC": 1200000,
+          "ratio": 0.7500473467387628
+        },
+        "firstOpportunityAt": 1787219911031
       },
       "firstOpportunityAt": 1787219911031,
       "updatedAt": 1787677519723
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/t9EAAeSwicVqjQzR/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787649256862,
         "lastSeen": 1787677519723
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/KZIAAeSwYtNqimpK/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787476439600,
         "lastSeen": 1787677519723
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MVcAAeSwiipqhK8t/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787219911031,
         "lastSeen": 1787677519723
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/bY4AAeSwK4JqJySo/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787219911031,
         "lastSeen": 1787677519723
@@ -182,6 +224,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/c6cAAeSwsUZqSZtT/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787219911031,
         "lastSeen": 1787476439600
@@ -196,6 +239,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/UFcAAeSwz-BqVHTx/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787219911031,
         "lastSeen": 1787677519723
@@ -210,6 +254,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0JQAAeSw9h1qc61z/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787219911031,
         "lastSeen": 1787677519723

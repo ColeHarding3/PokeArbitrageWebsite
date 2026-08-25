@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11112,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/bGgAAeSw1uFqaoix/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/E54AAeSwazxqgPkF/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -83,6 +85,41 @@
         "totalCostC": 45998,
         "psa10ValueC": 122732,
         "ratio": 2.6682029653463193
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "278229478525",
+          "title": "MAGBY [YUKA MORII] 58 REVERSE HOLO EX LEGEND MAKER CGC 10 SWIRL! Pop 25!Opens in a new window or tab",
+          "priceC": 37999,
+          "shippingC": 0,
+          "landedC": 37999,
+          "url": "https://www.ebay.com/itm/278229478525?_skw=%28magby%29+%2858%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=16043369330&itmmeta=01M0W1VRNXV5PBZJV8V9C407AC&hash=item40c7c4ec7d:g:bGgAAeSw1uFqaoix&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAIu5CQitq%2Fwv95TLKpVlxgZ9SFl%2FYJJhJVt7763WDAfm4UaFNzOq9Q3NBxa%2BHSaCgHEMA0gkM8i8qNf2Km6IOfMCB%2Bmgg2BDu0cgT9IHxKrkhPO9lHru%2B77BAQVldpIDFFKye8Ar0M0Y5VoUakRyzcf5OHdzVlwZ3dycKp%2Fh2zQuyLNUqq%2For9qAMKFjOejATcqKAds8Yosnla%2FnOvfoDX8hgwzST4FMwzYaYqIeWh3r4FyNxIVQm0xDq5c5d4xhDNdvawxpe5GRti%2BvQfejNs%7Ctkp%3ABk9SR5SL74GHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/bGgAAeSw1uFqaoix/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787216884103,
+          "lastSeen": 1787677544402
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 1,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 37999,
+          "submissionFeeC": 7999,
+          "totalCostC": 45998,
+          "psa10ValueC": 122732,
+          "ratio": 2.6682029653463193
+        },
+        "firstOpportunityAt": 1787216884103
       },
       "firstOpportunityAt": 1787216884103,
       "updatedAt": 1787677544402
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/1IIAAeSwXeFqiq0B/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787475133142,
         "lastSeen": 1787677544402
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/bGgAAeSw1uFqaoix/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/NN4AAeSw1ihqaYzR/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/E54AAeSwazxqgPkF/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-ZYAAeSwAu9pwSj~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4317,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/j6kAAeSwM89qhPRm/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787140865995,
         "lastSeen": 1787677571153
@@ -70,6 +71,41 @@
         "totalCostC": 49900,
         "psa10ValueC": 194734,
         "ratio": 3.90248496993988
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "398320216821",
+          "title": "Gardevoir CGC 10 (Blue Label 9.5) EX Emerald Holo #4/106 2005 Pokemon Gem MintOpens in a new window or tab",
+          "priceC": 49999,
+          "shippingC": 597,
+          "landedC": 50596,
+          "url": "https://www.ebay.com/itm/398320216821?_skw=%28gardevoir%29+%284%2Cemerald%29+%28CGC%2CPSA%29&epid=17043371333&itmmeta=01M0W18D324DWCP868KJHB1WNJ&hash=item5cbdbc2af5:g:ghUAAeSwvW9qjJf6&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCQ8Bh2X5poftqXYjl0cBjltSLdJSM8F70T6kgb10W8CgTTRb78IsGq15I7VzA1jVy8BK6rOasd0oNG%2Fg19dStrBgGIcESiO%2B84%2Fd9EobiKQ3Rlb0it5%2FQ%2BVeaa%2FJsnX%2BxT%2BaFOLZt9BOrCJzbmn4KL4xRR5xRKgcaIjH1yJUBy2uTZMbIbW5f50R0BSQma3I9YzdlZ2ajXMZwZ%2BdLIbylN4doV442STdmYRGpRdgPaO%2Bd2yYkmw8Tyef4eVUyaiM8sTCOiJuveeuTG7kVm6ZUsFCuycZeP0Aj60wqDWzhSy3XsSEX0SU%2F7aEGCdrSWEdQ%3D%7Ctkp%3ABk9SR-DRoYGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/ghUAAeSwvW9qjJf6/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787647292265,
+          "lastSeen": 1787677571153
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 50596,
+          "submissionFeeC": 14900,
+          "totalCostC": 65496,
+          "psa10ValueC": 194734,
+          "ratio": 2.9732197386099917
+        },
+        "firstOpportunityAt": 1787647292265
       },
       "firstOpportunityAt": 1787140865995,
       "updatedAt": 1787677571153
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/j6kAAeSwM89qhPRm/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787140865995,
         "lastSeen": 1787677571153
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ghUAAeSwvW9qjJf6/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787647292265,
         "lastSeen": 1787677571153

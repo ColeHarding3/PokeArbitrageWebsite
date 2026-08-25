@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2947,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/GFEAAeSwCQJqfn3g/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/aNEAAeSw3YRqFAM2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -83,6 +85,41 @@
         "totalCostC": 165461,
         "psa10ValueC": 280762,
         "ratio": 1.6968469911338624
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "358924426257",
+          "title": "2003 POKEMON SKYRIDGE #67 IGGLYBUFF-REVERSE FOIL CGC 10Opens in a new window or tab",
+          "priceC": 129999,
+          "shippingC": 562,
+          "landedC": 130561,
+          "url": "https://www.ebay.com/itm/358924426257?_skw=%28igglybuff%29+%2867%2Cskyridge%29+%28CGC%2CPSA%29&epid=18043373737&itmmeta=01M0VZV3Y4P9BXMT70RE0MB3A3&hash=item5391901c11:g:GFEAAeSwCQJqfn3g&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAUGyZFhUiHvP1BzQ3ITUyBWAlNE1wwx%2FBklkBTebKuQl2wrTASo62KoliGFPXBVRfUyJV0CBLCEPZduHNmt1aiIla4%2FwVtO2yM82i6s%2BrM9gKZTjyf6OYvFEw3dVBhuTR45CXgmSImOTOEEWWHJ5arKwhAMhT821Ku9dUMtxn2sFGnqRiBT%2Bl0QYY3%2B%2FRszu0uI6NzX%2Br3oXZPel1VsusEgx5%2FUEyVNmoXltQZDK5EmW1zYc1Obn5mvaplkV6jGy0WOt67ivSAphayvWgUczPo3pHcw1fY9My9FdE%2Fbz6UC7iUqRk4Ut6PnmSS07uXq8A%3D%7Ctkp%3ABk9SR6y_7P-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/GFEAAeSwCQJqfn3g/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787055777278,
+          "lastSeen": 1787677537341
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 130561,
+          "submissionFeeC": 34900,
+          "totalCostC": 165461,
+          "psa10ValueC": 280762,
+          "ratio": 1.6968469911338624
+        },
+        "firstOpportunityAt": 1787055777278
       },
       "firstOpportunityAt": 1787055777278,
       "updatedAt": 1787677537341
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/aNEAAeSw3YRqFAM2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/GFEAAeSwCQJqfn3g/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rdgAAeSwoJhp86aX/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341

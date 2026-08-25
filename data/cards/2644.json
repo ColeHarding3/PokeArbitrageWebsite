@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2644,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/65AAAeSwjpxpm347/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/DmYAAeSwqoFqJE6Q/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -83,6 +85,41 @@
         "totalCostC": 114900,
         "psa10ValueC": 512810,
         "ratio": 4.463098346388164
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "188085826143",
+          "title": "Scyther 57/147 Aquapolis Reverse Holo CGC 10 GEM Mint Low Pop Pokemon CardOpens in a new window or tab",
+          "priceC": 55000,
+          "shippingC": 0,
+          "landedC": 55000,
+          "url": "https://www.ebay.com/itm/188085826143?_skw=%28scyther%29+%2857%2Caquapolis%29+%28CGC%2CPSA%29&epid=15043377582&itmmeta=01M0VZH1PXXK9MC9FD1E8QC4RR&hash=item2bcac9f25f:g:65AAAeSwjpxpm347&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCiURXtVjvQF5h3o%2Bdv60WZBIdsqxWfSqMlpnMwGbmoWMDI1%2BPd%2Be4v%2BVgCsOLdrBhyXOlQrtiehRmJ088MDDLHrnhJBqtDMNk5vgEck3u2cw5450W0iGvW4amrEbuXNCZyWuwU6TPYdKAU7CfBZr0o%2BW8f0tvyc%2BaPM557XYXPZy4QGv%2FHw0uVHjwwInmf4N2VRmuxJfO%2F6qQ1m5zOjYBoq0kfJpEbauiyn6NfIh5zpabg8ddYugbsO0Y9pCMSZO%2FH5z8s6zdBmg4rtBwcuszU%7Ctkp%3ABk9SR9SbxP-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/65AAAeSwjpxpm347/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787054322608,
+          "lastSeen": 1787677535654
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 55000,
+          "submissionFeeC": 59900,
+          "totalCostC": 114900,
+          "psa10ValueC": 512810,
+          "ratio": 4.463098346388164
+        },
+        "firstOpportunityAt": 1787054322608
       },
       "firstOpportunityAt": 1787054322608,
       "updatedAt": 1787677535654
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/65AAAeSwjpxpm347/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/DmYAAeSwqoFqJE6Q/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654

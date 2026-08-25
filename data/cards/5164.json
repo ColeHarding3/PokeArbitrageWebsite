@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5164,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/QfAAAOSwZ9xoNtOU/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094581742,
         "lastSeen": 1787677545935
@@ -70,6 +71,41 @@
         "totalCostC": 25899,
         "psa10ValueC": 236439,
         "ratio": 9.129271400440171
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "188788577569",
+          "title": "CGC 10 Pokemon EX Holon Phantoms Exeggutor Reverse Holo #41/110 2006Opens in a new window or tab",
+          "priceC": 65000,
+          "shippingC": 562,
+          "landedC": 65562,
+          "url": "https://www.ebay.com/itm/188788577569?_skw=%28exeggutor%2Cdelta%29+%2841%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=27043367199&itmmeta=01M0W25G2J49HZ8QX2DA5YC9ET&hash=item2bf4ad1521:g:Z4sAAeSwUcpqfj4t&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBohOR0jJ2tU2ZLsLdBW26O1B%2B%2BkeDrEom9AU8hug9IkMCldeGittSXmcEk%2FCs%2BzAnQKplUCHR93Rs6mgFp8Acjz27wkV%2BXQs1hT27e4hhS0irr5s1VtazfbSaDrdOOUJoLdkg1qegO6KiGXC%2B4ASXY2RXsUkdGLWrdaJYdgWSLzw02poXdh8qpm8CDIDn0fNJKU5FEJZrFK%2BleNvvW36sSkhuXk0RKHHtK3TR8Od0N2I4GF%2BWnVm31Bi3hYuZutxOkd5H5X45zslEHKGGX6TSKWfqnvSrzckDGfIVtFOQvyA%3D%3D%7Ctkp%3ABk9SR9KBloKHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/Z4sAAeSwUcpqfj4t/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787092753589,
+          "lastSeen": 1787677545935
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 65562,
+          "submissionFeeC": 14900,
+          "totalCostC": 80462,
+          "psa10ValueC": 236439,
+          "ratio": 2.9385175610847356
+        },
+        "firstOpportunityAt": 1787092753589
       },
       "firstOpportunityAt": 1787094581742,
       "updatedAt": 1787677545935
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/QfAAAOSwZ9xoNtOU/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094581742,
         "lastSeen": 1787677545935
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Z4sAAeSwUcpqfj4t/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
         "lastSeen": 1787677545935

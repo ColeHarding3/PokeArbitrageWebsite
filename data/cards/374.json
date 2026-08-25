@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 374,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/LvkAAOSwfixl9h85/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677499104
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/dngAAeSw2MtpuYYy/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677499104
@@ -83,6 +85,41 @@
         "totalCostC": 1536295,
         "psa10ValueC": 375458,
         "ratio": 0.2443918648436661
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "116109035460",
+          "title": "CGC 10 Gem Mint 1999 Pokémon TCG Jungle 16/64 Wigglytuff 1st Edition Holo RareOpens in a new window or tab",
+          "priceC": 1500000,
+          "shippingC": 1395,
+          "landedC": 1501395,
+          "url": "https://www.ebay.com/itm/116109035460?_skw=%28wigglytuff%29+%2816%2Cjungle%29+%28CGC%2CPSA%29&epid=25043363376&itmmeta=01M0VW12R2EBRSPMKBXZTVAEH1&hash=item1b08a347c4:g:LvkAAOSwfixl9h85&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBSctBAFl5ns5ldKYe7lV%2Bg3Wko6QJ%2BeeJsNKVmQtK3a9lj1C%2F1oPV48rjGwQ9kfWTIj4tpQLGUgTr13WhUlVGRRml2oURqMOIdwY75%2BB2ALLL6h9dOEghFvPF28VtTH59yVqF14WnYWRzGLyjjGo5PZt8hoxA6E0NL4w6mq2Vl5z%2Bm4ujecmkc9yJ0WZZ%2FcQqTpiLxvIblKJhV62GD9n7k9%2BKDGWHKLL%2FVCBgt%2FqIPDH6S%2FwdVnh%2F9Z7Cj5XcsoJGiZKQgUcUnw7G7vqbClMAhykqtvjchEjKxJYLMCUaAe%2BO5X25MuBbONKHsBhz3b4U%3D%7Ctkp%3ABk9SR6SshPyGaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/LvkAAOSwfixl9h85/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787165573087,
+          "lastSeen": 1787677499104
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 1501395,
+          "submissionFeeC": 34900,
+          "totalCostC": 1536295,
+          "psa10ValueC": 375458,
+          "ratio": 0.2443918648436661
+        },
+        "firstOpportunityAt": 1787165573087
       },
       "firstOpportunityAt": 1787165573087,
       "updatedAt": 1787677499104
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/LvkAAOSwfixl9h85/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677499104
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/dngAAeSw2MtpuYYy/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677499104

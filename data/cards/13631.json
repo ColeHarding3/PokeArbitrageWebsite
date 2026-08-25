@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 13631,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/TZMAAeSwUg1p6m9C/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787222267288,
         "lastSeen": 1787677597946
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rEEAAeSwHM1o6HL8/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787222267288,
         "lastSeen": 1787677597946
@@ -83,6 +85,41 @@
         "totalCostC": 259900,
         "psa10ValueC": 720616,
         "ratio": 2.772666410157753
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "198306141967",
+          "title": "Pokémon Giratina TCG Platinum Holo Rare Card 9/127 CGC 10. One Of Only 5 In A 10Opens in a new window or tab",
+          "priceC": 200000,
+          "shippingC": 0,
+          "landedC": 200000,
+          "url": "https://www.ebay.com/itm/198306141967?_skw=%28giratina%29+%289%2Cplatinum%29+%28CGC%2CPSA%29&epid=28043374747&itmmeta=01M0W4HV8VH8E70QGYD9XH9WJA&hash=item2e2bf7970f:g:TZMAAeSwUg1p6m9C&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBpd5HvhIOiT0jq6Bi%2FRh6pfdn5Bczs2qJEd5uZrQnkeryKw0IzHyEGXgGnLSpkY0UScwshZWMnPdRI1wjf%2FmMICBttd5aw565MHi6uSYWEq9oEzR%2BgkSjtlE8sYCzv6LPtIiVbC0RhrkGOUbzLFgbA0MGQgENW%2BcQXf5o15q3y4CbPDJXcTwHzb8lNVdzOLQdAkIwiK3CxAUwI2wWH%2F4fS5EOt06V9I2SEuBMpKwKKmCox1YfdDPtkXHOCiecEX7fe%2BXN73b2OXMwUWyl%2BMCoV%7Ctkp%3ABk9SR9q0x4SHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/TZMAAeSwUg1p6m9C/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787222267288,
+          "lastSeen": 1787677597946
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 200000,
+          "submissionFeeC": 59900,
+          "totalCostC": 259900,
+          "psa10ValueC": 720616,
+          "ratio": 2.772666410157753
+        },
+        "firstOpportunityAt": 1787222267288
       },
       "firstOpportunityAt": 1787222267288,
       "updatedAt": 1787677597946
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rEEAAeSwHM1o6HL8/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787222267288,
         "lastSeen": 1787677597946
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/TZMAAeSwUg1p6m9C/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787222267288,
         "lastSeen": 1787677597946

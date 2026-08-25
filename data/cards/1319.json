@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1319,
@@ -43,6 +43,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/hRMAAeSwkNxqd2V1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/s4MAAeSwihxqbCCT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -70,6 +72,13 @@
         "psa9Bin": 2
       },
       "ratio": null,
+      "withoutLegacyCgc95": {
+        "bestCgc10": null,
+        "cgc10Bin": 0,
+        "cgc10Auction": 1,
+        "ratio": null,
+        "firstOpportunityAt": null
+      },
       "firstOpportunityAt": null,
       "updatedAt": 1787677583640
     },
@@ -99,6 +108,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rlsAAeSw7DdqglyN/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787480423442
@@ -113,6 +123,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/s4MAAeSwihxqbCCT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -127,6 +138,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/uv4AAeSwC9tqSlCh/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787579341337
@@ -141,6 +153,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/T2QAAeSwbg9qTWB0/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -155,6 +168,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/hRMAAeSwkNxqd2V1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -169,6 +183,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Cb8AAeSwk6RpuuFH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -183,6 +198,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4G4AAeSwPZBp1pgY/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -197,6 +213,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/oJ0AAOSwkctna4wC/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "stale",
         "firstSeen": 1787046039169,
         "lastSeen": 1787094598564
@@ -211,6 +228,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/oJ0AAOSwkctna4wC/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677583640
@@ -225,6 +243,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4UUAAeSwonJqOBnr/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640

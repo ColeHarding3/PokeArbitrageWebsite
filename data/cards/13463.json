@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 13463,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/iBoAAeSwuC9pzAkL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787221548490,
         "lastSeen": 1787677527314
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/AKQAAeSwVbJp12~V/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787221548490,
         "lastSeen": 1787677527314
@@ -83,6 +85,41 @@
         "totalCostC": 135416,
         "psa10ValueC": 478000,
         "ratio": 3.529863531635848
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "198243171865",
+          "title": "Pokemon Infernape Holo - 3/100 Stormfront Rare Graded CGC 10 GEM MintOpens in a new window or tab",
+          "priceC": 100000,
+          "shippingC": 516,
+          "landedC": 100516,
+          "url": "https://www.ebay.com/itm/198243171865?_skw=%28infernape%29+%283%2Cstormfront%29+%28CGC%2CPSA%29&epid=4043367443&itmmeta=01M0W4A5M6ZWW0JFNHCSG2BWH0&hash=item2e2836be19:g:iBoAAeSwuC9pzAkL&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCe%2F0d09h0frdD79bo0LBfRurIwVxvbB63JT1AwmJ4R%2BMpkHqoMJVqQqiU%2Fo57gtGD4C35qLoahk0k3Oe%2BFXIQLNgDfl8B8emvuYg%2F3K7Q8YisGi%2BHSLmFPvFiWRLlJtH%2FSQFpcBagKRY%2BRbi5HMzAyuL3IACV60RyGAs1ZScl0JOAIa4%2BZxX5LFSsrO8BINk%2BPtxEdC0j4OzBfE4fZLI8N6%2B%2FVYZyYSbt7nBK950HPb4X3vuCK25NFBe8Zv3hEWCV033N4uj2GOLx9LdzTZXIM%7Ctkp%3ABk9SR67aqISHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/iBoAAeSwuC9pzAkL/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787221548490,
+          "lastSeen": 1787677527314
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 100516,
+          "submissionFeeC": 34900,
+          "totalCostC": 135416,
+          "psa10ValueC": 478000,
+          "ratio": 3.529863531635848
+        },
+        "firstOpportunityAt": 1787221548490
       },
       "firstOpportunityAt": 1787221548490,
       "updatedAt": 1787677527314
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/iBoAAeSwuC9pzAkL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787221548490,
         "lastSeen": 1787677527314
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/AKQAAeSwVbJp12~V/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787221548490,
         "lastSeen": 1787677527314

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3053,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-GwAAeSwBqZqVKnP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787056678511,
         "lastSeen": 1787677539417
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4bIAAeSwlcJqX81M/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787056678511,
         "lastSeen": 1787677539417
@@ -83,6 +85,41 @@
         "totalCostC": 232999,
         "psa10ValueC": 100981,
         "ratio": 0.43339670985712386
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "206423242512",
+          "title": "Delcatty 5/109 Graded CGC 10Opens in a new window or tab",
+          "priceC": 225000,
+          "shippingC": 0,
+          "landedC": 225000,
+          "url": "https://www.ebay.com/itm/206423242512?_skw=%28delcatty%29+%285%2Cruby%2Csapphire%29+%28CGC%2CPSA%29&epid=25043363074&itmmeta=01M0VZZF2YBQCXRVC72W2M16JG&hash=item300fc8b710:g:-GwAAeSwBqZqVKnP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDenU6O93vkXfE56Rdi8G5SFgdMsHTY2XcZ7gR87pjWIHIkZkMSGq9VOraHmG3XU9JgLJ69t2zc475tWes41Vy3OPqgJTmJ6tWABjALe0zG5icIP44bPBrYecMMJ9M2Q5YH1y6Oh%2FHHFjCiqOisFO9EcUEkcZ5hNmN17IMTN9m6fzWyYWjUv7ZVs1xywgP60MnacgsuDjBOhrauYcmhwJ1q4rfUgVMQJIUorEugYNrWe11rLKDvdP5EUhb48PHD%2Bk55Zq2cxhdIMuxJBBeweWXipCA5%2FGyzG7M1MdsNHMyGWuN5Jr8eeg%2BEnYwFrgiYT%2B8%3D%7Ctkp%3ABk9SR9rx_f-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/-GwAAeSwBqZqVKnP/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787056678511,
+          "lastSeen": 1787677539417
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 225000,
+          "submissionFeeC": 7999,
+          "totalCostC": 232999,
+          "psa10ValueC": 100981,
+          "ratio": 0.43339670985712386
+        },
+        "firstOpportunityAt": 1787056678511
       },
       "firstOpportunityAt": 1787056678511,
       "updatedAt": 1787677539417
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-GwAAeSwBqZqVKnP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787056678511,
         "lastSeen": 1787677539417
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4bIAAeSwlcJqX81M/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787056678511,
         "lastSeen": 1787677539417
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/OnEAAeSwhjZqBCqd/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787056678511,
         "lastSeen": 1787677539417

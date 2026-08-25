@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3031,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/LYkAAeSwbbJpPwQj/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787056678511,
         "lastSeen": 1787677539417
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CoUAAeSwgvZqaNRd/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787056678511,
         "lastSeen": 1787677539417
@@ -83,6 +85,41 @@
         "totalCostC": 415842,
         "psa10ValueC": 166057,
         "ratio": 0.3993271482918993
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "257259108779",
+          "title": "2003 Pokemon Hitmonchan ex Holo 98 CGC 10 Gem Mint Ruby & SapphireOpens in a new window or tab",
+          "priceC": 400000,
+          "shippingC": 942,
+          "landedC": 400942,
+          "url": "https://www.ebay.com/itm/257259108779?_skw=%28hitmonchan%29+%2898%2Cruby%2Csapphire%29+%28CGC%2CPSA%29&epid=8043377655&itmmeta=01M0VZZ3NR7W67MA9KPQK0NQS8&hash=item3be5d679ab:g:LYkAAeSwbbJpPwQj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBFGo3GHa7QF7ePjYKkMPl9AqOTpm09tC%2B1otNDolg0I5gr6TjcX4lVKxVGWMCbqUCqEHuw195xgdzApVTRI1cFOreO9NQOG%2B%2FMIkxIcqA0LIr%2Fattro7ynKKLWbzf22Ns%2Fw%2BQNRPHd0T5zFNs1w6lFQ%2Fm59KxAhLapJgrx%2BEy%2B7bGGAJy2qdkg4oKEHD845qE3s52FK5Cm%2BOYSsDLeXDWPiGskHcu9rRC6zVBKI8dHdCV9O1CV0vXMp8vBJjJnJzoeKRKNial3rnhRQ9ZVeCuKnc7jM1AQwDHSp%2FlUkvuFvA%3D%3D%7Ctkp%3ABk9SR8S7_P-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/LYkAAeSwbbJpPwQj/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787056678511,
+          "lastSeen": 1787677539417
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 400942,
+          "submissionFeeC": 14900,
+          "totalCostC": 415842,
+          "psa10ValueC": 166057,
+          "ratio": 0.3993271482918993
+        },
+        "firstOpportunityAt": 1787056678511
       },
       "firstOpportunityAt": 1787056678511,
       "updatedAt": 1787677539417
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CoUAAeSwgvZqaNRd/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787056678511,
         "lastSeen": 1787677539417
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/LYkAAeSwbbJpPwQj/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787056678511,
         "lastSeen": 1787677539417

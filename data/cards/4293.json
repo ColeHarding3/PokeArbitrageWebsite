@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4293,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/nDgAAeSwT55qYS1L/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CiAAAeSwpfhqh3A1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787301204361,
         "lastSeen": 1787677571153
@@ -83,6 +85,41 @@
         "totalCostC": 208998,
         "psa10ValueC": 103000,
         "ratio": 0.4928276825615556
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287478427989",
+          "title": "Pokemon Groudon EX Emerald 14/106 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 200000,
+          "shippingC": 999,
+          "landedC": 200999,
+          "url": "https://www.ebay.com/itm/287478427989?_skw=%28groudon%29+%2814%2Cemerald%29+%28CGC%2CPSA%29&epid=14043372407&itmmeta=01M0W181X9A7WC4JVEV0CZVK5C&hash=item42ef0cb155:g:nDgAAeSwT55qYS1L&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xC5aJ6tliNmTEAUldJZu1JaI08lbcs3WL2QtJ0aRjcJcbRsY8p3cQcqztxP4KaBGr%2Fvzu7%2B64w1a3m5CqbaGa4%2B%2BCUoRNtQLDrw73yoUPAGjRZOo0BD2Wp7lmrhTC%2FclPoZKz1ULwQJjFa1Gy5vfimV0Yowh9wMu%2Fezb45%2BfKypQ2YN6V32Ly4VYDGcNvJEV5AF7E7x7r7O3LUHQqensqSUbq%2FeYRwpjseqz4c%2BPfofciGEsV%2BZZtVOsAZfXpNBno5VxV9M0RwOrFXPIf33zngB%7Ctkp%3ABk9SR_ieoIGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/nDgAAeSwT55qYS1L/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787064622165,
+          "lastSeen": 1787677571153
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 200999,
+          "submissionFeeC": 7999,
+          "totalCostC": 208998,
+          "psa10ValueC": 103000,
+          "ratio": 0.4928276825615556
+        },
+        "firstOpportunityAt": 1787064622165
       },
       "firstOpportunityAt": 1787064622165,
       "updatedAt": 1787677571153
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CiAAAeSwpfhqh3A1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787301204361,
         "lastSeen": 1787677571153
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/nDgAAeSwT55qYS1L/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Jc8AAeSwk7Fqhg4e/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215079202,
         "lastSeen": 1787677571153

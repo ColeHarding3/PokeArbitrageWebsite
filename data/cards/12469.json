@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 12469,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/DpsAAOSwFyxnHnHI/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787561843796,
         "lastSeen": 1787677608731
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/2eEAAeSwiTNqg1H-/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220182637,
         "lastSeen": 1787677608731
@@ -83,6 +85,41 @@
         "totalCostC": 109899,
         "psa10ValueC": 825000,
         "ratio": 7.506892692381187
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "407165571600",
+          "title": "CGC 10 TURTWIG POP SERIES 6 17 COSMOS HOLO POKEMON 2007Opens in a new window or tab",
+          "priceC": 49999,
+          "shippingC": 0,
+          "landedC": 49999,
+          "url": "https://www.ebay.com/itm/407165571600?_skw=%28turtwig%29+%2817%2Cpop%2Cseries%2C6%29+%28CGC%2CPSA%29&epid=7043378932&itmmeta=01M0W3BZW5GTMRD7VV6NCQ1KQZ&hash=item5eccf59210:g:DpsAAOSwFyxnHnHI&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD04PZtOocFQDc0IMC5iPHJ8FH7eUOvIqdVJ8KpBkDDe8BWXpLBu753SEpNrO2IsIeGnEUuTW8eyqyJogY%2BKN4T7%2BmD3%2F7HBlLFYtnzTQzWPqOcD6iSkVFnBBpN2JSfvY3ljIUGazuEu6YoT3GMq2DAhE95N6v4OSaMsNVh09UcHyf6Nz54Cktch7Tb80ypQO9N76RVXouCME5HJsGBi4nudYMX77vFdwTKgNeJsEpZcWqbV6N9htY7TZZl0h%2B0wtGw1wuzsTbyKAr5nbmtIipP%7Ctkp%3ABk9SR6D-r4OHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/DpsAAOSwFyxnHnHI/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787561843796,
+          "lastSeen": 1787677608731
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 49999,
+          "submissionFeeC": 59900,
+          "totalCostC": 109899,
+          "psa10ValueC": 825000,
+          "ratio": 7.506892692381187
+        },
+        "firstOpportunityAt": 1787561843796
       },
       "firstOpportunityAt": 1787561843796,
       "updatedAt": 1787677608731
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/DpsAAOSwFyxnHnHI/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787561843796,
         "lastSeen": 1787677608731
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/DNkAAeSwr0NqGOGP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220182637,
         "lastSeen": 1787677608731
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/2eEAAeSwiTNqg1H-/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220182637,
         "lastSeen": 1787677608731

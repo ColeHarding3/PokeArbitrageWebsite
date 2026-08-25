@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5724,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/x4IAAeSwWahpljnR/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -70,6 +71,41 @@
         "totalCostC": 64800,
         "psa10ValueC": 420000,
         "ratio": 6.481481481481482
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "128023117867",
+          "title": "Kingdra ex Dragon Frontiers CGC 10 Gem Mint 94/101 Holo Delta Species 2006Opens in a new window or tab",
+          "priceC": 89900,
+          "shippingC": 548,
+          "landedC": 90448,
+          "url": "https://www.ebay.com/itm/128023117867?_skw=%28kingdra%2Cdelta%29+%2894%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=12043364116&itmmeta=01M0W2HDE8QDCKZ95PMTHYFG18&hash=item1dcec5c02b:g:0hUAAeSwSLlqfJht&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDA%2F%2BE7KnAYvUOVwn7VF68vvpIns3odU3EXBCZ61lM1%2BgqJLTGQxhQaUr7RErlv8Q7bIX%2FaaIVXS3P03NBqGQYdvIhZVu7A%2Fwkk2S1gapBTMYoZyi3y5l4MaGsRWTjDqubH14hFd7szDwTXOq5FKRKOclBJM4tNR8bXrHeq6caYL8%2Fu1ZJMfSFM1--CuMxopl1H%2FO5UkWaK9AC%2BQbkEgkb24J8rnpWZU6EuY2GDV7Zwt4GDcT%2FPbMiQzZa1IurrG0SEOAh7bJqWX01hmgu3jaQ7ohqm1lJfoZzGoBQCB0RPew%3D%3D%7Ctkp%3ABk9SR9zXxYKHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/0hUAAeSwSLlqfJht/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787218759794,
+          "lastSeen": 1787677552393
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 90448,
+          "submissionFeeC": 34900,
+          "totalCostC": 125348,
+          "psa10ValueC": 420000,
+          "ratio": 3.3506717299039472
+        },
+        "firstOpportunityAt": 1787218759794
       },
       "firstOpportunityAt": 1787218759794,
       "updatedAt": 1787677552393
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/x4IAAeSwWahpljnR/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0hUAAeSwSLlqfJht/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -128,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-gIAAeSwIR1qhzFy/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787302568112,
         "lastSeen": 1787677552393

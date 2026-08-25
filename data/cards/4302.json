@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4302,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/nFoAAeSwzH1oUjep/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787387099191,
         "lastSeen": 1787677571153
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CK8AAeSwlXFptMMD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -83,6 +85,41 @@
         "totalCostC": 133598,
         "psa10ValueC": 97900,
         "ratio": 0.7327954011287594
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "298599840033",
+          "title": "2005 POKEMON EX EMERALD REVERSE HOLO KYOGRE CGC 10Opens in a new window or tab",
+          "priceC": 125000,
+          "shippingC": 599,
+          "landedC": 125599,
+          "url": "https://www.ebay.com/itm/298599840033?_skw=%28kyogre%29+%2815%2Cemerald%29+%28CGC%2CPSA%29&epid=13043374146&itmmeta=01M0W187EDK073B8CA93MF8G9J&hash=item4585eff921:g:nFoAAeSwzH1oUjep&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBEs6S%2FTYQpyqKSSKOnxt50rAs5IR%2B5NBNe8eIZMtreZwKi8Ziy%2BznEAzz%2Fsraa671%2FDmA00LXPS28Y2G9xK1uNKjMdmYlaxxMYkj78xJ7WstGmYehTzjO26uMnd9SpECjl8ejwqaZl15gzuXnbtBw0Xw8nNBUX0CGzAFEvj9aUbsvIb2b4oQ9fVGMvmmqsgjV0Y6FOPe13gprEm9i7pt7%2Bf%2Bfmf0hIwuQxNCL7pA%2Blcf5KPBjc%2BCWfSvGUFc80xBXUaal4c7MKE3ZxvLgJ%2B3YLAvRO5WMB8iPKZCc4ncXBEay1%2FU2urpeL0LK2IRtR7JE%3D%7Ctkp%3ABk9SR9T3oIGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/nFoAAeSwzH1oUjep/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787387099191,
+          "lastSeen": 1787677571153
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 125599,
+          "submissionFeeC": 7999,
+          "totalCostC": 133598,
+          "psa10ValueC": 97900,
+          "ratio": 0.7327954011287594
+        },
+        "firstOpportunityAt": 1787387099191
       },
       "firstOpportunityAt": 1787387099191,
       "updatedAt": 1787677571153
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/nFoAAeSwzH1oUjep/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787387099191,
         "lastSeen": 1787677571153
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CK8AAeSwlXFptMMD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4627,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HF4AAeSw1ctqDjdH/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -70,6 +71,41 @@
         "totalCostC": 75499,
         "psa10ValueC": 105000,
         "ratio": 1.3907468973098982
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287343619327",
+          "title": "2005 POKEMON EX DEOXYS # 81/107 WINGULL-REVERSE FOIL CGC 10 Mint (Population 9)Opens in a new window or tab",
+          "priceC": 67500,
+          "shippingC": 0,
+          "landedC": 67500,
+          "url": "https://www.ebay.com/itm/287343619327?_skw=%28wingull%29+%2881%2Cdeoxys%29+%28CGC%2CPSA%29&epid=21043375953&itmmeta=01M0W13YXX8Y19W2CK76Q7GB8W&hash=item42e703acff:g:HF4AAeSw1ctqDjdH&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCxN2nE5TmItwSqJEktoa8OLtYv73D6DjSCnjRpTlugfcjRL77asn6URbdPjSTf8sH0Xg5kUL1kOeBWaCA%2B6gkWO9Z%2BTGfui%2FECqZyx1Z7UzR2fVkHBskdNIWIShqKGSm0GKHSSQDPX3Lxg90jWwb5RCKClf%2BVP%2BuS53Cxnzg18tAT5I6LgmMeIyRTkK8GeLe4dUNK2Vii53Dzte2AmuTZMM6TFUdh8ZWbg2m7cMow4oySYcY%2FY4fVVhQ6MK6HT4G5EiAs%2BrJG9gNs%2BuXN8se4m%7Ctkp%3ABk9SR8Lvj4GHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/HF4AAeSw1ctqDjdH/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787066511306,
+          "lastSeen": 1787677569729
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 67500,
+          "submissionFeeC": 7999,
+          "totalCostC": 75499,
+          "psa10ValueC": 105000,
+          "ratio": 1.3907468973098982
+        },
+        "firstOpportunityAt": 1787066511306
       },
       "firstOpportunityAt": 1787066511306,
       "updatedAt": 1787677569729
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HF4AAeSw1ctqDjdH/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729

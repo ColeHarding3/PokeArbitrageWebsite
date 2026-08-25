@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3212,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rroAAeSw2o5qh~pF/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787300173823,
         "lastSeen": 1787677559236
@@ -70,6 +71,41 @@
         "totalCostC": 384800,
         "psa10ValueC": 450000,
         "ratio": 1.1694386694386694
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "188825450270",
+          "title": "[POP 10s!] PIKACHU CGC 10 REVERSE HOLO EX SANDSTORM 2003 72/100Opens in a new window or tab",
+          "priceC": 349900,
+          "shippingC": 0,
+          "landedC": 349900,
+          "url": "https://www.ebay.com/itm/188825450270?_skw=%28pikachu%29+%2872%2Csandstorm%29+%28CGC%2CPSA%29&epid=25043363934&itmmeta=01M0W03NCFZ4RN93HRFKYBMMCZ&hash=item2bf6dfb71e:g:rroAAeSw2o5qh~pF&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC8ICaAscoCwUqdLi8uTNpMz1iV3D7Mv27JEYKxAwlRbK%2FtUeZZeTYPJXugZFLgyeJ9Lw0%2F42DC67yg93JVfamZrznOsWFGWuCPBo%2F4w9th9tm2hqQZHgm70J0bZfUziFRL%2Ba1sRgBJnz68iuLdn5k8qkCSFWKk4umQliir2WsSlnq%2FHnMUFzZadQEPXfpapSVju76msL5shKt6YgUMICUE89KuU8Isn5taHpQknYoWIlR8DiOwB2iTG8PukIO2UXXUhZdp08jnI85FYPIayHrg0aauUUam6F59LnAhGS95EPhNyfAf1ILeZRSspnsbO%2Bg%3D%7Ctkp%3ABk9SR8DWjoCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/rroAAeSw2o5qh~pF/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787300173823,
+          "lastSeen": 1787677559236
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 349900,
+          "submissionFeeC": 34900,
+          "totalCostC": 384800,
+          "psa10ValueC": 450000,
+          "ratio": 1.1694386694386694
+        },
+        "firstOpportunityAt": 1787300173823
       },
       "firstOpportunityAt": 1787300173823,
       "updatedAt": 1787677559236
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rroAAeSw2o5qh~pF/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787300173823,
         "lastSeen": 1787677559236

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5774,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4-EAAeSwS~hpnSBx/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/OdgAAeSwk8ZqbEpG/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -83,6 +85,41 @@
         "totalCostC": 257999,
         "psa10ValueC": 106263,
         "ratio": 0.41187368943290475
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "177889897487",
+          "title": "CGC 10 (Top Pop 1 of 2) | Dragonair #28 | Ex Dragon Frontiers Prerelease PokemonOpens in a new window or tab",
+          "priceC": 250000,
+          "shippingC": 0,
+          "landedC": 250000,
+          "url": "https://www.ebay.com/itm/177889897487?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=8043377515&itmmeta=01M0W2HPMERMMAVXQVQ8WFC82C&hash=item296b106c0f:g:4-EAAeSwS~hpnSBx&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDr3jyDiJEtxm0GSjURzovggAvh1HBu4DmEBHSxlUN6HH6gDsTxoASS%2B8eFh0Xc4jiJ8lQvADEXylOJ7nP%2B%2BnJ9kpbnK5b3eg7THxb3LP7X0SDsHhJQHDyGcAawuDOYMiO6vM4%2FVEawGqgudv7fNN2FeXNh1on2Q3Js1JSotLBm2cz%2BvbGuTmqx%2Bd8CYirCVH607ASE48UuDj3zP48WndEufbfsNVyYiDHOED3k--r%2FI5U5g9o1Oqmsug%2Fj5rJEUUDmwJuvRrnUzL%2Fx2hlxDM1xSeORSz%2FgH%2Fm%2FAeezggWYBZPU7BabMf3N8Pc9a0s5j1B4iSpC9qG7%2BhApcaVB88XQ%7Ctkp%3ABk9SR8rqxoKHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/4-EAAeSwS~hpnSBx/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787218759794,
+          "lastSeen": 1787677552393
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 250000,
+          "submissionFeeC": 7999,
+          "totalCostC": 257999,
+          "psa10ValueC": 106263,
+          "ratio": 0.41187368943290475
+        },
+        "firstOpportunityAt": 1787218759794
       },
       "firstOpportunityAt": 1787218759794,
       "updatedAt": 1787677552393
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4-EAAeSwS~hpnSBx/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/OdgAAeSwk8ZqbEpG/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393

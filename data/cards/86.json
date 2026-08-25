@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 86,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/s7UAAeSweqFqDr1p/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
         "lastSeen": 1787677491340
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8lAAAeSwDqFqhcnD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787209549665,
         "lastSeen": 1787677491340
@@ -83,6 +85,41 @@
         "totalCostC": 1060499,
         "psa10ValueC": 513751,
         "ratio": 0.484442701030364
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "117206850167",
+          "title": "1999 POKEMON BASE SET SHADOWLESS #5 CLEFAIRY-HOLO CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 1000000,
+          "shippingC": 599,
+          "landedC": 1000599,
+          "url": "https://www.ebay.com/itm/117206850167?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M0VVQRD6EB4DAS15N000XBPC&hash=item1b4a129a77:g:s7UAAeSweqFqDr1p&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD0NpdYjPGfPx80L2sYYR7u%2ByrWszi5grxsyg7uwomegxdYdvF2y1ClbRm67l9Ww%2Bf1ZWou8zwPuAK5DS31Fqy35TmPLdICXicfmBrIWPbbdChUESF9fJrqr2AXF%2F%2Bin9%2BQObDkqhDkNjTjXd07hP%2BTbgZXgmlnK4%2B6T7embD6QoT2ZVkaEZUvqYZM6IHy1P4C6DRzCQK5CE1O1eKsQnQ2awbG491BN8iP%2BPdAiXPvAFW0IADu6aQBARDeGTqzr1YFOeevZihKyabmTTGMsmg2w%7Ctkp%3ABk9SR_SG3_uGaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/s7UAAeSweqFqDr1p/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787038168986,
+          "lastSeen": 1787677491340
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 1000599,
+          "submissionFeeC": 59900,
+          "totalCostC": 1060499,
+          "psa10ValueC": 513751,
+          "ratio": 0.484442701030364
+        },
+        "firstOpportunityAt": 1787038168986
       },
       "firstOpportunityAt": 1787038168986,
       "updatedAt": 1787677491340
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8lAAAeSwDqFqhcnD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787209549665,
         "lastSeen": 1787677491340
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/s7UAAeSweqFqDr1p/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
         "lastSeen": 1787677491340
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/KpAAAOSwmNNnVJvZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
         "lastSeen": 1787677491340

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2650,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ujsAAOSwy3RnlX5E/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/cWIAAeSwk7Fqg2yM/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fuIAAeSw3EVqh4V9/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787299779529,
         "lastSeen": 1787677535654
@@ -96,6 +99,41 @@
         "totalCostC": 165489,
         "psa10ValueC": 240300,
         "ratio": 1.452060257781484
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "135517936166",
+          "title": "Slowking Pokèmon (2003) Aquapolis - 34/147 Reverse Holo CGC 10 Opens in a new window or tab",
+          "priceC": 150000,
+          "shippingC": 589,
+          "landedC": 150589,
+          "url": "https://www.ebay.com/itm/135517936166?_skw=%28slowking%29+%2834%2Caquapolis%29+%28CGC%2CPSA%29&epid=26043383716&itmmeta=01M0VZGY9J6TVB136K7S5Y7KBC&hash=item1f8d7f9a26:g:ujsAAOSwy3RnlX5E&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDa7Y%2BOiMd9zPu28hPXmuZARPNNJpEryD15VQjYGBEWbGseVYPczsKKvMxLCUvHFYQlGPeAQyZU2i5%2BeVlMxTL7jvE58cjhLXrDnUZI%2FggZWw2Xny3kwzE0Q8HCOdSyTsBJdFmfDoWH9E%2Fba091xM8kwZOi72%2FHYaNDF4yFcCWk3ijC%2BrLhoPJEyhjU%2Bcdbdj1VmEN8O4WTpq8U0yXg215KIDpNtMxervhckrgO03GuHAXnqkXKYd2Sn0AMd6NTYyGshURdWV1779rkRCAgM8RaRdcK5xKuKraH9XgBlzMVuCFlhP2pMQaRJ8xKbm9a%2Fkk%3D%7Ctkp%3ABk9SR4blw_-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/ujsAAOSwy3RnlX5E/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787054322608,
+          "lastSeen": 1787677535654
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 150589,
+          "submissionFeeC": 14900,
+          "totalCostC": 165489,
+          "psa10ValueC": 240300,
+          "ratio": 1.452060257781484
+        },
+        "firstOpportunityAt": 1787054322608
       },
       "firstOpportunityAt": 1787054322608,
       "updatedAt": 1787677535654
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fuIAAeSw3EVqh4V9/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787299779529,
         "lastSeen": 1787677535654
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ujsAAOSwy3RnlX5E/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/cWIAAeSwk7Fqg2yM/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654

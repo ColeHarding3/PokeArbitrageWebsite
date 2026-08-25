@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4264,
@@ -44,6 +44,13 @@
         "psa9Bin": 0
       },
       "ratio": null,
+      "withoutLegacyCgc95": {
+        "bestCgc10": null,
+        "cgc10Bin": 0,
+        "cgc10Auction": 1,
+        "ratio": null,
+        "firstOpportunityAt": null
+      },
       "firstOpportunityAt": null,
       "updatedAt": 1787646859782
     },
@@ -73,6 +80,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/IKIAAeSwQOlqfIjc/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103

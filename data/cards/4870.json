@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4870,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/vtYAAeSwcRJqMGKZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094580234,
         "lastSeen": 1787677542417
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-UcAAeSwqNVqX71P/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -83,6 +85,41 @@
         "totalCostC": 114899,
         "psa10ValueC": 371322,
         "ratio": 3.2317252543538237
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "147356248323",
+          "title": "CGC 10 - 2005 Ditto (Squirtle) 40/113 Delta Species Reverse Holo Opens in a new window or tab",
+          "priceC": 300000,
+          "shippingC": 558,
+          "landedC": 300558,
+          "url": "https://www.ebay.com/itm/147356248323?_skw=%28ditto%29+%2840%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=25043363497&itmmeta=01M0W1QMM6KR47RQGKGG6D9JWR&hash=item224f1de903:g:y6YAAeSwmRBot6NE&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAIyHxGMpBmsNRL5Luejfzb49mSoM1W9tqlCx%2BiNRBQM7iWzIzW%2F4KSWquCd7k%2FBoS4dk2K1Agv%2FN4IBVEuUWkLX2n0gFE0THP%2F0fPsXJDltzZeuAy2zQ6%2Bq%2B071IQzOXJYooFjOLyidGfZFSYkqqYzJoU%2BmNVVNptjakxJXrJ5oiTVr1ZaqPFTrk6ZvXbcSWRCW5D2gNiP7JM7W5sB5SglGqCpX6a0KDW4vr3e7A7nBUZWyvLSpwhmpMvsxEV%2BA0D49vOxebrzDDkgGLsU1SOcWEfx5tKUFHeH%2FsHdjihFgdTMkjr1EAlaY9lajg5sHs4%3D%7Ctkp%3ABk9SR5rL3oGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/y6YAAeSwmRBot6NE/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787089625972,
+          "lastSeen": 1787677542417
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 300558,
+          "submissionFeeC": 34900,
+          "totalCostC": 335458,
+          "psa10ValueC": 371322,
+          "ratio": 1.1069105521406555
+        },
+        "firstOpportunityAt": 1787089625972
       },
       "firstOpportunityAt": 1787094580234,
       "updatedAt": 1787677542417
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/vtYAAeSwcRJqMGKZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094580234,
         "lastSeen": 1787677542417
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-UcAAeSwqNVqX71P/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/p5wAAeSwrFJqVRxy/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/y6YAAeSwmRBot6NE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/JRIAAeSwfE5qcQMJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417

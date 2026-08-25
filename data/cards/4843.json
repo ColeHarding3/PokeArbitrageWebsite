@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4843,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wa0AAeSwALdqiwAL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560190120,
         "lastSeen": 1787677542417
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ScwAAeSw6glqe1QG/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -83,6 +85,41 @@
         "totalCostC": 44900,
         "psa10ValueC": 202870,
         "ratio": 4.518262806236081
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "237025252299",
+          "title": "Ditto [Charmander] 37/113 EX Delta Species Pokemon CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 30000,
+          "shippingC": 0,
+          "landedC": 30000,
+          "url": "https://www.ebay.com/itm/237025252299?_skw=%28ditto%29+%2837%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=3065736119&itmmeta=01M0W1QCKJ84M1QENN81ENQH31&hash=item372fce53cb:g:wa0AAeSwALdqiwAL&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xATP%2FnTdIRh%2Fc%2FzazwhkaedSgDfqcMlbP00AR6GEqYFWjeGqayv1%2FbIKKqBD9Z3%2BOuVby3rP6Jg8Kg3kpeVxpqQgu5ESeUG%2FfpK3fqBjTv1rHmQif%2B7EBA1%2BIj8FvdzchF8XMHqJKDMLuxPEm1Hc%2Brd0Z0QKBXKEGJggaVTAlzzkX2p9uZbL56RWAwQzUXLM1cChp5TE0tzTzBNwYwxgn24b4wBMNMfRfkwZlUmh40AeGxipYlajqLzYPNHZUoigRLUJQK1CyM9gRqCKZlU1iFiNn3dyA8CDW05NvtIkppT%2FjJBobBI9f2Gkj8OXB%2BoMak%3D%7Ctkp%3ABk9SR4LK3YGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/wa0AAeSwALdqiwAL/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787560190120,
+          "lastSeen": 1787677542417
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 30000,
+          "submissionFeeC": 14900,
+          "totalCostC": 44900,
+          "psa10ValueC": 202870,
+          "ratio": 4.518262806236081
+        },
+        "firstOpportunityAt": 1787560190120
       },
       "firstOpportunityAt": 1787560190120,
       "updatedAt": 1787677542417
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wa0AAeSwALdqiwAL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560190120,
         "lastSeen": 1787677542417
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ScwAAeSw6glqe1QG/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/6qsAAeSwXeFqh7Jw/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787301626921,
         "lastSeen": 1787677542417
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/mKwAAeSwAnNqTQ0Y/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417

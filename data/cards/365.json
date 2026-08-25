@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 365,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FAkAAeSwa2dqf3km/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677499104
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PfwAAeSw3ZNqOYrY/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677499104
@@ -83,6 +85,41 @@
         "totalCostC": 165498,
         "psa10ValueC": 464950,
         "ratio": 2.8093995093596296
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "117359675639",
+          "title": "1999 POKEMON 1ST EDITION JUNGLE NIDOQUEEN #7/64 WOTC HOLO RARE ENGLISH CGC 10 GMOpens in a new window or tab",
+          "priceC": 129999,
+          "shippingC": 599,
+          "landedC": 130598,
+          "url": "https://www.ebay.com/itm/117359675639?_skw=%28nidoqueen%29+%287%2Cjungle%29+%28CGC%2CPSA%29&epid=13043374767&itmmeta=01M0VW178MW2S8TNP53G3AYZMQ&hash=item1b532e88f7:g:FAkAAeSwa2dqf3km&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDGFlstEzQiv2deokNsLbAX4BrpkIiyfR1c8rgqUZX45odD%2FbxCgPmZYRJrLOFplQ4LF%2F8SseutbtJQxcMQH4alot9dDngCYPb5DCLIqh32DWgfJ%2BE%2Byy71oktdC8wKxnsJ8C76mbhIRAGlwGQdwl%2BPNiqQkE1kJSY3UKvrd1EyGUYTQnjjm3MQbm9%2BoM2zvU2pP72EW46qp7vjCCGqYkKL%2BJvpdzPNgYziIGRQ06j7py8%2BOwsQA4ADDaOeTtfJaSp4et%2FA57NGQ9uu4XxTgyjb%7Ctkp%3ABk9SR9D0hPyGaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/FAkAAeSwa2dqf3km/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787165573087,
+          "lastSeen": 1787677499104
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 130598,
+          "submissionFeeC": 34900,
+          "totalCostC": 165498,
+          "psa10ValueC": 464950,
+          "ratio": 2.8093995093596296
+        },
+        "firstOpportunityAt": 1787165573087
       },
       "firstOpportunityAt": 1787165573087,
       "updatedAt": 1787677499104
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/D7sAAeSwpN5qhJlS/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787468972373,
         "lastSeen": 1787578923776
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PfwAAeSw3ZNqOYrY/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677499104
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/gjgAAeSwmodplRMo/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677499104
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/DOcAAeSwnK1qHQLy/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677499104
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FAkAAeSwa2dqf3km/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677499104
@@ -183,6 +225,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-eUAAeSwOwdqf6hF/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787480423442

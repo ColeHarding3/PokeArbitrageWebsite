@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 943,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ECcAAeSwMcpqeori/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
         "lastSeen": 1787677572286
@@ -70,6 +71,41 @@
         "totalCostC": 35056,
         "psa10ValueC": 110000,
         "ratio": 3.1378366042902783
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "336736431319",
+          "title": "CGC 10 GEM MINT Erika's Clefable Gym Heroes 3/132 Holo Pokemon CardOpens in a new window or tab",
+          "priceC": 25000,
+          "shippingC": 2057,
+          "landedC": 27057,
+          "url": "https://www.ebay.com/itm/336736431319?_skw=%28erikas%2Cclefable%29+%283%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=11043365863&itmmeta=01M0VWY800SKX454K3Q53PM7H7&hash=item4e670e2cd7:g:ECcAAeSwMcpqeori&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDM9USWBEeo3jyq1QG5mqwU9VNAPt4ALLEVs2vu2v1ysSaj8XtDMNlN7rt%2BGxApWlzL463t2JjnA%2B8%2B5GLnkvBKANy9Jlb5dxv9DR4plaZZkBebCY%2BpH3LjC%2FEcdxVrA0EpG0A8ih4wjiNa%2BU0A5cIXzyY3ngd2jThuSN3pZA4SPuhEH%2FTlBeSdQj3AMfCy%2FPiI%2Fzt4qN1lc20mPDOICxqtQ4y2TXZIjmuyye7JrtP0yis%2FbxCczxPneBddKU2MymlEwEyIbaBRZulAvAbnArAdNJmO9lVYZRUKI7loW9KiSQ%3D%3D%7Ctkp%3ABk9SR5iA-fyGaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/ECcAAeSwMcpqeori/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787043800671,
+          "lastSeen": 1787677572286
+        },
+        "cgc10Bin": 3,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 27057,
+          "submissionFeeC": 7999,
+          "totalCostC": 35056,
+          "psa10ValueC": 110000,
+          "ratio": 3.1378366042902783
+        },
+        "firstOpportunityAt": 1787043800671
       },
       "firstOpportunityAt": 1787043800671,
       "updatedAt": 1787677572286
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ECcAAeSwMcpqeori/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
         "lastSeen": 1787677572286
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/J0IAAeSwkxVp8Cgv/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
         "lastSeen": 1787677572286
@@ -128,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8-4AAeSwETlpuzVH/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
         "lastSeen": 1787677572286

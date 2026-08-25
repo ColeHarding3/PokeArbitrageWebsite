@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3566,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/uZ0AAeSwh5Vp-L83/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094587473,
         "lastSeen": 1787677561772
@@ -70,6 +71,41 @@
         "totalCostC": 480483,
         "psa10ValueC": 805694,
         "ratio": 1.6768418445605775
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "147303010945",
+          "title": "CGC 10 GEM MINT SQUIRTLE EX TEAM MAGMA VS AQUA 46/95 REVERSE HOLO POP 11Opens in a new window or tab",
+          "priceC": 450000,
+          "shippingC": 801,
+          "landedC": 450801,
+          "url": "https://www.ebay.com/itm/147303010945?_skw=%28squirtle%29+%2846%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=24043367165&itmmeta=01M0W0C80W82GMNB3GHDQMX26X&hash=item224bf19281:g:OF0AAeSwdJBp~9eP&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDhdpro%2Fm3gEXLHjafLfnSmb49CKRF016n5zxC1oVUkmjaZry5mcsvF%2BhgGZvWeblOwb%2BmvxkYfergzLm6e9EXPegPEZk42Y5W3aqdhKynHRwP56QXstzTHyR1g9CWJiMw0oCjvk5%2FRbTUed8dlOiissBMdRZyu%2Ff6JLwPJ6Z2JBrSxmejieVmjaWbbi%2Fl0ejlC%2BLkAQvUrCCirB64VJddnmlYiN3JFOJigVcJTn2AfhwNXPcTZKd9xscmwIzeMHSHl84i2TKuSJR41YC%2FpT3Oi%7Ctkp%3ABk9SR9KAsYCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/OF0AAeSwdJBp~9eP/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787480423442,
+          "lastSeen": 1787677561772
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 450801,
+          "submissionFeeC": 59900,
+          "totalCostC": 510701,
+          "psa10ValueC": 805694,
+          "ratio": 1.5776236976234626
+        },
+        "firstOpportunityAt": 1787480423442
       },
       "firstOpportunityAt": 1787094587473,
       "updatedAt": 1787677561772
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/uZ0AAeSwh5Vp-L83/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094587473,
         "lastSeen": 1787677561772
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/OF0AAeSwdJBp~9eP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787480423442,
         "lastSeen": 1787677561772

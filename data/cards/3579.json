@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3579,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/quUAAeSwhthqhzAw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787300449976,
         "lastSeen": 1787677561772
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/y-MAAeSwislqiiWB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787473478342,
         "lastSeen": 1787677561772
@@ -83,6 +85,41 @@
         "totalCostC": 135899,
         "psa10ValueC": 267950,
         "ratio": 1.9716848541931875
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287536583187",
+          "title": "Pokemon Cradily ex EX Team Magma Vs Aqua 90/95 Holo CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 100000,
+          "shippingC": 999,
+          "landedC": 100999,
+          "url": "https://www.ebay.com/itm/287536583187?_skw=%28cradily%29+%2890%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=8043378214&itmmeta=01M0W0CEVVXSZB1VCBJRS01VKK&hash=item42f2841213:g:quUAAeSwhthqhzAw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAO1LfbRi97e3ouHhJjafbqqUkMFdoiInfa%2BOik3jwYc6yG6QEKYclhX7qz20yunfNk4dcagWNEdbZ1am22qfUS7hrMPw8lZI%2FgKJ1oiA%2BVm172nH1kR9uN42JFslbAv5u0aXaavuc7Gn0GjobZLyLpTjm%2BtzezMGSWXmmk9nEGjoeZMTcJujq%2BanyhJmhGr0eajCZUrR%2FxvxHC7aJAyOyA%2FJEMdT1NLzQnlwVWe2SHLGD1d3rsIcUs9GPn84Hk8ByBSS4hgMdLoJ09cCYs3kI8%7Ctkp%3ABk9SR5LusYCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/quUAAeSwhthqhzAw/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787300449976,
+          "lastSeen": 1787677561772
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 100999,
+          "submissionFeeC": 34900,
+          "totalCostC": 135899,
+          "psa10ValueC": 267950,
+          "ratio": 1.9716848541931875
+        },
+        "firstOpportunityAt": 1787300449976
       },
       "firstOpportunityAt": 1787300449976,
       "updatedAt": 1787677561772
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/VGgAAeSw-MtqhQjX/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558875026,
         "lastSeen": 1787677561772
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/y-MAAeSwislqiiWB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787473478342,
         "lastSeen": 1787677561772
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Py0AAeSw-~pqaBpL/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/A0kAAOSwKFJgnASx/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/quUAAeSwhthqhzAw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787300449976,
         "lastSeen": 1787677561772

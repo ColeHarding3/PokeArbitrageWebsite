@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 12511,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-iIAAeSwPY9p6-HN/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220413578,
         "lastSeen": 1787677521877
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wtUAAeSwSGdqiM~h/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787389480858,
         "lastSeen": 1787677521877
@@ -83,6 +85,41 @@
         "totalCostC": 900899,
         "psa10ValueC": 899900,
         "ratio": 0.9988911076602371
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287292378505",
+          "title": "Pokemon Mew Secret Wonders Reverse Holo Rare #15 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 840000,
+          "shippingC": 999,
+          "landedC": 840999,
+          "url": "https://www.ebay.com/itm/287292378505?_skw=%28mew%29+%2815%2Csecret%2Cwonders%29+%28CGC%2CPSA%29&epid=23043384221&itmmeta=01M0W3JXX4VD1R3P2SC6J6PEDQ&hash=item42e3f5cd89:g:-iIAAeSwPY9p6-HN&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDmk8v%2B%2BM3IoxssFy7OKDkW3AuqDdiOFBLfTAVm25T64YbrwoH3Oy8UptaecJiwGvwo05ImBpVs9yvHcoLQWnyxTptT9FtvpwYOTeHOYbAr0dpZ%2FPwGjrjTeCIZ1KPy54kjahlzgpq5bFhrd%2FIyBMR6fqquTyi%2BiipByFKIP6fH8Cn8by5%2B7yiRV4ixWn9XlG2UPO9cSFv1TVdPcZD3GkZef8D9zBP541Iq8ABSUjRVNN%2Fspx5UCIvzDgmJIU6lXmG3aCC4n7bZ1pGF2cj1dMNDffo5bEzCJ7x%2FNAlJKpbS%2BRO6o7GKsK89izuV0bnWFAs%3D%7Ctkp%3ABk9SR_Tey4OHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/-iIAAeSwPY9p6-HN/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787220413578,
+          "lastSeen": 1787677521877
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 840999,
+          "submissionFeeC": 59900,
+          "totalCostC": 900899,
+          "psa10ValueC": 899900,
+          "ratio": 0.9988911076602371
+        },
+        "firstOpportunityAt": 1787220413578
       },
       "firstOpportunityAt": 1787220413578,
       "updatedAt": 1787677521877
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wtUAAeSwSGdqiM~h/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787389480858,
         "lastSeen": 1787677521877
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/AHsAAeSwmkxqaBFp/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787476874036,
         "lastSeen": 1787476874036
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/z6MAAeSw9KNqi15l/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787562034570,
         "lastSeen": 1787677521877
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-iIAAeSwPY9p6-HN/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220413578,
         "lastSeen": 1787677521877

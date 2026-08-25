@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5838,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/6MAAAeSwY3xqLeb7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/upgAAeSwcXdqXC5f/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -83,6 +85,41 @@
         "totalCostC": 98596,
         "psa10ValueC": 124330,
         "ratio": 1.261004503225283
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "377260978262",
+          "title": "CGC GEM MINT 10 Gligar 16/101 POP 4 Ex Dragon Frontiers Reverse Holo Pokemon Opens in a new window or tab",
+          "priceC": 90000,
+          "shippingC": 597,
+          "landedC": 90597,
+          "url": "https://www.ebay.com/itm/377260978262?_skw=%28gligar%2Cdelta%29+%2816%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=27043367606&itmmeta=01M0W2MA2EMHMZ6RM5YHH2STRQ&hash=item57d681b056:g:6MAAAeSwY3xqLeb7&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCgVKfx8NhnGzs1%2Bxqbf0Z7NbVgtSYfq3oNxhmtgOJpO9As8i%2BXTzGteuB9g069B7WW70ECnah3ixRk6pj5fLDfHiY6TTm6Aeyh4i5W9zBjJAlndvfCTilhbEx3jVQylVDtdiRw8QmLmmtT5UH7sM0v11U9E0%2BPeNJ%2B%2FaF68KfS55r0luGZlM9xymo7Y6T%2BXatLtqeQj31y7GylsNUX2zMOmmC8ey0UWZ6nfynDcvgSQKV4oqFL5VyuIE9Ug3gzmXg3vgyKFPXETK3iP0rxFYxpmyi61q2tai3cWhmRd7qm4Q%3D%3D%7Ctkp%3ABk9SR9yh0YKHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/6MAAAeSwY3xqLeb7/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787218759794,
+          "lastSeen": 1787677552393
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 90597,
+          "submissionFeeC": 7999,
+          "totalCostC": 98596,
+          "psa10ValueC": 124330,
+          "ratio": 1.261004503225283
+        },
+        "firstOpportunityAt": 1787218759794
       },
       "firstOpportunityAt": 1787218759794,
       "updatedAt": 1787677552393
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/upgAAeSwcXdqXC5f/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/6MAAAeSwY3xqLeb7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393

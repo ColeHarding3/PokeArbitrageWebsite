@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5739,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/jJoAAeSwv99qY9~O/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -70,6 +71,41 @@
         "totalCostC": 84800,
         "psa10ValueC": 250512,
         "ratio": 2.9541509433962263
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "327277014110",
+          "title": "CGC 10 Dragonair 28/101 EX Dragon Frontiers Reverse Holo Stamped Pokemon CardOpens in a new window or tab",
+          "priceC": 49900,
+          "shippingC": 0,
+          "landedC": 49900,
+          "url": "https://www.ebay.com/itm/327277014110?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=2314420147&itmmeta=01M0W2HPMAX7DEHH5TAQCNY2N1&hash=item4c333aec5e:g:jJoAAeSwv99qY9~O&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBm8Sb7EDQpbkt8imI3Q69Cs0xr02fQC8mRULMVTw5Yguwi0PnxhWDZhMIpevOv4%2F3YfaLENmAHCI4ZZxC%2FYwfv1DyWHB4MEN82wElOMdaDx80jlxHtLnTDogC4ykMWA%2BxkByBy4cV2r2OpqoUqvU7oKvMFETGLLxnV9SApQtUT4Rz6FIYz4gYWZAyJCXeLzm%2FsoX3cCw1HSKqLPdIfIrU7%2FioSFVzcsvv7tbSfhuV2mzrfkNHWwzjDM1ExrU7PyKK1qJa4UVYFpAyjP2RS2OPgwjCwmnRV5KLcdrJ9mjsF8A%3D%3D%7Ctkp%3ABk9SR8DqxoKHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/jJoAAeSwv99qY9~O/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787218759794,
+          "lastSeen": 1787677552393
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 49900,
+          "submissionFeeC": 34900,
+          "totalCostC": 84800,
+          "psa10ValueC": 250512,
+          "ratio": 2.9541509433962263
+        },
+        "firstOpportunityAt": 1787218759794
       },
       "firstOpportunityAt": 1787218759794,
       "updatedAt": 1787677552393
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/jJoAAeSwv99qY9~O/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HO8AAeSwUoRpuPSH/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393

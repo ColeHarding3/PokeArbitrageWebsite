@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4891,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5CgAAeSw8ShqMCR8/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560190120,
         "lastSeen": 1787677542417
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/tzYAAeSwM89qhEA4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -83,6 +85,41 @@
         "totalCostC": 115471,
         "psa10ValueC": 253050,
         "ratio": 2.191459327450182
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287396674962",
+          "title": "Pokemon Slowking EX Delta Species 28/113 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 75000,
+          "shippingC": 5571,
+          "landedC": 80571,
+          "url": "https://www.ebay.com/itm/287396674962?_skw=%28slowking%29+%2828%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367537&itmmeta=01M0W1N9Y12YE0172NSZAJYN77&hash=item42ea2d3d92:g:5CgAAeSw8ShqMCR8&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCYtHmMbdIOC%2BuNn07Ci1bseD%2Fv%2FJvQK8%2BFvbB7pZsMueJf7zCktpkpmg2BismdAFwGs7S%2BFkU86vv884r4CAeFzcMT5QUh4uWovDPg4hohfUJn8EvNIG1S3KT7JqzHgiCaUGG%2BdABllD3UyqxtpqENx99pmF%2BnEY0NiEtIaLk99Kq0nhbbhIsazpPcdcmg2e3hJfP0JBSWO2vxwnmdhPTfIwK1kSPyfVkIyLIxS39oVWZW7fwn6lUBGrG6TckHLntFXbVoJAlh3ggLnpL0ghsrbX9YSTJewuOntCkCh6YZ3GdcJoOJq6eDDhr6GUmaE8c%3D%7Ctkp%3ABk9SR5Sf1YGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/5CgAAeSw8ShqMCR8/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787560190120,
+          "lastSeen": 1787677542417
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 80571,
+          "submissionFeeC": 34900,
+          "totalCostC": 115471,
+          "psa10ValueC": 253050,
+          "ratio": 2.191459327450182
+        },
+        "firstOpportunityAt": 1787560190120
       },
       "firstOpportunityAt": 1787560190120,
       "updatedAt": 1787677542417
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/tzYAAeSwM89qhEA4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/~fcAAeSwdUJqd9n2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787647762874,
         "lastSeen": 1787677542417
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/A4UAAeSwfRBqZ~Fe/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5CgAAeSw8ShqMCR8/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560190120,
         "lastSeen": 1787677542417
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/pKQAAeSwAxtp5q-9/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417

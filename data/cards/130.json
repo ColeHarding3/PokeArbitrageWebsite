@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 130,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/43IAAOSwv2Zmi0yl/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
         "lastSeen": 1787677491340
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SocAAeSwXXhqQXIo/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
         "lastSeen": 1787677491340
@@ -83,6 +85,41 @@
         "totalCostC": 335524,
         "psa10ValueC": 550000,
         "ratio": 1.6392270001549816
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "315528774890",
+          "title": "Poliwrath Holo 13/102 Pokémon Base Set Shadowless Pokemon CGC 10 Gem Mint Opens in a new window or tab",
+          "priceC": 275000,
+          "shippingC": 624,
+          "landedC": 275624,
+          "url": "https://www.ebay.com/itm/315528774890?_skw=%28poliwrath%29+%2813%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=19043376544&itmmeta=01M0VVQJF2YG6AAB22R7B55J0J&hash=item4976fb04ea:g:43IAAOSwv2Zmi0yl&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDhOAOcmkCeab7X8EyBpSxKkeTOUf6z0hv37%2Fkz36SudEdnwS%2FmQd9A6LeQRzObdKGZPe8RMGVf7ITZuLyXgfeU21KdXPqRQmTZ5gi4acpgGtW7tt4dg45kTaymhoy3lL4Vd%2BnMeWTti4p351P%2FuTzp%2Bqq3dGJhn1u4tuxe3M8nZKYoxlnkDogjANkJetR1fCjIM3Tf0vcKTwo4q7Qoz2BVyUj18JyGSZjGphViSmUToh9155sKC2o23OZWbt3vYXcThU5E6hIsJHg3DMbY4Iu8%7Ctkp%3ABk9SR_qn3vuGaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/43IAAOSwv2Zmi0yl/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787038168986,
+          "lastSeen": 1787677491340
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 275624,
+          "submissionFeeC": 59900,
+          "totalCostC": 335524,
+          "psa10ValueC": 550000,
+          "ratio": 1.6392270001549816
+        },
+        "firstOpportunityAt": 1787038168986
       },
       "firstOpportunityAt": 1787038168986,
       "updatedAt": 1787677491340
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FwYAAeSwfPFqgvGP/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787209549665,
         "lastSeen": 1787677491340
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SocAAeSwXXhqQXIo/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
         "lastSeen": 1787677491340
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/AqUAAeSwVNVp37mx/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
         "lastSeen": 1787677491340
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/LbcAAeSwH5FqEIQE/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
         "lastSeen": 1787677491340
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/43IAAOSwv2Zmi0yl/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
         "lastSeen": 1787677491340

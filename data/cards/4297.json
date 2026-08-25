@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4297,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/bbYAAeSwrndqW8FO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/opAAAeSwie9qg97m/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0lkAAeSwJFBpwCwf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -96,6 +99,41 @@
         "totalCostC": 176096,
         "psa10ValueC": 71600,
         "ratio": 0.40659640196256586
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "227436936641",
+          "title": "Mudkip #56 EX Emerald STAMP Reverse Holo- Extremely Rare Pokemon [CGC 10]Opens in a new window or tab",
+          "priceC": 167500,
+          "shippingC": 597,
+          "landedC": 168097,
+          "url": "https://www.ebay.com/itm/227436936641?_skw=%28mudkip%29+%2856%2Cemerald%29+%28CGC%2CPSA%29&epid=28043374291&itmmeta=01M0W1864J5BE0ZMMBJ5E7DGT4&hash=item34f44c3dc1:g:bbYAAeSwrndqW8FO&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA3gaBtpE60iK3Xjb3oSgIBLaa6%2Bgn5IabILXC%2FzRnxLjZqK9%2BGQpeekHGVxwkUC7l7neRuDcO8KdiVABXNaIp58yfcs5Q6WfhkHW09DAL4qlDDBpSDx%2BojreuL9psQ8pZgIbt9GOV94JUoTIsiz3h45jrPL%2Ft2VCccncLjtIhW4pJwogsKZ%2FOPNw%2FvKFBK2WPzWBjNMd1GjTlb4VVxvRldZZkWCcr%2FuVl56fhhfPlG13ECyCuyqTpzz%2F7ZsJxJwifj1eSZXFYo9nJn0mK1fiR%2FNTh11GtOf2nGJGjc115POsPqY15qlLs9IfOcFiVq2SI%3D%7Ctkp%3ABk9SR-DioIGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/bbYAAeSwrndqW8FO/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787064622165,
+          "lastSeen": 1787677571153
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 168097,
+          "submissionFeeC": 7999,
+          "totalCostC": 176096,
+          "psa10ValueC": 71600,
+          "ratio": 0.40659640196256586
+        },
+        "firstOpportunityAt": 1787064622165
       },
       "firstOpportunityAt": 1787064622165,
       "updatedAt": 1787677571153
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/bbYAAeSwrndqW8FO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0lkAAeSwJFBpwCwf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/opAAAeSwie9qg97m/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153

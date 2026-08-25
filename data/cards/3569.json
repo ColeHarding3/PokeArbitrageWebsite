@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3569,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ahYAAeSwSy1oerOb/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772
@@ -70,6 +71,41 @@
         "totalCostC": 260899,
         "psa10ValueC": 580000,
         "ratio": 2.2230824955250883
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "286715831998",
+          "title": "Pokemon Sceptile ex EX Team Magma Vs Team Aqua Ultra Rare #93 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 200000,
+          "shippingC": 999,
+          "landedC": 200999,
+          "url": "https://www.ebay.com/itm/286715831998?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=11043365447&itmmeta=01M0W0CCGMQX7J7XSG074JXNH7&hash=item42c19866be:g:ahYAAeSwSy1oerOb&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xANERXq08R2mYowqK79lOimjjBP2T9QaYr2BUNX0aOaG3kf2EbuPGftc897ySWkLynsjBK3SnXInI4JXqcPpnfLassVTPO1u03ez9WzUGxUYywi0gT8R7BHn%2Fg52Fazd%2BPJ97mbCetEvXLNaiBzywAqr1KCIeGUssR0xxR6uUjzVvMMhTOAYfyyoHx8t%2BxeFTEDsaMGr7tbQiOVc2H9QcTFalhOOMBY9lPwGPdK3Dy%2BVYilSYiYwpd0gj%2BPo6dYnUXOSV8i81ujOXW2%2Ba5joZDP%7Ctkp%3ABk9SR8bIsYCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/ahYAAeSwSy1oerOb/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787059396087,
+          "lastSeen": 1787677561772
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 200999,
+          "submissionFeeC": 59900,
+          "totalCostC": 260899,
+          "psa10ValueC": 580000,
+          "ratio": 2.2230824955250883
+        },
+        "firstOpportunityAt": 1787059396087
       },
       "firstOpportunityAt": 1787059396087,
       "updatedAt": 1787677561772
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ahYAAeSwSy1oerOb/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772

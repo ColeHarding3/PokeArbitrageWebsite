@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4554,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/IdIAAeSwW0ZqWtVm/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/q9oAAeSwF~Fpp9k5/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PdIAAeSwPiRo~PJb/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -96,6 +99,41 @@
         "totalCostC": 58596,
         "psa10ValueC": 115000,
         "ratio": 1.9625913031606252
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "257626973787",
+          "title": "Swablu Ex Deoxys 79/107 Reverse Holo CGC 10Opens in a new window or tab",
+          "priceC": 50000,
+          "shippingC": 597,
+          "landedC": 50597,
+          "url": "https://www.ebay.com/itm/257626973787?_skw=%28swablu%29+%2879%2Cdeoxys%29+%28CGC%2CPSA%29&epid=21043375960&itmmeta=01M0W140V1TKBZAS9RAA0C19SJ&hash=item3bfbc3a65b:g:IdIAAeSwW0ZqWtVm&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAwtPPrduyNMDw9SRfCY7ME2QLeQOHe4jRyk50IfP2f%2B8wBZGm1pGgM0lg8Wg0k8LvJUCfVlgZbN1E7UMvi658JLMtWUliFSYfM0EsTCcd4nXeVUWwgNlA8T1JkA5U4reT9KM0FiJXZABLxhQd%2BSTi%2FCU5%2BqHmrkW4wbfLTZubJAxwVeWIoyuQN1CIYWsSx1M3bkkVFTVPTaWRgjdHBJC%2FBSPbu%2FlxG2QXhhmi1NacxA65DQuJZ12Q%2Bc8WV0DfvBIJV5dtxwHZk%2F5YavUzc3T4f%7Ctkp%3ABk9SR_KNkIGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/IdIAAeSwW0ZqWtVm/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787066511306,
+          "lastSeen": 1787677569729
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 50597,
+          "submissionFeeC": 7999,
+          "totalCostC": 58596,
+          "psa10ValueC": 115000,
+          "ratio": 1.9625913031606252
+        },
+        "firstOpportunityAt": 1787066511306
       },
       "firstOpportunityAt": 1787066511306,
       "updatedAt": 1787677569729
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PdIAAeSwPiRo~PJb/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/V0cAAeSwj3lqGiDR/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/IdIAAeSwW0ZqWtVm/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/q9oAAeSwF~Fpp9k5/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729

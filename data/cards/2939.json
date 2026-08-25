@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2939,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/cA0AAeSweFNqNG1y/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -70,6 +71,41 @@
         "totalCostC": 158922,
         "psa10ValueC": 28500,
         "ratio": 0.1793332578245932
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "407011615913",
+          "title": "Pokemon Skyridge Abra Reverse Holo #46 CGC 10 Gem Mint E-Reader RareOpens in a new window or tab",
+          "priceC": 149900,
+          "shippingC": 1023,
+          "landedC": 150923,
+          "url": "https://www.ebay.com/itm/407011615913?_skw=%28abra%29+%2846%2Cskyridge%29+%28CGC%2CPSA%29&epid=21043375615&itmmeta=01M0VZSYJYVEAFT6SZC1E5YDFZ&hash=item5ec3c864a9:g:cA0AAeSweFNqNG1y&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCPAU0AkJFl5ZmLo8Apx52j4mk%2Fc1ToSk3nlCWs8Idr4vNvOUa6mI9zWIKz555unihGBbr%2FM%2BQ0cUQTnkW7U7E2VBrOwK3drcPvCMm0EA9gNc3TmKgExCLsH2DRSNW98VK6ZEGd1lDnZliPr9bEvNYgKeg1OwpdwIsG1eCqovJAgleK1j6FPWZciftN2zvYRbuVb4I8Qe9G2gj87%2FxAUFg00CJpioxWqW%2FRil5Bq1zsl2rpcEVwmJo9RZ2FiADR9noiQOCpLJOP9tFUyUimTHbPa6zcN0vXrPbpnHx9RXGU00gIj0zpXtjKtKro%2FwVn3fA%3D%7Ctkp%3ABk9SR9Dp5_-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/cA0AAeSweFNqNG1y/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787055777278,
+          "lastSeen": 1787677537341
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 150923,
+          "submissionFeeC": 7999,
+          "totalCostC": 158922,
+          "psa10ValueC": 28500,
+          "ratio": 0.1793332578245932
+        },
+        "firstOpportunityAt": 1787055777278
       },
       "firstOpportunityAt": 1787055777278,
       "updatedAt": 1787677537341
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/cA0AAeSweFNqNG1y/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341

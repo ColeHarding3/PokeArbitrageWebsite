@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1637,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/x~oAAeSwu7ZqienX/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787471042265,
         "lastSeen": 1787677588973
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/A~sAAeSwmKhqjH~V/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787643825961,
         "lastSeen": 1787677588973
@@ -83,6 +85,41 @@
         "totalCostC": 425900,
         "psa10ValueC": 1122500,
         "ratio": 2.6355952101432263
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287540211315",
+          "title": "2001 Pokemon Suicune #14 **DOUBLE HOLO** Neo Revelation Holo CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 325000,
+          "shippingC": 1000,
+          "landedC": 326000,
+          "url": "https://www.ebay.com/itm/287540211315?_skw=%28suicune%29+%2814%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=5097353819&itmmeta=01M0VXTWKW95KCAS2ZHGE94CTF&hash=item42f2bb6e73:g:x~oAAeSwu7ZqienX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBhcV2dSECJjRQipkj3jJmDncxWBCa1Yym7EKzvjlouReINzua3OAWO4MdaYvlLrY2Kdoiix29mrIfaBkSQ9SLfP0n%2FwkKA%2FwT2yFZwJG2lY4POkSOccnOmCvyqceR%2F5DRrxuqrx1Vn4eNUDUivDW8mkyYok7qjoWLAwhY%2BvYg62iwV%2F6VKL5cTzSFbiYZdTLVcHdyLFqZelimUF4y7EKeS1Wydd5HuA6QaEPK%2FYSShMjZVkZWcB4BVgv%2Bif76tOp%2FrXy%2FdI4%2FvLtpQ4%2BsRGVDUvBUVvBzikio7puDjNYAI2A%3D%3D%7Ctkp%3ABk9SR6zK6_2GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/x~oAAeSwu7ZqienX/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787471042265,
+          "lastSeen": 1787677588973
+        },
+        "cgc10Bin": 3,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium1",
+            "label": "Premium 1",
+            "feeC": 99900,
+            "declaredValueCapC": 2500000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 326000,
+          "submissionFeeC": 99900,
+          "totalCostC": 425900,
+          "psa10ValueC": 1122500,
+          "ratio": 2.6355952101432263
+        },
+        "firstOpportunityAt": 1787471042265
       },
       "firstOpportunityAt": 1787471042265,
       "updatedAt": 1787677588973
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/A~sAAeSwmKhqjH~V/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787643825961,
         "lastSeen": 1787677588973
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/GYUAAeSwZoJqd8a0/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787048058606,
         "lastSeen": 1787677588973
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/dJ4AAeSw3CxqcWg1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787048058606,
         "lastSeen": 1787677588973
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/x~oAAeSwu7ZqienX/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787471042265,
         "lastSeen": 1787677588973
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/YLwAAeSwmTlo-rGx/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787048058606,
         "lastSeen": 1787677588973
@@ -183,6 +225,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/oPMAAOSwCv1nrkOD/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787048058606,
         "lastSeen": 1787677588973

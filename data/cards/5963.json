@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5963,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/g3kAAeSwMVhqSwjy/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/vbIAAeSwGs1qYueg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/XDsAAeSw6tJqPEWA/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -83,6 +86,27 @@
         "psa9Bin": 1
       },
       "ratio": null,
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "407051190525",
+          "title": "Pokemon Cradily Reverse Holo Stamp 7/108 EX Power Keepers CGC 10 🔥POP 3 🔥Opens in a new window or tab",
+          "priceC": 80000,
+          "shippingC": null,
+          "landedC": null,
+          "url": "https://www.ebay.com/itm/407051190525?_skw=%28cradily%29+%287%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=10043375702&itmmeta=01M0W2TMEBPPQ1F4XYEC4ZAPZ1&hash=item5ec62440fd:g:g3kAAeSwMVhqSwjy&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAEzS8g1Lq9gCTtYGOgIDuF5SB3wYNPI4rwm8ipn18KTb5mghAJwetxR0iVRBbZh%2FsRNRo3tEdboQzoy6unlL1nF2va9sgUzJMdYcLIl9YoYIi962q9iSAOr8aK9Jqy7JtRSSePDcK53BHGptxcTthsFkCxxPBFwKH4WenGDgoChmBiYHocxMq4bNzgTlzXaiULkPCE%2FpE7iCfdnGLUA2K2MYkuXaPvHDRb%2FxcnPWT0RBKbnt64VL85L4bmX7tXXayjh8hRDhGWmPiE1irshbyrvRSocOXp6pski0p84I9ZNHFHf5D6p9CrVDU4O%2BBwLB4%3D%7Ctkp%3ABk9SR6bH6oKHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/g3kAAeSwMVhqSwjy/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787162866541,
+          "lastSeen": 1787677557971
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": null,
+        "firstOpportunityAt": 1787162866541
+      },
       "firstOpportunityAt": 1787162866541,
       "updatedAt": 1787677557971
     },
@@ -112,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/XDsAAeSw6tJqPEWA/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -126,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/g3kAAeSwMVhqSwjy/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -140,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/vbIAAeSwGs1qYueg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4482,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/j~sAAeSwuSppuuEE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8zYAAeSw~5tqR7ie/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/gxMAAeSwC-Fqf4dn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -96,6 +99,41 @@
         "totalCostC": 135899,
         "psa10ValueC": 281767,
         "ratio": 2.073355948167389
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287215053729",
+          "title": "Pokemon Manectric ex EX Deoxys Holo Ultra Rare #101 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 100000,
+          "shippingC": 999,
+          "landedC": 100999,
+          "url": "https://www.ebay.com/itm/287215053729?_skw=%28manectric%29+%28101%2Cdeoxys%29+%28CGC%2CPSA%29&epid=16043369778&itmmeta=01M0W13DB7FQPJR8SN823R11X2&hash=item42df59eba1:g:j~sAAeSwuSppuuEE&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA6Fh3uYAWbKBanDzhYKElFcIe0tmseYGQ5EmbRrInVGaJT17cOl4yE%2FK4Nx0lVUGMzQyv5pjDHkjkXWD85OGEFWdtWh0l7Gef6tWmpPosyILCCJdiRZtcgQ1%2F0Bo%2B5aVl4p%2BgIg%2FfflByH7AFlJzsrTyQGTgOFsJDu2FqfgjLkw7gwVkvsXLGWz4fi11be1SwmZk0qpJhUdtSneZZuOQvKmsAZdKYMI5Xt28CNLSWfhVauRpBfVNC%2F0eTLzpbRtg0xfP2EupsOx80iIPK7rU8K%7Ctkp%3ABk9SR_LVjYGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/j~sAAeSwuSppuuEE/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787066511306,
+          "lastSeen": 1787677569729
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 100999,
+          "submissionFeeC": 34900,
+          "totalCostC": 135899,
+          "psa10ValueC": 281767,
+          "ratio": 2.073355948167389
+        },
+        "firstOpportunityAt": 1787066511306
       },
       "firstOpportunityAt": 1787066511306,
       "updatedAt": 1787677569729
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/9W4AAeSw7z9o6CjN/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/gxMAAeSwC-Fqf4dn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/duEAAeSwv0lo25wt/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8zYAAeSw~5tqR7ie/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -182,6 +224,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/j~sAAeSwuSppuuEE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729

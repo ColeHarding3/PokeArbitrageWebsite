@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 14958,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/nV0AAeSwlNdpk~Ll/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
         "lastSeen": 1787677581403
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ab0AAeSwjYdqWNvn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
         "lastSeen": 1787677581403
@@ -83,6 +85,41 @@
         "totalCostC": 611041,
         "psa10ValueC": 648184,
         "ratio": 1.0607864284066044
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "389634203161",
+          "title": "Scizor Undaunted Holo Cgc Gem Mint 10 Pop 3!Opens in a new window or tab",
+          "priceC": 550000,
+          "shippingC": 1141,
+          "landedC": 551141,
+          "url": "https://www.ebay.com/itm/389634203161?_skw=%28scizor%29+%2884%2Cundaunted%29+%28CGC%2CPSA%29&epid=19043376823&itmmeta=01M0W5RC8E3T2E7052VMZYTW7Q&hash=item5ab8021e19:g:nV0AAeSwlNdpk~Ll&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBfH%2Bhm081Re4WqFnpNYfedEh2PAbffmHRSUxv98LZgs%2F2k%2BwUfiSZVUSWcOIF6ehj5kAn3cdKMZ24mUG1aGTTJePiyQTOfQFvRMwWCcmoiEshYHkqBCjx6%2Fmv0eAdVC6r%2FcxrxsFvy3vag2AkMDW55q1cIhk9uhElurvj5apijUIRaDwocU6sJvyd9Rrmuip8P9MK3BEeJ5b%2B3ycaLXheBzJ%2BJy%2FQ8s%2Fu5do43eMMQRCo4bsG8I%2Fq1tnzTFjJkVTpX8IhXlDUhLjcjpyS4%2B46FoZS160V8GvTSxXDJ7%2BiNAHIL9D2bgCfRwnVBf6%2Fkap4%3D%7Ctkp%3ABk9SR7LE4YWHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/nV0AAeSwlNdpk~Ll/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787224565444,
+          "lastSeen": 1787677581403
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 551141,
+          "submissionFeeC": 59900,
+          "totalCostC": 611041,
+          "psa10ValueC": 648184,
+          "ratio": 1.0607864284066044
+        },
+        "firstOpportunityAt": 1787224565444
       },
       "firstOpportunityAt": 1787224565444,
       "updatedAt": 1787677581403
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ab0AAeSwjYdqWNvn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
         "lastSeen": 1787677581403
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zlkAAeSwli9qgpFQ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
         "lastSeen": 1787677581403
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/f5IAAeSwqWhqMcPp/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
         "lastSeen": 1787677581403
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/nV0AAeSwlNdpk~Ll/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
         "lastSeen": 1787677581403

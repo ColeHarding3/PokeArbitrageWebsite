@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 12242,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-cgAAeSwLSlqCLU4/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -70,6 +71,41 @@
         "totalCostC": 100399,
         "psa10ValueC": 532500,
         "ratio": 5.303837687626371
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "157697927396",
+          "title": "HOLO BLEED Pokemon CGC 10 Pop 6 Mysterious Treasures - Typhlosion (16/123)Opens in a new window or tab",
+          "priceC": 60000,
+          "shippingC": 1088,
+          "landedC": 61088,
+          "url": "https://www.ebay.com/itm/157697927396?_skw=%28typhlosion%29+%2816%2Cmysterious%2Ctreasures%29+%28CGC%2CPSA%29&epid=6043385157&itmmeta=01M0W39HC0ZR32ZT7WPH8DSZ3Z&hash=item24b78768e4:g:qg0AAeSwHGNpmg1w&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDqdfrVJL%2BW7UG%2FXcGZLb7ehoLH7A%2BhfruKQA%2ByxqxMwmeuOoXfdB2CCnc7QK2ZERr4X4gIzfcEpPL72K2EJjvYkaHKVE%2FgiJTv2xJsbxMxDsrdtL9KuqKzRPmRWsS1JMZDtpVjpXHSOq5LkPPiwpCl%2FnJslZ%2BJ870d69s00qdPtcZItEJYM%2BbemTUIDa%2BHMAxOECxGK8OXYdXEk1l3HJMO8%2FDLz6VUuTkYWCmkPmrfIssubH3G4m6nBvnxJhO7TKQxCvouXcdBbPuVsYcQ5UEpZtZWiHdaNrHn7h%2Fb6mD5Qg%3D%3D%7Ctkp%3ABk9SR5yWpoOHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/qg0AAeSwHGNpmg1w/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787220120669,
+          "lastSeen": 1787677520812
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 61088,
+          "submissionFeeC": 59900,
+          "totalCostC": 120988,
+          "psa10ValueC": 532500,
+          "ratio": 4.401262935167124
+        },
+        "firstOpportunityAt": 1787220120669
       },
       "firstOpportunityAt": 1787220120669,
       "updatedAt": 1787677520812
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-cgAAeSwLSlqCLU4/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qg0AAeSwHGNpmg1w/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812

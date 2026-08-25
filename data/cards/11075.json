@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11075,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wtUAAeSwsDVqhIu4/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/vq4AAOSw0fhjPCQL/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -83,6 +85,41 @@
         "totalCostC": 590988,
         "psa10ValueC": 1464000,
         "ratio": 2.477207659038762
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "800529765353",
+          "title": "2006 POKEMON EX LEGEND MAKER REGIROCK GOLD STAR #91/92 HOLO CGC 10 GM POP-16Opens in a new window or tab",
+          "priceC": 490000,
+          "shippingC": 1088,
+          "landedC": 491088,
+          "url": "https://www.ebay.com/itm/800529765353?_skw=%28regirock%2Cgold%2Cstar%29+%2891%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=19043375917&itmmeta=01M0W1V3ME7PA887XDS8YPNS99&hash=itemba634ad3e9:g:wtUAAeSwsDVqhIu4&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xChIFqdmkN4sgAb%2B5EJ2z%2F5Ut7hvC8maN3Vso5HXfSAd1lqZ8Dh6FLkMuIyjPb9Qz8f2wk%2FcE95ferGe4fZMD8Wle%2FqHgullhBPblAsM%2F1UYFDVWfRVhnGvlQh2PzAF6JkgamrhOo%2BrvkfoLCjbvY4%2Bz4Jf9CE%2FO9DYN0mnDfEObMiXSHjHu9n7WFudAb7%2Bb5cQvbaEhr0bXXALULc1TE79bXugQySR3%2BkVQWsFXBdb2ErtLqQGPyvs4n1Op97mW2LbjRm3xRcpZQiLQrDF573faI9RTr9Qgd1xbtHc1uoxlw%3D%3D%7Ctkp%3ABk9SR8i67IGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/wtUAAeSwsDVqhIu4/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787216884103,
+          "lastSeen": 1787677544402
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium1",
+            "label": "Premium 1",
+            "feeC": 99900,
+            "declaredValueCapC": 2500000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 491088,
+          "submissionFeeC": 99900,
+          "totalCostC": 590988,
+          "psa10ValueC": 1464000,
+          "ratio": 2.477207659038762
+        },
+        "firstOpportunityAt": 1787216884103
       },
       "firstOpportunityAt": 1787216884103,
       "updatedAt": 1787677544402
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wtUAAeSwsDVqhIu4/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HqsAAOSwlI1ltUls/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rBAAAeSwNz9qgnLO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/vq4AAOSw0fhjPCQL/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402

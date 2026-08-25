@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1707,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FjwAAeSw~cFqfgeC/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787048058606,
         "lastSeen": 1787677588973
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/uaAAAeSweu9qdJwg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787471042265,
         "lastSeen": 1787677588973
@@ -83,6 +85,41 @@
         "totalCostC": 184900,
         "psa10ValueC": 264683,
         "ratio": 1.4314926987560843
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "377343540678",
+          "title": "The Pokémon Company Magneton 10/64 Neo Revelation 1st Edition Holo CGC 10 2001Opens in a new window or tab",
+          "priceC": 150000,
+          "shippingC": 0,
+          "landedC": 150000,
+          "url": "https://www.ebay.com/itm/377343540678?_skw=%28magneton%29+%2810%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=18043373961&itmmeta=01M0VXVY85S12SXE5MRB4E4ZW6&hash=item57db6d7dc6:g:FjwAAeSw~cFqfgeC&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAmHFcaQ1F%2BJCG7A7Xnb8pdU%2BVDCCK5fi%2FckBm0MydgHCh8dzPH4EEDVCtrJ9CdcuSxA23sRxlzuMjLkcThC88rNvoZgy7d%2FCodaTZ0Nl6wOdDQDoK8VcJl7%2FknDX1yuvvxfgoRMhpdhoCc64toPLaWfQkhkx7VuUd51ZgeXC%2Fx0OZScxyFU8b%2BFSc7oYCrrjnXOT6KmdpsbHtVEIWcJDg%2BlP8Rk%2FQg9vA%2FhT39ka2XKlWtKAql0KsfLnqF8PfhflRsauDegLRlUeo6qSe%2FK0aS8LMNStGdLX6ye%2FpJx69Q5lVR8aadk2vNEDQ8TbDuYrxRkmZ4xVIG0z4QuA88PMcr%7Ctkp%3ABk9SR8bk7_2GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/FjwAAeSw~cFqfgeC/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787048058606,
+          "lastSeen": 1787677588973
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 150000,
+          "submissionFeeC": 34900,
+          "totalCostC": 184900,
+          "psa10ValueC": 264683,
+          "ratio": 1.4314926987560843
+        },
+        "firstOpportunityAt": 1787048058606
       },
       "firstOpportunityAt": 1787048058606,
       "updatedAt": 1787677588973
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/uaAAAeSweu9qdJwg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787471042265,
         "lastSeen": 1787677588973
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HW8AAeSwJ2xpHfLV/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787048058606,
         "lastSeen": 1787677588973
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FjwAAeSw~cFqfgeC/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787048058606,
         "lastSeen": 1787677588973

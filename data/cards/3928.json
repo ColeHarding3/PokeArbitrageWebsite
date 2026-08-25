@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3928,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/JQgAAeSw8QJqcTFY/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814
@@ -70,6 +71,41 @@
         "totalCostC": 66500,
         "psa10ValueC": 156500,
         "ratio": 2.3533834586466167
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "178371586915",
+          "title": "ARCANINE 18/112 REVERSE HOLO EX FIRE RED & LEAF GREEN POKEMON CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 51000,
+          "shippingC": 600,
+          "landedC": 51600,
+          "url": "https://www.ebay.com/itm/178371586915?_skw=%28arcanine%29+%2818%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=23043384123&itmmeta=01M0W0PQKGJGKSJRMRHM02687D&hash=item2987c66b63:g:JQgAAeSw8QJqcTFY&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBc%2B6Jr1dgMMl9ZdCIlWsSUlMTd06Nyk0y3iUdSEB5Pk7NzmCe%2FSNhLx8e6yjaW7p0KhgOzxT5wopstemnZcQbDMuEykdFFwaP9wawyQ%2FicKYaZc%2Fc4QDnhuZ0cYubUevrKDLtmLHgf4XONF4z2d8huaF5vXP1t%2BZosZsE6Hw0AAqlzw%2FeCUh3Knjo4C1gxs1WAIOYFWWEdQZn%2BRBvJm2spVtcSHYvT77u2nMEiFLuhmLcgwj7Mc3DykmL7Pq%2Fqg%2BWZqL2cb9zAR5qJ8GDw%2BtHC3yq0kVnRnrwA5qw7Yt7Vazk280DdeaxZlszf2O67uco49PSuEpwxrGEB%2FdOEdqFV%7Ctkp%3ABk9SR4r62oCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/JQgAAeSw8QJqcTFY/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787061354691,
+          "lastSeen": 1787677564814
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 51600,
+          "submissionFeeC": 14900,
+          "totalCostC": 66500,
+          "psa10ValueC": 156500,
+          "ratio": 2.3533834586466167
+        },
+        "firstOpportunityAt": 1787061354691
       },
       "firstOpportunityAt": 1787061354691,
       "updatedAt": 1787677564814
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/JQgAAeSw8QJqcTFY/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814

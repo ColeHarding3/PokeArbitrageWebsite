@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 12233,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/tksAAeSwwtVqi7Ia/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787561799279,
         "lastSeen": 1787677520812
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/KT0AAeSwtPhqbKZA/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -83,6 +85,41 @@
         "totalCostC": 157999,
         "psa10ValueC": 132192,
         "ratio": 0.8366635231868557
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "206511710115",
+          "title": "CGC GEM MINT 10 Pokemon Pikachu 94/123 2007 Mysterious Treasures POP 19 Opens in a new window or tab",
+          "priceC": 150000,
+          "shippingC": 0,
+          "landedC": 150000,
+          "url": "https://www.ebay.com/itm/206511710115?_skw=%28pikachu%29+%2894%2Cmysterious%2Ctreasures%29+%28CGC%2CPSA%29&epid=4043368190&itmmeta=01M0W39E42C10FKF61M9WBFHMT&hash=item30150e9fa3:g:tksAAeSwwtVqi7Ia&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDkEMjUd6h6FL8PzDZF8CxHRkpD2r2cwYOlJSBwKjWZ%2FGvoB89GUeBHVMb8aAsX1AYhy7%2FwCw320ehSG5Tjv9g1nCAlUiwJnxZG0tOHvR45oHLUp3gi3DLQlI%2BM%2Bl14VcIZ4k5GWsSkRgsG2Xr7dH79ws2%2ByBNim2ihpMYgx4Xegi4JcZHOO3ZcQal0QaFoJfMSh4VpFwiOZFCilJNgVxfUTV8tujRWZtPHXOXgE2jZdh0anLZrS08vkjL0SpcEX2U%2FcyutQat3u%2Bzi66SmlowOIstS7pADreBPk3D6zPAz7A%3D%3D%7Ctkp%3ABk9SR6zipYOHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/tksAAeSwwtVqi7Ia/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787561799279,
+          "lastSeen": 1787677520812
+        },
+        "cgc10Bin": 3,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 150000,
+          "submissionFeeC": 7999,
+          "totalCostC": 157999,
+          "psa10ValueC": 132192,
+          "ratio": 0.8366635231868557
+        },
+        "firstOpportunityAt": 1787561799279
       },
       "firstOpportunityAt": 1787561799279,
       "updatedAt": 1787677520812
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/tksAAeSwwtVqi7Ia/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787561799279,
         "lastSeen": 1787677520812
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/AScAAeSw-4Nqb2IK/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/VIEAAeSw65tpwFrV/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/KT0AAeSwtPhqbKZA/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812

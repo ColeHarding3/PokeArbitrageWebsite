@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2231,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ThUAAeSw93Np-SKy/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/if8AAeSw8OtpZsOG/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -83,6 +85,41 @@
         "totalCostC": 507899,
         "psa10ValueC": 76500,
         "ratio": 0.15062049738235359
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "406904520400",
+          "title": "Pokémon Magikarp 118/165 Expedition Reverse Holo CGC 10 Gem Mint e-Reader Pop 15Opens in a new window or tab",
+          "priceC": 499900,
+          "shippingC": 0,
+          "landedC": 499900,
+          "url": "https://www.ebay.com/itm/406904520400?_skw=%28magikarp%29+%28118%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=5043380836&itmmeta=01M0VZ42CPYS9R76G11ES2355B&hash=item5ebd663ed0:g:ThUAAeSw93Np-SKy&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDR8DSSb6YMoJdmllLtploIH7LbML2kiWToPyX7840DDvJ2BVDQqnJ0kzGRfF7vrLaJxIxIWGa4VYBVSgbaNtzS0pVuNWX26naWuwajc7Zq3gJ7Augl4k24Cmcs6NaQK0DDf4%2FTg6JxoaaBKwRPVIrCnfQGA8EwIatZ7pRdcEYqF7KaRJC7aox9G6J1jkCKl6AAaR0ALzK3MkEqpd3zrx%2BQapg1Tk9GsSe7oVemGoMbp3qTJt3ov57OD4vuXRfPSsthH5dURbcmJE61EuxOCwtRcJ%2Bpd%2BlWYVhykOqQXauUVI%2F%2BGcD%2BfWrA7gfaKh92mBdDAdAtuHzwwn%2FJaXijeyFE%7Ctkp%3ABk9SR8amkP-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/ThUAAeSw93Np-SKy/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787052902664,
+          "lastSeen": 1787677529172
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 499900,
+          "submissionFeeC": 7999,
+          "totalCostC": 507899,
+          "psa10ValueC": 76500,
+          "ratio": 0.15062049738235359
+        },
+        "firstOpportunityAt": 1787052902664
       },
       "firstOpportunityAt": 1787052902664,
       "updatedAt": 1787677529172
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HfsAAeSwNk5qPAxT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "stale",
         "firstSeen": 1787052902664,
         "lastSeen": 1787299540326
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ThUAAeSw93Np-SKy/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/if8AAeSw8OtpZsOG/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Cw4AAeSw1XFqH4Pv/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172

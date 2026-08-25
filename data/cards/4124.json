@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4124,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FrUAAeSwPCVpxrJa/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SC8AAeSwURVqPb2l/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/TioAAOSw8zdet1qV/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787056678511,
         "lastSeen": 1787677567103
@@ -96,6 +99,13 @@
         "totalCostC": 145415,
         "psa10ValueC": 675000,
         "ratio": 4.641887013031668
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": null,
+        "cgc10Bin": 0,
+        "cgc10Auction": 0,
+        "ratio": null,
+        "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787214401857,
       "updatedAt": 1787677567103
@@ -126,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FrUAAeSwPCVpxrJa/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -140,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/TioAAOSw8zdet1qV/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787056678511,
         "lastSeen": 1787677567103
@@ -154,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/3ScAAeSwahlqaL7y/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787056678511,
         "lastSeen": 1787677567103
@@ -168,6 +181,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SC8AAeSwURVqPb2l/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103

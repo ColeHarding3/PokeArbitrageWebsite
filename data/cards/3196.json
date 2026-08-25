@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3196,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/GVIAAeSw4GNp~pue/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094585479,
         "lastSeen": 1787677559236
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CEQAAeSwf2lp8mCb/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -83,6 +85,41 @@
         "totalCostC": 87998,
         "psa10ValueC": 120204,
         "ratio": 1.365985590581604
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "188617173894",
+          "title": "Wailord ex 100/100 Sandstorm Holo Rare CGC 10 GEM MINT Vintage Pokemon CardOpens in a new window or tab",
+          "priceC": 200000,
+          "shippingC": 0,
+          "landedC": 200000,
+          "url": "https://www.ebay.com/itm/188617173894?_skw=%28wailord%29+%28100%2Csandstorm%29+%28CGC%2CPSA%29&epid=12043364975&itmmeta=01M0W03VYMV37MTGJ98S9C24Z9&hash=item2bea75ab86:g:8TwAAeSwgQtqTm7W&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAnWj4hMCvyWtO4Gr%2FeLkZHq6BZ8I0qjmMJpSfqxJ5%2BF%2Bb%2BFimXWefKqVpFI89Ee3VyTxsEkig1kTAus2XIVyu8EiCWY%2BJytEwJX9T7T3RNP0XXs%2BTqEv7hyChoWITiEpdtx2lcRYjagdl%2BML5fIuecmWBtquf0fLYUGhjXXn36D2CHA7kFxeX7IB95Q9GsJ7IySiStT7h5qqRyA84umqdgbT84v02wukFBUkAIq%2BbZJsZn30qGVKbwSRgvlCfYSD1u12TcBWNr2PSORCkVpJTL%7Ctkp%3ABk9SR8q_j4CHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/8TwAAeSwgQtqTm7W/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787057553322,
+          "lastSeen": 1787677559236
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 200000,
+          "submissionFeeC": 7999,
+          "totalCostC": 207999,
+          "psa10ValueC": 120204,
+          "ratio": 0.5779066245510796
+        },
+        "firstOpportunityAt": 1787057553322
       },
       "firstOpportunityAt": 1787094585479,
       "updatedAt": 1787677559236
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CEQAAeSwf2lp8mCb/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/GVIAAeSw4GNp~pue/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094585479,
         "lastSeen": 1787677559236
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/IbsAAeSw5glqge1w/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8TwAAeSwgQtqTm7W/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ZVMAAeSwAqBpBK~z/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236

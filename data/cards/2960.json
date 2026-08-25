@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2960,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5eEAAeSwp31p7SNq/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/hHMAAeSwmnBqJw8~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -83,6 +85,41 @@
         "totalCostC": 98788,
         "psa10ValueC": 77875,
         "ratio": 0.7883042474794509
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287293995545",
+          "title": "CGC GEM MINT 10 Noctowl 2003 Skyridge #40/144 Reverse Holo PokémonOpens in a new window or tab",
+          "priceC": 90249,
+          "shippingC": 540,
+          "landedC": 90789,
+          "url": "https://www.ebay.com/itm/287293995545?_skw=%28noctowl%29+%2840%2Cskyridge%29+%28CGC%2CPSA%29&epid=10043376115&itmmeta=01M0VZTJYKM9BYHTRDNZ46QP1X&hash=item42e40e7a19:g:5eEAAeSwp31p7SNq&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBjgNICCkEWvHziXOlURXrazSLxeHGS3yhVfSLnfCvK532EWR26O5MUuiJDEtet2CKelEQcU48JteSovv4FJW2UDz2JGPsdR8AcFihYLV%2BnjsIVeRkLo1Jg%2BnVLy7lNwTVf13t8o9MYtd2YothfhIbgQQM%2F1ytHRI3rrlfEiLgJdTef8oVd4v8XnWt%2BBic52XeQ4k69a2zgHI3YlA92Pa7GEcit9%2FkAeSzfIqB3h0Tvt4nG%2Bg37dc6sIZrBZH9U0eiXyIKqIWZQ8xCnGDTrBeo4%7Ctkp%3ABk9SR76v6v-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/5eEAAeSwp31p7SNq/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787055777278,
+          "lastSeen": 1787677537341
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 90789,
+          "submissionFeeC": 7999,
+          "totalCostC": 98788,
+          "psa10ValueC": 77875,
+          "ratio": 0.7883042474794509
+        },
+        "firstOpportunityAt": 1787055777278
       },
       "firstOpportunityAt": 1787055777278,
       "updatedAt": 1787677537341
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5eEAAeSwp31p7SNq/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/hHMAAeSwmnBqJw8~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341

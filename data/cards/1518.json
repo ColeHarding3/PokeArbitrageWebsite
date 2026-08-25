@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1518,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/YekAAeSw5fZqfz4T/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787047017265,
         "lastSeen": 1787677586318
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wWQAAeSwZdFpvl9U/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787047017265,
         "lastSeen": 1787677586318
@@ -83,6 +85,41 @@
         "totalCostC": 187899,
         "psa10ValueC": 697550,
         "ratio": 3.712366750222194
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "336742323442",
+          "title": "CGC 10 GEM MINT Kabutops 1st Edition Neo Discovery 6/75 Holo Pokemon CardOpens in a new window or tab",
+          "priceC": 127999,
+          "shippingC": 0,
+          "landedC": 127999,
+          "url": "https://www.ebay.com/itm/336742323442?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=26043383382&itmmeta=01M0VXN9NFBFE4N14YWPNKGS6B&hash=item4e676814f2:g:YekAAeSw5fZqfz4T&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBDtqOaoOYPugpbY%2Ff0EPiXSiBq4K60gsCwC%2BVn2zxCNbrY47P7CWJIkb8dqayLtUuJ11Ztd%2B6Zc94M5pvLbcCNmKjcvNDEkkNzW5dk1%2B3iOtOeeHekTxJFFFu3o9qZ6Zan0CPsKA%2BuRhxtDLiuuZRWwCG2VeWBMLAkLGcRIqGDC8XMW8k620EZ7HI8AObsPYEaLQdloFmBFXD%2Bs6RzuDwj%2FC48cjJKcdqvR93a5IzG%2FVo8sHmJOk4yiJNt599yqD5xbJe4TwQHQy9gD6EMeasIxQm5ZW4H5o8fq52a%2BqVOuH1i1BZetEWgwOnabkVX%2F5AXmb2WQRWxS9%2BWiXPec%2B0j%7Ctkp%3ABk9SR4yb1f2GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/YekAAeSw5fZqfz4T/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787047017265,
+          "lastSeen": 1787677586318
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 127999,
+          "submissionFeeC": 59900,
+          "totalCostC": 187899,
+          "psa10ValueC": 697550,
+          "ratio": 3.712366750222194
+        },
+        "firstOpportunityAt": 1787047017265
       },
       "firstOpportunityAt": 1787047017265,
       "updatedAt": 1787677586318
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/YekAAeSw5fZqfz4T/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787047017265,
         "lastSeen": 1787677586318
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wWQAAeSwZdFpvl9U/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787047017265,
         "lastSeen": 1787677586318
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5e8AAeSwZQRpqP5w/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787047017265,
         "lastSeen": 1787677586318
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/1W8AAeSwijdqi6Ef/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787556800968,
         "lastSeen": 1787677586318

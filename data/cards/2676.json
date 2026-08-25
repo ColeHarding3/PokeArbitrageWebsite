@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2676,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/lAgAAeSwontpgspu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677535654
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4ugAAeSwX61qOV7G/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677535654
@@ -83,6 +85,41 @@
         "totalCostC": 90424,
         "psa10ValueC": 775000,
         "ratio": 8.5707334336017
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "317838664624",
+          "title": "LOW POP CGC 10 Gem Mint Dodrio Reverse Holo Aquapolis 2003 Pokemon Card 46/147 Opens in a new window or tab",
+          "priceC": 29900,
+          "shippingC": 624,
+          "landedC": 30524,
+          "url": "https://www.ebay.com/itm/317838664624?_skw=%28dodrio%29+%2846%2Caquapolis%29+%28CGC%2CPSA%29&epid=28043373805&itmmeta=01M0VZJ4DWVJVVVWNM8WX6FZS9&hash=item4a00a923b0:g:lAgAAeSwontpgspu&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAYmQ%2Fui4fykHyeQJDlQXC%2FMoa8%2BwPNFxT5LYpJkMjFPsnZL90%2FbCI4TK8%2FOCcqP%2FkRuP5rUvvwx%2BSpkoEMs9UcdVYnQAZVmDQXWmepp59A90pg%2BD7XMAD2lF4len%2By7ScMwFjNEmO%2BLBhyxiMnWOqnxLTuKZ6Juo1Gszd4rPdoUbnWeT7KI52ikq4N06EQt8WKWoNoF%2Fw1XcdIYdGfPVPqqYiJBQARZOwxNESCdc0U4B%2FQdo0mtVHvU6DBq5AMwKI1JNNaHp8CXZ351YwjFOx1%7Ctkp%3ABk9SR5jHyP-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/lAgAAeSwontpgspu/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787165573087,
+          "lastSeen": 1787677535654
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 30524,
+          "submissionFeeC": 59900,
+          "totalCostC": 90424,
+          "psa10ValueC": 775000,
+          "ratio": 8.5707334336017
+        },
+        "firstOpportunityAt": 1787165573087
       },
       "firstOpportunityAt": 1787165573087,
       "updatedAt": 1787677535654
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4ugAAeSwX61qOV7G/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677535654
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/lAgAAeSwontpgspu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677535654
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/vzEAAeSwf-hqOJfR/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677535654

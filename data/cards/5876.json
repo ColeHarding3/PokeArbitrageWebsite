@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5876,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zpUAAeSw6qlqepxT/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/brgAAeSw0ZJpzxHk/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787648929109,
         "lastSeen": 1787677557971
@@ -83,6 +85,41 @@
         "totalCostC": 108997,
         "psa10ValueC": 119000,
         "ratio": 1.0917731680688458
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "188774486670",
+          "title": "NINETALES [CGC 10 POP 13 & IMAKUNI ART!] #19 REVERSE HOLO EX POWER KEEPERSOpens in a new window or tab",
+          "priceC": 99999,
+          "shippingC": 999,
+          "landedC": 100998,
+          "url": "https://www.ebay.com/itm/188774486670?_skw=%28ninetales%29+%2819%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=5043380287&itmmeta=01M0W2T7FQNBNVPDMX7YFS2SAM&hash=item2bf3d6128e:g:zpUAAeSw6qlqepxT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDy3hsZuz0WbsUkx2dvcMgnYn4xR0g83qS%2FWoui5g860Acnnd8K8cjiixF%2FD%2FkR8xsKIx25GasOprp7%2BDtMfWhvCcBizN2t9FfxUK0PikxI1aJ2YJtVS5gTYP--TJ5kJfg3RVFCIeIpUC%2BeNdevY%2FQBZBlP%2FgNSnPbj9Y0bYhQISsFkv7ZIPWotHZcRtmQ4MCyS9rcyrvK2sRc7KK7C75qvzN4BVke5R17X87PK1b8xyPl5p9tOiY54k5EkvHcTPQrJdOPHRMToAZ0xHiXNFHgx4pDbQhzR7%2Bx3jEkaglAHG0OdHwqoP%2FbwhNi7CVVUwUvRESbXKnPa2tTrNBIT5WXX%7Ctkp%3ABk9SR5j46IKHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/zpUAAeSw6qlqepxT/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787162866541,
+          "lastSeen": 1787677557971
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 100998,
+          "submissionFeeC": 7999,
+          "totalCostC": 108997,
+          "psa10ValueC": 119000,
+          "ratio": 1.0917731680688458
+        },
+        "firstOpportunityAt": 1787162866541
       },
       "firstOpportunityAt": 1787162866541,
       "updatedAt": 1787677557971
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/brgAAeSw0ZJpzxHk/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787648929109,
         "lastSeen": 1787677557971
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BBcAAeSwWXtqgTL3/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/UxQAAeSwraVqV6oT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zpUAAeSw6qlqepxT/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971

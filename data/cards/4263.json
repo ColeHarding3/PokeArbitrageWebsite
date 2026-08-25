@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4263,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/VGUAAeSwrFJqaVHl/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/TUwAAeSw5Jpp2lSS/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -83,6 +85,41 @@
         "totalCostC": 47999,
         "psa10ValueC": 100900,
         "ratio": 2.1021271276484925
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "188709852721",
+          "title": "SPINARAK [YUKA MORII] 78 REVERSE HOLO EX TEAM ROCKET RETURNS CGC 10 [POP 10!]Opens in a new window or tab",
+          "priceC": 40000,
+          "shippingC": 0,
+          "landedC": 40000,
+          "url": "https://www.ebay.com/itm/188709852721?_skw=%28spinarak%29+%2878%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=22043374660&itmmeta=01M0W0YHY4VJQRFCJXHFY7SJ3W&hash=item2beffbd631:g:VGUAAeSwrFJqaVHl&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDx0cland5Hj6%2B6TNwL9rZpvO6CyrEhXIw%2Fx9y%2FHjrv1f9aJpgecVRqHX7DU8QiXo5arCJmXK6Nk6VI840%2FC0Wjb6Jvapr5A0Li2SjTc3uHPvTL0PUWb%2BERNlDOybuCAzwjTiowWkj5G%2BOQ1boLIdSZV3w%2BrcIvUaMBfJMaravMFh4C8nP2UXurXBuAlR5JmxylgNnpV1%2FnRyLvdPUmI1whT7gbWLKTwy7VMOw30RvzLTu3c0VDALiLFbA7nU0uLHcAYWwkwg8%2FNY60cfR9NUkixDzkB2rtrN78Ig%2BIjy0m6A%3D%3D%7Ctkp%3ABk9SR8qf-oCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/VGUAAeSwrFJqaVHl/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787214401857,
+          "lastSeen": 1787677567103
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 40000,
+          "submissionFeeC": 7999,
+          "totalCostC": 47999,
+          "psa10ValueC": 100900,
+          "ratio": 2.1021271276484925
+        },
+        "firstOpportunityAt": 1787214401857
       },
       "firstOpportunityAt": 1787214401857,
       "updatedAt": 1787677567103
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/TUwAAeSw5Jpp2lSS/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7AcAAOSwhtpfm0M8/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/VGUAAeSwrFJqaVHl/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1124,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/X48AAeSwDF1qZTwg/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787045007404,
         "lastSeen": 1787677575203
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CDAAAeSwiIVqi1fZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787045007404,
         "lastSeen": 1787677575203
@@ -83,6 +85,41 @@
         "totalCostC": 97999,
         "psa10ValueC": 120000,
         "ratio": 1.2245022908397025
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "188695922373",
+          "title": "GIOVANNI'S PERSIAN #8 HOLO GYM CHALLENGE CGC 10 [POP 50 W/ SICK FOOT SWIRL!]Opens in a new window or tab",
+          "priceC": 90000,
+          "shippingC": 0,
+          "landedC": 90000,
+          "url": "https://www.ebay.com/itm/188695922373?_skw=%28giovannis%2Cpersian%29+%288%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=25043363361&itmmeta=01M0VX4NF78ZQSCPVCFCCGT49C&hash=item2bef2746c5:g:X48AAeSwDF1qZTwg&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xACzBiWRDqm0zdB%2BU%2BRXHyV%2FzMbYzksJ638d3o%2Ba6PWT2DKcURzKCPBfiBeF%2Fpf%2FOTge88tuupKPARxkPkpxUllyMT8T%2BOL5HfOQ1L4ADxwEE6A1NVIVyMb%2BI2vUHi1anmFZxTHGBiwgvc6Hq0ltn%2FO%2FfYOuiLjAoV%2B%2FC%2FMpvMnlkQHKbko0KDNM2nXpnz1er61CMWCmDR%2BsYgok1B8yILROqSWa8FnQYfoMhUES52EAvVtxK%2Bl8Ig9xvX4l3WulPOzcyyNx5IwnClz%2F1MAot9SQLDl2PnxZJkuk3E3bF9cFA%3D%3D%7Ctkp%3ABk9SR_LXkv2GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/X48AAeSwDF1qZTwg/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787045007404,
+          "lastSeen": 1787677575203
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 90000,
+          "submissionFeeC": 7999,
+          "totalCostC": 97999,
+          "psa10ValueC": 120000,
+          "ratio": 1.2245022908397025
+        },
+        "firstOpportunityAt": 1787045007404
       },
       "firstOpportunityAt": 1787045007404,
       "updatedAt": 1787677575203
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CDAAAeSwiIVqi1fZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787045007404,
         "lastSeen": 1787677575203
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/X48AAeSwDF1qZTwg/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787045007404,
         "lastSeen": 1787677575203
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ue4AAeSw~9Bp5aH2/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787045007404,
         "lastSeen": 1787677575203
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/aM4AAeSwt-ZqSuh7/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787045007404,
         "lastSeen": 1787677575203

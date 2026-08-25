@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2067,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zAgAAeSwwatp~-np/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/VN4AAeSwJmhqhBIR/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -83,6 +85,41 @@
         "totalCostC": 417399,
         "psa10ValueC": 229057,
         "ratio": 0.5487722778444606
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "257499202416",
+          "title": "CGC 10 Gem Mint Sandslash Reverse Holo Foil 62/110 Legendary Collection. LOW POPOpens in a new window or tab",
+          "priceC": 399999,
+          "shippingC": 2500,
+          "landedC": 402499,
+          "url": "https://www.ebay.com/itm/257499202416?_skw=%28sandslash%29+%2862%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=18043373292&itmmeta=01M0VYK19CGGVPCVQVC60W3GZH&hash=item3bf4260370:g:zAgAAeSwwatp~-np&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCbiv2ucqzl2LaCg1jGr9rd6l5KIldoMuoRStWfB%2BnNONXZoQx1p5Bu5EJc5eqo5ycY%2FMN1AibmI%2B1iSmy6EyYm5GoKR03M3ecOegef5es832f%2FB6JdwuP%2BNFrvzmPZ5IAxE8aeyOXbQ7l7WowkyhsQVYEdSCNqO69IUKpDsdIJyfcxBFN2jPjGIdm1w0HSgm8SdXBv3j6JZQBfYw3rupT7yZxNKdFDD7OFx7EtNp0cGoUNr%2Be%2BgXJATA5bADkNdkHaKnRbnqS6Wd6rjKUiKbCEyxzkXtb%2B8%2BVQhI%2F%2BcPVU1qLoxUNE3Q30cVBb5JExhy0e8aTC3l6bnYrws2fqx%2FNY%7Ctkp%3ABk9SR4CVzP6GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/zAgAAeSwwatp~-np/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787050911353,
+          "lastSeen": 1787677514144
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 402499,
+          "submissionFeeC": 14900,
+          "totalCostC": 417399,
+          "psa10ValueC": 229057,
+          "ratio": 0.5487722778444606
+        },
+        "firstOpportunityAt": 1787050911353
       },
       "firstOpportunityAt": 1787050911353,
       "updatedAt": 1787677514144
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/VN4AAeSwJmhqhBIR/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/030AAeSw9~xqeeA0/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/QIsAAeSwZoxp8F0b/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zAgAAeSwwatp~-np/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144

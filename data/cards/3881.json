@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3881,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Xj8AAeSwnLRp1Fci/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SCQAAeSwa5xp~kTt/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -83,6 +85,41 @@
         "totalCostC": 19998,
         "psa10ValueC": 100000,
         "ratio": 5.000500050005001
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "236741004358",
+          "title": "Luvdisc 40/101 EX Hidden Legends Reverse Holo Rare Pokemon Card CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 11999,
+          "shippingC": 0,
+          "landedC": 11999,
+          "url": "https://www.ebay.com/itm/236741004358?_skw=%28luvdisc%29+%2840%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=6043385184&itmmeta=01M0W0JMZ17Y0G226NGKQ7GJFP&hash=item371edd0c46:g:Xj8AAeSwnLRp1Fci&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDelr1Bax1N7xmRqp5%2BaJbTXmKQcO1qxHtMEiPLDcvWpM9CSHtQlqZ1kpru49L%2BhVw5QIBVmBOm36qaGA8IuFPO9pV%2BtOwU9dqFa%2Fct9X3EFS2doR5533vvM1eRBZJbfWKd1xEQn37%2BRcCNJRf0SlIpd9oVGDzFspZW2ZmmflfB0BWytiZitee5SuGvrk49NqZq7unYISlF22Mf1MvffML3dM9nErIUGWv89gmclgVPL2xMN1r2Q5Xzcjwl5Oab4SkrUsw4g5f0gP%2B2LzzxkshWfbmonZYE3Qr9JUydm%2BQPkw%3D%3D%7Ctkp%3ABk9SR97PyoCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/Xj8AAeSwnLRp1Fci/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787060323903,
+          "lastSeen": 1787677563415
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 11999,
+          "submissionFeeC": 7999,
+          "totalCostC": 19998,
+          "psa10ValueC": 100000,
+          "ratio": 5.000500050005001
+        },
+        "firstOpportunityAt": 1787060323903
       },
       "firstOpportunityAt": 1787060323903,
       "updatedAt": 1787677563415
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Xj8AAeSwnLRp1Fci/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SCQAAeSwa5xp~kTt/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415

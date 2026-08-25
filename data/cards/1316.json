@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1316,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MN4AAeSw-dlqiLsm/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787383947761,
         "lastSeen": 1787677583640
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HDIAAeSwGEZqhONw/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677583640
@@ -83,6 +85,27 @@
         "totalCostC": 97460,
         "psa10ValueC": 806700,
         "ratio": 8.277241945413502
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "177967766867",
+          "title": "Feraligatr 5/111 Neo Genesis, holo rare, CGC 10, Pokémon, 2000 POPULATION 17Opens in a new window or tab",
+          "priceC": 100000,
+          "shippingC": null,
+          "landedC": null,
+          "url": "https://www.ebay.com/itm/177967766867?_skw=%28feraligatr%29+%285%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=23043383429&itmmeta=01M0VXCTTVZ1NXC4BQCPCQ75AB&hash=item296fb49d53:g:Z3wAAeSw635puNMx&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBJbj1D2HbcgdjMvFLCdS%2FR0E%2BftYF%2FSHbalXgzhDChHsYwXc5mEP0LVaP9EGdZ%2BmCI%2BGl6YxJ3FD2DkX69N6h%2BliMUPYAt%2BGCYchdRk0xuCfBaUZktrzcqHshTvfC3StJDW40Vydx8rpBM9qS0m4zOo1HfRLV%2FffV09%2B0mc6JcUyF2BxJ30Pjqy5QmPlljdAsHFe0zj1Nf8V2sk5X9zoxtYt222YMlnsq3yKykpkh5YkGLADBR4HJCsq2v02%2FDIlQ%2Frlsb3MUqYOqknuhNdxze%7Ctkp%3ABk9SR8ats_2GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/Z3wAAeSw635puNMx/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787046039169,
+          "lastSeen": 1787677583640
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": null,
+        "firstOpportunityAt": 1787046039169
       },
       "firstOpportunityAt": 1787383947761,
       "updatedAt": 1787677583640
@@ -113,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MN4AAeSw-dlqiLsm/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787383947761,
         "lastSeen": 1787677583640
@@ -127,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/skUAAeSwf4JqZThs/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787211216789,
         "lastSeen": 1787677583640
@@ -141,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/UjkAAeSwSX9qKzsd/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094598564,
         "lastSeen": 1787677583640
@@ -155,6 +181,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Z3wAAeSw635puNMx/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -169,6 +196,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HDIAAeSwGEZqhONw/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677583640

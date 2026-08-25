@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4323,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/hyUAAeSwU3ZqOxT9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/JbYAAeSwHQVqQG2q/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -83,6 +85,41 @@
         "totalCostC": 135440,
         "psa10ValueC": 340511,
         "ratio": 2.5141095688127586
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "137447099598",
+          "title": "Dusclops ex Holo Rare 2005 Pokemon EX Emerald #94/106 CGC 10Opens in a new window or tab",
+          "priceC": 100000,
+          "shippingC": 540,
+          "landedC": 100540,
+          "url": "https://www.ebay.com/itm/137447099598?_skw=%28dusclops%29+%2894%2Cemerald%29+%28CGC%2CPSA%29&epid=23043383911&itmmeta=01M0W18H398ND8ZFCSC810D9KK&hash=item20007c4cce:g:hyUAAeSwU3ZqOxT9&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBYiZoqXHaL%2B7E%2BjZ%2F2iwBkTcs1t6dmglU1VOkWBrriHgdSoL0nO1b5KgYXk5d0IoP6Xt1xok5Pc7EAldIb3d%2F3X8Oj38%2BBmHCewGfcj1ukkyVxaNHeqPu2FQ%2FbjNp4brQkMCPjTmS%2FyTdoIw%2FIgh0ladlI5g05szFUvIWbd3S08wWEh9shHFrilhVFulNyxykK%2FVY9gPY7Hs9h1UWY8SdQb47siC2wlwh8Fxzr9PKDdEbWE9QYBiW38ryIz%2FJ4aYyNNZ7cZu8jWTy%2Bq8U%2BSc31%7Ctkp%3ABk9SR_yRooGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/hyUAAeSwU3ZqOxT9/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787064622165,
+          "lastSeen": 1787677571153
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 100540,
+          "submissionFeeC": 34900,
+          "totalCostC": 135440,
+          "psa10ValueC": 340511,
+          "ratio": 2.5141095688127586
+        },
+        "firstOpportunityAt": 1787064622165
       },
       "firstOpportunityAt": 1787064622165,
       "updatedAt": 1787677571153
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/JbYAAeSwHQVqQG2q/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/6LgAAeSwAxBp-ccn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/hyUAAeSwU3ZqOxT9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153

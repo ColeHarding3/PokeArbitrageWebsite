@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 14787,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/RBYAAeSwuzZqWDni/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224417682,
         "lastSeen": 1787677580385
@@ -70,6 +71,41 @@
         "totalCostC": 234900,
         "psa10ValueC": 500000,
         "ratio": 2.1285653469561514
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "257623550023",
+          "title": "POP 1 CGC 10 Entei & Raikou Top Half Legend UnleashedOpens in a new window or tab",
+          "priceC": 200000,
+          "shippingC": 0,
+          "landedC": 200000,
+          "url": "https://www.ebay.com/itm/257623550023?_skw=%28entei%2Craikou%2Clegend%29+%2890%2Cunleashed%29+%28CGC%2CPSA%29&epid=8043377385&itmmeta=01M0W5KX7F61T1K9ZHYVSMEBJG&hash=item3bfb8f6847:g:RBYAAeSwuzZqWDni&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDcLRrVADJrEZvbxzbM3g2JjnM%2FjcSm%2FK71fsn1sfZUkABCpe%2FDiBjnGu7TNmLTZewWLJ2ec8HosZmmWNfmIyHEr2XxFujk23MHPCxY9F6qKpW9GhrvR4%2BeliBspnQzsBF8Ul3CTSBRtM%2BMNzUnsWPOJArF0VS%2BKV1SI8QiOtPjnKba0xROYMV3TOZZ0OlVnGi4I9A1q%2BIxD8sWcrYI9WEPKtigCdrV%2FbyBkpAcR2O75U06jPANZ%2F2DX7GKHApxTaj7Q2GHovcfZ02%2FRNhEHMQu1MlXpKPlTFEeytAck5SM0Q%3D%3D%7Ctkp%3ABk9SR4rUz4WHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/RBYAAeSwuzZqWDni/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787224417682,
+          "lastSeen": 1787677580385
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 200000,
+          "submissionFeeC": 34900,
+          "totalCostC": 234900,
+          "psa10ValueC": 500000,
+          "ratio": 2.1285653469561514
+        },
+        "firstOpportunityAt": 1787224417682
       },
       "firstOpportunityAt": 1787224417682,
       "updatedAt": 1787677580385
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/RBYAAeSwuzZqWDni/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224417682,
         "lastSeen": 1787677580385

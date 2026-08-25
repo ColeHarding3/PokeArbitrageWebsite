@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3199,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/340AAeSwU5VpzouK/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094585479,
         "lastSeen": 1787677559236
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4vYAAeSwaStqYTH1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/mkwAAeSw131qjIGH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787646090671,
         "lastSeen": 1787677559236
@@ -96,6 +99,41 @@
         "totalCostC": 95496,
         "psa10ValueC": 299107,
         "ratio": 3.132141660383681
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "286715832034",
+          "title": "Pokemon Typhlosion ex EX Sandstorm Ultra Rare #99 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 120000,
+          "shippingC": 999,
+          "landedC": 120999,
+          "url": "https://www.ebay.com/itm/286715832034?_skw=%28typhlosion%29+%2899%2Csandstorm%29+%28CGC%2CPSA%29&epid=26043383472&itmmeta=01M0W03KB96YCB35GKTJA3QHAJ&hash=item42c19866e2:g:ZaQAAeSwP65oerPo&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA6xTkH7hKl8xlwDKVgmJXFOIU%2BS4xyIqHL4utSJL%2FnA1yBj2HChplYjTUhvGA5p6Li3DrMVmwj%2Bd8Z97J4w0pnKODM327tfqpJHNxQl%2F5vOwDY%2FXaUgdTEh90MabXQeRBxySjJMijJ46%2BK6Yd9VHiN%2B%2BA7T%2BvvW1%2Byj3k0i5qZ%2BBSPz%2FMF2zmVkYT1byBmlSIz2zHfaX%2FxlkO27PVb304h5CwNUbJ7Np5nd77rd11ZCtYslwSUN36uVsLbUeJnGawW3g1eVR2hmOPIXhZrzPz4%7Ctkp%3ABk9SR-q1joCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/ZaQAAeSwP65oerPo/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787057553322,
+          "lastSeen": 1787677559236
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 120999,
+          "submissionFeeC": 34900,
+          "totalCostC": 155899,
+          "psa10ValueC": 299107,
+          "ratio": 1.9185947312041771
+        },
+        "firstOpportunityAt": 1787057553322
       },
       "firstOpportunityAt": 1787094585479,
       "updatedAt": 1787677559236
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/340AAeSwU5VpzouK/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094585479,
         "lastSeen": 1787677559236
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/mkwAAeSw131qjIGH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787646090671,
         "lastSeen": 1787677559236
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/lPEAAeSw6SNqBy9g/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094585479,
         "lastSeen": 1787677559236
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ZaQAAeSwP65oerPo/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -182,6 +224,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4vYAAeSwaStqYTH1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236

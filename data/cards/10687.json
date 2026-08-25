@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 10687,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Qz8AAeSwRZlp6Vbz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -70,6 +71,41 @@
         "totalCostC": 50700,
         "psa10ValueC": 150738,
         "ratio": 2.9731360946745564
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "366363459915",
+          "title": "2005 Pokemon Ex Unseen Fprces #7/115 Houndoom Holo CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 35000,
+          "shippingC": 800,
+          "landedC": 35800,
+          "url": "https://www.ebay.com/itm/366363459915?_skw=%28houndoom%29+%287%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=13043374652&itmmeta=01M0W1DMQ7XES0F68SZC0ZVHHD&hash=item554cf6c14b:g:Qz8AAeSwRZlp6Vbz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDnAfn5FBdyY6a62L8XypFaSj%2BOBetSlydFmAVX7LzfpXFAJKdqdj1AuHLzhT5CoVCG--oZ12hlyMS8MoOJHNEw%2FiKzAzvVJ4MdgtZQzDUG9bi8GrFKVt2%2BvmiNYfPiwU3sG2xhx9v3O1%2B4ddJMjW7ChWDwuvVcKT%2BkYLaykNkOCWrcFf%2B7ZEf8ASLUAqKf2XP33SnfobwIKflo0q3i8Fz2jl2Ow0Gunw6KmmKX%2BsZJRnMtk%2BBUIvDQZ4mZYbCBduzvGdvMZs1qoAVpIqFVvjaw%7Ctkp%3ABk9SR_jLtoGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/Qz8AAeSwRZlp6Vbz/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787215619257,
+          "lastSeen": 1787677540433
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 35800,
+          "submissionFeeC": 14900,
+          "totalCostC": 50700,
+          "psa10ValueC": 150738,
+          "ratio": 2.9731360946745564
+        },
+        "firstOpportunityAt": 1787215619257
       },
       "firstOpportunityAt": 1787215619257,
       "updatedAt": 1787677540433
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Qz8AAeSwRZlp6Vbz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433

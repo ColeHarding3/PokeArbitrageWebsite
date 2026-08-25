@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 12249,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PlQAAeSwBmRqK4PK/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/n8EAAeSw7IlqF21i/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -83,6 +85,41 @@
         "totalCostC": 135449,
         "psa10ValueC": 499999,
         "ratio": 3.6914189104386153
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "336635112989",
+          "title": "CGC 10 Azelf Holo Rare Mysterious Treasures 2007 Pokemon Card #4 POP 5Opens in a new window or tab",
+          "priceC": 99999,
+          "shippingC": 550,
+          "landedC": 100549,
+          "url": "https://www.ebay.com/itm/336635112989?_skw=%28azelf%29+%284%2Cmysterious%2Ctreasures%29+%28CGC%2CPSA%29&epid=13043374217&itmmeta=01M0W39KPZ6WQX817XEBW9G0VB&hash=item4e61042e1d:g:PlQAAeSwBmRqK4PK&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDT9MXhZUCUrnSVQVxKTQt9TLz0Go5B6DvdkHLik0hnwbLqbwiloEe4f5aRQ39eXIljk5LGu22eZAVm8%2FiHZLtIDACdyqAyeIAzMtnAvz4afEr24ULoX10lXy5wBXNXvPhoTd8k2Jw9ek7M9kQom0lUjwib%2BYxycCj1p5dw5tf2z8v2qLmtnqUiDxAjpgGFCp1rBndcoABVKOuRuRuHAIClIX0BhpWjfn7YN%2BO%2Fbf8ctyVvCkbEcrIW3GyAT5%2BbGw6xmpNTTxlGtO%2BummvgVEfY6AfpdVJdDCO96VZ%2F4Q25Oq4wsrtxztsP%2FJ3OpJpD2MzqH2UYnrRYKwz%2BwDmxS8w%2B%7Ctkp%3ABk9SR967poOHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/PlQAAeSwBmRqK4PK/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787220120669,
+          "lastSeen": 1787677520812
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 100549,
+          "submissionFeeC": 34900,
+          "totalCostC": 135449,
+          "psa10ValueC": 499999,
+          "ratio": 3.6914189104386153
+        },
+        "firstOpportunityAt": 1787220120669
       },
       "firstOpportunityAt": 1787220120669,
       "updatedAt": 1787677520812
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/n8EAAeSw7IlqF21i/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PlQAAeSwBmRqK4PK/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4151,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/eDkAAeSwqAhpqyUP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787300942442,
         "lastSeen": 1787677567103
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/EJwAAeSwNlpqJHzB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787386788815,
         "lastSeen": 1787677567103
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HhwAAeSwi0pqhwqx/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787300942442,
         "lastSeen": 1787677567103
@@ -96,6 +99,41 @@
         "totalCostC": 108598,
         "psa10ValueC": 116436,
         "ratio": 1.07217444151826
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "117073498558",
+          "title": "2004 POKEMON EX TEAM ROCKET RETURNS - REVERSE HOLO SLOWPOKE CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 100000,
+          "shippingC": 599,
+          "landedC": 100599,
+          "url": "https://www.ebay.com/itm/117073498558?_skw=%28slowpoke%29+%2876%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=3043380001&itmmeta=01M0W0XTXP1WC58BC1QHPTJ3JB&hash=item1b421fd1be:g:eDkAAeSwqAhpqyUP&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCp8YeV7Wzc95%2FsAALdqVK52005DsEV8WHGrn%2FpMUC%2BKvtB2WxbpgxVarplIdO6no%2BU1NmuVYpRCaxRWe9SXqMBWy5BcUuINanNBuvvNvvbmRwT6Qxdi8S%2BKvUlXcVTTeMgdzIzi%2Ff5iv4PuYvBgUTJ50Jr3w4qhozOc2L%2ByF%2B00hchGGAq2T8jODG2RTzMTMAtK%2B5w6GmZhB0QM7uKxqcqh%2BWwUoS11bwdv9K0%2BZMYvbBhUlTT0GoYb2rEb6S4SvLHsBViGSsRJfzrliP55fCh56FX0%2BAsZo0Q3tM2DHQtSQ%3D%3D%7Ctkp%3ABk9SR5iv94CHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/eDkAAeSwqAhpqyUP/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787300942442,
+          "lastSeen": 1787677567103
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 100599,
+          "submissionFeeC": 7999,
+          "totalCostC": 108598,
+          "psa10ValueC": 116436,
+          "ratio": 1.07217444151826
+        },
+        "firstOpportunityAt": 1787300942442
       },
       "firstOpportunityAt": 1787300942442,
       "updatedAt": 1787677567103
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HhwAAeSwi0pqhwqx/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787300942442,
         "lastSeen": 1787677567103
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/eDkAAeSwqAhpqyUP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787300942442,
         "lastSeen": 1787677567103
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/EJwAAeSwNlpqJHzB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787386788815,
         "lastSeen": 1787677567103

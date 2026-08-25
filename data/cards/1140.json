@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1140,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/StcAAOSwRelm10-M/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094595929,
         "lastSeen": 1787677575203
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fj4AAeSwBoFqRJbs/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787045007404,
         "lastSeen": 1787677575203
@@ -83,6 +85,41 @@
         "totalCostC": 191600,
         "psa10ValueC": 536516,
         "ratio": 2.800187891440501
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "406846211045",
+          "title": "💎CGC 10 GEM MINT💎🌀Double mouth Swirl🌀 Giovanni's Gyarados 1st Edition 5/132 Opens in a new window or tab",
+          "priceC": 159999,
+          "shippingC": 999,
+          "landedC": 160998,
+          "url": "https://www.ebay.com/itm/406846211045?_skw=%28giovannis%2Cgyarados%29+%285%2Cgym%2Cchallenge%29+%28CGC%2CPSA%29&epid=28043373924&itmmeta=01M0VX6XJTF981ER40T1H7BKHS&hash=item5eb9ec83e5:g:5HMAAeSwc5Bp2YH-&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCJLVH4qF8Si%2F3gX9Zyj1rS7ribIJ9vXVpEMB6jZ5cL9yBCK%2FTZzZcDjeaqKzCpoCaK18WGtbtfqCfkaBWL8M7%2BfMKO%2B2IG38%2FExm8rSo8iNmmM5m2%2F1qiJZdkY%2FqX6epdWyUII4NgdRXxjtDH4KssE48pcLIUdSWkBlc%2FLAs6Ak3hL61QRp%2BlEm55j%2B2wCoCELQ8ABi8tVZLDUqzWZheYSOGgzM1IVgZoGlJ%2Fk3QgLY6qpmWvN9kv1lrkK95oPN%2BuYnoT%2BA4o4UYr3JHGak9JngaQu%2FbYfqeNto49OYAler0OP5oBmP6JM%2F1eVGzKeTLmYsbWA7a7iOK%2Fnb%2FMDzmBG%7Ctkp%3ABk9SR-LZm_2GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/5HMAAeSwc5Bp2YH-/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787045007404,
+          "lastSeen": 1787677575203
+        },
+        "cgc10Bin": 3,
+        "cgc10Auction": 1,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 160998,
+          "submissionFeeC": 59900,
+          "totalCostC": 220898,
+          "psa10ValueC": 536516,
+          "ratio": 2.4287951905404306
+        },
+        "firstOpportunityAt": 1787045007404
       },
       "firstOpportunityAt": 1787094595929,
       "updatedAt": 1787677575203
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/C-0AAeSwPdNqjKov/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787643019744,
         "lastSeen": 1787677575203
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fj4AAeSwBoFqRJbs/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787045007404,
         "lastSeen": 1787677575203
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/yncAAeSwygtpSOUC/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787045007404,
         "lastSeen": 1787677575203
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/StcAAOSwRelm10-M/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094595929,
         "lastSeen": 1787677575203
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5HMAAeSwc5Bp2YH-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787045007404,
         "lastSeen": 1787677575203
@@ -183,6 +225,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/1mwAAeSwsDVqhTy1/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677575203
@@ -197,6 +240,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FCMAAeSwaD1qKPfW/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787045007404,
         "lastSeen": 1787677575203
@@ -211,6 +255,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qC4AAeSw~49qPq04/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787045007404,
         "lastSeen": 1787677575203

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2273,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/S6YAAeSw-QdqErUR/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/bE4AAeSwhPJqjNIm/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787645049763,
         "lastSeen": 1787677529172
@@ -83,6 +85,41 @@
         "totalCostC": 149999,
         "psa10ValueC": 84946,
         "ratio": 0.5663104420696138
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "178160714011",
+          "title": "CGC 10 Bulbasaur 95/165 Holo Reverse Expedition Series Komiya 2002 Pokemon CardOpens in a new window or tab",
+          "priceC": 140000,
+          "shippingC": 2000,
+          "landedC": 142000,
+          "url": "https://www.ebay.com/itm/178160714011?_skw=%28bulbasaur%29+%2895%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=18043373532&itmmeta=01M0VYZSYWXC1TGTKXJ09KEZ5F&hash=item297b34c11b:g:S6YAAeSw-QdqErUR&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xACfSJDSUa%2FUdz4mHsVGI9asejU%2Bj1XOY2gi6FOJW1cKLBBmWhVLaeUJm8uwqGcDFm3zXZ3Xe6rgx6%2BytX39Bm5sX6qoUxIXjtT7AqsEtKZbP%2FI2OpiKDKpyGgdr%2FXANCoC%2FCucx72%2FQS%2BJEmrTgIchBNKHnIeIKsGU%2F7Jv4g%2FMVPB2meuKg%2BI9Os30mvEyHa9b4vJt4WXhb4Kucxx%2FOang0a%2BsqwaQ25hU%2BbWLAE26qx4Y%2FZRD3WLsgkXrGLSKAVdWjcoI7PeB41kHqhh12EcZegGE%2BZaT7jAxhNh3K4Kd4g%3D%3D%7Ctkp%3ABk9SR-Kf__6GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/S6YAAeSw-QdqErUR/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787052902664,
+          "lastSeen": 1787677529172
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 142000,
+          "submissionFeeC": 7999,
+          "totalCostC": 149999,
+          "psa10ValueC": 84946,
+          "ratio": 0.5663104420696138
+        },
+        "firstOpportunityAt": 1787052902664
       },
       "firstOpportunityAt": 1787052902664,
       "updatedAt": 1787677529172
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/bE4AAeSwhPJqjNIm/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787645049763,
         "lastSeen": 1787677529172
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/S6YAAeSw-QdqErUR/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-qEAAeSwgxZqZkEu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172

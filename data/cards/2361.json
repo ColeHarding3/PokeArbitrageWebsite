@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2361,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/6bMAAeSwrsFqZX6e/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -70,6 +71,41 @@
         "totalCostC": 702796,
         "psa10ValueC": 144361,
         "ratio": 0.20540953562626993
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "236963338740",
+          "title": "Dratini 107/165 Expedition Reverse Holo, CGC 10, POP 7Opens in a new window or tab",
+          "priceC": 694200,
+          "shippingC": 597,
+          "landedC": 694797,
+          "url": "https://www.ebay.com/itm/236963338740?_skw=%28dratini%29+%28107%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=23043383900&itmmeta=01M0VZ1WE3C4X9TZNH4QQ7Q8CP&hash=item372c1d99f4:g:6bMAAeSwrsFqZX6e&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB1eZ7%2FWs31kdw6fRGiFavQu3mkX9NBJJFzw4EXai6mya0oenGscEXTFqEt%2B38HUWo1ND1KDU4p%2BUKAIK1AGOEjJOPaFPRnkqOAefaHsvPbxXFY%2BG2w%2BqMc5w0BTJupkB8gn1i1%2B81qasSk17aAXPUh1OHhnX1izrPkNpfVIl6kDl2%2B6BdgV3W9%2FFVYUe6o8bzIjGdYrAEKvtotG9RcZQrn%2B19jmWv30KpPTnS38J%2FbPMs9xJ3C30Bd1N2oUkBPu51WHCHrNuyj7x99vHmfVmvs4lSvyOjoY%2BtpstCfhlD6SA%3D%3D%7Ctkp%3ABk9SR9bHh_-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/6bMAAeSwrsFqZX6e/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787052902664,
+          "lastSeen": 1787677529172
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 694797,
+          "submissionFeeC": 7999,
+          "totalCostC": 702796,
+          "psa10ValueC": 144361,
+          "ratio": 0.20540953562626993
+        },
+        "firstOpportunityAt": 1787052902664
       },
       "firstOpportunityAt": 1787052902664,
       "updatedAt": 1787677529172
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/6bMAAeSwrsFqZX6e/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172

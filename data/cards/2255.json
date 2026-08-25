@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2255,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/K64AAeSwmOFqMXQj/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/690AAeSwXMpqMaAE/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/9b0AAeSw4PZqfn0c/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -96,6 +99,41 @@
         "totalCostC": 102400,
         "psa10ValueC": 171665,
         "ratio": 1.676416015625
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "318464195617",
+          "title": "Nintendo Pokemon TCG CGC 10 Tyranitar 29/165 Expedition Reverse Holo 2002Opens in a new window or tab",
+          "priceC": 87500,
+          "shippingC": 0,
+          "landedC": 87500,
+          "url": "https://www.ebay.com/itm/318464195617?_skw=%28tyranitar%29+%2829%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=22043374642&itmmeta=01M0VYYJQAEREWH4GJHWDF3JST&hash=item4a25f1fc21:g:K64AAeSwmOFqMXQj&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD5a5SbKPNY53b6%2B%2Bz9wLURkz7fyqfitnecGJoGU8RXyK6edxfdpYQeU617AC5cRuN51Jy6jHMrEo14M7KYXyiyRY%2F7VSzcs%2BpmCRJ847fmqDM3PHfLUMsHOm2V1fEEEssiXPudtXGM%2BR%2FJvCOjPMKbVsYaLypRFxtFjhnOFXSJ7G%2FxHFXzesalTVAdZ8odJs6dwNZMIIgqrhK8R2Oi1HPYrJSybJIaXflkuyjBqssC2u%2BWQjXD%2FbapcWpVAF5DHZP0qiZF%2BX9m%2FG5LLAPeKUJpcClkBE2yys4zDxWqRlfYPg3QRnBH9xBBPXTEp1AM5ayQ4Hdn8qlkcEE%2B3m0u4FZK%7Ctkp%3ABk9SR6qs-v6GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/K64AAeSwmOFqMXQj/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787052902664,
+          "lastSeen": 1787677529172
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 87500,
+          "submissionFeeC": 14900,
+          "totalCostC": 102400,
+          "psa10ValueC": 171665,
+          "ratio": 1.676416015625
+        },
+        "firstOpportunityAt": 1787052902664
       },
       "firstOpportunityAt": 1787052902664,
       "updatedAt": 1787677529172
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/K64AAeSwmOFqMXQj/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/9b0AAeSw4PZqfn0c/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/iwkAAeSwvTFqKyaa/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/yu8AAeSwjvNqRyFA/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -182,6 +224,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/690AAeSwXMpqMaAE/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172

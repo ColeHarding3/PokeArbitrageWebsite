@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5735,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FngAAeSwX5NqMKpN/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zsMAAeSwRXVqbPrp/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -83,6 +85,41 @@
         "totalCostC": 67997,
         "psa10ValueC": 281007,
         "ratio": 4.132638204626675
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "406867972488",
+          "title": "2006 Pokemon Togetic EX Dragon Frontiers Reverse Holo #11 CGC 10 - (POP 14)Opens in a new window or tab",
+          "priceC": 99999,
+          "shippingC": 0,
+          "landedC": 99999,
+          "url": "https://www.ebay.com/itm/406867972488?_skw=%28togetic%2Cdelta%29+%2811%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=18043373897&itmmeta=01M0W2H5VQCXQWZ31FE02RN972&hash=item5ebb389188:g:8hkAAeSwxXhp4--H&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDa%2FpaQAiX5rT36WbUuwdVOpLIs%2FPt%2BszJwLy3VsB1oiVh8JWLgaO9T54cW0BF4QOWcXW4nqWUBpHKcrP3NVq7%2BoKcVJJV%2FZsrThTibWby2uLVwGV8tBHucgZky4FALIYLRY7NPIHzvY9OnJtczu%2BWAXPIftBA7bPHPnnDbhI6ffoHoYq%2FufHmYuHiwFeuQj%2BLv8WmrU6Pqb52I0mP%2F1SViOpxNYZH1KhMwGshZe3fWqDu7%2FEbs0Kpwf%2B%2BNneF7cbqXZ3oItknHTtKqYP7ECzNvhCvkQhiC4VCQlWA1%2FD1q0A%3D%3D%7Ctkp%3ABk9SR8TexIKHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/8hkAAeSwxXhp4--H/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787218759794,
+          "lastSeen": 1787677552393
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 99999,
+          "submissionFeeC": 34900,
+          "totalCostC": 134899,
+          "psa10ValueC": 281007,
+          "ratio": 2.0830917946018874
+        },
+        "firstOpportunityAt": 1787218759794
       },
       "firstOpportunityAt": 1787218759794,
       "updatedAt": 1787677552393
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FngAAeSwX5NqMKpN/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zsMAAeSwRXVqbPrp/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/k~4AAeSwUHJqGwft/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8hkAAeSwxXhp4--H/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393

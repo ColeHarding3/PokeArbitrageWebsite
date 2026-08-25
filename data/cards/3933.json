@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3933,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HYYAAeSwpQZp7QV6/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Nm0AAeSwEQFqg2MC/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814
@@ -83,6 +85,41 @@
         "totalCostC": 116839,
         "psa10ValueC": 142594,
         "ratio": 1.2204315339912186
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287293856908",
+          "title": "CGC GEM MINT 10 Kangaskhan 2004 EX Fire Red & Leaf Green #6/112 Holo PokémonOpens in a new window or tab",
+          "priceC": 108300,
+          "shippingC": 540,
+          "landedC": 108840,
+          "url": "https://www.ebay.com/itm/287293856908?_skw=%28kangaskhan%29+%286%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=11043366054&itmmeta=01M0W0PSEPRQ5ERJXSKJMH6Y41&hash=item42e40c5c8c:g:HYYAAeSwpQZp7QV6&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBItOF%2B7OpphwU6jrssFZZRmxmL4CYfI1628fSmsUvffXWJlOGo9EGxf80lC4s5y0OFq0946zplqW9P%2Bd5lb7m1RkjIe6Wt74sWNirGeA8%2FUSopHtQi5%2Ba9l0DJ09ZhG8dugE%2Bda9S%2B994vyKlOSeL0feEIP4P3xVMJwGgP8Y8O0yDNcmtOeKWEnNOgnVwBnd3hI2r8v8msyggf84%2BVc0Br4tnaaKEuW7kMhOkB44A3%2Bqjn9i9SrMVP3ZvKiD%2F0MWhbtLH7i%2BQvPg1ekvLfmI3%2FPdFDlnvAXuBbg8sAVx3Mp4o2o%2FbYBZA8OBu1vuHBeodQGlKLNOa9tSe8LBnA16ll%7Ctkp%3ABk9SR9KX24CHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/HYYAAeSwpQZp7QV6/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787061354691,
+          "lastSeen": 1787677564814
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 108840,
+          "submissionFeeC": 7999,
+          "totalCostC": 116839,
+          "psa10ValueC": 142594,
+          "ratio": 1.2204315339912186
+        },
+        "firstOpportunityAt": 1787061354691
       },
       "firstOpportunityAt": 1787061354691,
       "updatedAt": 1787677564814
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HYYAAeSwpQZp7QV6/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Nm0AAeSwEQFqg2MC/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/hN8AAeSwYrtqc6IB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qywAAeSw4vlqiVcY/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787386538422,
         "lastSeen": 1787677564814

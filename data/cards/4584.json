@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4584,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/2NYAAeSwN-lqaYVh/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -70,6 +71,41 @@
         "totalCostC": 67899,
         "psa10ValueC": 150000,
         "ratio": 2.209163610657005
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "188710601509",
+          "title": "SLUGMA [KUSUBE ART POP 6!] #74 REVERSE HOLO EX DEOXYS CGC 10Opens in a new window or tab",
+          "priceC": 59900,
+          "shippingC": 0,
+          "landedC": 59900,
+          "url": "https://www.ebay.com/itm/188710601509?_skw=%28slugma%29+%2874%2Cdeoxys%29+%28CGC%2CPSA%29&epid=13043374076&itmmeta=01M0W145DD88APHXSM4E05HACY&hash=item2bf0074325:g:2NYAAeSwN-lqaYVh&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAXwgLU%2FF57QnifMPmrQMktka97EBt2WlKQ0SlHMAtX%2BzASzRYyt2SPGoXHwJQ40pbNpmCs86FZph3ALPHlHsrJA5iFyBRqi3JFiHd7YsxPJfHc26R437vCT1zJyf9M9vLZ1B53Igdb9eeqxKScDmKNhvNugZlw3g6t0vV6VmZdI2OrqIaUMBreQEdmBrDxLKeta9QYoxViBsH8cUPfv6Nw%2BtWC6On4jhIZucZ%2BvgUwnDxsU8GvszSSfxfB5L1cQrslOCFYRnp3%2BYC1EQL%2FyJAwpd5QeCLgOCIatzLncDunWO80YKvDD%2BLL%2BJrV%2BJlBP14%3D%7Ctkp%3ABk9SR_TWkIGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/2NYAAeSwN-lqaYVh/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787066511306,
+          "lastSeen": 1787677569729
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 59900,
+          "submissionFeeC": 7999,
+          "totalCostC": 67899,
+          "psa10ValueC": 150000,
+          "ratio": 2.209163610657005
+        },
+        "firstOpportunityAt": 1787066511306
       },
       "firstOpportunityAt": 1787066511306,
       "updatedAt": 1787677569729
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/2NYAAeSwN-lqaYVh/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729

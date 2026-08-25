@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 10776,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/pP8AAeSwBsFqQFU1/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -70,6 +71,41 @@
         "totalCostC": 146399,
         "psa10ValueC": 224500,
         "ratio": 1.5334804199482237
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "178261012338",
+          "title": "2005 POKEMON EX UNSEEN FORCES SMEARGLE REVERSE HOLO #48 CGC 10 GEM MINT POP 14Opens in a new window or tab",
+          "priceC": 129999,
+          "shippingC": 1500,
+          "landedC": 131499,
+          "url": "https://www.ebay.com/itm/178261012338?_skw=%28smeargle%29+%2848%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=17043371554&itmmeta=01M0W1E8Q6NXYJ0J6SAZHQ6707&hash=item29812f2f72:g:pP8AAeSwBsFqQFU1&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAecvSq1dkCeNIKxLH2QXI5tq4z1ODRvb1rkNhw73G3HSkO2Pp1judF6l4NOtK2q2TiXE4HI1edOpWUOkRqjGcJ8e1ilEeti%2B7zfQoo%2BVBn7acaltneS3IA4kNOH6SLOokfjJPMeVSr1cLNsJm1vJGX%2BN6FkcKweIfhFzS%2BGLRVoLhc1iT2STL9O1TSUMdony0P0WWDRMgEJ2gMNie8sx84VdgLpjuFtlE4uJVh2%2FDaftjIih8cRrcAbpfSMGsb4SdrbmcgxTepzbkjhT2It%2FmJ0RyBOpg%2FCLzkUozWegU50VNjDv6%2FE%2FkbMmqFA8fdz3e2%2Fy5VCqbm5Vwz23k6IfM6%7Ctkp%3ABk9SR-aLuYGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/pP8AAeSwBsFqQFU1/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787215619257,
+          "lastSeen": 1787677540433
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 131499,
+          "submissionFeeC": 14900,
+          "totalCostC": 146399,
+          "psa10ValueC": 224500,
+          "ratio": 1.5334804199482237
+        },
+        "firstOpportunityAt": 1787215619257
       },
       "firstOpportunityAt": 1787215619257,
       "updatedAt": 1787677540433
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0pEAAeSw6Rlqit-R/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787559919428,
         "lastSeen": 1787677540433
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/pP8AAeSwBsFqQFU1/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -128,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/RqcAAeSw-g1pw3mf/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433

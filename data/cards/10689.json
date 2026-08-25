@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 10689,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/iq0AAeSwTKRpn54f/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/kpgAAeSweY5qg923/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -83,6 +85,41 @@
         "totalCostC": 115499,
         "psa10ValueC": 284257,
         "ratio": 2.4611208755054155
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "117057731060",
+          "title": "2005 POKEMON EX UNSEEN FORCES HOLO #101 BLISSEY EX CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 80000,
+          "shippingC": 599,
+          "landedC": 80599,
+          "url": "https://www.ebay.com/itm/117057731060?_skw=%28blissey%29+%28101%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=3043380499&itmmeta=01M0W1DN6S04AFBQ9FSR2FTZ2B&hash=item1b412f39f4:g:iq0AAeSwTKRpn54f&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCeATzL8v3dgzFEUKqCN1xiTWTEi9NffoY0xQpKFZ7sBIOSd3Er8XiJS4d03PEN%2BNUYa7e5Fhw41YIP2BwfLEQHKj368bEe8K31eOO5fyATBS6IILQKAvBeBd0s%2BxOU%2Bef7EMzNSyenkSMt0fmCxvyfWVRwqXmsJdeFRyVjimMWHgJyihv2f3WYMRXCGX6AFXJZVB1YxgybiwCKAe0VlmaSfqiHlnDidEYWKzxvXbB5bQcQ5QZNzqcoCrqtzw5zLyQ%2Bn6CJ2gmV%2F27HKkyQOGUr9nNmfLlggOxSs%2FjC29albYWKBcX2B6UnXormzIRLavg%3D%7Ctkp%3ABk9SR9jTtoGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/iq0AAeSwTKRpn54f/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787215619257,
+          "lastSeen": 1787677540433
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 80599,
+          "submissionFeeC": 34900,
+          "totalCostC": 115499,
+          "psa10ValueC": 284257,
+          "ratio": 2.4611208755054155
+        },
+        "firstOpportunityAt": 1787215619257
       },
       "firstOpportunityAt": 1787215619257,
       "updatedAt": 1787677540433
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/kpgAAeSweY5qg923/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BdYAAeSw3QtqYhf4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7-cAAeSwhLRqDOXN/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/iq0AAeSwTKRpn54f/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5865,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BaEAAeSwJQ1pxdq9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/DpcAAeSw5-9p7rxu/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -83,6 +85,41 @@
         "totalCostC": 434900,
         "psa10ValueC": 499900,
         "ratio": 1.1494596458956081
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "318065232618",
+          "title": "Pokemon Pikachu EX Power Keepers Reverse Holo Stamped #57 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 400000,
+          "shippingC": 0,
+          "landedC": 400000,
+          "url": "https://www.ebay.com/itm/318065232618?_skw=%28pikachu%29+%2857%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=2314419668&itmmeta=01M0W2SY2GMH9A169Q3SPD2KN6&hash=item4a0e2a4aea:g:BaEAAeSwJQ1pxdq9&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBdMd9kT1GNALqCO7thS3wcpLrMyc9uqX9Lzm5gDgG17uXOmuAoI3BVAl6sOwvX5vfRj6QMT1AKAdnI3qw8YBlBvuIvfdPQf04OYW3tHn5dMWUgp7WV7oCFiwXW91UamGWkga3VK82XXgHwHKsgjXhZIC5tQuTGoaiWG1Lx6%2FQZyuXThVeEY5q4YvvYEKaEY2riEpSJte5lxQAn3LEZ9F%2FzWrI5z7t3bBYRyxdi3dS6s2FmoO%2FbHa5DzYKYeQn7GFSpKxZOrHVGLY3Imv9NJ6CtUmFVGiYH2x2c2t2DCbMzdm77T7JU%2BiCixqE1zVMxSaQBfGdWQiNuEwskPY4POqEf%7Ctkp%3ABk9SR-Dh54KHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/BaEAAeSwJQ1pxdq9/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787162866541,
+          "lastSeen": 1787677557971
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 400000,
+          "submissionFeeC": 34900,
+          "totalCostC": 434900,
+          "psa10ValueC": 499900,
+          "ratio": 1.1494596458956081
+        },
+        "firstOpportunityAt": 1787162866541
       },
       "firstOpportunityAt": 1787162866541,
       "updatedAt": 1787677557971
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/DpcAAeSw5-9p7rxu/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BaEAAeSwJQ1pxdq9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/iU4AAeSw3mlqY4ds/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971

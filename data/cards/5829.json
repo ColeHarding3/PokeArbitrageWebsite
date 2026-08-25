@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5829,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0IIAAeSw9CVnt~RS/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MpgAAeSw4rJqQJWm/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-RwAAeSwSj9pKTdB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -96,6 +99,41 @@
         "totalCostC": 45844,
         "psa10ValueC": 182500,
         "ratio": 3.9808917197452227
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "186977912013",
+          "title": "(POP 16) Pokemon EX Dragon Frontiers Flaaffy Reverse Holo 30/101 CGC Gem Mint 10Opens in a new window or tab",
+          "priceC": 29999,
+          "shippingC": 945,
+          "landedC": 30944,
+          "url": "https://www.ebay.com/itm/186977912013?_skw=%28flaaffy%2Cdelta%29+%2830%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=23043383924&itmmeta=01M0W2JTWT01N1ZECCAVJCD3AB&hash=item2b88c084cd:g:0IIAAeSw9CVnt~RS&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC38N%2BGIkU5NZyYxEfSj9FIN4IqSi1%2BfJ6IqDTfDtjVAI77SQKFC3IvGX8YdHq6FPshsS--Y6JdPE68Q%2FrwKdTIDiMuCA6V5yx2yYJ14j4CdAfAH%2BkB4AB1etXdzu96aFuaFMToTP9FuLvo4LD%2BPFiMzh6DlLhJzhTaa3POpof8eRBA640z90UsgNP5d%2FMKrsn2Pz8Ki2MRiLoHja3zt7blMftE%2BGG9dvNgDA7t%2BMr3tb2f%2B2DVaglxJPTjYivvGE3IyFPCecrY2FeEehOH1Muc8yK%2FeV2g586dAnrzdcr%2BlNagYYvxaAyEjkEhUxdhhl%2BRQ%2BykhDWgAkamoeB1OMXQ%7Ctkp%3ABk9SR96vy4KHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/0IIAAeSw9CVnt~RS/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787218759794,
+          "lastSeen": 1787677552393
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 30944,
+          "submissionFeeC": 14900,
+          "totalCostC": 45844,
+          "psa10ValueC": 182500,
+          "ratio": 3.9808917197452227
+        },
+        "firstOpportunityAt": 1787218759794
       },
       "firstOpportunityAt": 1787218759794,
       "updatedAt": 1787677552393
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-RwAAeSwSj9pKTdB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0IIAAeSw9CVnt~RS/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/YwAAAeSwO3BqKhYB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MpgAAeSw4rJqQJWm/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393

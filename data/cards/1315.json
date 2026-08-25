@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1315,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/TmEAAeSwixZqSk3c/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SBcAAeSwHiJqew1H/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -70,6 +72,27 @@
         "psa9Bin": 1
       },
       "ratio": null,
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "158144983726",
+          "title": "Pokémon Neo Genesis 1st Edition SLOWKING 14/111 Holo CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 350000,
+          "shippingC": null,
+          "landedC": null,
+          "url": "https://www.ebay.com/itm/158144983726?_skw=%28slowking%29+%2814%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=17043372007&itmmeta=01M0VXAQQFEGXNYJQ29WDWRZ3N&hash=item24d22cf2ae:g:TmEAAeSwixZqSk3c&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAgpjL3%2BAISyXm1qD18XyK5RDB%2BNEZBczXqtCk4IjPdUIDUvR3bjT3AT12J73fu4z8Dy%2Fa%2BzQY0RqPVve9%2Fv4krJMK7N7GZ6HQzTuxKEUOUBuk6m3YE%2BhMFeEYhcD14RLHEb5qBrTM5VSdA2fGfccdcooXw%2FWXN%2B7LRUSgBpleIpnyoYvqrpVUns1ojg5Q8EvydRtZIfqqx422L9ctqkkOHJC3z0%2Bgz7LWTibSz8CoAn15tPRYRMRnH4C%2F8HaZ%2FJfh9HC3mEtBT9ZxIN1tfTtI9eaDgaIuW1P9DLpmHudjyBURhCD7NND4wF474mXlG%2BRg%3D%7Ctkp%3ABk9SR_T7qv2GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/TmEAAeSwixZqSk3c/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787046039169,
+          "lastSeen": 1787677583640
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": null,
+        "firstOpportunityAt": 1787046039169
+      },
       "firstOpportunityAt": 1787046039169,
       "updatedAt": 1787677583640
     },
@@ -99,6 +122,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SBcAAeSwHiJqew1H/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -113,6 +137,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/TmEAAeSwixZqSk3c/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -127,6 +152,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/b5wAAeSw-jdqbXte/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640

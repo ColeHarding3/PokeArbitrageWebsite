@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11079,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/QRwAAeSw-4NqXs94/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/L3IAAeSw2dNqI32a/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ok4AAOSwy6Vjf81K/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -96,6 +99,41 @@
         "totalCostC": 500959,
         "psa10ValueC": 1922132,
         "ratio": 3.8369048165618342
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "267733886004",
+          "title": "2006 Pokémon Registeel Gold Star Holo EX Legend Maker #92 CGC 10 *SWIRL*Opens in a new window or tab",
+          "priceC": 399999,
+          "shippingC": 1060,
+          "landedC": 401059,
+          "url": "https://www.ebay.com/itm/267733886004?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0W1V2DM3RDRCZAA1BX5DKWZ&hash=item3e562ee434:g:QRwAAeSw-4NqXs94&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB6vGS2DrR8l%2FsLEdTCHr3WpE7v94K8z8%2Fm6qvUTh3k05bE6UxahhzLu%2BLkLespyCYiGLamxFw2YuQuFn13H8AULGWrhT%2F7Gq41CsrbheF%2B007G%2FcUO92j%2FndkBBcIt3w4osk%2Fa%2FVoQDesQMTBkEGUc1%2Fkwe5kSfd6LM1F%2Bm8jjIeKc319GZLNxLBg70KaKCdwDFGl%2BuBeZ27oR4EEBPLIz%2BFtfwEVYKhrBGTrDzHebFZ0xc%2FSDMnvepYH%2BJlDpU0hwDtMMmxVSsAI5%2Fol9P1%2FfunnrPCqBwx8Obeq9pJz%2FrQ%3D%3D%7Ctkp%3ABk9SR6an7IGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/QRwAAeSw-4NqXs94/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787216884103,
+          "lastSeen": 1787677544402
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium1",
+            "label": "Premium 1",
+            "feeC": 99900,
+            "declaredValueCapC": 2500000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 401059,
+          "submissionFeeC": 99900,
+          "totalCostC": 500959,
+          "psa10ValueC": 1922132,
+          "ratio": 3.8369048165618342
+        },
+        "firstOpportunityAt": 1787216884103
       },
       "firstOpportunityAt": 1787216884103,
       "updatedAt": 1787677544402
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/QRwAAeSw-4NqXs94/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/1UQAAeSwXyBqeTwr/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/L3IAAeSw2dNqI32a/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ok4AAOSwy6Vjf81K/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402

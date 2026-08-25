@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2817,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zdkAAeSwWKNqdlCc/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/9B8AAeSw5BVqRF7U/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -83,6 +85,41 @@
         "totalCostC": 127899,
         "psa10ValueC": 115000,
         "ratio": 0.8991469831664047
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "327299863740",
+          "title": "CGC 10 GEM MINT Alakazam 2/144 Skyridge Reverse Holo Pokemon CardOpens in a new window or tab",
+          "priceC": 119900,
+          "shippingC": 0,
+          "landedC": 119900,
+          "url": "https://www.ebay.com/itm/327299863740?_skw=%28alakazam%29+%282%2Cskyridge%29+%28CGC%2CPSA%29&epid=5043380298&itmmeta=01M0VZVRY7XSG0AXJKTNQES4ME&hash=item4c349794bc:g:zdkAAeSwWKNqdlCc&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDINszVO0S96WDPipYAy%2B7uYLo6FRAaFRZ9%2BbptNLnFLmeWw6RrKTi7g5WkYEdm1dDqXD%2FqRSCwq7kqiAsJJ9BQmu4IsXINVz9xjTd1FLBY4WZvVOlTbjvUAv2qOhmPZoYiIYtIMaOG%2BAgHqFPOC9nYmPhEVrtNvHAMkKoe7peB13jGkE5gDUftNpBKpO6NLb2ZuYXT9k1lm6NfqyHQEMaZ0UyEIwF1vp7qGweS9kxuKqi%2BJPrvtBwuiVG%2BBeCrnd5PYgA8cfgG%2FHbEaDUDmi5b%7Ctkp%3ABk9SR6qP7_-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/zdkAAeSwWKNqdlCc/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787055777278,
+          "lastSeen": 1787677537341
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 119900,
+          "submissionFeeC": 7999,
+          "totalCostC": 127899,
+          "psa10ValueC": 115000,
+          "ratio": 0.8991469831664047
+        },
+        "firstOpportunityAt": 1787055777278
       },
       "firstOpportunityAt": 1787055777278,
       "updatedAt": 1787677537341
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/9B8AAeSw5BVqRF7U/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zdkAAeSwWKNqdlCc/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341

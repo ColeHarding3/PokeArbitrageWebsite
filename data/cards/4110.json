@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4110,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/R2cAAeSwhQNqa45K/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8i4AAeSwQOlqdHIf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -83,6 +85,41 @@
         "totalCostC": 508596,
         "psa10ValueC": 139900,
         "ratio": 0.2750709797167103
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "307096138474",
+          "title": "2004 Pokémon Magikarp Reverse Holo EX Team Rocket Returns #65 CGC 10 **Swirl**Opens in a new window or tab",
+          "priceC": 500000,
+          "shippingC": 597,
+          "landedC": 500597,
+          "url": "https://www.ebay.com/itm/307096138474?_skw=%28magikarp%29+%2865%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=16043369628&itmmeta=01M0W0X3CQRP7N14SGQDBSB2TN&hash=item47805b32ea:g:R2cAAeSwhQNqa45K&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAcDEVLsGy4HRdL8HqUGUOAtThfEQ1BT5JPtdc0yJ9U24dxDIfSctTt%2F5ZIyNL5bEY3W2ESAvjX9z%2FrSj243w2gEMvUQiIPXfeJZqd4rFTPpq%2FWPG6MhJiIpC%2BiE0Opp4smYeX2qJ6nHMMH2dn0BlSG8d4YSZjMdlM2KrzFfTEYdJOHeJJa0jy3UbYo04SJMNVy71GabmZnczx5s4voZ1Mh4RQHDGxgx4vmZT0y7Mi1fys6UrFLBaHoWYdLXIpdHug7xak%2FEpXsbfZ%2BR8%2BR7yPwbww%2F5KyXpkYE3RlHv7CT4D5SlffE35uKL9GVkUMZ14z6gbtvneV9KqvN0sWppDMC%7Ctkp%3ABk9SR-C29ICHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/R2cAAeSwhQNqa45K/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787214401857,
+          "lastSeen": 1787677567103
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 500597,
+          "submissionFeeC": 7999,
+          "totalCostC": 508596,
+          "psa10ValueC": 139900,
+          "ratio": 0.2750709797167103
+        },
+        "firstOpportunityAt": 1787214401857
       },
       "firstOpportunityAt": 1787214401857,
       "updatedAt": 1787677567103
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8i4AAeSwQOlqdHIf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/R2cAAeSwhQNqa45K/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103

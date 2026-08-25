@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2581,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/URIAAeSwWEBqc9Xc/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Pe4AAeSw-8pqA9GL/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -83,6 +85,41 @@
         "totalCostC": 72439,
         "psa10ValueC": 158998,
         "ratio": 2.1949226245530724
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "800468401355",
+          "title": "Pokemon Steelix 35/147 Reverse Holo Aquapolis - CGC 10 Gem Mint! Low Pop 1/8Opens in a new window or tab",
+          "priceC": 56999,
+          "shippingC": 540,
+          "landedC": 57539,
+          "url": "https://www.ebay.com/itm/800468401355?_skw=%28steelix%29+%2835%2Caquapolis%29+%28CGC%2CPSA%29&epid=26043383938&itmmeta=01M0VZGQ2RZ4P3NZ1KTQGGW96D&hash=itemba5fa27ccb:g:URIAAeSwWEBqc9Xc&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCmhq6sLBfHAPXLRszrxENL4YLgJIh1xWN%2B1OWwvszCuNtHdKc1r%2FBpzJIXkywAwHETg5l8WjaSwjtcREzXr%2B%2F9t4yOirx6qXwL7nd4vZyCQnb335TOiQufC8ORfVxLa%2FhYMA9EY2%2Fws08yjq%2BYwbVSQbczHwh0%2BqdDVa6N9J2vLgI40F41Qv7hNPOnmbDzfncBqVYvOM3jpHpT4W6N73uM7hoSt60RTtuuHdqu%2FRWELJFZE%2FPnAqjIzrpKret%2FSV3xvnIvygCWdEgjqfuS55b1lVk0NxHVp6HOrR%2BWFJReJkrpORf3gXUSE9Ru1MHP%2FHo%3D%7Ctkp%3ABk9SR9jxwv-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/URIAAeSwWEBqc9Xc/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787054322608,
+          "lastSeen": 1787677535654
+        },
+        "cgc10Bin": 3,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 57539,
+          "submissionFeeC": 14900,
+          "totalCostC": 72439,
+          "psa10ValueC": 158998,
+          "ratio": 2.1949226245530724
+        },
+        "firstOpportunityAt": 1787054322608
       },
       "firstOpportunityAt": 1787054322608,
       "updatedAt": 1787677535654
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/URIAAeSwWEBqc9Xc/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/uVIAAeSwfCpp~pwU/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Pe4AAeSw-8pqA9GL/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0UMAAeSwOgVqPVvm/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654

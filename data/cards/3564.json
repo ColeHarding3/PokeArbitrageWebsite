@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3564,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/gZAAAeSwVnNqfOD5/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/9yAAAeSwY5dqdmjA/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wCUAAeSwCQJqfnL9/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772
@@ -96,6 +99,41 @@
         "totalCostC": 207899,
         "psa10ValueC": 78796,
         "ratio": 0.37901096205368956
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "227473339531",
+          "title": "CGC 10 Raikou ex 92/95 2004 Team Magma Vs Aqua Ultra Rare Pokemon CardOpens in a new window or tab",
+          "priceC": 199900,
+          "shippingC": 0,
+          "landedC": 199900,
+          "url": "https://www.ebay.com/itm/227473339531?_skw=%28raikou%29+%2892%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=16043369772&itmmeta=01M0W0CB312RRFTZFP1BFFHJ68&hash=item34f677b48b:g:gZAAAeSwVnNqfOD5&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xARugsioDV%2Brc1VLTsAfJa2%2B20We7QuW0QcHbMjcY7urBpXWaWdI6xkI1wZLMwQAJEvKOeVlXf53OHc4OHuaB1S9d0Pr0m7UbAP40GDtJXtIvNCzxJtZxcL6NJ7toESMwFTUS6kgBp%2FpJ23uU2Er%2F9A%2BXTjBrN87rWPfSSOihzJBSS0YHGsyjETPk9lV0qqRI3SeeBd6RmRCLcMbDf3KfbAju6ZaDz9AOJkHI0IZSziK%2FGwkbPIrMGvJz22FdfjI06a5EcxZMHNz3oAQPeis3qU%7Ctkp%3ABk9SR-CxsYCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/gZAAAeSwVnNqfOD5/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787059396087,
+          "lastSeen": 1787677561772
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 199900,
+          "submissionFeeC": 7999,
+          "totalCostC": 207899,
+          "psa10ValueC": 78796,
+          "ratio": 0.37901096205368956
+        },
+        "firstOpportunityAt": 1787059396087
       },
       "firstOpportunityAt": 1787059396087,
       "updatedAt": 1787677561772
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wCUAAeSwCQJqfnL9/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/gZAAAeSwVnNqfOD5/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/E0QAAeSwa4pqOekv/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/9yAAAeSwY5dqdmjA/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
         "lastSeen": 1787677561772

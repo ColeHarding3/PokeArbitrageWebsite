@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 522,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fjcAAeSwGjJqZa0S/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
         "lastSeen": 1787677503003
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FXQAAeSw7zhqg5-j/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
         "lastSeen": 1787677503003
@@ -83,6 +85,41 @@
         "totalCostC": 71098,
         "psa10ValueC": 199999,
         "ratio": 2.8130045852204
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "117322446969",
+          "title": "1999 Pokemon Articuno ❄️Holo Rare Fossil #2/62 CGC 10 GEM MINT! 💎🔥💎Opens in a new window or tab",
+          "priceC": 54999,
+          "shippingC": 1199,
+          "landedC": 56198,
+          "url": "https://www.ebay.com/itm/117322446969?_skw=%28articuno%29+%282%2Cfossil%29+%28CGC%2CPSA%29&itmmeta=01M0VWCK4S93E1H73N2TYYWDRJ&hash=item1b50f67879:g:fjcAAeSwGjJqZa0S&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBg9nuBLPAQG2fnTVwhdlz%2BUSuXvP4kiQfLb2lq9NVAj7hfDPxHnvdCT5h5Rp6vhayw29HdF7izQma2wJfzSPgc2dYYNSozu8LxqImZpXc%2Bvp6%2Fr5obovvQL8EkFb9FLDF4vCGnmO4%2BHK%2Fa6YOtbzCzgnPccbvCO1kL3BNMQ%2BVfSxgJRd9XJATf7%2BuVE5Ak4nQqhMa8n9N6SECwB%2F%2BFkbAsJOKq69yJp6wOcEgiYE0VHwv8ZDdUwMuGOGt3yrX75AliZA77mznP3jxMHVG%2BG%2BqbkjoL9FAyFDGx9yBnAKUkSB6p4gSF7YrPUO49gkPsG40%3D%7Ctkp%3ABk9SR-6ysvyGaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/fjcAAeSwGjJqZa0S/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787040561909,
+          "lastSeen": 1787677503003
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 56198,
+          "submissionFeeC": 14900,
+          "totalCostC": 71098,
+          "psa10ValueC": 199999,
+          "ratio": 2.8130045852204
+        },
+        "firstOpportunityAt": 1787040561909
       },
       "firstOpportunityAt": 1787040561909,
       "updatedAt": 1787677503003
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FXQAAeSw7zhqg5-j/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
         "lastSeen": 1787677503003
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4N4AAOSwJK5gdCfw/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
         "lastSeen": 1787677503003
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/f2wAAeSwr-1qfme1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
         "lastSeen": 1787677503003
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fjcAAeSwGjJqZa0S/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
         "lastSeen": 1787677503003
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/YvUAAeSwMHJqQCrO/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
         "lastSeen": 1787677503003

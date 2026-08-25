@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2809,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FXoAAeSwNSNqdlDv/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787472542569,
         "lastSeen": 1787677537341
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/NH0AAeSwh0NqZlY~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -83,6 +85,41 @@
         "totalCostC": 144800,
         "psa10ValueC": 220269,
         "ratio": 1.5211947513812154
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "327299863748",
+          "title": "CGC 10 GEM MINT Crobat 147/144 Skyridge Reverse Holo Pokemon CardOpens in a new window or tab",
+          "priceC": 129900,
+          "shippingC": 0,
+          "landedC": 129900,
+          "url": "https://www.ebay.com/itm/327299863748?_skw=%28crobat%29+%28147%2Cskyridge%29+%28CGC%2CPSA%29&epid=20043375681&itmmeta=01M0VZS3APRAX5C8C9WE6QVEMQ&hash=item4c349794c4:g:FXoAAeSwNSNqdlDv&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBLFL5qNCIrsNnfkzNAL%2BJn9LevyOkFzQHRMJYE5lNUcArb4zC29JtRfm9aeSfq4rnug33VWb4sCMkAlPJXjAFBO63EIkNMczlENBHckY8sK1sRVJwPQjN91y1HVK--YT9vQToP52hZf4dEX2W3YbwxbxzxI4RCk2qY%2FBUoCJ3XcAeEhtoXcW4rGxRRayiVd9M2hAbffvjXIk%2BlXYxt%2Fqr2Xumpp8RmyLCvPWlOR0YVJgpBaZ9WudsDqXWRc%2BSK8zdO4UUR0O2cbNCfYQjY%2FuWPp2IcoD639yVHgIR6itmo1e9HYj%2BgaNe8jijVupw4zFQ%3D%7Ctkp%3ABk9SR8i15P-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/FXoAAeSwNSNqdlDv/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787472542569,
+          "lastSeen": 1787677537341
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 129900,
+          "submissionFeeC": 14900,
+          "totalCostC": 144800,
+          "psa10ValueC": 220269,
+          "ratio": 1.5211947513812154
+        },
+        "firstOpportunityAt": 1787472542569
       },
       "firstOpportunityAt": 1787472542569,
       "updatedAt": 1787677537341
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/NH0AAeSwh0NqZlY~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CUcAAeSwI-lp6Yhl/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7K0AAeSwxEZqHCCB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/~OgAAeSwDftqSs-t/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FXoAAeSwNSNqdlDv/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787472542569,
         "lastSeen": 1787677537341

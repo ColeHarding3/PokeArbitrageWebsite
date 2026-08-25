@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4877,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/G3IAAeSwALdqiLuO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787387516137,
         "lastSeen": 1787677542417
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/uTYAAeSwQkNqPxAx/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -83,6 +85,41 @@
         "totalCostC": 107899,
         "psa10ValueC": 59400,
         "ratio": 0.5505148333163421
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "327321268340",
+          "title": "CGC 10 Ditto Mr. Mime 38/113 EX Delta Species Reverse Holo Stamped Pokemon CardOpens in a new window or tab",
+          "priceC": 99900,
+          "shippingC": 0,
+          "landedC": 99900,
+          "url": "https://www.ebay.com/itm/327321268340?_skw=%28ditto%29+%2838%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367669&itmmeta=01M0W1QQ46S5HJ0X27S2G95V8D&hash=item4c35de3074:g:G3IAAeSwALdqiLuO&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xASNtLKg2Co23%2BwuVqA2wiDtlwe3eqiIK3p2%2FTplqyGGBpIwTItvwTLr%2FEtu1QKpdvUw3%2FJGpViFWsUQVxZFPckjtH5tLI1mUL9d2zxT55m%2Fyo9xRoGgp9PJ9QLS8VlC8K7iOkzmfxwl8MefPS1ynCqASvPQqNtNwkHPPEWSU5QFRTWf8Leacx4I88Lt%2B%2FmyfbqAs33MwNMwEjArtU25snn3VUVlxTfbT0xGePcjtJoCytru%2Fd8KOXRjZs6h2Byj2ZJ4PcmOcgVE6f%2FEWp8g%2Blf%7Ctkp%3ABk9SR7ry3oGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/G3IAAeSwALdqiLuO/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787387516137,
+          "lastSeen": 1787677542417
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 99900,
+          "submissionFeeC": 7999,
+          "totalCostC": 107899,
+          "psa10ValueC": 59400,
+          "ratio": 0.5505148333163421
+        },
+        "firstOpportunityAt": 1787387516137
       },
       "firstOpportunityAt": 1787387516137,
       "updatedAt": 1787677542417
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wW8AAeSwWaNqiuA~/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560190120,
         "lastSeen": 1787677542417
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/uTYAAeSwQkNqPxAx/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/G3IAAeSwALdqiLuO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787387516137,
         "lastSeen": 1787677542417
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/cn0AAeSwJy5p9m-J/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "stale",
         "firstSeen": 1787089625972,
         "lastSeen": 1787094580234

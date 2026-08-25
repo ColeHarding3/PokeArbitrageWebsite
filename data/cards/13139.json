@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 13139,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/IXsAAeSwpKRqHYwx/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787562591727,
         "lastSeen": 1787579286820
@@ -70,6 +71,41 @@
         "totalCostC": 195299,
         "psa10ValueC": 187066,
         "ratio": 0.957844126186002
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "188452758641",
+          "title": "Pokemon 1999 Dragonite Battle Seal Nissui #2 CGC 10 Vintage Extremely Rare 🔥Opens in a new window or tab",
+          "priceC": 179900,
+          "shippingC": 499,
+          "landedC": 180399,
+          "url": "https://www.ebay.com/itm/188452758641?_skw=%28dragonite%29+%282%2Clegends%2Cawakened%29+%28CGC%2CPSA%29&itmmeta=01M0SGGSCQZF4ESAHK4ZSTN0M1&hash=item2be0a8e471:g:IXsAAeSwpKRqHYwx&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCdWDrT0QIpjJM906d8ODqih7u%2BkvT7N06ifra25eJkDWNOcBigKJdjMx1esjJZ3pcVuNh2oocnWDKx4Yz7pyJ8niTAlDpTwiAkxkIRchehUNUWNzT0WMETHQsFf0SoxEM0byNH1dIotCTSwyFt%2FBzx5bTdMZKMVWdyWtY5rkdMcoF9dv6eBKSzS43OIba2yzhHQ5vXeczG2M1bew1VaujKOWNCtHZRyQhdTEcoEspNc%2FOkHehJXsJNDY%2FWDQfDcdFVxw2kKldycFugJz%2FQNh3vT%2BmcI6n%2Bc8K9RiW6tAsgwrWblKCtbzjfMhNJE9TY%2BfUd%2FvqhaUZqTFfFDOkEFlSM%7Ctkp%3ABk9SR_yWw7CGaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/IXsAAeSwpKRqHYwx/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787562591727,
+          "lastSeen": 1787579286820
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 180399,
+          "submissionFeeC": 14900,
+          "totalCostC": 195299,
+          "psa10ValueC": 187066,
+          "ratio": 0.957844126186002
+        },
+        "firstOpportunityAt": 1787562591727
       },
       "firstOpportunityAt": 1787562591727,
       "updatedAt": 1787650060537
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/IXsAAeSwpKRqHYwx/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787562591727,
         "lastSeen": 1787579286820

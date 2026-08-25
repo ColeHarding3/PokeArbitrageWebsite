@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4222,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PRAAAeSwMcdqiLri/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787386788815,
         "lastSeen": 1787677567103
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/kIoAAeSw6wpqUTPT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -83,6 +85,41 @@
         "totalCostC": 32999,
         "psa10ValueC": 108336,
         "ratio": 3.283008576017455
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "327321268333",
+          "title": "CGC 10 GEM MINT Zubat 82/109 EX Team Rocket Returns Reverse Holo Stamped PokemonOpens in a new window or tab",
+          "priceC": 25000,
+          "shippingC": 0,
+          "landedC": 25000,
+          "url": "https://www.ebay.com/itm/327321268333?_skw=%28zubat%29+%2882%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=23043383314&itmmeta=01M0W0YJJA54AD68C0ZPR0MTRT&hash=item4c35de306d:g:PRAAAeSwMcdqiLri&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBeUKNEsaluoxaFVJ03jqjz%2FHqe4LeU4SWi%2FFHZvqe7hbVKxFJMfdp6zkLHi0vymXKNEemdG5TIebhycCyoMOL3UvF3LKx4uaBkR4vs2foW52Qysq7uUNIA%2F7uPaNBL7u0YXYfPN4ryQ%2Bx3uQyfQvqbQ%2By4w6d8FIzw7jLn2LRlZfB214IZ6aQbQE1TlgEt7dMFS7kk%2Fi7%2BFfdPteUk7P4GFKE6kBe0Gxz99POQiF5QpnyLdn8n6psbjr6PwVx7HkUlBihC0PJXqJ0X6LYMhQMNbvNptguLPrLZ1axkGZKNfTR%2F6EoX8TdA4ue38ahtJNE%3D%7Ctkp%3ABk9SR8Sp-oCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/PRAAAeSwMcdqiLri/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787386788815,
+          "lastSeen": 1787677567103
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 25000,
+          "submissionFeeC": 7999,
+          "totalCostC": 32999,
+          "psa10ValueC": 108336,
+          "ratio": 3.283008576017455
+        },
+        "firstOpportunityAt": 1787386788815
       },
       "firstOpportunityAt": 1787386788815,
       "updatedAt": 1787677567103
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/kIoAAeSw6wpqUTPT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PRAAAeSwMcdqiLri/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787386788815,
         "lastSeen": 1787677567103

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2469,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/WiwAAeSw-Bhp19OB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/uM4AAeSwcZxqjGwJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787645487343,
         "lastSeen": 1787677535654
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SXgAAeSweXxqUUPz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -96,6 +99,41 @@
         "totalCostC": 1601898,
         "psa10ValueC": 2445485,
         "ratio": 1.5266171753757105
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "389867477758",
+          "title": "Umbreon Aquapolis Holofoil H29/H32 CGC 10 POP 6Opens in a new window or tab",
+          "priceC": 1500000,
+          "shippingC": 1998,
+          "landedC": 1501998,
+          "url": "https://www.ebay.com/itm/389867477758?_skw=%28umbreon%29+%28h29%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383791&itmmeta=01M0VZFQGVQMWBHH203VGTXHD3&hash=item5ac5e99afe:g:WiwAAeSw-Bhp19OB&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBjcMLC580shWL2ykhyFP0B%2B85EZI55qGv8Z7aJkNjUEs9S%2FRSsfrS2ntqdu5Z9CAbhRbwnwjPpGzzjhRFaC7rf%2FeYixyeO4hfl%2Fs7XvTU3L53Kbh6F%2FO8A9FhKhsnXxikmvKX3IFEDulnrzNlDSYXUmXBOFhRvLHQ2rgl3WRFXPCWlofI5Ey%2FzjWI8Y7KRP23z35jLSpS2CdmZJOKMQljnbr9M2UGmUgjOx4TsZobY1Lzoz5xamt9%2FfH%2FCOltyw3Wh%2BMsyE6doL0fTWSxBsuPx4anhOrlS1A15rwrENmgzvpXBL9Mm07KuoaAdLnpVYV4%3D%7Ctkp%3ABk9SR9b4vv-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/WiwAAeSw-Bhp19OB/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787054322608,
+          "lastSeen": 1787677535654
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium1",
+            "label": "Premium 1",
+            "feeC": 99900,
+            "declaredValueCapC": 2500000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 1501998,
+          "submissionFeeC": 99900,
+          "totalCostC": 1601898,
+          "psa10ValueC": 2445485,
+          "ratio": 1.5266171753757105
+        },
+        "firstOpportunityAt": 1787054322608
       },
       "firstOpportunityAt": 1787054322608,
       "updatedAt": 1787677535654
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SXgAAeSweXxqUUPz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/VIwAAeSww31qTxMj/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787212719513,
         "lastSeen": 1787677535654
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wFMAAeSwm6tqeo3j/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/xSQAAeSweBdp~ORl/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -182,6 +224,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-dkAAeSwj8NqjOGq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787645487343,
         "lastSeen": 1787677535654
@@ -196,6 +239,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/~L0AAeSwz9pp3nDH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -210,6 +254,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8OcAAeSwvk9qhwVT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787299779529,
         "lastSeen": 1787677535654
@@ -224,6 +269,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/WiwAAeSw-Bhp19OB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -238,6 +284,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/uM4AAeSwcZxqjGwJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787645487343,
         "lastSeen": 1787677535654
@@ -252,6 +299,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/xkUAAeSw~7pqhw1T/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787299779529,
         "lastSeen": 1787677535654

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5868,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/DwYAAeSwpzNp6-HV/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -70,6 +71,41 @@
         "totalCostC": 400899,
         "psa10ValueC": 566820,
         "ratio": 1.4138723219564029
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287292378539",
+          "title": "Pokemon Charmander EX Power Keepers Reverse Holo #48 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 340000,
+          "shippingC": 999,
+          "landedC": 340999,
+          "url": "https://www.ebay.com/itm/287292378539?_skw=%28charmander%29+%2848%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=8043377933&itmmeta=01M0W2SX9VY06VNCDAHVYP6HKW&hash=item42e3f5cdab:g:DwYAAeSwpzNp6-HV&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDIcap5J46zTYwyeWCc%2Fhb6Un7fOPcap9BGwXWMux3QmQ4lqNtYnrtJtydr717Ghb0hUn21dNfs0caY8z1qK1maX%2BiYrFI3rKaDwgFhwnEpG6WytlfK0fT5WIc46mQjWJw6vCN3taQjkjzdrffphSPwMLsdm6D4p4ihHhkeNOs%2BNbmP2PfX6F7ze0rZXLCAXEiAZBuk0zl24Os67RMCe39D2OPBRiNwS0NA4xlBFwnMffMR6QMUF7B7FwlscWOnK8cNZ663zvYwXINUQITtvT53HHOa6%2FZiK1pB17O37I8rMQ%3D%3D%7Ctkp%3ABk9SR6TV54KHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/DwYAAeSwpzNp6-HV/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787162866541,
+          "lastSeen": 1787677557971
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 340999,
+          "submissionFeeC": 59900,
+          "totalCostC": 400899,
+          "psa10ValueC": 566820,
+          "ratio": 1.4138723219564029
+        },
+        "firstOpportunityAt": 1787162866541
       },
       "firstOpportunityAt": 1787162866541,
       "updatedAt": 1787677557971
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/DwYAAeSwpzNp6-HV/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971

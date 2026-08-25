@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5780,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/bL0AAeSwJeFo1ucj/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -70,6 +71,41 @@
         "totalCostC": 39295,
         "psa10ValueC": 357600,
         "ratio": 9.100394452220383
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "376577856918",
+          "title": "CGC 10 Pokemon TCG 2006 EX Dragon Frontiers #29/101 ElectabuzzOpens in a new window or tab",
+          "priceC": 3500,
+          "shippingC": 895,
+          "landedC": 4395,
+          "url": "https://www.ebay.com/itm/376577856918?_skw=%28electabuzz%2Cdelta%29+%2829%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=20043375739&itmmeta=01M0W2KBZ8B2XHATQPHE9KHVB1&hash=item57adca1596:g:bL0AAeSwJeFo1ucj&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCrRybwByZGynBnftKpXC9TmJ6p%2FMTYgScbgd8Pg1Xdu3G3tixFVfsFeooYRSxGZcOgN%2Fy1aMxokk2v9Z%2FnmFH373B8N6WJ21JJpSpyu%2FfDFyIpZR1TjTE1Ur68RC4NF5kiUAKsjLLEQV06r3Qw%2BmqsraveRiZE4k57mCyHcFxLz0oLw2qXWDpyXbTzNU4ekmZBe%2FfYaQ9FZdLxrk2uDvf0ap05C5Hs4uPpMnyUfGuuRRjJoYxAo0NRE%2B9L5OZ4Zg2GGtucQc65aB4UM0D1oLL051NRlD9LesAeORJTm92UlhXZDv%2Fhw53HPztILafPsSXgi0IvTI5dRZX%2Fee%2BkfSm%2F%7Ctkp%3ABk9SR6jAzYKHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/bL0AAeSwJeFo1ucj/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787218759794,
+          "lastSeen": 1787677552393
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 4395,
+          "submissionFeeC": 34900,
+          "totalCostC": 39295,
+          "psa10ValueC": 357600,
+          "ratio": 9.100394452220383
+        },
+        "firstOpportunityAt": 1787218759794
       },
       "firstOpportunityAt": 1787218759794,
       "updatedAt": 1787677552393
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/bL0AAeSwJeFo1ucj/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FiYAAeSwmT1p86F5/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -128,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/XiEAAeSwKuhp4jGO/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393

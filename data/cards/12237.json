@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 12237,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/nrkAAeSwAg9ppKwD/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/iWoAAeSwjSBqdVjQ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ge8AAeSwr-1qffV9/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -96,6 +99,41 @@
         "totalCostC": 307998,
         "psa10ValueC": 115513,
         "ratio": 0.3750446431470334
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "236662992448",
+          "title": "CGC 10 Tyranitar Mysterious Treasures Holo 17/123 Pokemon 2007Opens in a new window or tab",
+          "priceC": 299999,
+          "shippingC": 0,
+          "landedC": 299999,
+          "url": "https://www.ebay.com/itm/236662992448?_skw=%28tyranitar%29+%2817%2Cmysterious%2Ctreasures%29+%28CGC%2CPSA%29&epid=6043385468&itmmeta=01M0W39ETKZV8YZA4Q3JAAWHV4&hash=item371a36ae40:g:nrkAAeSwAg9ppKwD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDeQJmh5Ot9j6N92fS19EMJAoPcUoKWJ7G1lkr80u%2BzrcHWNoER1ptkFKvJ6VWIFvVWA8kXrR7aSD5ILbvFhqZIWtw1mW3SBIMH9KPaq3LVCMjogIErfRlZ4qaE1xA2ThV08M6Chax5tkPTpEUhjRpds2GzkLfB8CMD6h4CBkk1kUfjMEIqbAR4VPPqmmGJwhUgFMoU%2FmVzMo5qGQHEQQQb7Vd4dN0MFl4Wi8B6sRNPKpHWzVwdcNzLjfM%2FrGcr0LTI3BNN2wmxNwLhmS95rUvPnJIsLE6IRdM7rOIeDdhpVg%3D%3D%7Ctkp%3ABk9SR9TtpYOHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/nrkAAeSwAg9ppKwD/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787220120669,
+          "lastSeen": 1787677520812
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 299999,
+          "submissionFeeC": 7999,
+          "totalCostC": 307998,
+          "psa10ValueC": 115513,
+          "ratio": 0.3750446431470334
+        },
+        "firstOpportunityAt": 1787220120669
       },
       "firstOpportunityAt": 1787220120669,
       "updatedAt": 1787677520812
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ge8AAeSwr-1qffV9/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/nrkAAeSwAg9ppKwD/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/iWoAAeSwjSBqdVjQ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 12271,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rMkAAeSw1yRpvhBu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/x~cAAeSwhENqC8Ld/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -83,6 +85,41 @@
         "totalCostC": 35123,
         "psa10ValueC": 145000,
         "ratio": 4.1283489451356665
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "397741539081",
+          "title": "2007 Pokemon Bronzong Holo Rare 6/123 CGC 10 Gem Mint Mysterious Treasures SwirlOpens in a new window or tab",
+          "priceC": 26500,
+          "shippingC": 624,
+          "landedC": 27124,
+          "url": "https://www.ebay.com/itm/397741539081?_skw=%28bronzong%29+%286%2Cmysterious%2Ctreasures%29+%28CGC%2CPSA%29&epid=2314419767&itmmeta=01M0W39YGCCC4YR1C51JAAD507&hash=item5c9b3e3f09:g:rMkAAeSw1yRpvhBu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBzfFUQIBJkTwoyLDu9dhdnLvf4QuXD%2FiVx5x%2F2fmjXAH%2BvsXwsAWEUcLbikkiZZbs2kRZ5yCoJBKjHa0C9uhXG6Hxh4osqw%2F65yoPX0crT1tjwMcUCzhdxk7DIGTsTuV4%2FsSOwwnOPJkE59W7I8hw7n87DPb1g7i2zZLSTp3gOZU%2BygXiiN7nRlrO9ZSAD4m63lxhccxtD7otsz6lGXmlC%2FrbGGQ14vqu53HK2YfAsNwnjSDPy2YuvEXNdZoWDxop9ybZVNwwrOa3GtbRsImN4dpV139M2QaArwTwGybZR4A%3D%3D%7Ctkp%3ABk9SR9rop4OHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/rMkAAeSw1yRpvhBu/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787220120669,
+          "lastSeen": 1787677520812
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 27124,
+          "submissionFeeC": 7999,
+          "totalCostC": 35123,
+          "psa10ValueC": 145000,
+          "ratio": 4.1283489451356665
+        },
+        "firstOpportunityAt": 1787220120669
       },
       "firstOpportunityAt": 1787220120669,
       "updatedAt": 1787677520812
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/x~cAAeSwhENqC8Ld/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rMkAAeSw1yRpvhBu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812

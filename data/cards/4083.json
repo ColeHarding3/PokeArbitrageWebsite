@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4083,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/NEgAAeSwQBhqcB4U/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061558184,
         "lastSeen": 1787677604366
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/oN4AAeSw-1dqWnH2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061558184,
         "lastSeen": 1787677604366
@@ -70,6 +72,27 @@
         "psa9Bin": 1
       },
       "ratio": null,
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "257640915366",
+          "title": "Pokemon Armaldo Ex 16/17 Pop Series 1 CGC 10Opens in a new window or tab",
+          "priceC": 25000,
+          "shippingC": 597,
+          "landedC": 25597,
+          "url": "https://www.ebay.com/itm/257640915366?_skw=%28armaldo%29+%2816%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=6043385442&itmmeta=01M0W0RYH9XFH05G0M6QYA3179&hash=item3bfc9861a6:g:NEgAAeSwQBhqcB4U&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xChdTogg%2B9X9JdrwHVT0Kpar%2Fy59iDkLbEe1UE9CzbEam2LQSoBBqHl2PTNgmLmCD1MdB4cwclf1KBTPT02BIFdRbrXxOr0TPBT%2F7gMIxYfHD03vqeka0b%2FBeAfWUrhC0fJ2rga9vnDN0bHVWjwR7WmkMZ7xP6WATf6si3bACAdru9aR0N8j7KMkPkFd24encTdKbHMDw5umSk1KEZp5ddPAtifLY%2F8Xdj2GNAYB9Pn%2FI%2BlQSMpMREk3D1b88P8rrygpD6AjbCtsgN7yNsmOkjkXRIV%2BgGE1zizFn6HUEw1CecovsORt%2Fglv%2B6qvF9KJyM%3D%7Ctkp%3ABk9SR_jo44CHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/NEgAAeSwQBhqcB4U/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787061558184,
+          "lastSeen": 1787677604366
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": null,
+        "firstOpportunityAt": 1787061558184
+      },
       "firstOpportunityAt": 1787061558184,
       "updatedAt": 1787677604366
     },
@@ -99,6 +122,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/oN4AAeSw-1dqWnH2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061558184,
         "lastSeen": 1787677604366
@@ -113,6 +137,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/NEgAAeSwQBhqcB4U/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061558184,
         "lastSeen": 1787677604366

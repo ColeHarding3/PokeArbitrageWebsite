@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11220,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/nCUAAeSwPoZqgAK7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rioAAeSwDqFqjKNP/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787647947652,
         "lastSeen": 1787677544402
@@ -83,6 +85,41 @@
         "totalCostC": 53598,
         "psa10ValueC": 149999,
         "ratio": 2.7985932310907122
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "188795289913",
+          "title": "2006 POKEMON EX LEGEND MAKER 25/92 SOLROCK REVERSE HOLO CGC 10Opens in a new window or tab",
+          "priceC": 45000,
+          "shippingC": 599,
+          "landedC": 45599,
+          "url": "https://www.ebay.com/itm/188795289913?_skw=%28solrock%29+%2825%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=25043362894&itmmeta=01M0W1WA6SDH5WZMR84MHKAEKN&hash=item2bf5138139:g:nCUAAeSwPoZqgAK7&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDZBFmg1sOt%2F2TXtjqMNXuu%2FOhh3ILcgld6qt44IKR57PTS32%2F24LM%2FP%2BQweS%2FOzxiQ7R1JOwf1ayC8wDyhX%2BDp70SupW%2BPohFeKDURjgzMo9i9ne2gFnfjvFCGBkvqSupAIzVmUCGYF9sTBrgCExMmDKbbT3pGOWXSO4EsbgfraAuMFoiQ7F%2F3dhB4xkXRkdn1DDYqwX5Kh8USDnAAhJHQhXeZhwh2kJMOfEoTJGkPuax8fXVtZIfFR5wm%2BZ%2Bk5Bku5Yg5R1YdRNeOz2joR4xr%7Ctkp%3ABk9SR86j8YGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/nCUAAeSwPoZqgAK7/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787216884103,
+          "lastSeen": 1787677544402
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 45599,
+          "submissionFeeC": 7999,
+          "totalCostC": 53598,
+          "psa10ValueC": 149999,
+          "ratio": 2.7985932310907122
+        },
+        "firstOpportunityAt": 1787216884103
       },
       "firstOpportunityAt": 1787216884103,
       "updatedAt": 1787677544402
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rioAAeSwDqFqjKNP/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787647947652,
         "lastSeen": 1787677544402
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/GaIAAeSw0NhqJPRV/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/nCUAAeSwPoZqgAK7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/TN8AAeSwfyZqOan~/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402

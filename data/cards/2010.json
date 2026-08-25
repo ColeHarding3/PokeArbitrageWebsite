@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2010,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/k1UAAeSwsZdqdeBy/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094567887,
         "lastSeen": 1787677514144
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/tCcAAeSwdYJp8Egu/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -83,6 +85,41 @@
         "totalCostC": 195448,
         "psa10ValueC": 1164456,
         "ratio": 5.957881380213663
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "407043825361",
+          "title": "Pokemon TCG 2002 CGC 10 Kadabra Legendary Collection Reverse Holo #49 - POP 10!Opens in a new window or tab",
+          "priceC": 350000,
+          "shippingC": 0,
+          "landedC": 350000,
+          "url": "https://www.ebay.com/itm/407043825361?_skw=%28kadabra%29+%2849%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=23043384425&itmmeta=01M0VYJ8SZCRXPR31TQSMN1ATC&hash=item5ec5b3ded1:g:3-YAAeSwQc1qRqWp&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCBd97MpkrwkO2dz0q22bghTyRLHqp%2FqakJtNHS3fXeDIviFjtEDbIYOZ%2BK9mIIw8LYA2CvkKjB0%2B15QIvv%2FHo0n66FJQB8j%2BhdGkC0OJudgBOQkbBfoydvIOeYIhrpb0yOnWErCLHp6V04%2BiABgaJcIFlJCnCsOZSf%2BJmW0juaJd8R6SCsRpv4aaozqg%2BcwQog5sK00c2YdJf3UbQmEYoH9Ao7UgUEzSiNTTe6zF9wFyRglvSxw09T0P5Gzzysb4I3mt8dZlv%2BnlS54Y3TzQknRVodpiQ1DkrmMQEZFxygnQ%3D%3D%7Ctkp%3ABk9SR56Nyf6GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/3-YAAeSwQc1qRqWp/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787050911353,
+          "lastSeen": 1787677514144
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium1",
+            "label": "Premium 1",
+            "feeC": 99900,
+            "declaredValueCapC": 2500000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 350000,
+          "submissionFeeC": 99900,
+          "totalCostC": 449900,
+          "psa10ValueC": 1164456,
+          "ratio": 2.58825516781507
+        },
+        "firstOpportunityAt": 1787050911353
       },
       "firstOpportunityAt": 1787094567887,
       "updatedAt": 1787677514144
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/k1UAAeSwsZdqdeBy/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094567887,
         "lastSeen": 1787677514144
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/tCcAAeSwdYJp8Egu/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Re8AAeSwVf1qfyZW/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/3-YAAeSwQc1qRqWp/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144

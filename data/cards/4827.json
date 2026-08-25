@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4827,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qJ0AAeSwvw1qWU2e/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/XNYAAeSw0F5qFiDc/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -83,6 +85,41 @@
         "totalCostC": 114899,
         "psa10ValueC": 232500,
         "ratio": 2.0235163056249403
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287466695796",
+          "title": "DITTO [CHARMANDER] 61/113 ORIGINS INT'L GAME EXPO POKEMON CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 99999,
+          "shippingC": 0,
+          "landedC": 99999,
+          "url": "https://www.ebay.com/itm/287466695796?_skw=%28ditto%29+%2861%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=6047828885&itmmeta=01M0W1Q56HQP1EN63CT8XVCN8X&hash=item42ee59ac74:g:qJ0AAeSwvw1qWU2e&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBuvBfGf%2F10usoNgeQDy1QaYb4esfh8Y5VwNFO%2FaMfniEwjS98YnAwllXjsPAscDx7usxbrHNBNQ8TQBhUpxlQ%2Bi8wNtcoImKYM0QSyDkizfQ0xGk8LYd3SWcUmPnxQFMZPv%2Fsvg%2Brvli619f21jY%2BkYNXNjtB8Lb4MdenpICaIrV6uB8KCYFHQhjGItm%2F0EOqgYiUcWMlfVwNONFtl8WSXWF9snS3bK4Si5HjNRaI7uJS%2B31ul2thEe0eDBd9hvHM%2FItHe%2BOnDIb%2FjnoKlXxTqyifjRd5JBQXTAYPBpHGVsf1HMi1niWmUfWWa609AklM%3D%7Ctkp%3ABk9SR9LT3IGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/qJ0AAeSwvw1qWU2e/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787089625972,
+          "lastSeen": 1787677542417
+        },
+        "cgc10Bin": 3,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 99999,
+          "submissionFeeC": 14900,
+          "totalCostC": 114899,
+          "psa10ValueC": 232500,
+          "ratio": 2.0235163056249403
+        },
+        "firstOpportunityAt": 1787089625972
       },
       "firstOpportunityAt": 1787089625972,
       "updatedAt": 1787677542417
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qJ0AAeSwvw1qWU2e/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/cY8AAeSwdUJqf5Jp/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/3KgAAeSwy7NqGeOR/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/XNYAAeSw0F5qFiDc/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417

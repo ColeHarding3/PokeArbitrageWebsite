@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2400,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/EukAAeSw-H1p5pb~/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094572177,
         "lastSeen": 1787677529172
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/RRkAAeSwbiNqfnvO/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -83,6 +85,41 @@
         "totalCostC": 43556,
         "psa10ValueC": 115350,
         "ratio": 2.648314813114152
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "188809629558",
+          "title": "HITMONLEE [POP 6!] #81 REVERSE HOLO EXPEDITION POKEMON CGC 10Opens in a new window or tab",
+          "priceC": 54900,
+          "shippingC": 0,
+          "landedC": 54900,
+          "url": "https://www.ebay.com/itm/188809629558?_skw=%28hitmonlee%29+%2881%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=18043373602&itmmeta=01M0VZ2NNWH5005CM3F644JGZ0&hash=item2bf5ee4f76:g:MUYAAeSwR7pqg86C&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDO1dPEhs%2Ffl4LFiZUGAybITt5s11wl7kUsMufZ3TJ70ukwcb255TkZkaU6CiEQjjQNpHMluZvtskUEwtOBdK12WfV5tKSvsSExGzlUmOyhcTHumNjGrBYM2DyfQ8TSQ1ej2lEmkf7SKoL9rJ8Yt6AcmDhu4RnWfo8E5hKiYjXjBqTFKhERzeGPeP9ztEu6AAW3d2Jcp6NhZg6RlMXcvPZXjamqCIa7Y3fpGFINhmEPL%2FevSk8XUDoBrkpyitIuMFDoenTwM6Hm8VrlKZmLAiIJy7qicEYRwOHQn7hGY5MNlw%3D%3D%7Ctkp%3ABk9SR5rbiv-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/MUYAAeSwR7pqg86C/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787052902664,
+          "lastSeen": 1787677529172
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 54900,
+          "submissionFeeC": 7999,
+          "totalCostC": 62899,
+          "psa10ValueC": 115350,
+          "ratio": 1.833892430722269
+        },
+        "firstOpportunityAt": 1787052902664
       },
       "firstOpportunityAt": 1787094572177,
       "updatedAt": 1787677529172
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/RRkAAeSwbiNqfnvO/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/EukAAeSw-H1p5pb~/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094572177,
         "lastSeen": 1787677529172
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MUYAAeSwR7pqg86C/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172

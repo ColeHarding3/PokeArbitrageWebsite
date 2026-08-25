@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4336,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/2y0AAeSwf1dqQRkd/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677571153
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/QLUAAeSwW4tqgjme/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -83,6 +85,41 @@
         "totalCostC": 118806,
         "psa10ValueC": 148785,
         "ratio": 1.2523357406191606
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "206378958403",
+          "title": "Pokemon Marshtomp EX Emerald Reverse Holo #36 CGC 10 (Pop 7!)Opens in a new window or tab",
+          "priceC": 110807,
+          "shippingC": 0,
+          "landedC": 110807,
+          "url": "https://www.ebay.com/itm/206378958403?_skw=%28marshtomp%29+%2836%2Cemerald%29+%28CGC%2CPSA%29&itmmeta=01M0W18MCYV7W4HA5SEX5C2H3Z&hash=item300d24fe43:g:2y0AAeSwf1dqQRkd&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA1qvCnqWp3Zf5xwwH52%2FgSiw7tBRtbZE3K3Rzx2QmpwhjSQ%2BplR80U7gLaPR1dF%2FEFPviGqEHTkzgWxt4ca6FRnJP7dvUfAaKfXKfnrq1daUY6lDr16Ucm8RSIGTgjt26YhSlsJfm8bz6ifCG6fZMiJEcBSyLfM4hBQ8cRkA7G9Psb5JZPUanKaCo6ftHyTy2fuYYLI%2BVPUxxzap00gZt9Gkp%2FVjXVWLelNezlTOqziMm6eWVYPbAzlHhPeztQyiIsZEYC5uX5fFyXvvB6zSkT%7Ctkp%3ABk9SR4THooGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/2y0AAeSwf1dqQRkd/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787058454419,
+          "lastSeen": 1787677571153
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 110807,
+          "submissionFeeC": 7999,
+          "totalCostC": 118806,
+          "psa10ValueC": 148785,
+          "ratio": 1.2523357406191606
+        },
+        "firstOpportunityAt": 1787058454419
       },
       "firstOpportunityAt": 1787058454419,
       "updatedAt": 1787677571153
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/QLUAAeSwW4tqgjme/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zKoAAeSw0DZqhFHa/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677571153
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/2y0AAeSwf1dqQRkd/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677571153

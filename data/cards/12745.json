@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 12745,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/T6sAAeSwWkBqbNp7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/an8AAeSwYPFqgMz4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498
@@ -83,6 +85,41 @@
         "totalCostC": 67899,
         "psa10ValueC": 105558,
         "ratio": 1.5546326160915478
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "327288780022",
+          "title": "CGC 10 GEM MINT Darkrai 3/106 Great Encounters Holo Pokemon CardOpens in a new window or tab",
+          "priceC": 59900,
+          "shippingC": 0,
+          "landedC": 59900,
+          "url": "https://www.ebay.com/itm/327288780022?_skw=%28darkrai%29+%283%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=8043378190&itmmeta=01M0W3PBQ9CPQBZD1PA6XKVGZ6&hash=item4c33ee74f6:g:T6sAAeSwWkBqbNp7&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA4VmKmjv32%2Bclh3IV0KRVW5CNIzEtPCEyEMaDtFk%2B11KNWMAgTitwZazyNOaxSV4Hbkm9LlpGVbNQW5ANe3o01zDj%2BowKpub2VeKAqEF%2B1TKP%2FcESyjVVhtcOQl3ykSL6MbSlipZV0lPu%2FB5Dh7oMDsiz7Ge8fvjcZ0VQn48aMfuYCkY9dtCbkuYgIlB9%2F89F2hc%2Fjarf8rihlLLYcQOIqQ7QxhRk1sLZFUwGBvoQWJ6PjOfD1oFTQ8L74%2B6madBgd6XeRN1IGfbG%2FFc%2F9D2yuRBv%2BwbVhGhGncnKL9fVUOZwVxip8UvNIT%2BzfL1YcQnyaaiaRrxX7Yx0tXestc4F3%7Ctkp%3ABk9SR_y72YOHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/T6sAAeSwWkBqbNp7/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787220584144,
+          "lastSeen": 1787677523498
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 59900,
+          "submissionFeeC": 7999,
+          "totalCostC": 67899,
+          "psa10ValueC": 105558,
+          "ratio": 1.5546326160915478
+        },
+        "firstOpportunityAt": 1787220584144
       },
       "firstOpportunityAt": 1787220584144,
       "updatedAt": 1787677523498
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/T6sAAeSwWkBqbNp7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/an8AAeSwYPFqgMz4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/nXEAAeSwwvJqWTpz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220584144,
         "lastSeen": 1787677523498

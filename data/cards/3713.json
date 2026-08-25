@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3713,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/cpEAAeSwaENp9Q1y/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/OSsAAeSwXMpqMXFe/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -83,6 +85,41 @@
         "totalCostC": 69900,
         "psa10ValueC": 241550,
         "ratio": 3.455650929899857
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "227325431916",
+          "title": "CGC 10 Regirock ex 98/101 2004 EX Hidden Legends Ultra Rare Pokemon CardOpens in a new window or tab",
+          "priceC": 55000,
+          "shippingC": 0,
+          "landedC": 55000,
+          "url": "https://www.ebay.com/itm/227325431916?_skw=%28regirock%29+%2898%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=12043364523&itmmeta=01M0W0HMJCXR9JQVA5K1PZVD6J&hash=item34eda6d06c:g:cpEAAeSwaENp9Q1y&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDUmmP47a3MYEuqmGn8k%2FFP2po6wSF98hr7l%2FYKUBCvyY22oM%2FZZo4ovJDvWD2M2K7cNrfWMX1w7HYtIY5klDQrnILyHacEWfplTrl861DP4hcZwG7RQZc13QpkyYVq8Jmha1KHVdBFazWomNbU7A3wfbj3fPaaSCTt0YdR1mqWe%2BEpJVC7Q%2BZ907g6jySdUy8h%2BpNlBcaGTqUrPlKIOxVaTLqyAdnx9gOPg5Eb7%2BBMPWQsQ1iVdUadWgUyej7sfyBBmOd%2Flv3ZoQN%2BmR2tSM5Zw0pfRdWAFlcwNXjoTjhdA2S3Vwwo5QFGMSmSvXoR5zfe9akkkpBtB3zMRrQBPpV8%7Ctkp%3ABk9SR77JxoCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/cpEAAeSwaENp9Q1y/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787060323903,
+          "lastSeen": 1787677563415
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 55000,
+          "submissionFeeC": 14900,
+          "totalCostC": 69900,
+          "psa10ValueC": 241550,
+          "ratio": 3.455650929899857
+        },
+        "firstOpportunityAt": 1787060323903
       },
       "firstOpportunityAt": 1787060323903,
       "updatedAt": 1787677563415
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/OSsAAeSwXMpqMXFe/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/em0AAeSw0hNqdjZp/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/cpEAAeSwaENp9Q1y/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/bK8AAeSwreJpdzEV/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/H64AAeSwXmlp~OT7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415

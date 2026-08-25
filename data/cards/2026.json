@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2026,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/p1YAAeSw-dNp~kSv/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/aSYAAeSwmX1qhBHE/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -83,6 +85,41 @@
         "totalCostC": 185899,
         "psa10ValueC": 445050,
         "ratio": 2.394041925992071
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287321530366",
+          "title": "Pokemon Machop Legendary Coll. Reverse Holo #79 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 150000,
+          "shippingC": 999,
+          "landedC": 150999,
+          "url": "https://www.ebay.com/itm/287321530366?_skw=%28machop%29+%2879%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=26043383534&itmmeta=01M0VYJFV1B6BRF72XD4PEJSEC&hash=item42e5b29ffe:g:p1YAAeSw-dNp~kSv&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBQAXEYktYuRqhzTSBrcTaiFuLqhm4UDeXCdbrO814UEaEZmJLlLVw8AF3GBOEfrCB%2F5DFk6sI0t9ZmBLoHHmPtQmmT1MDYq%2FcCIi2yGlfIHEAAYpdW0D2udJzI462fH3vDmXtCsXTjf83bxBtWTA7O09tDZUxc4Q%2F0Xg1vp5wGmxErwdu%2FW9WAWV7h6t%2B2mBc1EEmqsXafMIfJVPA%2FF5MX0aBb86GvmAF0tijTgMhecYIXFWNjg%2FVSiNUxHuM%2FJ%2BheMfG5Y9hFXhg6LP7vpFeV6jVgbTlojNbqIgI3g5n5Dw%3D%3D%7Ctkp%3ABk9SR-D9yf6GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/p1YAAeSw-dNp~kSv/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787050911353,
+          "lastSeen": 1787677514144
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 150999,
+          "submissionFeeC": 34900,
+          "totalCostC": 185899,
+          "psa10ValueC": 445050,
+          "ratio": 2.394041925992071
+        },
+        "firstOpportunityAt": 1787050911353
       },
       "firstOpportunityAt": 1787050911353,
       "updatedAt": 1787677514144
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/aSYAAeSwmX1qhBHE/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/e9MAAeSwmWhqNGSZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/p1YAAeSw-dNp~kSv/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144

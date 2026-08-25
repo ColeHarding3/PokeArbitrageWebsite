@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 10773,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/piAAAeSwfZRqcN69/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/KgcAAeSwZsBqjFE9/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787647466067,
         "lastSeen": 1787677540433
@@ -83,6 +85,41 @@
         "totalCostC": 258596,
         "psa10ValueC": 120551,
         "ratio": 0.46617503751024764
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287501364062",
+          "title": "Pokemon Elekid EX Unseen Forces Reverse Holo #23 CGC 10 GEM MINT YUKA MORIIOpens in a new window or tab",
+          "priceC": 250000,
+          "shippingC": 597,
+          "landedC": 250597,
+          "url": "https://www.ebay.com/itm/287501364062?_skw=%28elekid%29+%2823%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=10043375783&itmmeta=01M0W1E2W4Y4CX4F3GCBEN4FKR&hash=item42f06aab5e:g:piAAAeSwfZRqcN69&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCEBxRKL9EbVP3jwpNJ72XoKBH2j5WBPMrUd4n8VQRllixe37BBe8%2Flx1198eUXkhw6m0uV97JQ%2BlkiVaRgKRNjATBtzvwgnC%2Fo9g%2FLi8wI5VCWR3c7pdTzOnZz12RjIlNzrpOtaecz84ZhgqSGJMaZmRmQtZ%2B0IatITZO8awaLXaCJnTRstIbzO%2FEzgtv%2FFnNzp8DEmUb3F2BSVr04GhFELIGiLE%2FsiOaH0l2emrGKy3nw8pG%2FJ%2Bo8C7Wz7QrWjpcJT4eyCR3YjoGJGYlsoRM%2BKpbj7rLpZEIbYTOjDmEhTYbIdNPlv5M8cIHXJtzin%2Fw%3D%7Ctkp%3ABk9SR6yuuIGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/piAAAeSwfZRqcN69/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787215619257,
+          "lastSeen": 1787677540433
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 250597,
+          "submissionFeeC": 7999,
+          "totalCostC": 258596,
+          "psa10ValueC": 120551,
+          "ratio": 0.46617503751024764
+        },
+        "firstOpportunityAt": 1787215619257
       },
       "firstOpportunityAt": 1787215619257,
       "updatedAt": 1787677540433
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/T-0AAeSwqX5qiuC7/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787559919428,
         "lastSeen": 1787677540433
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/KgcAAeSwZsBqjFE9/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787647466067,
         "lastSeen": 1787677540433
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/piAAAeSwfZRqcN69/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433

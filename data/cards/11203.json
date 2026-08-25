@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11203,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/kMgAAeSwnbNpiTZ0/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -70,6 +71,41 @@
         "totalCostC": 28873,
         "psa10ValueC": 121950,
         "ratio": 4.223669171890694
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "206058397048",
+          "title": "Pokemon Bellsprout Legend Maker Stamped 49/92 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 19999,
+          "shippingC": 875,
+          "landedC": 20874,
+          "url": "https://www.ebay.com/itm/206058397048?_skw=%28bellsprout%29+%2849%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=17043371323&itmmeta=01M0W1WGDDFPW511JE9DZW8F1Y&hash=item2ffa099d78:g:kMgAAeSwnbNpiTZ0&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA28jzQ9RvUIH2qkErAUrT3ComYu3d2UwbllNce49HP4nN1PcvDzLm%2BNDSZ4B1Ig5zNMqQ7l9SvN8HGFnjqCP8pYMLZ0XaFQYutiZE%2FaPVCnwuBA193gFz3GBZkmiqnUwnL0me8B5piVxsQjN2somu02rQ0s2BcJIPj%2Fp8dLXFGboVsSFTno2ZNf%2B%2B9huccu5kwdCiz1xrrzkw%2FUtjdpW0ZOMt7JMcsQadFR6OdpFF49eik2DPfEDTqbam9HQMPhL8oq2c%2FjIDgv18csxgtSaCjKqb8ZzDEkhfqHU16aSP0k2KWOBCtR0J4SLlBNDqVWtjjrlHKIq2R2BFlTu8jiYCA%7Ctkp%3ABk9SR4yH8oGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/kMgAAeSwnbNpiTZ0/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787216884103,
+          "lastSeen": 1787677544402
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 20874,
+          "submissionFeeC": 7999,
+          "totalCostC": 28873,
+          "psa10ValueC": 121950,
+          "ratio": 4.223669171890694
+        },
+        "firstOpportunityAt": 1787216884103
       },
       "firstOpportunityAt": 1787216884103,
       "updatedAt": 1787677544402
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/kMgAAeSwnbNpiTZ0/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/lUwAAeSwIgJp2Coy/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402

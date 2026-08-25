@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11094,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Fy0AAeSwo4NqXlQJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5oUAAeSwW4tqdMrW/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -83,6 +85,41 @@
         "totalCostC": 51998,
         "psa10ValueC": 109694,
         "ratio": 2.109581137736067
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "366597405280",
+          "title": "Gastly 2006 EX Legend Maker 52/92 Reverse Holo Pokemon Card Mint CGC 10 New CertOpens in a new window or tab",
+          "priceC": 63939,
+          "shippingC": 0,
+          "landedC": 63939,
+          "url": "https://www.ebay.com/itm/366597405280?_skw=%28gastly%29+%2852%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=3043380541&itmmeta=01M0W1VDE4GAC59735YG5MB8QJ&hash=item555ae87a60:g:o2IAAeSwbdppiDU0&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCUpFmfE8MbFJGbbGnS7SJN8OIw6DbFPQutYT%2BayptA9ehQAnp6zW156jf5kbjsYFOafK1tXOm3z%2F%2BRKtT3WCAq4zLO8Ymb8iybiXkwdW9Erq0QMxiFSW113XycZ6jdoyl8Dpom6UYnyUAQubeM3ZFvpKIF2soLcY%2FAL%2FcIQe28M5N9Ae23cjX2MIa7IOS0RHdfZdf%2BIPvMHqgKQtq0iogMm7jbYisNn2g9EOL1PzcCCsyZ3oAicgHXxUXQ1OgUCbUa9OvoxegYx5UPRZaOZNRWWvSeoESoX%2B2aftzu4Dk9MNKz4T7Anty9gV%2BEvGDbW9E%3D%7Ctkp%3ABk9SR5rX7YGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/o2IAAeSwbdppiDU0/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787216884103,
+          "lastSeen": 1787677544402
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 63939,
+          "submissionFeeC": 7999,
+          "totalCostC": 71938,
+          "psa10ValueC": 109694,
+          "ratio": 1.5248408351636131
+        },
+        "firstOpportunityAt": 1787216884103
       },
       "firstOpportunityAt": 1787216884103,
       "updatedAt": 1787677544402
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Fy0AAeSwo4NqXlQJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/o2IAAeSwbdppiDU0/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5TgAAeSwfZRqaYUo/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5oUAAeSwW4tqdMrW/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/2CcAAeSwJWxps4Fb/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402

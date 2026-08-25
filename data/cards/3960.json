@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3960,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7X0AAeSwwrlqaYVW/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814
@@ -70,6 +71,41 @@
         "totalCostC": 75999,
         "psa10ValueC": 102500,
         "ratio": 1.3487019566046923
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "188710601529",
+          "title": "MAROWAK [KUSUBE ART POP 20s!] #7 REVERSE HOLO EX FIRE RED & LEAF GREEN CGC 10Opens in a new window or tab",
+          "priceC": 68000,
+          "shippingC": 0,
+          "landedC": 68000,
+          "url": "https://www.ebay.com/itm/188710601529?_skw=%28marowak%29+%287%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=11043365933&itmmeta=01M0W0PW3PYE8VSJC65TCTJAAW&hash=item2bf0074339:g:7X0AAeSwwrlqaYVW&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAy4x6OlZzvvzrjkm6bc0AT4Y97WIbu0T60QWntJagIPhXzsjXFab6SI6LsG2KvE45eKErR8umJiCOBOZqeqE6QOjj5pE5%2B08YeiR9Gs94N%2BUQqZLWSa9M2O4tw4qc5xqIpS7iSvqbhg6MxhQIFQOjjvxyeHaNytdxuYLOIPIEn4G%2Be4u6xyeWtgJ%2B3DS09RhYoIa6WdPdUeCIAygkiOhB6si727TttnIGAV%2Fzkt45qC71rCiyFRrNd5IJpINPW%2BIMH%2F6BrGjw%2FhRg6pm7%2BLR4erzvwdvK3ycQm%2F8J1CZYeMQ%3D%3D%7Ctkp%3ABk9SR-TC24CHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/7X0AAeSwwrlqaYVW/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787061354691,
+          "lastSeen": 1787677564814
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 68000,
+          "submissionFeeC": 7999,
+          "totalCostC": 75999,
+          "psa10ValueC": 102500,
+          "ratio": 1.3487019566046923
+        },
+        "firstOpportunityAt": 1787061354691
       },
       "firstOpportunityAt": 1787061354691,
       "updatedAt": 1787677564814
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7X0AAeSwwrlqaYVW/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814

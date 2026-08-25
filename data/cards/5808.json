@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5808,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/S~8AAeSwW0ZqVnof/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -70,6 +71,41 @@
         "totalCostC": 108523,
         "psa10ValueC": 122244,
         "ratio": 1.126434027809773
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "398174171140",
+          "title": "Pop 31! CGC 10 Pokemon Shellder 63/101 EX Dragon Frontier Stamped Reverse Holo Opens in a new window or tab",
+          "priceC": 99900,
+          "shippingC": 624,
+          "landedC": 100524,
+          "url": "https://www.ebay.com/itm/398174171140?_skw=%28shellder%2Cdelta%29+%2863%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=8043378073&itmmeta=01M0W2NTZZC3T0RV4DNERPHEPM&hash=item5cb507b004:g:S~8AAeSwW0ZqVnof&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDiVqY8XbZIx%2BvizG1%2B3THxCDQbOiMRL6U91SjBgc7iHScd8KwBPYPcdowokeUYrvcUOFTVH5Uckf04KU1GWpROolERZBXyYqtjTCscWaOIC55l7kP1JWTLornxR1O%2F9Qx2Igw9%2FgTkgjf1%2FAdnUDs6hlqe%2F4yLlxQZpEZiHzEJfIMj0n9%2BJXmXM3YWUoTSPinH%2F9Lmrs4QTNkjmXl5m0AFNVM5q7c%2BWgZI8HDFChgfEOS7JuTcHZ2Pv5h7NyBf%2FdH8XQG0YoSpLlVqLaqRgxdVapEs3HKczJSj2Z5eHd%2FsY0lHakkTtuzuN%2F3nDw8pcwG9L8fYHnYOomMCHLac%2BDAp%7Ctkp%3ABk9SR6yw14KHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/S~8AAeSwW0ZqVnof/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787218759794,
+          "lastSeen": 1787677552393
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 100524,
+          "submissionFeeC": 7999,
+          "totalCostC": 108523,
+          "psa10ValueC": 122244,
+          "ratio": 1.126434027809773
+        },
+        "firstOpportunityAt": 1787218759794
       },
       "firstOpportunityAt": 1787218759794,
       "updatedAt": 1787677552393
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8j8AAeSwkNxqfPAz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "stale",
         "firstSeen": 1787218759794,
         "lastSeen": 1787218759794
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5JsAAeSwWihqh0g8/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "stale",
         "firstSeen": 1787302568112,
         "lastSeen": 1787388511745
@@ -128,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/3FIAAeSw2Rtp0M34/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "stale",
         "firstSeen": 1787218759794,
         "lastSeen": 1787218759794
@@ -142,6 +181,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/B7kAAeSw4U1qfyoA/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787476002480
@@ -156,6 +196,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/S~8AAeSwW0ZqVnof/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393

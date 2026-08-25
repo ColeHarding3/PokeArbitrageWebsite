@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11236,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/pj0AAeSwBP1qNDNb/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787217304958,
         "lastSeen": 1787677605935
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ERAAAeSw4C1qiiji/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787217304958,
         "lastSeen": 1787677605935
@@ -83,6 +85,41 @@
         "totalCostC": 54499,
         "psa10ValueC": 127641,
         "ratio": 2.342079671186627
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "117368885568",
+          "title": "CGC Gem Mint 10 Pichu Bros 16/17 Pop Series 3 2006 PokemonOpens in a new window or tab",
+          "priceC": 46500,
+          "shippingC": 0,
+          "landedC": 46500,
+          "url": "https://www.ebay.com/itm/117368885568?_skw=%28pichu%2Cbros%29+%2816%2Cpop%2Cseries%2C3%29+%28CGC%2CPSA%29&epid=27043367009&itmmeta=01M0W1Y81H0ZSYJ4DD3E4RC1TJ&hash=item1b53bb1140:g:pj0AAeSwBP1qNDNb&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDc%2FNPL2USrmPqU%2BW5O3AEtfz8SdG0QDfN2JftemeQg%2FUEQz1X5jH25OS7tLpYV1uZE89TZLna874Fw4jFU7diNzeiKKbSGkjj%2F2QlpmBIM2%2FdEY%2BKh6l%2FQXcquiQaW%2BvWE7J%2BEYYmizwN4nfdziLjWqv76lXEm1mmDCJZChtd4zZDRxHjaN7%2FskUUhX9bc%2Fk%2BbxEMTQqlJdWJvKFQg6wHdw5fb6ku9cC4v5dvqCiDvNru%2BA%2B9o%2FnK0hKyAeG5%2B6MpXlTvPNNGpzrEjqRxIu3hJ7%2FjF1dZumEUpEMRv%2BxRU%2FxeCFr1t0ICFsrEoMWR8JxBUViF%2BpYsgsxyOVncGUesc%7Ctkp%3ABk9SR5CB-YGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/pj0AAeSwBP1qNDNb/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787217304958,
+          "lastSeen": 1787677605935
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 46500,
+          "submissionFeeC": 7999,
+          "totalCostC": 54499,
+          "psa10ValueC": 127641,
+          "ratio": 2.342079671186627
+        },
+        "firstOpportunityAt": 1787217304958
       },
       "firstOpportunityAt": 1787217304958,
       "updatedAt": 1787677605935
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/nHAAAeSw8rhqit-n/s-l500.webp",
         "listingType": "auction",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560401221,
         "lastSeen": 1787677605935
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/dl0AAeSwmOFqKyPp/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787217304958,
         "lastSeen": 1787677605935
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4okAAeSwB49qHNYB/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787217304958,
         "lastSeen": 1787677605935
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/pj0AAeSwBP1qNDNb/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787217304958,
         "lastSeen": 1787677605935
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ERAAAeSw4C1qiiji/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787217304958,
         "lastSeen": 1787677605935
@@ -183,6 +225,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/EfAAAeSwd2xqFKRb/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560401221,
         "lastSeen": 1787677605935
@@ -197,6 +240,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/m74AAeSwEGFop2gj/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787217304958,
         "lastSeen": 1787677605935
@@ -211,6 +255,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8xcAAeSwteRpyjt0/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787217304958,
         "lastSeen": 1787677605935

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3291,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/nbcAAeSwCnlpvuAl/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Db4AAeSw0-xqaav4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -83,6 +85,41 @@
         "totalCostC": 42999,
         "psa10ValueC": 150000,
         "ratio": 3.488453219842322
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "306835201570",
+          "title": "CGC 10 GEM MINT Ralts 74/100 EX Sandstorm REVERSE HOLO Vintage 2003 Pokemon CardOpens in a new window or tab",
+          "priceC": 35000,
+          "shippingC": 0,
+          "landedC": 35000,
+          "url": "https://www.ebay.com/itm/306835201570?_skw=%28ralts%29+%2874%2Csandstorm%29+%28CGC%2CPSA%29&epid=25043362877&itmmeta=01M0W0427QN81HVM3X1AT4RZKJ&hash=item4770cd9e22:g:nbcAAeSwCnlpvuAl&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCmEJmvB%2Ff%2Bg7occCVQgQ8Y%2FHiOU0FcK96vZS5Bu4sCNxbB3EbxnWU23xlp8cOqxDOS8Jl%2ByxJp8lXRyaqdgz2jRmIuIkSCO5HDoTZ6fx2NKjxPhjJnJCstSaR7Uxi%2B1W5lBgiHZ%2BfSn5y9JYZH3%2BuNmJhqfmFK419J%2FtdsK7eMCIPSx1DfPuQDeqrAjCWmNo4kWmjucjRwjqqb3wHcWpfWooRGOxp3BhLcYi05NLC6zmsUiezcuvXJpYLBFyUjzXzYRsiKUn7pfBvNE%2BSV4PZf%7Ctkp%3ABk9SR5SkkICHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/nbcAAeSwCnlpvuAl/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787057553322,
+          "lastSeen": 1787677559236
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 35000,
+          "submissionFeeC": 7999,
+          "totalCostC": 42999,
+          "psa10ValueC": 150000,
+          "ratio": 3.488453219842322
+        },
+        "firstOpportunityAt": 1787057553322
       },
       "firstOpportunityAt": 1787057553322,
       "updatedAt": 1787677559236
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Db4AAeSw0-xqaav4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/888AAeSwSUNqi7Qn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558576390,
         "lastSeen": 1787677559236
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/nbcAAeSwCnlpvuAl/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236

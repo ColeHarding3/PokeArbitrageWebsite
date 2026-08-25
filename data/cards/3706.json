@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3706,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/UHcAAeSwS~Jqc8Uu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/LuUAAeSwyedqe8LQ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -83,6 +85,41 @@
         "totalCostC": 179163,
         "psa10ValueC": 441348,
         "ratio": 2.4633880879422647
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "137590728776",
+          "title": "CGC 10 KYOGRE EX 94/101 HOLO EX HIDDEN LEGENDSOpens in a new window or tab",
+          "priceC": 138152,
+          "shippingC": 6111,
+          "landedC": 144263,
+          "url": "https://www.ebay.com/itm/137590728776?_skw=%28kyogre%29+%2894%2Chidden%2Clegends%29+%28CGC%2CPSA%29&itmmeta=01M0W0HFSHQ5D3YB8AN5M8CX15&hash=item20090be848:g:UHcAAeSwS~Jqc8Uu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBBnyWBvCZ%2BOP6Xa8Ey8%2BcNWIc6aRPIhYvsowYLHb4981nC%2BpL0JFbyY6od3sepSIymFGcVaBbVWY%2BYdB9XvuQhOH4EFPYXK9KE8LMFXjTO1ExdBWMJmXEtb4A6HTPczt1DLopXBnkPboZN5fpxUp3c%2FlWTirhIY9okc0gYztzzM%2Ff%2Fr0WtneQ9s8PtnZ%2FTdRvuAHS9Kz3MCiF44nNWA6sN%2FDQP%2FSL%2BMensxqU%2BCerDzMxW6pu2jkvKeTXJcgE4FDN0MlHHs9PDhj%2B0uEpv6ePnzM%2BiCKx3TykVWLMwQdwZYg%3D%3D%7Ctkp%3ABk9SR4L9xYCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/UHcAAeSwS~Jqc8Uu/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787060323903,
+          "lastSeen": 1787677563415
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 144263,
+          "submissionFeeC": 34900,
+          "totalCostC": 179163,
+          "psa10ValueC": 441348,
+          "ratio": 2.4633880879422647
+        },
+        "firstOpportunityAt": 1787060323903
       },
       "firstOpportunityAt": 1787060323903,
       "updatedAt": 1787677563415
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/UHcAAeSwS~Jqc8Uu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/b0IAAeSw-AJpsxTI/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787646547798,
         "lastSeen": 1787677563415
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/LuUAAeSwyedqe8LQ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/YbIAAeSwlktqcTlh/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415

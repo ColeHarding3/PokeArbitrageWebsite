@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3760,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/~4YAAeSwbnVpnTzB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094588889,
         "lastSeen": 1787677563415
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/L5cAAeSw8klpqvlN/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -83,6 +85,41 @@
         "totalCostC": 10905,
         "psa10ValueC": 100000,
         "ratio": 9.170105456212747
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "365965802073",
+          "title": "Doduo 60/101 Hidden Legends Regular CGC 10Opens in a new window or tab",
+          "priceC": 2499,
+          "shippingC": 860,
+          "landedC": 3359,
+          "url": "https://www.ebay.com/itm/365965802073?_skw=%28doduo%29+%2860%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=25043363171&itmmeta=01M0W0J758H84Q6E7VBS1F6TWA&hash=item553542fa59:g:OhoAAeSwIhJpC9A3&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBlY7kZOxiIzkTBvltitsPggu4QPQ8s4hMtrKu2lGaCncVSCO285Hw0HiNnMV%2FZnC5Ytcl4w0E3sXiPqc5G5WFqbcPHP7aTau%2FJbVk24YA3wD1GUuHdhwJ7gpCsy4CyzrfXIxyy8cPKW5%2BLks4VAeu9%2Fxz1ThFiQP%2F3cPcTdGxcslJvynXKI1yp9uFJ5Hfo2EXkBQ%2B8ZLlhw6u5x4sYNsV1GmL48k1gzh%2FUdkLhLocbsa7nf8JXdmWBvtK0tGLpr0%2B3bH%2BDcj1ZHjOClyi1xx35%7Ctkp%3ABk9SR_7yyICHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/OhoAAeSwIhJpC9A3/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787060323903,
+          "lastSeen": 1787677563415
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 3359,
+          "submissionFeeC": 7999,
+          "totalCostC": 11358,
+          "psa10ValueC": 100000,
+          "ratio": 8.804366966015143
+        },
+        "firstOpportunityAt": 1787060323903
       },
       "firstOpportunityAt": 1787094588889,
       "updatedAt": 1787677563415
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/~4YAAeSwbnVpnTzB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094588889,
         "lastSeen": 1787677563415
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/OhoAAeSwIhJpC9A3/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/L5cAAeSw8klpqvlN/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/teAAAeSwdbdo-mpD/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787213780817,
         "lastSeen": 1787677563415
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zlcAAeSw4VVqaji2/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787060323903,
         "lastSeen": 1787677563415

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11169,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/9DEAAeSwOfRqdkpB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/uOkAAeSwpzNp2PAt/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677544402
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5kMAAeSwcVRpyeqC/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677544402
@@ -96,6 +99,41 @@
         "totalCostC": 204900,
         "psa10ValueC": 160000,
         "ratio": 0.7808687164470474
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "236992474689",
+          "title": "2006 Pokemon Magneton EX Legend Maker 22/92 Reverse Holo CGC 10 Gem Mint POP 15Opens in a new window or tab",
+          "priceC": 190000,
+          "shippingC": 0,
+          "landedC": 190000,
+          "url": "https://www.ebay.com/itm/236992474689?_skw=%28magneton%29+%2822%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=14043372001&itmmeta=01M0W1W8SVQ9KF3RF2MQQCC68V&hash=item372dda2e41:g:9DEAAeSwOfRqdkpB&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDbbxKP0cgwro0uWss%2Bo%2FYlzEbUjbstPVKfrtFlFZv7kNrMWPDxCPE0%2Bo%2BaD%2BGVWY%2BEnB0gJSQ%2F3D%2BPHOVLsSs5HeXZX2mfG5%2FG3gHKIksgbW6IthZfu5YRAAL3ZZvtNoomwlOK%2BaMTTyY51yVh1cKyFzQp6AE%2BkrbXfw0d6MY%2FQj6w3I9nNHBa2MgwSS65J9sQeTmYTMc6ZmmjXsldkSFgftIKpX%2BOLc%2FERPjRr2Lz5x4sjRTPN6CGzODQXj37%2FQ83yVKarz7BTJs5ndBfJVWj%7Ctkp%3ABk9SR56N8YGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/9DEAAeSwOfRqdkpB/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787216884103,
+          "lastSeen": 1787677544402
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 190000,
+          "submissionFeeC": 14900,
+          "totalCostC": 204900,
+          "psa10ValueC": 160000,
+          "ratio": 0.7808687164470474
+        },
+        "firstOpportunityAt": 1787216884103
       },
       "firstOpportunityAt": 1787216884103,
       "updatedAt": 1787677544402
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5kMAAeSwcVRpyeqC/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677544402
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/9DEAAeSwOfRqdkpB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/uOkAAeSwpzNp2PAt/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677544402

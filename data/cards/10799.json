@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 10799,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CT8AAeSwrndqZ4im/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -70,6 +71,41 @@
         "totalCostC": 10039,
         "psa10ValueC": 109469,
         "ratio": 10.9043729455125
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "407102025681",
+          "title": "2005 EX Unseen Forces #76/115 Sunkern CGC 10Opens in a new window or tab",
+          "priceC": 1500,
+          "shippingC": 540,
+          "landedC": 2040,
+          "url": "https://www.ebay.com/itm/407102025681?_skw=%28sunkern%29+%2876%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=21043376086&itmmeta=01M0W1EJ3AF5K1SNQ0RNQT2T2F&hash=item5ec92befd1:g:CT8AAeSwrndqZ4im&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCcWTGylMU59Od7t0YVc0smelPUL3zeYa5H1jAHOuALZi0Ydgy7dH2Ak%2B9q%2FGdXIWWfvXbwkgyquRao9qzlLmHKUlMqkXMTT692Br9oRHp9dLLZfYHrZSDTkXUQ6W0yretxU8CQS2ff5g824u970DDADuSrLxSHhqRZ6Xug4MOjsXeXx3I43%2FjCbDwZpa9jkGpO%2F7xb%2FC5bdwTsMCxEXgZTqrtKOD0r12nKj5ImHflPKFKHlBrzzzw%2BNcJkRGnnocDYxv57UKymLgKRyS5Zb9bU%7Ctkp%3ABk9SR-yhuoGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/CT8AAeSwrndqZ4im/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787215619257,
+          "lastSeen": 1787677540433
+        },
+        "cgc10Bin": 5,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 2040,
+          "submissionFeeC": 7999,
+          "totalCostC": 10039,
+          "psa10ValueC": 109469,
+          "ratio": 10.9043729455125
+        },
+        "firstOpportunityAt": 1787215619257
       },
       "firstOpportunityAt": 1787215619257,
       "updatedAt": 1787677540433
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CT8AAeSwrndqZ4im/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/IH8AAeSwaRZqgiK8/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -128,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/9RYAAeSwlPBpFDr6/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -142,6 +181,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/WE0AAeSwzkRqiDfw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787387266186,
         "lastSeen": 1787677540433
@@ -156,6 +196,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/YyoAAOSwVf5nkBaO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433

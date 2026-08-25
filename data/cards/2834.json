@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2834,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/3Y8AAeSwCh5ocUFH/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qMEAAeSwXiNqcpLB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CHUAAeSwvgtqeMzR/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -96,6 +99,41 @@
         "totalCostC": 108999,
         "psa10ValueC": 125000,
         "ratio": 1.1467995119221277
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "396849149999",
+          "title": "2003 Raikou Skyridge Reverse Holo - CGC 10 Gem Mint - POP 15Opens in a new window or tab",
+          "priceC": 100000,
+          "shippingC": 1000,
+          "landedC": 101000,
+          "url": "https://www.ebay.com/itm/396849149999?_skw=%28raikou%29+%2828%2Cskyridge%29+%28CGC%2CPSA%29&epid=25043363367&itmmeta=01M0VZSV9RVTCAH08CC8Y4R82B&hash=item5c660d782f:g:3Y8AAeSwCh5ocUFH&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCC9C9c4Kk031guHpHjDBSLyDdHhvNbfay30HvD3h4UF%2FO6PJgZOXUGnYf6cZebshYU76fzodoSRX64wFU7rp4j5omTCu6a%2B7eXzN9ot--GW4dS23VW4mDbHbdoYxndsC3q%2FJ0jbDsgQv7dlS9t2IP76DrX2B%2FIBA7L77tLlzlTNvVGvzjpCTZjYfOSyAYnUqQBFn8ll4k0u3EmKUQ4EHt%2Fy917WBSD1m0x6g7IB8%2BEgY%2B7IQt0r01KrP8nyFElmK4XV%2Bb8WFNU6OOCmF0%2B1Wm6%7Ctkp%3ABk9SR5C15_-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/3Y8AAeSwCh5ocUFH/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787055777278,
+          "lastSeen": 1787677537341
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 101000,
+          "submissionFeeC": 7999,
+          "totalCostC": 108999,
+          "psa10ValueC": 125000,
+          "ratio": 1.1467995119221277
+        },
+        "firstOpportunityAt": 1787055777278
       },
       "firstOpportunityAt": 1787055777278,
       "updatedAt": 1787677537341
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CHUAAeSwvgtqeMzR/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7gcAAeSwpZhp8rd3/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/3Y8AAeSwCh5ocUFH/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qMEAAeSwXiNqcpLB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341

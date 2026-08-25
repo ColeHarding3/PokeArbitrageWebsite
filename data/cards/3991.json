@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3991,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/cPYAAeSws3NqfTHk/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094589964,
         "lastSeen": 1787677564814
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Gx8AAeSwkB5qbMsI/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814
@@ -83,6 +85,41 @@
         "totalCostC": 10549,
         "psa10ValueC": 114000,
         "ratio": 10.806711536638543
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "336228499703",
+          "title": "Pokémon TCG Caterpie 56/112 CGC GRADED 10Opens in a new window or tab",
+          "priceC": 54900,
+          "shippingC": 0,
+          "landedC": 54900,
+          "url": "https://www.ebay.com/itm/336228499703?_skw=%28caterpie%29+%2856%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=26043383899&itmmeta=01M0W0QBJTXK65EJWBZYTADN5P&hash=item4e48c7c0f7:g:gtAAAeSwg3Fo6u6z&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBGq7eQWDmN1fyq2EdZEsY1vCBG9DQPbe6uAmVNw3gDOAoFsJMPi%2BrNzDPenR4G8W8pkzPSnIa%2BFGrU%2BM86YSXf5mBN2a4%2BscNG%2BPYwaF3DykOzIOZk5oGzoLfQX4n46y9tqD2Qf1b68ziSjbbrRsu35PC8W5J5epZRbLLXIvRwmjHC5aIxG14G5lrvISN8kt72Dc2yDQi4%2FWc5rncJhL%2FHav8b%2B5glvBrlndoYosTpBlVkG%2F2P9WEzitGRbNP2Ko8IhiFjYcTCViPJvc0D2oQouAzndv%2FgVDFs9M1a4Dft7Yh0PrzET41P9cXadrsqQfDFvo5U4rIHEukMJJTSGf8j%7Ctkp%3ABk9SR9653YCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/gtAAAeSwg3Fo6u6z/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787061354691,
+          "lastSeen": 1787677564814
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 54900,
+          "submissionFeeC": 7999,
+          "totalCostC": 62899,
+          "psa10ValueC": 114000,
+          "ratio": 1.8124294503887184
+        },
+        "firstOpportunityAt": 1787061354691
       },
       "firstOpportunityAt": 1787094589964,
       "updatedAt": 1787677564814
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/cPYAAeSws3NqfTHk/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094589964,
         "lastSeen": 1787677564814
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/gtAAAeSwg3Fo6u6z/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Gx8AAeSwkB5qbMsI/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814

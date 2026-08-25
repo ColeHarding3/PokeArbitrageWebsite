@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2751,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/A2IAAeSw6fRqdk7a/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/tXkAAeSwSgxpobe1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -83,6 +85,41 @@
         "totalCostC": 1449900,
         "psa10ValueC": 2746342,
         "ratio": 1.894159597213601
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "327299863683",
+          "title": "CGC 10 GEM MINT Celebi 145/144 Skyridge Holo Pokemon CardOpens in a new window or tab",
+          "priceC": 1250000,
+          "shippingC": 0,
+          "landedC": 1250000,
+          "url": "https://www.ebay.com/itm/327299863683?_skw=%28celebi%29+%28145%2Cskyridge%29+%28CGC%2CPSA%29&epid=8043378252&itmmeta=01M0VZRVV4N5GDDD06YYW068CC&hash=item4c34979483:g:A2IAAeSw6fRqdk7a&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBlkSJkmylVRoBhClJBEscSeeMqo%2BIRYVbsW49ec9ZL6DSlcaTfgoqp1ylqaKDoLTv%2FQf5lvGSaCcuYpKPIIZr0q6pMA%2FvI0All1kgCpJVYdBJhryr4VtJ%2FXOa4sNF%2Fkt%2FsWSh8QQvbB8Pshx0tqyOkByyGgNN8EkvC31lkLNjxriPsf3zKsYeXFZXmB%2FFlRaY9fAyk%2BWZecW5e%2BgVPCHTwzvtuyd1IJmCsPvu7etYK%2B1qxd1lAlV9PC6L6%2Bp3IJTcH0vsbplqPSmgB2%2FZqFnhx%7Ctkp%3ABk9SR-S94_-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/A2IAAeSw6fRqdk7a/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787055777278,
+          "lastSeen": 1787677537341
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium2",
+            "label": "Premium 2",
+            "feeC": 199900,
+            "declaredValueCapC": 5000000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 1250000,
+          "submissionFeeC": 199900,
+          "totalCostC": 1449900,
+          "psa10ValueC": 2746342,
+          "ratio": 1.894159597213601
+        },
+        "firstOpportunityAt": 1787055777278
       },
       "firstOpportunityAt": 1787055777278,
       "updatedAt": 1787677537341
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/A2IAAeSw6fRqdk7a/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/tXkAAeSwSgxpobe1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/D~EAAOSwwk5hzOyi/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341

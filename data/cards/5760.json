@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5760,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/C2cAAeSwO6Vp-BcB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -70,6 +71,41 @@
         "totalCostC": 90473,
         "psa10ValueC": 579400,
         "ratio": 6.404120566356814
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "358314269063",
+          "title": "CGC 10 GEM MINT Togepi (Delta Species) 41/101 Dragon Frontiers Reverse HoloOpens in a new window or tab",
+          "priceC": 50000,
+          "shippingC": 0,
+          "landedC": 50000,
+          "url": "https://www.ebay.com/itm/358314269063?_skw=%28togepi%2Cdelta%29+%2841%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=21043375455&itmmeta=01M0W2JQD3SG8WY75W6QWEKWJA&hash=item536d31d987:g:2vcAAeSw4-NpsZj6&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCj720RFnjeFDb5WDF7sFnp%2BEPzX0LY4rVo8c9j5IRQdQcvUFGjRMZTtfP62MDBB0sYI8SOmHhQtl5hS3xeEd%2BiAhMS5RAUDDfs1cX5phVefavHcDKvaSgWYIY0nwU%2Bmfc4IeB%2FVw2bGDednU2nbeJs8H0be3%2BUcdKEiETk6M3P3TsQWkjmt41jo5%2Fd6umUwg4dIjMHkcgBnbmK0cZ2Z454727MOVJrZa3Vx7oaeNNe7Qtpy1TkMamZv8UxovnzUDFKHxU2L%2BNaJFcUfhaj%2BuXx4dffDexIc2JLV%2F3D61wXt%2Bv4AoHaRhc%2Fc7QoB3qA2ZabOAtQAlsw9OGB%2BQ5B0j9Z%7Ctkp%3ABk9SR-r2yoKHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/2vcAAeSw4-NpsZj6/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787218759794,
+          "lastSeen": 1787677552393
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 50000,
+          "submissionFeeC": 59900,
+          "totalCostC": 109900,
+          "psa10ValueC": 579400,
+          "ratio": 5.272065514103731
+        },
+        "firstOpportunityAt": 1787218759794
       },
       "firstOpportunityAt": 1787218759794,
       "updatedAt": 1787677552393
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/C2cAAeSwO6Vp-BcB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/2vcAAeSw4-NpsZj6/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393

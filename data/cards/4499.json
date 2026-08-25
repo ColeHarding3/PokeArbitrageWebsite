@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4499,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/JcIAAeSwPFVqcTOL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fWYAAeSwf7Jpzprv/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -83,6 +85,41 @@
         "totalCostC": 34099,
         "psa10ValueC": 112500,
         "ratio": 3.2992169858353617
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "178371615157",
+          "title": "SLAKING 15/107 HOLO EX DEOXYS POKEMON CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 25500,
+          "shippingC": 600,
+          "landedC": 26100,
+          "url": "https://www.ebay.com/itm/178371615157?_skw=%28slaking%29+%2815%2Cdeoxys%29+%28CGC%2CPSA%29&epid=3043380137&itmmeta=01M0W13PPHQY04VHH1EJJM8PJ2&hash=item2987c6d9b5:g:JcIAAeSwPFVqcTOL&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDwkBRAfIykHBJIvOvj%2FemkTcNf4eBmLKC7jWqsex4rU3o0M%2FYmIZ8vqxkUDejz02m5v1hYGC3hmiabGJCavKfJMLsZnppa8bP9kYFzhMHMeeyiVLLFbuGqybX%2Fsz7YlYM62X3AclNKvYGFZpLMa%2BdYXRv06IlH4ynaWHbMT6eRFPLKe5NcWk%2BSRKZGqr2p%2FgFN3EIJt%2FeBLoJ%2Fg0g5JTVRef47Ug1PlRCrfqBvALiQ3p663tGP1w6Fhj0a3%2B6GQLP6ueWTR5iLWHzPlKSmQFLHc8JfYZPlCHlH2ZG1McGnA85VMw1P3dyd3tepFPmQYl0%3D%7Ctkp%3ABk9SR9zrjoGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/JcIAAeSwPFVqcTOL/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787066511306,
+          "lastSeen": 1787677569729
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 26100,
+          "submissionFeeC": 7999,
+          "totalCostC": 34099,
+          "psa10ValueC": 112500,
+          "ratio": 3.2992169858353617
+        },
+        "firstOpportunityAt": 1787066511306
       },
       "firstOpportunityAt": 1787066511306,
       "updatedAt": 1787677569729
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fWYAAeSwf7Jpzprv/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/JcIAAeSwPFVqcTOL/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729

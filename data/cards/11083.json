@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11083,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FQkAAeSw5itpeZc1/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Jd0AAeSwZERqixYn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560344224,
         "lastSeen": 1787677544402
@@ -83,6 +85,41 @@
         "totalCostC": 334899,
         "psa10ValueC": 412403,
         "ratio": 1.231424996790077
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "227428123878",
+          "title": "Arcanine ex 83/92 Legend Maker Holo CGC 10Opens in a new window or tab",
+          "priceC": 299999,
+          "shippingC": 0,
+          "landedC": 299999,
+          "url": "https://www.ebay.com/itm/227428123878?_skw=%28arcanine%29+%2883%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=11043365802&itmmeta=01M0W1V6GJAB50R1SPM536TD79&hash=item34f3c5c4e6:g:FQkAAeSw5itpeZc1&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC7w5o6u%2B5oILOj2%2BcpF%2FKWQ6UgBDtE6oyryNbZTCrTpZ7z8GRbotchuLaAgcN%2BNAG4oJsxTPR1QH0PE%2BgpJAAQhQJ2CcVoKN1r1dsK2FXKh4Fb5kwKO3izNPrik2d2j0Azpp08TFEdvM2LFRLPf%2FkfExk6Oayz0oyZ8ITe%2B16XVSZ36rXTBjE%2FZwZuBFrnKoV79F1b43o9M7f33jq0aik9%2FRzhAbLq7iMoB2itsbPZi9BUXcyqGuhyySgDooGMxXl0X5jrA8M%2BA0hA6lRnUryHs%2BTmoG0c%2FU%2FqoIxZUeOe6zzvewxOYE2dZ1poK7srqrvfVWDONs54e2Z2XTjeDmiF%7Ctkp%3ABk9SR8Lo7IGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/FQkAAeSw5itpeZc1/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787216884103,
+          "lastSeen": 1787677544402
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 299999,
+          "submissionFeeC": 34900,
+          "totalCostC": 334899,
+          "psa10ValueC": 412403,
+          "ratio": 1.231424996790077
+        },
+        "firstOpportunityAt": 1787216884103
       },
       "firstOpportunityAt": 1787216884103,
       "updatedAt": 1787677544402
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Jd0AAeSwZERqixYn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560344224,
         "lastSeen": 1787677544402
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ZPUAAeSwQONp0bVD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FQkAAeSw5itpeZc1/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402

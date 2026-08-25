@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2186,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PJYAAeSw0zlqiUzb/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787385140337,
         "lastSeen": 1787677529172
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/IMgAAeSwBUdqghYZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5WMAAeSwS4pqdVsk/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787557807297,
         "lastSeen": 1787677529172
@@ -96,6 +99,41 @@
         "totalCostC": 750611,
         "psa10ValueC": 3999999,
         "ratio": 5.328990648951321
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "366621833731",
+          "title": "Pokémon 2002 Pichu Expedition #22 Holo CGC 10 Gem Mint SwirlOpens in a new window or tab",
+          "priceC": 550000,
+          "shippingC": 711,
+          "landedC": 550711,
+          "url": "https://www.ebay.com/itm/366621833731?_skw=%28pichu%29+%2822%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=3043379875&itmmeta=01M0VYZ6AMDSG6MET9ZT6A9WM9&hash=item555c5d3a03:g:PJYAAeSw0zlqiUzb&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA4zWqrJjCAcEqNld1v7p3qu%2F1G2ZETzd7n26irbB4pfRl%2BxZI%2BjjHibzNxmhsHlNGx%2Fpakf6yX3s%2BopSyok%2FJLMCUlBflEc%2F3ul%2BsxDkDTqWlGRS8z6wXot9F%2F%2BCOCEkZ85s5wCk7lEuB80DPgwJjHnCJAofPpheeW0GAFITcbNPqhSDAiGOeKSafC4dv9iTEsg8nrT%2Bfh51X5r2XbWk%2B9kO3kDONptyNPX%2B0NVifQeZLG32NJGWhu5ep8ef2M5b5i9ZupMD%2FRPJiBaaKpjOPP92dRwUVM6rX0VP9ejjATXFhV3HZj9f7NWwAZHoIiQd9IzMSG19WltOZr6ICDz2f6%7Ctkp%3ABk9SR8rl_P6GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/PJYAAeSw0zlqiUzb/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787385140337,
+          "lastSeen": 1787677529172
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium2",
+            "label": "Premium 2",
+            "feeC": 199900,
+            "declaredValueCapC": 5000000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 550711,
+          "submissionFeeC": 199900,
+          "totalCostC": 750611,
+          "psa10ValueC": 3999999,
+          "ratio": 5.328990648951321
+        },
+        "firstOpportunityAt": 1787385140337
       },
       "firstOpportunityAt": 1787385140337,
       "updatedAt": 1787677529172
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5WMAAeSwS4pqdVsk/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787557807297,
         "lastSeen": 1787677529172
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PJYAAeSw0zlqiUzb/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787385140337,
         "lastSeen": 1787677529172
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/IMgAAeSwBUdqghYZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
         "lastSeen": 1787677529172

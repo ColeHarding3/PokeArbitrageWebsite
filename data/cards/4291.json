@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4291,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/OGoAAeSwgwRqiMKc/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787387099191,
         "lastSeen": 1787677571153
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SpAAAeSwdhFqbPay/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -83,6 +85,41 @@
         "totalCostC": 35462,
         "psa10ValueC": 200200,
         "ratio": 5.645479668377418
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "198552315014",
+          "title": "Pokemon Blaziken #1 Holo EX Emerald 2005 - CGC 10 Gem Mint Vintage 1/106Opens in a new window or tab",
+          "priceC": 55000,
+          "shippingC": 624,
+          "landedC": 55624,
+          "url": "https://www.ebay.com/itm/198552315014?_skw=%28blaziken%29+%281%2Cemerald%29+%28CGC%2CPSA%29&epid=2314420696&itmmeta=01M0W182FAWYZW2TTQ84NV69PC&hash=item2e3aa3e486:g:jaAAAeSwgnNqHa1-&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDaW2EbDs3rlyts6qJ4MHZg7O9KJUpgjOb34G63SfrDR6xyN9XChK5Yo6kSRD2zBeuTuFj2dBYpNxkyvIqDF1sQZ8NgA7s5wKg7hy1NhIHv%2Bpvi%2FJcAx1WsDn0PrIKlKLUcEO%2FlHngPk8AU5vOYDDQEpD1QcR%2BsxyNWKw9CDWJW%2Fzq9ILqdojuyDdISDU5FdqAJeAJPHWWhEcFO6edUaXLLP8UDRkOpBFyBPBucnA16H3ZznYiidt1vq75vPfqCOk7BaD31DsWixMRdXnvWSk7g8RGAw0qLL4UFEFnpsrq0U9FTW4AUW1%2FiG7Xknp3vHE4%3D%7Ctkp%3ABk9SR8qooIGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/jaAAAeSwgnNqHa1-/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787064622165,
+          "lastSeen": 1787677571153
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 55624,
+          "submissionFeeC": 14900,
+          "totalCostC": 70524,
+          "psa10ValueC": 200200,
+          "ratio": 2.8387499291021494
+        },
+        "firstOpportunityAt": 1787064622165
       },
       "firstOpportunityAt": 1787387099191,
       "updatedAt": 1787677571153
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SpAAAeSwdhFqbPay/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/OGoAAeSwgwRqiMKc/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787387099191,
         "lastSeen": 1787677571153
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/jaAAAeSwgnNqHa1-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/QnsAAeSwEpNp9ToZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/f5IAAeSwiCJqiuAs/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787559754294,
         "lastSeen": 1787677571153

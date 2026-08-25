@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4478,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-XcAAeSwhVlqhRTI/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214704655,
         "lastSeen": 1787677569729
@@ -70,6 +71,41 @@
         "totalCostC": 129800,
         "psa10ValueC": 1790000,
         "ratio": 13.7904468412943
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "327316982843",
+          "title": "CGC 10 GEM MINT Sableye 23/107 EX Deoxys Pokemon CardOpens in a new window or tab",
+          "priceC": 29900,
+          "shippingC": 0,
+          "landedC": 29900,
+          "url": "https://www.ebay.com/itm/327316982843?_skw=%28sableye%29+%2823%2Cdeoxys%29+%28CGC%2CPSA%29&epid=14043371762&itmmeta=01M0W133XY3C348GG7WFTKCT2F&hash=item4c359ccc3b:g:-XcAAeSwhVlqhRTI&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAA16GvTW44i2drwjVQqfR3E%2BCvdCVCCfvdYc7xOdFEZuJhD7L5vnN0vR3tJCNrWKVuqPCkNyiO78gZ1%2Bc6TqKUgXFtSTt0aQqwJsMbtQJW9p2J%2Bix83wimAfWHqZerVey45Xyr4CmcuCjNPS15E1d4WtKBwd9JgMVKu%2FBsdNOVELLN%2BFnQXG81R26n2nHn47%2BL6emsLkEh4EFCUxb%2FKPqfJgIDx5a2X1%2Bn764huILJwiJRoEUcknofAU0MS0bX1ENC34ivzqN4pl0vjM1p2c5Y%7Ctkp%3ABk9SR5q_jIGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/-XcAAeSwhVlqhRTI/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787214704655,
+          "lastSeen": 1787677569729
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium1",
+            "label": "Premium 1",
+            "feeC": 99900,
+            "declaredValueCapC": 2500000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 29900,
+          "submissionFeeC": 99900,
+          "totalCostC": 129800,
+          "psa10ValueC": 1790000,
+          "ratio": 13.7904468412943
+        },
+        "firstOpportunityAt": 1787214704655
       },
       "firstOpportunityAt": 1787214704655,
       "updatedAt": 1787677569729
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-XcAAeSwhVlqhRTI/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214704655,
         "lastSeen": 1787677569729
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/5y0AAeSw8vVqYV77/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
         "lastSeen": 1787677569729

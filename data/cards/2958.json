@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2958,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8CEAAeSwKRRp5RId/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/XJgAAeSwsv9qNNYR/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -83,6 +85,41 @@
         "totalCostC": 55498,
         "psa10ValueC": 189109,
         "ratio": 3.4074921618797074
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "117151841235",
+          "title": "2003 POKEMON SKYRIDGE, REVERSE HOLO #58/144 GIRAFARIG CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 39999,
+          "shippingC": 599,
+          "landedC": 40598,
+          "url": "https://www.ebay.com/itm/117151841235?_skw=%28girafarig%29+%2858%2Cskyridge%29+%28CGC%2CPSA%29&epid=18043373960&itmmeta=01M0VZV2QENCNFKFWAQAPSZ074&hash=item1b46cb3bd3:g:8CEAAeSwKRRp5RId&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCShOX63K4aC5VTra%2BZQpLvaZZYgW5sfwCHH9wqctrolSiBdoorKJyRBkMGdhrINakwFlWb73ruaFcCcQ1BzcxFrdpZ%2BBX0QWHHAxA5Uq5qZMOR3DFVO%2BvP6v3q7K1eRQH6mv%2FXOtJNJg%2Ft0uBnMzAtWGK3RUVESjIKQuDMttS1ykGWl9G7SmSCzxpHjIXUHf67XSCGzgRoSKJLiHZ2Faj%2B1jaX2zoVoyqW2VqF8u8I9A9HjI4BUeDMhbBrotnESQopKQX8a2S6BNNawmbnvKaExwsrYs1YqLjOxCt4VM15eIr1ovRYODVqJW%2FYxSqnFDE%3D%7Ctkp%3ABk9SR_yr7P-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/8CEAAeSwKRRp5RId/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787055777278,
+          "lastSeen": 1787677537341
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 40598,
+          "submissionFeeC": 14900,
+          "totalCostC": 55498,
+          "psa10ValueC": 189109,
+          "ratio": 3.4074921618797074
+        },
+        "firstOpportunityAt": 1787055777278
       },
       "firstOpportunityAt": 1787055777278,
       "updatedAt": 1787677537341
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/XJgAAeSwsv9qNNYR/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/eK8AAeSwDzRqgk3A/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/8CEAAeSwKRRp5RId/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
         "lastSeen": 1787677537341

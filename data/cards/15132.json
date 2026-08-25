@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 15132,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/VSwAAeSwmc1qFmog/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224794049,
         "lastSeen": 1787677582143
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/23gAAeSw4U1qgHR2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677582143
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fYoAAeSwtxVqT5Fn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677582143
@@ -96,6 +99,41 @@
         "totalCostC": 74900,
         "psa10ValueC": 166447,
         "ratio": 2.222256341789052
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "318367202504",
+          "title": "Altaria (Holo) 2010 Pokemon Triumphant #2/102 CGC10Opens in a new window or tab",
+          "priceC": 60000,
+          "shippingC": 0,
+          "landedC": 60000,
+          "url": "https://www.ebay.com/itm/318367202504?_skw=%28altaria%29+%282%2Ctriumphant%29+%28CGC%2CPSA%29&epid=6043385070&itmmeta=01M0W5X79RBB8708MW1TCFVHET&hash=item4a2029fcc8:g:VSwAAeSwmc1qFmog&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCSVdmTDEtiCt6ZPC070MAApp9kPu7cOAFiFWWaLmE35dM1cexObFKxPFdXDd0fDJMgX4DBeEx9gCI8%2BYqC3RlKjyyUM%2FddP1cr5Eo2g%2Fq98iudKjfZBRLvG8svfepVcz62GPdC0Bzg5ALXJEWHTwVmMvera%2Fit8VWcTRLKLsdMmS3UfhzViUYLU3gg1jCvfZFNwBaF1p8XdGtbWprCXBu%2FKwz13hOqP9QU0VBpOv4--uqbREE%2FXvFc73WjQEtrxWY%2FM1NI5iJRdp85OXM32UP8%7Ctkp%3ABk9SR5T19IWHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/VSwAAeSwmc1qFmog/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787224794049,
+          "lastSeen": 1787677582143
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 60000,
+          "submissionFeeC": 14900,
+          "totalCostC": 74900,
+          "psa10ValueC": 166447,
+          "ratio": 2.222256341789052
+        },
+        "firstOpportunityAt": 1787224794049
       },
       "firstOpportunityAt": 1787224794049,
       "updatedAt": 1787677582143
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/fYoAAeSwtxVqT5Fn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677582143
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/WsUAAeSw02JqhH3p/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677582143
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/iT8AAeSwCONps5qb/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677582143
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/VSwAAeSwmc1qFmog/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224794049,
         "lastSeen": 1787677582143
@@ -182,6 +224,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/23gAAeSw4U1qgHR2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677582143

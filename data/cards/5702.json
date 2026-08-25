@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5702,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0A0AAeSwau1qiIC4/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787388511745,
         "lastSeen": 1787677552393
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/JjIAAeSwli9qgneu/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787476002480,
         "lastSeen": 1787677552393
@@ -83,6 +85,41 @@
         "totalCostC": 710497,
         "psa10ValueC": 579375,
         "ratio": 0.8154503115424836
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "147520132787",
+          "title": "CGC 10 Latios ex Delta Species EX Dragon Frontiers Holo 96/101 2006Opens in a new window or tab",
+          "priceC": 650000,
+          "shippingC": 597,
+          "landedC": 650597,
+          "url": "https://www.ebay.com/itm/147520132787?_skw=%28latios%2Cdelta%29+%2896%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=22043374321&itmmeta=01M0W2G4J9F0HVQEEJ1MAAVAX2&hash=item2258e296b3:g:0A0AAeSwau1qiIC4&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCS0ZLj3M5l92%2F%2BLzXCTyX5xFY4hNxdIvFNws1Ztzl%2Fw%2FLiks3kKPQdC6DVdV7PqpiUsEJT2M%2F%2BJLOs2gPWbTZcMT1I1DQiN%2FuiUBR1R8Yz6Hp%2FfQ4JAEv3KMKul8kIL22ycv5kQoRVHF6PsmMLKRmIL5AZ%2BuIOh%2Ft49V9UgCCR%2FfOT9hQWMyfX3mPL13bhuBC11PYjQac2Iw5BLcOr4lLGKRYg%2FS2qcIB5Hq4Sq4GOa%2Fg9PyqXfoDVdbq0i%2BHfOLIyf4tVpM1%2BSvjjQjcdLjgXYYExKAjYPHFZnGc2PCOKnQ%3D%3D%7Ctkp%3ABk9SR7rJwIKHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/0A0AAeSwau1qiIC4/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787388511745,
+          "lastSeen": 1787677552393
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 650597,
+          "submissionFeeC": 59900,
+          "totalCostC": 710497,
+          "psa10ValueC": 579375,
+          "ratio": 0.8154503115424836
+        },
+        "firstOpportunityAt": 1787388511745
       },
       "firstOpportunityAt": 1787388511745,
       "updatedAt": 1787677552393
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/JjIAAeSwli9qgneu/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787476002480,
         "lastSeen": 1787677552393
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/sasAAeSwKZxpCcqP/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
         "lastSeen": 1787677552393
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0A0AAeSwau1qiIC4/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787388511745,
         "lastSeen": 1787677552393

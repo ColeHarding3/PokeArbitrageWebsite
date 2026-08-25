@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4310,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qJoAAeSwxUxqV3kE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -70,6 +71,41 @@
         "totalCostC": 208561,
         "psa10ValueC": 112800,
         "ratio": 0.540848960256232
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "158085426001",
+          "title": "Kyogre 6/106 EX Emerald Reverse Holo 2005 English CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 200000,
+          "shippingC": 562,
+          "landedC": 200562,
+          "url": "https://www.ebay.com/itm/158085426001?_skw=%28kyogre%29+%286%2Cemerald%29+%28CGC%2CPSA%29&epid=13043374146&itmmeta=01M0W19DF3WKT4403WQ5AWSPPQ&hash=item24cea02b51:g:qJoAAeSwxUxqV3kE&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAl2Kyzku%2FDftMDYAgGxlnRYlMFx%2Fo8L%2FBQ%2BdyX83qx%2BbRQ8yvmj8bOylnkCZ5iwYMc4jZ5c%2FjHWyVhUc%2Bz7wuOkjdnpBKGuZHOFy8SPiVAABARvWZObVHm5leO8ngi0JIit8HJ2KSOoVxXxZxfZ6NSj%2F7s9ov7f6BywwTjE6cOj%2BKjkx2VZtFkghgB%2BcXIyhewPqAaamQpZgLa%2FtGLpd2lJ%2BQz50oRp56rBYhsy1qgxFNQYGnnZ9vq8mgobgTEm40ZmEoYgiKne6pls5YOvWhsG8p1ilznzmv4EnmR6EEQ9%2B4CpCYfa%2FVtf%2FF4mg2ILWk%3D%7Ctkp%3ABk9SR_TXpYGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/qJoAAeSwxUxqV3kE/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787064622165,
+          "lastSeen": 1787677571153
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 200562,
+          "submissionFeeC": 7999,
+          "totalCostC": 208561,
+          "psa10ValueC": 112800,
+          "ratio": 0.540848960256232
+        },
+        "firstOpportunityAt": 1787064622165
       },
       "firstOpportunityAt": 1787064622165,
       "updatedAt": 1787677571153
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qJoAAeSwxUxqV3kE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7BUAAeSwjKBqS9y0/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153

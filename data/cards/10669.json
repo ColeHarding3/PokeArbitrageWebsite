@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 10669,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/mmcAAeSwrhlo9SPE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MMwAAeSwhthqiMS2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787387266186,
         "lastSeen": 1787677540433
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FiIAAeSwNXNqg11B/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -96,6 +99,41 @@
         "totalCostC": 429700,
         "psa10ValueC": 670475,
         "ratio": 1.560332790318827
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "286888419284",
+          "title": "Pokemon Ho-Oh EX EX Unseen Forces Ultra Rare #104/115 CGC 10 Gem Mint 2005 FOILOpens in a new window or tab",
+          "priceC": 369800,
+          "shippingC": 0,
+          "landedC": 369800,
+          "url": "https://www.ebay.com/itm/286888419284?_skw=%28ho%2Coh%29+%28104%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=2314420528&itmmeta=01M0W1DET6ERMSDWBE6MAA1EFG&hash=item42cbe1dfd4:g:mmcAAeSwrhlo9SPE&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAKkYvn8Gw8yKQJnXETlop1qIj88292N0GgVMjfXl99%2Fdr99CuGF6xVmk63ckDP4xfwoilpa5d%2BCHriI8n8ezeMa5OfcfcUbMW7i%2BcFBVhBenUat5Ki6WwkmzQ2bKVF3CdQRzLbl7xwiINu7Oewwa%2BRVEW4QFKV5YOZjoYGwq3I3EwXJhdggqdFjSNN%2BkNEd2ccXG73uo9K26ydvTuveqJLXRZMh5h4CchgPPS3vrqp9CAwOb%2FbGUdkx4mwVzNiXHasO8DBSPblEaemxNRelrte%7Ctkp%3ABk9SR8jttYGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/mmcAAeSwrhlo9SPE/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787215619257,
+          "lastSeen": 1787677540433
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 369800,
+          "submissionFeeC": 59900,
+          "totalCostC": 429700,
+          "psa10ValueC": 670475,
+          "ratio": 1.560332790318827
+        },
+        "firstOpportunityAt": 1787215619257
       },
       "firstOpportunityAt": 1787215619257,
       "updatedAt": 1787677540433
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/mmcAAeSwrhlo9SPE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FiIAAeSwNXNqg11B/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MMwAAeSwhthqiMS2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787387266186,
         "lastSeen": 1787677540433

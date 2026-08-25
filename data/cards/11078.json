@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11078,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zzgAAeSw7RNqixEJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560344224,
         "lastSeen": 1787677544402
@@ -70,6 +71,41 @@
         "totalCostC": 899900,
         "psa10ValueC": 1755217,
         "ratio": 1.9504578286476275
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "147522275871",
+          "title": "Regice Gold Star 90/92 EX Legend Maker Holo CGC 10Opens in a new window or tab",
+          "priceC": 800000,
+          "shippingC": 0,
+          "landedC": 800000,
+          "url": "https://www.ebay.com/itm/147522275871?_skw=%28regice%2Cgold%2Cstar%29+%2890%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=26043383698&itmmeta=01M0W1XGTY1CWH94Y2XNK3PVXS&hash=item2259034a1f:g:zzgAAeSw7RNqixEJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD6WXq9hX%2BkhFBMrCSG5pvmwgu2DwRPQGKjNiCcB%2BnN4D7MoE%2B2XOFHYSC%2FLitAdxi4Mu8BqWp1zlel6UuqDFdjzdBDoMYFru6cWo0cYFFEk%2FFXkW9GulCF7r2J1Qyxs8oyP9xz%2FMijta8qffsFVZCbC4%2BolsMe7EdnrUJHHTXrAWpuyAYq9k6a%2F3B3J9%2BjWd5m2xcPenVkgp%2FvpqhaDzj5Bko5B7IiaAz2yr9g9L%2FdJI0qPKEeFdPj%2BALdKlvPFsEjg1fAxQE8ojEcvqjFnm%2BM7P44MlU1pKz6yhIJWesj9w%3D%3D%7Ctkp%3ABk9SR_CN9oGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/zzgAAeSw7RNqixEJ/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787560344224,
+          "lastSeen": 1787677544402
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium1",
+            "label": "Premium 1",
+            "feeC": 99900,
+            "declaredValueCapC": 2500000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 800000,
+          "submissionFeeC": 99900,
+          "totalCostC": 899900,
+          "psa10ValueC": 1755217,
+          "ratio": 1.9504578286476275
+        },
+        "firstOpportunityAt": 1787560344224
       },
       "firstOpportunityAt": 1787560344224,
       "updatedAt": 1787677544402
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zzgAAeSw7RNqixEJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560344224,
         "lastSeen": 1787677544402

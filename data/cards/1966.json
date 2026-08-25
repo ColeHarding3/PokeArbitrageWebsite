@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1966,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/bVsAAeSwuuRqSTJO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/R6kAAeSwgetpyNG-/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -83,6 +85,41 @@
         "totalCostC": 2799900,
         "psa10ValueC": 5125691,
         "ratio": 1.8306693096182007
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "318542441723",
+          "title": "2002 Pokemon Legendary Collection Reverse Holo Snorlax #64/110 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 2500000,
+          "shippingC": 0,
+          "landedC": 2500000,
+          "url": "https://www.ebay.com/itm/318542441723?_skw=%28snorlax%29+%2864%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=22043374341&itmmeta=01M0VYHCE3F903FA64BBTW4GKB&hash=item4a2a9becfb:g:bVsAAeSwuuRqSTJO&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCnaJxy6Hdx12eo86Urex7geBJuQOUGjGrnvyEpOH0f3mSbr%2F7%2FiR%2BIhxfjPrir6fYXYv9R%2FmK8hKZVU0cxT94%2BgkXxQoO64x4G7c74lGRAwsLjLrxPI6OJzgh311nAPNDAmROjl1rRe2gsxCTCsRaIv82vsVwydHCgpi3O8T2oEX5FHZqtfLjQdFJwDxjXUiRa4cE6DkZUmVyyfPo4oroia5TPj54hPkLuLMfnJTSscH%2BtGZ%2F%2BZYjpgyeaCZ8xdDpIfNy3Yj34hV308%2FwlknKtqfE%2BdWY0gMAqPbdQFfY5jJJl7MO1ZT7a6SILCodZPoQeVnf69QEwThgSFuv%2BHPh1%7Ctkp%3ABk9SR6zHxf6GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/bVsAAeSwuuRqSTJO/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787050911353,
+          "lastSeen": 1787677514144
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium3",
+            "label": "Premium 3",
+            "feeC": 299900,
+            "declaredValueCapC": 10000000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 2500000,
+          "submissionFeeC": 299900,
+          "totalCostC": 2799900,
+          "psa10ValueC": 5125691,
+          "ratio": 1.8306693096182007
+        },
+        "firstOpportunityAt": 1787050911353
       },
       "firstOpportunityAt": 1787050911353,
       "updatedAt": 1787677514144
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/bVsAAeSwuuRqSTJO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/R6kAAeSwgetpyNG-/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/bIgAAeSwvEZqi3B8/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787557485243,
         "lastSeen": 1787677514144
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/74kAAeSw5Rdqh8-6/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787299243839,
         "lastSeen": 1787677514144

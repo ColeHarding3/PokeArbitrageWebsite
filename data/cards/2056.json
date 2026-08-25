@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2056,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4-UAAeSwU6VqVwTo/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094567887,
         "lastSeen": 1787677514144
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/LEgAAeSwS4pqfLp4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -83,6 +85,41 @@
         "totalCostC": 104548,
         "psa10ValueC": 332145,
         "ratio": 3.1769617783219193
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "407058899791",
+          "title": "Sandshrew #91/110 Legendary Collection Reverse Holo CGC 10 Pokemon Card*TEWOpens in a new window or tab",
+          "priceC": 110000,
+          "shippingC": 0,
+          "landedC": 110000,
+          "url": "https://www.ebay.com/itm/407058899791?_skw=%28sandshrew%29+%2891%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=15043377649&itmmeta=01M0VYJX2Y1AE5DRACDH5CZR60&hash=item5ec699e34f:g:kocAAeSwIrpqTln4&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC7efl1CwjEr8vzp08VjJ9PKo90ebwS5mGCs%2B60HVL1uaNoQMb1zq75uxZokB1F8zDnGzFSyNmf4FkCMePN2HFqtOO7eoJzbUGQlDLXL7gXAtnCJgUNof5vXhoIXbKHyA0QfbBsDSStrT4nbr5D3lp1pEelMVi7%2BMAz8PXeIDJLqrRIZL0O4i1zLqhSI%2Fi0UACWYH28vyo5jGiwtWxs86ilu2YHAP8dux8Xp7yrknIXtuYLLuNtRKdkgs5oo0MCrTrIzb1mNqGB%2FnP2NtW5KKskmmxjnsB6jMHKnsajVfY4XA%3D%3D%7Ctkp%3ABk9SR-TRy_6GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/kocAAeSwIrpqTln4/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787050911353,
+          "lastSeen": 1787677514144
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 110000,
+          "submissionFeeC": 34900,
+          "totalCostC": 144900,
+          "psa10ValueC": 332145,
+          "ratio": 2.2922360248447204
+        },
+        "firstOpportunityAt": 1787050911353
       },
       "firstOpportunityAt": 1787094567887,
       "updatedAt": 1787677514144
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/LEgAAeSwS4pqfLp4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4-UAAeSwU6VqVwTo/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094567887,
         "lastSeen": 1787677514144
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/kocAAeSwIrpqTln4/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144

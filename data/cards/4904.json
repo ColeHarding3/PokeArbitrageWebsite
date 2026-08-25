@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4904,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rFQAAeSwyUho-Y71/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -70,6 +71,41 @@
         "totalCostC": 20894,
         "psa10ValueC": 205946,
         "ratio": 9.85670527424141
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "236407998568",
+          "title": "CGC GEM MINT 10 Meowth 2005 EX Delta Species 77/113 Pokemon TCG VintageOpens in a new window or tab",
+          "priceC": 4499,
+          "shippingC": 1495,
+          "landedC": 5994,
+          "url": "https://www.ebay.com/itm/236407998568?_skw=%28meowth%29+%2877%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=9043371288&itmmeta=01M0W1NAKWHRCP0D3Y5CJT5R2R&hash=item370b03c868:g:rFQAAeSwyUho-Y71&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBVNu0%2BUbSiH5Xgmfot9oA5WMd6O3ZnDhJ30x1EpGxR58XBE5sAQUpRihWRYTCF9Gy%2B2KrUPBl7cLA1D4Mu1th5mo2E4%2B1KqcTsiTaYlEDKh0j5eB8bOuElsStF7IFP3fBCmG7P62cjoN22JAQodlk3b7Noh1vp7%2BYtKtVGVsTDxQvhmautWoVhD2eFbszOk%2BHKt%2FooMpq%2BZIQUMSNb%2BLhV%2FO9eypSzi7qM6BSYZHHWLrwbxhz%2Fzmg45%2F928B9JTL6DDorL%2FHL0LT5Re5VqN7Y8g%2BYOEAczm3pKRSC8DCbxzcl5YD%2FUii0C%2FEQN77%2BDzRw%3D%7Ctkp%3ABk9SR5iq1YGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/rFQAAeSwyUho-Y71/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787089625972,
+          "lastSeen": 1787677542417
+        },
+        "cgc10Bin": 3,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 5994,
+          "submissionFeeC": 14900,
+          "totalCostC": 20894,
+          "psa10ValueC": 205946,
+          "ratio": 9.85670527424141
+        },
+        "firstOpportunityAt": 1787089625972
       },
       "firstOpportunityAt": 1787089625972,
       "updatedAt": 1787677542417
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rFQAAeSwyUho-Y71/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/x2IAAeSwnn9qQSia/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -128,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/RnMAAeSw1stqV4V7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417
@@ -142,6 +181,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/QXkAAeSwuPFqNsdI/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
         "lastSeen": 1787677542417

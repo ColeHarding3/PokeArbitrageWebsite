@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 10690,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/xLsAAeSwUr5qao1U/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/kHgAAeSw8QJqWZQv/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -83,6 +85,41 @@
         "totalCostC": 174997,
         "psa10ValueC": 291709,
         "ratio": 1.666937147493957
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "168573927957",
+          "title": "CGC 10 Vaporeon 19/115 EX Unseen Forces Reverse Holo Stamped Pokemon Gem MintOpens in a new window or tab",
+          "priceC": 139500,
+          "shippingC": 597,
+          "landedC": 140097,
+          "url": "https://www.ebay.com/itm/168573927957?_skw=%28vaporeon%29+%2819%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=20043376209&itmmeta=01M0W1DHNT0R66C0VZW196108N&hash=item273fca0215:g:xLsAAeSwUr5qao1U&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC%2BI3LLBdO5f%2Fiy1soWPHKVX4Mjn%2FSniuuDC9Dkd%2Bm5Dhyl9eirnFepJcAgpMbZfgupOECwSYJOYp0HOLWrcYeKfDZIgPvJbWKjZlSzhFfILdmmWoPGpqsxd%2Fzsg3EZPpV1P1Lfz2%2FBxgWn2ZvW1vL8b%2Bdr5Ifv%2FA328WJk1pU9JxALEswlDmZxSHgwRaroG5YMUrDb%2FhQEbQxHjmGEJz%2B0VvvNbgVYEbM7U%2B06%2B8tHgXmn5bfBG2AXoJoCgv5PnCWcAZxXmNdKU2Fc1qBrtir80JqQZm7FZ2xPsk1fc9iYXHCVN8EQR6vNDjGh2r594aw%3D%7Ctkp%3ABk9SR7qbtoGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/xLsAAeSwUr5qao1U/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787215619257,
+          "lastSeen": 1787677540433
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 140097,
+          "submissionFeeC": 34900,
+          "totalCostC": 174997,
+          "psa10ValueC": 291709,
+          "ratio": 1.666937147493957
+        },
+        "firstOpportunityAt": 1787215619257
       },
       "firstOpportunityAt": 1787215619257,
       "updatedAt": 1787677540433
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/kHgAAeSw8QJqWZQv/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Nw4AAeSwRUZqiSx4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787387266186,
         "lastSeen": 1787677540433
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/xLsAAeSwUr5qao1U/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
         "lastSeen": 1787677540433
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/3poAAeSw0fJqh1xl/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787301344218,
         "lastSeen": 1787677540433

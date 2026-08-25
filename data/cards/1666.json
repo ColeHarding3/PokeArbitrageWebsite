@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1666,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7fQAAeSwLrNqjMZ-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787643825961,
         "lastSeen": 1787677588973
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/q54AAeSw~F1p39iZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787048058606,
         "lastSeen": 1787677588973
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Q6UAAOSwwUlffJW4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787048058606,
         "lastSeen": 1787677588973
@@ -96,6 +99,41 @@
         "totalCostC": 60998,
         "psa10ValueC": 124888,
         "ratio": 2.0474113905373947
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "336759723353",
+          "title": "CGC 10 GEM MINT Delibird Neo Revelation 5/64 Holo Komiya Pokemon CardOpens in a new window or tab",
+          "priceC": 52999,
+          "shippingC": 0,
+          "landedC": 52999,
+          "url": "https://www.ebay.com/itm/336759723353?_skw=%28delibird%29+%285%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=7043379511&itmmeta=01M0VXVJNCP2WCQK5QRTVZFTZB&hash=item4e68719559:g:7fQAAeSwLrNqjMZ-&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB89FgTy0pXd3Vqh0JNCSU6v%2BL%2F%2BgBHHcU51M2MLr0hO%2BdpiFHYrIlJ3fkwUwJBafYBcrRVkn2Wu8cQqsc7m56AjbHB%2BPUGpkaeQXTtUmlbf4S0ZqaSPGHobPxZgzEbhAlxlYF4J7q%2BONF8fomEOWVFVJzhGL3IGn35seGVFOpyGNBXS0xR6pz2ACysjbntPPtKgXKTT0m6kHYHPBD2Vpj7w0umVpkbMZjd6KhHG7eNyPyukZnPB9IKSRf6WC%2BAYb6XYCRBRVI3W85xpIjZf6r3%2FLyuH9bjoz2yO7yaMJjW7xP6x8I4kJgg%2FQCRBD%2F3I%2FG0PmRgCQ%2Beo6GXJZ95rXx0%7Ctkp%3ABk9SR_6q7v2GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/7fQAAeSwLrNqjMZ-/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787643825961,
+          "lastSeen": 1787677588973
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 52999,
+          "submissionFeeC": 7999,
+          "totalCostC": 60998,
+          "psa10ValueC": 124888,
+          "ratio": 2.0474113905373947
+        },
+        "firstOpportunityAt": 1787643825961
       },
       "firstOpportunityAt": 1787643825961,
       "updatedAt": 1787677588973
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Q6UAAOSwwUlffJW4/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787048058606,
         "lastSeen": 1787677588973
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/xQgAAeSw5VxqdVrT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787048058606,
         "lastSeen": 1787677588973
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/7fQAAeSwLrNqjMZ-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787643825961,
         "lastSeen": 1787677588973
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/q54AAeSw~F1p39iZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787048058606,
         "lastSeen": 1787677588973

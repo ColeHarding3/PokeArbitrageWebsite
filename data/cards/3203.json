@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3203,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Q5AAAeSw1vZqbCJe/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/p7kAAeSw40VqSVMO/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/6xQAAeSwFJVqZTB5/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -96,6 +99,41 @@
         "totalCostC": 562399,
         "psa10ValueC": 572627,
         "ratio": 1.0181863765760608
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "366575839276",
+          "title": "Pokemon Umbreon EX Sandstorm 24/100 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 499999,
+          "shippingC": 2500,
+          "landedC": 502499,
+          "url": "https://www.ebay.com/itm/366575839276?_skw=%28umbreon%29+%2824%2Csandstorm%29+%28CGC%2CPSA%29&epid=23043384322&itmmeta=01M0W03HQ6WWP723ZYEQBHNYWM&hash=item55599f682c:g:Q5AAAeSw1vZqbCJe&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCbaGMs9RsN4pnd57c%2Fq8iYq8ABC9EAljJblMmAcSr6xeqb0%2B5TFvQIVIcxRKqzZD5FZ5BlAjpTqoOfFpIil0hFij%2Fvu4gdD1Ow8FT9Zr66Gj%2BQtl7KI2GE3qGZ5SKjlqsOCTMXYt1Gy0GXpi%2B1yhrklKjQckra9yd5GOyiWNBXly1EfXNZ%2F8H50uDnfy%2FkLDq9dySBrrN1bprdH%2FZ7JQQQJVGklv0inD9%2Fe1MUFeBI%2FPV%2BsVljl01xgA91uCcAuE1kY2Z9OWjd8VKLZMwF3APxrPkI3hLjMqAjOjichJP2eEeX9kNW5Ps7Nae09jJ3pq0%3D%7Ctkp%3ABk9SR-abjoCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/Q5AAAeSw1vZqbCJe/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787057553322,
+          "lastSeen": 1787677559236
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 502499,
+          "submissionFeeC": 59900,
+          "totalCostC": 562399,
+          "psa10ValueC": 572627,
+          "ratio": 1.0181863765760608
+        },
+        "firstOpportunityAt": 1787057553322
       },
       "firstOpportunityAt": 1787057553322,
       "updatedAt": 1787677559236
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/6xQAAeSwFJVqZTB5/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/JVMAAeSwCitqH10B/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Q5AAAeSw1vZqbCJe/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/p7kAAeSw40VqSVMO/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236

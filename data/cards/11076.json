@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11076,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MakAAeSwlDZqYGGH/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qLcAAeSwyY9oYcS6/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -83,6 +85,41 @@
         "totalCostC": 1599899,
         "psa10ValueC": 1843754,
         "ratio": 1.152418996449151
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "298524363206",
+          "title": "Gengar 5/92 Reverse Holo Stamped-2006 Pokémon EX Legend Maker- CGC Gem Mint 10Opens in a new window or tab",
+          "priceC": 1499999,
+          "shippingC": 0,
+          "landedC": 1499999,
+          "url": "https://www.ebay.com/itm/298524363206?_skw=%28gengar%29+%285%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=11043365288&itmmeta=01M0W1VKYXQSDHNZHHZ5XYXCCR&hash=item45817049c6:g:MakAAeSwlDZqYGGH&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCVE11XqUNR6DitxLDA5MTMFHt%2BVFSbxOrvOmo%2Fy6HFPbXNDXrz7OtiSbgZiT0lSXi9o40nrGmXUi6eLxLbmlQklfcEHH%2BdhxGKkBQtDsme%2FgwPs3se%2B2TwHPGqivbMRJ9p5x4oSah%2FXgluvpQjcsEw%2FRqHxmvwSHmp0Lh0QXg0DDxApFKtenVAiMfP5KS8OT2eYcjwUwtuQ1A63mx4NkWbp%2B%2Bl%2BdLUC4lAjA7aeMQJBlycQiLzIqvQyZBJ9YXiYdUNvf2lAZjK34e8zn6MbWwi%7Ctkp%3ABk9SR9q_7oGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/MakAAeSwlDZqYGGH/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787216884103,
+          "lastSeen": 1787677544402
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium1",
+            "label": "Premium 1",
+            "feeC": 99900,
+            "declaredValueCapC": 2500000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 1499999,
+          "submissionFeeC": 99900,
+          "totalCostC": 1599899,
+          "psa10ValueC": 1843754,
+          "ratio": 1.152418996449151
+        },
+        "firstOpportunityAt": 1787216884103
       },
       "firstOpportunityAt": 1787216884103,
       "updatedAt": 1787677544402
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/qLcAAeSwyY9oYcS6/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MakAAeSwlDZqYGGH/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402

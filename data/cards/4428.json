@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4428,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/I2gAAeSwDDdqYiY2/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/EQoAAeSwe-pqgvsa/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -83,6 +85,41 @@
         "totalCostC": 58599,
         "psa10ValueC": 136250,
         "ratio": 2.325125002133142
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "366560852845",
+          "title": "2005 Pokemon EX Emerald Reverse Holo Seviper #20 CGC 10Opens in a new window or tab",
+          "priceC": 50000,
+          "shippingC": 600,
+          "landedC": 50600,
+          "url": "https://www.ebay.com/itm/366560852845?_skw=%28seviper%29+%2820%2Cemerald%29+%28CGC%2CPSA%29&epid=5043380418&itmmeta=01M0W199H5R9A3B2XPWSBFNWZ4&hash=item5558babb6d:g:I2gAAeSwDDdqYiY2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBwNF6Ba7oVDTvPVLhM2ReFJkyeqy7ks5zKm%2F5ILpAfoplIqDygAg6F%2B%2FIKeLqcof%2FbAZicWW1wKP0bHC9%2BwG%2FkmU14buGEbBtLUC4ookuq20RWO94LMH%2B%2F%2BTU2C%2F4I9BrezzMHw59GxwBX2ExTXOldP%2BgHUj%2BxZiXQZ%2BSPOsDafc7Xo1hQ3HHua0xMW3Un%2BeCI8PK637H2cMLNfjjQUP0w34Ve5--KCW6qIQKp74VdIsIEU98g83sPnGMKfwtt5mLWOSqJqLAen8ax5C9LYyG8%7Ctkp%3ABk9SR86ZpYGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/I2gAAeSwDDdqYiY2/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787064622165,
+          "lastSeen": 1787677571153
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 50600,
+          "submissionFeeC": 7999,
+          "totalCostC": 58599,
+          "psa10ValueC": 136250,
+          "ratio": 2.325125002133142
+        },
+        "firstOpportunityAt": 1787064622165
       },
       "firstOpportunityAt": 1787064622165,
       "updatedAt": 1787677571153
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/EQoAAeSwe-pqgvsa/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/JfEAAeSwLrlpyCAD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/I2gAAeSwDDdqYiY2/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153

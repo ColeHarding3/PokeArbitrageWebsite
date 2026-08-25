@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4079,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/pbkAAeSwWW5qOucz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061558184,
         "lastSeen": 1787677604366
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/EJ4AAeSwIZNpqNUt/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061558184,
         "lastSeen": 1787677604366
@@ -83,6 +85,41 @@
         "totalCostC": 310845,
         "psa10ValueC": 622500,
         "ratio": 2.0026058003184866
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "227401407864",
+          "title": "Pokemon Swampert POP Series 1 Holo Rare #5 CGC 10 Gem Mint Cosmos LOW POP!Opens in a new window or tab",
+          "priceC": 250000,
+          "shippingC": 945,
+          "landedC": 250945,
+          "url": "https://www.ebay.com/itm/227401407864?_skw=%28swampert%29+%285%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=19043376284&itmmeta=01M0W0RZ9J07MB3JG5P7CS5BPD&hash=item34f22e1d78:g:pbkAAeSwWW5qOucz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB1ejZRt%2F6CRgiJXBBtRGPm8KTp%2FrW7aP5UGrqdxihzshWEp94p%2FhQwWQDs%2FYKyMuem9Eyl5M2lOL2OGboTTu3vFdDPnl2T9SLNETzMi7%2BNgIfsT%2FNj9Y2Nvr1d43TT7Hxc%2Flf%2BwiMVwXPZWGYaw1SNwbvuWEu%2Bc2i%2BYRriyEBBeQ0HUX2lLZDWrI8AFb3Nt0IBgadwUa1QxHs15lLdofum5aoJLarfk8CHL5Cvwg5ZXaemQQc8%2B3aEycxYRyCyb9GYbKcu9pQ%2FnTLvcqT9tV6hJLTN1qQcUo5Gbu1P2EFiNW423ja%2FzZzNrDOUrZW0I08%3D%7Ctkp%3ABk9SR4T144CHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/pbkAAeSwWW5qOucz/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787061558184,
+          "lastSeen": 1787677604366
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 250945,
+          "submissionFeeC": 59900,
+          "totalCostC": 310845,
+          "psa10ValueC": 622500,
+          "ratio": 2.0026058003184866
+        },
+        "firstOpportunityAt": 1787061558184
       },
       "firstOpportunityAt": 1787061558184,
       "updatedAt": 1787677604366
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/EJ4AAeSwIZNpqNUt/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061558184,
         "lastSeen": 1787677604366
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/pbkAAeSwWW5qOucz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061558184,
         "lastSeen": 1787677604366

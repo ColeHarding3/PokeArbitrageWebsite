@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3231,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/WsQAAeSw7RFowGt9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -70,6 +71,41 @@
         "totalCostC": 73495,
         "psa10ValueC": 162805,
         "ratio": 2.2151847064426153
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "357595398769",
+          "title": "CGC 10 GEM MINT Sableye 2003 EX Sandstorm 10/100 Reverse Holo Pokemon CardOpens in a new window or tab",
+          "priceC": 57995,
+          "shippingC": 600,
+          "landedC": 58595,
+          "url": "https://www.ebay.com/itm/357595398769?_skw=%28sableye%29+%2810%2Csandstorm%29+%28CGC%2CPSA%29&epid=12043364299&itmmeta=01M0W03XRE94Y7276DW4P8RTRE&hash=item534258c271:g:WsQAAeSw7RFowGt9&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDBgMxUWPC%2FlbdOzjWVeSiJbE80%2BdMuy3HNaOl8hVXbay0WAFusQID15Yxg5oN414h88W46zGBZvzXvS08XZtnhWvV3ITrkJo4yRoT8%2B44FkpB%2BrJqxn2DlGd725mQ1ZJ7eRvL2ztB2I3Ih1Ddou6FO4PEIWMz%2Bf7Htc1Ig0MavmFretIewo%2BjqG2PYF9TtVpAHu286Cw9d9pd%2FW7zjVDpq2DXVUiBjZBt8THflxZLEUaIveCzhv5looJE7CxhV1p%2Fu%2BHvOLaXlMbmX86vGzwNQ%7Ctkp%3ABk9SR8Tcj4CHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/WsQAAeSw7RFowGt9/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787057553322,
+          "lastSeen": 1787677559236
+        },
+        "cgc10Bin": 3,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 58595,
+          "submissionFeeC": 14900,
+          "totalCostC": 73495,
+          "psa10ValueC": 162805,
+          "ratio": 2.2151847064426153
+        },
+        "firstOpportunityAt": 1787057553322
       },
       "firstOpportunityAt": 1787057553322,
       "updatedAt": 1787677559236
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/WsQAAeSw7RFowGt9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/o9IAAeSwgIRp1rRl/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236
@@ -128,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MqAAAeSwW~lop-Fa/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787057553322,
         "lastSeen": 1787677559236

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 14380,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/DUQAAeSwoi5qapw7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787223812447,
         "lastSeen": 1787677603428
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/AggAAeSwc8Fqg1n2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787223812447,
         "lastSeen": 1787677603428
@@ -83,6 +85,41 @@
         "totalCostC": 210499,
         "psa10ValueC": 256623,
         "ratio": 1.2191174304866057
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "298543535164",
+          "title": "2009 POKEMON PLATINUM ARCEUS #16 GENGAR CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 175000,
+          "shippingC": 599,
+          "landedC": 175599,
+          "url": "https://www.ebay.com/itm/298543535164?_skw=%28gengar%29+%2816%2Carceus%29+%28CGC%2CPSA%29&itmmeta=01M0W55WHB37DWH10KWHNPHZFF&hash=item458294d43c:g:DUQAAeSwoi5qapw7&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xClzqUTmZ0Hlq8D%2FWcynj%2Fsu6oNZojoozqWak5Iz0ed3sfUAzR1iCwT2LK8AcZvP9V9%2BCjX391ccfFVYgMI8wsIGbiXS%2FSZKm%2F3H2nofnFRdH7OdrLyoP7rylUIapZYjtvnlFhBbzHDdun5Dil3lnNcm8EG5PbIVGMj4tC0DyrtOM%2BC54dbOq0fhLJZlELCi4eN4fXpbIgsRqyc6epBCEo0LBf9h8IKNCqtFvPgkhzbfcuHCbM2JAFf1y3wI3NKuf77C8llPMx7TafNAlVMTovR%7Ctkp%3ABk9SR4DJl4WHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/DUQAAeSwoi5qapw7/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787223812447,
+          "lastSeen": 1787677603428
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 175599,
+          "submissionFeeC": 34900,
+          "totalCostC": 210499,
+          "psa10ValueC": 256623,
+          "ratio": 1.2191174304866057
+        },
+        "firstOpportunityAt": 1787223812447
       },
       "firstOpportunityAt": 1787223812447,
       "updatedAt": 1787677603428
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/DUQAAeSwoi5qapw7/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787223812447,
         "lastSeen": 1787677603428
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/AggAAeSwc8Fqg1n2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787223812447,
         "lastSeen": 1787677603428

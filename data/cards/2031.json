@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2031,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ISAAAeSwFh9qhJk5/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787212132335,
         "lastSeen": 1787677514144
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SqoAAeSw0FZqhBJU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -83,6 +85,41 @@
         "totalCostC": 103547,
         "psa10ValueC": 101485,
         "ratio": 0.9800863376051455
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "800529905602",
+          "title": "CGC 10 Seel 92/110 Legendary Collection Reverse HoloOpens in a new window or tab",
+          "priceC": 95000,
+          "shippingC": 548,
+          "landedC": 95548,
+          "url": "https://www.ebay.com/itm/800529905602?_skw=%28seel%29+%2892%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=20043376415&itmmeta=01M0VYJHZ8H7TJ6F9BYB27N5FF&hash=itemba634cf7c2:g:ISAAAeSwFh9qhJk5&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDpT1QV%2Fz0NdQtKybZXUHffdby5lk3P4IsLccxZT9PP6mzgKz9%2FW%2FBcjaf4G8GIGEsKo6rs2B9Cn15H173eIqbiFpE7PcXwcvFXTkJj3H5k5tIjVq1eGbQnnX6cm15iARMZclqPgrXcxdHkJPXA3e9pWcGk0bAfw7MMxEZLABtUMwdvgtXzLcUu4QoqYsNjwMNauZR0dz4yX5Fl7Q9oyJm9ehmTiXPL4EpRmxuklf1ezoJhYh4tA9Ch6CWqR2pjbiHbEhr21YUidQsfQIGxKmBTgU7Mf5CcfEkRuBFU6I%2Bb35Pon2hZFBZEywWoxjQ%2B5ajJguuFp4Xf0uLoCQqorO8u%7Ctkp%3ABk9SR-yfyv6GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/ISAAAeSwFh9qhJk5/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787212132335,
+          "lastSeen": 1787677514144
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 95548,
+          "submissionFeeC": 7999,
+          "totalCostC": 103547,
+          "psa10ValueC": 101485,
+          "ratio": 0.9800863376051455
+        },
+        "firstOpportunityAt": 1787212132335
       },
       "firstOpportunityAt": 1787212132335,
       "updatedAt": 1787677514144
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/SqoAAeSw0FZqhBJU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ISAAAeSwFh9qhJk5/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787212132335,
         "lastSeen": 1787677514144
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/6Q8AAeSwJVVqEKVY/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144

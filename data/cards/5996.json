@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5996,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/H4oAAeSwwv9p4Dya/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/K3oAAeSwY5FqOkfy/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -83,6 +85,41 @@
         "totalCostC": 18581,
         "psa10ValueC": 106700,
         "ratio": 5.742425057854798
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "800545837226",
+          "title": "CGC 10 Shelgon 39/108 EX Power Keepers Stamp Rev Holo Pokémon 2007 TOP POP 8Opens in a new window or tab",
+          "priceC": 25000,
+          "shippingC": 597,
+          "landedC": 25597,
+          "url": "https://www.ebay.com/itm/800545837226?_skw=%28shelgon%29+%2839%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=4043368082&itmmeta=01M0W2V79N8V6TGBABGQ2268T1&hash=itemba644010aa:g:tugAAeSwWkBqY4Nl&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCJwdlKqWy4YFLJbiFSLPsDQKssQM2DqpcwJm3up8Strkeps%2FPkS0U1z7WYZAU3d%2F3KonDXLLnIKFeAjbu6BgFCourbQ%2FbBVoBjXR93V1UQW5%2FjF4f3bsq1Z7QfyI4DqV8L5D3NHaKJMV9oReOgiDpVFfYq1wYklvYor7BN71cQFAVztM05v1%2B5PVep7XwLEq9Ac%2Bw12hLGqToGyi6fcNePtX%2FC6DBSfdi%2BFkpK0FcGydvUpS%2B2HIbAkjgqUR0%2FUDwH%2BCYhFteKzbhDSjhVK%2BB%2F%7Ctkp%3ABk9SR4L17IKHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/tugAAeSwWkBqY4Nl/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787388670401,
+          "lastSeen": 1787677557971
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 25597,
+          "submissionFeeC": 7999,
+          "totalCostC": 33596,
+          "psa10ValueC": 106700,
+          "ratio": 3.175973330158352
+        },
+        "firstOpportunityAt": 1787388670401
       },
       "firstOpportunityAt": 1787162866541,
       "updatedAt": 1787677557971
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/H4oAAeSwwv9p4Dya/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/tugAAeSwWkBqY4Nl/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787388670401,
         "lastSeen": 1787677557971
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/K3oAAeSwY5FqOkfy/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/TB4AAeSw4v9psNnl/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
         "lastSeen": 1787677557971

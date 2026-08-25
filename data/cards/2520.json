@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2520,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/OaEAAeSwJK9qiopz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787472174178,
         "lastSeen": 1787677535654
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BnEAAeSwY0ppwW7Y/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787472174178,
         "lastSeen": 1787677535654
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/xMYAAeSwvEZqi3wD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558075872,
         "lastSeen": 1787677535654
@@ -96,6 +99,41 @@
         "totalCostC": 93899,
         "psa10ValueC": 67000,
         "ratio": 0.7135326254805695
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "278304132268",
+          "title": "Pokemon CGC 10 GEM MINT 2003 Slowbro 33/147 Aquapolis CardOpens in a new window or tab",
+          "priceC": 84900,
+          "shippingC": 1000,
+          "landedC": 85900,
+          "url": "https://www.ebay.com/itm/278304132268?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M0VZGG0VZCVP8Z96KNGBDTNM&hash=item40cc380cac:g:OaEAAeSwJK9qiopz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD9WGOO%2F70E7hWR2zECEZ1f--%2F7lu7oSSE0B8wZ7Ke9PoIE9ut%2F9FylZ0cd1Is3g7aPlOYvs8TtKIPyFaxQk7tTOZEjr4dTvYsm%2FgNkNUazHzfudQxPY1mDTmsjbQT7nPtiVAwT4Hgy7EeYF%2BEwH2J93uhyu3S%2BAIrXHjmw371pOZ3DjyXqzybUb%2B7EJaIT7ZxgJykLn9iCpbc5LszXiaWHEcZXc%2FUcbtplgmPYeBWLRucBqliFcpjtvkxesTh6RydDRlH0%2FrtxEOnuZVS%2BjDpa%7Ctkp%3ABk9SR9SAwv-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/OaEAAeSwJK9qiopz/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787472174178,
+          "lastSeen": 1787677535654
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 85900,
+          "submissionFeeC": 7999,
+          "totalCostC": 93899,
+          "psa10ValueC": 67000,
+          "ratio": 0.7135326254805695
+        },
+        "firstOpportunityAt": 1787472174178
       },
       "firstOpportunityAt": 1787472174178,
       "updatedAt": 1787677535654
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/s1YAAeSwmIdqKGN6/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/OaEAAeSwJK9qiopz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787472174178,
         "lastSeen": 1787677535654
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/xMYAAeSwvEZqi3wD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558075872,
         "lastSeen": 1787677535654
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BnEAAeSwY0ppwW7Y/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787472174178,
         "lastSeen": 1787677535654

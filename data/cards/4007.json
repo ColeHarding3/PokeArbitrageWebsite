@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4007,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/3ZkAAeSwRvdqjSPo/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787646719946,
         "lastSeen": 1787677564814
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/y4QAAeSwgsVpdkcz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/gHkAAeSwTslqPGsp/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814
@@ -96,6 +99,41 @@
         "totalCostC": 108526,
         "psa10ValueC": 105516,
         "ratio": 0.9722647107605551
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "820044337896",
+          "title": "Poliwhirl 46/112 EX FireRed & LeafGreen Reverse Holo CGC 10Opens in a new window or tab",
+          "priceC": 100000,
+          "shippingC": 527,
+          "landedC": 100527,
+          "url": "https://www.ebay.com/itm/820044337896?_skw=%28poliwhirl%29+%2846%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=8043377757&itmmeta=01M0W0Q9PQA3HCCMC08V537AXT&hash=itembeee7392e8:g:3ZkAAeSwRvdqjSPo&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB2Xzu1kY%2F04iTz2jdtRD5GkOcptKJRBFz9DcE4TJTvJvFBSMimUAZDc7vlPShy9BFAobFXWHBTOB8njevXF4yAREWP3TveXcJHNQsfkSfcgOKoVgLkkH%2FXffqZsPQCYaf7AF7QdnGiDJHVeETMtRxrffnMjHUFW41ZIG7dX%2F75oGzN8GKqnAstjOlVa5oWXr3m4InJgXmZ4KcywBGFaa5KNwCFjP32vy6h%2FAtcvzgOScraxsmYIyERiNcT5uuRedvm0G6rRgJnbn2l%2FozGtubTTr7qM9zc2TRR7XAPc03HVQ%3D%3D%7Ctkp%3ABk9SR8qb3YCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/3ZkAAeSwRvdqjSPo/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787646719946,
+          "lastSeen": 1787677564814
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 100527,
+          "submissionFeeC": 7999,
+          "totalCostC": 108526,
+          "psa10ValueC": 105516,
+          "ratio": 0.9722647107605551
+        },
+        "firstOpportunityAt": 1787646719946
       },
       "firstOpportunityAt": 1787646719946,
       "updatedAt": 1787677564814
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/gHkAAeSwTslqPGsp/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/3ZkAAeSwRvdqjSPo/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787646719946,
         "lastSeen": 1787677564814
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/y4QAAeSwgsVpdkcz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
         "lastSeen": 1787677564814

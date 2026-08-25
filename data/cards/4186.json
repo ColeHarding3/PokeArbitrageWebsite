@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4186,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/whYAAeSw6YZqCNeO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/f58AAeSwDRtqeQXh/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -83,6 +85,41 @@
         "totalCostC": 70497,
         "psa10ValueC": 228298,
         "ratio": 3.238407308112402
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "336663252363",
+          "title": "Pokemon Drowzee 54/109 Reverse Holo EX Team Rocket Returns - CGC 10Opens in a new window or tab",
+          "priceC": 55000,
+          "shippingC": 597,
+          "landedC": 55597,
+          "url": "https://www.ebay.com/itm/336663252363?_skw=%28drowzee%29+%2854%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=22043374664&itmmeta=01M0W0Y7QK3G34NTDM1Y5974KC&hash=item4e62b18d8b:g:whYAAeSw6YZqCNeO&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDSmMS8ivUv1L%2BNBZsjqKH%2FE6K8vpUYzqJpGBkOaj%2Bv18r678si%2Fyxjc6ep9uFUUa4k%2BpSe8cOBAs%2BC2JCMsd%2B8UR0s48z1Q0sMixdGMC6r6aqJ5G0DqPSo2fdbyumEF%2BUApmwn0cHemDgIjtYRpbtfQt2vpI0Rmv9q%2FIpKiungmkBPNZQb%2BeiHG74X41n9qT8HI9XhRvpaFAtjUEOCTDmr2VDrh4Z0ctrNsZPVjRZ8IGFGwRhXiYZlZSKALcl4trWupJxEPIfW2w30ky3HVTlcFmbIu9CzNDE79p8kXToBLKlG6JAMCplVnitmCXeGZ8%2FkkCQFg%2BKPEE%2BbewGeeZPL%7Ctkp%3ABk9SR5b8-ICHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/whYAAeSw6YZqCNeO/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787214401857,
+          "lastSeen": 1787677567103
+        },
+        "cgc10Bin": 3,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 55597,
+          "submissionFeeC": 14900,
+          "totalCostC": 70497,
+          "psa10ValueC": 228298,
+          "ratio": 3.238407308112402
+        },
+        "firstOpportunityAt": 1787214401857
       },
       "firstOpportunityAt": 1787214401857,
       "updatedAt": 1787677567103
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/f58AAeSwDRtqeQXh/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/upoAAeSwXRFqb4HI/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/whYAAeSw6YZqCNeO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ZVUAAeSww81qO~HQ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/UecAAeSw4BVqILQD/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -183,6 +225,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/QqEAAeSwCeVqPCAg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103

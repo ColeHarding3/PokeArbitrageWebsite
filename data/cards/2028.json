@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2028,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/YWkAAeSweGNqAyZw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094567887,
         "lastSeen": 1787677514144
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rksAAeSwMcpqfLPj/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -83,6 +85,41 @@
         "totalCostC": 84428,
         "psa10ValueC": 355000,
         "ratio": 4.20476619131094
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "188635238032",
+          "title": "Pokemon Machoke Legendary Coll. Reverse Holo #51 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 99000,
+          "shippingC": 0,
+          "landedC": 99000,
+          "url": "https://www.ebay.com/itm/188635238032?_skw=%28machoke%29+%2851%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=20043375979&itmmeta=01M0VYKKRDWD1WGZW3YJ6KGZRC&hash=item2beb894e90:g:NTgAAeSw7EhqVSjD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCkPxf%2FAd3eM%2FTE58PtRdpwkKydTGtUqFNKsc%2FtwWAuI0xqwEvx83Ta3JlCeI9%2BmY%2FzrWh6ExOcYmLVAZvHQkQH5jSe%2Fz%2F67eHcaRDai3L6e76lDMiPkVhSiTZpxt%2FYVQd3rtdD%2B5Kv%2BcI4KT0ONujet6r%2FkYL6dffO6IRPoO3ksLsN4z0NaVe0ux5cDlwd7G752hDtDPmvPM8muLSW6HE5jGN199anFn%2B9UeNjHsm6JkJlacxDDPHvOcV2hm%2BowIbZZ%2FzciMPl8MGH3wgUIPl5lpkekNe2mrwKqIpozDmg4w%3D%3D%7Ctkp%3ABk9SR768zv6GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/NTgAAeSw7EhqVSjD/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787050911353,
+          "lastSeen": 1787677514144
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 99000,
+          "submissionFeeC": 34900,
+          "totalCostC": 133900,
+          "psa10ValueC": 355000,
+          "ratio": 2.6512322628827483
+        },
+        "firstOpportunityAt": 1787050911353
       },
       "firstOpportunityAt": 1787094567887,
       "updatedAt": 1787677514144
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/YWkAAeSweGNqAyZw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094567887,
         "lastSeen": 1787677514144
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/eVcAAeSwWg9qi100/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787557485243,
         "lastSeen": 1787677514144
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/rksAAeSwMcpqfLPj/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/NTgAAeSw7EhqVSjD/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4321,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/y2cAAeSwvSNqjEwG/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787647292265,
         "lastSeen": 1787677571153
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/N~oAAeSw5glqdnc-/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/yXgAAeSwgMtqYWp6/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -96,6 +99,41 @@
         "totalCostC": 151096,
         "psa10ValueC": 149782,
         "ratio": 0.9913035421189178
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "227489630155",
+          "title": "Treecko #70 EX Emerald Reverse Holo Stamped [CGC 10] ✨Very Clean! (Pop 20)Opens in a new window or tab",
+          "priceC": 142500,
+          "shippingC": 597,
+          "landedC": 143097,
+          "url": "https://www.ebay.com/itm/227489630155?_skw=%28treecko%29+%2870%2Cemerald%29+%28CGC%2CPSA%29&epid=5043380397&itmmeta=01M0W18FWXFNXA21H07T10SQXY&hash=item34f77047cb:g:y2cAAeSwvSNqjEwG&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCVnN3yV%2FrqxR8yqHBn%2FDAhgi620eqaqDLTjprS2A5ql3rTYd%2BpVXfBpZCFnXOZUmpHtJd5TEIJusnC5irPIQbqxlgVW32aEIeV6CefTXnpwYjpNGzepk57w3peN5zARE5zfO2NgPrNWnbMiw4ZnUmXzEfUfqZlvhLBDCYC3r0W0sqTXnQmKbwkxJZhMe3DYoZy3cFyrm6hFq7aqyVUmuDJPZJGklXopGBz30is58I2vT68d%2FZaAouPeCg0vw8Ngl2PdaMR%2FAGxdeoBG0vQjKjE%7Ctkp%3ABk9SR9L-oYGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/y2cAAeSwvSNqjEwG/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787647292265,
+          "lastSeen": 1787677571153
+        },
+        "cgc10Bin": 2,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 143097,
+          "submissionFeeC": 7999,
+          "totalCostC": 151096,
+          "psa10ValueC": 149782,
+          "ratio": 0.9913035421189178
+        },
+        "firstOpportunityAt": 1787647292265
       },
       "firstOpportunityAt": 1787647292265,
       "updatedAt": 1787677571153
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/pVMAAeSw53VqNH0j/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/yXgAAeSwgMtqYWp6/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/y2cAAeSwvSNqjEwG/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787647292265,
         "lastSeen": 1787677571153
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/o7EAAeSw8rhqjEBK/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787647292265,
         "lastSeen": 1787677571153
@@ -182,6 +224,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/N~oAAeSw5glqdnc-/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153

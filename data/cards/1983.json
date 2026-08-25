@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1983,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/umEAAeSwN0tqi70q/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787557485243,
         "lastSeen": 1787677514144
@@ -70,6 +71,41 @@
         "totalCostC": 609900,
         "psa10ValueC": 750000,
         "ratio": 1.2297097884899164
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "128041279770",
+          "title": "Jolteon 2002 Pokemon Legendary #14 Reverse Holo CGC 10Opens in a new window or tab",
+          "priceC": 550000,
+          "shippingC": 0,
+          "landedC": 550000,
+          "url": "https://www.ebay.com/itm/128041279770?_skw=%28jolteon%29+%2814%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=23043383547&itmmeta=01M0VYJ3P2KG68KB9JWM8J7D0S&hash=item1dcfdae11a:g:umEAAeSwN0tqi70q&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA0OBoCDLyBOIwoZ%2B8nEQhXzIXVwLufhn0kn5HABS8SuyQQ1rtyF0hTvtRPbGrOqiMg3B5iTVeXOdGXpj2DEYtlO8OsZ%2F6EFZ7p0DBZOyzlYhdPjrA%2F2sRRq69F6Opz%2FJqOus17zSIlzU8HKkUmi8RoJVbjFipy4JVU%2FS6y3RKuZOdVqX%2B40MnUpbxVsFhAqSGfyUpyj4wJhL7LgkViQ28uyGiq%2FiBfX3Xk%2FhmlXfe3HIjOwH7g0a4j2A%2FCusNoIj0DQxofZms5S4JABXFiWNtZL9kEYC6x0nAHyUolzcpLVw%3D%3D%7Ctkp%3ABk9SR6S7yP6GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/umEAAeSwN0tqi70q/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787557485243,
+          "lastSeen": 1787677514144
+        },
+        "cgc10Bin": 4,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 550000,
+          "submissionFeeC": 59900,
+          "totalCostC": 609900,
+          "psa10ValueC": 750000,
+          "ratio": 1.2297097884899164
+        },
+        "firstOpportunityAt": 1787557485243
       },
       "firstOpportunityAt": 1787557485243,
       "updatedAt": 1787677514144
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/umEAAeSwN0tqi70q/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787557485243,
         "lastSeen": 1787677514144
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/HZ0AAeSwU6VqbN57/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787212132335,
         "lastSeen": 1787677514144
@@ -128,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/cIoAAeSwQp1p3VQC/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -142,6 +181,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/t7cAAeSwajlp0zB~/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144

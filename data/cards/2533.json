@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 2533,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/AXEAAeSwOt5puuFB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/yNoAAeSwzI5qSAYU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/jCoAAeSwBvJpb7uH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -96,6 +99,41 @@
         "totalCostC": 208997,
         "psa10ValueC": 106544,
         "ratio": 0.5097872218261507
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287215053763",
+          "title": "Pokemon Houndoom Aquapolis Reverse Holo Rare #15 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 199999,
+          "shippingC": 999,
+          "landedC": 200998,
+          "url": "https://www.ebay.com/itm/287215053763?_skw=%28houndoom%29+%2815%2Caquapolis%29+%28CGC%2CPSA%29&epid=3043380244&itmmeta=01M0VZG4E0H5WQXGYFQTNRF531&hash=item42df59ebc3:g:AXEAAeSwOt5puuFB&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDaBl7UnOFrIJwaWs6vDgZN5AGFynti7sQTaQSgzS0bmbuocjTT3W9oCSKH2VPrbGR0ZFe6ELh7h572KN6XNuqNK4%2BbkxIgIrt2e%2FIbucRjDwK0g9gz%2FYtIRAMmXr0PlHGYQihTDwTxpxomps5dLBpVX4HoiHXnYCyrjMAxxHKKNFejGijWR0Dh3CiUEfN%2BbKCzJ6jEAoktj0mWtQthDVmAM1Q2WElAv38lyVcrs7zi41qsJ%2BAgcWF94D0xVqBtN%2Fn9SxVIpVCx%2BUyPIyq2QOp8aspvqYwGQLXb6ewPQn9279NydALDwM9jGIovUbe0ngc%3D%7Ctkp%3ABk9SR6LHwP-GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/AXEAAeSwOt5puuFB/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787054322608,
+          "lastSeen": 1787677535654
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 200998,
+          "submissionFeeC": 7999,
+          "totalCostC": 208997,
+          "psa10ValueC": 106544,
+          "ratio": 0.5097872218261507
+        },
+        "firstOpportunityAt": 1787054322608
       },
       "firstOpportunityAt": 1787054322608,
       "updatedAt": 1787677535654
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/jCoAAeSwBvJpb7uH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/AXEAAeSwOt5puuFB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/yNoAAeSwzI5qSAYU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
         "lastSeen": 1787677535654

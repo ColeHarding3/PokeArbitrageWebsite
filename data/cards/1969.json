@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1969,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Oc0AAeSwaENp4g6n/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wAgAAeSw5glqdJdq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -83,6 +85,41 @@
         "totalCostC": 3699900,
         "psa10ValueC": 3735568,
         "ratio": 1.0096402605475823
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "127814896013",
+          "title": "POP 12! CGC 10 GEM MINT Gyarados Reverse Holo 2002 Legendary Collection PokemonOpens in a new window or tab",
+          "priceC": 3500000,
+          "shippingC": 0,
+          "landedC": 3500000,
+          "url": "https://www.ebay.com/itm/127814896013?_skw=%28gyarados%29+%2812%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=10043375956&itmmeta=01M0VYHCF6GWMFPV535WRFKVEM&hash=item1dc25c898d:g:Oc0AAeSwaENp4g6n&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAmi2%2BJOpUZT2mJ0c7DHWVt8mwNuzpm9ySamKd36CNscW1vRG3GklC31%2B4o3XaG6ghd9DS8MUHQTb8qMR9a3POvNFv8kAfbUgHIHqo7Ms5BPXMJEoIPnTXVfRabDHVP1InuG77nxBdaPKimpUM9De2fBOEYI1TS3VqSK28KLMnitKCPruGfgzxRVzG5AvmyqJ1fxyIOSUH5QfrneJifV%2FztdtrGK10NQBo3aVy7OXtzCz6%2FJPMmiPbtO7TK0KT8zSQU0ZYaeextqJZVIAhJ4Qc5lRuaZvgsTiH65kP8oqHEww%3D%3D%7Ctkp%3ABk9SR-jHxf6GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/Oc0AAeSwaENp4g6n/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787050911353,
+          "lastSeen": 1787677514144
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium2",
+            "label": "Premium 2",
+            "feeC": 199900,
+            "declaredValueCapC": 5000000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 3500000,
+          "submissionFeeC": 199900,
+          "totalCostC": 3699900,
+          "psa10ValueC": 3735568,
+          "ratio": 1.0096402605475823
+        },
+        "firstOpportunityAt": 1787050911353
       },
       "firstOpportunityAt": 1787050911353,
       "updatedAt": 1787677514144
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wAgAAeSw5glqdJdq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Oc0AAeSwaENp4g6n/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FdEAAeSwRdBoog4b/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
         "lastSeen": 1787677514144

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 3383,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0bYAAeSw0yNqi7Im/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558720761,
         "lastSeen": 1787677560195
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/onEAAeSwTtFqjT9f/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787646242482,
         "lastSeen": 1787677560195
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-VgAAeSwnxdqXJFy/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677560195
@@ -96,6 +99,41 @@
         "totalCostC": 136359,
         "psa10ValueC": 109209,
         "ratio": 0.8008932303698326
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287542425536",
+          "title": "Golem EX 91/97 Holo EX Dragon Pokemon CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 127500,
+          "shippingC": 860,
+          "landedC": 128360,
+          "url": "https://www.ebay.com/itm/287542425536?_skw=%28golem%29+%2891%2Cdragon%29+%28CGC%2CPSA%29&epid=28043374705&itmmeta=01M0W084WKRG0VZMTFPXZMS80X&hash=item42f2dd37c0:g:0bYAAeSw0yNqi7Im&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBX6wlMxnqkBKsra0IoEBwfgm5cXWlMyXeRnrOf4FXF9WKihOCqAEmkcECugYasMXKqaGq8ZCq7RX4zDekRF%2Br94v36IuriZxoHDxU%2FzmxEErKlcJOp7uyRMLxrt6v%2FHz%2BEhFyaU5dALXbUVnfcfxLS8pcotoyKzvLb1fUoI3cRbVcXu1NqPv82sDhFSb0hl83QPRe6ioqXw6JjZVIeb4akuzaxZK7drB1F0BH5G7Q6eLteBf1Fh6Ym4wxtx%2FLZsoZKwQsY%2FPlFXcIaeS6ar6BWLC0CqS62ij1Qh8k4IzujU32YkYjqnEDq%2FRiBnqr5UYk%3D%7Ctkp%3ABk9SR77OoICHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/0bYAAeSw0yNqi7Im/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787558720761,
+          "lastSeen": 1787677560195
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 128360,
+          "submissionFeeC": 7999,
+          "totalCostC": 136359,
+          "psa10ValueC": 109209,
+          "ratio": 0.8008932303698326
+        },
+        "firstOpportunityAt": 1787558720761
       },
       "firstOpportunityAt": 1787558720761,
       "updatedAt": 1787677560195
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-VgAAeSwnxdqXJFy/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677560195
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/0bYAAeSw0yNqi7Im/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558720761,
         "lastSeen": 1787677560195
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/oBQAAeSwDSdqMmkk/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787058454419,
         "lastSeen": 1787677560195
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/onEAAeSwTtFqjT9f/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787646242482,
         "lastSeen": 1787677560195

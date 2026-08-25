@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4121,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/xicAAeSwMf5qhzCw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787300942442,
         "lastSeen": 1787677567103
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/1NwAAeSw0yNqhj~u/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -83,6 +85,41 @@
         "totalCostC": 360899,
         "psa10ValueC": 732000,
         "ratio": 2.0282682966702597
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287536583179",
+          "title": "Pokemon Rocket's Scizor ex EX Team Rocket Returns 101/109 Holo CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 300000,
+          "shippingC": 999,
+          "landedC": 300999,
+          "url": "https://www.ebay.com/itm/287536583179?_skw=%28rockets%2Cscizor%29+%28101%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=19043375905&itmmeta=01M0W0X8ZVZZ1ZBX58H5S8DNG4&hash=item42f284120b:g:xicAAeSwMf5qhzCw&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAU8M9JBs54HXkjlusE1IlLPeUrWHvX1gmNxayFVAVA82qI2noLZg5XJ6yIM3H%2B3VnHTMxgqlc0I1lZgYgp3jED2rot88kF2WeBZln9IlDg6g9a1tIl7Y1%2B%2FwzHOkhK8KI0Uyziphyfg4kxRq1NOJRte84xcMjTHZ%2BqrOT7Fl%2F04ddib5r2NUShV6NQRt3r%2BouYxMal0SDRcJ7vudm4riiLmw2MzOczPfv%2BBIRkOG0ANclYO7BUX4TiDrKmGRTJApDNCxILPFpY9Leao19piPRx2OokXo4V29vwWgqbQxFpL1tkFHFsXKIxFNCclA9WQadVDEtADPzaM%2FNYp4HMUJij%7Ctkp%3ABk9SR5qQ9YCHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/xicAAeSwMf5qhzCw/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787300942442,
+          "lastSeen": 1787677567103
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 300999,
+          "submissionFeeC": 59900,
+          "totalCostC": 360899,
+          "psa10ValueC": 732000,
+          "ratio": 2.0282682966702597
+        },
+        "firstOpportunityAt": 1787300942442
       },
       "firstOpportunityAt": 1787300942442,
       "updatedAt": 1787677567103
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/1NwAAeSw0yNqhj~u/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/xicAAeSwMf5qhzCw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787300942442,
         "lastSeen": 1787677567103
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zZ8AAeSwHiJqf2ye/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787214401857,
         "lastSeen": 1787677567103

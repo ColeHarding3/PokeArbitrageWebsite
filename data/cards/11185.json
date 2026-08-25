@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11185,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FU0AAeSwfPFqhRQI/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -70,6 +71,41 @@
         "totalCostC": 24899,
         "psa10ValueC": 168125,
         "ratio": 6.7522792080003216
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287501351340",
+          "title": "2006 Pokemon EX Legend Maker Chinchou Reverse Holo #50/92 CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 49999,
+          "shippingC": 597,
+          "landedC": 50596,
+          "url": "https://www.ebay.com/itm/287501351340?_skw=%28chinchou%29+%2850%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=20043376616&itmmeta=01M0W1W2DEZA2MN9CPACN6T059&hash=item42f06a79ac:g:gnIAAeSwPAZqcN28&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCfXmHnvtwMFQEEQjggP18dlab915oGDgEXhf1HlGdB20zRSwfRNwgbssYkLuVwWndTlSLRpMxoXpaxYl4BRttapZnYnqdMXmPLddPF5Ib2NsRofADLmZZrlgIvsjqp44K6TOuyJg2Gs0Tb0iS4oSqvEn7mhi8OTUVSSDb8UKtM3g29ItH%2F81x%2BlIaFvYKx%2FkwYzEqDd%2FrjkFcY1xsdpfLmHk7PP6iLVkpLINMaY0bv%2FDkgULrnjMMa%2FvqyJptDAHdPZApwOUPvE4AbxTciBlS4VwlxJKG9GlcKejQlowmvRUDKnE9OSpXmwhO%2BAXCD3BI%3D%7Ctkp%3ABk9SR_im8IGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/gnIAAeSwPAZqcN28/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787216884103,
+          "lastSeen": 1787677544402
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 50596,
+          "submissionFeeC": 14900,
+          "totalCostC": 65496,
+          "psa10ValueC": 168125,
+          "ratio": 2.5669506534750215
+        },
+        "firstOpportunityAt": 1787216884103
       },
       "firstOpportunityAt": 1787216884103,
       "updatedAt": 1787677544402
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/dbsAAeSwR7pqhS4K/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787301744120,
         "lastSeen": 1787677544402
@@ -114,6 +151,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/FU0AAeSwfPFqhRQI/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -128,6 +166,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/gnIAAeSwPAZqcN28/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1310,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/vR4AAeSwahlqYiIQ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094598564,
         "lastSeen": 1787677583640
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BaAAAeSwFdNqZxIO/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -83,6 +85,41 @@
         "totalCostC": 850899,
         "psa10ValueC": 1530799,
         "ratio": 1.7990372535400794
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "327319414857",
+          "title": "CGC 10 GEM MINT Typhlosion 17/111 Neo Genesis 1st Edition Holo Pokemon CardOpens in a new window or tab",
+          "priceC": 1590000,
+          "shippingC": 0,
+          "landedC": 1590000,
+          "url": "https://www.ebay.com/itm/327319414857?_skw=%28typhlosion%29+%2817%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=9043371339&itmmeta=01M0SATG5279QYPBZB9S9CPA4N&hash=item4c35c1e849:g:ImwAAeSwlyZqhxTj&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCgyUvLoJQs6EI4l%2Bh8pXUeqYCMEfCe7C%2FbJzyFLIQPDyNW3UKLCo1dLzWZ%2BpG4C5NP8ZO8znDurBTeM7%2BnFJdCffwjiwN%2BaPfqs%2BQAgv%2F0LRnjkb7VOnUdMoBqLk6lS%2B3Qc1bk6cSeoqx4IEaTC9%2BjmkyZ%2BgXwu8tr9nuZPGo10Xu18Wjn%2Fb8n21wQYlWYEVDPam1GaRacnBQ%2BzuqYccLhTAq8aVaAoSPXU8w1945PVyUNpyw6bqucnVZ%2B2LRv6rNsGlbOJpV3fMgq%2BJMDwQ%2Fd%2BMYQKrJig0GsxqXe8zhSsQ%3D%3D%7Ctkp%3ABk9SR_6C6qqGaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/ImwAAeSwlyZqhxTj/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787307369320,
+          "lastSeen": 1787579341337
+        },
+        "cgc10Bin": 3,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium1",
+            "label": "Premium 1",
+            "feeC": 99900,
+            "declaredValueCapC": 2500000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 1590000,
+          "submissionFeeC": 99900,
+          "totalCostC": 1689900,
+          "psa10ValueC": 1530799,
+          "ratio": 0.9058518255518078
+        },
+        "firstOpportunityAt": 1787307369320
       },
       "firstOpportunityAt": 1787094598564,
       "updatedAt": 1787677583640
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/vR4AAeSwahlqYiIQ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094598564,
         "lastSeen": 1787677583640
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ImwAAeSwlyZqhxTj/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787307369320,
         "lastSeen": 1787579341337
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/zeYAAeSwaYVqR~sY/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/YBUAAeSw7~BqLg-9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640
@@ -169,6 +210,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BaAAAeSwFdNqZxIO/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
         "lastSeen": 1787677583640

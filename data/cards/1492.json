@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 1492,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PPUAAOSwE1xmYAi-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787047017265,
         "lastSeen": 1787677586318
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/xPwAAOSwZGdm-HLC/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787047017265,
         "lastSeen": 1787677586318
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4YcAAeSwu3Zqi1fv/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787047017265,
         "lastSeen": 1787677586318
@@ -96,6 +99,41 @@
         "totalCostC": 200399,
         "psa10ValueC": 1514003,
         "ratio": 7.554942888936572
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "166805195312",
+          "title": "2001 POKEMON NEO DISCOVERY HOLO YANMA #17 CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 100499,
+          "shippingC": 0,
+          "landedC": 100499,
+          "url": "https://www.ebay.com/itm/166805195312?_skw=%28yanma%29+%2817%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=19043376187&itmmeta=01M0VXHWZXN1WZHDW9J0JB17YZ&hash=item26d65d4a30:g:PPUAAOSwE1xmYAi-&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xApFU992XHT0JMrYGRZW5bcUE7ICglr1KfrVyLBx57fP%2FTjv8FwmrIWUTBMlRuO5ibwg8mgfOtVsBC0e1QhHoba1Myp4d4rGPinN%2B33ZA8VYR1rO7EHtxpfLoJ2EHmbdBaAAg%2BEKqd6TJQiwkd%2FIIb4jitYgiRWFk3yvCn49tdxzaDAjIsmcjZZ2Zg4RWfquZxUKb1vbnEzJw4sUA%2BmtJIeDK%2F9sscgZrzaVMpRd070edxfjm2kOUt%2F699m9CEygczgrWR%2B%2FEXXRN9N7k5tye--LgMHCcDcCG4CuMEY5Ebwj4afIcD1ifI%2FNNe%2FyJcGkms%3D%7Ctkp%3ABk9SR6LQx_2GaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/PPUAAOSwE1xmYAi-/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787047017265,
+          "lastSeen": 1787677586318
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium1",
+            "label": "Premium 1",
+            "feeC": 99900,
+            "declaredValueCapC": 2500000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 100499,
+          "submissionFeeC": 99900,
+          "totalCostC": 200399,
+          "psa10ValueC": 1514003,
+          "ratio": 7.554942888936572
+        },
+        "firstOpportunityAt": 1787047017265
       },
       "firstOpportunityAt": 1787047017265,
       "updatedAt": 1787677586318
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/4YcAAeSwu3Zqi1fv/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787047017265,
         "lastSeen": 1787677586318
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PPUAAOSwE1xmYAi-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787047017265,
         "lastSeen": 1787677586318
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/xPwAAOSwZGdm-HLC/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787047017265,
         "lastSeen": 1787677586318

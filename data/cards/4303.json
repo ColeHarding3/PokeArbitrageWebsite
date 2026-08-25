@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4303,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ZxcAAeSwvk9qh1wP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787301204361,
         "lastSeen": 1787677571153
@@ -70,6 +71,41 @@
         "totalCostC": 335348,
         "psa10ValueC": 312663,
         "ratio": 0.9323538533105908
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "800541553447",
+          "title": "Pokemon TCG Altaria EX Holo Rare Card 90/106 Emerald CGC 10Opens in a new window or tab",
+          "priceC": 299900,
+          "shippingC": 548,
+          "landedC": 300448,
+          "url": "https://www.ebay.com/itm/800541553447?_skw=%28altaria%29+%2890%2Cemerald%29+%28CGC%2CPSA%29&epid=22043374955&itmmeta=01M0W18726XA9XT81ZF98ZG95W&hash=itemba63feb327:g:ZxcAAeSwvk9qh1wP&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCFkWiSKz7lJ4jYQLOIOerA2eKAwx8Pwma90RQc1xEd1ZwlHMzemNXB7cpL8Kxr8F9ILpTycfDTxfDShyWdRfDjHMAZNxY0OfVb5QpM%2F1jnK1917YtJoW9K1NVoe%2BYiK4Ii9IJljZZ7D7LahvCGdB4JNwuG1l71w7voXK9T3e0QezCzfU4DfziEL%2FH2mYmKZGMO3Z1t%2Fjs%2FadO9Mw51qj%2B%2BerEW7Bn8MFA%2B1y3BB7PsJM%2BQAtSF%2BFo87abACtvppWuTe3g3mEy2NfW%2BGHSWGGmo%7Ctkp%3ABk9SR6TxoIGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/ZxcAAeSwvk9qh1wP/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787301204361,
+          "lastSeen": 1787677571153
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 300448,
+          "submissionFeeC": 34900,
+          "totalCostC": 335348,
+          "psa10ValueC": 312663,
+          "ratio": 0.9323538533105908
+        },
+        "firstOpportunityAt": 1787301204361
       },
       "firstOpportunityAt": 1787301204361,
       "updatedAt": 1787677571153
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ZxcAAeSwvk9qh1wP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787301204361,
         "lastSeen": 1787677571153

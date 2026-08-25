@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 4318,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/~n0AAeSwRqBqhwg3/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787301204361,
         "lastSeen": 1787677571153
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ExkAAOSw6WdmmARU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/q20AAeSwR8JqhvcT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787301204361,
         "lastSeen": 1787677571153
@@ -96,6 +99,41 @@
         "totalCostC": 61875,
         "psa10ValueC": 128500,
         "ratio": 2.076767676767677
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "227484123614",
+          "title": "Pokemon Medicham EX 2005 Emerald Holo Card #95/106 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 50000,
+          "shippingC": 3876,
+          "landedC": 53876,
+          "url": "https://www.ebay.com/itm/227484123614?_skw=%28medicham%29+%2895%2Cemerald%29+%28CGC%2CPSA%29&epid=5043380291&itmmeta=01M0W18E3WQ5JK69E8EYBKX7F4&hash=item34f71c41de:g:~n0AAeSwRqBqhwg3&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDfWBnMxL96%2FBwtAYExRR0GjcYhQw3taymXQ4mq10sxWTqbIrO5cMpzN4cmUv8I8zxzHwj85zRia%2BdwS%2FjypuKlATQPazvzn5mOTanJhAxLVaghbpWwYddlXHpyISPPQOWZG04z3xKYKNVRUeowVom2xZQ8cvVuvPknhh%2BN%2BFVoLvRKVonaGDByF2xz1ih11ps7KprDjxN%2BycjJPZe2EdA0DR6kvzqR24ZPFM2Gd%2FC3GrI3O6YVOVlRurQ0Xj0NaX%2FHlH2Zi%2B7TnrBp3Moy%2Fj%2F4%7Ctkp%3ABk9SR4rioYGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/~n0AAeSwRqBqhwg3/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787301204361,
+          "lastSeen": 1787677571153
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 53876,
+          "submissionFeeC": 7999,
+          "totalCostC": 61875,
+          "psa10ValueC": 128500,
+          "ratio": 2.076767676767677
+        },
+        "firstOpportunityAt": 1787301204361
       },
       "firstOpportunityAt": 1787301204361,
       "updatedAt": 1787677571153
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ExkAAOSw6WdmmARU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/q20AAeSwR8JqhvcT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787301204361,
         "lastSeen": 1787677571153
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/-gsAAeSwPd5qd2Oc/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
         "lastSeen": 1787677571153
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/~n0AAeSwRqBqhwg3/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787301204361,
         "lastSeen": 1787677571153

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 934,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/WCYAAeSwLQ1qEHmg/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
         "lastSeen": 1787677572286
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PSQAAeSwIxVo6~5j/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
         "lastSeen": 1787677572286
@@ -83,6 +85,41 @@
         "totalCostC": 40999,
         "psa10ValueC": 112699,
         "ratio": 2.748823142027854
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "358586390915",
+          "title": "2000 Pokemon Gym Heroes Brock's Rhydon Holo / CGC 10 #2/132Opens in a new window or tab",
+          "priceC": 33000,
+          "shippingC": 0,
+          "landedC": 33000,
+          "url": "https://www.ebay.com/itm/358586390915?_skw=%28brocks%2Crhydon%29+%282%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=13043374614&itmmeta=01M0VWY04X915YBCQFENF9HTRT&hash=item537d6a1983:g:WCYAAeSwLQ1qEHmg&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCm2%2Fn8aqhDfYju8lmsGFasiG6tULMfZPOpVeMfE4VEAv41Ct5FAfV%2BJTkkI6ERUvP4XAHA3BhtJWJtOcjHXp0JeXWu7OpYnwG4xKHmiTLfXfpR2g0Ubhbw00LORPR9IevSKSLBOkF%2BNRmDeUHk54YBXGq4Q6CyQVeiHEI0jcEvsMsRR5vqQRRBGLCvciu2zUGUd2%2BxhnpMcm9E60PmM6y7tXEoIqKw%2FKpd%2BIjiyboD8UF%2BbprnTx4QWJeBR4PhFReVA%2B6qSRNDBkVLVcc8hvtNWJSF07neLDaGE2V3FOh2SA%3D%3D%7Ctkp%3ABk9SR-KC-PyGaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/WCYAAeSwLQ1qEHmg/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787043800671,
+          "lastSeen": 1787677572286
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 33000,
+          "submissionFeeC": 7999,
+          "totalCostC": 40999,
+          "psa10ValueC": 112699,
+          "ratio": 2.748823142027854
+        },
+        "firstOpportunityAt": 1787043800671
       },
       "firstOpportunityAt": 1787043800671,
       "updatedAt": 1787677572286
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/PSQAAeSwIxVo6~5j/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
         "lastSeen": 1787677572286
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/WCYAAeSwLQ1qEHmg/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
         "lastSeen": 1787677572286

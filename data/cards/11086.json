@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 11086,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Q8YAAeSw5eRqbuwm/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -56,6 +57,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ahYAAeSwn8tqBMJ8/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -70,6 +72,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/LGkAAOSwwMBluneq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -96,6 +99,41 @@
         "totalCostC": 171197,
         "psa10ValueC": 305000,
         "ratio": 1.7815732752326268
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "198541314138",
+          "title": "2006 POKEMON EX LEGEND MAKER REVERSE HOLO STAMPED #55 GROWLITHE CGC 10 GEM MINTOpens in a new window or tab",
+          "priceC": 135000,
+          "shippingC": 1297,
+          "landedC": 136297,
+          "url": "https://www.ebay.com/itm/198541314138?_skw=%28growlithe%29+%2855%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=20043376499&itmmeta=01M0W1V8GDW3M2JS855B3AN9P3&hash=item2e39fc085a:g:Q8YAAeSw5eRqbuwm&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDN5qYJaMurNUV0ewcE42ijv0ZRXZRKcC2QihwZ2PeAXbeGethbvuONi5CRV3h9EPf%2FatI1SLuMrAXcZUAMlDhIjXyZLjhQMxq1e0reT%2BdLiKTdQcDnnwI8U1hwQ%2FtPgw3Oy2PcMcrEkMAzwYH0ACE%2BVnN2a1mfHtKpzdXrsjIStOhpxuMf5qx%2Ftlg5Hn8CIyew%2BisJzgLpIRaCWUpblbtfU5JzRfcAggIikNIMIeJIJaowImKEHioQSjczfJDWSfAT7VpcvCG8RfFTdVuF2CeC5F6vC%2B%2BMIBKz9mWPP%2FWBkA%3D%3D%7Ctkp%3ABk9SR8qI7YGHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/Q8YAAeSw5eRqbuwm/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787216884103,
+          "lastSeen": 1787677544402
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
+          },
+          "cgc10CostC": 136297,
+          "submissionFeeC": 34900,
+          "totalCostC": 171197,
+          "psa10ValueC": 305000,
+          "ratio": 1.7815732752326268
+        },
+        "firstOpportunityAt": 1787216884103
       },
       "firstOpportunityAt": 1787216884103,
       "updatedAt": 1787677544402
@@ -126,6 +164,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/LGkAAOSwwMBluneq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -140,6 +179,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/Q8YAAeSw5eRqbuwm/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -154,6 +194,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/ahYAAeSwn8tqBMJ8/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402
@@ -168,6 +209,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/MooAAeSwPE9pd5nA/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
         "lastSeen": 1787677544402

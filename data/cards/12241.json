@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 12241,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/~6MAAOSwk25nZa5W/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812
@@ -70,6 +71,41 @@
         "totalCostC": 164900,
         "psa10ValueC": 212500,
         "ratio": 1.288659793814433
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "257501484298",
+          "title": "CGC 10 Pokemon Celebi Holo 7/123 Mysterious Treasures 2007 Opens in a new window or tab",
+          "priceC": 150000,
+          "shippingC": 0,
+          "landedC": 150000,
+          "url": "https://www.ebay.com/itm/257501484298?_skw=%28celebi%29+%287%2Cmysterious%2Ctreasures%29+%28CGC%2CPSA%29&epid=23043383855&itmmeta=01M0W39ERV1R90TPDKTRA9QTJD&hash=item3bf448d50a:g:~6MAAOSwk25nZa5W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xByRvZOm0k1A4dMSRKCVxht7Awg3ae4Jc%2F5dpJFiRv%2FXZzdTp8cQulOu6AelJjN%2BY0BH3cAEwuA%2BAPGvec1VuxR86q0TOKgyu35Z8qfj7BhpOKfW28hdCY9K6BlirK2Iw0KlFuy%2BryyjT2%2BxbEaMsHRjBKUtm3zz1ge7%2F6TPVDd0bILTvblzxKeGv4Plc8XGBM5wUEHgdPD3QdwvHh6aLOq%2BsjuOx0WLBNXBgq28VFZLup7ThUpe%2BKTaxtnXymfAQ2%2B4xbtv88h0KNe2oN3kH%2BWt45%2FgYdAlqniarPFoYSEY%2FM1%2B3O9aBK3j9tdewo7fza%2BdiF0AgUL0CqYB%2BXvprtP%7Ctkp%3ABk9SR-bspYOHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/~6MAAOSwk25nZa5W/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787220120669,
+          "lastSeen": 1787677520812
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 150000,
+          "submissionFeeC": 14900,
+          "totalCostC": 164900,
+          "psa10ValueC": 212500,
+          "ratio": 1.288659793814433
+        },
+        "firstOpportunityAt": 1787220120669
       },
       "firstOpportunityAt": 1787220120669,
       "updatedAt": 1787677520812
@@ -100,6 +136,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/~6MAAOSwk25nZa5W/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
         "lastSeen": 1787677520812

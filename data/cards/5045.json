@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T183953246Z-d8f301ab59",
-  "generatedAt": 1787683193246,
+  "snapshotId": "20260825T202948295Z-45cdb9a616",
+  "generatedAt": 1787689788295,
   "data": {
     "deal": {
       "variantId": 5045,
@@ -42,6 +42,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/aiQAAeSwO~1p6RG9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094581742,
         "lastSeen": 1787677545935
@@ -57,6 +58,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/vR8AAeSwU4ZqgCq5/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
         "lastSeen": 1787677545935
@@ -83,6 +85,41 @@
         "totalCostC": 180795,
         "psa10ValueC": 802572,
         "ratio": 4.439127188251888
+      },
+      "withoutLegacyCgc95": {
+        "bestCgc10": {
+          "itemId": "287372812452",
+          "title": "Pokemon Latios EX Holon Phantoms Reverse Holo Rare #22 CGC 10 Gem MintOpens in a new window or tab",
+          "priceC": 300000,
+          "shippingC": 999,
+          "landedC": 300999,
+          "url": "https://www.ebay.com/itm/287372812452?_skw=%28latios%2Cdelta%29+%2822%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=25043363410&itmmeta=01M0W2454VRGH4ECZPMK5QVYB1&hash=item42e8c120a4:g:wMMAAeSwefZqIJNJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC00R52MCTkUS4MybgM9V4Fp0V8yDsMFdLcPSmFNhFk4YYDpDt6sUf4NC0co5Njk8JnwNcE9Cf8qko3E26Zx6PX7PqZ%2FRY9pVaTH8GaI0ALi1OCe00DxQJKd%2BqlaJm4bHrHZVpxAzby00wxMzsIRxE8Hy1wusa%2B09%2BFjipRfHdurjm%2FEPXWg93WCr%2BE89fXEqoTaAriUaClevQQ2jkvzRSyw%2B%2F1deJRRuDIWhIMCq1%2FlYmNW2891E5EGnAC5eRPAOqrbChWFTS0YVJUtI%2FJPtUNfs7mfbwkv%2FjOKtqqiGf0tg%3D%3D%7Ctkp%3ABk9SR97SkIKHaA",
+          "imageUrl": "https://i.ebayimg.com/images/g/wMMAAeSwefZqIJNJ/s-l500.webp",
+          "listingType": "bin",
+          "bucket": "gemMint10",
+          "legacyCgc95": false,
+          "freshness": "live",
+          "firstSeen": 1787092753589,
+          "lastSeen": 1787677545935
+        },
+        "cgc10Bin": 1,
+        "cgc10Auction": 0,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "walkThrough",
+            "label": "Walk-Through",
+            "feeC": 59900,
+            "declaredValueCapC": 1000000,
+            "turnaroundBizDays": 10
+          },
+          "cgc10CostC": 300999,
+          "submissionFeeC": 59900,
+          "totalCostC": 360899,
+          "psa10ValueC": 802572,
+          "ratio": 2.22381331064924
+        },
+        "firstOpportunityAt": 1787092753589
       },
       "firstOpportunityAt": 1787094581742,
       "updatedAt": 1787677545935
@@ -113,6 +150,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/vR8AAeSwU4ZqgCq5/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
         "lastSeen": 1787677545935
@@ -127,6 +165,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/KKUAAeSw8OVqaT84/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
         "lastSeen": 1787677545935
@@ -141,6 +180,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/aiQAAeSwO~1p6RG9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094581742,
         "lastSeen": 1787677545935
@@ -155,6 +195,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/wMMAAeSwefZqIJNJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
+        "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
         "lastSeen": 1787677545935
