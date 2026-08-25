@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T101315494Z-4f71d98e10",
-  "generatedAt": 1787652795494,
+  "snapshotId": "20260825T183953246Z-d8f301ab59",
+  "generatedAt": 1787683193246,
   "data": {
     "deal": {
       "variantId": 3712,
@@ -44,7 +44,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787473683571,
-        "lastSeen": 1787646547798
+        "lastSeen": 1787677563415
       },
       "bestPsa10": {
         "itemId": "168634896559",
@@ -58,7 +58,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787559016400,
-        "lastSeen": 1787646547798
+        "lastSeen": 1787677563415
       },
       "bestPsa9": {
         "itemId": "168614187968",
@@ -72,13 +72,13 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787060323903,
-        "lastSeen": 1787646547798
+        "lastSeen": 1787677563415
       },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 2,
+        "psa10Bin": 4,
         "psa10Auction": 0,
         "psa9Bin": 3
       },
@@ -98,7 +98,7 @@
         "ratio": 3.41540675844806
       },
       "firstOpportunityAt": 1787473683571,
-      "updatedAt": 1787646547798
+      "updatedAt": 1787677563415
     },
     "prices": {
       "variantId": 3712,
@@ -128,7 +128,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787060323903,
-        "lastSeen": 1787646547798
+        "lastSeen": 1787677563415
       },
       {
         "itemId": "327321995255",
@@ -142,7 +142,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787473683571,
-        "lastSeen": 1787646547798
+        "lastSeen": 1787677563415
       },
       {
         "itemId": "287490151287",
@@ -156,7 +156,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787060323903,
-        "lastSeen": 1787646547798
+        "lastSeen": 1787677563415
       },
       {
         "itemId": "177841858143",
@@ -170,7 +170,7 @@
         "bucket": "psa9",
         "freshness": "live",
         "firstSeen": 1787060323903,
-        "lastSeen": 1787646547798
+        "lastSeen": 1787677563415
       },
       {
         "itemId": "227326655082",
@@ -184,7 +184,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787060323903,
-        "lastSeen": 1787646547798
+        "lastSeen": 1787677563415
       },
       {
         "itemId": "168634896559",
@@ -198,7 +198,35 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787559016400,
-        "lastSeen": 1787646547798
+        "lastSeen": 1787677563415
+      },
+      {
+        "itemId": "157780396941",
+        "title": "2007 Pokemon EX Power Keepers #95 Metagross EX PSA 10Opens in a new window or tab",
+        "priceC": 460000,
+        "shippingC": 875,
+        "landedC": 460875,
+        "url": "https://www.ebay.com/itm/157780396941?_skw=%28metagross%29+%2895%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=16043370144&itmmeta=01M0W0HKW88JZBEKRFGMK77FF2&hash=item24bc71cb8d:g:798AAeSwncRpwhhV&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDqO%2FR10mMzoiKj8eVnUIqYYV3W4zmGWrU8w0NPny9bovqckNjUR%2FLakw0h7tBS8oXl6trVtCenX7Hy1XrQJKDASU%2FqATuxuwR5OGLYD2daA0r2BUWw85B4hZnaRuB%2FP4D3DNaIx5sk%2BT1Joe%2Bumao0C40QbM391uRiPIdKqkc57mHUvd3qN4%2BcPGXqdc1Jghd06tNxT8MLsqmNXJs6bB5Ev0qBomuzOJDxyhXdw8Z9Ok%2FV6bFfgRsfuQ1i1v0s%2FEb7l9yUN0Fb6tfiyLqdSkXSGTXBjINOdvzxOBTNQUtk%2BjYthHSAsr8Y6f87p8F4KQW739ivzWlYjQwB%2BXNwedRB%7Ctkp%3ABk9SR7y-xoCHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/798AAeSwncRpwhhV/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787060323903,
+        "lastSeen": 1787677563415
+      },
+      {
+        "itemId": "287247791762",
+        "title": "Pokemon Metagross ex EX Hidden Legends Holo Ultra Rare #95 PSA 10 Gem MintOpens in a new window or tab",
+        "priceC": 599999,
+        "shippingC": 999,
+        "landedC": 600998,
+        "url": "https://www.ebay.com/itm/287247791762?_skw=%28metagross%29+%2895%2Chidden%2Clegends%29+%28CGC%2CPSA%29&epid=14043371350&itmmeta=01M0W0HKW8CA0QCKJZQDWCNA2G&hash=item42e14d7692:g:TPoAAeSw0vBpzZdF&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC%2Bw18QvwbYxp4kiXdaEjvjFp%2FKb06U9LII07K%2F8pJnoauDS0WbSeTJwuyl7wQfpXTuJdM%2FIQyTbMh5gw2UWk8JWPbaQ%2FW%2BJxa4t7wqILEpFadq0WHr6tilYptJ1jkMoEYFIeKatwVNy6LXJRXAz7Dr0%2FZBk5sTJHID9%2BWUwUEzRq71cW2pWxsbI1ILMAGH19Y9tiAEpbsR72mJ%2F3%2BMZRzisbTD9155Zz7s9i4UI7q7yuGWIYQLEt2dER6VF1%2FzwOt6duZgGBfXIGEhC%2BPfaS12ZEvzxGIfoarWyCgIuVn0uQuDYb1gx%2BNcP52U8IG%2B2BJj9vTAe465zgQf1LNkt8eg%7Ctkp%3ABk9SR7y-xoCHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/TPoAAeSw0vBpzZdF/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787060323903,
+        "lastSeen": 1787677563415
       },
       {
         "itemId": "395026361108",
@@ -212,7 +240,7 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787060323903,
-        "lastSeen": 1787646547798
+        "lastSeen": 1787677563415
       }
     ],
     "marketHistory": {

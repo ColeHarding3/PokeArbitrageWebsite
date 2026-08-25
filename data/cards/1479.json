@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T101315494Z-4f71d98e10",
-  "generatedAt": 1787652795494,
+  "snapshotId": "20260825T183953246Z-d8f301ab59",
+  "generatedAt": 1787683193246,
   "data": {
     "deal": {
       "variantId": 1479,
@@ -44,7 +44,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787298591537,
-        "lastSeen": 1787643504771
+        "lastSeen": 1787677586318
       },
       "bestPsa10": {
         "itemId": "237014893913",
@@ -58,16 +58,29 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787643504771
+        "lastSeen": 1787677586318
       },
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "398175947784",
+        "title": "2008 POKEMON DIAMOND & PEARL MAJESTIC DAWN #6 KABUTOPS-HOLO PSA 9 LOW POPOpens in a new window or tab",
+        "priceC": 27499,
+        "shippingC": 562,
+        "landedC": 28061,
+        "url": "https://www.ebay.com/itm/398175947784?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=20043375811&itmmeta=01M0VXN9NEYVSA3BQBZ79RCYZE&hash=item5cb522cc08:g:Hw0AAeSwlcJqVxAb&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAUDFZq22EfPZvJCS2%2BpkPuP2nekfCWOMUxrpaSr48vkaO805GcY%2Bf9QBlmF9nNT2%2BKusY4dA99HVB1tCi5VBRC1b%2B2lEnMkBFhtPDIJeFGlt7QDxXRVc8tTfd%2FN5t4uSBJnZq%2BCR5TgD6Qz7YP8xepEvqWLxuAseQcvV7keKcutf%2B1Q11lQvABm4yB%2Bl45hrpMv8Zn%2B%2BenClKAKd%2F8zQsy825zZFZjkwcWkEn5LFpAZbwHYUc0kF%2BbvFP98yz643ur6iV3NLgpKtxj%2FSYfwCf0y7gQDt1EPoWOUBjY3%2FM4TA%3D%3D%7Ctkp%3ABk9SR4qb1f2GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/Hw0AAeSwlcJqVxAb/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787047017265,
+        "lastSeen": 1787677586318
+      },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 1,
+        "psa10Bin": 2,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -85,7 +98,7 @@
         "ratio": 3.778047210300429
       },
       "firstOpportunityAt": 1787298591537,
-      "updatedAt": 1787643504771
+      "updatedAt": 1787677586318
     },
     "prices": {
       "variantId": 1479,
@@ -104,6 +117,20 @@
     },
     "listings": [
       {
+        "itemId": "398175947784",
+        "title": "2008 POKEMON DIAMOND & PEARL MAJESTIC DAWN #6 KABUTOPS-HOLO PSA 9 LOW POPOpens in a new window or tab",
+        "priceC": 27499,
+        "shippingC": 562,
+        "landedC": 28061,
+        "url": "https://www.ebay.com/itm/398175947784?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=20043375811&itmmeta=01M0VXN9NEYVSA3BQBZ79RCYZE&hash=item5cb522cc08:g:Hw0AAeSwlcJqVxAb&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAUDFZq22EfPZvJCS2%2BpkPuP2nekfCWOMUxrpaSr48vkaO805GcY%2Bf9QBlmF9nNT2%2BKusY4dA99HVB1tCi5VBRC1b%2B2lEnMkBFhtPDIJeFGlt7QDxXRVc8tTfd%2FN5t4uSBJnZq%2BCR5TgD6Qz7YP8xepEvqWLxuAseQcvV7keKcutf%2B1Q11lQvABm4yB%2Bl45hrpMv8Zn%2B%2BenClKAKd%2F8zQsy825zZFZjkwcWkEn5LFpAZbwHYUc0kF%2BbvFP98yz643ur6iV3NLgpKtxj%2FSYfwCf0y7gQDt1EPoWOUBjY3%2FM4TA%3D%3D%7Ctkp%3ABk9SR4qb1f2GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/Hw0AAeSwlcJqVxAb/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787047017265,
+        "lastSeen": 1787677586318
+      },
+      {
         "itemId": "327304065034",
         "title": "CGC 10 GEM MINT Kabutops 6/75 Neo Discovery Holo Pokemon CardOpens in a new window or tab",
         "priceC": 79900,
@@ -115,7 +142,7 @@
         "bucket": "gemMint10",
         "freshness": "live",
         "firstSeen": 1787298591537,
-        "lastSeen": 1787643504771
+        "lastSeen": 1787677586318
       },
       {
         "itemId": "237000091764",
@@ -143,7 +170,21 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787643504771
+        "lastSeen": 1787677586318
+      },
+      {
+        "itemId": "188603405594",
+        "title": "Pokémon 2001 PSA 10 English Kabutops Neo Discovery Holo #6 Pop 27Opens in a new window or tab",
+        "priceC": 1200000,
+        "shippingC": 0,
+        "landedC": 1200000,
+        "url": "https://www.ebay.com/itm/188603405594?_skw=%28kabutops%29+%286%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=10043376507&itmmeta=01M0VXNEN1MGNDP7TFB7Y982QE&hash=item2be9a3951a:g:dkMAAeSw3bJqSnKb&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAVfZhmuUTGTnlF0Rt0GCPxPnuK63eNJVNOPdqX3KP9vdSAXaZAIjmhUJ5t%2BgXChkV0wKpoibvxrwzztM5gyssEVDQv6EMEe3cb4cp9RPdBfOJCOscUnZFRRy9DQf4T5u2O7WfGloaPlmRZwd8JP5dSTllzkIJGffUEgoQmz%2BKsDZwl4foC1uwkAzmjj%2FHoZLAiiLzo26SRHyZHX6GsziA%2BwnqEtKqa9Uzy9qmG%2F%2B9w6K1ocHFB0nF2Tp6cqTjrgojaNhbtwWIE%2B10GKMa0vDnwcPhCJHrLTvoM9TNsVPyBDA%3D%3D%7Ctkp%3ABk9SR-Dq1f2GaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/dkMAAeSw3bJqSnKb/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "freshness": "live",
+        "firstSeen": 1787047017265,
+        "lastSeen": 1787677586318
       }
     ],
     "marketHistory": {

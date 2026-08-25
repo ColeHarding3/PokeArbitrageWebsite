@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T101315494Z-4f71d98e10",
-  "generatedAt": 1787652795494,
+  "snapshotId": "20260825T183953246Z-d8f301ab59",
+  "generatedAt": 1787683193246,
   "data": {
     "deal": {
       "variantId": 4077,
@@ -45,20 +45,33 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787646776982
+        "lastSeen": 1787677604366
       },
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "227240961219",
+        "title": "Pokemon PSA 9 Blaziken HOLO #1 EX Emerald Signed By Both Artist And Voice ActorOpens in a new window or tab",
+        "priceC": 200000,
+        "shippingC": 0,
+        "landedC": 200000,
+        "url": "https://www.ebay.com/itm/227240961219?_skw=%28blaziken%29+%281%2Cpop%2Cseries%29+%28CGC%2CPSA%29&epid=2314420696&itmmeta=01M0W0SNENB76KM4KW64GK8QVA&hash=item34e89de4c3:g:RLYAAeSwcKNpp21b&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCioSL4v53CKF0iPkxMM7xvHVjztqgfrZkb9cndRx9KGPpA76tYbfZTiaIGyrx8mNiMsLbE%2FUmoeHgkmgZDPFmZbWdv94iFQkuSCD2y6kHI5Bk13mrzipYaxT1IdTBeFtsx9NSJJixPycM1QK1OCEKgHnYOZ4bMAwdoyPWusmzOuZY8dOURNXXYN4FYGr%2BTfS7GV8hV1gdZ1xv7XxtgMPvn9duXnZWq0ArjjXh9mMnvblAxzdtgqpBQDXlOnfDzWZv4dxex1p1xzSdTXC3PR6zdaJKMaZ%2FL8R963gLqFy%2BbHDPMX%2FdotPM7nWhiVzCyX%2FM%3D%7Ctkp%3ABk9SR9TX5oCHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/RLYAAeSwcKNpp21b/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787061558184,
+        "lastSeen": 1787677604366
+      },
       "counts": {
         "cgc10Bin": 0,
         "cgc10Auction": 1,
         "pristine10": 0,
         "psa10Bin": 1,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": null,
       "firstOpportunityAt": null,
-      "updatedAt": 1787646776982
+      "updatedAt": 1787677604366
     },
     "prices": {
       "variantId": 4077,
@@ -102,7 +115,21 @@
         "bucket": "psa10",
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787646776982
+        "lastSeen": 1787677604366
+      },
+      {
+        "itemId": "227240961219",
+        "title": "Pokemon PSA 9 Blaziken HOLO #1 EX Emerald Signed By Both Artist And Voice ActorOpens in a new window or tab",
+        "priceC": 200000,
+        "shippingC": 0,
+        "landedC": 200000,
+        "url": "https://www.ebay.com/itm/227240961219?_skw=%28blaziken%29+%281%2Cpop%2Cseries%29+%28CGC%2CPSA%29&epid=2314420696&itmmeta=01M0W0SNENB76KM4KW64GK8QVA&hash=item34e89de4c3:g:RLYAAeSwcKNpp21b&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCioSL4v53CKF0iPkxMM7xvHVjztqgfrZkb9cndRx9KGPpA76tYbfZTiaIGyrx8mNiMsLbE%2FUmoeHgkmgZDPFmZbWdv94iFQkuSCD2y6kHI5Bk13mrzipYaxT1IdTBeFtsx9NSJJixPycM1QK1OCEKgHnYOZ4bMAwdoyPWusmzOuZY8dOURNXXYN4FYGr%2BTfS7GV8hV1gdZ1xv7XxtgMPvn9duXnZWq0ArjjXh9mMnvblAxzdtgqpBQDXlOnfDzWZv4dxex1p1xzSdTXC3PR6zdaJKMaZ%2FL8R963gLqFy%2BbHDPMX%2FdotPM7nWhiVzCyX%2FM%3D%7Ctkp%3ABk9SR9TX5oCHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/RLYAAeSwcKNpp21b/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "freshness": "live",
+        "firstSeen": 1787061558184,
+        "lastSeen": 1787677604366
       }
     ],
     "marketHistory": {
