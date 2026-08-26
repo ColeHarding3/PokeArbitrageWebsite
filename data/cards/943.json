@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 943,
@@ -19,7 +19,7 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/6e0f4fa41ce86d3be148729a564c1b63e4e8d2633518325bd8447c5c8a67f10a/1600.jpg",
       "popularityScore": 77,
       "market": {
-        "ungradedC": 3775,
+        "ungradedC": 3171,
         "grade9C": 9999,
         "grade95C": 11000,
         "cgc10C": 21230,
@@ -30,22 +30,22 @@
         "psa10Pop": 57,
         "cgc10Pop": 73,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    2 sales per month\",\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787642617036
+        "fetchedAt": 1787728969858
       },
       "bestCgc10": {
         "itemId": "336736431319",
         "title": "CGC 10 GEM MINT Erika's Clefable Gym Heroes 3/132 Holo Pokemon CardOpens in a new window or tab",
         "priceC": 25000,
-        "shippingC": 2057,
-        "landedC": 27057,
-        "url": "https://www.ebay.com/itm/336736431319?_skw=%28erikas%2Cclefable%29+%283%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=11043365863&itmmeta=01M0VWY800SKX454K3Q53PM7H7&hash=item4e670e2cd7:g:ECcAAeSwMcpqeori&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDM9USWBEeo3jyq1QG5mqwU9VNAPt4ALLEVs2vu2v1ysSaj8XtDMNlN7rt%2BGxApWlzL463t2JjnA%2B8%2B5GLnkvBKANy9Jlb5dxv9DR4plaZZkBebCY%2BpH3LjC%2FEcdxVrA0EpG0A8ih4wjiNa%2BU0A5cIXzyY3ngd2jThuSN3pZA4SPuhEH%2FTlBeSdQj3AMfCy%2FPiI%2Fzt4qN1lc20mPDOICxqtQ4y2TXZIjmuyye7JrtP0yis%2FbxCczxPneBddKU2MymlEwEyIbaBRZulAvAbnArAdNJmO9lVYZRUKI7loW9KiSQ%3D%3D%7Ctkp%3ABk9SR5iA-fyGaA",
+        "shippingC": 0,
+        "landedC": 25000,
+        "url": "https://www.ebay.com/itm/336736431319?_skw=%28erikas%2Cclefable%29+%283%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=11043365863&itmmeta=01M0YF9VMFR4HKC70X9RT031QT&hash=item4e670e2cd7:g:ECcAAeSwMcpqeori&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDM9USWBEeo3jyq1QG5mqwU9VNAPt4ALLEVs2vu2v1ysbWJl%2FKq4wGPGKNpkck4aj%2FiCYjyEkpMaWBjo6knR7eIhWge%2BGQ%2B7rKMMf7Y1WPcj9waOYPEzlIAADGj43C4CmaYHtlEUM%2FXy0ej1woGbWlEg%2FvT9SSFmYBZZh1hTTPOiZONYJaEfNG98jfFY0Sl75BFmhVKl23iI%2Fu7HJ8WRl2uXXrLAP29ENyoF%2B9Pr5nABmFcL2TI%2B8%2FOgokUrM17gRY8OayOxzJD%2B9SeYop3HL%2B%2B%2BFcl5GMEG%2Bg6uRqRn9vOPg%3D%3D%7Ctkp%3ABk9SR8y6p8-HaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ECcAAeSwMcpqeori/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787677572286
+        "lastSeen": 1787729158510
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -66,27 +66,27 @@
           "declaredValueCapC": 150000,
           "turnaroundBizDays": 50
         },
-        "cgc10CostC": 27057,
+        "cgc10CostC": 25000,
         "submissionFeeC": 7999,
-        "totalCostC": 35056,
+        "totalCostC": 32999,
         "psa10ValueC": 110000,
-        "ratio": 3.1378366042902783
+        "ratio": 3.3334343464953484
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "336736431319",
           "title": "CGC 10 GEM MINT Erika's Clefable Gym Heroes 3/132 Holo Pokemon CardOpens in a new window or tab",
           "priceC": 25000,
-          "shippingC": 2057,
-          "landedC": 27057,
-          "url": "https://www.ebay.com/itm/336736431319?_skw=%28erikas%2Cclefable%29+%283%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=11043365863&itmmeta=01M0VWY800SKX454K3Q53PM7H7&hash=item4e670e2cd7:g:ECcAAeSwMcpqeori&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDM9USWBEeo3jyq1QG5mqwU9VNAPt4ALLEVs2vu2v1ysSaj8XtDMNlN7rt%2BGxApWlzL463t2JjnA%2B8%2B5GLnkvBKANy9Jlb5dxv9DR4plaZZkBebCY%2BpH3LjC%2FEcdxVrA0EpG0A8ih4wjiNa%2BU0A5cIXzyY3ngd2jThuSN3pZA4SPuhEH%2FTlBeSdQj3AMfCy%2FPiI%2Fzt4qN1lc20mPDOICxqtQ4y2TXZIjmuyye7JrtP0yis%2FbxCczxPneBddKU2MymlEwEyIbaBRZulAvAbnArAdNJmO9lVYZRUKI7loW9KiSQ%3D%3D%7Ctkp%3ABk9SR5iA-fyGaA",
+          "shippingC": 0,
+          "landedC": 25000,
+          "url": "https://www.ebay.com/itm/336736431319?_skw=%28erikas%2Cclefable%29+%283%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=11043365863&itmmeta=01M0YF9VMFR4HKC70X9RT031QT&hash=item4e670e2cd7:g:ECcAAeSwMcpqeori&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDM9USWBEeo3jyq1QG5mqwU9VNAPt4ALLEVs2vu2v1ysbWJl%2FKq4wGPGKNpkck4aj%2FiCYjyEkpMaWBjo6knR7eIhWge%2BGQ%2B7rKMMf7Y1WPcj9waOYPEzlIAADGj43C4CmaYHtlEUM%2FXy0ej1woGbWlEg%2FvT9SSFmYBZZh1hTTPOiZONYJaEfNG98jfFY0Sl75BFmhVKl23iI%2Fu7HJ8WRl2uXXrLAP29ENyoF%2B9Pr5nABmFcL2TI%2B8%2FOgokUrM17gRY8OayOxzJD%2B9SeYop3HL%2B%2B%2BFcl5GMEG%2Bg6uRqRn9vOPg%3D%3D%7Ctkp%3ABk9SR8y6p8-HaA",
           "imageUrl": "https://i.ebayimg.com/images/g/ECcAAeSwMcpqeori/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787043800671,
-          "lastSeen": 1787677572286
+          "lastSeen": 1787729158510
         },
         "cgc10Bin": 3,
         "cgc10Auction": 0,
@@ -99,20 +99,20 @@
             "declaredValueCapC": 150000,
             "turnaroundBizDays": 50
           },
-          "cgc10CostC": 27057,
+          "cgc10CostC": 25000,
           "submissionFeeC": 7999,
-          "totalCostC": 35056,
+          "totalCostC": 32999,
           "psa10ValueC": 110000,
-          "ratio": 3.1378366042902783
+          "ratio": 3.3334343464953484
         },
         "firstOpportunityAt": 1787043800671
       },
       "firstOpportunityAt": 1787043800671,
-      "updatedAt": 1787677572286
+      "updatedAt": 1787729158510
     },
     "prices": {
       "variantId": 943,
-      "ungradedC": 3775,
+      "ungradedC": 3171,
       "grade9C": 9999,
       "grade95C": 11000,
       "cgc10C": 21230,
@@ -123,57 +123,70 @@
       "cgc10Pop": 73,
       "bgs10C": 143000,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    2 sales per month\",\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787642617036
+      "fetchedAt": 1787728969858
     },
     "listings": [
       {
         "itemId": "336736431319",
         "title": "CGC 10 GEM MINT Erika's Clefable Gym Heroes 3/132 Holo Pokemon CardOpens in a new window or tab",
         "priceC": 25000,
-        "shippingC": 2057,
-        "landedC": 27057,
-        "url": "https://www.ebay.com/itm/336736431319?_skw=%28erikas%2Cclefable%29+%283%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=11043365863&itmmeta=01M0VWY800SKX454K3Q53PM7H7&hash=item4e670e2cd7:g:ECcAAeSwMcpqeori&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDM9USWBEeo3jyq1QG5mqwU9VNAPt4ALLEVs2vu2v1ysSaj8XtDMNlN7rt%2BGxApWlzL463t2JjnA%2B8%2B5GLnkvBKANy9Jlb5dxv9DR4plaZZkBebCY%2BpH3LjC%2FEcdxVrA0EpG0A8ih4wjiNa%2BU0A5cIXzyY3ngd2jThuSN3pZA4SPuhEH%2FTlBeSdQj3AMfCy%2FPiI%2Fzt4qN1lc20mPDOICxqtQ4y2TXZIjmuyye7JrtP0yis%2FbxCczxPneBddKU2MymlEwEyIbaBRZulAvAbnArAdNJmO9lVYZRUKI7loW9KiSQ%3D%3D%7Ctkp%3ABk9SR5iA-fyGaA",
+        "shippingC": 0,
+        "landedC": 25000,
+        "url": "https://www.ebay.com/itm/336736431319?_skw=%28erikas%2Cclefable%29+%283%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=11043365863&itmmeta=01M0YF9VMFR4HKC70X9RT031QT&hash=item4e670e2cd7:g:ECcAAeSwMcpqeori&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDM9USWBEeo3jyq1QG5mqwU9VNAPt4ALLEVs2vu2v1ysbWJl%2FKq4wGPGKNpkck4aj%2FiCYjyEkpMaWBjo6knR7eIhWge%2BGQ%2B7rKMMf7Y1WPcj9waOYPEzlIAADGj43C4CmaYHtlEUM%2FXy0ej1woGbWlEg%2FvT9SSFmYBZZh1hTTPOiZONYJaEfNG98jfFY0Sl75BFmhVKl23iI%2Fu7HJ8WRl2uXXrLAP29ENyoF%2B9Pr5nABmFcL2TI%2B8%2FOgokUrM17gRY8OayOxzJD%2B9SeYop3HL%2B%2B%2BFcl5GMEG%2Bg6uRqRn9vOPg%3D%3D%7Ctkp%3ABk9SR8y6p8-HaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ECcAAeSwMcpqeori/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787677572286
+        "lastSeen": 1787729158510
       },
       {
         "itemId": "188323905788",
         "title": "CGC 10 - Erika's Clefable - 3/132 Holo 2000 Pokemon Gym HeroesOpens in a new window or tab",
         "priceC": 35000,
-        "shippingC": 3060,
-        "landedC": 38060,
-        "url": "https://www.ebay.com/itm/188323905788?_skw=%28erikas%2Cclefable%29+%283%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=11043365863&itmmeta=01M0VWY800WJ8YJQFT7DNYTNGS&hash=item2bd8fac0fc:g:J0IAAeSwkxVp8Cgv&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDXXhX1IMwAawjjwOFQhLvbkJzgJwct47yQxEwiTsZRJgsFlrDweXvKo7k%2Fk1UL0ocGBUY8rFbTGe1xNaJfCAeCfC9yU9Td138NL%2FmOI9Ipo1l3sgd6GQLZEm9BDjaOxWppOp8sPl%2FYCJYwtAUQfpxkWXa%2Bm9ksjeOrDN9BMYbdHr%2BoSsqp68RRUUG%2Bpr0HVto0svndVrWSg5mzE2jYDS%2BKa8D0MvsXlm%2FCBM2fhRjYEuLUDaF02GXHOiSiEJpg6C9URaNkt1T4uI%2BgCzU%2FSSmPrJR4qyej1wDlyz9HMC3BAQ%3D%3D%7Ctkp%3ABk9SR5qA-fyGaA",
+        "shippingC": 500,
+        "landedC": 35500,
+        "url": "https://www.ebay.com/itm/188323905788?_skw=%28erikas%2Cclefable%29+%283%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=11043365863&itmmeta=01M0YF9ZRTV08TXCZ2R6VQ13C4&hash=item2bd8fac0fc:g:J0IAAeSwkxVp8Cgv&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDXXhX1IMwAawjjwOFQhLvbkJzgJwct47yQxEwiTsZRJnd8YaU7Uf7MV2RS3FYI94uvPTdb3FbimOGjlFVVa9q6jGPtYjhORz2O89Nm01gExBa8cV2SZa48AmuPZyv517QE4nGYPooSZBLIyRxO3gilumH5vO3DCdDtTWICIhxPuL7SE0uwvQ104y5pHO%2FWdHpvfRAtOdfGW97wOU0jbGsUjmknOkB4n4cZcnCtW%2Fq2Ct9YNlEuTQnznq1hJl3rorXlNadECrFS6TxIgj95xrvDsI4VVmVYfVyHzmKyFEwGHQ%3D%3D%7Ctkp%3ABk9SR9D8p8-HaA",
         "imageUrl": "https://i.ebayimg.com/images/g/J0IAAeSwkxVp8Cgv/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787677572286
+        "lastSeen": 1787729158510
       },
       {
         "itemId": "177972683840",
         "title": "CGC 10 GEM MINT Erika's Clefable 3/132 Holo 2000 Pokemon Gym Heroes SWIRLOpens in a new window or tab",
         "priceC": 34999,
-        "shippingC": 3149,
-        "landedC": 38148,
-        "url": "https://www.ebay.com/itm/177972683840?_skw=%28erikas%2Cclefable%29+%283%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=11043365863&itmmeta=01M0VWY800W1KFCKCNS1H382XN&hash=item296fffa440:g:8-4AAeSwETlpuzVH&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAZxEySCx4NnA8VT7bUMNN3H0eXa%2F53WLap3UyxMnrlX145dK3qy%2FFr0ZRIF%2FXonTgkDgxIKDScqnD4ailyMZogaeni7uA5G5Pp8O8vhBNastP5e%2BUIlc1ksxBYxDF8rGNaZnAYMvjCdO2%2BzIwxlLbRHYr%2F8aG870v0S%2FwQ6gtja9D50HUs9%2F8aLYGbN582%2Fc1fnDkmCtJ8cXG2tGfmUuCDeiXrVNUUmb89gs7lOYlB9YdnLdt041Ky0%2FFPi8e7FsywZm4j2XamWnMT7LA1Ug8NIsNrA2sewTR7qJZa4tYeSm%2FksjnwU%2FlpupTBxHCePS3D9AMY5Rx%2BxBe1PjhIj8Aa%7Ctkp%3ABk9SR5qA-fyGaA",
+        "shippingC": 597,
+        "landedC": 35596,
+        "url": "https://www.ebay.com/itm/177972683840?_skw=%28erikas%2Cclefable%29+%283%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=11043365863&itmmeta=01M0YF9ZRTSEQYAFJMHAWET3AX&hash=item296fffa440:g:8-4AAeSwETlpuzVH&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAZxEySCx4NnA8VT7bUMNN3H0eXa%2F53WLap3UyxMnrlX145dK3qy%2FFr0ZRIF%2FXonTgkDgxIKDScqnD4ailyMZogaeni7uA5G5Pp8O8vhBNastP5e%2BUIlc1ksxBYxDF8rGOzkKWaoseoNgUqi%2BJKtqj5AEl8MyX486oNY3HAagA9F%2BBMZCoS8b05NN87aZN%2BLnMW5E%2FTTADJ7SCtTglJP8qyy7QW3wLOcKskdoBHOA2IX6PbvHEci1LD%2BiJHNwlnR3wJsCM2IWlN1h4oSwUANmD3Mh%2BtHJL7CqkBvykLdycxmfuwxhfVPsvCymLCO9TXu3lz9wlVTUAMM1aqi82dRRqh%7Ctkp%3ABk9SR9D8p8-HaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8-4AAeSwETlpuzVH/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787677572286
+        "lastSeen": 1787729158510
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 5618318,
+          "saleDate": "2026-08-25",
+          "priceC": 2500,
+          "title": "Pokemon TCG 2000 Gym Heroes 3/132 ERIKA'S CLEFABLE Holo Unlimited PSA 4 VG-EX 3/132",
+          "url": "https://www.ebay.com/itm/237014538859?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 4,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 4663902,
           "saleDate": "2026-08-25",
@@ -1720,19 +1733,6 @@
           "gradingGrade": 9,
           "gradingDesignation": "mint",
           "agreementStatus": "match"
-        },
-        {
-          "id": 182926,
-          "saleDate": "2026-04-20",
-          "priceC": 17119,
-          "title": "CGC 10 Gem Mint Pristine 2000 Pokemon Gym Heroes #3/132 Erika's Clefable Holo 3/132",
-          "url": "https://www.ebay.com/itm/147256091899?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1817,9 +1817,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 291,
+      "englishSaleCount": 292,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787642614489
+      "lastCapturedAt": 1787728967812
     }
   }
 }

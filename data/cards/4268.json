@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 4268,
@@ -30,7 +30,7 @@
         "psa10Pop": 33,
         "cgc10Pop": 26,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 6 sales per year\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787646862991
+        "fetchedAt": 1787732200558
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -52,7 +52,7 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787646862991
+      "updatedAt": 1787732200558
     },
     "prices": {
       "variantId": 4268,
@@ -67,23 +67,23 @@
       "cgc10Pop": 26,
       "bgs10C": 148800,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 6 sales per year\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787646862991
+      "fetchedAt": 1787732200558
     },
     "listings": [
       {
         "itemId": "287541278371",
         "title": "Pokemon Dark Ariados EX Team Rocket Returns 30/109 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 99,
+        "priceC": 125,
         "shippingC": 699,
-        "landedC": 798,
-        "url": "https://www.ebay.com/itm/287541278371?_skw=%28dark%2Cariados%29+%2830%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=27043367564&itmmeta=01M0W0ZSKNVDSVD6KBRJRRZQ65&hash=item42f2cbb6a3:g:bcIAAeSwjPFqit-0&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC2LgzG9V1nUsfGgZ01oSvaWD%2Ff64hRFirqxMPAIoIYgA8arEtFZ3KgQPj6IPmIhVoVkqnDRX6TvMuISKeNJ53bCmp9ckgDznYhejtoc27aXJPhOnlPdR%2FrZJOhqoMRcOfz8gIN6wTpI3dH9%2FbGO4ZtJd8ENiXeeoqvKhf34YMV1e8NGsyqSJ348hcatzuSpnkzeQD%2BKwV3MNDZW%2F5dQaMLDzSKMK4nikMRRfa%2FdMKAWhlGHe%2FsJvn2irjbcf4L3VKdh%2FORLhossxfs4IlyP1plCD7io0d6WtLNZyOYRD%2Fj9J5XMmraYhUSRr049UqbDTE%2BgGXT2DWN5Ew8MIsNzAtC%7Ctkp%3ABk9SR6Ca_4CHaA",
+        "landedC": 824,
+        "url": "https://www.ebay.com/itm/287541278371?_skw=%28dark%2Cariados%29+%2830%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=27043367564&itmmeta=01M0YRBDJWWRD4STP99443KYAD&hash=item42f2cbb6a3:g:bcIAAeSwjPFqit-0&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC2LgzG9V1nUsfGgZ01oSvaWD%2Ff64hRFirqxMPAIoIYgA8arEtFZ3KgQPj6IPmIhVoVkqnDRX6TvMuISKeNJ53bCmp9ckgDznYhejtoc27aXJPhOnlPdR%2FrZJOhqoMRcOf8vmQ065Pu3NrQiw2XS84UXB9R0FvBx6Ufgy1f%2B%2Frk9mHT6yIyxLw9OWT0cimR%2FSR2q1wxtcyvW9ORNo9EJ5%2FINMpGoRpsVJ25qHCi7lSFljXKQh3WiY0XR15KU0aYGzqzMGTutbexlxB3ptaashsUa9bVg00zlPkRDzG%2Fz%2F4eLKY0Hl%2FupNk0x6z%2B1rpAiccWBT0A9cWyJ3lRYTqA1Di3%7Ctkp%3ABk9SR-LZrdiHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/bcIAAeSwjPFqit-0/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787559440540,
-        "lastSeen": 1787677567103
+        "lastSeen": 1787738656916
       }
     ],
     "marketHistory": {
@@ -1718,7 +1718,7 @@
       ],
       "englishSaleCount": 126,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787646861298
+      "lastCapturedAt": 1787732198634
     }
   }
 }

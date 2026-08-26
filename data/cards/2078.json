@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 2078,
@@ -30,7 +30,7 @@
         "psa10Pop": 36,
         "cgc10Pop": 11,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\"}",
-        "fetchedAt": 1787644292672
+        "fetchedAt": 1787730200639
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -52,7 +52,7 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787644292672
+      "updatedAt": 1787730200639
     },
     "prices": {
       "variantId": 2078,
@@ -67,23 +67,23 @@
       "cgc10Pop": 11,
       "bgs10C": 200700,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\"}",
-      "fetchedAt": 1787644292672
+      "fetchedAt": 1787730200639
     },
     "listings": [
       {
         "itemId": "287541278221",
         "title": "Pokemon Dark Slowbro Legendary Coll. 8/110 Holo CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 99,
+        "priceC": 650,
         "shippingC": 699,
-        "landedC": 798,
-        "url": "https://www.ebay.com/itm/287541278221?_skw=%28dark%2Cslowbro%29+%288%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=14043371842&itmmeta=01M0VYM7HFSV1K3GCYCQSKFX4Z&hash=item42f2cbb60d:g:Sg8AAeSwv9Nqit9u&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBZWuHgO%2Box%2FkiLfnhoF%2BqI56777OrnOC89%2BJH1yDHxHs%2FhtpQ4NBMkBQ7%2FbVPSq8WVaC2k6MABu3aOl4Nta%2B%2Fj7YcRAuyk70sNZECtsr8OcTmQPCHOKqYPYWbjmfaiKbfiYHvpUIYAiiSSKebC9GmdG6NDuFhlkXvyLbo%2Fnf0UpfwD9SRc%2BgTeYZFmWdd5pNz9ow8YoTvtU0iE1q6twJAmq7Y14j9tIE1f22CFZoh0A7dP%2FsFya5HoXw9UKGNaKGZF6a0ggJs82DrcB41l685w25Ieps4y9z9KLGP1x%2BGJBQ%3D%3D%7Ctkp%3ABk9SR4j50P6GaA",
+        "landedC": 1349,
+        "url": "https://www.ebay.com/itm/287541278221?_skw=%28dark%2Cslowbro%29+%288%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=14043371842&itmmeta=01M0YR62DGNSGKWG29MG81N6R9&hash=item42f2cbb60d:g:Sg8AAeSwv9Nqit9u&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAb0BijL1fKURRcVO1gdSk%2BOYmWQGag9lIOLuhthb2vN8YAVOljfrBcI1Qza7eJEkVxCiyKHyHYehYstUrhkT1v%2BwrDu1JxLix85U--b6Icb0PyrlIH%2FZSjF5%2FqJxH7Rls30%2FpwkXH2K00tEDZ8vlkHDGjFNK7g%2BI7k9bpc0mXLaILKOZKstMMM4P1ZudmBJUROVG9x7Zz4ybQgPaEJNbqqtX%2FOfHyWdtZjcpqj6MFxdtKfvLEeetF%2FCGxvGLLr%2FSgAg96IJ8ktWMoWHmleDobTaZVFnW9AbutuQvVcRUPhPzPxTXPSo43FtNte9%2B5M64XY7ZTZqV8QkJZt53GJAz6g%7Ctkp%3ABk9SR4qnmNiHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Sg8AAeSwv9Nqit9u/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787557485243,
-        "lastSeen": 1787677514144
+        "lastSeen": 1787738656916
       }
     ],
     "marketHistory": {
@@ -1713,7 +1713,7 @@
       ],
       "englishSaleCount": 173,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787644290653
+      "lastCapturedAt": 1787730199082
     }
   }
 }

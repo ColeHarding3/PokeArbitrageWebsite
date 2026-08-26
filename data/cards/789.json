@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 789,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/aafb98b0cb24607f860b5c2546ef8235f3d2cdf37d777693ae419dfd1fda91ce/1600.jpg",
       "popularityScore": 91,
       "market": {
-        "ungradedC": 2701,
-        "grade9C": 10478,
-        "grade95C": 11500,
-        "cgc10C": 32952,
-        "cgc10PristineC": 59300,
+        "ungradedC": 3005,
+        "grade9C": 10701,
+        "grade95C": 11800,
+        "cgc10C": 33000,
+        "cgc10PristineC": 59400,
         "psa10C": 100750,
         "bgs10C": 131000,
         "psa9Pop": 3456,
         "psa10Pop": 477,
         "cgc10Pop": 242,
         "salesVolumeJson": "{\"volume: 3 sales per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-        "fetchedAt": 1787642435266
+        "fetchedAt": 1787728745213
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -52,22 +52,22 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787642435266
+      "updatedAt": 1787728745213
     },
     "prices": {
       "variantId": 789,
-      "ungradedC": 2701,
-      "grade9C": 10478,
-      "grade95C": 11500,
-      "cgc10C": 32952,
-      "cgc10PristineC": 59300,
+      "ungradedC": 3005,
+      "grade9C": 10701,
+      "grade95C": 11800,
+      "cgc10C": 33000,
+      "cgc10PristineC": 59400,
       "psa10C": 100750,
       "psa9Pop": 3456,
       "psa10Pop": 477,
       "cgc10Pop": 242,
       "bgs10C": 131000,
       "salesVolumeJson": "{\"volume: 3 sales per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-      "fetchedAt": 1787642435266
+      "fetchedAt": 1787728745213
     },
     "listings": [
       {
@@ -88,6 +88,19 @@
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 5586175,
+          "saleDate": "2026-08-25",
+          "priceC": 2200,
+          "title": "Dark Gyarados 8/82 Team Rocket Prerelease Holo Rare Pokémon Card 2000 LP 8/82",
+          "url": "https://www.ebay.com/itm/158203130109?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 4631265,
           "saleDate": "2026-08-24",
@@ -1634,19 +1647,6 @@
           "gradingGrade": 8.5,
           "gradingDesignation": null,
           "agreementStatus": "mismatch"
-        },
-        {
-          "id": 152317,
-          "saleDate": "2026-06-12",
-          "priceC": 3185,
-          "title": "Dark Gyarados (Prerelease) #8 Near Mint English Prerelease",
-          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F118775%2F-&sharedId=web&subId1=completed",
-          "sourceMarketplace": "TCGPlayer",
-          "gradingStatus": "raw",
-          "gradingCompany": null,
-          "gradingGrade": null,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1726,9 +1726,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 313,
+      "englishSaleCount": 314,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787642432176
+      "lastCapturedAt": 1787728742658
     }
   }
 }

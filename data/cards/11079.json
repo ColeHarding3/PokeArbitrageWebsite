@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 11079,
@@ -19,9 +19,9 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/9cad11e59226ba8c8d78ede23d0145356f7cf006f208ce6ceddb5d604690090b/1600.jpg",
       "popularityScore": 82,
       "market": {
-        "ungradedC": 90112,
-        "grade9C": 276147,
-        "grade95C": 303800,
+        "ungradedC": 88556,
+        "grade9C": 275908,
+        "grade95C": 303500,
         "cgc10C": 308061,
         "cgc10PristineC": 554500,
         "psa10C": 1922132,
@@ -30,119 +30,77 @@
         "psa10Pop": 74,
         "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787647772297
+        "fetchedAt": 1787733078756
       },
       "bestCgc10": {
         "itemId": "267733886004",
         "title": "2006 Pokémon Registeel Gold Star Holo EX Legend Maker #92 CGC 10 *SWIRL*Opens in a new window or tab",
         "priceC": 399999,
-        "shippingC": 1060,
-        "landedC": 401059,
-        "url": "https://www.ebay.com/itm/267733886004?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0W1V2DM3RDRCZAA1BX5DKWZ&hash=item3e562ee434:g:QRwAAeSw-4NqXs94&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB6vGS2DrR8l%2FsLEdTCHr3WpE7v94K8z8%2Fm6qvUTh3k05bE6UxahhzLu%2BLkLespyCYiGLamxFw2YuQuFn13H8AULGWrhT%2F7Gq41CsrbheF%2B007G%2FcUO92j%2FndkBBcIt3w4osk%2Fa%2FVoQDesQMTBkEGUc1%2Fkwe5kSfd6LM1F%2Bm8jjIeKc319GZLNxLBg70KaKCdwDFGl%2BuBeZ27oR4EEBPLIz%2BFtfwEVYKhrBGTrDzHebFZ0xc%2FSDMnvepYH%2BJlDpU0hwDtMMmxVSsAI5%2Fol9P1%2FfunnrPCqBwx8Obeq9pJz%2FrQ%3D%3D%7Ctkp%3ABk9SR6an7IGHaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/267733886004?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0YK602F8727STMTH00T82XM&hash=item3e562ee434:g:QRwAAeSw-4NqXs94&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB2QqEAv2g5UXU9KrLrAuHjnD86u2nEKERy9oEAR2lCr9c2K8QehLs9LlfzhusXKF44ElDmzn4yuVN8zz75OVWqdojVCk0BoJuUfWhTbn9ZkP%2F6iEFWqgVXFRkHL3XmAKg2ZdoGxA1u8HR%2F1eHQmhb3YSijc2IT1sH3gk5n7SDKMaR%2F0VoTe2H8feA44JEdZmt2LQp7tlVkDynFE0IyP%2B4dvpgqCoyaZsmNrsBFqfPhBtNuyfJcBpTG3VnKjlf4duOaauSLRRqfHtamRgbfUW4z7dMf4dBWbq36BKrnuY84prZF2ms1n1soVBgkbk1cXqTcQmY3TVvepjYqIPZ7GMwS%7Ctkp%3ABk9SR7iBmNOHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/QRwAAeSw-4NqXs94/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787677544402
+        "lastSeen": 1787733204776
       },
-      "bestPsa10": {
-        "itemId": "358659554196",
-        "title": "2006 Pokemon Registeel Star Gold Star Holo EX Legend Maker 92/92 PSA 10Opens in a new window or tab",
-        "priceC": 2500000,
-        "shippingC": 540,
-        "landedC": 2500540,
-        "url": "https://www.ebay.com/itm/358659554196?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0W1V2DNSNH1C45CYQJK734Y&hash=item5381c67b94:g:L3IAAeSw2dNqI32a&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xADMJUQXVdDD7D01qYrI7cdMPJXNQhpubDVG8%2B4zaZwtrglwNtfmNu3NZ%2FMkJnNjSTPHRRdFCL3QTNhdxTZWUCD3MO4zE3qp%2Bw7aBs0i3BNTQ26dRwfPUrqqRRzdiSpjvHvEHibIUwuYjvwXkygARUbd%2BA5C4jAHqq2xHo3Z9agyceAJRvjuBQA5EIGEF%2BzFrwr9rlwzrEV2eumHVV%2FeTa0lltNWnMf%2Bk2ZVKm5X1oZT8boqtKyu425k44geYWiItWsCG8aG7MvK%2FDOz3afN9XcGxFVMwqcpcMFiZtqH%2FetR%2Fkdv484Ur3LzCGgjkBfMY5YSUAv%2BojkYqVQVYYmKRx%2F%7Ctkp%3ABk9SR6an7IGHaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/L3IAAeSw2dNqI32a/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787216884103,
-        "lastSeen": 1787677544402
-      },
+      "bestPsa10": null,
       "bestPsa9": {
         "itemId": "374372020872",
         "title": "Ex Legend Maker Gold Star Registeel 92/92 2006 Holo Pokemon PSA 9 MINTOpens in a new window or tab",
         "priceC": 3000000,
-        "shippingC": 0,
-        "landedC": 3000000,
-        "url": "https://www.ebay.com/itm/374372020872?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0W1V2DNVGV5QCNWBRJCSWX6&hash=item572a4fb288:g:ok4AAOSwy6Vjf81K&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB3m%2BzzMdXoJjPvGiOcIaFbqWipk2TCEjzHRGZnzFgOeiaKMseFHzV3FbPTmVb1YmbKosnJnLEV%2BASPU8GYb7PT7muprxXAogxlN4Yt%2FWbbCQJvwNKsArnhoiJ039fB30LpFknxN4brYFIuCHV5Catn7Hnu9fK7pZ0EtFqGF%2FWPYs3DFDd%2FgHoXZ%2FISHXL0W53gu9zgUbFv8yzcW7rc8Yt1JiPtNlTgRcOFB39R%2BXzrAWtR%2FDqgos%2BUNBK3w1XhOWX%2F0mlolN64n80OgttB%2BVCGP0ihWpwWSZA%2B0P3rf9b0D3roCngd8Fgmcw%2FQG0VIh3Qdw7yQVLV4g6P59zhQcDtW%7Ctkp%3ABk9SR6an7IGHaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/374372020872?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0YK602F7ZC4ZM7PFPS6YGFT&hash=item572a4fb288:g:ok4AAOSwy6Vjf81K&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB5VfqsbZRJm%2FBKAy0maSLpMY%2BG7ZEPiFSG%2BsC2oPcqCmCjBk7HUwGDqKH2QgnDqhUB6TEoA8MhB3XjsLlIohAM71lDzZXDrygNzcIB0BwRrOZCuEObBvEdtc4J5xoRWyhAom7jUtnlH9FBTkmZOkr92lHOI13B%2BAi9d%2BxbYSAlxMPB%2FEeugS6rj470EsWgRSWR9yjOdvcqpq8%2F%2BovhtWgOlMQ8yGlR3rnazC5YZGr1TP%2FlVO2M%2B4JrtrsoN3P4eP54ItIWXuTOGYE4AY01ZATDQWlH0QcbTBcG1LDO%2F8FJww%3D%3D%7Ctkp%3ABk9SR7iBmNOHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ok4AAOSwy6Vjf81K/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787677544402
+        "lastSeen": 1787733204776
       },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 1,
+        "psa10Bin": 0,
         "psa10Auction": 0,
         "psa9Bin": 1
       },
-      "ratio": {
-        "ok": true,
-        "tier": {
-          "id": "premium1",
-          "label": "Premium 1",
-          "feeC": 99900,
-          "declaredValueCapC": 2500000,
-          "turnaroundBizDays": 7
-        },
-        "cgc10CostC": 401059,
-        "submissionFeeC": 99900,
-        "totalCostC": 500959,
-        "psa10ValueC": 1922132,
-        "ratio": 3.8369048165618342
-      },
+      "ratio": null,
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "267733886004",
           "title": "2006 Pokémon Registeel Gold Star Holo EX Legend Maker #92 CGC 10 *SWIRL*Opens in a new window or tab",
           "priceC": 399999,
-          "shippingC": 1060,
-          "landedC": 401059,
-          "url": "https://www.ebay.com/itm/267733886004?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0W1V2DM3RDRCZAA1BX5DKWZ&hash=item3e562ee434:g:QRwAAeSw-4NqXs94&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB6vGS2DrR8l%2FsLEdTCHr3WpE7v94K8z8%2Fm6qvUTh3k05bE6UxahhzLu%2BLkLespyCYiGLamxFw2YuQuFn13H8AULGWrhT%2F7Gq41CsrbheF%2B007G%2FcUO92j%2FndkBBcIt3w4osk%2Fa%2FVoQDesQMTBkEGUc1%2Fkwe5kSfd6LM1F%2Bm8jjIeKc319GZLNxLBg70KaKCdwDFGl%2BuBeZ27oR4EEBPLIz%2BFtfwEVYKhrBGTrDzHebFZ0xc%2FSDMnvepYH%2BJlDpU0hwDtMMmxVSsAI5%2Fol9P1%2FfunnrPCqBwx8Obeq9pJz%2FrQ%3D%3D%7Ctkp%3ABk9SR6an7IGHaA",
+          "shippingC": null,
+          "landedC": null,
+          "url": "https://www.ebay.com/itm/267733886004?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0YK602F8727STMTH00T82XM&hash=item3e562ee434:g:QRwAAeSw-4NqXs94&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB2QqEAv2g5UXU9KrLrAuHjnD86u2nEKERy9oEAR2lCr9c2K8QehLs9LlfzhusXKF44ElDmzn4yuVN8zz75OVWqdojVCk0BoJuUfWhTbn9ZkP%2F6iEFWqgVXFRkHL3XmAKg2ZdoGxA1u8HR%2F1eHQmhb3YSijc2IT1sH3gk5n7SDKMaR%2F0VoTe2H8feA44JEdZmt2LQp7tlVkDynFE0IyP%2B4dvpgqCoyaZsmNrsBFqfPhBtNuyfJcBpTG3VnKjlf4duOaauSLRRqfHtamRgbfUW4z7dMf4dBWbq36BKrnuY84prZF2ms1n1soVBgkbk1cXqTcQmY3TVvepjYqIPZ7GMwS%7Ctkp%3ABk9SR7iBmNOHaA",
           "imageUrl": "https://i.ebayimg.com/images/g/QRwAAeSw-4NqXs94/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787216884103,
-          "lastSeen": 1787677544402
+          "lastSeen": 1787733204776
         },
         "cgc10Bin": 2,
         "cgc10Auction": 0,
-        "ratio": {
-          "ok": true,
-          "tier": {
-            "id": "premium1",
-            "label": "Premium 1",
-            "feeC": 99900,
-            "declaredValueCapC": 2500000,
-            "turnaroundBizDays": 7
-          },
-          "cgc10CostC": 401059,
-          "submissionFeeC": 99900,
-          "totalCostC": 500959,
-          "psa10ValueC": 1922132,
-          "ratio": 3.8369048165618342
-        },
+        "ratio": null,
         "firstOpportunityAt": 1787216884103
       },
       "firstOpportunityAt": 1787216884103,
-      "updatedAt": 1787677544402
+      "updatedAt": 1787733204776
     },
     "prices": {
       "variantId": 11079,
-      "ungradedC": 90112,
-      "grade9C": 276147,
-      "grade95C": 303800,
+      "ungradedC": 88556,
+      "grade9C": 275908,
+      "grade95C": 303500,
       "cgc10C": 308061,
       "cgc10PristineC": 554500,
       "psa10C": 1922132,
@@ -151,68 +109,53 @@
       "cgc10Pop": null,
       "bgs10C": 2498800,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787647772297
+      "fetchedAt": 1787733078756
     },
     "listings": [
       {
         "itemId": "267733886004",
         "title": "2006 Pokémon Registeel Gold Star Holo EX Legend Maker #92 CGC 10 *SWIRL*Opens in a new window or tab",
         "priceC": 399999,
-        "shippingC": 1060,
-        "landedC": 401059,
-        "url": "https://www.ebay.com/itm/267733886004?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0W1V2DM3RDRCZAA1BX5DKWZ&hash=item3e562ee434:g:QRwAAeSw-4NqXs94&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB6vGS2DrR8l%2FsLEdTCHr3WpE7v94K8z8%2Fm6qvUTh3k05bE6UxahhzLu%2BLkLespyCYiGLamxFw2YuQuFn13H8AULGWrhT%2F7Gq41CsrbheF%2B007G%2FcUO92j%2FndkBBcIt3w4osk%2Fa%2FVoQDesQMTBkEGUc1%2Fkwe5kSfd6LM1F%2Bm8jjIeKc319GZLNxLBg70KaKCdwDFGl%2BuBeZ27oR4EEBPLIz%2BFtfwEVYKhrBGTrDzHebFZ0xc%2FSDMnvepYH%2BJlDpU0hwDtMMmxVSsAI5%2Fol9P1%2FfunnrPCqBwx8Obeq9pJz%2FrQ%3D%3D%7Ctkp%3ABk9SR6an7IGHaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/267733886004?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0YK602F8727STMTH00T82XM&hash=item3e562ee434:g:QRwAAeSw-4NqXs94&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB2QqEAv2g5UXU9KrLrAuHjnD86u2nEKERy9oEAR2lCr9c2K8QehLs9LlfzhusXKF44ElDmzn4yuVN8zz75OVWqdojVCk0BoJuUfWhTbn9ZkP%2F6iEFWqgVXFRkHL3XmAKg2ZdoGxA1u8HR%2F1eHQmhb3YSijc2IT1sH3gk5n7SDKMaR%2F0VoTe2H8feA44JEdZmt2LQp7tlVkDynFE0IyP%2B4dvpgqCoyaZsmNrsBFqfPhBtNuyfJcBpTG3VnKjlf4duOaauSLRRqfHtamRgbfUW4z7dMf4dBWbq36BKrnuY84prZF2ms1n1soVBgkbk1cXqTcQmY3TVvepjYqIPZ7GMwS%7Ctkp%3ABk9SR7iBmNOHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/QRwAAeSw-4NqXs94/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787677544402
+        "lastSeen": 1787733204776
       },
       {
         "itemId": "366596073979",
         "title": "2006 Pokemon EX Legend Maker Registeel Gold Star #92/92 Holo CGC 10 Gem MintOpens in a new window or tab",
         "priceC": 799999,
-        "shippingC": 4999,
-        "landedC": 804998,
-        "url": "https://www.ebay.com/itm/366596073979?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0W1V2DNV36K9G4VDBP5XC2W&hash=item555ad429fb:g:1UQAAeSwXyBqeTwr&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDD4lklqEzCUIfd46GGXGlIEdAbCmXDeFAz3NcEkIXGE24Ol3yhZ2yFSQtWDR8vvhldCO8MoeMs6lzRcwNIHG%2Fy%2BOjXhS7B%2B4zemLLy4cPOV1oOQZDgGJoRSs9CfmnBaodOywkl%2B07pYTHCjhk6KqQU7rUa7eGrOv%2FNYbKS5Dsdjq3y6CkFQcCEY%2BqyNhdnk4o8%2BmIZINMYBrzaw8oTlFB5U0D0R9YXcSPdq7H%2FllKjfOpYhN5S6%2FwH4oH2yDMjjna9Wc%2BM%2Bu9e3MTkYTDkxqYg9UF2w%2FF3FsEmmzqdoDDdQmIwAdB%2F4i4P5eoIz7toJDGRvXuHg13QDtsRVP0YtMe1%7Ctkp%3ABk9SR6an7IGHaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/366596073979?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0YK602F5JAVXSJZPP4EMEBR&hash=item555ad429fb:g:1UQAAeSwXyBqeTwr&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDD4lklqEzCUIfd46GGXGlIEdAbCmXDeFAz3NcEkIXGE24Ol3yhZ2yFSQtWDR8vvhldCO8MoeMs6lzRcwNIHG%2Fy%2BOjXhS7B%2B4zemLLy4cPOV1oOQZDgGJoRSs9CfmnBaocMif2%2FZj7PhW9nWrZuNXsELcgC3FuyiYYeiq%2FR72Hg83BY5Rq4mtydKm%2FCdp0WAbKAzqNPWwltHNWoQe%2FLU%2BDEEfXj4Lys3zZD%2FXiqQhADzCxqBD09%2F2n8UqrKqRyMvmqC9Ep3SIUjuZxuZbp%2FS9GTd%2Bd6jKmMESwtErDNpwtZFqrtV1muOBaFohe8cqrtyylKqf%2BOqkJC6W%2FcET4iU%2FGd%7Ctkp%3ABk9SR7iBmNOHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/1UQAAeSwXyBqeTwr/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787677544402
-      },
-      {
-        "itemId": "358659554196",
-        "title": "2006 Pokemon Registeel Star Gold Star Holo EX Legend Maker 92/92 PSA 10Opens in a new window or tab",
-        "priceC": 2500000,
-        "shippingC": 540,
-        "landedC": 2500540,
-        "url": "https://www.ebay.com/itm/358659554196?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0W1V2DNSNH1C45CYQJK734Y&hash=item5381c67b94:g:L3IAAeSw2dNqI32a&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xADMJUQXVdDD7D01qYrI7cdMPJXNQhpubDVG8%2B4zaZwtrglwNtfmNu3NZ%2FMkJnNjSTPHRRdFCL3QTNhdxTZWUCD3MO4zE3qp%2Bw7aBs0i3BNTQ26dRwfPUrqqRRzdiSpjvHvEHibIUwuYjvwXkygARUbd%2BA5C4jAHqq2xHo3Z9agyceAJRvjuBQA5EIGEF%2BzFrwr9rlwzrEV2eumHVV%2FeTa0lltNWnMf%2Bk2ZVKm5X1oZT8boqtKyu425k44geYWiItWsCG8aG7MvK%2FDOz3afN9XcGxFVMwqcpcMFiZtqH%2FetR%2Fkdv484Ur3LzCGgjkBfMY5YSUAv%2BojkYqVQVYYmKRx%2F%7Ctkp%3ABk9SR6an7IGHaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/L3IAAeSw2dNqI32a/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787216884103,
-        "lastSeen": 1787677544402
+        "lastSeen": 1787733204776
       },
       {
         "itemId": "374372020872",
         "title": "Ex Legend Maker Gold Star Registeel 92/92 2006 Holo Pokemon PSA 9 MINTOpens in a new window or tab",
         "priceC": 3000000,
-        "shippingC": 0,
-        "landedC": 3000000,
-        "url": "https://www.ebay.com/itm/374372020872?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0W1V2DNVGV5QCNWBRJCSWX6&hash=item572a4fb288:g:ok4AAOSwy6Vjf81K&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB3m%2BzzMdXoJjPvGiOcIaFbqWipk2TCEjzHRGZnzFgOeiaKMseFHzV3FbPTmVb1YmbKosnJnLEV%2BASPU8GYb7PT7muprxXAogxlN4Yt%2FWbbCQJvwNKsArnhoiJ039fB30LpFknxN4brYFIuCHV5Catn7Hnu9fK7pZ0EtFqGF%2FWPYs3DFDd%2FgHoXZ%2FISHXL0W53gu9zgUbFv8yzcW7rc8Yt1JiPtNlTgRcOFB39R%2BXzrAWtR%2FDqgos%2BUNBK3w1XhOWX%2F0mlolN64n80OgttB%2BVCGP0ihWpwWSZA%2B0P3rf9b0D3roCngd8Fgmcw%2FQG0VIh3Qdw7yQVLV4g6P59zhQcDtW%7Ctkp%3ABk9SR6an7IGHaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/374372020872?_skw=%28registeel%2Cgold%2Cstar%29+%2892%2Clegend%2Cmaker%29+%28CGC%2CPSA%29&epid=24043367038&itmmeta=01M0YK602F7ZC4ZM7PFPS6YGFT&hash=item572a4fb288:g:ok4AAOSwy6Vjf81K&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB5VfqsbZRJm%2FBKAy0maSLpMY%2BG7ZEPiFSG%2BsC2oPcqCmCjBk7HUwGDqKH2QgnDqhUB6TEoA8MhB3XjsLlIohAM71lDzZXDrygNzcIB0BwRrOZCuEObBvEdtc4J5xoRWyhAom7jUtnlH9FBTkmZOkr92lHOI13B%2BAi9d%2BxbYSAlxMPB%2FEeugS6rj470EsWgRSWR9yjOdvcqpq8%2F%2BovhtWgOlMQ8yGlR3rnazC5YZGr1TP%2FlVO2M%2B4JrtrsoN3P4eP54ItIWXuTOGYE4AY01ZATDQWlH0QcbTBcG1LDO%2F8FJww%3D%3D%7Ctkp%3ABk9SR7iBmNOHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ok4AAOSwy6Vjf81K/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787216884103,
-        "lastSeen": 1787677544402
+        "lastSeen": 1787733204776
       }
     ],
     "marketHistory": {
@@ -1862,7 +1805,7 @@
       ],
       "englishSaleCount": 282,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787647770041
+      "lastCapturedAt": 1787733076757
     }
   }
 }

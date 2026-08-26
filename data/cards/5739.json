@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 5739,
@@ -22,15 +22,15 @@
         "ungradedC": 5100,
         "grade9C": 25000,
         "grade95C": 35500,
-        "cgc10C": 18645,
-        "cgc10PristineC": 28752,
-        "psa10C": 250512,
-        "bgs10C": 325700,
+        "cgc10C": 18624,
+        "cgc10PristineC": 28108,
+        "psa10C": 248759,
+        "bgs10C": 323400,
         "psa9Pop": 80,
         "psa10Pop": 18,
         "cgc10Pop": 11,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 5 sales per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787648482769
+        "fetchedAt": 1787733710752
       },
       "bestCgc10": {
         "itemId": "327277014110",
@@ -38,14 +38,14 @@
         "priceC": 49900,
         "shippingC": 0,
         "landedC": 49900,
-        "url": "https://www.ebay.com/itm/327277014110?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=2314420147&itmmeta=01M0W2HPMAX7DEHH5TAQCNY2N1&hash=item4c333aec5e:g:jJoAAeSwv99qY9~O&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBm8Sb7EDQpbkt8imI3Q69Cs0xr02fQC8mRULMVTw5Yguwi0PnxhWDZhMIpevOv4%2F3YfaLENmAHCI4ZZxC%2FYwfv1DyWHB4MEN82wElOMdaDx80jlxHtLnTDogC4ykMWA%2BxkByBy4cV2r2OpqoUqvU7oKvMFETGLLxnV9SApQtUT4Rz6FIYz4gYWZAyJCXeLzm%2FsoX3cCw1HSKqLPdIfIrU7%2FioSFVzcsvv7tbSfhuV2mzrfkNHWwzjDM1ExrU7PyKK1qJa4UVYFpAyjP2RS2OPgwjCwmnRV5KLcdrJ9mjsF8A%3D%3D%7Ctkp%3ABk9SR8DqxoKHaA",
+        "url": "https://www.ebay.com/itm/327277014110?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=2314420147&itmmeta=01M0YKTK0CV20T94T2FRWZ28P6&hash=item4c333aec5e:g:jJoAAeSwv99qY9~O&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBm8Sb7EDQpbkt8imI3Q69Cs0xr02fQC8mRULMVTw5Ygup6zB6zLUXovIDns8PJ5lpR5zSbb4DGcBtBgFjp2tNWcyLYbeyFOpH%2FuDdNSkG2NtXpDsBXZzJyqE%2BiKBiBTdk%2BDyrxnY9Fjx2jW7OnDsgCLSmL3FmEhtfAKWji%2BxYxV7y1frjK1xwh4vveG8MImp3yAWVg4JcCWzgSoGAXXpivrRIgzoEavbnWLIRvlHL5xY6ihdd5O%2BWibCjf2tnMDUGcimnj3XJ5w9bBYzeBN3k7uwGzw8o3rVmL5eGVs%2B%2Fr6A%3D%3D%7Ctkp%3ABk9SR9Cw6tOHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/jJoAAeSwv99qY9~O/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787677552393
+        "lastSeen": 1787734001316
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -60,17 +60,17 @@
       "ratio": {
         "ok": true,
         "tier": {
-          "id": "superExpress",
-          "label": "Super Express",
-          "feeC": 34900,
-          "declaredValueCapC": 500000,
-          "turnaroundBizDays": 15
+          "id": "express",
+          "label": "Express",
+          "feeC": 14900,
+          "declaredValueCapC": 250000,
+          "turnaroundBizDays": 30
         },
         "cgc10CostC": 49900,
-        "submissionFeeC": 34900,
-        "totalCostC": 84800,
-        "psa10ValueC": 250512,
-        "ratio": 2.9541509433962263
+        "submissionFeeC": 14900,
+        "totalCostC": 64800,
+        "psa10ValueC": 248759,
+        "ratio": 3.8388734567901235
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -79,51 +79,51 @@
           "priceC": 49900,
           "shippingC": 0,
           "landedC": 49900,
-          "url": "https://www.ebay.com/itm/327277014110?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=2314420147&itmmeta=01M0W2HPMAX7DEHH5TAQCNY2N1&hash=item4c333aec5e:g:jJoAAeSwv99qY9~O&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBm8Sb7EDQpbkt8imI3Q69Cs0xr02fQC8mRULMVTw5Yguwi0PnxhWDZhMIpevOv4%2F3YfaLENmAHCI4ZZxC%2FYwfv1DyWHB4MEN82wElOMdaDx80jlxHtLnTDogC4ykMWA%2BxkByBy4cV2r2OpqoUqvU7oKvMFETGLLxnV9SApQtUT4Rz6FIYz4gYWZAyJCXeLzm%2FsoX3cCw1HSKqLPdIfIrU7%2FioSFVzcsvv7tbSfhuV2mzrfkNHWwzjDM1ExrU7PyKK1qJa4UVYFpAyjP2RS2OPgwjCwmnRV5KLcdrJ9mjsF8A%3D%3D%7Ctkp%3ABk9SR8DqxoKHaA",
+          "url": "https://www.ebay.com/itm/327277014110?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=2314420147&itmmeta=01M0YKTK0CV20T94T2FRWZ28P6&hash=item4c333aec5e:g:jJoAAeSwv99qY9~O&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBm8Sb7EDQpbkt8imI3Q69Cs0xr02fQC8mRULMVTw5Ygup6zB6zLUXovIDns8PJ5lpR5zSbb4DGcBtBgFjp2tNWcyLYbeyFOpH%2FuDdNSkG2NtXpDsBXZzJyqE%2BiKBiBTdk%2BDyrxnY9Fjx2jW7OnDsgCLSmL3FmEhtfAKWji%2BxYxV7y1frjK1xwh4vveG8MImp3yAWVg4JcCWzgSoGAXXpivrRIgzoEavbnWLIRvlHL5xY6ihdd5O%2BWibCjf2tnMDUGcimnj3XJ5w9bBYzeBN3k7uwGzw8o3rVmL5eGVs%2B%2Fr6A%3D%3D%7Ctkp%3ABk9SR9Cw6tOHaA",
           "imageUrl": "https://i.ebayimg.com/images/g/jJoAAeSwv99qY9~O/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787218759794,
-          "lastSeen": 1787677552393
+          "lastSeen": 1787734001316
         },
         "cgc10Bin": 2,
         "cgc10Auction": 0,
         "ratio": {
           "ok": true,
           "tier": {
-            "id": "superExpress",
-            "label": "Super Express",
-            "feeC": 34900,
-            "declaredValueCapC": 500000,
-            "turnaroundBizDays": 15
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
           },
           "cgc10CostC": 49900,
-          "submissionFeeC": 34900,
-          "totalCostC": 84800,
-          "psa10ValueC": 250512,
-          "ratio": 2.9541509433962263
+          "submissionFeeC": 14900,
+          "totalCostC": 64800,
+          "psa10ValueC": 248759,
+          "ratio": 3.8388734567901235
         },
         "firstOpportunityAt": 1787218759794
       },
       "firstOpportunityAt": 1787218759794,
-      "updatedAt": 1787677552393
+      "updatedAt": 1787734001316
     },
     "prices": {
       "variantId": 5739,
       "ungradedC": 5100,
       "grade9C": 25000,
       "grade95C": 35500,
-      "cgc10C": 18645,
-      "cgc10PristineC": 28752,
-      "psa10C": 250512,
+      "cgc10C": 18624,
+      "cgc10PristineC": 28108,
+      "psa10C": 248759,
       "psa9Pop": 80,
       "psa10Pop": 18,
       "cgc10Pop": 11,
-      "bgs10C": 325700,
+      "bgs10C": 323400,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 5 sales per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787648482769
+      "fetchedAt": 1787733710752
     },
     "listings": [
       {
@@ -132,14 +132,14 @@
         "priceC": 49900,
         "shippingC": 0,
         "landedC": 49900,
-        "url": "https://www.ebay.com/itm/327277014110?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=2314420147&itmmeta=01M0W2HPMAX7DEHH5TAQCNY2N1&hash=item4c333aec5e:g:jJoAAeSwv99qY9~O&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBm8Sb7EDQpbkt8imI3Q69Cs0xr02fQC8mRULMVTw5Yguwi0PnxhWDZhMIpevOv4%2F3YfaLENmAHCI4ZZxC%2FYwfv1DyWHB4MEN82wElOMdaDx80jlxHtLnTDogC4ykMWA%2BxkByBy4cV2r2OpqoUqvU7oKvMFETGLLxnV9SApQtUT4Rz6FIYz4gYWZAyJCXeLzm%2FsoX3cCw1HSKqLPdIfIrU7%2FioSFVzcsvv7tbSfhuV2mzrfkNHWwzjDM1ExrU7PyKK1qJa4UVYFpAyjP2RS2OPgwjCwmnRV5KLcdrJ9mjsF8A%3D%3D%7Ctkp%3ABk9SR8DqxoKHaA",
+        "url": "https://www.ebay.com/itm/327277014110?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=2314420147&itmmeta=01M0YKTK0CV20T94T2FRWZ28P6&hash=item4c333aec5e:g:jJoAAeSwv99qY9~O&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBm8Sb7EDQpbkt8imI3Q69Cs0xr02fQC8mRULMVTw5Ygup6zB6zLUXovIDns8PJ5lpR5zSbb4DGcBtBgFjp2tNWcyLYbeyFOpH%2FuDdNSkG2NtXpDsBXZzJyqE%2BiKBiBTdk%2BDyrxnY9Fjx2jW7OnDsgCLSmL3FmEhtfAKWji%2BxYxV7y1frjK1xwh4vveG8MImp3yAWVg4JcCWzgSoGAXXpivrRIgzoEavbnWLIRvlHL5xY6ihdd5O%2BWibCjf2tnMDUGcimnj3XJ5w9bBYzeBN3k7uwGzw8o3rVmL5eGVs%2B%2Fr6A%3D%3D%7Ctkp%3ABk9SR9Cw6tOHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/jJoAAeSwv99qY9~O/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787677552393
+        "lastSeen": 1787734001316
       },
       {
         "itemId": "358340902414",
@@ -147,18 +147,31 @@
         "priceC": 99995,
         "shippingC": 0,
         "landedC": 99995,
-        "url": "https://www.ebay.com/itm/358340902414?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=2314420147&itmmeta=01M0W2HPMDNCNR9JB73WJH8BF3&hash=item536ec83e0e:g:HO8AAeSwUoRpuPSH&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD0MqGG1xUIp822GPAr3ER1hTA9jIvXdS%2BeDqfphdOsRRWy0cD4o7p15Codc6xOEcSJZQ8P9867HnAFcCeDBGiYwoZPgYedEPK4Gmfx9bTxP6T7unPw%2F0F12zhKciVm38nE8hssaIoUWCGIO0jjMeyk19gFvCZZ7tYb1k7gU2gE0ATkxL8iiG0NBYJahZVpu1T0HZBiZE1EfUP613JjyZ%2FfvdwP4urIScH3JbsbMgAwvP46LauMcT0mb1zwqFSLmdu51PMFsN9W3MgOegsVIgCdbYijICyGndTk91y5hwIxrw%3D%3D%7Ctkp%3ABk9SR8bqxoKHaA",
+        "url": "https://www.ebay.com/itm/358340902414?_skw=%28dragonair%2Cdelta%29+%2828%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=2314420147&itmmeta=01M0YKTK0FHAE50RGQ8YGPK873&hash=item536ec83e0e:g:HO8AAeSwUoRpuPSH&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBKCuozDA8CKlMtekMu%2BDImvt52WAUdblaZXIvjlq1EZ%2BOgEQ1g4TGM05HGvdXn8JtVjxmLFATG%2BjjkEUwwG39jsL0j5FEi85rqr10%2FtIMfSOTA1wOLnl6gD%2F4LCrNOdiFJEWRxHOPBQc%2BpuTx8ofP0IU338XFfcYGBEPjYJFQ1hQkGq2tvknz7PFUb4MTnPHLdp7NVgeBgzCrap%2FL8Te5%2BS%2FyywVZyC7%2BL1bklt9gC%2BqPxa2e3b8c6ZJjcM7K6t3KPslvthXiX7DLqteojQ%2B2r%2B4UmxlDggMLs%2B%2FmkE1YT%2FkP9PNZX5%2F8ywn173c6XSb3h43OqlGZ7hGzt6cnpEa6m%7Ctkp%3ABk9SR9aw6tOHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HO8AAeSwUoRpuPSH/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787677552393
+        "lastSeen": 1787734001316
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 6134607,
+          "saleDate": "2026-08-25",
+          "priceC": 6200,
+          "title": "Pokémon TCG Dragonair 28/101 Dragon Frontiers Delta Reverse Holo Stamped 28/101",
+          "url": "https://www.ebay.com/itm/820016491316?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 1478276,
           "saleDate": "2026-08-18",
@@ -403,6 +416,19 @@
           "gradingStatus": "graded",
           "gradingCompany": "PSA",
           "gradingGrade": 1,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 6134709,
+          "saleDate": "2026-06-27",
+          "priceC": 15000,
+          "title": "2006 POKEMON EX DRAGON FRONTIERS #28 DRAGONAIR-REVERSE FOIL PSA 6 #28",
+          "url": "https://www.ebay.com/itm/117210553366?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 6,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1619,9 +1645,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 109,
+      "englishSaleCount": 111,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787648481091
+      "lastCapturedAt": 1787733709169
     }
   }
 }

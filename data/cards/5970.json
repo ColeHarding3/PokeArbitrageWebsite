@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 5970,
@@ -30,7 +30,7 @@
         "psa10Pop": 5,
         "cgc10Pop": 6,
         "salesVolumeJson": "{}",
-        "fetchedAt": 1787648845059
+        "fetchedAt": 1787734066835
       },
       "bestCgc10": {
         "itemId": "206119502111",
@@ -38,24 +38,38 @@
         "priceC": 28499,
         "shippingC": 805,
         "landedC": 29304,
-        "url": "https://www.ebay.com/itm/206119502111?_skw=%28snorunt%29+%2864%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=19043376289&itmmeta=01M0W2V4PB0YN7D46YVG011742&hash=item2ffdae011f:g:lU8AAeSwR09prRYe&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xB2DIMyr4JXqH4VLBnNYRkVbRrCtCV4s0%2F9zhDz7hH%2B4ybJMAcopbNLZJJpzhqhTGToRqvDMLxU3hp9K6mryBNn2Lcy92NITFg8GtTvOQXwkoQaDjKEhSCtK%2Fbm7C%2FFDD3eRk2R6ccHK%2BSM4firi%2FKUaycLDrbDCZhKPfhiOlASseVn5dS2TqAH7C%2FIGWuPhauLL0aZhq%2FEGKi35%2FPpjyiFBJmRHHwUTIbXUTPqw3mNL%2Fy8NktoAzm2hurPlvpNc2AeivnOXAdjIMs70Eumfvls%7Ctkp%3ABk9SR7jL7IKHaA",
+        "url": "https://www.ebay.com/itm/206119502111?_skw=%28snorunt%29+%2864%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=19043376289&itmmeta=01M0YM3QBPVH7AYH4MYR278VCS&hash=item2ffdae011f:g:lU8AAeSwR09prRYe&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAOQ951W80p%2BzF3SuO%2Bj62fkyI7E8ak93hXffQ7M7F0c7ekU9s5ElVPZZboqqcih%2BsjWTykuDtD8OjCyw7vD8wtcG%2FA54UK4yBbbS4AIy9P1FeuxS3PrUy1tNqr2uXTqpnOOKgPVKF41rO2b6VQNusr9Ks7AI0NHarAQDVAHiyXnFUqCd5HiDTiilYgOrqCGgceR%2FxV9C7HQoakTEykwAu--VBcFwJDL0RRL0irzwQBfCAqFLSvyUUR8fLIY2NEXJ4t%2FN9AivCzgpXL50E3Fumyke6X6tisSVZ0ANGNjRSdsdUJymWVSJn6b1AdqkTUBy4%3D%7Ctkp%3ABk9SR4b2jtSHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/lU8AAeSwR09prRYe/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
-        "lastSeen": 1787677557971
+        "lastSeen": 1787734145186
       },
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "298607525116",
+        "title": "2005 POKEMON EX EMERALD #64 SNORUNT-REVERSE FOIL PSA 9Opens in a new window or tab",
+        "priceC": 49500,
+        "shippingC": 599,
+        "landedC": 50099,
+        "url": "https://www.ebay.com/itm/298607525116?_skw=%28snorunt%29+%2864%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=9043370792&itmmeta=01M0YM3QBQKAHVGM1W7GRHS9B5&hash=item4586653cfc:g:M4kAAeSw2bhqiKLu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDNGRAyZyZ5eS64D4vn4RrklkheNHzaAExR5CC%2BZqbd7mhBwNNmZReo29ZVQj1vKy%2BOQ2OWNrFj81mZrM%2FdKTptoZlqMVwXjzIynlNGeCvMKFCwvp3rsHzBwa4BwgRy%2FrbOsxWnmX%2B5y6YtfHKyPXnLeYiHnHVmzJ3878uwmWYi5liMF0e1rMiVfOL8Wk92%2FPTa5dvVrAsPtp1Vl2GWuN64KCrSK5DU8mNmZumZCRHfZucglfA1cIAZgTclfCG6C0T7WDPInuiK18g1q8hK058veCURsz9LTe6HhAHlmSiEA8kuC67K5LL9BgvpTffHS1Y%3D%7Ctkp%3ABk9SR4b2jtSHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/M4kAAeSw2bhqiKLu/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787387099191,
+        "lastSeen": 1787734145186
+      },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -79,14 +93,14 @@
           "priceC": 28499,
           "shippingC": 805,
           "landedC": 29304,
-          "url": "https://www.ebay.com/itm/206119502111?_skw=%28snorunt%29+%2864%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=19043376289&itmmeta=01M0W2V4PB0YN7D46YVG011742&hash=item2ffdae011f:g:lU8AAeSwR09prRYe&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xB2DIMyr4JXqH4VLBnNYRkVbRrCtCV4s0%2F9zhDz7hH%2B4ybJMAcopbNLZJJpzhqhTGToRqvDMLxU3hp9K6mryBNn2Lcy92NITFg8GtTvOQXwkoQaDjKEhSCtK%2Fbm7C%2FFDD3eRk2R6ccHK%2BSM4firi%2FKUaycLDrbDCZhKPfhiOlASseVn5dS2TqAH7C%2FIGWuPhauLL0aZhq%2FEGKi35%2FPpjyiFBJmRHHwUTIbXUTPqw3mNL%2Fy8NktoAzm2hurPlvpNc2AeivnOXAdjIMs70Eumfvls%7Ctkp%3ABk9SR7jL7IKHaA",
+          "url": "https://www.ebay.com/itm/206119502111?_skw=%28snorunt%29+%2864%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=19043376289&itmmeta=01M0YM3QBPVH7AYH4MYR278VCS&hash=item2ffdae011f:g:lU8AAeSwR09prRYe&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAOQ951W80p%2BzF3SuO%2Bj62fkyI7E8ak93hXffQ7M7F0c7ekU9s5ElVPZZboqqcih%2BsjWTykuDtD8OjCyw7vD8wtcG%2FA54UK4yBbbS4AIy9P1FeuxS3PrUy1tNqr2uXTqpnOOKgPVKF41rO2b6VQNusr9Ks7AI0NHarAQDVAHiyXnFUqCd5HiDTiilYgOrqCGgceR%2FxV9C7HQoakTEykwAu--VBcFwJDL0RRL0irzwQBfCAqFLSvyUUR8fLIY2NEXJ4t%2FN9AivCzgpXL50E3Fumyke6X6tisSVZ0ANGNjRSdsdUJymWVSJn6b1AdqkTUBy4%3D%7Ctkp%3ABk9SR4b2jtSHaA",
           "imageUrl": "https://i.ebayimg.com/images/g/lU8AAeSwR09prRYe/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787162866541,
-          "lastSeen": 1787677557971
+          "lastSeen": 1787734145186
         },
         "cgc10Bin": 2,
         "cgc10Auction": 0,
@@ -108,7 +122,7 @@
         "firstOpportunityAt": 1787162866541
       },
       "firstOpportunityAt": 1787162866541,
-      "updatedAt": 1787677557971
+      "updatedAt": 1787734145186
     },
     "prices": {
       "variantId": 5970,
@@ -123,7 +137,7 @@
       "cgc10Pop": 6,
       "bgs10C": 168100,
       "salesVolumeJson": "{}",
-      "fetchedAt": 1787648845059
+      "fetchedAt": 1787734066835
     },
     "listings": [
       {
@@ -132,29 +146,44 @@
         "priceC": 28499,
         "shippingC": 805,
         "landedC": 29304,
-        "url": "https://www.ebay.com/itm/206119502111?_skw=%28snorunt%29+%2864%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=19043376289&itmmeta=01M0W2V4PB0YN7D46YVG011742&hash=item2ffdae011f:g:lU8AAeSwR09prRYe&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xB2DIMyr4JXqH4VLBnNYRkVbRrCtCV4s0%2F9zhDz7hH%2B4ybJMAcopbNLZJJpzhqhTGToRqvDMLxU3hp9K6mryBNn2Lcy92NITFg8GtTvOQXwkoQaDjKEhSCtK%2Fbm7C%2FFDD3eRk2R6ccHK%2BSM4firi%2FKUaycLDrbDCZhKPfhiOlASseVn5dS2TqAH7C%2FIGWuPhauLL0aZhq%2FEGKi35%2FPpjyiFBJmRHHwUTIbXUTPqw3mNL%2Fy8NktoAzm2hurPlvpNc2AeivnOXAdjIMs70Eumfvls%7Ctkp%3ABk9SR7jL7IKHaA",
+        "url": "https://www.ebay.com/itm/206119502111?_skw=%28snorunt%29+%2864%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=19043376289&itmmeta=01M0YM3QBPVH7AYH4MYR278VCS&hash=item2ffdae011f:g:lU8AAeSwR09prRYe&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAOQ951W80p%2BzF3SuO%2Bj62fkyI7E8ak93hXffQ7M7F0c7ekU9s5ElVPZZboqqcih%2BsjWTykuDtD8OjCyw7vD8wtcG%2FA54UK4yBbbS4AIy9P1FeuxS3PrUy1tNqr2uXTqpnOOKgPVKF41rO2b6VQNusr9Ks7AI0NHarAQDVAHiyXnFUqCd5HiDTiilYgOrqCGgceR%2FxV9C7HQoakTEykwAu--VBcFwJDL0RRL0irzwQBfCAqFLSvyUUR8fLIY2NEXJ4t%2FN9AivCzgpXL50E3Fumyke6X6tisSVZ0ANGNjRSdsdUJymWVSJn6b1AdqkTUBy4%3D%7Ctkp%3ABk9SR4b2jtSHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/lU8AAeSwR09prRYe/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
-        "lastSeen": 1787677557971
+        "lastSeen": 1787734145186
       },
       {
         "itemId": "127833850133",
         "title": "Snorunt 64/108 Power Keepers Reverse Holo Stamped CGC 10 Gem Mint Pop 6 PokemonOpens in a new window or tab",
-        "priceC": 34073,
-        "shippingC": 2506,
-        "landedC": 36579,
-        "url": "https://www.ebay.com/itm/127833850133?_skw=%28snorunt%29+%2864%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=25052742246&itmmeta=01M0W2V4PB3J1DTGC9GAT7K4ME&hash=item1dc37dc115:g:Sr4AAeSwvSpp8JF~&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBdW8YzvnTMfoqCxGh5HtGZwNY4o10aQkJiu8y0SxtVF1kv7qfgyOpdArXX%2BdpVrqqwMFZSMkXfXYcaRT1im990kS0uLP%2FtL%2FcG4J2%2FqvownDNdiQsjrKuuW1q7j7larg5MaqT4aRr%2FMFMo2IwlokIBS3HiKvA23JzWG%2By76nhLrQQ4p3Cw430z9jTtqwXaQCDRTsZjx0O6AteNgFb3rPcmGU3W8r8%2FlH4pIlpuz4eNe8hp3W4LxEdMCisiLZhY%2B1n4%2BtEH7Y4iOyG02bgKZtyi%7Ctkp%3ABk9SR7jL7IKHaA",
+        "priceC": 34116,
+        "shippingC": 2509,
+        "landedC": 36625,
+        "url": "https://www.ebay.com/itm/127833850133?_skw=%28snorunt%29+%2864%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=25052742246&itmmeta=01M0YM3QBQD3N2WP67TN42PD4P&hash=item1dc37dc115:g:Sr4AAeSwvSpp8JF~&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBdW8YzvnTMfoqCxGh5HtGZwNY4o10aQkJiu8y0SxtVFxaPIvBEPBPXxzuojtcXvC5o1Yoj6HkGub4h1iLhtdWg5o4a%2B2la9tHJz9nEpTb69ywuHWi5H2uEIUgMF5rSGx1BqhwiJ6xLyz3ZNnRIJhClBrh%2FnT%2BuahPha46aosLM5b%2BnSn1um%2BPOpuXMdai46PohwDdJz%2FR6XMCEHIIjx54whq1P8T9ZAwPf1XhGFNGgH86nFplielRIwEwOpSQ3kH68%2BbvjhIZMcHJodW3U7WoJ%7Ctkp%3ABk9SR4b2jtSHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Sr4AAeSwvSpp8JF~/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
-        "lastSeen": 1787677557971
+        "lastSeen": 1787734145186
+      },
+      {
+        "itemId": "298607525116",
+        "title": "2005 POKEMON EX EMERALD #64 SNORUNT-REVERSE FOIL PSA 9Opens in a new window or tab",
+        "priceC": 49500,
+        "shippingC": 599,
+        "landedC": 50099,
+        "url": "https://www.ebay.com/itm/298607525116?_skw=%28snorunt%29+%2864%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=9043370792&itmmeta=01M0YM3QBQKAHVGM1W7GRHS9B5&hash=item4586653cfc:g:M4kAAeSw2bhqiKLu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDNGRAyZyZ5eS64D4vn4RrklkheNHzaAExR5CC%2BZqbd7mhBwNNmZReo29ZVQj1vKy%2BOQ2OWNrFj81mZrM%2FdKTptoZlqMVwXjzIynlNGeCvMKFCwvp3rsHzBwa4BwgRy%2FrbOsxWnmX%2B5y6YtfHKyPXnLeYiHnHVmzJ3878uwmWYi5liMF0e1rMiVfOL8Wk92%2FPTa5dvVrAsPtp1Vl2GWuN64KCrSK5DU8mNmZumZCRHfZucglfA1cIAZgTclfCG6C0T7WDPInuiK18g1q8hK058veCURsz9LTe6HhAHlmSiEA8kuC67K5LL9BgvpTffHS1Y%3D%7Ctkp%3ABk9SR4b2jtSHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/M4kAAeSw2bhqiKLu/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787387099191,
+        "lastSeen": 1787734145186
       }
     ],
     "marketHistory": {
@@ -863,7 +892,7 @@
       ],
       "englishSaleCount": 53,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787648843095
+      "lastCapturedAt": 1787734065271
     }
   }
 }

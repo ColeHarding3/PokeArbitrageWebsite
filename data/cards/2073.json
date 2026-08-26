@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 2073,
@@ -20,17 +20,17 @@
       "popularityScore": 82,
       "market": {
         "ungradedC": 7850,
-        "grade9C": 42145,
-        "grade95C": 46400,
+        "grade9C": 42323,
+        "grade95C": 46600,
         "cgc10C": 67450,
         "cgc10PristineC": 121400,
-        "psa10C": 295070,
-        "bgs10C": 383600,
+        "psa10C": 284929,
+        "bgs10C": 370400,
         "psa9Pop": 147,
         "psa10Pop": 31,
         "cgc10Pop": 15,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787644288291
+        "fetchedAt": 1787730195484
       },
       "bestCgc10": {
         "itemId": "287520973339",
@@ -38,30 +38,30 @@
         "priceC": 120000,
         "shippingC": 999,
         "landedC": 120999,
-        "url": "https://www.ebay.com/itm/287520973339?_skw=%28rhyhorn%29+%2890%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=8043378015&itmmeta=01M0VYK4CR9XXTA5J53VQPGKMA&hash=item42f195e21b:g:xnYAAeSwAfJqfLTe&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAnoB29kG5x0wXIcDIP8rGoIwUPWyVu%2BriZge2MFQjEgRFWV6UuoMVdMAoyiS0dnwHR9RRITexXEmmqndoDQ3G0VCdRAWGDuNDOr1BgBnqNeSy%2BjKPqfxoP1jkyvmJ0VL9EVJXG%2BU6%2BUwd%2BXBnJD72g63%2FQ%2BZfBrm0T%2BMgF6APgS%2FqYZ0bNlwTyDFtE0yrEzJDJEV8DLap1mrjbeC0LTnYaJeBWarz8s5Mvh1%2FSJ%2BWunN7uFUiKh%2BapqK4%2BLDJIX5hNoX%2BYLLUJpeG0unCz2WLJ%2F5Dk%2BqWjdQy7q7KUhQLFag%3D%3D%7Ctkp%3ABk9SR8zGzP6GaA",
+        "url": "https://www.ebay.com/itm/287520973339?_skw=%28rhyhorn%29+%2890%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=8043378015&itmmeta=01M0YGF6Y9BW6V5NKKVC2K1E5M&hash=item42f195e21b:g:xnYAAeSwAfJqfLTe&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCer%2FDMm8CLWgePAmRqUSJyCAHeAu9A42FkDC%2FYM4BwyA5we3971PwPagfwb5AHPzQTG7TMUre9OdbNmvjTfzKnhuesJZ6ixUTUnAP1DIpwtDawVctANsbslkfSA1VrbTZ63nwEKFWJKebIey1fRxq12kKaXkHw%2B5tUZqCixoJlNAlyiGgnmZz%2FwODtVUN0aRaEhrFbgf1UCIi14ctwvkYQpC1ARuZ%2BL8uAFWWmzO0a6%2BZCEr1UAq1mWRv6CJSXnNSmdeQ28%2BQtPkhDYEeC7hGnjisRUZ5uJ0HfAl%2F4E8Qur9ZAcWs43PQryir0F0yQFD2yETFdgcOX2KOMgbbgzRx3%7Ctkp%3ABk9SR7TvvNCHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/xnYAAeSwAfJqfLTe/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787677514144
+        "lastSeen": 1787730334237
       },
       "bestPsa10": null,
       "bestPsa9": {
         "itemId": "366458129739",
         "title": "Pokemon TCG Rhyhorn Reverse Holo 90/110 Legendary Collection PSA 9 WOTC CardOpens in a new window or tab",
-        "priceC": 92658,
-        "shippingC": 5484,
-        "landedC": 98142,
-        "url": "https://www.ebay.com/itm/366458129739?_skw=%28rhyhorn%29+%2890%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=23052764051&itmmeta=01M0VYK4CRQ9A5MJ3ZJTRWXQQW&hash=item55529b4d4b:g:Q8IAAeSw0sVqIzX3&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDkcr8wOREx5eIaFFrn3kNROXxyhWmvZGWT64I42kqJYKnFnEE0CZHmf2UpwACiCHYeaLxAD1PO6WRugDu8NGAtuyPARhJMZAywxI%2BnnvSAxkQu%2BjLvau6xkhqBFBSbqpZsbJRb8vZjN9tEWQq%2BSdHu%2B5zfGXySMu%2B%2BEl9rWixmURQ3JKhljTMu7V4U8EOMV0AgqTMjMCpfL28TN%2B6q0dZWg3a7H80jzqgkiryeHP77KGuAewIZDDZefMVPwL5L%2BV4t%2B13KNlhIc5atc3JP2X%2BsDhFB6CRsn2lIYkPN4pDhm9jOYNserO9OZ9IFoUeIsho7l4YCfvECzTeoKKyZwba1%7Ctkp%3ABk9SR8zGzP6GaA",
+        "priceC": 92774,
+        "shippingC": 5491,
+        "landedC": 98265,
+        "url": "https://www.ebay.com/itm/366458129739?_skw=%28rhyhorn%29+%2890%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=23052764051&itmmeta=01M0YGF6Y9MK3B7G8HCKHCHBBB&hash=item55529b4d4b:g:Q8IAAeSw0sVqIzX3&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDkcr8wOREx5eIaFFrn3kNROXxyhWmvZGWT64I42kqJYKnFnEE0CZHmf2UpwACiCHYeaLxAD1PO6WRugDu8NGAtuyPARhJMZAywxI%2BnnvSAxkQu%2BjLvau6xkhqBFBSbqpZcsmk%2FAfoqSMzfxIMmD2Mcnxf3HU2K5cgbyRay8UO2eOeIx0hv8RdqeSBooGtqxpYbGlAJQCkJweTYH3N72mEvdVdM0F9o5JX1xZpxVLhOLymZ9mo6liezf9409nL9J0mzHvKo5znwLfW7X1idsH5lLnVhYey0NYa4mqIEeG6rF%2FkIir%2F%2BZyQD9SxUmxZ2UwUh1NCy75WcAivw6aLva%2B%2FH%7Ctkp%3ABk9SR7TvvNCHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Q8IAAeSw0sVqIzX3/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787677514144
+        "lastSeen": 1787730334237
       },
       "counts": {
         "cgc10Bin": 1,
@@ -83,8 +83,8 @@
         "cgc10CostC": 120999,
         "submissionFeeC": 34900,
         "totalCostC": 155899,
-        "psa10ValueC": 295070,
-        "ratio": 1.892699760742532
+        "psa10ValueC": 284929,
+        "ratio": 1.8276512357359573
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -93,14 +93,14 @@
           "priceC": 120000,
           "shippingC": 999,
           "landedC": 120999,
-          "url": "https://www.ebay.com/itm/287520973339?_skw=%28rhyhorn%29+%2890%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=8043378015&itmmeta=01M0VYK4CR9XXTA5J53VQPGKMA&hash=item42f195e21b:g:xnYAAeSwAfJqfLTe&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAnoB29kG5x0wXIcDIP8rGoIwUPWyVu%2BriZge2MFQjEgRFWV6UuoMVdMAoyiS0dnwHR9RRITexXEmmqndoDQ3G0VCdRAWGDuNDOr1BgBnqNeSy%2BjKPqfxoP1jkyvmJ0VL9EVJXG%2BU6%2BUwd%2BXBnJD72g63%2FQ%2BZfBrm0T%2BMgF6APgS%2FqYZ0bNlwTyDFtE0yrEzJDJEV8DLap1mrjbeC0LTnYaJeBWarz8s5Mvh1%2FSJ%2BWunN7uFUiKh%2BapqK4%2BLDJIX5hNoX%2BYLLUJpeG0unCz2WLJ%2F5Dk%2BqWjdQy7q7KUhQLFag%3D%3D%7Ctkp%3ABk9SR8zGzP6GaA",
+          "url": "https://www.ebay.com/itm/287520973339?_skw=%28rhyhorn%29+%2890%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=8043378015&itmmeta=01M0YGF6Y9BW6V5NKKVC2K1E5M&hash=item42f195e21b:g:xnYAAeSwAfJqfLTe&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCer%2FDMm8CLWgePAmRqUSJyCAHeAu9A42FkDC%2FYM4BwyA5we3971PwPagfwb5AHPzQTG7TMUre9OdbNmvjTfzKnhuesJZ6ixUTUnAP1DIpwtDawVctANsbslkfSA1VrbTZ63nwEKFWJKebIey1fRxq12kKaXkHw%2B5tUZqCixoJlNAlyiGgnmZz%2FwODtVUN0aRaEhrFbgf1UCIi14ctwvkYQpC1ARuZ%2BL8uAFWWmzO0a6%2BZCEr1UAq1mWRv6CJSXnNSmdeQ28%2BQtPkhDYEeC7hGnjisRUZ5uJ0HfAl%2F4E8Qur9ZAcWs43PQryir0F0yQFD2yETFdgcOX2KOMgbbgzRx3%7Ctkp%3ABk9SR7TvvNCHaA",
           "imageUrl": "https://i.ebayimg.com/images/g/xnYAAeSwAfJqfLTe/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787050911353,
-          "lastSeen": 1787677514144
+          "lastSeen": 1787730334237
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -116,44 +116,44 @@
           "cgc10CostC": 120999,
           "submissionFeeC": 34900,
           "totalCostC": 155899,
-          "psa10ValueC": 295070,
-          "ratio": 1.892699760742532
+          "psa10ValueC": 284929,
+          "ratio": 1.8276512357359573
         },
         "firstOpportunityAt": 1787050911353
       },
       "firstOpportunityAt": 1787050911353,
-      "updatedAt": 1787677514144
+      "updatedAt": 1787730334237
     },
     "prices": {
       "variantId": 2073,
       "ungradedC": 7850,
-      "grade9C": 42145,
-      "grade95C": 46400,
+      "grade9C": 42323,
+      "grade95C": 46600,
       "cgc10C": 67450,
       "cgc10PristineC": 121400,
-      "psa10C": 295070,
+      "psa10C": 284929,
       "psa9Pop": 147,
       "psa10Pop": 31,
       "cgc10Pop": 15,
-      "bgs10C": 383600,
+      "bgs10C": 370400,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787644288291
+      "fetchedAt": 1787730195484
     },
     "listings": [
       {
         "itemId": "366458129739",
         "title": "Pokemon TCG Rhyhorn Reverse Holo 90/110 Legendary Collection PSA 9 WOTC CardOpens in a new window or tab",
-        "priceC": 92658,
-        "shippingC": 5484,
-        "landedC": 98142,
-        "url": "https://www.ebay.com/itm/366458129739?_skw=%28rhyhorn%29+%2890%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=23052764051&itmmeta=01M0VYK4CRQ9A5MJ3ZJTRWXQQW&hash=item55529b4d4b:g:Q8IAAeSw0sVqIzX3&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDkcr8wOREx5eIaFFrn3kNROXxyhWmvZGWT64I42kqJYKnFnEE0CZHmf2UpwACiCHYeaLxAD1PO6WRugDu8NGAtuyPARhJMZAywxI%2BnnvSAxkQu%2BjLvau6xkhqBFBSbqpZsbJRb8vZjN9tEWQq%2BSdHu%2B5zfGXySMu%2B%2BEl9rWixmURQ3JKhljTMu7V4U8EOMV0AgqTMjMCpfL28TN%2B6q0dZWg3a7H80jzqgkiryeHP77KGuAewIZDDZefMVPwL5L%2BV4t%2B13KNlhIc5atc3JP2X%2BsDhFB6CRsn2lIYkPN4pDhm9jOYNserO9OZ9IFoUeIsho7l4YCfvECzTeoKKyZwba1%7Ctkp%3ABk9SR8zGzP6GaA",
+        "priceC": 92774,
+        "shippingC": 5491,
+        "landedC": 98265,
+        "url": "https://www.ebay.com/itm/366458129739?_skw=%28rhyhorn%29+%2890%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=23052764051&itmmeta=01M0YGF6Y9MK3B7G8HCKHCHBBB&hash=item55529b4d4b:g:Q8IAAeSw0sVqIzX3&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDkcr8wOREx5eIaFFrn3kNROXxyhWmvZGWT64I42kqJYKnFnEE0CZHmf2UpwACiCHYeaLxAD1PO6WRugDu8NGAtuyPARhJMZAywxI%2BnnvSAxkQu%2BjLvau6xkhqBFBSbqpZcsmk%2FAfoqSMzfxIMmD2Mcnxf3HU2K5cgbyRay8UO2eOeIx0hv8RdqeSBooGtqxpYbGlAJQCkJweTYH3N72mEvdVdM0F9o5JX1xZpxVLhOLymZ9mo6liezf9409nL9J0mzHvKo5znwLfW7X1idsH5lLnVhYey0NYa4mqIEeG6rF%2FkIir%2F%2BZyQD9SxUmxZ2UwUh1NCy75WcAivw6aLva%2B%2FH%7Ctkp%3ABk9SR7TvvNCHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Q8IAAeSw0sVqIzX3/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787677514144
+        "lastSeen": 1787730334237
       },
       {
         "itemId": "287520973339",
@@ -161,14 +161,14 @@
         "priceC": 120000,
         "shippingC": 999,
         "landedC": 120999,
-        "url": "https://www.ebay.com/itm/287520973339?_skw=%28rhyhorn%29+%2890%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=8043378015&itmmeta=01M0VYK4CR9XXTA5J53VQPGKMA&hash=item42f195e21b:g:xnYAAeSwAfJqfLTe&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAnoB29kG5x0wXIcDIP8rGoIwUPWyVu%2BriZge2MFQjEgRFWV6UuoMVdMAoyiS0dnwHR9RRITexXEmmqndoDQ3G0VCdRAWGDuNDOr1BgBnqNeSy%2BjKPqfxoP1jkyvmJ0VL9EVJXG%2BU6%2BUwd%2BXBnJD72g63%2FQ%2BZfBrm0T%2BMgF6APgS%2FqYZ0bNlwTyDFtE0yrEzJDJEV8DLap1mrjbeC0LTnYaJeBWarz8s5Mvh1%2FSJ%2BWunN7uFUiKh%2BapqK4%2BLDJIX5hNoX%2BYLLUJpeG0unCz2WLJ%2F5Dk%2BqWjdQy7q7KUhQLFag%3D%3D%7Ctkp%3ABk9SR8zGzP6GaA",
+        "url": "https://www.ebay.com/itm/287520973339?_skw=%28rhyhorn%29+%2890%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=8043378015&itmmeta=01M0YGF6Y9BW6V5NKKVC2K1E5M&hash=item42f195e21b:g:xnYAAeSwAfJqfLTe&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCer%2FDMm8CLWgePAmRqUSJyCAHeAu9A42FkDC%2FYM4BwyA5we3971PwPagfwb5AHPzQTG7TMUre9OdbNmvjTfzKnhuesJZ6ixUTUnAP1DIpwtDawVctANsbslkfSA1VrbTZ63nwEKFWJKebIey1fRxq12kKaXkHw%2B5tUZqCixoJlNAlyiGgnmZz%2FwODtVUN0aRaEhrFbgf1UCIi14ctwvkYQpC1ARuZ%2BL8uAFWWmzO0a6%2BZCEr1UAq1mWRv6CJSXnNSmdeQ28%2BQtPkhDYEeC7hGnjisRUZ5uJ0HfAl%2F4E8Qur9ZAcWs43PQryir0F0yQFD2yETFdgcOX2KOMgbbgzRx3%7Ctkp%3ABk9SR7TvvNCHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/xnYAAeSwAfJqfLTe/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787677514144
+        "lastSeen": 1787730334237
       }
     ],
     "marketHistory": {
@@ -1768,7 +1768,7 @@
       ],
       "englishSaleCount": 164,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787644286342
+      "lastCapturedAt": 1787730193947
     }
   }
 }

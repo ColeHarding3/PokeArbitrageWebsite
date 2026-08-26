@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 86,
@@ -19,9 +19,9 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/7eee34634299fb9005a159567877a1efc5fc8c4008550bc3aa517095d6e48201/1600.jpg",
       "popularityScore": 82,
       "market": {
-        "ungradedC": 3424,
-        "grade9C": 53168,
-        "grade95C": 58500,
+        "ungradedC": 3842,
+        "grade9C": 52959,
+        "grade95C": 58300,
         "cgc10C": 75000,
         "cgc10PristineC": 135000,
         "psa10C": 513751,
@@ -30,7 +30,7 @@
         "psa10Pop": 28,
         "cgc10Pop": 10,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787641286645
+        "fetchedAt": 1787727706863
       },
       "bestCgc10": {
         "itemId": "117206850167",
@@ -38,38 +38,24 @@
         "priceC": 1000000,
         "shippingC": 599,
         "landedC": 1000599,
-        "url": "https://www.ebay.com/itm/117206850167?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M0VVQRD6EB4DAS15N000XBPC&hash=item1b4a129a77:g:s7UAAeSweqFqDr1p&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD0NpdYjPGfPx80L2sYYR7u%2ByrWszi5grxsyg7uwomegxdYdvF2y1ClbRm67l9Ww%2Bf1ZWou8zwPuAK5DS31Fqy35TmPLdICXicfmBrIWPbbdChUESF9fJrqr2AXF%2F%2Bin9%2BQObDkqhDkNjTjXd07hP%2BTbgZXgmlnK4%2B6T7embD6QoT2ZVkaEZUvqYZM6IHy1P4C6DRzCQK5CE1O1eKsQnQ2awbG491BN8iP%2BPdAiXPvAFW0IADu6aQBARDeGTqzr1YFOeevZihKyabmTTGMsmg2w%7Ctkp%3ABk9SR_SG3_uGaA",
+        "url": "https://www.ebay.com/itm/117206850167?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M0YE4E2WRQXQ7A18Z671AXN6&hash=item1b4a129a77:g:s7UAAeSweqFqDr1p&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD0NpdYjPGfPx80L2sYYR7u%2ByrWszi5grxsyg7uwomeg1ofhkcqYhNKbIq7%2FzmVr6GGZEQ82%2B8HE5OZGBWLZEayF2YWmHaRU4UMeMEY6iTQ9lPxo2oj%2BtlScJtQoHCpf6KHQm1%2FE2Rp1uf3hSi0nvVgMq1ShFwtsOvFCfOSi2XY8oNw%2BaBMES5ZXep7WA0KrlDy1UkpXyiSAlWKy9kEiUzTBZK2Z0pnd0h9eGTMPoL%2BKAF6d6HflVcjlamn8AV6ecLMdKW1AT1EegtZAS9xRQ6p%7Ctkp%3ABk9SR9bhkc6HaA",
         "imageUrl": "https://i.ebayimg.com/images/g/s7UAAeSweqFqDr1p/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787677491340
+        "lastSeen": 1787727945888
       },
       "bestPsa10": null,
-      "bestPsa9": {
-        "itemId": "307135495225",
-        "title": "1999 Pokemon Clefairy 5/102 PSA 9 Holo Base Set Shadowless Holo RareOpens in a new window or tab",
-        "priceC": 75000,
-        "shippingC": 851,
-        "landedC": 75851,
-        "url": "https://www.ebay.com/itm/307135495225?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21043375418&itmmeta=01M0VVQRD5FPXM9Z0SM5RJT86B&hash=item4782b3bc39:g:8lAAAeSwDqFqhcnD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBIzivAsceDevWs6XpktngG%2BFfnDK2swSUFwxRJPtOyvZoh4GUVtIIaqleJdEYZP%2FB0et3GBRUnvXQgQKGcQlGmNI2N8AcMIqg1Jbd4roRssTvav347H6a3H05m4iwsvTrgZGjQQ9j184fNFFn3F1owrNkKj2CvgPlju4ZykZMeTRCa%2FeIlHj8hJW8qJUMbs%2BYSPDT4G7KEsOwRcaxHSbgPr%2BKKeYNnTu6IVjUEh%2FEs%2BwrdqbEIur2zO7QrEv3qKZ1v%2FIoNJtY%2Bnxy7HG9sLExD%7Ctkp%3ABk9SR-yG3_uGaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/8lAAAeSwDqFqhcnD/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787209549665,
-        "lastSeen": 1787677491340
-      },
+      "bestPsa9": null,
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 1
+        "psa9Bin": 0
       },
       "ratio": {
         "ok": true,
@@ -93,14 +79,14 @@
           "priceC": 1000000,
           "shippingC": 599,
           "landedC": 1000599,
-          "url": "https://www.ebay.com/itm/117206850167?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M0VVQRD6EB4DAS15N000XBPC&hash=item1b4a129a77:g:s7UAAeSweqFqDr1p&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD0NpdYjPGfPx80L2sYYR7u%2ByrWszi5grxsyg7uwomegxdYdvF2y1ClbRm67l9Ww%2Bf1ZWou8zwPuAK5DS31Fqy35TmPLdICXicfmBrIWPbbdChUESF9fJrqr2AXF%2F%2Bin9%2BQObDkqhDkNjTjXd07hP%2BTbgZXgmlnK4%2B6T7embD6QoT2ZVkaEZUvqYZM6IHy1P4C6DRzCQK5CE1O1eKsQnQ2awbG491BN8iP%2BPdAiXPvAFW0IADu6aQBARDeGTqzr1YFOeevZihKyabmTTGMsmg2w%7Ctkp%3ABk9SR_SG3_uGaA",
+          "url": "https://www.ebay.com/itm/117206850167?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M0YE4E2WRQXQ7A18Z671AXN6&hash=item1b4a129a77:g:s7UAAeSweqFqDr1p&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD0NpdYjPGfPx80L2sYYR7u%2ByrWszi5grxsyg7uwomeg1ofhkcqYhNKbIq7%2FzmVr6GGZEQ82%2B8HE5OZGBWLZEayF2YWmHaRU4UMeMEY6iTQ9lPxo2oj%2BtlScJtQoHCpf6KHQm1%2FE2Rp1uf3hSi0nvVgMq1ShFwtsOvFCfOSi2XY8oNw%2BaBMES5ZXep7WA0KrlDy1UkpXyiSAlWKy9kEiUzTBZK2Z0pnd0h9eGTMPoL%2BKAF6d6HflVcjlamn8AV6ecLMdKW1AT1EegtZAS9xRQ6p%7Ctkp%3ABk9SR9bhkc6HaA",
           "imageUrl": "https://i.ebayimg.com/images/g/s7UAAeSweqFqDr1p/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787038168986,
-          "lastSeen": 1787677491340
+          "lastSeen": 1787727945888
         },
         "cgc10Bin": 2,
         "cgc10Auction": 0,
@@ -122,13 +108,13 @@
         "firstOpportunityAt": 1787038168986
       },
       "firstOpportunityAt": 1787038168986,
-      "updatedAt": 1787677491340
+      "updatedAt": 1787727945888
     },
     "prices": {
       "variantId": 86,
-      "ungradedC": 3424,
-      "grade9C": 53168,
-      "grade95C": 58500,
+      "ungradedC": 3842,
+      "grade9C": 52959,
+      "grade95C": 58300,
       "cgc10C": 75000,
       "cgc10PristineC": 135000,
       "psa10C": 513751,
@@ -137,38 +123,23 @@
       "cgc10Pop": 10,
       "bgs10C": 667900,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787641286645
+      "fetchedAt": 1787727706863
     },
     "listings": [
-      {
-        "itemId": "307135495225",
-        "title": "1999 Pokemon Clefairy 5/102 PSA 9 Holo Base Set Shadowless Holo RareOpens in a new window or tab",
-        "priceC": 75000,
-        "shippingC": 851,
-        "landedC": 75851,
-        "url": "https://www.ebay.com/itm/307135495225?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21043375418&itmmeta=01M0VVQRD5FPXM9Z0SM5RJT86B&hash=item4782b3bc39:g:8lAAAeSwDqFqhcnD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBIzivAsceDevWs6XpktngG%2BFfnDK2swSUFwxRJPtOyvZoh4GUVtIIaqleJdEYZP%2FB0et3GBRUnvXQgQKGcQlGmNI2N8AcMIqg1Jbd4roRssTvav347H6a3H05m4iwsvTrgZGjQQ9j184fNFFn3F1owrNkKj2CvgPlju4ZykZMeTRCa%2FeIlHj8hJW8qJUMbs%2BYSPDT4G7KEsOwRcaxHSbgPr%2BKKeYNnTu6IVjUEh%2FEs%2BwrdqbEIur2zO7QrEv3qKZ1v%2FIoNJtY%2Bnxy7HG9sLExD%7Ctkp%3ABk9SR-yG3_uGaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/8lAAAeSwDqFqhcnD/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787209549665,
-        "lastSeen": 1787677491340
-      },
       {
         "itemId": "117206850167",
         "title": "1999 POKEMON BASE SET SHADOWLESS #5 CLEFAIRY-HOLO CGC 10 GEM MINTOpens in a new window or tab",
         "priceC": 1000000,
         "shippingC": 599,
         "landedC": 1000599,
-        "url": "https://www.ebay.com/itm/117206850167?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M0VVQRD6EB4DAS15N000XBPC&hash=item1b4a129a77:g:s7UAAeSweqFqDr1p&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD0NpdYjPGfPx80L2sYYR7u%2ByrWszi5grxsyg7uwomegxdYdvF2y1ClbRm67l9Ww%2Bf1ZWou8zwPuAK5DS31Fqy35TmPLdICXicfmBrIWPbbdChUESF9fJrqr2AXF%2F%2Bin9%2BQObDkqhDkNjTjXd07hP%2BTbgZXgmlnK4%2B6T7embD6QoT2ZVkaEZUvqYZM6IHy1P4C6DRzCQK5CE1O1eKsQnQ2awbG491BN8iP%2BPdAiXPvAFW0IADu6aQBARDeGTqzr1YFOeevZihKyabmTTGMsmg2w%7Ctkp%3ABk9SR_SG3_uGaA",
+        "url": "https://www.ebay.com/itm/117206850167?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M0YE4E2WRQXQ7A18Z671AXN6&hash=item1b4a129a77:g:s7UAAeSweqFqDr1p&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD0NpdYjPGfPx80L2sYYR7u%2ByrWszi5grxsyg7uwomeg1ofhkcqYhNKbIq7%2FzmVr6GGZEQ82%2B8HE5OZGBWLZEayF2YWmHaRU4UMeMEY6iTQ9lPxo2oj%2BtlScJtQoHCpf6KHQm1%2FE2Rp1uf3hSi0nvVgMq1ShFwtsOvFCfOSi2XY8oNw%2BaBMES5ZXep7WA0KrlDy1UkpXyiSAlWKy9kEiUzTBZK2Z0pnd0h9eGTMPoL%2BKAF6d6HflVcjlamn8AV6ecLMdKW1AT1EegtZAS9xRQ6p%7Ctkp%3ABk9SR9bhkc6HaA",
         "imageUrl": "https://i.ebayimg.com/images/g/s7UAAeSweqFqDr1p/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787677491340
+        "lastSeen": 1787727945888
       },
       {
         "itemId": "375850395224",
@@ -176,18 +147,31 @@
         "priceC": 5000000,
         "shippingC": 0,
         "landedC": 5000000,
-        "url": "https://www.ebay.com/itm/375850395224?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21043375418&itmmeta=01M0VVQRD78VZ1BVQ6WFQKCYGN&hash=item57826de658:g:KpAAAOSwmNNnVJvZ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDSY1ZZOALFGPUVMjIP6Cq11pQTccIe7fnDzMm8UO5OeY%2BYHEtCwDykaiYZA5xsgzYRY30R542tckhRPL1bygqDySmz3A800bTAnJ3h2JzGcDknL7YCzqfmb5gstGvDCiIM%2Fy4qycPMq1qwzvZcebEr%2BEtP5Zh3%2Be45f5qlicOHb8I%2BQHUbXq27GmcV2XjKwjOhoVqa33cLyA1hjeImKSw5Zs3f%2BPHPUVL9BGoj9IYVSz2fiei%2F06m6GXydqNcrq8Q3UoMAvtY2IscAAAB5sGP%2Bl0QcDCyeZElZ8V%2BU94mjlEkbp3I8G6MYpRCSOKXnx6c%3D%7Ctkp%3ABk9SR_SG3_uGaA",
+        "url": "https://www.ebay.com/itm/375850395224?_skw=%28clefairy%29+%285%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21043375418&itmmeta=01M0YE4E2WNMWXGGYGXH9T2QPN&hash=item57826de658:g:KpAAAOSwmNNnVJvZ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDSY1ZZOALFGPUVMjIP6Cq11pQTccIe7fnDzMm8UO5OeY%2BYHEtCwDykaiYZA5xsgzYRY30R542tckhRPL1bygqDySmz3A800bTAnJ3h2JzGcDknL7YCzqfmb5gstGvDCiIs64Y7e9arOLhXTrTiPMFhiwRcRJdfaLcplxg5X4NSd0pmfofa4yMGGwB2LEWUKGmdxPJ27RB0yUd5utb5kHbYwCe36wzVn3ENn9hi69L99fGa7%2By823PER3v284p01PXOKBEj8kN29EDVZ5X2cCxcWyTqyUWDLOoaybP1pCsNrxv49dL6nS%2F1IOWKfcb9hw8%3D%7Ctkp%3ABk9SR9bhkc6HaA",
         "imageUrl": "https://i.ebayimg.com/images/g/KpAAAOSwmNNnVJvZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787677491340
+        "lastSeen": 1787727945888
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 5461568,
+          "saleDate": "2026-08-26",
+          "priceC": 1200,
+          "title": "Pokemon TCG Clefairy 5/102 Base Set Shadowless Holo Rare English 40 HP 5/102",
+          "url": "https://www.ebay.com/itm/298599992294?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 3550446,
           "saleDate": "2026-08-23",
@@ -1734,19 +1718,6 @@
           "gradingGrade": 4,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 24685,
-          "saleDate": "2026-03-10",
-          "priceC": 3400,
-          "title": "Clefairy 5/102 1999 Pokemon BASE SET SHADOWLESS HOLO BGS 4.5 VG/EXCELLENT #5",
-          "url": "https://www.ebay.com/itm/397044666784?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "BGS",
-          "gradingGrade": 4.5,
-          "gradingDesignation": null,
-          "agreementStatus": "mismatch"
         }
       ],
       "monthlyPsa10": [
@@ -1766,9 +1737,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 258,
+      "englishSaleCount": 259,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787641284709
+      "lastCapturedAt": 1787727705182
     }
   }
 }

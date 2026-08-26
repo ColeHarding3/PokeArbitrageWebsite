@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 2810,
@@ -20,8 +20,8 @@
       "popularityScore": 67,
       "market": {
         "ungradedC": 20000,
-        "grade9C": 43375,
-        "grade95C": 47700,
+        "grade9C": 43263,
+        "grade95C": 47600,
         "cgc10C": 53406,
         "cgc10PristineC": 164158,
         "psa10C": 172379,
@@ -29,8 +29,8 @@
         "psa9Pop": 232,
         "psa10Pop": 99,
         "cgc10Pop": 33,
-        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787645563158
+        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
+        "fetchedAt": 1787730972812
       },
       "bestCgc10": {
         "itemId": "327299863713",
@@ -38,14 +38,14 @@
         "priceC": 59900,
         "shippingC": 0,
         "landedC": 59900,
-        "url": "https://www.ebay.com/itm/327299863713?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369603&itmmeta=01M0VZSSE4G3464NJ5C0R6Y55B&hash=item4c349794a1:g:Dq8AAeSwvl9qdlAz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDutkhm%2BaD3g1Ep%2Flht9TF8Fsdstr36z4Ne%2FoAHIdvAgm2UJWC2I5OMQF2%2Br%2BFtagAWfAFNJFlvlYLiLhDcJ2ZxmQ7hIAnXy%2FGL9R032gVR8WilerwRmKxNEOQ61iBbinrxbjELfV%2FBvTg6WWoHS7ErxTQPpRgDFbVZbcAXGl%2BFAN7fS6H9va1%2F486yxOjzNUpNHxrZ0eC5QOikvjdWeiIYN4%2BO%2B1%2FBnYMuqhVqJTK1ceitjBUf8PqumVKsGUlnevLXMFxMI%2BNqVo5YemyxNxGf%7Ctkp%3ABk9SR66X5_-GaA",
+        "url": "https://www.ebay.com/itm/327299863713?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369603&itmmeta=01M0YH7BYMZHDQ6TZTYA75DP6E&hash=item4c349794a1:g:Dq8AAeSwvl9qdlAz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAnvQMAynkjgMZCRKS%2Bp8jktikZePzIS3nkDnP5lFp1RsXxEUDoVTllXh%2FumXpSrQ3gClKJe3WQiAS8IOu9f5Dt%2Bun1ckGwSAQzSbnxtDXBz%2Bij7e2uHW14jvoU0u5%2BvvCYsWyJgVBAbqOXbA0QTnZMCwQKcx6VOFudm09yag%2BOO7Y8BJme1u%2BGfvRJIQoyKyDj0oPrCGJFbzPht1j3Yql2ywLjq6210m6c8PA8tahREgPSM1hzmsmCHEVxaHA21lxErqNJvd2ylLr07YmzmbqEX%2Bmo7YnOlmP2u9gZ8ZFQoCyf6GJF5xSjvl6vTU4ldZk%3D%7Ctkp%3ABk9SR9i_ndGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Dq8AAeSwvl9qdlAz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094577812,
-        "lastSeen": 1787677537341
+        "lastSeen": 1787731157433
       },
       "bestPsa10": {
         "itemId": "157716177649",
@@ -53,29 +53,29 @@
         "priceC": 279997,
         "shippingC": 0,
         "landedC": 279997,
-        "url": "https://www.ebay.com/itm/157716177649?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369603&itmmeta=01M0VZSSE4T62SEKCJCBRTH97P&hash=item24b89de2f1:g:BF4AAeSwK6ppo51c&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBSyKS2VS62wB5o1vPzQd%2F%2Ba%2BcBb7mUt28E49lkdk0wl0qL8WZe1Nzkf6Sw5FFQG8zTkHUrwzfIshwC3H143tlmm%2BxSif8psHigrBPS%2BvWwyo782rSnZnnKL07OctgiIwgxS0aRsU9yf10HXBTL5odkkpIxhiqGwSXVh4US5%2BGI0R8SIW4EFr%2BqfxaEX6qrmiBmIeFkbE82q7wDGVeBmYtLDC8GTatrkhp4TYwmN6X1CNnt%2B7Ib2NODwbJQvVT2Egmo%2BCif6s2fy0p4w4VoTUFe3aig5C4hAGHQDGtwvfLOgBW9ib4sWnVjvp5Id0y2Xnw%3D%7Ctkp%3ABk9SR7CX5_-GaA",
+        "url": "https://www.ebay.com/itm/157716177649?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369603&itmmeta=01M0YH7BYMTMF47EFBS052ECGR&hash=item24b89de2f1:g:BF4AAeSwK6ppo51c&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBUQsxjsLXTBAvrq9PTjtwq8MkiO06ObcodGfN9XfqweouMrIKJD1M13he6167B9bOhz8%2FDBHjwIpuma4eAUR%2F4DGQOSrtCrsHIDNGrbSGYnjyl%2BJlU0y63lWVXKkdMCy3k0nJJFTJcpM9GH%2B5GxPjMinJGxEGhfmFGso8frc56qSqtOU%2Fpriqssky211%2ByWOpmBNPoOL8bXTtND5GGGaHf1DywnWtO06rajc%2FiaxLmKjJZTzRExZ%2BI44iS60zs2leapue58ILl8Zo79UezCpqR%7Ctkp%3ABk9SR9q_ndGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BF4AAeSwK6ppo51c/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787677537341
+        "lastSeen": 1787731157433
       },
       "bestPsa9": {
         "itemId": "406894789851",
         "title": "PSA 9 Magcargo H17/H32 Skyridge E Series 2003 Pokemon Card Holo MINTOpens in a new window or tab",
-        "priceC": 78649,
-        "shippingC": 1356,
-        "landedC": 80005,
-        "url": "https://www.ebay.com/itm/406894789851?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&itmmeta=01M0VZSSE592Y7YSRFCHK2PQE0&hash=item5ebcd1c4db:g:EDEAAeSweFVp80X2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD3a1bli6WkQETmFIsVuh7DaNxrC%2F9d0%2BbtAkTMRplc0xdDaamuWwiarMEeTk5UI%2BOKukgjKKrbAmNqMndMYoxiGRZBbE5cXo2i64vJDliESfw4BT8o81%2BM%2FrFqoLu5atDyDGJlpmOGaQP6JhT%2BlDKH1UsxSd5XSfPQNzSE3YGSggxrAyXn9ALbCUwpw3kBXBYb%2Fg1M5ooV6PTbTPA%2B8NLwM3QFIBi0ZEg682qgZS%2BFirrTyIlswJpkVJSUHEH1iU8U65wcf0WWquIV0MKiJ%2BWd%7Ctkp%3ABk9SR7CX5_-GaA",
+        "priceC": 78792,
+        "shippingC": 1358,
+        "landedC": 80150,
+        "url": "https://www.ebay.com/itm/406894789851?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&itmmeta=01M0YH7BYN4H7W6MFSYP31Y9ZW&hash=item5ebcd1c4db:g:EDEAAeSweFVp80X2&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCoejMiAUqJxRhfrNdPyQ2Xyu%2FgszO44YdHM3Y7M3wgFsbLNc%2FYQCX9NsqkuTcRHfBBTZ7AaNTpWRT4XtBzI%2Fn5IpTSEgwHGOYK2qUBYrvnj6wkElxrTTRQ1BGjGWW5KVyzom7HTHH7rHEY8kZogywru9CLW85r3fBbpboS2qF38JNqJPsSAMgGhg6K%2FZJJupL37IAbkgwU8Qy1S2GgriSgHGbj3ueCDkzR8cVDOA5dCFKxtjN%2Bns8ILYS8zM4k%2FbGiH8oAZ5%2FSDh9C32oCfaXBHdjgprv%2FGlnAfJxtVA81ls3O8Fwv0OdDBbPVknqgpUs%3D%7Ctkp%3ABk9SR9y_ndGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EDEAAeSweFVp80X2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787677537341
+        "lastSeen": 1787731157433
       },
       "counts": {
         "cgc10Bin": 4,
@@ -107,14 +107,14 @@
           "priceC": 69900,
           "shippingC": 0,
           "landedC": 69900,
-          "url": "https://www.ebay.com/itm/327299863710?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376709&itmmeta=01M0VZSSE466A23WP9EMYWSTVP&hash=item4c3497949e:g:H9MAAeSwoUJqdk7b&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAldWXBscD2HSOTDt%2F9P3td6%2Fjr4dbFYqp%2BdkPxJLRfcKhZSmBqDQyc83z8HL2z3Wfjpyx1IumhycbdOtLkgpvNrlcmdPUO%2FAwOUXSjLIK%2F6BfTvsQKNydhE3vXTo6bAnHEZciFHFP9QzCobg7K60isafQDt%2Bkt3Tm7uXY2WmN11tizo2L4%2Bzk5m%2B%2BPO6zy%2FQJYKiRniqZ%2FzpEgrmXdqzEqgsYrX0yyiNNoyiV95j6fVazlKr7bsWfbj2i1NmWrPJFxsQe3oNuNGb4kaFt51HfH6lUmmyqaM1tkbDCFZI8U19vkWvdqV8N4bnggsIh15ZM%3D%7Ctkp%3ABk9SR66X5_-GaA",
+          "url": "https://www.ebay.com/itm/327299863710?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376709&itmmeta=01M0YH7BYMFE3Y3YVWQ48JCQQB&hash=item4c3497949e:g:H9MAAeSwoUJqdk7b&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDqju4mM6SvhDYByzqYpVkOKDEvPHYGE0gcPZRhtTWd5dBRmpf%2BMefHNzc4TuyV5WNa%2FHEIqIuLY3fefWmGIRpxt7iM0I9dPKBcnQpTyaRnmMcMgsz2ZDERJIsWSqP%2FDKY2QNFZ4fKnhRpuN0G5RLsGg7%2FKpOHggy%2BgWCSHPQPJU7f%2FN5WIMBJ5ocPjvEeMKe6VXYv9NOEMEUv2IfoQ%2BN7KRp3LHMgU8zI5m6j0i0tdFBq%2FT%2FAHbBotIfNbEITftTNTRkHmxl4%2FaCT%2BFG9xcz%2B6%7Ctkp%3ABk9SR9q_ndGHaA",
           "imageUrl": "https://i.ebayimg.com/images/g/H9MAAeSwoUJqdk7b/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787055777278,
-          "lastSeen": 1787677537341
+          "lastSeen": 1787731157433
         },
         "cgc10Bin": 3,
         "cgc10Auction": 1,
@@ -136,13 +136,13 @@
         "firstOpportunityAt": 1787055777278
       },
       "firstOpportunityAt": 1787094577812,
-      "updatedAt": 1787677537341
+      "updatedAt": 1787731157433
     },
     "prices": {
       "variantId": 2810,
       "ungradedC": 20000,
-      "grade9C": 43375,
-      "grade95C": 47700,
+      "grade9C": 43263,
+      "grade95C": 47600,
       "cgc10C": 53406,
       "cgc10PristineC": 164158,
       "psa10C": 172379,
@@ -150,39 +150,24 @@
       "psa10Pop": 99,
       "cgc10Pop": 33,
       "bgs10C": 224100,
-      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787645563158
+      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
+      "fetchedAt": 1787730972812
     },
     "listings": [
       {
         "itemId": "287541278387",
         "title": "Pokemon Magcargo Skyridge H16/H32 Holo CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 99,
+        "priceC": 7100,
         "shippingC": 699,
-        "landedC": 798,
-        "url": "https://www.ebay.com/itm/287541278387?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369603&itmmeta=01M0VZSSE2ZH38VA5G9CJ8NXED&hash=item42f2cbb6b3:g:SlsAAeSwv9Nqit92&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAYaxhdGpg6agh1M1WELqlOlkbeZUGx%2FyU3BgiYhfEeGBRd%2B46ftTs1Vgnlu%2FeOdvDE3J8K7OR2Cd%2BzZihpk%2B9Fc0IrdH6DxcAUKX0Wcm%2B5TgTuxmF3GsbaAlNRPt9yBkSqlHdWxB5qKYLLRBNEFvxQnM66mf1CC4bkd38Ssr4nB%2BazS1hMNc%2BiVPX6EQqTM9Prb2Dkqdq4ZuvhqheiqoX%2BaRPjefrGXEOKl7YG2jQxOojalgQ3FeeOII%2BPJJmdjpQ2hNBQbE6TY00wxYW8NObF%7Ctkp%3ABk9SR6qX5_-GaA",
+        "landedC": 7799,
+        "url": "https://www.ebay.com/itm/287541278387?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369603&itmmeta=01M0YH7BYK3W5FFQ1BEGE5AV1W&hash=item42f2cbb6b3:g:SlsAAeSwv9Nqit92&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDF1r%2BUlS3hlwq1DnBaB6gJHAlBbcsH35sfecw90XLJxzioBFZCOnF3Ri7dxxA6cCRZ16coGD745Trc69Hd%2B4ciyduATwOpNo%2BwEdxS6ErPSY61eUolain%2FJU5UBEJPiUrq7qOZgEhkKCRIZNt%2BaVLm%2BWcFjt%2FbSZIqi05yEckIBPsaDi%2Bgc%2BT8f4gzr7bU1rXXA6y1lstae4FvkryTDQhOWGilPdJH0pzGuoz%2FmEFv%2FsfeZKnBczOZDF7BUrNJ9jjL3ZCmZJa0kPmvycGMAyeKzkVIsmt%2FlvcI31%2FoV5Cx7bU8z3aZpcofK%2BHLkZB7Wuk%3D%7Ctkp%3ABk9SR9a_ndGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/SlsAAeSwv9Nqit92/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558299109,
-        "lastSeen": 1787677537341
-      },
-      {
-        "itemId": "366621330832",
-        "title": "2003 Pokemon Skyridge Holo Rare Magcargo H17/H32 PSA 10 English 🌀Opens in a new window or tab",
-        "priceC": 30500,
-        "shippingC": 597,
-        "landedC": 31097,
-        "url": "https://www.ebay.com/itm/366621330832?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376709&itmmeta=01M0VZSSE45AF0YT1F0G5Q7FMK&hash=item555c558d90:g:qE4AAeSwTYtqMGO3&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCR%2FpuWcQrIBhe6HjSdnshn%2F0bzaadfewyhjs9%2FCnxP%2FG4ULwDF7RhI6oXc2V1QAwxua857d%2BFmyfvFngxJrodKIKotF%2FnY0HspXcZjJ0q%2FMKYThgdM1QwnskBc4Kr0KUXHnj9gzF4%2F%2BX8HBPsQ6bKfagwq6BkkSCyJuBi6WhHC6lMbA0cqF6D5KdGwF0q9%2BIxk7I2sfjbAllnwj8YPO9gpseBnOINmWmQ8pW5Ka5E%2FXzZGEQ7qJUpQXqIyeSi0ta3veAenBo6Gkf4%2BDAT6EJmS1XPVO5DmKgQCyobzHjdil%2FriaTW9i7e8BRh04GBNa2k%3D%7Ctkp%3ABk9SR66X5_-GaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/qE4AAeSwTYtqMGO3/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787385633405,
-        "lastSeen": 1787677537341
+        "lastSeen": 1787731157433
       },
       {
         "itemId": "327299863713",
@@ -190,14 +175,14 @@
         "priceC": 59900,
         "shippingC": 0,
         "landedC": 59900,
-        "url": "https://www.ebay.com/itm/327299863713?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369603&itmmeta=01M0VZSSE4G3464NJ5C0R6Y55B&hash=item4c349794a1:g:Dq8AAeSwvl9qdlAz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDutkhm%2BaD3g1Ep%2Flht9TF8Fsdstr36z4Ne%2FoAHIdvAgm2UJWC2I5OMQF2%2Br%2BFtagAWfAFNJFlvlYLiLhDcJ2ZxmQ7hIAnXy%2FGL9R032gVR8WilerwRmKxNEOQ61iBbinrxbjELfV%2FBvTg6WWoHS7ErxTQPpRgDFbVZbcAXGl%2BFAN7fS6H9va1%2F486yxOjzNUpNHxrZ0eC5QOikvjdWeiIYN4%2BO%2B1%2FBnYMuqhVqJTK1ceitjBUf8PqumVKsGUlnevLXMFxMI%2BNqVo5YemyxNxGf%7Ctkp%3ABk9SR66X5_-GaA",
+        "url": "https://www.ebay.com/itm/327299863713?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369603&itmmeta=01M0YH7BYMZHDQ6TZTYA75DP6E&hash=item4c349794a1:g:Dq8AAeSwvl9qdlAz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAnvQMAynkjgMZCRKS%2Bp8jktikZePzIS3nkDnP5lFp1RsXxEUDoVTllXh%2FumXpSrQ3gClKJe3WQiAS8IOu9f5Dt%2Bun1ckGwSAQzSbnxtDXBz%2Bij7e2uHW14jvoU0u5%2BvvCYsWyJgVBAbqOXbA0QTnZMCwQKcx6VOFudm09yag%2BOO7Y8BJme1u%2BGfvRJIQoyKyDj0oPrCGJFbzPht1j3Yql2ywLjq6210m6c8PA8tahREgPSM1hzmsmCHEVxaHA21lxErqNJvd2ylLr07YmzmbqEX%2Bmo7YnOlmP2u9gZ8ZFQoCyf6GJF5xSjvl6vTU4ldZk%3D%7Ctkp%3ABk9SR9i_ndGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Dq8AAeSwvl9qdlAz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094577812,
-        "lastSeen": 1787677537341
+        "lastSeen": 1787731157433
       },
       {
         "itemId": "327299863710",
@@ -205,14 +190,14 @@
         "priceC": 69900,
         "shippingC": 0,
         "landedC": 69900,
-        "url": "https://www.ebay.com/itm/327299863710?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376709&itmmeta=01M0VZSSE466A23WP9EMYWSTVP&hash=item4c3497949e:g:H9MAAeSwoUJqdk7b&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAldWXBscD2HSOTDt%2F9P3td6%2Fjr4dbFYqp%2BdkPxJLRfcKhZSmBqDQyc83z8HL2z3Wfjpyx1IumhycbdOtLkgpvNrlcmdPUO%2FAwOUXSjLIK%2F6BfTvsQKNydhE3vXTo6bAnHEZciFHFP9QzCobg7K60isafQDt%2Bkt3Tm7uXY2WmN11tizo2L4%2Bzk5m%2B%2BPO6zy%2FQJYKiRniqZ%2FzpEgrmXdqzEqgsYrX0yyiNNoyiV95j6fVazlKr7bsWfbj2i1NmWrPJFxsQe3oNuNGb4kaFt51HfH6lUmmyqaM1tkbDCFZI8U19vkWvdqV8N4bnggsIh15ZM%3D%7Ctkp%3ABk9SR66X5_-GaA",
+        "url": "https://www.ebay.com/itm/327299863710?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376709&itmmeta=01M0YH7BYMFE3Y3YVWQ48JCQQB&hash=item4c3497949e:g:H9MAAeSwoUJqdk7b&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDqju4mM6SvhDYByzqYpVkOKDEvPHYGE0gcPZRhtTWd5dBRmpf%2BMefHNzc4TuyV5WNa%2FHEIqIuLY3fefWmGIRpxt7iM0I9dPKBcnQpTyaRnmMcMgsz2ZDERJIsWSqP%2FDKY2QNFZ4fKnhRpuN0G5RLsGg7%2FKpOHggy%2BgWCSHPQPJU7f%2FN5WIMBJ5ocPjvEeMKe6VXYv9NOEMEUv2IfoQ%2BN7KRp3LHMgU8zI5m6j0i0tdFBq%2FT%2FAHbBotIfNbEITftTNTRkHmxl4%2FaCT%2BFG9xcz%2B6%7Ctkp%3ABk9SR9q_ndGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/H9MAAeSwoUJqdk7b/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787677537341
+        "lastSeen": 1787731157433
       },
       {
         "itemId": "307103411425",
@@ -220,29 +205,29 @@
         "priceC": 70000,
         "shippingC": 599,
         "landedC": 70599,
-        "url": "https://www.ebay.com/itm/307103411425?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376709&itmmeta=01M0VZSSE4MZR94DD6CM9RN0YB&hash=item4780ca2ce1:g:M7EAAeSw0XBqcDNy&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBpLcM6dkj6UFSy4ko2pYbBOoMjgV7MWPkk1fwwcA36c4qENjWoO0CFqzT2VXLsZMmRqcGn0fNySWsvMS2NWRkMvBjK0CHmYs2h0vImRc8qUxpuODkq2i1LyDnhC4LsKAOZqtaTpLOntnolrZ--XIP9GwyRoM%2FXgJywmH1016BonJIVB%2BQzOdMzPcfIxJqnqCUnEvQG8fbc9zjGYPEqnP990iqmkqj3zOmD4V6b%2Fju5Q56IWn5H%2FIU1MIauJzdCwZkquYPnGjQVosa5bvmXTTIg%7Ctkp%3ABk9SR66X5_-GaA",
+        "url": "https://www.ebay.com/itm/307103411425?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376709&itmmeta=01M0YH7BYMJFBQWGXB8YMQCG50&hash=item4780ca2ce1:g:M7EAAeSw0XBqcDNy&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAFWdK7WBC%2FkNVBzA2ZJOH2DYsXTIOoWZ6jlEi0iR9TTnV%2B70G6qe%2BfqXQ7livtSsNi%2FQBKRSaMV13zkaGXn2wwjs0xMSZLEE5h%2BtXI3LkgHDsk8RMa1ASrNbYXPPO7%2BDqDME1Ns8Xc7Ie0hlRAgygICmPC3DdAxUBpKfA07oMOjyv9EE%2BXz%2BdjITqSAGHhap1UR7eYX63U3ZAZGvvpY70okaNSfzb6FYwZrCn2qeZuLGMuXlT%2F%2BYHgo3S09rpzpHGYWJlpyA7xWn2OVfJZ9HH85JHrC965A%2BNIDTGxC8%2FwMRzPfLK697EFccd%2FmVbc5xY%3D%7Ctkp%3ABk9SR9q_ndGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/M7EAAeSw0XBqcDNy/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787677537341
+        "lastSeen": 1787731157433
       },
       {
         "itemId": "406894789851",
         "title": "PSA 9 Magcargo H17/H32 Skyridge E Series 2003 Pokemon Card Holo MINTOpens in a new window or tab",
-        "priceC": 78649,
-        "shippingC": 1356,
-        "landedC": 80005,
-        "url": "https://www.ebay.com/itm/406894789851?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&itmmeta=01M0VZSSE592Y7YSRFCHK2PQE0&hash=item5ebcd1c4db:g:EDEAAeSweFVp80X2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD3a1bli6WkQETmFIsVuh7DaNxrC%2F9d0%2BbtAkTMRplc0xdDaamuWwiarMEeTk5UI%2BOKukgjKKrbAmNqMndMYoxiGRZBbE5cXo2i64vJDliESfw4BT8o81%2BM%2FrFqoLu5atDyDGJlpmOGaQP6JhT%2BlDKH1UsxSd5XSfPQNzSE3YGSggxrAyXn9ALbCUwpw3kBXBYb%2Fg1M5ooV6PTbTPA%2B8NLwM3QFIBi0ZEg682qgZS%2BFirrTyIlswJpkVJSUHEH1iU8U65wcf0WWquIV0MKiJ%2BWd%7Ctkp%3ABk9SR7CX5_-GaA",
+        "priceC": 78792,
+        "shippingC": 1358,
+        "landedC": 80150,
+        "url": "https://www.ebay.com/itm/406894789851?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&itmmeta=01M0YH7BYN4H7W6MFSYP31Y9ZW&hash=item5ebcd1c4db:g:EDEAAeSweFVp80X2&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCoejMiAUqJxRhfrNdPyQ2Xyu%2FgszO44YdHM3Y7M3wgFsbLNc%2FYQCX9NsqkuTcRHfBBTZ7AaNTpWRT4XtBzI%2Fn5IpTSEgwHGOYK2qUBYrvnj6wkElxrTTRQ1BGjGWW5KVyzom7HTHH7rHEY8kZogywru9CLW85r3fBbpboS2qF38JNqJPsSAMgGhg6K%2FZJJupL37IAbkgwU8Qy1S2GgriSgHGbj3ueCDkzR8cVDOA5dCFKxtjN%2Bns8ILYS8zM4k%2FbGiH8oAZ5%2FSDh9C32oCfaXBHdjgprv%2FGlnAfJxtVA81ls3O8Fwv0OdDBbPVknqgpUs%3D%7Ctkp%3ABk9SR9y_ndGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EDEAAeSweFVp80X2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787677537341
+        "lastSeen": 1787731157433
       },
       {
         "itemId": "287479750727",
@@ -250,14 +235,29 @@
         "priceC": 90000,
         "shippingC": 999,
         "landedC": 90999,
-        "url": "https://www.ebay.com/itm/287479750727?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376709&itmmeta=01M0VZSSE4XF0680ZJRYK3Y79P&hash=item42ef20e047:g:M~kAAeSw9apqYiHQ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBifXIicRhRGti%2BLCjIgys0bdMnm1YEZwRUBA5wCuaB5pv04SGyQ9iu%2BuinJdt39aaQTWveDZSKFKAzrYxTA7TOVA7bTMBMCjNjiHoiBkMSB860RVtDqpFWyzFb4urz7LJ8aIUABG3uW3alH0%2BzBVJx%2Fvplj8vQSl6SvEzBhTR%2F1yIJKcVN7%2BPqep4jcx5nayOfnm7LVsmQMVn3ZhULIRJe5437wJuNnD1cZl5jAKM7ggfczegDZEVxFR7BR4eBkehb676n4MjaY6yXVuoyUFInJ72I1X%2F5tElzEHz3HexybT6oobhlBl6eN3wJfWB2N%2Bo%3D%7Ctkp%3ABk9SR66X5_-GaA",
+        "url": "https://www.ebay.com/itm/287479750727?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376709&itmmeta=01M0YH7BYM62AN6SAMH9MGQ7B1&hash=item42ef20e047:g:M~kAAeSw9apqYiHQ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBifXIicRhRGti%2BLCjIgys0bdMnm1YEZwRUBA5wCuaB5pv04SGyQ9iu%2BuinJdt39aaQTWveDZSKFKAzrYxTA7TOVA7bTMBMCjNjiHoiBkMSB860RVtDqpFWyzFb4urz7LKUcTNUVd%2Fyl8daqovRnF%2BrY3FdiUzA6eXY61mvcewf07bCv74svL6KDUFsZUlrnQ0mQam332bf2oh%2F3YxdXIaZPYlYy%2FeyQPVlKoe9%2F2iNQ74rEfdAMGnyJ56xepTDDPbMyrooTBUZPUzJgvkL8gtSx%2Ff%2FfJY45Ve1S3DJeIKbDelXG%2F9MG7Xwk4%2BecUxCi7I%3D%7Ctkp%3ABk9SR9q_ndGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/M~kAAeSw9apqYiHQ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787677537341
+        "lastSeen": 1787731157433
+      },
+      {
+        "itemId": "366621330832",
+        "title": "2003 Pokemon Skyridge Holo Rare Magcargo H17/H32 PSA 10 English 🌀Opens in a new window or tab",
+        "priceC": 102500,
+        "shippingC": 597,
+        "landedC": 103097,
+        "url": "https://www.ebay.com/itm/366621330832?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376709&itmmeta=01M0YH7BYMWA094TMH8VSHKYY4&hash=item555c558d90:g:qE4AAeSwTYtqMGO3&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCR%2FpuWcQrIBhe6HjSdnshn%2F0bzaadfewyhjs9%2FCnxP%2FG4ULwDF7RhI6oXc2V1QAwxua857d%2BFmyfvFngxJrodKIKotF%2FnY0HspXcZjJ0q%2FMKYThgdM1QwnskBc4Kr0KUUT1Ti4HQy%2BVaPq8VMzaaXB2vyIXP3eE2cXygr9fMyxXq8t2u6E0mBeSbZalnfz7E%2BVNjdDbZm7sVQo72oee97HIMdWO349bFqCpnK3447tUErurvpKDNe6zIFUbVb--OISQSAaASFrM7v6ys4tY4GQeT5sxVEoVhc5LGb%2FhFBGApSB%2FI99%2B6%2FICrVplpBD5VQ%3D%7Ctkp%3ABk9SR9q_ndGHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/qE4AAeSwTYtqMGO3/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787385633405,
+        "lastSeen": 1787731157433
       },
       {
         "itemId": "377412240196",
@@ -265,29 +265,29 @@
         "priceC": 111111,
         "shippingC": 540,
         "landedC": 111651,
-        "url": "https://www.ebay.com/itm/377412240196?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369603&itmmeta=01M0VZSSE44GCQQW2MPWZDSH42&hash=item57df85c344:g:HQsAAeSwxghqfEVP&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA4tMxrikjfsUd%2BAagBv5Z0pY%2Fa5u0aJFgi9wldEQvuFdHd2O%2Fgy00wrudQcNoemijUFvG0149M4ixj6nwFMSvm2nlL5%2F697EYYPLjASRRyM8JBP67dd03ru%2BLY4Qic2W0pq0%2B3j8md%2BUMhQyYgoY2p4wr0WCVYKE7mqKvOoWDP%2FC1emgomH4jzSEfwa8w%2FuQO%2BAUKtuPSwqYHJPPxpS8YypK61pYZ%2B6gEAWrSxQY2fjE24AN2Tpir3nQqWPinrzr7PDJXu196JTSkcnV3ogtPK%7Ctkp%3ABk9SR66X5_-GaA",
+        "url": "https://www.ebay.com/itm/377412240196?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369603&itmmeta=01M0YH7BYMSSSA5YNATXFS608S&hash=item57df85c344:g:HQsAAeSwxghqfEVP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDexPMfuLGOXOQNQFvPZ8iyHx%2ByHpvIFMUiQxEpgXCTxm1EEM9E7uVBZ699Kn1qEsR%2F2u%2FZRB7zEzELXhEvxg3rqRcSmVtbDqYL73t4z3Roidfsrm3iKfjtonfWABSkDitVk1aaVLvrniKNKksxGfZYGDhgHGqrblvT80x3O2MH067lTZ1q7JaSnDtmWXOQ8L3StYjweytHkeqZ53LbeTX1LTKa1HBcGfVZVGjoq9jZD%2Fq0xUXXsC21NbsOJX2SuwCSlzD1O4jHu5iF06EyG9xDt1nhnVlvdpkE7D5D0NyzLx%2Boofz9HPU4oNbXCZ31ZW8%3D%7Ctkp%3ABk9SR9q_ndGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HQsAAeSwxghqfEVP/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787677537341
+        "lastSeen": 1787731157433
       },
       {
         "itemId": "800316975867",
         "title": "2003 Pokemon Skyridge #H17 Magcargo Holo PRISTINE 10 CGC Graded! Valuable Rare ✨Opens in a new window or tab",
-        "priceC": 219999,
+        "priceC": 204599,
         "shippingC": 540,
-        "landedC": 220539,
-        "url": "https://www.ebay.com/itm/800316975867?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376709&itmmeta=01M0VZSSE4R7X0BZ7Y1G76TCZ6&hash=itemba569beafb:g:hHYAAeSwPFVqUDLy&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBHMOcz%2B2DYDWQL2iAOgpAO2UZsnCPaPfBpTUc23vIlg%2FNYtjKTZL4zSfupvJkyDo7l23Vd%2F241DDmDLI7t%2FuW%2FhwDfrn9qviAcCCTZ%2F4RHdolj9K6%2BP%2FmBtZTdrYde4ZZXvBESeh0HgR9LVGRsTSS1N0oLNae5FSiK4q35dn%2BGgTGI5iHmtyaXnuWB5Y1KVlqG5pwKT68YXISIB4BvPwHgKCWzUSqQgQpxCON2LbGXfaEPt4PT%2B1JmApPSHW%2FLrb7tSRGdlmi0v590K1QAy410%7Ctkp%3ABk9SR7CX5_-GaA",
+        "landedC": 205139,
+        "url": "https://www.ebay.com/itm/800316975867?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=19043376709&itmmeta=01M0YH7BYMYFWS2KAHH2T6K747&hash=itemba569beafb:g:hHYAAeSwPFVqUDLy&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBbg2ELrF9ylTMxuay%2F8BCpRpGXleC1OMsTjF%2FQUalORUo8IDAO7b0o29j3RkPQmr%2BOoMMMCcKNm%2FBucmw4J1z7%2FdMeP7uasQ5TJA27gb19comjvktB0gCZk3PoXD%2FCTqyxPHs0Mj7LKcO52fiunfMcsxyUHlB1z--%2FJS%2F8tARcHZ6tMdjBaDwDKnXOWJB3FWcstZg%2B%2Bb4YhnWVSjzuTOpYOvvEnwSByJ2skrvaeLp0aiPaOlHsHci4GrIky5kW6MQO9djVXnNVqXDNLoJ6TcOxP9J57u2zMuMQAB0YoxBp66zr2quhGzBC796wcM5AeLw%3D%7Ctkp%3ABk9SR9q_ndGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/hHYAAeSwPFVqUDLy/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787677537341
+        "lastSeen": 1787731157433
       },
       {
         "itemId": "157716177649",
@@ -295,14 +295,14 @@
         "priceC": 279997,
         "shippingC": 0,
         "landedC": 279997,
-        "url": "https://www.ebay.com/itm/157716177649?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369603&itmmeta=01M0VZSSE4T62SEKCJCBRTH97P&hash=item24b89de2f1:g:BF4AAeSwK6ppo51c&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBSyKS2VS62wB5o1vPzQd%2F%2Ba%2BcBb7mUt28E49lkdk0wl0qL8WZe1Nzkf6Sw5FFQG8zTkHUrwzfIshwC3H143tlmm%2BxSif8psHigrBPS%2BvWwyo782rSnZnnKL07OctgiIwgxS0aRsU9yf10HXBTL5odkkpIxhiqGwSXVh4US5%2BGI0R8SIW4EFr%2BqfxaEX6qrmiBmIeFkbE82q7wDGVeBmYtLDC8GTatrkhp4TYwmN6X1CNnt%2B7Ib2NODwbJQvVT2Egmo%2BCif6s2fy0p4w4VoTUFe3aig5C4hAGHQDGtwvfLOgBW9ib4sWnVjvp5Id0y2Xnw%3D%7Ctkp%3ABk9SR7CX5_-GaA",
+        "url": "https://www.ebay.com/itm/157716177649?_skw=%28magcargo%29+%28h17%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369603&itmmeta=01M0YH7BYMTMF47EFBS052ECGR&hash=item24b89de2f1:g:BF4AAeSwK6ppo51c&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBUQsxjsLXTBAvrq9PTjtwq8MkiO06ObcodGfN9XfqweouMrIKJD1M13he6167B9bOhz8%2FDBHjwIpuma4eAUR%2F4DGQOSrtCrsHIDNGrbSGYnjyl%2BJlU0y63lWVXKkdMCy3k0nJJFTJcpM9GH%2B5GxPjMinJGxEGhfmFGso8frc56qSqtOU%2Fpriqssky211%2ByWOpmBNPoOL8bXTtND5GGGaHf1DywnWtO06rajc%2FiaxLmKjJZTzRExZ%2BI44iS60zs2leapue58ILl8Zo79UezCpqR%7Ctkp%3ABk9SR9q_ndGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BF4AAeSwK6ppo51c/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787677537341
+        "lastSeen": 1787731157433
       }
     ],
     "marketHistory": {
@@ -1987,7 +1987,7 @@
       ],
       "englishSaleCount": 173,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787645561198
+      "lastCapturedAt": 1787730970671
     }
   }
 }

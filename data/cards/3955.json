@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 3955,
@@ -19,33 +19,33 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/xztfl6mnmb2yo7st/1600.jpg",
       "popularityScore": 87,
       "market": {
-        "ungradedC": 3227,
-        "grade9C": 8698,
-        "grade95C": 9600,
-        "cgc10C": 11276,
+        "ungradedC": 3695,
+        "grade9C": 9605,
+        "grade95C": 10600,
+        "cgc10C": 11452,
         "cgc10PristineC": 50000,
-        "psa10C": 167627,
-        "bgs10C": 217900,
+        "psa10C": 167270,
+        "bgs10C": 217500,
         "psa9Pop": 65,
         "psa10Pop": 10,
         "cgc10Pop": 24,
         "salesVolumeJson": "{\"volume: 1 sale per month\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787646588585
+        "fetchedAt": 1787731932079
       },
       "bestCgc10": {
         "itemId": "257659803392",
         "title": "2004 Pokemon Ex Fire Red & Leaf Green #19/112 Chansey Reverse Holo CGC 10Opens in a new window or tab",
         "priceC": 90000,
-        "shippingC": 0,
-        "landedC": 90000,
-        "url": "https://www.ebay.com/itm/257659803392?_skw=%28chansey%29+%2819%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=26043383863&itmmeta=01M0W0Q2BKCVM4NVXWJ4ZJSSS5&hash=item3bfdb89700:g:owEAAeSwFdNqcS-u&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAEPtpBsvFhT69M%2B8D4y6GFnhkEgRmcQMmj6m6pbra6kodKwfHHHOw4Aoy1YacquG%2BUbRguE0f1FIKsrYl3bmiG7vNrXX3eqfky%2B1GGGXFW%2F7grJoL8fgEMrMIiI71f197HoxSwg%2FyffAgwxfSFA3kFcpKxZiWHesgDDq65RSFB7BEEwbGzNbImkpqgCi%2FzNUKrzdu1kxsh4vOgz%2BAAqqetrt7iQk7xcbHtl9TVZaImTH3PzeNVGEmVjqzoy16EyAFBdYR4HT22eBrzyv2kAs2b%2B0pSbXSOK7NfeC61hekihg%3D%3D%7Ctkp%3ABk9SR4qm3ICHaA",
+        "shippingC": 5326,
+        "landedC": 95326,
+        "url": "https://www.ebay.com/itm/257659803392?_skw=%28chansey%29+%2819%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=26043383863&itmmeta=01M0YJ3H9ZSG4J410CR70A5TKJ&hash=item3bfdb89700:g:owEAAeSwFdNqcS-u&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBvkeqM%2B21pyB7lMG9eFyx0Os43ziG6Y27amvkEeknR63kNef3xqXIhPMlqejPoyGgg6waiRSolK%2BS2Dkha3dM9iDkAg4QVDcUX%2FAB9hXk2IAIq%2FUe%2F7IZ%2BJZp3N6tASPfD9xQX717Mh9oY0Ui%2BsOgWUuSMqS2Z67RDZDuzF5EBlpl5GiehJzsiyho%2Fgssnz42PbeCfGriTfv3b4VLLROXiCeW3Z5v6%2BJCsgrR9fVa3CIlaHmvn9Q2QbnTruM5P8gIZqeehLdstwHQO%2FRwG%2FGhVkFeoboWGaNj2EaIvOFEz4SM92YUBdsj9BhH8F4uDgngzSYcs9%2FFo56JvuzSn4hSz%7Ctkp%3ABk9SR5CVjtKHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/owEAAeSwFdNqcS-u/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787677564814
+        "lastSeen": 1787732062104
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -66,27 +66,27 @@
           "declaredValueCapC": 250000,
           "turnaroundBizDays": 30
         },
-        "cgc10CostC": 90000,
+        "cgc10CostC": 95326,
         "submissionFeeC": 14900,
-        "totalCostC": 104900,
-        "psa10ValueC": 167627,
-        "ratio": 1.5979694947569114
+        "totalCostC": 110226,
+        "psa10ValueC": 167270,
+        "ratio": 1.5175185527915374
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "257659803392",
           "title": "2004 Pokemon Ex Fire Red & Leaf Green #19/112 Chansey Reverse Holo CGC 10Opens in a new window or tab",
           "priceC": 90000,
-          "shippingC": 0,
-          "landedC": 90000,
-          "url": "https://www.ebay.com/itm/257659803392?_skw=%28chansey%29+%2819%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=26043383863&itmmeta=01M0W0Q2BKCVM4NVXWJ4ZJSSS5&hash=item3bfdb89700:g:owEAAeSwFdNqcS-u&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAEPtpBsvFhT69M%2B8D4y6GFnhkEgRmcQMmj6m6pbra6kodKwfHHHOw4Aoy1YacquG%2BUbRguE0f1FIKsrYl3bmiG7vNrXX3eqfky%2B1GGGXFW%2F7grJoL8fgEMrMIiI71f197HoxSwg%2FyffAgwxfSFA3kFcpKxZiWHesgDDq65RSFB7BEEwbGzNbImkpqgCi%2FzNUKrzdu1kxsh4vOgz%2BAAqqetrt7iQk7xcbHtl9TVZaImTH3PzeNVGEmVjqzoy16EyAFBdYR4HT22eBrzyv2kAs2b%2B0pSbXSOK7NfeC61hekihg%3D%3D%7Ctkp%3ABk9SR4qm3ICHaA",
+          "shippingC": 5326,
+          "landedC": 95326,
+          "url": "https://www.ebay.com/itm/257659803392?_skw=%28chansey%29+%2819%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=26043383863&itmmeta=01M0YJ3H9ZSG4J410CR70A5TKJ&hash=item3bfdb89700:g:owEAAeSwFdNqcS-u&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBvkeqM%2B21pyB7lMG9eFyx0Os43ziG6Y27amvkEeknR63kNef3xqXIhPMlqejPoyGgg6waiRSolK%2BS2Dkha3dM9iDkAg4QVDcUX%2FAB9hXk2IAIq%2FUe%2F7IZ%2BJZp3N6tASPfD9xQX717Mh9oY0Ui%2BsOgWUuSMqS2Z67RDZDuzF5EBlpl5GiehJzsiyho%2Fgssnz42PbeCfGriTfv3b4VLLROXiCeW3Z5v6%2BJCsgrR9fVa3CIlaHmvn9Q2QbnTruM5P8gIZqeehLdstwHQO%2FRwG%2FGhVkFeoboWGaNj2EaIvOFEz4SM92YUBdsj9BhH8F4uDgngzSYcs9%2FFo56JvuzSn4hSz%7Ctkp%3ABk9SR5CVjtKHaA",
           "imageUrl": "https://i.ebayimg.com/images/g/owEAAeSwFdNqcS-u/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787061354691,
-          "lastSeen": 1787677564814
+          "lastSeen": 1787732062104
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -99,47 +99,47 @@
             "declaredValueCapC": 250000,
             "turnaroundBizDays": 30
           },
-          "cgc10CostC": 90000,
+          "cgc10CostC": 95326,
           "submissionFeeC": 14900,
-          "totalCostC": 104900,
-          "psa10ValueC": 167627,
-          "ratio": 1.5979694947569114
+          "totalCostC": 110226,
+          "psa10ValueC": 167270,
+          "ratio": 1.5175185527915374
         },
         "firstOpportunityAt": 1787061354691
       },
       "firstOpportunityAt": 1787061354691,
-      "updatedAt": 1787677564814
+      "updatedAt": 1787732062104
     },
     "prices": {
       "variantId": 3955,
-      "ungradedC": 3227,
-      "grade9C": 8698,
-      "grade95C": 9600,
-      "cgc10C": 11276,
+      "ungradedC": 3695,
+      "grade9C": 9605,
+      "grade95C": 10600,
+      "cgc10C": 11452,
       "cgc10PristineC": 50000,
-      "psa10C": 167627,
+      "psa10C": 167270,
       "psa9Pop": 65,
       "psa10Pop": 10,
       "cgc10Pop": 24,
-      "bgs10C": 217900,
+      "bgs10C": 217500,
       "salesVolumeJson": "{\"volume: 1 sale per month\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787646588585
+      "fetchedAt": 1787731932079
     },
     "listings": [
       {
         "itemId": "257659803392",
         "title": "2004 Pokemon Ex Fire Red & Leaf Green #19/112 Chansey Reverse Holo CGC 10Opens in a new window or tab",
         "priceC": 90000,
-        "shippingC": 0,
-        "landedC": 90000,
-        "url": "https://www.ebay.com/itm/257659803392?_skw=%28chansey%29+%2819%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=26043383863&itmmeta=01M0W0Q2BKCVM4NVXWJ4ZJSSS5&hash=item3bfdb89700:g:owEAAeSwFdNqcS-u&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAEPtpBsvFhT69M%2B8D4y6GFnhkEgRmcQMmj6m6pbra6kodKwfHHHOw4Aoy1YacquG%2BUbRguE0f1FIKsrYl3bmiG7vNrXX3eqfky%2B1GGGXFW%2F7grJoL8fgEMrMIiI71f197HoxSwg%2FyffAgwxfSFA3kFcpKxZiWHesgDDq65RSFB7BEEwbGzNbImkpqgCi%2FzNUKrzdu1kxsh4vOgz%2BAAqqetrt7iQk7xcbHtl9TVZaImTH3PzeNVGEmVjqzoy16EyAFBdYR4HT22eBrzyv2kAs2b%2B0pSbXSOK7NfeC61hekihg%3D%3D%7Ctkp%3ABk9SR4qm3ICHaA",
+        "shippingC": 5326,
+        "landedC": 95326,
+        "url": "https://www.ebay.com/itm/257659803392?_skw=%28chansey%29+%2819%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=26043383863&itmmeta=01M0YJ3H9ZSG4J410CR70A5TKJ&hash=item3bfdb89700:g:owEAAeSwFdNqcS-u&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBvkeqM%2B21pyB7lMG9eFyx0Os43ziG6Y27amvkEeknR63kNef3xqXIhPMlqejPoyGgg6waiRSolK%2BS2Dkha3dM9iDkAg4QVDcUX%2FAB9hXk2IAIq%2FUe%2F7IZ%2BJZp3N6tASPfD9xQX717Mh9oY0Ui%2BsOgWUuSMqS2Z67RDZDuzF5EBlpl5GiehJzsiyho%2Fgssnz42PbeCfGriTfv3b4VLLROXiCeW3Z5v6%2BJCsgrR9fVa3CIlaHmvn9Q2QbnTruM5P8gIZqeehLdstwHQO%2FRwG%2FGhVkFeoboWGaNj2EaIvOFEz4SM92YUBdsj9BhH8F4uDgngzSYcs9%2FFo56JvuzSn4hSz%7Ctkp%3ABk9SR5CVjtKHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/owEAAeSwFdNqcS-u/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787677564814
+        "lastSeen": 1787732062104
       }
     ],
     "marketHistory": {
@@ -1407,7 +1407,7 @@
       ],
       "englishSaleCount": 96,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787646586080
+      "lastCapturedAt": 1787731930300
     }
   }
 }

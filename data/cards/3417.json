@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 3417,
@@ -30,7 +30,7 @@
         "psa10Pop": null,
         "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 1 sale per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787646119215
+        "fetchedAt": 1787731466311
       },
       "bestCgc10": {
         "itemId": "358843587595",
@@ -38,14 +38,14 @@
         "priceC": 330000,
         "shippingC": 540,
         "landedC": 330540,
-        "url": "https://www.ebay.com/itm/358843587595?_skw=%28shuppet%29+%2843%2Cdragon%29+%28CGC%2CPSA%29&epid=15043376996&itmmeta=01M0W08ASY9H3HT75F31C56DNF&hash=item538cbe9c0b:g:fq8AAeSw-1dqZT6W&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xASXCKtYR5gruT4j3N260om06m5I964r0npNnnx7zTUT2%2Bbe%2F4LphOHjdzNS2ovYuexjrfMUeZsw%2BfIsQn4lqEJpCr7Hxaczr10NwMFQ%2BqBMJhkoM%2F41s8JjxvUCZ67nNxZstAmPjb7gFwZu7DjKn8hsN6RhnLIEkCqf07MgODNxiFd0a5Cgp9CfS99%2B2MiMXQWy%2FbEB04lDc8BcA3JzakPiUUSkBa8hD87p0YZIYAfRJaGQZ18DtGN8J8al3mUMpLalWQbonucSQ8PH9bdmxTt%7Ctkp%3ABk9SR5StoYCHaA",
+        "url": "https://www.ebay.com/itm/358843587595?_skw=%28shuppet%29+%2843%2Cdragon%29+%28CGC%2CPSA%29&epid=15043376996&itmmeta=01M0YHMW40ZBE7D8GTFQX6Z3YV&hash=item538cbe9c0b:g:fq8AAeSw-1dqZT6W&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDe0qeO6NS%2FArfxhjVD45gOaW%2FTdQaQFnf5O0T3%2FjzchgO%2BrMKsBHvhG9laTKPTrC8bUDx8IkmX8efV8A%2BeQUcNdQK8LkruEycy945Dnfr1J6raWBtBYiEAacz%2Bw5xFN%2BstIqB0nJMsCuxwMfZvA50QGfDUATja7AfIfEykg5O9ydw0ss6xx1R4axePUkMCTW7%2F%2Be6wIoduMI6fMpasCxXHl7XzKvV1kPwEMQRxU8u5LBFTMU6%2FB1Sst6zihROezXx%2BFv5Zdive7Va%2BUKFqSgUJ1jwdFYTYYMQg1QOYuHe0zKfXCCizHM98B7n3HBmTBkQ%3D%7Ctkp%3ABk9SR5bC09GHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/fq8AAeSw-1dqZT6W/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094586231,
-        "lastSeen": 1787677560195
+        "lastSeen": 1787731584605
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -80,7 +80,7 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787094586231,
-      "updatedAt": 1787677560195
+      "updatedAt": 1787731584605
     },
     "prices": {
       "variantId": 3417,
@@ -95,7 +95,7 @@
       "cgc10Pop": null,
       "bgs10C": 304000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 1 sale per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787646119215
+      "fetchedAt": 1787731466311
     },
     "listings": [
       {
@@ -104,18 +104,31 @@
         "priceC": 330000,
         "shippingC": 540,
         "landedC": 330540,
-        "url": "https://www.ebay.com/itm/358843587595?_skw=%28shuppet%29+%2843%2Cdragon%29+%28CGC%2CPSA%29&epid=15043376996&itmmeta=01M0W08ASY9H3HT75F31C56DNF&hash=item538cbe9c0b:g:fq8AAeSw-1dqZT6W&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xASXCKtYR5gruT4j3N260om06m5I964r0npNnnx7zTUT2%2Bbe%2F4LphOHjdzNS2ovYuexjrfMUeZsw%2BfIsQn4lqEJpCr7Hxaczr10NwMFQ%2BqBMJhkoM%2F41s8JjxvUCZ67nNxZstAmPjb7gFwZu7DjKn8hsN6RhnLIEkCqf07MgODNxiFd0a5Cgp9CfS99%2B2MiMXQWy%2FbEB04lDc8BcA3JzakPiUUSkBa8hD87p0YZIYAfRJaGQZ18DtGN8J8al3mUMpLalWQbonucSQ8PH9bdmxTt%7Ctkp%3ABk9SR5StoYCHaA",
+        "url": "https://www.ebay.com/itm/358843587595?_skw=%28shuppet%29+%2843%2Cdragon%29+%28CGC%2CPSA%29&epid=15043376996&itmmeta=01M0YHMW40ZBE7D8GTFQX6Z3YV&hash=item538cbe9c0b:g:fq8AAeSw-1dqZT6W&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDe0qeO6NS%2FArfxhjVD45gOaW%2FTdQaQFnf5O0T3%2FjzchgO%2BrMKsBHvhG9laTKPTrC8bUDx8IkmX8efV8A%2BeQUcNdQK8LkruEycy945Dnfr1J6raWBtBYiEAacz%2Bw5xFN%2BstIqB0nJMsCuxwMfZvA50QGfDUATja7AfIfEykg5O9ydw0ss6xx1R4axePUkMCTW7%2F%2Be6wIoduMI6fMpasCxXHl7XzKvV1kPwEMQRxU8u5LBFTMU6%2FB1Sst6zihROezXx%2BFv5Zdive7Va%2BUKFqSgUJ1jwdFYTYYMQg1QOYuHe0zKfXCCizHM98B7n3HBmTBkQ%3D%7Ctkp%3ABk9SR5bC09GHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/fq8AAeSw-1dqZT6W/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094586231,
-        "lastSeen": 1787677560195
+        "lastSeen": 1787731584605
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 5907664,
+          "saleDate": "2026-08-24",
+          "priceC": 14250,
+          "title": "Pokémon EX Dragon Shuppet Reverse Holo 43/97 43/97",
+          "url": "https://www.ebay.com/itm/800531788467?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 4979486,
           "saleDate": "2026-08-24",
@@ -820,9 +833,9 @@
         }
       ],
       "monthlyPsa10": [],
-      "englishSaleCount": 54,
+      "englishSaleCount": 55,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787646117506
+      "lastCapturedAt": 1787731464399
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 10710,
@@ -30,7 +30,7 @@
         "psa10Pop": 15,
         "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787647325120
+        "fetchedAt": 1787732673669
       },
       "bestCgc10": {
         "itemId": "287536583263",
@@ -38,36 +38,50 @@
         "priceC": 35000,
         "shippingC": 699,
         "landedC": 35699,
-        "url": "https://www.ebay.com/itm/287536583263?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0W1DQ42HFQ3GTRSDZQRBWS3&hash=item42f284125f:g:vEEAAeSwaGNqhzEw&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCTyLPYyqC7KmvkQgkIqZkZAZEzgFQdbypgIXs0azqi0E3W%2FdOHLrmvk9z%2B6ErrZiSkBT%2FBqMirNYow8SKkR4EmbDr3FuzAgHgjlOBaNBR0HmlRh6QPKjST719%2FD0n1b7jR4sFLG%2FToexl%2FQtn1PtRpirVkuIgvtUA%2FfI4woiYnbziA%2BdZtaHCYu5oUgQhaKSpt7DOOgKS3lLKaCifpGwmacJfzDrn%2BUk68%2Bvb30wIeKAPD%2B8OLfeijqSbEtT1JeDI4qpYn3IBTy6uzjgqFGyg4ZiRV%2Bm%2BjX8NSECPYFnhLhrviKGSPOrQhgQFSowG4ZBk%3D%7Ctkp%3ABk9SR7zytoGHaA",
+        "url": "https://www.ebay.com/itm/287536583263?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0YRDCVN41GZAMEZ4NVESX2H&hash=item42f284125f:g:vEEAAeSwaGNqhzEw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDccmZDuoYfCq%2Fvl5V99toH63Y4PF1KN4Tmt%2Fn33F7DhyqIzFIDHt%2FauSMnb5%2FVPthKGFYl68dEHPuFVXMYe1EkWsEm%2FTusoIBuAZJPWJNaipVQavmhZQfy%2BM44BdLLm3lc4ycO8AC%2FOp3CVuoX1py6FcN0npSz6Q2sGHwqSloTCAiG8HdcmUKuAQNDIbECrVd%2B4kM6X4gft28p2eA6HzBEeicCkUKhvoEnM0MvfYttdiBcPI%2B%2By3p%2BjVRsIT2215boDP9idrkE0VKGbRj8CmO6%7Ctkp%3ABk9SR5TOtdiHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/vEEAAeSwaGNqhzEw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787301344218,
-        "lastSeen": 1787677540433
+        "lastSeen": 1787738656916
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "168638382212",
+        "title": "2005 POKEMON EX UNSEEN FORCES #14 SLOWKING-REVERSE FOIL PSA 10 (POP 15!!)Opens in a new window or tab",
+        "priceC": 1299900,
+        "shippingC": 624,
+        "landedC": 1300524,
+        "url": "https://www.ebay.com/itm/168638382212?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0YRDCVRBJJKQY5AQYX640JW&hash=item2743a18084:g:5MYAAeSwiipqjaol&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xARd0kenGrT9Q5P4BaEPtzTWTw78DSYeWETR2ve0x0xoS2hoYnJz9P5fCWdG%2BBtFKQZQnlv1GffKJYcI1ek3hzZJ59ZAPyB5cF0fs8Bd0kWolxQ5qglrH150FqyvqaXO1nx%2F0V1Fy03skOIkko76hsd1YvYE9h%2FeiumqG2Hb5%2F%2BO%2F8jSYPqlMYvLUfhQ5cy4invXsMcIpMgtz%2BU1tLBrX5gyZxrADiWsX3RKbgEqzx0r5IpbwBPFFSknZ%2FVdi0VNeiE8fFDXVLnth%2BXLqGrWxjXISTKHE2WWtAW7ELUeBP6jQ%3D%3D%7Ctkp%3ABk9SR57OtdiHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/5MYAAeSwiipqjaol/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787732814807,
+        "lastSeen": 1787738656916
+      },
       "bestPsa9": {
         "itemId": "318684058093",
         "title": "2005 POKEMON EX UNSEEN FORCES #14 SLOWKING-REVERSE FOIL PSA 9 DOUBLE SWIRLOpens in a new window or tab",
         "priceC": 65000,
         "shippingC": 570,
         "landedC": 65570,
-        "url": "https://www.ebay.com/itm/318684058093?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=10043375626&itmmeta=01M0W1DQ440MBJAW0F444826T7&hash=item4a330cd1ed:g:OY8AAeSwYlFqc6Oy&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAVfv%2FVOdOWFVIW8njGCSmevoUVbw1G1IiQA3DX2XSFhKig9aWIdpY57AhiVD2Z0EEU11ylgw8gD0ogSIdEPxH2qW4wDJbFCQPfysKwQZ6aPkpiUvQsLkDGAjpBT0N3XMOAij8GNBsdJFVbiCG0FUXpj9mI55zHUvv8vEjv0zLRuLw2AsuypxV%2FpR1zP6qLs4t63NX%2BzDX9ATG5V9myJHflzJ3RCJNthHi0QJh8TBsMxB69kuufcszVVC4Leq8vqJ08q%2BXMdGXHxxYdRyees%2F3BEUsorBfLWj1lHoGPrboTxA%3D%3D%7Ctkp%3ABk9SR8LytoGHaA",
+        "url": "https://www.ebay.com/itm/318684058093?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=10043375626&itmmeta=01M0YRDCVQVM3JWSDEYC2V0S4C&hash=item4a330cd1ed:g:OY8AAeSwYlFqc6Oy&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAVfv%2FVOdOWFVIW8njGCSmevoUVbw1G1IiQA3DX2XSFhJDqRZjjesfBtEEhHPg1lW8r97fxwFPnki6DDOThCl3DD4%2FEIAVhEG6MmOHRROqsgl%2FpiwMoLdluoH5fVXxM5JimMGKuACbh0khwEgAljOx3BBx7NFMRqCJpT11Lbao%2FPWl%2FYqVh1LQQclZkPKFTvUttBBAMKc%2BLhyLDstEp70z9Hg469oMI1kk04BJvrYgP1Rc0HChqt8Fthl8rXh0EwSHeXx5rv6SWpYudwpwDoSroIBqUQMrwOUymvfuN3ZA64Q%3D%3D%7Ctkp%3ABk9SR5rOtdiHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/OY8AAeSwYlFqc6Oy/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787677540433
+        "lastSeen": 1787738656916
       },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
         "psa9Bin": 5
       },
@@ -93,14 +107,14 @@
           "priceC": 250000,
           "shippingC": 0,
           "landedC": 250000,
-          "url": "https://www.ebay.com/itm/188603560853?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=14043372573&itmmeta=01M0W1DQ45KM1HAK0GCCNXZ1K7&hash=item2be9a5f395:g:s-MAAeSwxoRqSn3n&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD1vfkBcMGemVgUHw%2BgewxAm98QuMHWMtU1owDKOu9zmyuhWhZ1t91WBUxrQKrruUPp6dd121%2FS2l7cw3lD3CdyKLFycBWszM6W29Y73fnd0NIvLY4sy1cyifff6uvoSVqTmFIwu0a3%2BxdLyjOqOvPYWf3bwMcB9AE5TeBWC%2B0IYn19uVlN3ckv0agJ77wi%2B9etRPFi2vvfq5wQ%2Fkc%2BeVlwMSPh5GOUrnW1E3JnfFoGU1erGAte5RuXThTX0RG%2FEgTXRSQiBOFzlfKxC5O0n6iTYnbmuT129bz9lrLNXQLr%2BTuwMtNYtEc093D17zomvSIJY1nLK2Or45h74tViwu%2Fe%7Ctkp%3ABk9SR8TytoGHaA",
+          "url": "https://www.ebay.com/itm/188603560853?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=14043372573&itmmeta=01M0YRDCVRB83DVVE0BF56YR41&hash=item2be9a5f395:g:s-MAAeSwxoRqSn3n&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCvf%2FEo7RlY7vUNi49iP4OztRLSM6f1pC%2BLnZ0%2F9Pvr%2BVGO%2BqhIED1nlGgREF6RIdeRp2R1ZHjNYbV47KMJTtH%2FS7zYiXnkrMaHImuIR2EivdVjo3%2Bl2njLEIPKV82yUtRcFhEb4he5d41YjNq8au3nlvl1rz7I0MmLKFoLe0YGFjGgSSUJpYT8DVSiLmPnB0bwfCTyOp3PaRXyMobYdZdtz6XL8gH383mBPLYJME2ZgaHHogKZTnHUQ7czqMN%2FTtr41OIp26eYlce07jon%2Bcf6ipuW7N3vmdDiiqhlcxiapw%3D%3D%7Ctkp%3ABk9SR57OtdiHaA",
           "imageUrl": "https://i.ebayimg.com/images/g/s-MAAeSwxoRqSn3n/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787215619257,
-          "lastSeen": 1787677540433
+          "lastSeen": 1787738656916
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -122,7 +136,7 @@
         "firstOpportunityAt": 1787215619257
       },
       "firstOpportunityAt": 1787301344218,
-      "updatedAt": 1787677540433
+      "updatedAt": 1787738656916
     },
     "prices": {
       "variantId": 10710,
@@ -137,7 +151,7 @@
       "cgc10Pop": null,
       "bgs10C": 559000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787647325120
+      "fetchedAt": 1787732673669
     },
     "listings": [
       {
@@ -146,29 +160,29 @@
         "priceC": 35000,
         "shippingC": 699,
         "landedC": 35699,
-        "url": "https://www.ebay.com/itm/287536583263?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0W1DQ42HFQ3GTRSDZQRBWS3&hash=item42f284125f:g:vEEAAeSwaGNqhzEw&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCTyLPYyqC7KmvkQgkIqZkZAZEzgFQdbypgIXs0azqi0E3W%2FdOHLrmvk9z%2B6ErrZiSkBT%2FBqMirNYow8SKkR4EmbDr3FuzAgHgjlOBaNBR0HmlRh6QPKjST719%2FD0n1b7jR4sFLG%2FToexl%2FQtn1PtRpirVkuIgvtUA%2FfI4woiYnbziA%2BdZtaHCYu5oUgQhaKSpt7DOOgKS3lLKaCifpGwmacJfzDrn%2BUk68%2Bvb30wIeKAPD%2B8OLfeijqSbEtT1JeDI4qpYn3IBTy6uzjgqFGyg4ZiRV%2Bm%2BjX8NSECPYFnhLhrviKGSPOrQhgQFSowG4ZBk%3D%7Ctkp%3ABk9SR7zytoGHaA",
+        "url": "https://www.ebay.com/itm/287536583263?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0YRDCVN41GZAMEZ4NVESX2H&hash=item42f284125f:g:vEEAAeSwaGNqhzEw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDccmZDuoYfCq%2Fvl5V99toH63Y4PF1KN4Tmt%2Fn33F7DhyqIzFIDHt%2FauSMnb5%2FVPthKGFYl68dEHPuFVXMYe1EkWsEm%2FTusoIBuAZJPWJNaipVQavmhZQfy%2BM44BdLLm3lc4ycO8AC%2FOp3CVuoX1py6FcN0npSz6Q2sGHwqSloTCAiG8HdcmUKuAQNDIbECrVd%2B4kM6X4gft28p2eA6HzBEeicCkUKhvoEnM0MvfYttdiBcPI%2B%2By3p%2BjVRsIT2215boDP9idrkE0VKGbRj8CmO6%7Ctkp%3ABk9SR5TOtdiHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/vEEAAeSwaGNqhzEw/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787301344218,
-        "lastSeen": 1787677540433
+        "lastSeen": 1787738656916
       },
       {
         "itemId": "407167414755",
         "title": "2005 POKEMON EX UNSEEN FORCES #14 SLOWKING-REVERSE FOIL STAMP PSA 9 LOW POPOpens in a new window or tab",
-        "priceC": 40500,
+        "priceC": 43000,
         "shippingC": 722,
-        "landedC": 41222,
-        "url": "https://www.ebay.com/itm/407167414755?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0W1DQ42CT6W9YZ7KVKTQHFD&hash=item5ecd11b1e3:g:zsAAAeSwsZdqf2qN&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBlgZjCCPKw8NtiP54gnqqpwi3mfZgCZ2bFUzXICbMNpIA%2FZCZrw9l5l1ss%2Fq1c3MKUYzw%2BdoDJmbOzVhT0lwKaWGTa4D6JOSZUZ%2F1RGssdcnU51CU1tHV3hGakrFsVCilh8OXxsIvxqUrHZ%2FagVCJcsYFwULer5LgN8z2TXu0XmJQY%2BJ3UltvNF%2Bjh5oV5A9p3bfEfRvdV6uUizCamWTcx7FXw1Sk%2FNMyiW7YbZrB%2BaZ0wOKrqfao1r1h4ovpW%2B8vXhSjVZfZw8PRFi5muKjpLn%2FLFKHFw2j%2FO78OTyLNhzYcqgPc3ti5lmYtwxXgeKICOhRdR2xnIu3CtM%2FyC%2B3rt%7Ctkp%3ABk9SR77ytoGHaA",
+        "landedC": 43722,
+        "url": "https://www.ebay.com/itm/407167414755?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0YRDCVNBCAQW4D3WG5HBJPG&hash=item5ecd11b1e3:g:zsAAAeSwsZdqf2qN&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBlgZjCCPKw8NtiP54gnqqpwi3mfZgCZ2bFUzXICbMNpIA%2FZCZrw9l5l1ss%2Fq1c3MKUYzw%2BdoDJmbOzVhT0lwKaWGTa4D6JOSZUZ%2F1RGssdcnU51CU1tHV3hGakrFsVCinjgc67WXuttiSKEq5YXpc6Nipb0msCdjHranGHNkLmU0IdEGrn%2FxcxlO7Ktm%2Bfg2gNzBJxuY2WeSnhnJlIXcFVUbReiChM7TXijC1FpHktOsrV4WIZnrop4%2BOy611vuboGpnu7QJbOGaxerVfA%2FmPQdKbV98Nf0CEoyJJHUuT4D7Eera%2Btn3FcOoTJsury2Uhgqanzie%2FPOxuk4egneJka%7Ctkp%3ABk9SR5bOtdiHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/zsAAAeSwsZdqf2qN/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787647466067,
-        "lastSeen": 1787677540433
+        "lastSeen": 1787738656916
       },
       {
         "itemId": "318684058093",
@@ -176,14 +190,14 @@
         "priceC": 65000,
         "shippingC": 570,
         "landedC": 65570,
-        "url": "https://www.ebay.com/itm/318684058093?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=10043375626&itmmeta=01M0W1DQ440MBJAW0F444826T7&hash=item4a330cd1ed:g:OY8AAeSwYlFqc6Oy&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAVfv%2FVOdOWFVIW8njGCSmevoUVbw1G1IiQA3DX2XSFhKig9aWIdpY57AhiVD2Z0EEU11ylgw8gD0ogSIdEPxH2qW4wDJbFCQPfysKwQZ6aPkpiUvQsLkDGAjpBT0N3XMOAij8GNBsdJFVbiCG0FUXpj9mI55zHUvv8vEjv0zLRuLw2AsuypxV%2FpR1zP6qLs4t63NX%2BzDX9ATG5V9myJHflzJ3RCJNthHi0QJh8TBsMxB69kuufcszVVC4Leq8vqJ08q%2BXMdGXHxxYdRyees%2F3BEUsorBfLWj1lHoGPrboTxA%3D%3D%7Ctkp%3ABk9SR8LytoGHaA",
+        "url": "https://www.ebay.com/itm/318684058093?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=10043375626&itmmeta=01M0YRDCVQVM3JWSDEYC2V0S4C&hash=item4a330cd1ed:g:OY8AAeSwYlFqc6Oy&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAVfv%2FVOdOWFVIW8njGCSmevoUVbw1G1IiQA3DX2XSFhJDqRZjjesfBtEEhHPg1lW8r97fxwFPnki6DDOThCl3DD4%2FEIAVhEG6MmOHRROqsgl%2FpiwMoLdluoH5fVXxM5JimMGKuACbh0khwEgAljOx3BBx7NFMRqCJpT11Lbao%2FPWl%2FYqVh1LQQclZkPKFTvUttBBAMKc%2BLhyLDstEp70z9Hg469oMI1kk04BJvrYgP1Rc0HChqt8Fthl8rXh0EwSHeXx5rv6SWpYudwpwDoSroIBqUQMrwOUymvfuN3ZA64Q%3D%3D%7Ctkp%3ABk9SR5rOtdiHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/OY8AAeSwYlFqc6Oy/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787677540433
+        "lastSeen": 1787738656916
       },
       {
         "itemId": "318706635488",
@@ -191,14 +205,14 @@
         "priceC": 70000,
         "shippingC": 0,
         "landedC": 70000,
-        "url": "https://www.ebay.com/itm/318706635488?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0W1DQ44NJ0ZMY0NEGY3AFCQ&hash=item4a346552e0:g:2HIAAeSwfwBqebC8&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xByp9UZ4vvooj40KCbCssXAKwTFWxL9njH23GS1X0mMntNpu1VlvhI4xT5vPgFmQ29UOWP22jhU%2FhV%2BS%2F2KK5J635D7MzNzW5mk7O3%2BzboexRqXnDLLxtyVpmygYjv1EfjG1UNIf6paTC5xMRRrktn3LjIZZSjNDJqsq%2FugPCBWiCBqEtiE9HsQJtB3Ld2hEP9I7M6T6IDf4NsqTXrv0hXUXRuQTZF4wZFXRXzVhpFbWUwUlfA0k9gs%2FkFyN5zUWkvscOemJv2GHTyVIRYSJTCH6CAshUR2dXoM1crrw0YI8Q%3D%3D%7Ctkp%3ABk9SR8LytoGHaA",
+        "url": "https://www.ebay.com/itm/318706635488?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0YRDCVQJNJN05H02SGJQJ8B&hash=item4a346552e0:g:2HIAAeSwfwBqebC8&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xByp9UZ4vvooj40KCbCssXAKwTFWxL9njH23GS1X0mMnlmysN7S4Kowu4I%2BKBRP0LQM3AHuC4BgiDDkuWRnt5funn8aV6QORwPoT3%2FdVhRJcGmaueGtIYsy7c8LjjD4dOX3vpTt2HTo9XNZKv3aLX1xwZUrsdmH9U0vP1hqFaAslsDOBsvlacKkbOyUBLjoI7peDh5u4u4w3QYjdlG3q%2FNnHMYNBp80Z8t%2B49P%2FfgQyKOBqi5eoF5%2B48kqeW6ME3uBLxz1Bi3Pihz8n9aD%2FEtdIxOOD2H2pwyT2RQl0d5ERxA%3D%3D%7Ctkp%3ABk9SR5rOtdiHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/2HIAAeSwfwBqebC8/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787677540433
+        "lastSeen": 1787738656916
       },
       {
         "itemId": "358906519527",
@@ -206,14 +220,14 @@
         "priceC": 150000,
         "shippingC": 0,
         "landedC": 150000,
-        "url": "https://www.ebay.com/itm/358906519527?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0W1DQ44QBGY7DK2KH9D1ZR4&hash=item53907edfe7:g:PjUAAeSwU7hqc4gi&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDVBjs%2FJN1ZqQdrggoiqhXC0b%2FS%2B%2FIUFNDW9nSavqFgSsbgY6--OucUOR0L960X7xpKTRDo8ipTZcYrH3qVTFloLJX9IVP9zF%2BjSNkmMJLafLQJ2Spi0RuaUOHozbCHfYBJc6v3UDnoot75qnvE6z8M2DtvhECf8DgvqXSF9Y0cOKj43HkRsAcvn72%2Bv%2FKa92cPhLMEcQz2j53ZYqo%2F9ZaslriCraru8f9ip5q6KbF97f3%2ByfY4una0maO1ZB8Po0abvg9fuyIp6n%2F8aAf%2FTXDJb5Va1z1HgW3kVXnNEiiald3EOQ5lKto9rWJ54s%2Fz3tuxl4xqvEgVGWfNdRbuJkxu%7Ctkp%3ABk9SR8TytoGHaA",
+        "url": "https://www.ebay.com/itm/358906519527?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0YRDCVQGFA85YEF17YHB4FG&hash=item53907edfe7:g:PjUAAeSwU7hqc4gi&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDVBjs%2FJN1ZqQdrggoiqhXC0b%2FS%2B%2FIUFNDW9nSavqFgSsbgY6--OucUOR0L960X7xpKTRDo8ipTZcYrH3qVTFloLJX9IVP9zF%2BjSNkmMJLafLQJ2Spi0RuaUOHozbCHfYCksUwbzoxGnc1LJTVfeOyt2pDxWMDUhbBgWA9BAVNDyUdrQ0RSUccp51wwR%2FH6%2F6JHHK9l5ZR5y%2BBzKlRgphMbgbzS%2FTaS0jA2t%2BX%2BnNmUlscoQsHacof4Jab3xG%2F4Ad51jSn1zQ2B3e7Ee636KLV6VaXcoyZUKrRbWef0mOr3gadtHQY6IR73OOZQOcoMlDbC6LcqRDpQe9teaIlT7cNy%7Ctkp%3ABk9SR5zOtdiHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/PjUAAeSwU7hqc4gi/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787677540433
+        "lastSeen": 1787738656916
       },
       {
         "itemId": "188603560853",
@@ -221,14 +235,14 @@
         "priceC": 250000,
         "shippingC": 0,
         "landedC": 250000,
-        "url": "https://www.ebay.com/itm/188603560853?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=14043372573&itmmeta=01M0W1DQ45KM1HAK0GCCNXZ1K7&hash=item2be9a5f395:g:s-MAAeSwxoRqSn3n&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD1vfkBcMGemVgUHw%2BgewxAm98QuMHWMtU1owDKOu9zmyuhWhZ1t91WBUxrQKrruUPp6dd121%2FS2l7cw3lD3CdyKLFycBWszM6W29Y73fnd0NIvLY4sy1cyifff6uvoSVqTmFIwu0a3%2BxdLyjOqOvPYWf3bwMcB9AE5TeBWC%2B0IYn19uVlN3ckv0agJ77wi%2B9etRPFi2vvfq5wQ%2Fkc%2BeVlwMSPh5GOUrnW1E3JnfFoGU1erGAte5RuXThTX0RG%2FEgTXRSQiBOFzlfKxC5O0n6iTYnbmuT129bz9lrLNXQLr%2BTuwMtNYtEc093D17zomvSIJY1nLK2Or45h74tViwu%2Fe%7Ctkp%3ABk9SR8TytoGHaA",
+        "url": "https://www.ebay.com/itm/188603560853?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=14043372573&itmmeta=01M0YRDCVRB83DVVE0BF56YR41&hash=item2be9a5f395:g:s-MAAeSwxoRqSn3n&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCvf%2FEo7RlY7vUNi49iP4OztRLSM6f1pC%2BLnZ0%2F9Pvr%2BVGO%2BqhIED1nlGgREF6RIdeRp2R1ZHjNYbV47KMJTtH%2FS7zYiXnkrMaHImuIR2EivdVjo3%2Bl2njLEIPKV82yUtRcFhEb4he5d41YjNq8au3nlvl1rz7I0MmLKFoLe0YGFjGgSSUJpYT8DVSiLmPnB0bwfCTyOp3PaRXyMobYdZdtz6XL8gH383mBPLYJME2ZgaHHogKZTnHUQ7czqMN%2FTtr41OIp26eYlce07jon%2Bcf6ipuW7N3vmdDiiqhlcxiapw%3D%3D%7Ctkp%3ABk9SR57OtdiHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/s-MAAeSwxoRqSn3n/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787677540433
+        "lastSeen": 1787738656916
       },
       {
         "itemId": "188486769900",
@@ -236,14 +250,14 @@
         "priceC": 297500,
         "shippingC": 0,
         "landedC": 297500,
-        "url": "https://www.ebay.com/itm/188486769900?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0W1DQ45M5XY3BX0RNJZP57H&hash=item2be2afdcec:g:XbcAAeSwVqBqBLsH&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDx9pydev9Wdqp4i10JsJQxeiM4cYtYh2mS9hRZeOo9apiFtdLXriUWOUKjB2uza0aw%2FNO4uycDo26FHN%2BTZU2KtKECbT8pUZVLFaE7nQXwJT8rzsnQ6%2F4V%2BICRRW%2F0bHHpb%2BkRKmiOS6DR%2FQBpif8JmcSeMCzy82ITn3mR0QmPBGtcAhecUuM1Q5d8gUfBdjTnevOVUtSi7439TIBdpNooCm44psMN8dIWe%2FAFRPyGBo5SW4KxOBjsS1ILa6E5X5DL%2FDm7gFKhwsWlUuG5syIQFEFfQkaioZmgY%2F%2BtxycyIT4BDfhDlzPMLXge0nwn9ZRN4gWaiBaVp6oCXOboe6Fm%7Ctkp%3ABk9SR8TytoGHaA",
+        "url": "https://www.ebay.com/itm/188486769900?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0YRDCVRZ67S34GWNT7KAE9J&hash=item2be2afdcec:g:XbcAAeSwVqBqBLsH&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBmD0U0icz1soBxGFD7XVVQ8QExU94EiXSuRGLzE1KxaqSjaTgO2cccmqlTSf0tGmmtjd0k1QxfWHkAMoqjp31XHEmgxzSw3MEdk0bI1qWPlUGAOz5fAmVgZfqGG8anunA5jYIhy%2BpYyWea3eJtdYHjE8Db%2FJTNw4dlrxLj1hHkBG6XOc81uhz9R6ifigFaLje5KoclPm8hBrrefF6KaFoJd0D%2FtDaoyXTNTLo2NqAI3xKK9s8BuKVJZGoHPONDmzCrlDOneyVPd3UUYRukD3PNQYqJX9U6hq8CTrQvGXbOMg%3D%3D%7Ctkp%3ABk9SR57OtdiHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XbcAAeSwVqBqBLsH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787677540433
+        "lastSeen": 1787738656916
       },
       {
         "itemId": "117131714440",
@@ -251,14 +265,29 @@
         "priceC": 355500,
         "shippingC": 599,
         "landedC": 356099,
-        "url": "https://www.ebay.com/itm/117131714440?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0W1DQ45480BZJ3ZJGHG1PP9&hash=item1b45981f88:g:1kYAAeSwfKZp1gec&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDF1J%2FCxNmvSxdWng0EyDTa4Rh6mQ3VUQuLnkMHnlNiW8SNZ4CiyF9TfZFv4bh7B7Qb%2FrFHQ%2BhuP3MNF49qDBQwL1k58aFE3JloaG9Tk%2Fv42j0tc%2BhnBdotDhomznRWWhC8Dr%2F%2B3pGF9DFY2qVUTUDqPGzmHkW1r6orsfyNFl2T9yzqWIBpcoPJ0ss46JDsy3cvEP%2B2Fm8hApEtv%2Fvmqfs5U2030AdlUkgC%2BIeYL%2BigH02ruKKDzIOwASCYHrfVExIdi%2FrK7dS9QLSXs%2FBArreH58X0tqUtQQmlbXsADzshqGJN1naUgS%2BjGEaEWhVInqWTic3HHN51QVD2mwX4ar9V%7Ctkp%3ABk9SR8TytoGHaA",
+        "url": "https://www.ebay.com/itm/117131714440?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0YRDCVRSPJY8DVVCKH28XHA&hash=item1b45981f88:g:1kYAAeSwfKZp1gec&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDF1J%2FCxNmvSxdWng0EyDTa4Rh6mQ3VUQuLnkMHnlNiW8SNZ4CiyF9TfZFv4bh7B7Qb%2FrFHQ%2BhuP3MNF49qDBQwL1k58aFE3JloaG9Tk%2Fv42j0tc%2BhnBdotDhomznRWWhAtirULMbwDhcDaYVhYOW0asIBU3PHi4SGm4B4rJlfTA5c%2FuHjHsThuxLAaJDIR5Qqy%2BLvfKM4XeewY6HjRJgBoGHSHJtKBTmf1JoiPJSYTR%2FVONyy2F7sNIuly0igrosMARZylrHQaMLBiQQEzwvtAnvtW6Rhryww8LHdSbIKoYF80t5n%2F0v%2BkAo%2BZUeLTfhoBSVLztj%2F6fhBrCDd31zLd%7Ctkp%3ABk9SR57OtdiHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/1kYAAeSwfKZp1gec/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787677540433
+        "lastSeen": 1787738656916
+      },
+      {
+        "itemId": "168638382212",
+        "title": "2005 POKEMON EX UNSEEN FORCES #14 SLOWKING-REVERSE FOIL PSA 10 (POP 15!!)Opens in a new window or tab",
+        "priceC": 1299900,
+        "shippingC": 624,
+        "landedC": 1300524,
+        "url": "https://www.ebay.com/itm/168638382212?_skw=%28slowking%29+%2814%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=23043383379&itmmeta=01M0YRDCVRBJJKQY5AQYX640JW&hash=item2743a18084:g:5MYAAeSwiipqjaol&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xARd0kenGrT9Q5P4BaEPtzTWTw78DSYeWETR2ve0x0xoS2hoYnJz9P5fCWdG%2BBtFKQZQnlv1GffKJYcI1ek3hzZJ59ZAPyB5cF0fs8Bd0kWolxQ5qglrH150FqyvqaXO1nx%2F0V1Fy03skOIkko76hsd1YvYE9h%2FeiumqG2Hb5%2F%2BO%2F8jSYPqlMYvLUfhQ5cy4invXsMcIpMgtz%2BU1tLBrX5gyZxrADiWsX3RKbgEqzx0r5IpbwBPFFSknZ%2FVdi0VNeiE8fFDXVLnth%2BXLqGrWxjXISTKHE2WWtAW7ELUeBP6jQ%3D%3D%7Ctkp%3ABk9SR57OtdiHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/5MYAAeSwiipqjaol/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787732814807,
+        "lastSeen": 1787738656916
       }
     ],
     "marketHistory": {
@@ -438,6 +467,19 @@
           "priceC": 3900,
           "title": "2005 Pokemon TCG Slowking 14/115 Unseen Forces Reverse Holo Rare MP 14/115",
           "url": "https://www.ebay.com/itm/206409541095?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 6031310,
+          "saleDate": "2026-07-19",
+          "priceC": 16000,
+          "title": "#2 Slowking 14/115 EX Unseen Forces 2005 Reverse Holo Rare Pokémon Card",
+          "url": "https://www.ebay.com/itm/407065943386?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1812,9 +1854,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 117,
+      "englishSaleCount": 118,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787647322851
+      "lastCapturedAt": 1787732671841
     }
   }
 }

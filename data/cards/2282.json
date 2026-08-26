@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 2282,
@@ -30,7 +30,7 @@
         "psa10Pop": 14,
         "cgc10Pop": 12,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787644695601
+        "fetchedAt": 1787730403952
       },
       "bestCgc10": {
         "itemId": "307137748125",
@@ -80,7 +80,7 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787299540326,
-      "updatedAt": 1787677529172
+      "updatedAt": 1787730403952
     },
     "prices": {
       "variantId": 2282,
@@ -95,23 +95,23 @@
       "cgc10Pop": 12,
       "bgs10C": 600600,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787644695601
+      "fetchedAt": 1787730403952
     },
     "listings": [
       {
         "itemId": "287541280323",
         "title": "Pokemon Raichu Reverse Holo Expedition 25/165 PSA 9 MintOpens in a new window or tab",
-        "priceC": 11750,
+        "priceC": 15250,
         "shippingC": 699,
-        "landedC": 12449,
-        "url": "https://www.ebay.com/itm/287541280323?_skw=%28raichu%29+%2825%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=10043376516&itmmeta=01M0VZ4230MXA670MAWS7Y2P62&hash=item42f2cbbe43:g:1DMAAeSw2o5qiuB6&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAIsckne49MZtUGYrs383XAOYmn5trtbDj7iLvvYoaozzy4eXb9S94CdVL5%2Bc4ElbgBfi19jbFtvBeg89km034SD7xcLh87iHd9%2F00vKqgB1HuGXdqXPFmQtkxX4i1NMBLtcrjfS1XnDhJ1NE4SHbaBno0DYbsrGEdKY%2BSLN4gqjtMWDmrCPhF50Lw4STylspb9R0JbGu5M8pZ5ieVUg%2Bn8gFpTejYM85egkCPmnSgMuTs39WENeqrkUXdLewJsBsvv3ciVWowermgrndL8MkrsrjcuNPrwz7DNOHLPijXrsahqhu1zuz3sePOtoFne%2FdcziHljRjAc3P%2B8dWG%2F%2BNZ9%7Ctkp%3ABk9SR_ChkP-GaA",
+        "landedC": 15949,
+        "url": "https://www.ebay.com/itm/287541280323?_skw=%28raichu%29+%2825%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=10043376516&itmmeta=01M0YR6MYF6K32ZYZWYSX75RKH&hash=item42f2cbbe43:g:1DMAAeSw2o5qiuB6&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAIsckne49MZtUGYrs383XAOYmn5trtbDj7iLvvYoaozzy4eXb9S94CdVL5%2Bc4ElbgBfi19jbFtvBeg89km034SD7xcLh87iHd9%2F00vKqgB1HuGXdqXPFmQtkxX4i1NMBIFhJvnZb1SdRBtrCwZrFdQbO0H12LHL%2BJZMlv5aymouTcWlW2s7WqHa9P90gnnSpp5s5aNeDhsoO7x5mqXlfCZapXTUgB%2BuFoTXVOCp5Hs55XAN2xTjzFYkIeu8nPcXymyT15XukW4G9rUBDuZ6jElBHA1wA5Quyjf7wPc4svU42zgkUCXJXbO4sArnQp8nBfniyL8A551vTlyc8Buhst8%7Ctkp%3ABk9SR8rPmtiHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/1DMAAeSw2o5qiuB6/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787557807297,
-        "lastSeen": 1787677529172
+        "lastSeen": 1787738656916
       },
       {
         "itemId": "307137748125",
@@ -1721,7 +1721,7 @@
       ],
       "englishSaleCount": 130,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787644693518
+      "lastCapturedAt": 1787730402309
     }
   }
 }

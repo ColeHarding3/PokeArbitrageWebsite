@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 13139,
@@ -19,7 +19,7 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/6717ba7acdd4c47fdd8d9e0d7d7d1fcf50a77dbd973cd5b1829f450162ab9160/1600.jpg",
       "popularityScore": 90,
       "market": {
-        "ungradedC": 12000,
+        "ungradedC": 12478,
         "grade9C": 72500,
         "grade95C": 183300,
         "cgc10C": 112200,
@@ -30,7 +30,7 @@
         "psa10Pop": 10,
         "cgc10Pop": 3,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per month\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787650060537
+        "fetchedAt": 1787735242114
       },
       "bestCgc10": {
         "itemId": "188452758641",
@@ -48,14 +48,28 @@
         "lastSeen": 1787579286820
       },
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "336761290093",
+        "title": "1999 pokemon dragonite #2 movie promo psa mint 9Opens in a new window or tab",
+        "priceC": 18900,
+        "shippingC": 517,
+        "landedC": 19417,
+        "url": "https://www.ebay.com/itm/336761290093?_skw=%28dragonite%29+%282%2Clegends%2Cawakened%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0YNBZB09JX31JRTF6E6TQFK&hash=item4e68897d6d:g:F40AAeSwQBhqcih5&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xACl%2FJn8tF4VsCh1yWFGJYMrE%2Bv06iUGDs8k1CC1RIoxZqcsb6Dv2NgVrhds%2FxoKoKxnulGk7cINwUoWwTsuAyI%2Fn1cvyTRReaYVj83qWpFpmdm3c0lYCiCPS6BnVwK45HlpcmXDj%2BEPRBtMadCgu0YwXU6UvMHj%2FPb2%2BWMPb6k%2BwaQzvTG1IgsOUmiJ4vVLd4J6ocUq4lagbRBfo%2B%2FE%2Fo7sq3HqxAZmtOf7TEeRiA0WNAvfXtwVEKUzRbTr5HBv8JLu2aGu08iL3tnPlCxgbbsUvUqLdYxEVZ7%2FDnEnwYJ6nTBayQZLiBCQ%2FrhDcoMNWG5dUtONkdMwLU2ienK24uy%7Ctkp%3ABk9SR_71r9WHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/F40AAeSwQBhqcih5/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787735452262,
+        "lastSeen": 1787735452262
+      },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -108,11 +122,11 @@
         "firstOpportunityAt": 1787562591727
       },
       "firstOpportunityAt": 1787562591727,
-      "updatedAt": 1787650060537
+      "updatedAt": 1787735452262
     },
     "prices": {
       "variantId": 13139,
-      "ungradedC": 12000,
+      "ungradedC": 12478,
       "grade9C": 72500,
       "grade95C": 183300,
       "cgc10C": 112200,
@@ -123,9 +137,24 @@
       "cgc10Pop": 3,
       "bgs10C": 243200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per month\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787650060537
+      "fetchedAt": 1787735242114
     },
     "listings": [
+      {
+        "itemId": "336761290093",
+        "title": "1999 pokemon dragonite #2 movie promo psa mint 9Opens in a new window or tab",
+        "priceC": 18900,
+        "shippingC": 517,
+        "landedC": 19417,
+        "url": "https://www.ebay.com/itm/336761290093?_skw=%28dragonite%29+%282%2Clegends%2Cawakened%29+%28CGC%2CPSA%29&epid=5043380976&itmmeta=01M0YNBZB09JX31JRTF6E6TQFK&hash=item4e68897d6d:g:F40AAeSwQBhqcih5&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xACl%2FJn8tF4VsCh1yWFGJYMrE%2Bv06iUGDs8k1CC1RIoxZqcsb6Dv2NgVrhds%2FxoKoKxnulGk7cINwUoWwTsuAyI%2Fn1cvyTRReaYVj83qWpFpmdm3c0lYCiCPS6BnVwK45HlpcmXDj%2BEPRBtMadCgu0YwXU6UvMHj%2FPb2%2BWMPb6k%2BwaQzvTG1IgsOUmiJ4vVLd4J6ocUq4lagbRBfo%2B%2FE%2Fo7sq3HqxAZmtOf7TEeRiA0WNAvfXtwVEKUzRbTr5HBv8JLu2aGu08iL3tnPlCxgbbsUvUqLdYxEVZ7%2FDnEnwYJ6nTBayQZLiBCQ%2FrhDcoMNWG5dUtONkdMwLU2ienK24uy%7Ctkp%3ABk9SR_71r9WHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/F40AAeSwQBhqcih5/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787735452262,
+        "lastSeen": 1787735452262
+      },
       {
         "itemId": "188452758641",
         "title": "Pokemon 1999 Dragonite Battle Seal Nissui #2 CGC 10 Vintage Extremely Rare 🔥Opens in a new window or tab",
@@ -1719,7 +1748,7 @@
       ],
       "englishSaleCount": 189,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787650058783
+      "lastCapturedAt": 1787735240339
     }
   }
 }

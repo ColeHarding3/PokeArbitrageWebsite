@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 4174,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/2b6c279f2ee85c201832136c1e9b8abd2c5c38b6916720f826272f8445fd4c02/1600.jpg",
       "popularityScore": 85,
       "market": {
-        "ungradedC": 6800,
+        "ungradedC": 6950,
         "grade9C": 21223,
         "grade95C": 30000,
         "cgc10C": 26900,
         "cgc10PristineC": 48400,
-        "psa10C": 336932,
-        "bgs10C": 438000,
+        "psa10C": 331963,
+        "bgs10C": 431600,
         "psa9Pop": 130,
         "psa10Pop": 35,
         "cgc10Pop": 16,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787646818070
+        "fetchedAt": 1787732155460
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -52,22 +52,22 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787646818070
+      "updatedAt": 1787732155460
     },
     "prices": {
       "variantId": 4174,
-      "ungradedC": 6800,
+      "ungradedC": 6950,
       "grade9C": 21223,
       "grade95C": 30000,
       "cgc10C": 26900,
       "cgc10PristineC": 48400,
-      "psa10C": 336932,
+      "psa10C": 331963,
       "psa9Pop": 130,
       "psa10Pop": 35,
       "cgc10Pop": 16,
-      "bgs10C": 438000,
+      "bgs10C": 431600,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787646818070
+      "fetchedAt": 1787732155460
     },
     "listings": [
       {
@@ -1733,7 +1733,7 @@
       ],
       "englishSaleCount": 136,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787646815988
+      "lastCapturedAt": 1787732153139
     }
   }
 }

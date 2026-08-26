@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 3567,
@@ -30,7 +30,7 @@
         "psa10Pop": 75,
         "cgc10Pop": 28,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787646256335
+        "fetchedAt": 1787731598061
       },
       "bestCgc10": {
         "itemId": "287292342683",
@@ -38,36 +38,50 @@
         "priceC": 175000,
         "shippingC": 999,
         "landedC": 175999,
-        "url": "https://www.ebay.com/itm/287292342683?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0W0CAVPPTPJYRSCKDTKSA5F&hash=item42e3f5419b:g:BqwAAeSw6z9p6-JX&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCTz2Fwo7HbRgWyWbPFs9cnPA7E599cfhmwuDAbeYNByj8VZgjKKyQQQ3ZoB36SGa1bDJV61b2%2BcFzaogkGmkY%2Bam%2BUSbJafNmp9sTOJLLjsvjGma2Lq510Bk2SCM97OkVLPN8YqNpPRU4o0M0oecYXqhOoaNRqEkY4WB9nHvZ4y9pvIUMmiAeMrj6ltj9kVWCrfl1arlO5dt%2BjMhXHEKcBl6wBj02aTw3t9YSbhmuzlw%2BRWDe3t3algI7%2FwVQrq7yQY%2FM6BK6100kqkoID6ZYbrg%2BQ3D%2FfN6ttqlFbiOjycPPIXKhNOnMoIekBnFyQMFU%3D%7Ctkp%3ABk9SR4iusYCHaA",
+        "url": "https://www.ebay.com/itm/287292342683?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0YHRP93JEJDGECJE0RG6E5K&hash=item42e3f5419b:g:BqwAAeSw6z9p6-JX&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDtOZkK2HNlpr%2BhCybzvnigTGXCurhA%2BHLKxkWc3IDtMca%2FTpUkCYiuSDg8MVwgyehOcBYVBMjBtD0JGsWJedPIn02TsGAuLhAASFT%2FH%2FACxb4e9d%2FveiDdq3ZOydH0ed5bfQsWneveKFeXyvZ8tQoZB1rDv9vckDiBVdClhQlynfw2CQJ5Wi5yLY0smpn83J3Csmxp491tT0nYSFFrs%2Fr7LOq9Q%2FesTo9%2BHwHKwHCO%2F9FNkW7twQ%2BJoIru%2B555byAO9GCH62BgmoHhfPKXRdLB%7Ctkp%3ABk9SR-zk4tGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BqwAAeSw6z9p6-JX/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
-        "lastSeen": 1787677561772
+        "lastSeen": 1787731741794
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "158222436179",
+        "title": "Pokemon Jirachi 97/95 - PSA 10 - 2004 EX Team Magma vs Team Aqua Secret RareOpens in a new window or tab",
+        "priceC": 2000000,
+        "shippingC": 597,
+        "landedC": 2000597,
+        "url": "https://www.ebay.com/itm/158222436179?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0YHRP935MX9ST301XXP4BNX&hash=item24d6cac753:g:w5MAAeSwmKhqjZmc&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCQ3DMcQcmlYhZ10juja%2Fo5alwL0d2HSV1Zf0qVrnXxOPEDZf1WKAEoD035mnLg0PKz%2Fgw8%2BafoUioiLmmkQsIe190Oz25PLJqvg4ih9TeWwCWKbxnQI0sk38cPwygx3HVfAGaP420Wbch%2Fs2mkC7mKM1CjPi55C2eewU3BsymD7DSf4PObB5wjS7kdjatnraIDxoTeh%2FhS7Cpad2Bampl6MFcbALBELj0C2felGQ2Nv6m5hIUhxDk8Jesw%2BmYQVG6dq9c8TwuJ25phwih0IhAm8F8gUfpevkY%2BDoykJ3vev3QghMk1ossTsU9z7ZfaBew%3D%7Ctkp%3ABk9SR-zk4tGHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/w5MAAeSwmKhqjZmc/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787731741794,
+        "lastSeen": 1787731741794
+      },
       "bestPsa9": {
         "itemId": "820043848003",
         "title": "Jirachi 97/95 Psa 9 Team Aqua Vs Team Magma Secret Rare Holo Ex E-ReaderOpens in a new window or tab",
         "priceC": 77111,
         "shippingC": 540,
         "landedC": 77651,
-        "url": "https://www.ebay.com/itm/820043848003?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0W0CAVPNFQSKYTYN9YXA9RH&hash=itembeee6c1943:g:gwQAAeSw2DJqjPN~&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC3hBLRHz%2FDrXqYJbTl7cfv5ED3jSjxAYoEn8aHIFt%2BbYOq3etvFRKvSN4PPy1%2FZ8FlyIt8%2B4FbUZCQEye%2B5sr10mKKEMOYMOGD20icZpPERtwdkPoAWpQxbyyg5nMR2T8rtLp6t325QCDn348GkGi2%2FV1hFXdH2wVbW9ukDEWcXs3E35nBhJw0hLMn3%2B0LenZ4kIwJOmS83kVNW%2FC9yZfz75rqgd11ZPqo5JYNdZoNnmCTdqMZx%2Bi3%2B1d4XdNaNQfSRSaKWHGsuwy%2B3tlIVd51%2BdJPge3bFGLyDP%2Fp6HAtH007nc%2BAMLnx9dmvjP1byAM%3D%7Ctkp%3ABk9SR4ausYCHaA",
+        "url": "https://www.ebay.com/itm/820043848003?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0YHRP93VBEKPQM6P1Z2SNJ5&hash=itembeee6c1943:g:gwQAAeSw2DJqjPN~&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC3hBLRHz%2FDrXqYJbTl7cfv5ED3jSjxAYoEn8aHIFt%2BbYOq3etvFRKvSN4PPy1%2FZ8FlyIt8%2B4FbUZCQEye%2B5sr10mKKEMOYMOGD20icZpPERtwdkPoAWpQxbyyg5nMR2T8o4OXG3Mb4G9IebnSsPotZvb4jlA5aXKbUf5sshfBlHRxmSjYasQFnLGmSQEFuFDhYnk7qUUEZCymkfM79nn1wtULDDkhEtFgGGbD2mRQn47xsKBdixI5hvC8%2F8YFYMqNmG5cwC13IjTVoueuJJBpkp%2FkFRRdukrMhNw2KvI91P4hgKTS2M5Tntu%2BQP3WeSJA%3D%7Ctkp%3ABk9SR-zk4tGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/gwQAAeSw2DJqjPN~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787646402069,
-        "lastSeen": 1787677561772
+        "lastSeen": 1787731741794
       },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
         "psa9Bin": 3
       },
@@ -93,14 +107,14 @@
           "priceC": 175000,
           "shippingC": 999,
           "landedC": 175999,
-          "url": "https://www.ebay.com/itm/287292342683?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0W0CAVPPTPJYRSCKDTKSA5F&hash=item42e3f5419b:g:BqwAAeSw6z9p6-JX&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCTz2Fwo7HbRgWyWbPFs9cnPA7E599cfhmwuDAbeYNByj8VZgjKKyQQQ3ZoB36SGa1bDJV61b2%2BcFzaogkGmkY%2Bam%2BUSbJafNmp9sTOJLLjsvjGma2Lq510Bk2SCM97OkVLPN8YqNpPRU4o0M0oecYXqhOoaNRqEkY4WB9nHvZ4y9pvIUMmiAeMrj6ltj9kVWCrfl1arlO5dt%2BjMhXHEKcBl6wBj02aTw3t9YSbhmuzlw%2BRWDe3t3algI7%2FwVQrq7yQY%2FM6BK6100kqkoID6ZYbrg%2BQ3D%2FfN6ttqlFbiOjycPPIXKhNOnMoIekBnFyQMFU%3D%7Ctkp%3ABk9SR4iusYCHaA",
+          "url": "https://www.ebay.com/itm/287292342683?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0YHRP93JEJDGECJE0RG6E5K&hash=item42e3f5419b:g:BqwAAeSw6z9p6-JX&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDtOZkK2HNlpr%2BhCybzvnigTGXCurhA%2BHLKxkWc3IDtMca%2FTpUkCYiuSDg8MVwgyehOcBYVBMjBtD0JGsWJedPIn02TsGAuLhAASFT%2FH%2FACxb4e9d%2FveiDdq3ZOydH0ed5bfQsWneveKFeXyvZ8tQoZB1rDv9vckDiBVdClhQlynfw2CQJ5Wi5yLY0smpn83J3Csmxp491tT0nYSFFrs%2Fr7LOq9Q%2FesTo9%2BHwHKwHCO%2F9FNkW7twQ%2BJoIru%2B555byAO9GCH62BgmoHhfPKXRdLB%7Ctkp%3ABk9SR-zk4tGHaA",
           "imageUrl": "https://i.ebayimg.com/images/g/BqwAAeSw6z9p6-JX/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787059396087,
-          "lastSeen": 1787677561772
+          "lastSeen": 1787731741794
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -122,7 +136,7 @@
         "firstOpportunityAt": 1787059396087
       },
       "firstOpportunityAt": 1787059396087,
-      "updatedAt": 1787677561772
+      "updatedAt": 1787731741794
     },
     "prices": {
       "variantId": 3567,
@@ -137,7 +151,7 @@
       "cgc10Pop": 28,
       "bgs10C": 333500,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787646256335
+      "fetchedAt": 1787731598061
     },
     "listings": [
       {
@@ -146,14 +160,14 @@
         "priceC": 77111,
         "shippingC": 540,
         "landedC": 77651,
-        "url": "https://www.ebay.com/itm/820043848003?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0W0CAVPNFQSKYTYN9YXA9RH&hash=itembeee6c1943:g:gwQAAeSw2DJqjPN~&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC3hBLRHz%2FDrXqYJbTl7cfv5ED3jSjxAYoEn8aHIFt%2BbYOq3etvFRKvSN4PPy1%2FZ8FlyIt8%2B4FbUZCQEye%2B5sr10mKKEMOYMOGD20icZpPERtwdkPoAWpQxbyyg5nMR2T8rtLp6t325QCDn348GkGi2%2FV1hFXdH2wVbW9ukDEWcXs3E35nBhJw0hLMn3%2B0LenZ4kIwJOmS83kVNW%2FC9yZfz75rqgd11ZPqo5JYNdZoNnmCTdqMZx%2Bi3%2B1d4XdNaNQfSRSaKWHGsuwy%2B3tlIVd51%2BdJPge3bFGLyDP%2Fp6HAtH007nc%2BAMLnx9dmvjP1byAM%3D%7Ctkp%3ABk9SR4ausYCHaA",
+        "url": "https://www.ebay.com/itm/820043848003?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0YHRP93VBEKPQM6P1Z2SNJ5&hash=itembeee6c1943:g:gwQAAeSw2DJqjPN~&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC3hBLRHz%2FDrXqYJbTl7cfv5ED3jSjxAYoEn8aHIFt%2BbYOq3etvFRKvSN4PPy1%2FZ8FlyIt8%2B4FbUZCQEye%2B5sr10mKKEMOYMOGD20icZpPERtwdkPoAWpQxbyyg5nMR2T8o4OXG3Mb4G9IebnSsPotZvb4jlA5aXKbUf5sshfBlHRxmSjYasQFnLGmSQEFuFDhYnk7qUUEZCymkfM79nn1wtULDDkhEtFgGGbD2mRQn47xsKBdixI5hvC8%2F8YFYMqNmG5cwC13IjTVoueuJJBpkp%2FkFRRdukrMhNw2KvI91P4hgKTS2M5Tntu%2BQP3WeSJA%3D%7Ctkp%3ABk9SR-zk4tGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/gwQAAeSw2DJqjPN~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787646402069,
-        "lastSeen": 1787677561772
+        "lastSeen": 1787731741794
       },
       {
         "itemId": "366586411939",
@@ -161,29 +175,29 @@
         "priceC": 90000,
         "shippingC": 558,
         "landedC": 90558,
-        "url": "https://www.ebay.com/itm/366586411939?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0W0CAVPXJ962RN37J3YQY4V&hash=item555a40bba3:g:CEgAAeSwo4NqckNH&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBRlTqP3rMUcs8AIXXJXH7hz3Nd5BqSvmn3LDOXAGIO%2B73b6UJ%2B5F%2BB2pWadA03yB9R7f8Agt807fw3XRVly2E30Z9pPTUtIp0QlY7yaEM4Yu8B1%2BSli0jULUVs7S%2FZc4cwlhbSk78kq52WiPQZ0S8oOUXvp%2FswAsvXMfnCtQrzKNJP9IThV02yxYonWZV7vLGW8lfBKgICgqr5oXESfHD7UoXwz9Byxa2E1xkNZgQ2oi7qIfjPsHswf5CmbdBkbR2FXABST00VOTElpHQQdnZ88%2Bjr2Lu%2F1%2F4bwzc%2BqYvqMw2nYok4Zx0u0BXJ5QfCtuc%3D%7Ctkp%3ABk9SR4iusYCHaA",
+        "url": "https://www.ebay.com/itm/366586411939?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0YHRP93W082BQH4BAX3AMX9&hash=item555a40bba3:g:CEgAAeSwo4NqckNH&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBRlTqP3rMUcs8AIXXJXH7hz3Nd5BqSvmn3LDOXAGIO%2B73b6UJ%2B5F%2BB2pWadA03yB9R7f8Agt807fw3XRVly2E30Z9pPTUtIp0QlY7yaEM4Yu8B1%2BSli0jULUVs7S%2FZc4fUtaxv9CG8e7OCArM64gbN9VlziWvYbWrzNFTssGiIJePXKVx7jihaBHNAFo4TASzrHKRQ%2Bv7Tm6qUJ0V7IhZjoqTAbrp5%2Bu86wHaypYeFV24YseWK0ftbqtVju64dx0C%2FU26vkJzq484uHelEdWTEDPsqHhZIL48K0tw7UxeBJeTAVhhR1vkqkJwhVTU7x5E%3D%7Ctkp%3ABk9SR-zk4tGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/CEgAAeSwo4NqckNH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
-        "lastSeen": 1787677561772
+        "lastSeen": 1787731741794
       },
       {
         "itemId": "267728590889",
         "title": "2004 JIRACHI HOLO SECRET RARE #97 EX TEAM MAGMA VS TEAM AQUA / PSA 9 / POKEMONOpens in a new window or tab",
-        "priceC": 97869,
+        "priceC": 97912,
         "shippingC": 0,
-        "landedC": 97869,
-        "url": "https://www.ebay.com/itm/267728590889?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&itmmeta=01M0W0CAVQ5JW3VRWTFDD9EFH6&hash=item3e55de1829:g:kWcAAeSw4VVqV69T&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAuWnRRVljTr0AYxWvWA1NYxkmhZxoYbMXYWPgrVlV2ENUMOAMpLB2ADZqckdaJxDB58%2BlQPC5MeVGiRnOduU%2BvgCbyP49TSF9Cpjho648Gre9uplrwgjSJzPxfdDgy8OlT6l2%2B6sIEdfxc%2FYnkJ4IgNrJJcAooPhsRJNi7SDvmgnlfL79JZsV9FOzPBhYPxBtdSeIE4JTFKuSbdIbZaJYpIqWgv9D6pcPCevGZ9oCsl0fxWWdVvS5wN8fEliPCPwYK5hfJngj6x%2FNND6556rosu9q7B2%2Fh7A2t1Sdz5Nd9j8wl5xXaLRSrdbnrg1etyTM%3D%7Ctkp%3ABk9SR4iusYCHaA",
+        "landedC": 97912,
+        "url": "https://www.ebay.com/itm/267728590889?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&itmmeta=01M0YHRP932T3NGE5QF1ARJRXN&hash=item3e55de1829:g:kWcAAeSw4VVqV69T&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAuWnRRVljTr0AYxWvWA1NYxkmhZxoYbMXYWPgrVlV2ENUMOAMpLB2ADZqckdaJxDB58%2BlQPC5MeVGiRnOduU%2BvgCbyP49TSF9Cpjho648Gre9uplrwgjSJzPxfdDgy8OlZiMCX2fWUY6PTOdv7pO9wnXgvwWVwjVCdLboeetJ4oGqCkpvS36XTUG%2BvgnDvsSEkNyWILn37jtADQ0yHKizsFZ9kA%2FpnBlFs%2FFFu0tfXDcOk8p%2FLMuN1gbICQiAQBMi04Uv8I0ReVHnCZzdqYHp%2F63hRKYF3pq97PIwzt9%2BU97KprVXYWsBlrjuhlE3FN8w%3D%7Ctkp%3ABk9SR-zk4tGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/kWcAAeSw4VVqV69T/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
-        "lastSeen": 1787677561772
+        "lastSeen": 1787731741794
       },
       {
         "itemId": "287292342683",
@@ -191,14 +205,29 @@
         "priceC": 175000,
         "shippingC": 999,
         "landedC": 175999,
-        "url": "https://www.ebay.com/itm/287292342683?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0W0CAVPPTPJYRSCKDTKSA5F&hash=item42e3f5419b:g:BqwAAeSw6z9p6-JX&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCTz2Fwo7HbRgWyWbPFs9cnPA7E599cfhmwuDAbeYNByj8VZgjKKyQQQ3ZoB36SGa1bDJV61b2%2BcFzaogkGmkY%2Bam%2BUSbJafNmp9sTOJLLjsvjGma2Lq510Bk2SCM97OkVLPN8YqNpPRU4o0M0oecYXqhOoaNRqEkY4WB9nHvZ4y9pvIUMmiAeMrj6ltj9kVWCrfl1arlO5dt%2BjMhXHEKcBl6wBj02aTw3t9YSbhmuzlw%2BRWDe3t3algI7%2FwVQrq7yQY%2FM6BK6100kqkoID6ZYbrg%2BQ3D%2FfN6ttqlFbiOjycPPIXKhNOnMoIekBnFyQMFU%3D%7Ctkp%3ABk9SR4iusYCHaA",
+        "url": "https://www.ebay.com/itm/287292342683?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0YHRP93JEJDGECJE0RG6E5K&hash=item42e3f5419b:g:BqwAAeSw6z9p6-JX&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDtOZkK2HNlpr%2BhCybzvnigTGXCurhA%2BHLKxkWc3IDtMca%2FTpUkCYiuSDg8MVwgyehOcBYVBMjBtD0JGsWJedPIn02TsGAuLhAASFT%2FH%2FACxb4e9d%2FveiDdq3ZOydH0ed5bfQsWneveKFeXyvZ8tQoZB1rDv9vckDiBVdClhQlynfw2CQJ5Wi5yLY0smpn83J3Csmxp491tT0nYSFFrs%2Fr7LOq9Q%2FesTo9%2BHwHKwHCO%2F9FNkW7twQ%2BJoIru%2B555byAO9GCH62BgmoHhfPKXRdLB%7Ctkp%3ABk9SR-zk4tGHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BqwAAeSw6z9p6-JX/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
-        "lastSeen": 1787677561772
+        "lastSeen": 1787731741794
+      },
+      {
+        "itemId": "158222436179",
+        "title": "Pokemon Jirachi 97/95 - PSA 10 - 2004 EX Team Magma vs Team Aqua Secret RareOpens in a new window or tab",
+        "priceC": 2000000,
+        "shippingC": 597,
+        "landedC": 2000597,
+        "url": "https://www.ebay.com/itm/158222436179?_skw=%28jirachi%29+%2897%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=27043367208&itmmeta=01M0YHRP935MX9ST301XXP4BNX&hash=item24d6cac753:g:w5MAAeSwmKhqjZmc&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCQ3DMcQcmlYhZ10juja%2Fo5alwL0d2HSV1Zf0qVrnXxOPEDZf1WKAEoD035mnLg0PKz%2Fgw8%2BafoUioiLmmkQsIe190Oz25PLJqvg4ih9TeWwCWKbxnQI0sk38cPwygx3HVfAGaP420Wbch%2Fs2mkC7mKM1CjPi55C2eewU3BsymD7DSf4PObB5wjS7kdjatnraIDxoTeh%2FhS7Cpad2Bampl6MFcbALBELj0C2felGQ2Nv6m5hIUhxDk8Jesw%2BmYQVG6dq9c8TwuJ25phwih0IhAm8F8gUfpevkY%2BDoykJ3vev3QghMk1ossTsU9z7ZfaBew%3D%7Ctkp%3ABk9SR-zk4tGHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/w5MAAeSwmKhqjZmc/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787731741794,
+        "lastSeen": 1787731741794
       }
     ],
     "marketHistory": {
@@ -1878,7 +1907,7 @@
       ],
       "englishSaleCount": 172,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787646254425
+      "lastCapturedAt": 1787731596237
     }
   }
 }

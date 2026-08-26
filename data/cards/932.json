@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 932,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/1deb2d286e7eeace71a31ca506be508b14a787d518eb9070972483ac6788db0c/1600.jpg",
       "popularityScore": 93,
       "market": {
-        "ungradedC": 3800,
+        "ungradedC": 3667,
         "grade9C": 23099,
         "grade95C": 25400,
         "cgc10C": 39900,
         "cgc10PristineC": 71800,
-        "psa10C": 104846,
+        "psa10C": 104810,
         "bgs10C": 136300,
         "psa9Pop": 243,
         "psa10Pop": 42,
         "cgc10Pop": 18,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-        "fetchedAt": 1787642609459
+        "fetchedAt": 1787728962575
       },
       "bestCgc10": {
         "itemId": "277944733537",
@@ -38,14 +38,14 @@
         "priceC": 249900,
         "shippingC": 1000,
         "landedC": 250900,
-        "url": "https://www.ebay.com/itm/277944733537?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0VWXZNPQVKQ5T7Z0VZ62NGP&hash=item40b6cc0f61:g:Un4AAeSwrmRp8-L-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2BwerLMU3A737AZ3q70QlGe55zfpO3%2BiTQCRPucYrscFt7EQ26xCRAuCAx8KP3BfanHsZucPUmdJGpJqRf%2B1NXObXGtqfghhHy8psHJywISsZ00LW%2B59URDQI73k%2Bg%2BlXJ0%2Fsad7cbsTu9Ab05u6tykIcvC2FsqhH1%2B4djkIblx%2BHhBEQ7wacmaRZAoczrL4%2FLWS0TpOgDfl8SnC93XpUcEi86JVJ%2BnqDLPFKtE3H8PkA9H1qFnYg%2BYnYVoK58HkA9uFuJEwiFdT4uCLFlrcH3SKDEC334H05%2BcvU9cInGgA%3D%3D%7Ctkp%3ABk9SR4z79_yGaA",
+        "url": "https://www.ebay.com/itm/277944733537?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0YF9KFF0173RS34Q9SVE7NP&hash=item40b6cc0f61:g:Un4AAeSwrmRp8-L-&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCina0ch%2FPpapGSKVVTKA6I4NlxwDOcljDnctIkOE36iV79OfN1tMcqEJmThmXivzIsLBlV2B%2FiyY22v7D%2FyKev2i69qnAt%2BsvgfLvXqCrIV1plInyhjYp617fiGLWvpngPYHT6JbjnTeFd0Qardk531exGffw0W6FtTNB7D4B2O0VfX%2BL6OiPcj7oSoUA0CNNpDj6QDm3V%2BlDrV7a41WdLnBwXq1wDczVOE6IDgSVfXDqt0iA21MVg2WtXwP8SJ%2FTxF5SUNb3XVA6q0VLuCmi5iS4wuYMd4502JrJiusstp3qcJG1%2F9Bx9X7AgmXT4z6%2FqYVbqubfAxIOdN66qFeTe%7Ctkp%3ABk9SR4K4ps-HaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Un4AAeSwrmRp8-L-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787677572286
+        "lastSeen": 1787729158510
       },
       "bestPsa10": null,
       "bestPsa9": {
@@ -54,14 +54,14 @@
         "priceC": 49999,
         "shippingC": 999,
         "landedC": 50998,
-        "url": "https://www.ebay.com/itm/287416431092?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0VWXTREEG6N6RGP4RBRD3GQ&hash=item42eb5ab1f4:g:d48AAeSwyadqPCAj&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDK%2Bas0L%2BLzZy3lYqwuPLbAhaxSt1nDWzU8q5g7dE%2FCRdekA2q4fB%2FqQ56u48DY3QPl7lUL4%2B29zOC8HOhOAdN0utQDywO9uKKM%2FqU1cEVzLcRhUs3kG9Nvg9MxEcQWwNgJpM%2FOqqqVZMnoBHHLuBe8JSIHd8IwqGF9KW7FsoFLHMuGQ3RDjvDctf0UgaSAb2H5X26NJGYLrLqzcOABYof5OxCz8eW2xCuUUxUILaLL5bvxZviPMgW1yW%2Be1TB36%2FsV3wJkGNNpXEouUJzFY%2FGADpJj0P0yKB8xFCBdaqC4BTwQwlpon99Dsh8YrjoPEVmbhl%2F4pK4i8Hg3qPBW3tjD%7Ctkp%3ABk9SR9ys9_yGaA",
+        "url": "https://www.ebay.com/itm/287416431092?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0YF9EAX3HCHJ8HBCK95XN0Z&hash=item42eb5ab1f4:g:d48AAeSwyadqPCAj&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDK%2Bas0L%2BLzZy3lYqwuPLbAhaxSt1nDWzU8q5g7dE%2FCRdekA2q4fB%2FqQ56u48DY3QPl7lUL4%2B29zOC8HOhOAdN0utQDywO9uKKM%2FqU1cEVzLcRhUs3kG9Nvg9MxEcQWwNhCAZJZB0%2BvDsrzV%2B2TJ%2FNQ0%2B61bLSsZDEiKpyKMnBxzrK19b2hKoLaOOqMtKkQGbXxXUHnQhdWl9aGsXJhgWXN%2FzvckZJpfg%2FbJK2kdxhK1G5zOQJOn0ujW%2BBtwnMXD64xK5MCTRZHRJKwwD0f8cvOu%2B8XlCojNa1%2FgH97%2FfivaJiHq4vRBsa5alJggaC6Gq69G2qkhV86LmlsdtmAUjG0%7Ctkp%3ABk9SR-blpc-HaA",
         "imageUrl": "https://i.ebayimg.com/images/g/d48AAeSwyadqPCAj/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787677572286
+        "lastSeen": 1787729158510
       },
       "counts": {
         "cgc10Bin": 1,
@@ -83,8 +83,8 @@
         "cgc10CostC": 250900,
         "submissionFeeC": 7999,
         "totalCostC": 258899,
-        "psa10ValueC": 104846,
-        "ratio": 0.4049687329808149
+        "psa10ValueC": 104810,
+        "ratio": 0.4048296826175458
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -93,14 +93,14 @@
           "priceC": 249900,
           "shippingC": 1000,
           "landedC": 250900,
-          "url": "https://www.ebay.com/itm/277944733537?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0VWXZNPQVKQ5T7Z0VZ62NGP&hash=item40b6cc0f61:g:Un4AAeSwrmRp8-L-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2BwerLMU3A737AZ3q70QlGe55zfpO3%2BiTQCRPucYrscFt7EQ26xCRAuCAx8KP3BfanHsZucPUmdJGpJqRf%2B1NXObXGtqfghhHy8psHJywISsZ00LW%2B59URDQI73k%2Bg%2BlXJ0%2Fsad7cbsTu9Ab05u6tykIcvC2FsqhH1%2B4djkIblx%2BHhBEQ7wacmaRZAoczrL4%2FLWS0TpOgDfl8SnC93XpUcEi86JVJ%2BnqDLPFKtE3H8PkA9H1qFnYg%2BYnYVoK58HkA9uFuJEwiFdT4uCLFlrcH3SKDEC334H05%2BcvU9cInGgA%3D%3D%7Ctkp%3ABk9SR4z79_yGaA",
+          "url": "https://www.ebay.com/itm/277944733537?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0YF9KFF0173RS34Q9SVE7NP&hash=item40b6cc0f61:g:Un4AAeSwrmRp8-L-&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCina0ch%2FPpapGSKVVTKA6I4NlxwDOcljDnctIkOE36iV79OfN1tMcqEJmThmXivzIsLBlV2B%2FiyY22v7D%2FyKev2i69qnAt%2BsvgfLvXqCrIV1plInyhjYp617fiGLWvpngPYHT6JbjnTeFd0Qardk531exGffw0W6FtTNB7D4B2O0VfX%2BL6OiPcj7oSoUA0CNNpDj6QDm3V%2BlDrV7a41WdLnBwXq1wDczVOE6IDgSVfXDqt0iA21MVg2WtXwP8SJ%2FTxF5SUNb3XVA6q0VLuCmi5iS4wuYMd4502JrJiusstp3qcJG1%2F9Bx9X7AgmXT4z6%2FqYVbqubfAxIOdN66qFeTe%7Ctkp%3ABk9SR4K4ps-HaA",
           "imageUrl": "https://i.ebayimg.com/images/g/Un4AAeSwrmRp8-L-/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787043800671,
-          "lastSeen": 1787677572286
+          "lastSeen": 1787729158510
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -116,28 +116,28 @@
           "cgc10CostC": 250900,
           "submissionFeeC": 7999,
           "totalCostC": 258899,
-          "psa10ValueC": 104846,
-          "ratio": 0.4049687329808149
+          "psa10ValueC": 104810,
+          "ratio": 0.4048296826175458
         },
         "firstOpportunityAt": 1787043800671
       },
       "firstOpportunityAt": 1787043800671,
-      "updatedAt": 1787677572286
+      "updatedAt": 1787729158510
     },
     "prices": {
       "variantId": 932,
-      "ungradedC": 3800,
+      "ungradedC": 3667,
       "grade9C": 23099,
       "grade95C": 25400,
       "cgc10C": 39900,
       "cgc10PristineC": 71800,
-      "psa10C": 104846,
+      "psa10C": 104810,
       "psa9Pop": 243,
       "psa10Pop": 42,
       "cgc10Pop": 18,
       "bgs10C": 136300,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-      "fetchedAt": 1787642609459
+      "fetchedAt": 1787728962575
     },
     "listings": [
       {
@@ -146,14 +146,14 @@
         "priceC": 49999,
         "shippingC": 999,
         "landedC": 50998,
-        "url": "https://www.ebay.com/itm/287416431092?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0VWXTREEG6N6RGP4RBRD3GQ&hash=item42eb5ab1f4:g:d48AAeSwyadqPCAj&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDK%2Bas0L%2BLzZy3lYqwuPLbAhaxSt1nDWzU8q5g7dE%2FCRdekA2q4fB%2FqQ56u48DY3QPl7lUL4%2B29zOC8HOhOAdN0utQDywO9uKKM%2FqU1cEVzLcRhUs3kG9Nvg9MxEcQWwNgJpM%2FOqqqVZMnoBHHLuBe8JSIHd8IwqGF9KW7FsoFLHMuGQ3RDjvDctf0UgaSAb2H5X26NJGYLrLqzcOABYof5OxCz8eW2xCuUUxUILaLL5bvxZviPMgW1yW%2Be1TB36%2FsV3wJkGNNpXEouUJzFY%2FGADpJj0P0yKB8xFCBdaqC4BTwQwlpon99Dsh8YrjoPEVmbhl%2F4pK4i8Hg3qPBW3tjD%7Ctkp%3ABk9SR9ys9_yGaA",
+        "url": "https://www.ebay.com/itm/287416431092?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0YF9EAX3HCHJ8HBCK95XN0Z&hash=item42eb5ab1f4:g:d48AAeSwyadqPCAj&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDK%2Bas0L%2BLzZy3lYqwuPLbAhaxSt1nDWzU8q5g7dE%2FCRdekA2q4fB%2FqQ56u48DY3QPl7lUL4%2B29zOC8HOhOAdN0utQDywO9uKKM%2FqU1cEVzLcRhUs3kG9Nvg9MxEcQWwNhCAZJZB0%2BvDsrzV%2B2TJ%2FNQ0%2B61bLSsZDEiKpyKMnBxzrK19b2hKoLaOOqMtKkQGbXxXUHnQhdWl9aGsXJhgWXN%2FzvckZJpfg%2FbJK2kdxhK1G5zOQJOn0ujW%2BBtwnMXD64xK5MCTRZHRJKwwD0f8cvOu%2B8XlCojNa1%2FgH97%2FfivaJiHq4vRBsa5alJggaC6Gq69G2qkhV86LmlsdtmAUjG0%7Ctkp%3ABk9SR-blpc-HaA",
         "imageUrl": "https://i.ebayimg.com/images/g/d48AAeSwyadqPCAj/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787677572286
+        "lastSeen": 1787729158510
       },
       {
         "itemId": "277944733537",
@@ -161,14 +161,14 @@
         "priceC": 249900,
         "shippingC": 1000,
         "landedC": 250900,
-        "url": "https://www.ebay.com/itm/277944733537?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0VWXZNPQVKQ5T7Z0VZ62NGP&hash=item40b6cc0f61:g:Un4AAeSwrmRp8-L-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xD%2BwerLMU3A737AZ3q70QlGe55zfpO3%2BiTQCRPucYrscFt7EQ26xCRAuCAx8KP3BfanHsZucPUmdJGpJqRf%2B1NXObXGtqfghhHy8psHJywISsZ00LW%2B59URDQI73k%2Bg%2BlXJ0%2Fsad7cbsTu9Ab05u6tykIcvC2FsqhH1%2B4djkIblx%2BHhBEQ7wacmaRZAoczrL4%2FLWS0TpOgDfl8SnC93XpUcEi86JVJ%2BnqDLPFKtE3H8PkA9H1qFnYg%2BYnYVoK58HkA9uFuJEwiFdT4uCLFlrcH3SKDEC334H05%2BcvU9cInGgA%3D%3D%7Ctkp%3ABk9SR4z79_yGaA",
+        "url": "https://www.ebay.com/itm/277944733537?_skw=%28rockets%2Csnorlax%29+%2833%2Cgym%2Cheroes%29+%28CGC%2CPSA%29&epid=28043373927&itmmeta=01M0YF9KFF0173RS34Q9SVE7NP&hash=item40b6cc0f61:g:Un4AAeSwrmRp8-L-&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCina0ch%2FPpapGSKVVTKA6I4NlxwDOcljDnctIkOE36iV79OfN1tMcqEJmThmXivzIsLBlV2B%2FiyY22v7D%2FyKev2i69qnAt%2BsvgfLvXqCrIV1plInyhjYp617fiGLWvpngPYHT6JbjnTeFd0Qardk531exGffw0W6FtTNB7D4B2O0VfX%2BL6OiPcj7oSoUA0CNNpDj6QDm3V%2BlDrV7a41WdLnBwXq1wDczVOE6IDgSVfXDqt0iA21MVg2WtXwP8SJ%2FTxF5SUNb3XVA6q0VLuCmi5iS4wuYMd4502JrJiusstp3qcJG1%2F9Bx9X7AgmXT4z6%2FqYVbqubfAxIOdN66qFeTe%7Ctkp%3ABk9SR4K4ps-HaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Un4AAeSwrmRp8-L-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787043800671,
-        "lastSeen": 1787677572286
+        "lastSeen": 1787729158510
       }
     ],
     "marketHistory": {
@@ -1798,7 +1798,7 @@
       ],
       "englishSaleCount": 208,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787642606608
+      "lastCapturedAt": 1787728960247
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 4007,
@@ -19,185 +19,156 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/lyf66z7oasctn2us/1600.jpg",
       "popularityScore": 80,
       "market": {
-        "ungradedC": 2937,
-        "grade9C": 7041,
+        "ungradedC": 2905,
+        "grade9C": 7046,
         "grade95C": 31200,
         "cgc10C": 15000,
         "cgc10PristineC": 39900,
-        "psa10C": 105516,
-        "bgs10C": 137200,
+        "psa10C": 189600,
+        "bgs10C": 246500,
         "psa9Pop": 69,
         "psa10Pop": 19,
         "cgc10Pop": 17,
         "salesVolumeJson": "{\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\",\"volume: 4 sales per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787646608663
+        "fetchedAt": 1787731952820
       },
       "bestCgc10": {
         "itemId": "820044337896",
         "title": "Poliwhirl 46/112 EX FireRed & LeafGreen Reverse Holo CGC 10Opens in a new window or tab",
         "priceC": 100000,
-        "shippingC": 527,
-        "landedC": 100527,
-        "url": "https://www.ebay.com/itm/820044337896?_skw=%28poliwhirl%29+%2846%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=8043377757&itmmeta=01M0W0Q9PQA3HCCMC08V537AXT&hash=itembeee7392e8:g:3ZkAAeSwRvdqjSPo&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB2Xzu1kY%2F04iTz2jdtRD5GkOcptKJRBFz9DcE4TJTvJvFBSMimUAZDc7vlPShy9BFAobFXWHBTOB8njevXF4yAREWP3TveXcJHNQsfkSfcgOKoVgLkkH%2FXffqZsPQCYaf7AF7QdnGiDJHVeETMtRxrffnMjHUFW41ZIG7dX%2F75oGzN8GKqnAstjOlVa5oWXr3m4InJgXmZ4KcywBGFaa5KNwCFjP32vy6h%2FAtcvzgOScraxsmYIyERiNcT5uuRedvm0G6rRgJnbn2l%2FozGtubTTr7qM9zc2TRR7XAPc03HVQ%3D%3D%7Ctkp%3ABk9SR8qb3YCHaA",
+        "shippingC": 6411,
+        "landedC": 106411,
+        "url": "https://www.ebay.com/itm/820044337896?_skw=%28poliwhirl%29+%2846%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=8043377757&itmmeta=01M0YJ3S3T07HGWN3D4GYPDJBX&hash=itembeee7392e8:g:3ZkAAeSwRvdqjSPo&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBVO4tTxyM20ct12y%2BBwy6JMU7QlwuxXIXkr8xa%2FWtze5y6PoL%2B%2FXDyJEHDvLJkhnZ8wvxCPGx%2BK%2BX5GkGCapHU3MKpdWt8w50kYBALkTjKBBXlyQ7S2H%2F22LEYoY%2B19gC7X8k1TNCHjc%2FZdvGdynOiNLGC%2BeeadlBdj3enCimJb0vssJVrDWNI8PiWWJe5gMIOtnfEUkbRK2FgR7LS8aF2aD4mMlUUSPXcZiVhxvYU8aohOiQe%2BRQ1vKLY6gD7Wi72L5EaMQ%2FhLSY7v8YwFS7XPjnaoUroUPJITQgVe%2B9DhbpY8l%2FUZ0eDqbapoHdlstW5ZD9N%2FTBNv1E8VrEr%2FZa7%7Ctkp%3ABk9SR4SSj9KHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/3ZkAAeSwRvdqjSPo/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787646719946,
-        "lastSeen": 1787677564814
+        "lastSeen": 1787732062104
       },
       "bestPsa10": {
         "itemId": "157636873426",
         "title": "PSA 10 Poliwhirl 46/112 Reverse Foil Fire Red & Leaf Green EX Pokemon Card MINTOpens in a new window or tab",
-        "priceC": 272633,
-        "shippingC": 10737,
-        "landedC": 283370,
-        "url": "https://www.ebay.com/itm/157636873426?_skw=%28poliwhirl%29+%2846%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24052750167&itmmeta=01M0W0Q9PQKSQJ2S55YJBNHFAD&hash=item24b3e3ccd2:g:y4QAAeSwgsVpdkcz&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCEGd88rx%2BQ0ZZ7MmslIzwJd1kC9ZNj%2FkI4TSR1Z0zKy2F5cQW9W86awl78lZ1OvkHF0oclksKslxxOP%2BcblksoHGNsmY0GFgIy3N9YFpu6DiyV5DJaMTWOSi5DAquDYmt0p2PBv3eGC3Osk6GEKOQEt4Fy1THXCYhzjLsamNwhOi47f9NULf9UEMoQ7n4DuK%2BBPhY%2BthJWSd%2FN1ZqoQDkv0USSdMhTTUJSOgWWrQykq%2B%2FCOQAQV4JwDEj1EDqfm%2FzEok%2BBVfMR7Kj8Qhl5vaqw4%2FyJd28uc3Gu3ON1EKzkAaTyMKlszwK6jMj3mj%2FcLsvtuJVLrQN41c5FTT0ErV1I%7Ctkp%3ABk9SR8yb3YCHaA",
+        "priceC": 272973,
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/157636873426?_skw=%28poliwhirl%29+%2846%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24052750167&itmmeta=01M0YJ3S3V49P39KMJG15ST7XM&hash=item24b3e3ccd2:g:y4QAAeSwgsVpdkcz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAhXEe2GncBWhn5ht%2FtWEDjKvyDqrjEVRVutWPGPit%2FxwhE7SOg6cxJhhzAJFYZSyX2zhhYDK3oN9BM4rRUWeY5AvvPYRykcneB%2BTOK5JIExI7dd6Y49eUsX4BL7gOCoJsPXJMMyWVLc%2B4Accr%2Bkm88IGmWsh9MgL%2FsPqRl7m5cwxUlXETwonN3BW7EcI%2BpVBDbNB0LcvdyZCTqXl0bB3WegIFnbwpzTQRtuWQPgaSyNBFKGzlHrKrUlED5fTu4iDb7Y43Mxz4uv2Fd1PWhH%2Bjskp1SHhp5ao8sR8%2Baov%2FpaA%3D%3D%7Ctkp%3ABk9SR4SSj9KHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/y4QAAeSwgsVpdkcz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787677564814
+        "lastSeen": 1787732062104
       },
-      "bestPsa9": {
-        "itemId": "278122721792",
-        "title": "Poliwhirl - Fire Red & Leaf Green - Reverse Holo - 46/112 - PSA 9 - 2004 PokemonOpens in a new window or tab",
-        "priceC": 34999,
-        "shippingC": 0,
-        "landedC": 34999,
-        "url": "https://www.ebay.com/itm/278122721792?_skw=%28poliwhirl%29+%2846%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=8043377757&itmmeta=01M0W0Q9PQPDCMF2PTV4367G8N&hash=item40c167f200:g:gHkAAeSwTslqPGsp&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDa%2FYSkyvXmf6ygjVqeYjra15TfUyWd0fJPVsDaGT3PoE5T1%2BvUcBK%2BIa8OfeIaTRfnb4vQ7%2Fzm1LFmRyUr%2B87bvFIXteTIP1%2BnYCTYFK%2FDODh9k5XLXUcW7vW5Sm5O%2FHa1MreeCY%2FW8uesVgQf4Pal%2FDmuQgRyM%2F7vcV0%2Fe8ej8h%2BuhbUdnOGikBVUnsomYvs%2BlhcFdKR88vDD0W3uOERZn4tA895kfF%2F7KncYFevPmJZZ1kwb5X1Fn%2BH%2FJiJ4qNyiD7aSJDCcYRacxxZDUQf0YAxx2BNycmk8jux3l%2F8KhKnGueEDzO2UCwIKbs8Nk%2BmW9HjkG3tPfyx1wMYcz8x8%7Ctkp%3ABk9SR8qb3YCHaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/gHkAAeSwTslqPGsp/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787061354691,
-        "lastSeen": 1787677564814
-      },
+      "bestPsa9": null,
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 1,
         "psa10Auction": 0,
-        "psa9Bin": 1
+        "psa9Bin": 0
       },
       "ratio": {
         "ok": true,
         "tier": {
-          "id": "regular",
-          "label": "Regular",
-          "feeC": 7999,
-          "declaredValueCapC": 150000,
-          "turnaroundBizDays": 50
+          "id": "express",
+          "label": "Express",
+          "feeC": 14900,
+          "declaredValueCapC": 250000,
+          "turnaroundBizDays": 30
         },
-        "cgc10CostC": 100527,
-        "submissionFeeC": 7999,
-        "totalCostC": 108526,
-        "psa10ValueC": 105516,
-        "ratio": 0.9722647107605551
+        "cgc10CostC": 106411,
+        "submissionFeeC": 14900,
+        "totalCostC": 121311,
+        "psa10ValueC": 189600,
+        "ratio": 1.5629250438954423
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "820044337896",
           "title": "Poliwhirl 46/112 EX FireRed & LeafGreen Reverse Holo CGC 10Opens in a new window or tab",
           "priceC": 100000,
-          "shippingC": 527,
-          "landedC": 100527,
-          "url": "https://www.ebay.com/itm/820044337896?_skw=%28poliwhirl%29+%2846%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=8043377757&itmmeta=01M0W0Q9PQA3HCCMC08V537AXT&hash=itembeee7392e8:g:3ZkAAeSwRvdqjSPo&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB2Xzu1kY%2F04iTz2jdtRD5GkOcptKJRBFz9DcE4TJTvJvFBSMimUAZDc7vlPShy9BFAobFXWHBTOB8njevXF4yAREWP3TveXcJHNQsfkSfcgOKoVgLkkH%2FXffqZsPQCYaf7AF7QdnGiDJHVeETMtRxrffnMjHUFW41ZIG7dX%2F75oGzN8GKqnAstjOlVa5oWXr3m4InJgXmZ4KcywBGFaa5KNwCFjP32vy6h%2FAtcvzgOScraxsmYIyERiNcT5uuRedvm0G6rRgJnbn2l%2FozGtubTTr7qM9zc2TRR7XAPc03HVQ%3D%3D%7Ctkp%3ABk9SR8qb3YCHaA",
+          "shippingC": 6411,
+          "landedC": 106411,
+          "url": "https://www.ebay.com/itm/820044337896?_skw=%28poliwhirl%29+%2846%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=8043377757&itmmeta=01M0YJ3S3T07HGWN3D4GYPDJBX&hash=itembeee7392e8:g:3ZkAAeSwRvdqjSPo&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBVO4tTxyM20ct12y%2BBwy6JMU7QlwuxXIXkr8xa%2FWtze5y6PoL%2B%2FXDyJEHDvLJkhnZ8wvxCPGx%2BK%2BX5GkGCapHU3MKpdWt8w50kYBALkTjKBBXlyQ7S2H%2F22LEYoY%2B19gC7X8k1TNCHjc%2FZdvGdynOiNLGC%2BeeadlBdj3enCimJb0vssJVrDWNI8PiWWJe5gMIOtnfEUkbRK2FgR7LS8aF2aD4mMlUUSPXcZiVhxvYU8aohOiQe%2BRQ1vKLY6gD7Wi72L5EaMQ%2FhLSY7v8YwFS7XPjnaoUroUPJITQgVe%2B9DhbpY8l%2FUZ0eDqbapoHdlstW5ZD9N%2FTBNv1E8VrEr%2FZa7%7Ctkp%3ABk9SR4SSj9KHaA",
           "imageUrl": "https://i.ebayimg.com/images/g/3ZkAAeSwRvdqjSPo/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787646719946,
-          "lastSeen": 1787677564814
+          "lastSeen": 1787732062104
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "ratio": {
           "ok": true,
           "tier": {
-            "id": "regular",
-            "label": "Regular",
-            "feeC": 7999,
-            "declaredValueCapC": 150000,
-            "turnaroundBizDays": 50
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
           },
-          "cgc10CostC": 100527,
-          "submissionFeeC": 7999,
-          "totalCostC": 108526,
-          "psa10ValueC": 105516,
-          "ratio": 0.9722647107605551
+          "cgc10CostC": 106411,
+          "submissionFeeC": 14900,
+          "totalCostC": 121311,
+          "psa10ValueC": 189600,
+          "ratio": 1.5629250438954423
         },
         "firstOpportunityAt": 1787646719946
       },
       "firstOpportunityAt": 1787646719946,
-      "updatedAt": 1787677564814
+      "updatedAt": 1787732062104
     },
     "prices": {
       "variantId": 4007,
-      "ungradedC": 2937,
-      "grade9C": 7041,
+      "ungradedC": 2905,
+      "grade9C": 7046,
       "grade95C": 31200,
       "cgc10C": 15000,
       "cgc10PristineC": 39900,
-      "psa10C": 105516,
+      "psa10C": 189600,
       "psa9Pop": 69,
       "psa10Pop": 19,
       "cgc10Pop": 17,
-      "bgs10C": 137200,
+      "bgs10C": 246500,
       "salesVolumeJson": "{\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\",\"volume: 4 sales per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787646608663
+      "fetchedAt": 1787731952820
     },
     "listings": [
-      {
-        "itemId": "278122721792",
-        "title": "Poliwhirl - Fire Red & Leaf Green - Reverse Holo - 46/112 - PSA 9 - 2004 PokemonOpens in a new window or tab",
-        "priceC": 34999,
-        "shippingC": 0,
-        "landedC": 34999,
-        "url": "https://www.ebay.com/itm/278122721792?_skw=%28poliwhirl%29+%2846%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=8043377757&itmmeta=01M0W0Q9PQPDCMF2PTV4367G8N&hash=item40c167f200:g:gHkAAeSwTslqPGsp&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDa%2FYSkyvXmf6ygjVqeYjra15TfUyWd0fJPVsDaGT3PoE5T1%2BvUcBK%2BIa8OfeIaTRfnb4vQ7%2Fzm1LFmRyUr%2B87bvFIXteTIP1%2BnYCTYFK%2FDODh9k5XLXUcW7vW5Sm5O%2FHa1MreeCY%2FW8uesVgQf4Pal%2FDmuQgRyM%2F7vcV0%2Fe8ej8h%2BuhbUdnOGikBVUnsomYvs%2BlhcFdKR88vDD0W3uOERZn4tA895kfF%2F7KncYFevPmJZZ1kwb5X1Fn%2BH%2FJiJ4qNyiD7aSJDCcYRacxxZDUQf0YAxx2BNycmk8jux3l%2F8KhKnGueEDzO2UCwIKbs8Nk%2BmW9HjkG3tPfyx1wMYcz8x8%7Ctkp%3ABk9SR8qb3YCHaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/gHkAAeSwTslqPGsp/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787061354691,
-        "lastSeen": 1787677564814
-      },
       {
         "itemId": "820044337896",
         "title": "Poliwhirl 46/112 EX FireRed & LeafGreen Reverse Holo CGC 10Opens in a new window or tab",
         "priceC": 100000,
-        "shippingC": 527,
-        "landedC": 100527,
-        "url": "https://www.ebay.com/itm/820044337896?_skw=%28poliwhirl%29+%2846%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=8043377757&itmmeta=01M0W0Q9PQA3HCCMC08V537AXT&hash=itembeee7392e8:g:3ZkAAeSwRvdqjSPo&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB2Xzu1kY%2F04iTz2jdtRD5GkOcptKJRBFz9DcE4TJTvJvFBSMimUAZDc7vlPShy9BFAobFXWHBTOB8njevXF4yAREWP3TveXcJHNQsfkSfcgOKoVgLkkH%2FXffqZsPQCYaf7AF7QdnGiDJHVeETMtRxrffnMjHUFW41ZIG7dX%2F75oGzN8GKqnAstjOlVa5oWXr3m4InJgXmZ4KcywBGFaa5KNwCFjP32vy6h%2FAtcvzgOScraxsmYIyERiNcT5uuRedvm0G6rRgJnbn2l%2FozGtubTTr7qM9zc2TRR7XAPc03HVQ%3D%3D%7Ctkp%3ABk9SR8qb3YCHaA",
+        "shippingC": 6411,
+        "landedC": 106411,
+        "url": "https://www.ebay.com/itm/820044337896?_skw=%28poliwhirl%29+%2846%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=8043377757&itmmeta=01M0YJ3S3T07HGWN3D4GYPDJBX&hash=itembeee7392e8:g:3ZkAAeSwRvdqjSPo&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBVO4tTxyM20ct12y%2BBwy6JMU7QlwuxXIXkr8xa%2FWtze5y6PoL%2B%2FXDyJEHDvLJkhnZ8wvxCPGx%2BK%2BX5GkGCapHU3MKpdWt8w50kYBALkTjKBBXlyQ7S2H%2F22LEYoY%2B19gC7X8k1TNCHjc%2FZdvGdynOiNLGC%2BeeadlBdj3enCimJb0vssJVrDWNI8PiWWJe5gMIOtnfEUkbRK2FgR7LS8aF2aD4mMlUUSPXcZiVhxvYU8aohOiQe%2BRQ1vKLY6gD7Wi72L5EaMQ%2FhLSY7v8YwFS7XPjnaoUroUPJITQgVe%2B9DhbpY8l%2FUZ0eDqbapoHdlstW5ZD9N%2FTBNv1E8VrEr%2FZa7%7Ctkp%3ABk9SR4SSj9KHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/3ZkAAeSwRvdqjSPo/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787646719946,
-        "lastSeen": 1787677564814
+        "lastSeen": 1787732062104
       },
       {
         "itemId": "157636873426",
         "title": "PSA 10 Poliwhirl 46/112 Reverse Foil Fire Red & Leaf Green EX Pokemon Card MINTOpens in a new window or tab",
-        "priceC": 272633,
-        "shippingC": 10737,
-        "landedC": 283370,
-        "url": "https://www.ebay.com/itm/157636873426?_skw=%28poliwhirl%29+%2846%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24052750167&itmmeta=01M0W0Q9PQKSQJ2S55YJBNHFAD&hash=item24b3e3ccd2:g:y4QAAeSwgsVpdkcz&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCEGd88rx%2BQ0ZZ7MmslIzwJd1kC9ZNj%2FkI4TSR1Z0zKy2F5cQW9W86awl78lZ1OvkHF0oclksKslxxOP%2BcblksoHGNsmY0GFgIy3N9YFpu6DiyV5DJaMTWOSi5DAquDYmt0p2PBv3eGC3Osk6GEKOQEt4Fy1THXCYhzjLsamNwhOi47f9NULf9UEMoQ7n4DuK%2BBPhY%2BthJWSd%2FN1ZqoQDkv0USSdMhTTUJSOgWWrQykq%2B%2FCOQAQV4JwDEj1EDqfm%2FzEok%2BBVfMR7Kj8Qhl5vaqw4%2FyJd28uc3Gu3ON1EKzkAaTyMKlszwK6jMj3mj%2FcLsvtuJVLrQN41c5FTT0ErV1I%7Ctkp%3ABk9SR8yb3YCHaA",
+        "priceC": 272973,
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/157636873426?_skw=%28poliwhirl%29+%2846%2Cfire%2Cred%2Cleaf%2Cgreen%29+%28CGC%2CPSA%29&epid=24052750167&itmmeta=01M0YJ3S3V49P39KMJG15ST7XM&hash=item24b3e3ccd2:g:y4QAAeSwgsVpdkcz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAhXEe2GncBWhn5ht%2FtWEDjKvyDqrjEVRVutWPGPit%2FxwhE7SOg6cxJhhzAJFYZSyX2zhhYDK3oN9BM4rRUWeY5AvvPYRykcneB%2BTOK5JIExI7dd6Y49eUsX4BL7gOCoJsPXJMMyWVLc%2B4Accr%2Bkm88IGmWsh9MgL%2FsPqRl7m5cwxUlXETwonN3BW7EcI%2BpVBDbNB0LcvdyZCTqXl0bB3WegIFnbwpzTQRtuWQPgaSyNBFKGzlHrKrUlED5fTu4iDb7Y43Mxz4uv2Fd1PWhH%2Bjskp1SHhp5ao8sR8%2Baov%2FpaA%3D%3D%7Ctkp%3ABk9SR4SSj9KHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/y4QAAeSwgsVpdkcz/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061354691,
-        "lastSeen": 1787677564814
+        "lastSeen": 1787732062104
       }
     ],
     "marketHistory": {
@@ -1246,7 +1217,7 @@
       ],
       "englishSaleCount": 78,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787646606769
+      "lastCapturedAt": 1787731950853
     }
   }
 }

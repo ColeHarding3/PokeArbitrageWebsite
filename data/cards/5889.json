@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260825T202948295Z-45cdb9a616",
-  "generatedAt": 1787689788295,
+  "snapshotId": "20260826T101459726Z-cde3ad853c",
+  "generatedAt": 1787739299726,
   "data": {
     "deal": {
       "variantId": 5889,
@@ -19,9 +19,9 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/b61fe38ec951fabcb087770db0f3465c2c1aacee9e5a61b480b4b306d5b5d130/1600.jpg",
       "popularityScore": 78,
       "market": {
-        "ungradedC": 379,
-        "grade9C": 5286,
-        "grade95C": 5800,
+        "ungradedC": 353,
+        "grade9C": 5500,
+        "grade95C": 6100,
         "cgc10C": 66300,
         "cgc10PristineC": 119300,
         "psa10C": 110500,
@@ -30,32 +30,46 @@
         "psa10Pop": 7,
         "cgc10Pop": 1,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787648803483
+        "fetchedAt": 1787734030177
       },
       "bestCgc10": {
         "itemId": "178411121103",
         "title": "Pokemon TCG EX Power Keepers Dusclops 14/108 Holo CGC 10 *POP 3*Opens in a new window or tab",
         "priceC": 22999,
-        "shippingC": 528,
-        "landedC": 23527,
-        "url": "https://www.ebay.com/itm/178411121103?_skw=%28dusclops%29+%2814%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=26043383659&itmmeta=01M0W2THP3YAQQTWKWMYX6AZ5F&hash=item298a21a9cf:g:1pYAAeSwDp1qgQP3&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBjFvATcJKUK5kl8vyXlS7W%2BbagWtBvb5r2s4BJ2Xs9F1T1xQ3QkinWV0%2BAWLXp8s6aLt%2BtH%2FvipLXi%2Biwc3q4bxvorHgF%2B4skVczouc6rUW9WZntgO9HWC2r0wmV5XPQzEViFv3CPI4is4pNh6pj2BiIzQmmqdMfij3Qju6QTBY%2BApWCnzFOxGyOIxoNYVT5XRpYAILUY6Cr5GkAi9UqrIqOZoevYhW66bS0eIAfqC3NZK0lLjpW%2BF5GDrc7%2FOYCHC5Nhl%2BFR86Eg%2B8PgFUOo%2FRuN00xKounVIPSf%2Bm4bmxg%3D%3D%7Ctkp%3ABk9SR7qb6oKHaA",
+        "shippingC": 540,
+        "landedC": 23539,
+        "url": "https://www.ebay.com/itm/178411121103?_skw=%28dusclops%29+%2814%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=26043383659&itmmeta=01M0YM35BP8TQ04HFJGC6WQYFS&hash=item298a21a9cf:g:1pYAAeSwDp1qgQP3&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBjFvATcJKUK5kl8vyXlS7W%2BbagWtBvb5r2s4BJ2Xs9F9cIUKs3KNJubSYd5dbjvRxqz3pZpMwnJ3saNH7tfEIAIdD2coo4jV5L9O3Y1u%2B9892tU1SPsuG5priZB7xIohodrhCYTFLursd1ferA19o4ko%2FBDoKp06GWjQzkYRW4epQalJCf9YfNRJYEfckwRyLjnxHy9TwB9jOvxV9pOxSpZqDT7BylVgkuZ3FZfkzUApvgIidUmN%2FAglZECuTzZT61oNDoec5Ewc5%2Bu3NRSkee8jYQPFRtsL2GdJ%2BM1M7tAw%3D%3D%7Ctkp%3ABk9SR4zWjNSHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/1pYAAeSwDp1qgQP3/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
-        "lastSeen": 1787677557971
+        "lastSeen": 1787734145186
       },
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "237030142331",
+        "title": "PSA 9 Mint Dusclops Holo #14 Pokemon Ex Power Keepers Mind Game ThemeOpens in a new window or tab",
+        "priceC": 24999,
+        "shippingC": 875,
+        "landedC": 25874,
+        "url": "https://www.ebay.com/itm/237030142331?_skw=%28dusclops%29+%2814%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=17043371856&itmmeta=01M0YM35BPEQ6WD7P0KFWQQGN5&hash=item373018f17b:g:bh0AAeSwkhFqjiMk&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA7i7Hl%2BG1MC%2F6QCwutCRF6zKchLexOYQ%2ByM8lscv4T28DOcse5z9Ps64SvYj89ooKTotfP2hm34g56WvqKRAOr%2F6%2Ft4G66Q2X%2BnDubBi6%2BzsA0lOCBGAIU97HKOHdbWGGmS71WXp%2BCCrMgdIoL6SREHTqlj8U8HkPktkY2lfV7mvd0sarj%2Bp3fwFs8n1e3bFpZGgcEKYGU0g0wzn2svIJrf2rwbUAW3dCkHofU41%2FIariaj2ey8%2FIRSYdSjSZOLcD5iaVHcj16pYyfg92sWPSOvrLE3brC6D%2FR5qKmDP1a6g%3D%3D%7Ctkp%3ABk9SR4zWjNSHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/bh0AAeSwkhFqjiMk/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787734145186,
+        "lastSeen": 1787734145186
+      },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -66,27 +80,27 @@
           "declaredValueCapC": 150000,
           "turnaroundBizDays": 50
         },
-        "cgc10CostC": 23527,
+        "cgc10CostC": 23539,
         "submissionFeeC": 7999,
-        "totalCostC": 31526,
+        "totalCostC": 31538,
         "psa10ValueC": 110500,
-        "ratio": 3.505043456194887
+        "ratio": 3.503709810387469
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "178411121103",
           "title": "Pokemon TCG EX Power Keepers Dusclops 14/108 Holo CGC 10 *POP 3*Opens in a new window or tab",
           "priceC": 22999,
-          "shippingC": 528,
-          "landedC": 23527,
-          "url": "https://www.ebay.com/itm/178411121103?_skw=%28dusclops%29+%2814%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=26043383659&itmmeta=01M0W2THP3YAQQTWKWMYX6AZ5F&hash=item298a21a9cf:g:1pYAAeSwDp1qgQP3&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBjFvATcJKUK5kl8vyXlS7W%2BbagWtBvb5r2s4BJ2Xs9F1T1xQ3QkinWV0%2BAWLXp8s6aLt%2BtH%2FvipLXi%2Biwc3q4bxvorHgF%2B4skVczouc6rUW9WZntgO9HWC2r0wmV5XPQzEViFv3CPI4is4pNh6pj2BiIzQmmqdMfij3Qju6QTBY%2BApWCnzFOxGyOIxoNYVT5XRpYAILUY6Cr5GkAi9UqrIqOZoevYhW66bS0eIAfqC3NZK0lLjpW%2BF5GDrc7%2FOYCHC5Nhl%2BFR86Eg%2B8PgFUOo%2FRuN00xKounVIPSf%2Bm4bmxg%3D%3D%7Ctkp%3ABk9SR7qb6oKHaA",
+          "shippingC": 540,
+          "landedC": 23539,
+          "url": "https://www.ebay.com/itm/178411121103?_skw=%28dusclops%29+%2814%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=26043383659&itmmeta=01M0YM35BP8TQ04HFJGC6WQYFS&hash=item298a21a9cf:g:1pYAAeSwDp1qgQP3&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBjFvATcJKUK5kl8vyXlS7W%2BbagWtBvb5r2s4BJ2Xs9F9cIUKs3KNJubSYd5dbjvRxqz3pZpMwnJ3saNH7tfEIAIdD2coo4jV5L9O3Y1u%2B9892tU1SPsuG5priZB7xIohodrhCYTFLursd1ferA19o4ko%2FBDoKp06GWjQzkYRW4epQalJCf9YfNRJYEfckwRyLjnxHy9TwB9jOvxV9pOxSpZqDT7BylVgkuZ3FZfkzUApvgIidUmN%2FAglZECuTzZT61oNDoec5Ewc5%2Bu3NRSkee8jYQPFRtsL2GdJ%2BM1M7tAw%3D%3D%7Ctkp%3ABk9SR4zWjNSHaA",
           "imageUrl": "https://i.ebayimg.com/images/g/1pYAAeSwDp1qgQP3/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787162866541,
-          "lastSeen": 1787677557971
+          "lastSeen": 1787734145186
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -99,22 +113,22 @@
             "declaredValueCapC": 150000,
             "turnaroundBizDays": 50
           },
-          "cgc10CostC": 23527,
+          "cgc10CostC": 23539,
           "submissionFeeC": 7999,
-          "totalCostC": 31526,
+          "totalCostC": 31538,
           "psa10ValueC": 110500,
-          "ratio": 3.505043456194887
+          "ratio": 3.503709810387469
         },
         "firstOpportunityAt": 1787162866541
       },
       "firstOpportunityAt": 1787162866541,
-      "updatedAt": 1787677557971
+      "updatedAt": 1787734145186
     },
     "prices": {
       "variantId": 5889,
-      "ungradedC": 379,
-      "grade9C": 5286,
-      "grade95C": 5800,
+      "ungradedC": 353,
+      "grade9C": 5500,
+      "grade95C": 6100,
       "cgc10C": 66300,
       "cgc10PristineC": 119300,
       "psa10C": 110500,
@@ -123,23 +137,38 @@
       "cgc10Pop": 1,
       "bgs10C": 143700,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787648803483
+      "fetchedAt": 1787734030177
     },
     "listings": [
       {
         "itemId": "178411121103",
         "title": "Pokemon TCG EX Power Keepers Dusclops 14/108 Holo CGC 10 *POP 3*Opens in a new window or tab",
         "priceC": 22999,
-        "shippingC": 528,
-        "landedC": 23527,
-        "url": "https://www.ebay.com/itm/178411121103?_skw=%28dusclops%29+%2814%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=26043383659&itmmeta=01M0W2THP3YAQQTWKWMYX6AZ5F&hash=item298a21a9cf:g:1pYAAeSwDp1qgQP3&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBjFvATcJKUK5kl8vyXlS7W%2BbagWtBvb5r2s4BJ2Xs9F1T1xQ3QkinWV0%2BAWLXp8s6aLt%2BtH%2FvipLXi%2Biwc3q4bxvorHgF%2B4skVczouc6rUW9WZntgO9HWC2r0wmV5XPQzEViFv3CPI4is4pNh6pj2BiIzQmmqdMfij3Qju6QTBY%2BApWCnzFOxGyOIxoNYVT5XRpYAILUY6Cr5GkAi9UqrIqOZoevYhW66bS0eIAfqC3NZK0lLjpW%2BF5GDrc7%2FOYCHC5Nhl%2BFR86Eg%2B8PgFUOo%2FRuN00xKounVIPSf%2Bm4bmxg%3D%3D%7Ctkp%3ABk9SR7qb6oKHaA",
+        "shippingC": 540,
+        "landedC": 23539,
+        "url": "https://www.ebay.com/itm/178411121103?_skw=%28dusclops%29+%2814%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=26043383659&itmmeta=01M0YM35BP8TQ04HFJGC6WQYFS&hash=item298a21a9cf:g:1pYAAeSwDp1qgQP3&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBjFvATcJKUK5kl8vyXlS7W%2BbagWtBvb5r2s4BJ2Xs9F9cIUKs3KNJubSYd5dbjvRxqz3pZpMwnJ3saNH7tfEIAIdD2coo4jV5L9O3Y1u%2B9892tU1SPsuG5priZB7xIohodrhCYTFLursd1ferA19o4ko%2FBDoKp06GWjQzkYRW4epQalJCf9YfNRJYEfckwRyLjnxHy9TwB9jOvxV9pOxSpZqDT7BylVgkuZ3FZfkzUApvgIidUmN%2FAglZECuTzZT61oNDoec5Ewc5%2Bu3NRSkee8jYQPFRtsL2GdJ%2BM1M7tAw%3D%3D%7Ctkp%3ABk9SR4zWjNSHaA",
         "imageUrl": "https://i.ebayimg.com/images/g/1pYAAeSwDp1qgQP3/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787162866541,
-        "lastSeen": 1787677557971
+        "lastSeen": 1787734145186
+      },
+      {
+        "itemId": "237030142331",
+        "title": "PSA 9 Mint Dusclops Holo #14 Pokemon Ex Power Keepers Mind Game ThemeOpens in a new window or tab",
+        "priceC": 24999,
+        "shippingC": 875,
+        "landedC": 25874,
+        "url": "https://www.ebay.com/itm/237030142331?_skw=%28dusclops%29+%2814%2Cpower%2Ckeepers%29+%28CGC%2CPSA%29&epid=17043371856&itmmeta=01M0YM35BPEQ6WD7P0KFWQQGN5&hash=item373018f17b:g:bh0AAeSwkhFqjiMk&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA7i7Hl%2BG1MC%2F6QCwutCRF6zKchLexOYQ%2ByM8lscv4T28DOcse5z9Ps64SvYj89ooKTotfP2hm34g56WvqKRAOr%2F6%2Ft4G66Q2X%2BnDubBi6%2BzsA0lOCBGAIU97HKOHdbWGGmS71WXp%2BCCrMgdIoL6SREHTqlj8U8HkPktkY2lfV7mvd0sarj%2Bp3fwFs8n1e3bFpZGgcEKYGU0g0wzn2svIJrf2rwbUAW3dCkHofU41%2FIariaj2ey8%2FIRSYdSjSZOLcD5iaVHcj16pYyfg92sWPSOvrLE3brC6D%2FR5qKmDP1a6g%3D%3D%7Ctkp%3ABk9SR4zWjNSHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/bh0AAeSwkhFqjiMk/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787734145186,
+        "lastSeen": 1787734145186
       }
     ],
     "marketHistory": {
@@ -488,6 +517,32 @@
           "priceC": 299,
           "title": "Pokemon TCG Dusclops 14/108 Power Keepers 2007 Holo 14/108",
           "url": "https://www.ebay.com/itm/358762057030?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 6150237,
+          "saleDate": "2026-07-17",
+          "priceC": 1300,
+          "title": "2007 Pokemon EX Power Keepers Dusclops 14/108 Rare Holo NM 14/108",
+          "url": "https://www.ebay.com/itm/377332873089?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 6150236,
+          "saleDate": "2026-07-17",
+          "priceC": 1200,
+          "title": "Dusclops (EX Power Keepers) 14/108 Holo Deck Exclusives Pokemon Holo LP-NM 14/108",
+          "url": "https://www.ebay.com/itm/158005854749?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1472,9 +1527,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 100,
+      "englishSaleCount": 102,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787648801580
+      "lastCapturedAt": 1787734028148
     }
   }
 }
