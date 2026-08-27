@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260826T101459726Z-cde3ad853c",
-  "generatedAt": 1787739299726,
+  "snapshotId": "20260827T095723208Z-2f32f269e4",
+  "generatedAt": 1787824643208,
   "data": {
     "deal": {
       "variantId": 4584,
@@ -38,24 +38,38 @@
         "priceC": 59900,
         "shippingC": 0,
         "landedC": 59900,
-        "url": "https://www.ebay.com/itm/188710601509?_skw=%28slugma%29+%2874%2Cdeoxys%29+%28CGC%2CPSA%29&epid=13043374076&itmmeta=01M0YJGHB8J5ATCEB4ZK73KPAE&hash=item2bf0074325:g:2NYAAeSwN-lqaYVh&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBrFvBBqz8MHYaS8NknPwSsBP%2FjklZMh2BO5Gtd9APbzgurDIgKGKto4zPXLiWfn5mOyeX96vcCNjmWxP9CiPPTtWShP8TBpTwcZ0IEttsmEeHguYcOD5Mm4ZIBvr8v6u1FOghSKfduRoWeTBoEZoOLHhUcsHyzmU1BRoFpT8iD1kIKi5Zgrh%2Bq3dOU5Y%2FbYdXUkeayo1Rv4nmmpEd7CkDLOiaJjBYJnR%2FxTsu%2FLww6gLSBwErvUxlDSG1vYZwD8Pb9rRH2kdkI8hqSjYnHHsG%2F%7Ctkp%3ABk9SR7aWwtKHaA",
+        "url": "https://www.ebay.com/itm/188710601509?_skw=%28slugma%29+%2874%2Cdeoxys%29+%28CGC%2CPSA%29&epid=13043374076&itmmeta=01M1156P79Q3SXMR2Z6SX7AMSB&hash=item2bf0074325:g:2NYAAeSwN-lqaYVh&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAXwgLU%2FF57QnifMPmrQMktka97EBt2WlKQ0SlHMAtX%2BzASzRYyt2SPGoXHwJQ40pbNpmCs86FZph3ALPHlHsrJA5iFyBRqi3JFiHd7YsxPJfHc26R437vCT1zJyf9M9vK7bF%2B%2FFitYRUYzvxwvDm6Hxp113r5LA8bYYujJPEf5diUD0am3L3UU2FvO3lX74vpnBmJ3VJZl5GlqE4Vai4T%2FBj78dUzO%2B%2FAEdXJki4sUDX%2Bkfd5%2Bzz6xqKMRE47vZtywJnt32ZvQRu45m21TAXIc%2FY%2BlD%2FKgXBEGukew%2B4JbFWPKiiK6l3eLu7p2GLXwYWE%3D%7Ctkp%3ABk9SR4jkmqWIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/2NYAAeSwN-lqaYVh/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787732481589
+        "lastSeen": 1787819253860
       },
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "366630134859",
+        "title": "Pokemon Slugma 74/107 EX Deoxys Reverse Holo Foil - PSA 9 MINTOpens in a new window or tab",
+        "priceC": 79999,
+        "shippingC": 0,
+        "landedC": 79999,
+        "url": "https://www.ebay.com/itm/366630134859?_skw=%28slugma%29+%2874%2Cdeoxys%29+%28CGC%2CPSA%29&epid=13043374076&itmmeta=01M1156P7910NB8VZ66D1PZSWF&hash=item555cdbe44b:g:oisAAeSwqlBqju3z&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBZGP7JjFZIK%2FSyFsqnKtvSczmJo%2FcFnk5qnmETqAL99r8plbj4EAV1ZpyvEhzysjg8NQwQ%2Fg0ssPkcdUo7GwWp2bMxZredgbrImtT0Tb%2FaOGtdkn0PFG7%2BfrNk6KpD%2B%2BYVV9iW1pWYoAGHHqAgr2iDbAjfb3tHZlMRf%2Bqp7OM6d0S7EDVUm1VXPcQdyl7pJl0kzvCqxro2u0tsQZm0A7XXu9yKhqd4ZwDJiwrf8VPIUnRtlW1z3XFf3A5FRhuGB%2Fp8E6DpZK9hsDCEQNm839IIT55w3k1hExNprd1ouloHTyZSSiTuZ7s5jGxqKM1xYiE%3D%7Ctkp%3ABk9SR4jkmqWIaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/oisAAeSwqlBqju3z/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787819253860,
+        "lastSeen": 1787819253860
+      },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -79,14 +93,14 @@
           "priceC": 59900,
           "shippingC": 0,
           "landedC": 59900,
-          "url": "https://www.ebay.com/itm/188710601509?_skw=%28slugma%29+%2874%2Cdeoxys%29+%28CGC%2CPSA%29&epid=13043374076&itmmeta=01M0YJGHB8J5ATCEB4ZK73KPAE&hash=item2bf0074325:g:2NYAAeSwN-lqaYVh&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBrFvBBqz8MHYaS8NknPwSsBP%2FjklZMh2BO5Gtd9APbzgurDIgKGKto4zPXLiWfn5mOyeX96vcCNjmWxP9CiPPTtWShP8TBpTwcZ0IEttsmEeHguYcOD5Mm4ZIBvr8v6u1FOghSKfduRoWeTBoEZoOLHhUcsHyzmU1BRoFpT8iD1kIKi5Zgrh%2Bq3dOU5Y%2FbYdXUkeayo1Rv4nmmpEd7CkDLOiaJjBYJnR%2FxTsu%2FLww6gLSBwErvUxlDSG1vYZwD8Pb9rRH2kdkI8hqSjYnHHsG%2F%7Ctkp%3ABk9SR7aWwtKHaA",
+          "url": "https://www.ebay.com/itm/188710601509?_skw=%28slugma%29+%2874%2Cdeoxys%29+%28CGC%2CPSA%29&epid=13043374076&itmmeta=01M1156P79Q3SXMR2Z6SX7AMSB&hash=item2bf0074325:g:2NYAAeSwN-lqaYVh&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAXwgLU%2FF57QnifMPmrQMktka97EBt2WlKQ0SlHMAtX%2BzASzRYyt2SPGoXHwJQ40pbNpmCs86FZph3ALPHlHsrJA5iFyBRqi3JFiHd7YsxPJfHc26R437vCT1zJyf9M9vK7bF%2B%2FFitYRUYzvxwvDm6Hxp113r5LA8bYYujJPEf5diUD0am3L3UU2FvO3lX74vpnBmJ3VJZl5GlqE4Vai4T%2FBj78dUzO%2B%2FAEdXJki4sUDX%2Bkfd5%2Bzz6xqKMRE47vZtywJnt32ZvQRu45m21TAXIc%2FY%2BlD%2FKgXBEGukew%2B4JbFWPKiiK6l3eLu7p2GLXwYWE%3D%7Ctkp%3ABk9SR4jkmqWIaA",
           "imageUrl": "https://i.ebayimg.com/images/g/2NYAAeSwN-lqaYVh/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787066511306,
-          "lastSeen": 1787732481589
+          "lastSeen": 1787819253860
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -108,7 +122,7 @@
         "firstOpportunityAt": 1787066511306
       },
       "firstOpportunityAt": 1787066511306,
-      "updatedAt": 1787732481589
+      "updatedAt": 1787819253860
     },
     "prices": {
       "variantId": 4584,
@@ -132,14 +146,29 @@
         "priceC": 59900,
         "shippingC": 0,
         "landedC": 59900,
-        "url": "https://www.ebay.com/itm/188710601509?_skw=%28slugma%29+%2874%2Cdeoxys%29+%28CGC%2CPSA%29&epid=13043374076&itmmeta=01M0YJGHB8J5ATCEB4ZK73KPAE&hash=item2bf0074325:g:2NYAAeSwN-lqaYVh&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBrFvBBqz8MHYaS8NknPwSsBP%2FjklZMh2BO5Gtd9APbzgurDIgKGKto4zPXLiWfn5mOyeX96vcCNjmWxP9CiPPTtWShP8TBpTwcZ0IEttsmEeHguYcOD5Mm4ZIBvr8v6u1FOghSKfduRoWeTBoEZoOLHhUcsHyzmU1BRoFpT8iD1kIKi5Zgrh%2Bq3dOU5Y%2FbYdXUkeayo1Rv4nmmpEd7CkDLOiaJjBYJnR%2FxTsu%2FLww6gLSBwErvUxlDSG1vYZwD8Pb9rRH2kdkI8hqSjYnHHsG%2F%7Ctkp%3ABk9SR7aWwtKHaA",
+        "url": "https://www.ebay.com/itm/188710601509?_skw=%28slugma%29+%2874%2Cdeoxys%29+%28CGC%2CPSA%29&epid=13043374076&itmmeta=01M1156P79Q3SXMR2Z6SX7AMSB&hash=item2bf0074325:g:2NYAAeSwN-lqaYVh&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAXwgLU%2FF57QnifMPmrQMktka97EBt2WlKQ0SlHMAtX%2BzASzRYyt2SPGoXHwJQ40pbNpmCs86FZph3ALPHlHsrJA5iFyBRqi3JFiHd7YsxPJfHc26R437vCT1zJyf9M9vK7bF%2B%2FFitYRUYzvxwvDm6Hxp113r5LA8bYYujJPEf5diUD0am3L3UU2FvO3lX74vpnBmJ3VJZl5GlqE4Vai4T%2FBj78dUzO%2B%2FAEdXJki4sUDX%2Bkfd5%2Bzz6xqKMRE47vZtywJnt32ZvQRu45m21TAXIc%2FY%2BlD%2FKgXBEGukew%2B4JbFWPKiiK6l3eLu7p2GLXwYWE%3D%7Ctkp%3ABk9SR4jkmqWIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/2NYAAeSwN-lqaYVh/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787732481589
+        "lastSeen": 1787819253860
+      },
+      {
+        "itemId": "366630134859",
+        "title": "Pokemon Slugma 74/107 EX Deoxys Reverse Holo Foil - PSA 9 MINTOpens in a new window or tab",
+        "priceC": 79999,
+        "shippingC": 0,
+        "landedC": 79999,
+        "url": "https://www.ebay.com/itm/366630134859?_skw=%28slugma%29+%2874%2Cdeoxys%29+%28CGC%2CPSA%29&epid=13043374076&itmmeta=01M1156P7910NB8VZ66D1PZSWF&hash=item555cdbe44b:g:oisAAeSwqlBqju3z&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBZGP7JjFZIK%2FSyFsqnKtvSczmJo%2FcFnk5qnmETqAL99r8plbj4EAV1ZpyvEhzysjg8NQwQ%2Fg0ssPkcdUo7GwWp2bMxZredgbrImtT0Tb%2FaOGtdkn0PFG7%2BfrNk6KpD%2B%2BYVV9iW1pWYoAGHHqAgr2iDbAjfb3tHZlMRf%2Bqp7OM6d0S7EDVUm1VXPcQdyl7pJl0kzvCqxro2u0tsQZm0A7XXu9yKhqd4ZwDJiwrf8VPIUnRtlW1z3XFf3A5FRhuGB%2Fp8E6DpZK9hsDCEQNm839IIT55w3k1hExNprd1ouloHTyZSSiTuZ7s5jGxqKM1xYiE%3D%7Ctkp%3ABk9SR4jkmqWIaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/oisAAeSwqlBqju3z/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787819253860,
+        "lastSeen": 1787819253860
       }
     ],
     "marketHistory": {

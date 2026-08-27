@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260826T101459726Z-cde3ad853c",
-  "generatedAt": 1787739299726,
+  "snapshotId": "20260827T095723208Z-2f32f269e4",
+  "generatedAt": 1787824643208,
   "data": {
     "deal": {
       "variantId": 689,
@@ -30,7 +30,7 @@
         "psa10Pop": 81,
         "cgc10Pop": 54,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per week\",\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787728527505
+        "fetchedAt": 1787814907283
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -52,7 +52,7 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787728527505
+      "updatedAt": 1787814907283
     },
     "prices": {
       "variantId": 689,
@@ -67,27 +67,40 @@
       "cgc10Pop": 54,
       "bgs10C": 151700,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per week\",\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787728527505
+      "fetchedAt": 1787814907283
     },
     "listings": [
       {
         "itemId": "287541276558",
         "title": "Pokemon Gyarados Base Set 2 7/130 Holo CGC 9.5Opens in a new window or tab",
-        "priceC": 125,
+        "priceC": 5000,
         "shippingC": 699,
-        "landedC": 824,
-        "url": "https://www.ebay.com/itm/287541276558?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=15043377694&itmmeta=01M0YETF2MTFAN7JFQQ7W3EDY8&hash=item42f2cbaf8e:g:s58AAeSww45qit9Z&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDJcW8%2FfjzXA5quilbC5KPgFO9aW5KY%2BpzynMjgANg4nu9sV%2BEBS3mJuC6j2qancTubJMvoC7%2Bp5QqqzPgyh53fGQAEHr8%2FAvASbb%2FTQryR19VQwP7LmZJ7%2B775X22xhtQwzmAvMXvsi9EP2TF1QqL5fahIvtxkfKbWWRseJqeCW%2BsX5Vw5qV3EJPiPumBMTJqZPe1bVlzdExPdO9Oge1rcCXqxIg2WKG%2BWD6aU2vmtOa8mjpkXdfgBop%2FXtBznyESmqs%2BTYRulZLbGDRo1QBbSox613fSUigLDzw6wlO4QxUBrbhQVr8zLgXSaGl7EOKk%3D%7Ctkp%3ABk9SR9Tx6c6HaA",
+        "landedC": 5699,
+        "url": "https://www.ebay.com/itm/287541276558?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=15043377694&itmmeta=01M1116SJZKP10XDZYC3Z8CC4B&hash=item42f2cbaf8e:g:s58AAeSww45qit9Z&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDJcW8%2FfjzXA5quilbC5KPgFO9aW5KY%2BpzynMjgANg4nu9sV%2BEBS3mJuC6j2qancTubJMvoC7%2Bp5QqqzPgyh53fGQAEHr8%2FAvASbb%2FTQryR19VQwP7LmZJ7%2B775X22xhtR6H%2FXQHq2KbUtSRnEY4YT9IkCQDz2W3YLaSe2E9liPmOo5AdhBIqvYPxj%2FvNz%2BSTTuPUt8IR%2Bewpm1%2BejeLlXTJXIVOiJjugi7y2mIotxDpL9icpSKboahLLK1GIw6Kd9FxCLbN53XIQy6lQmQX9ao65bcRyzNXDKNX0GfHZL073mNJ9x6hVf1MFpIf3MzbEE%3D%7Ctkp%3ABk9SR-qZm6GIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/s58AAeSww45qit9Z/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787555910622,
-        "lastSeen": 1787728728360
+        "lastSeen": 1787815112128
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 6503581,
+          "saleDate": "2026-08-26",
+          "priceC": 1550,
+          "title": "Pokémon TCG Gyarados Base Set 2 Holo Card 007/130 Vintage 007/130",
+          "url": "https://www.ebay.com/itm/407161542420?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 5572726,
           "saleDate": "2026-08-25",
@@ -1634,19 +1647,6 @@
           "gradingGrade": 7,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 137793,
-          "saleDate": "2026-05-17",
-          "priceC": 2050,
-          "title": "2000 Pokemon Base Set 2 Gyarados Holo CGC 6.5 Ex/ NM+ 7/130",
-          "url": "https://www.ebay.com/itm/206263934547?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 6.5,
-          "gradingDesignation": "excellent",
-          "agreementStatus": "mismatch"
         }
       ],
       "monthlyPsa10": [
@@ -1741,9 +1741,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 330,
+      "englishSaleCount": 331,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787728525210
+      "lastCapturedAt": 1787814905470
     }
   }
 }

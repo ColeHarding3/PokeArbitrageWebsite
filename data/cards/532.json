@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260826T101459726Z-cde3ad853c",
-  "generatedAt": 1787739299726,
+  "snapshotId": "20260827T095723208Z-2f32f269e4",
+  "generatedAt": 1787824643208,
   "data": {
     "deal": {
       "variantId": 532,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/6b184cae1327666faa2c0f5bf02d256eb3a742fe298122968e5a368ade87e7f7/1600.jpg",
       "popularityScore": 86,
       "market": {
-        "ungradedC": 5950,
-        "grade9C": 25225,
+        "ungradedC": 5000,
+        "grade9C": 25138,
         "grade95C": 27700,
         "cgc10C": 81500,
-        "cgc10PristineC": 302397,
-        "psa10C": 518850,
-        "bgs10C": 674500,
+        "cgc10PristineC": 301826,
+        "psa10C": 536680,
+        "bgs10C": 697700,
         "psa9Pop": null,
         "psa10Pop": null,
         "cgc10Pop": 170,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787728319847
+        "fetchedAt": 1787814698309
       },
       "bestCgc10": {
         "itemId": "145594617429",
@@ -38,14 +38,14 @@
         "priceC": 500000,
         "shippingC": 0,
         "landedC": 500000,
-        "url": "https://www.ebay.com/itm/145594617429?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M0YQWTKG62SVF0AFRHS8S8AP&hash=item21e61d8e55:g:Am0AAOSwfj9lwDSI&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDrhtbl%2FAtW1m4toDnwOERqaAf%2B28Pux9YxMFTiPszTWnkvoR1EQZGs2CeMriB2odcqu2Z9liGOntvnu%2BtSPKXOVJSvCBOPLR8MJCMcBmhEn4KxlU0kfTN2pLYblm28r8fkXCgJy2ETHtNDcGBkMsSCooWloPsp%2F5U7fRi4ZWwgmKTUyLt3UNjRE5jVs0xGnAlX5GEdnaFOc4yINVQoD3MMdFAdqEEJ%2B6v41H4kKjJL5Ltq8xxkP4h%2BfeJ3O8XJ4ModIjqRapmZfWTS2gTxxuCQCoZF%2FtdSOEgChEx9QNq93Qyv1T8w1G%2F56HdU3OEuD%2Fc%3D%7Ctkp%3ABk9SR_yp89eHaA",
+        "url": "https://www.ebay.com/itm/145594617429?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M1113PH3HW1BAZ7A5RYJS6WW&hash=item21e61d8e55:g:Am0AAOSwfj9lwDSI&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCFQuODymbmGd1hcaUknQAUhKkoTQONjM78fQUbIu3DiKxHFWGo0VNe8IYbbKvr2W1tTVyTSPWdiGqCvXqtn2vZhWNYvpzVUwhM5mpD8ze6lYp41idqD9qnlm8IXqnfyB76%2BLOPnujY3UatwN5hLM8Mqj8jvsVwfsxgjmzpUTpuIWagV7OouobOuaHBPmCxmtyGqIDY0V18YyHQyCiEQZZXoQm5j6SBWNGJV9uyZxcLvLrtG40OYsKrxluu6lQOvp201zgxdQBsSd00cQ8ZWVlC%7Ctkp%3ABk9SR-bojqGIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Am0AAOSwfj9lwDSI/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787814891499
       },
       "bestPsa10": {
         "itemId": "267746592332",
@@ -53,14 +53,14 @@
         "priceC": 2999999,
         "shippingC": 0,
         "landedC": 2999999,
-        "url": "https://www.ebay.com/itm/267746592332?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=13043374903&itmmeta=01M0YQWTKHVW8BMXARSQWFAF4R&hash=item3e56f0c64c:g:-QMAAeSwxbxpuZhi&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCIYZ2te4gyZEU8PrVl9teOX78HzmTN4wPMo4AkJU89R%2Bwk46b2D3WRASQAmrCtEkNvmdkqb3rx567XFtuvMDDtMpTfnE%2FNO9Lu9FYvEZu48%2BM9xXrGpu5KX%2BEhQyMZRppPAQXVoAQkfvwsXsqFoE%2FHpVmNnLQtzLnO3AGrQ%2FaJO2DzIdKOVs7LxFkk6Dxj9ZJMo5HqqVe50O9%2FhXeCoZcdTnv4sQ5%2FdkJjLkklETc3gvGTwCBZpGyxntbABtTTLfz4W5ScvA9vg7XehYuzv%2FnPiWTImeEpQL0uzl58wQ2HEap3LKn4CC%2BmvpSkyxeBJ2Q%3D%7Ctkp%3ABk9SR_6p89eHaA",
+        "url": "https://www.ebay.com/itm/267746592332?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=13043374903&itmmeta=01M1113PH46CVBE25TRG32ZX0V&hash=item3e56f0c64c:g:-QMAAeSwxbxpuZhi&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCvXm3ss%2FXLOx37jMZWl8YaERDJhKmfGUGBeXzU3NQZT70SolJirnVAI%2BvFjQHrpXF3aVYsDoA24Y5seovNggPK2WoSQugWPs5IPuGLXR4dGGVmbn6c5Pb5HiwUwqnu6yaG6XOb8%2BFF5axQLZXES3WAvknfFPaCP6ryQvBmA8zmHM1I86fKRyvuUIKW35Kxg0ev552BJwNX0uEiok9HwBevD%2BTKN6GdSlwcOWMgnP3C9GXK%2BjcNMoeS9M2XJKrA7G%2F67%2F7yXRxAKx5PfXyR7FeS%7Ctkp%3ABk9SR-jojqGIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-QMAAeSwxbxpuZhi/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787814891499
       },
       "bestPsa9": {
         "itemId": "168632680191",
@@ -68,14 +68,14 @@
         "priceC": 34999,
         "shippingC": 0,
         "landedC": 34999,
-        "url": "https://www.ebay.com/itm/168632680191?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M0YQWMAWS1F4DFKYPRR1N3ZY&hash=item27434a7eff:g:WbsAAeSwmKhqifZw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDnM0PcEeWTOM3ZqbF6QtH7PICDuWUHlwBXp58D1NPYV%2Ftk92SuF4HhDS%2FL9Ls5Ev9w7H4K4xtOcN%2FcCB5UD%2FLLf%2Fha9bbIU7czRFEak3fEVmGx%2FhAT60c5wHGg5YbsGjxk0265m4M5lqR--SWLrGknAsdZ8L9TPefI%2FDv%2F%2BJIu7ckcrg4FfooZM8w1AnL43oNX3lXxTGX27aohM4zxaAvaGjHk8BvIA0PyJ0o953IeolWsHBcamuHXGmIo4PDjH9ROOHLMcUZq0JDQGBDfD%2Bky%7Ctkp%3ABk9SR97F8teHaA",
+        "url": "https://www.ebay.com/itm/168632680191?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M1113H843JVDKF7K3AWRGP27&hash=item27434a7eff:g:WbsAAeSwmKhqifZw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDnM0PcEeWTOM3ZqbF6QtH7PICDuWUHlwBXp58D1NPYV%2B2fHkWM3GGOM%2B3bqNJQ7GTshRc2CmxbgBS6rrZULJQwl75YNwEIY0DgmHxXzwLLImmiG0m0KH4oGLnHVDE1b9eZDTAwxXtU5A7J%2FvOKQaXrSjuY3w5M%2ByaJgp%2Bs4eSQWCeorTl60O2%2BkyvNQZJZ5T%2FtNnh964toDPVWUrJfbcoUYkPAAax8aWEneoiwTfYEIK3PeAWbXkTaOeN%2F%2BUHmWSYYckoaTDjKZj0d2U68WwTa%7Ctkp%3ABk9SR7CUjqGIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/WbsAAeSwmKhqifZw/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787469325614,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787814891499
       },
       "counts": {
         "cgc10Bin": 2,
@@ -97,8 +97,8 @@
         "cgc10CostC": 500000,
         "submissionFeeC": 59900,
         "totalCostC": 559900,
-        "psa10ValueC": 518850,
-        "ratio": 0.9266833363100554
+        "psa10ValueC": 536680,
+        "ratio": 0.9585283086265405
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -107,14 +107,14 @@
           "priceC": 500000,
           "shippingC": 0,
           "landedC": 500000,
-          "url": "https://www.ebay.com/itm/145594617429?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M0YQWTKG62SVF0AFRHS8S8AP&hash=item21e61d8e55:g:Am0AAOSwfj9lwDSI&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDrhtbl%2FAtW1m4toDnwOERqaAf%2B28Pux9YxMFTiPszTWnkvoR1EQZGs2CeMriB2odcqu2Z9liGOntvnu%2BtSPKXOVJSvCBOPLR8MJCMcBmhEn4KxlU0kfTN2pLYblm28r8fkXCgJy2ETHtNDcGBkMsSCooWloPsp%2F5U7fRi4ZWwgmKTUyLt3UNjRE5jVs0xGnAlX5GEdnaFOc4yINVQoD3MMdFAdqEEJ%2B6v41H4kKjJL5Ltq8xxkP4h%2BfeJ3O8XJ4ModIjqRapmZfWTS2gTxxuCQCoZF%2FtdSOEgChEx9QNq93Qyv1T8w1G%2F56HdU3OEuD%2Fc%3D%7Ctkp%3ABk9SR_yp89eHaA",
+          "url": "https://www.ebay.com/itm/145594617429?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M1113PH3HW1BAZ7A5RYJS6WW&hash=item21e61d8e55:g:Am0AAOSwfj9lwDSI&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCFQuODymbmGd1hcaUknQAUhKkoTQONjM78fQUbIu3DiKxHFWGo0VNe8IYbbKvr2W1tTVyTSPWdiGqCvXqtn2vZhWNYvpzVUwhM5mpD8ze6lYp41idqD9qnlm8IXqnfyB76%2BLOPnujY3UatwN5hLM8Mqj8jvsVwfsxgjmzpUTpuIWagV7OouobOuaHBPmCxmtyGqIDY0V18YyHQyCiEQZZXoQm5j6SBWNGJV9uyZxcLvLrtG40OYsKrxluu6lQOvp201zgxdQBsSd00cQ8ZWVlC%7Ctkp%3ABk9SR-bojqGIaA",
           "imageUrl": "https://i.ebayimg.com/images/g/Am0AAOSwfj9lwDSI/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787040561909,
-          "lastSeen": 1787738656916
+          "lastSeen": 1787814891499
         },
         "cgc10Bin": 2,
         "cgc10Auction": 0,
@@ -130,28 +130,28 @@
           "cgc10CostC": 500000,
           "submissionFeeC": 59900,
           "totalCostC": 559900,
-          "psa10ValueC": 518850,
-          "ratio": 0.9266833363100554
+          "psa10ValueC": 536680,
+          "ratio": 0.9585283086265405
         },
         "firstOpportunityAt": 1787040561909
       },
       "firstOpportunityAt": 1787040561909,
-      "updatedAt": 1787738656916
+      "updatedAt": 1787814891499
     },
     "prices": {
       "variantId": 532,
-      "ungradedC": 5950,
-      "grade9C": 25225,
+      "ungradedC": 5000,
+      "grade9C": 25138,
       "grade95C": 27700,
       "cgc10C": 81500,
-      "cgc10PristineC": 302397,
-      "psa10C": 518850,
+      "cgc10PristineC": 301826,
+      "psa10C": 536680,
       "psa9Pop": null,
       "psa10Pop": null,
       "cgc10Pop": 170,
-      "bgs10C": 674500,
+      "bgs10C": 697700,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787728319847
+      "fetchedAt": 1787814698309
     },
     "listings": [
       {
@@ -160,14 +160,14 @@
         "priceC": 34999,
         "shippingC": 0,
         "landedC": 34999,
-        "url": "https://www.ebay.com/itm/168632680191?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M0YQWMAWS1F4DFKYPRR1N3ZY&hash=item27434a7eff:g:WbsAAeSwmKhqifZw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDnM0PcEeWTOM3ZqbF6QtH7PICDuWUHlwBXp58D1NPYV%2Ftk92SuF4HhDS%2FL9Ls5Ev9w7H4K4xtOcN%2FcCB5UD%2FLLf%2Fha9bbIU7czRFEak3fEVmGx%2FhAT60c5wHGg5YbsGjxk0265m4M5lqR--SWLrGknAsdZ8L9TPefI%2FDv%2F%2BJIu7ckcrg4FfooZM8w1AnL43oNX3lXxTGX27aohM4zxaAvaGjHk8BvIA0PyJ0o953IeolWsHBcamuHXGmIo4PDjH9ROOHLMcUZq0JDQGBDfD%2Bky%7Ctkp%3ABk9SR97F8teHaA",
+        "url": "https://www.ebay.com/itm/168632680191?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M1113H843JVDKF7K3AWRGP27&hash=item27434a7eff:g:WbsAAeSwmKhqifZw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDnM0PcEeWTOM3ZqbF6QtH7PICDuWUHlwBXp58D1NPYV%2B2fHkWM3GGOM%2B3bqNJQ7GTshRc2CmxbgBS6rrZULJQwl75YNwEIY0DgmHxXzwLLImmiG0m0KH4oGLnHVDE1b9eZDTAwxXtU5A7J%2FvOKQaXrSjuY3w5M%2ByaJgp%2Bs4eSQWCeorTl60O2%2BkyvNQZJZ5T%2FtNnh964toDPVWUrJfbcoUYkPAAax8aWEneoiwTfYEIK3PeAWbXkTaOeN%2F%2BUHmWSYYckoaTDjKZj0d2U68WwTa%7Ctkp%3ABk9SR7CUjqGIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/WbsAAeSwmKhqifZw/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787469325614,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787814891499
       },
       {
         "itemId": "287519693650",
@@ -175,29 +175,29 @@
         "priceC": 49900,
         "shippingC": 999,
         "landedC": 50899,
-        "url": "https://www.ebay.com/itm/287519693650?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M0YQWMAX4GQK8KTJ1X07MH5R&hash=item42f1825b52:g:V4YAAeSwSUhqe8KS&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA4TjlfmXKskV8pp7vfRcVzxbu4uCFIUp4y4R3o9KzMFT3Ikn35sNndSvxZilh1lKrN9os2XXGP26oUsQ%2Fh%2FG9evdBYWNm5ZHCMd0PhERY2LvbLz%2FOJUjrXTXxg%2F3atBIo3hOwDCSI6vFUS0gf%2FeHX857Y7PEyILV4630szw%2Fi7g%2FCpz0OhpuzEHANI5ImFnDSXGPHn3ZySoWm%2B0TAFK6zyB41o5RBnvUsLqOz3fYK3BU2wAml3eO3%2FkOFm69WNso%2F1D8FGJyexmGw%2Fum%2Frquh6%7Ctkp%3ABk9SR-DF8teHaA",
+        "url": "https://www.ebay.com/itm/287519693650?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M1113H84M97B0C6TRMNA8A32&hash=item42f1825b52:g:V4YAAeSwSUhqe8KS&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA4TjlfmXKskV8pp7vfRcVzxbu4uCFIUp4y4R3o9KzMFcjwnIkOrcTGTggnhyH3N5qnbdZlfpQdCdtM2vtsglNqTsqYtq9IN9DrmtdVbCaOG6%2BnoxVsw3b7tCE%2B0t7h0idpD2KKmn0rPoTM0tZl9AeYf4wlhnNE2Z2lDfSphfnMOgt9Q2NSD7R9f1eO1lIb%2BYvK8agVYvlzziErvE5wW9qlit6YtzRqbzHOsJPHDdNvcd99bzC9PQxbLr35wPkBK1Z5q01wtreMIf6TJSLINfkl%7Ctkp%3ABk9SR7KUjqGIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/V4YAAeSwSUhqe8KS/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787555685458,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787814891499
       },
       {
         "itemId": "287425224376",
         "title": "PSA 9 1999 Pokemon TCG Fossil Aerodactyl Holo 1st Edition Prerelease stamp #1/62Opens in a new window or tab",
         "priceC": 59000,
-        "shippingC": 528,
-        "landedC": 59528,
-        "url": "https://www.ebay.com/itm/287425224376?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M0YQWMAXKJJKKKDP75PRTK78&hash=item42ebe0deb8:g:9csAAeSwJQRqQY91&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD8uBLdmybQezlOVIeMQlwKbB5KEOaCoOhmaWO0c7ziWPExJpoZ6jvNqXJzjeaqmZsdj8qqUbhAX04u4F1HUzp7gphRvIKaoJ7u0tnTgVIB%2BqJ4VZAIo2S7RaRfTfDVqPOqQ%2BU%2F4s90D0Rc5DtG%2Fywh1BOuAz7f22E0CbAg019GnLd2meruoicAhTDSQnwy73r0%2Fw%2BTApEr5lzbRxL0qnZ1fxH6XHIab8K1zR%2BFZOrBnO8PAi02BDiIYac3%2Bs%2BQxOQ8c0%2FNPVDnR07o21vOwDaA%7Ctkp%3ABk9SR-DF8teHaA",
+        "shippingC": 540,
+        "landedC": 59540,
+        "url": "https://www.ebay.com/itm/287425224376?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M1113H85YGVXKYGQSM7FVB1T&hash=item42ebe0deb8:g:9csAAeSwJQRqQY91&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD8uBLdmybQezlOVIeMQlwKbB5KEOaCoOhmaWO0c7ziWMaHBjeOU51asx6xAIlW4QsK87v4i4OZcUL2eoeTc4G%2B2yF4jKZyrEM0Nfr35Prxz5PsLuoYwc8E85J3zrISR%2BkeIMI9NH8LAEh4sBxF%2FnT0tj0wv4UvNRVlfXq2V5gMKQIGVHsjrtu1%2BjCNk%2BH4pCwx2rZ4Lb4GfH9JQiau3C%2Fr%2FRU4VQl3x9Q6%2FMnH0MsYjkLCuSOrOV8Qff19r4jo5rHYv9EPLVDezTbbDiM%2BIRfj%7Ctkp%3ABk9SR7KUjqGIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/9csAAeSwJQRqQY91/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787814891499
       },
       {
         "itemId": "145594617429",
@@ -205,14 +205,14 @@
         "priceC": 500000,
         "shippingC": 0,
         "landedC": 500000,
-        "url": "https://www.ebay.com/itm/145594617429?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M0YQWTKG62SVF0AFRHS8S8AP&hash=item21e61d8e55:g:Am0AAOSwfj9lwDSI&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDrhtbl%2FAtW1m4toDnwOERqaAf%2B28Pux9YxMFTiPszTWnkvoR1EQZGs2CeMriB2odcqu2Z9liGOntvnu%2BtSPKXOVJSvCBOPLR8MJCMcBmhEn4KxlU0kfTN2pLYblm28r8fkXCgJy2ETHtNDcGBkMsSCooWloPsp%2F5U7fRi4ZWwgmKTUyLt3UNjRE5jVs0xGnAlX5GEdnaFOc4yINVQoD3MMdFAdqEEJ%2B6v41H4kKjJL5Ltq8xxkP4h%2BfeJ3O8XJ4ModIjqRapmZfWTS2gTxxuCQCoZF%2FtdSOEgChEx9QNq93Qyv1T8w1G%2F56HdU3OEuD%2Fc%3D%7Ctkp%3ABk9SR_yp89eHaA",
+        "url": "https://www.ebay.com/itm/145594617429?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M1113PH3HW1BAZ7A5RYJS6WW&hash=item21e61d8e55:g:Am0AAOSwfj9lwDSI&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCFQuODymbmGd1hcaUknQAUhKkoTQONjM78fQUbIu3DiKxHFWGo0VNe8IYbbKvr2W1tTVyTSPWdiGqCvXqtn2vZhWNYvpzVUwhM5mpD8ze6lYp41idqD9qnlm8IXqnfyB76%2BLOPnujY3UatwN5hLM8Mqj8jvsVwfsxgjmzpUTpuIWagV7OouobOuaHBPmCxmtyGqIDY0V18YyHQyCiEQZZXoQm5j6SBWNGJV9uyZxcLvLrtG40OYsKrxluu6lQOvp201zgxdQBsSd00cQ8ZWVlC%7Ctkp%3ABk9SR-bojqGIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Am0AAOSwfj9lwDSI/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787814891499
       },
       {
         "itemId": "127836267208",
@@ -220,14 +220,14 @@
         "priceC": 630000,
         "shippingC": 607,
         "landedC": 630607,
-        "url": "https://www.ebay.com/itm/127836267208?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M0YQWTKH4SNX8923375EJNBH&hash=item1dc3a2a2c8:g:UaUAAeSwDeVp8iK9&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDMmh13jNxvYYJbaYYNVKjYt1pHcpDld9w9FAHX0E5HIwSQ8mE2ouC3lxJVqTekQvuIkohQp7pUBnAznD5QBB1xN%2F69FMnG8UJx%2F07r6BrqzIku6dqekBcmop3bFH9XEQJYat2efq%2FQafZulGoJC7UQCyGZRu3IDbh3aSVS74SXpAy9Bd94WlikmKs%2BWajovJyvmfmfzntGjAjRXLNz7RJMqo%2F6qIN%2BnVdcC1VpOzrkITcie6ri9J%2FlQvoO1DRGU9ZXqIc1aj5%2FvyUfwrsBOJd8%7Ctkp%3ABk9SR_yp89eHaA",
+        "url": "https://www.ebay.com/itm/127836267208?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=25043363518&itmmeta=01M1113PH3B3PKS4WTV1VFVYC8&hash=item1dc3a2a2c8:g:UaUAAeSwDeVp8iK9&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDMmh13jNxvYYJbaYYNVKjYt1pHcpDld9w9FAHX0E5HI7AvXELY%2BOt%2FnRTxwaY%2FQOS98yjsEASC1t3TBoPidgf9cWh6MjTxHLI%2BhXwZgdZ%2B8nDMBYar1Owj5byfMFQ7rQWVhTIGdQigV29Z7vAHXG%2FdMj0fD%2F5DX4Fe60gvbU6kZvHN99EZDl9xYfd9SPvZHgF34UiJAqpOIxF6MgSJ0k1oe%2BvLAVSWMSkfxF6a6nTgfF4JaaYF4YL%2BW7RKflWwRHKbd%2Fc3niRnHuJnzcI3ou6Z%7Ctkp%3ABk9SR-bojqGIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/UaUAAeSwDeVp8iK9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787814891499
       },
       {
         "itemId": "278251148998",
@@ -235,14 +235,14 @@
         "priceC": 1360000,
         "shippingC": 2500,
         "landedC": 1362500,
-        "url": "https://www.ebay.com/itm/278251148998?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=7043379855&itmmeta=01M0YQWTKHW4EHSRTWX6MPK1ZK&hash=item40c90f96c6:g:O9sAAeSwNINqIzz1&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA5B6DG2oZA%2Ba1GjC5CakaLWHcHtULTSGdeRmBQegKIw%2FNwYJI5tpVQ6VA1GcGb%2BPOBFpjiK4rfL9gmTFA%2Bzci8IobQ2YHrGO3ukskfnQEjYpQWdlI1O5REY1N1XiUYdnclZWFpmV5g0A%2BHqWrEWFetaf3heFS1Tzi93%2Bbul%2FrAmSHF4CWmF%2BHxTvBgNyrBHwxCIITNyyONwiGaPZrSEt8t2NMjYIErIxCvaDbZ%2Fycr3uCmIrNDDYhbOoX%2F2ygjDjwmPIs1eVOcflsUB4iDIrzt%7Ctkp%3ABk9SR_6p89eHaA",
+        "url": "https://www.ebay.com/itm/278251148998?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=7043379855&itmmeta=01M1113PH4ZBMX8EV9B0M32E75&hash=item40c90f96c6:g:O9sAAeSwNINqIzz1&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA5B6DG2oZA%2Ba1GjC5CakaLWHcHtULTSGdeRmBQegKIw8YBSEGMf2Ix2P3m1uUZN2xKu1Mwh1%2FdAiXmrCAKUr%2FyyE4C050MNEvaj12vJXbn8Gg%2FBT1%2FSqLxu88ao9pvR9DDl%2BjtWAfEiiACi0e%2FDFWzuhGqAAcLUOf1DsNcnU%2BTTVe1oQKHtmLKcsEBtuO%2BCjt4kqhjpzu9utguXEwA40QTBjmm6p4iCpjLL2uu4%2F1XBL%2BeBiFEyOpKltRv4Ij41jFnaYgZ9p5nBK11H1mOLcqH%7Ctkp%3ABk9SR-jojqGIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/O9sAAeSwNINqIzz1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787814891499
       },
       {
         "itemId": "267746592332",
@@ -250,14 +250,14 @@
         "priceC": 2999999,
         "shippingC": 0,
         "landedC": 2999999,
-        "url": "https://www.ebay.com/itm/267746592332?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=13043374903&itmmeta=01M0YQWTKHVW8BMXARSQWFAF4R&hash=item3e56f0c64c:g:-QMAAeSwxbxpuZhi&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCIYZ2te4gyZEU8PrVl9teOX78HzmTN4wPMo4AkJU89R%2Bwk46b2D3WRASQAmrCtEkNvmdkqb3rx567XFtuvMDDtMpTfnE%2FNO9Lu9FYvEZu48%2BM9xXrGpu5KX%2BEhQyMZRppPAQXVoAQkfvwsXsqFoE%2FHpVmNnLQtzLnO3AGrQ%2FaJO2DzIdKOVs7LxFkk6Dxj9ZJMo5HqqVe50O9%2FhXeCoZcdTnv4sQ5%2FdkJjLkklETc3gvGTwCBZpGyxntbABtTTLfz4W5ScvA9vg7XehYuzv%2FnPiWTImeEpQL0uzl58wQ2HEap3LKn4CC%2BmvpSkyxeBJ2Q%3D%7Ctkp%3ABk9SR_6p89eHaA",
+        "url": "https://www.ebay.com/itm/267746592332?_skw=%28aerodactyl%29+%281%2Cfossil%29+%28CGC%2CPSA%29&epid=13043374903&itmmeta=01M1113PH46CVBE25TRG32ZX0V&hash=item3e56f0c64c:g:-QMAAeSwxbxpuZhi&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCvXm3ss%2FXLOx37jMZWl8YaERDJhKmfGUGBeXzU3NQZT70SolJirnVAI%2BvFjQHrpXF3aVYsDoA24Y5seovNggPK2WoSQugWPs5IPuGLXR4dGGVmbn6c5Pb5HiwUwqnu6yaG6XOb8%2BFF5axQLZXES3WAvknfFPaCP6ryQvBmA8zmHM1I86fKRyvuUIKW35Kxg0ev552BJwNX0uEiok9HwBevD%2BTKN6GdSlwcOWMgnP3C9GXK%2BjcNMoeS9M2XJKrA7G%2F67%2F7yXRxAKx5PfXyR7FeS%7Ctkp%3ABk9SR-jojqGIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-QMAAeSwxbxpuZhi/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787814891499
       }
     ],
     "marketHistory": {
@@ -502,6 +502,19 @@
           "priceC": 7500,
           "title": "1st Edition Aerodactyl 1/62 PRERELEASE Brown Stamp Fossil Holo 1999 Pokemon Card 1/62",
           "url": "https://www.ebay.com/itm/227465200735?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 6477131,
+          "saleDate": "2026-08-12",
+          "priceC": 12750,
+          "title": "Aerodactyl 1999 Pokemon Fossil 1st Edition Prerelease Holo Rare 1/62 1/62",
+          "url": "https://www.ebay.com/itm/236985550677?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1808,19 +1821,6 @@
           "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 110393,
-          "saleDate": "2026-06-28",
-          "priceC": 150000,
-          "title": "Aerodactyl Pokémon 1999 Fossil First Edition Pre-Release Cosmos Holo CGC 10 1/62",
-          "url": "https://www.ebay.com/itm/407028570700?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1875,9 +1875,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 243,
+      "englishSaleCount": 244,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787728317414
+      "lastCapturedAt": 1787814695896
     }
   }
 }

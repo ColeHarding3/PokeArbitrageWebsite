@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260826T101459726Z-cde3ad853c",
-  "generatedAt": 1787739299726,
+  "snapshotId": "20260827T095723208Z-2f32f269e4",
+  "generatedAt": 1787824643208,
   "data": {
     "deal": {
       "variantId": 4580,
@@ -38,24 +38,38 @@
         "priceC": 57499,
         "shippingC": 0,
         "landedC": 57499,
-        "url": "https://www.ebay.com/itm/287370589361?_skw=%28mightyena%29+%2812%2Cdeoxys%29+%28CGC%2CPSA%29&epid=28043374550&itmmeta=01M0YJG51W2GA5PSN1TDSP5G14&hash=item42e89f34b1:g:x6QAAeSwIiFqH3NY&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCzTz1nClfX29dRQ3YnL6v8OQmFZ9ZG3vBnvEGJPfyWSfKUX9VxT6tXImcgzKyxw5grfiKMdxRPaQawBBtTM741yTQp2CL0mZbGj%2FOHdg9kyfStqggWmYIpnSEA8rjPfGwjp9sv4JITPCRbuSBq%2BzvmYZN5UZQe05Wx%2FgQdBnDikmRF75PT4sK%2BFMEQPcIhXJ7IqHjG4%2BgC%2FRSioR%2F0ZeUXZr4tZs3hADF%2FVzm%2FureknqDOhyXnKNaRuYRZ2zLeVuPvhD0MGxbgQMkSufCu9cu7mOlh2V1mF%2F4HLrCOuStAxyYZZANhA%2B%2BmI1i%2FV2By2B4%3D%7Ctkp%3ABk9SR5TRwNKHaA",
+        "url": "https://www.ebay.com/itm/287370589361?_skw=%28mightyena%29+%2812%2Cdeoxys%29+%28CGC%2CPSA%29&epid=28043374550&itmmeta=01M1155XCJHDR6SGEF0Q7B1H2X&hash=item42e89f34b1:g:x6QAAeSwIiFqH3NY&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCzTz1nClfX29dRQ3YnL6v8OQmFZ9ZG3vBnvEGJPfyWSfKUX9VxT6tXImcgzKyxw5grfiKMdxRPaQawBBtTM741yTQp2CL0mZbGj%2FOHdg9kyfStqggWmYIpnSEA8rjPfGyjgdFcSdpRT9rqm6lCPKaMqP79V0%2Fw%2FRqd6bKNPFPxjS6Cxk4jYiyKLeScWetrEQg6lejfvrYxIWzQcUTrDVQEpNvK8ulKlsugz3ts4h92Z9h%2F464HxktR85S25tSlCbctravp4jBgOR%2BsTGyChpssctkmA%2FRbpTfwuXdC1lYziJJ9ZLlZpa9ylJKMBTZSyFw%3D%7Ctkp%3ABk9SR8jWl6WIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/x6QAAeSwIiFqH3NY/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787732481589
+        "lastSeen": 1787819253860
       },
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "206516633607",
+        "title": "The Pokémon Company Mightyena 12/107 EX Deoxys Reverse Holo PSA 9 2005 EngOpens in a new window or tab",
+        "priceC": 37500,
+        "shippingC": 524,
+        "landedC": 38024,
+        "url": "https://www.ebay.com/itm/206516633607?_skw=%28mightyena%29+%2812%2Cdeoxys%29+%28CGC%2CPSA%29&epid=28043374550&itmmeta=01M1155XCJYZJGY958Q8NMW3V6&hash=item301559c007:g:ttMAAeSwYtNqjs2h&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDtxfAQ1Z5jwuRMOSzffJ68aa7oEli9GP3%2BeCU8mGDnj4EENiByJr62QaeVmC5QBI1A9SYXlryVH1mUt1B%2FRceCpbXfG2nOw9x%2BOh77K7OYg9RtbbrkNsanfVsuRivp6R68dJK57kqRt9CqSVZ6Dg%2BS4J1%2BUWsbE8de0Z7mBZdUNoNmeuo3SidfJl9iMbwryRE1WRfXb2cBi6HmkKmCMeQwKdVtxWJxOQkrsg8FvbFd8EVhNqbD4rHG%2BDOmJpb59n3jLqm4ty7toBMfDgy8ZUxo%7Ctkp%3ABk9SR8jWl6WIaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/ttMAAeSwYtNqjs2h/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787819253860,
+        "lastSeen": 1787819253860
+      },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -79,14 +93,14 @@
           "priceC": 57499,
           "shippingC": 0,
           "landedC": 57499,
-          "url": "https://www.ebay.com/itm/287370589361?_skw=%28mightyena%29+%2812%2Cdeoxys%29+%28CGC%2CPSA%29&epid=28043374550&itmmeta=01M0YJG51W2GA5PSN1TDSP5G14&hash=item42e89f34b1:g:x6QAAeSwIiFqH3NY&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCzTz1nClfX29dRQ3YnL6v8OQmFZ9ZG3vBnvEGJPfyWSfKUX9VxT6tXImcgzKyxw5grfiKMdxRPaQawBBtTM741yTQp2CL0mZbGj%2FOHdg9kyfStqggWmYIpnSEA8rjPfGwjp9sv4JITPCRbuSBq%2BzvmYZN5UZQe05Wx%2FgQdBnDikmRF75PT4sK%2BFMEQPcIhXJ7IqHjG4%2BgC%2FRSioR%2F0ZeUXZr4tZs3hADF%2FVzm%2FureknqDOhyXnKNaRuYRZ2zLeVuPvhD0MGxbgQMkSufCu9cu7mOlh2V1mF%2F4HLrCOuStAxyYZZANhA%2B%2BmI1i%2FV2By2B4%3D%7Ctkp%3ABk9SR5TRwNKHaA",
+          "url": "https://www.ebay.com/itm/287370589361?_skw=%28mightyena%29+%2812%2Cdeoxys%29+%28CGC%2CPSA%29&epid=28043374550&itmmeta=01M1155XCJHDR6SGEF0Q7B1H2X&hash=item42e89f34b1:g:x6QAAeSwIiFqH3NY&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCzTz1nClfX29dRQ3YnL6v8OQmFZ9ZG3vBnvEGJPfyWSfKUX9VxT6tXImcgzKyxw5grfiKMdxRPaQawBBtTM741yTQp2CL0mZbGj%2FOHdg9kyfStqggWmYIpnSEA8rjPfGyjgdFcSdpRT9rqm6lCPKaMqP79V0%2Fw%2FRqd6bKNPFPxjS6Cxk4jYiyKLeScWetrEQg6lejfvrYxIWzQcUTrDVQEpNvK8ulKlsugz3ts4h92Z9h%2F464HxktR85S25tSlCbctravp4jBgOR%2BsTGyChpssctkmA%2FRbpTfwuXdC1lYziJJ9ZLlZpa9ylJKMBTZSyFw%3D%7Ctkp%3ABk9SR8jWl6WIaA",
           "imageUrl": "https://i.ebayimg.com/images/g/x6QAAeSwIiFqH3NY/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787066511306,
-          "lastSeen": 1787732481589
+          "lastSeen": 1787819253860
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -108,7 +122,7 @@
         "firstOpportunityAt": 1787066511306
       },
       "firstOpportunityAt": 1787066511306,
-      "updatedAt": 1787732481589
+      "updatedAt": 1787819253860
     },
     "prices": {
       "variantId": 4580,
@@ -127,19 +141,34 @@
     },
     "listings": [
       {
+        "itemId": "206516633607",
+        "title": "The Pokémon Company Mightyena 12/107 EX Deoxys Reverse Holo PSA 9 2005 EngOpens in a new window or tab",
+        "priceC": 37500,
+        "shippingC": 524,
+        "landedC": 38024,
+        "url": "https://www.ebay.com/itm/206516633607?_skw=%28mightyena%29+%2812%2Cdeoxys%29+%28CGC%2CPSA%29&epid=28043374550&itmmeta=01M1155XCJYZJGY958Q8NMW3V6&hash=item301559c007:g:ttMAAeSwYtNqjs2h&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDtxfAQ1Z5jwuRMOSzffJ68aa7oEli9GP3%2BeCU8mGDnj4EENiByJr62QaeVmC5QBI1A9SYXlryVH1mUt1B%2FRceCpbXfG2nOw9x%2BOh77K7OYg9RtbbrkNsanfVsuRivp6R68dJK57kqRt9CqSVZ6Dg%2BS4J1%2BUWsbE8de0Z7mBZdUNoNmeuo3SidfJl9iMbwryRE1WRfXb2cBi6HmkKmCMeQwKdVtxWJxOQkrsg8FvbFd8EVhNqbD4rHG%2BDOmJpb59n3jLqm4ty7toBMfDgy8ZUxo%7Ctkp%3ABk9SR8jWl6WIaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/ttMAAeSwYtNqjs2h/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787819253860,
+        "lastSeen": 1787819253860
+      },
+      {
         "itemId": "287370589361",
         "title": "2005 Pokémon Mightyena 12/107 Deoxys Reverse Holo Stamped CGC 10 Gem Mint Pop 10Opens in a new window or tab",
         "priceC": 57499,
         "shippingC": 0,
         "landedC": 57499,
-        "url": "https://www.ebay.com/itm/287370589361?_skw=%28mightyena%29+%2812%2Cdeoxys%29+%28CGC%2CPSA%29&epid=28043374550&itmmeta=01M0YJG51W2GA5PSN1TDSP5G14&hash=item42e89f34b1:g:x6QAAeSwIiFqH3NY&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCzTz1nClfX29dRQ3YnL6v8OQmFZ9ZG3vBnvEGJPfyWSfKUX9VxT6tXImcgzKyxw5grfiKMdxRPaQawBBtTM741yTQp2CL0mZbGj%2FOHdg9kyfStqggWmYIpnSEA8rjPfGwjp9sv4JITPCRbuSBq%2BzvmYZN5UZQe05Wx%2FgQdBnDikmRF75PT4sK%2BFMEQPcIhXJ7IqHjG4%2BgC%2FRSioR%2F0ZeUXZr4tZs3hADF%2FVzm%2FureknqDOhyXnKNaRuYRZ2zLeVuPvhD0MGxbgQMkSufCu9cu7mOlh2V1mF%2F4HLrCOuStAxyYZZANhA%2B%2BmI1i%2FV2By2B4%3D%7Ctkp%3ABk9SR5TRwNKHaA",
+        "url": "https://www.ebay.com/itm/287370589361?_skw=%28mightyena%29+%2812%2Cdeoxys%29+%28CGC%2CPSA%29&epid=28043374550&itmmeta=01M1155XCJHDR6SGEF0Q7B1H2X&hash=item42e89f34b1:g:x6QAAeSwIiFqH3NY&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCzTz1nClfX29dRQ3YnL6v8OQmFZ9ZG3vBnvEGJPfyWSfKUX9VxT6tXImcgzKyxw5grfiKMdxRPaQawBBtTM741yTQp2CL0mZbGj%2FOHdg9kyfStqggWmYIpnSEA8rjPfGyjgdFcSdpRT9rqm6lCPKaMqP79V0%2Fw%2FRqd6bKNPFPxjS6Cxk4jYiyKLeScWetrEQg6lejfvrYxIWzQcUTrDVQEpNvK8ulKlsugz3ts4h92Z9h%2F464HxktR85S25tSlCbctravp4jBgOR%2BsTGyChpssctkmA%2FRbpTfwuXdC1lYziJJ9ZLlZpa9ylJKMBTZSyFw%3D%7Ctkp%3ABk9SR8jWl6WIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/x6QAAeSwIiFqH3NY/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787066511306,
-        "lastSeen": 1787732481589
+        "lastSeen": 1787819253860
       }
     ],
     "marketHistory": {

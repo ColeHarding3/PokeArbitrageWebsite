@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260826T101459726Z-cde3ad853c",
-  "generatedAt": 1787739299726,
+  "snapshotId": "20260827T095723208Z-2f32f269e4",
+  "generatedAt": 1787824643208,
   "data": {
     "deal": {
       "variantId": 3569,
@@ -38,22 +38,36 @@
         "priceC": 200000,
         "shippingC": 999,
         "landedC": 200999,
-        "url": "https://www.ebay.com/itm/286715831998?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=11043365447&itmmeta=01M0YHRQKK6PEPACV6CBEDD2WE&hash=item42c19866be:g:ahYAAeSwSy1oerOb&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAUMwRlraFpFrNGUBZqfI%2Fo4vcqywUSaJG7b6NGcHWxp4HwZNuhl3XxLhzSNvO83UkOAFE6I%2FgZCTADkhMzzSd%2Fl70jZH25MmmfepAh2zybGEynbg4F%2BNPSZdi5d%2BuPXEWrrqRTTQqECEg26ySEXsWV%2BM2dyRgt45A0JcKbR8f%2Bfvr1Lk%2FRJsJrpPCQ35q7%2FJwXOxJskTkVdulm5TIqjrZokq0Y96qT0tQv%2BG8F%2FJw68daQF8QXGYB1KvmEUhe08sxsCEAZIwB8X7IcCSDZUKoBN5oQ6OvyjRNWYRyOTMb2RIeXv%2F24H0DusGkPED1Ts%2Bg%3D%7Ctkp%3ABk9SR4b64tGHaA",
+        "url": "https://www.ebay.com/itm/286715831998?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=11043365447&itmmeta=01M114BYE42TEDPEVDRW7E907B&hash=item42c19866be:g:ahYAAeSwSy1oerOb&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAUMwRlraFpFrNGUBZqfI%2Fo4vcqywUSaJG7b6NGcHWxp4HwZNuhl3XxLhzSNvO83UkOAFE6I%2FgZCTADkhMzzSd%2Fl70jZH25MmmfepAh2zybGEynbg4F%2BNPSZdi5d%2BuPXEXR6WTpwcvoRprJLlj3b9QRawWRBQWfdxoa205i%2FLblE7U70Wc%2BCbGPIe0UWyI4qSy8fvCm4yICS93UIsCfNaVAw4hxJ9Iutu4cg6%2Bl%2B8KMmTYXCqcWfZDY0kfONx7556hbosXmyL0SAnn2iedtui%2FQe7Yw9x7Uu4bzYZTggk27YpDQcLLHYoR3CVyOQ3Ss%2BZg%3D%7Ctkp%3ABk9SR6bnr6SIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ahYAAeSwSy1oerOb/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
-        "lastSeen": 1787731741794
+        "lastSeen": 1787818419147
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "227493184197",
+        "title": "Pokémon Sceptile EX Card Team Magma vs Team Aqua 2004 PSA 10 UNLIMITED !Opens in a new window or tab",
+        "priceC": 400000,
+        "shippingC": 517,
+        "landedC": 400517,
+        "url": "https://www.ebay.com/itm/227493184197?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=20074423676&itmmeta=01M114BYE4CV34PTDRNRKHAGPW&hash=item34f7a682c5:g:8QwAAeSw4C1qj6~M&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAAfI8MLOAkbawbTzgaPpwS5HRkA%2Fvnd3Cfu1SExxWLpR5YmlNNBcbdoE%2FAstgmh%2FhV4hmfe5p3BGdyqEFyuvYIAq2dRKuJGWRoJ6yGadNdJADUSHr7Jn6pe79RLGCjR3gEeK36I70kNWQIGzX7ekQVSxskJC1gJXhFxoQlq5wqDFz9oc069jfXAEvPpb9vEvkGTkJDLebALxD5D%2FRdUUSwo5evH2G7pgKSTDrMTtE%2B9Gb3Qz%2BEgDm6IEXa%2F7oUOz0dPYNic%2F0Kty8Se67YfxJq%7Ctkp%3ABk9SR6bnr6SIaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/8QwAAeSw4C1qj6~M/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787818419147,
+        "lastSeen": 1787818419147
+      },
       "bestPsa9": null,
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
         "psa9Bin": 0
       },
@@ -79,14 +93,14 @@
           "priceC": 200000,
           "shippingC": 999,
           "landedC": 200999,
-          "url": "https://www.ebay.com/itm/286715831998?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=11043365447&itmmeta=01M0YHRQKK6PEPACV6CBEDD2WE&hash=item42c19866be:g:ahYAAeSwSy1oerOb&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAUMwRlraFpFrNGUBZqfI%2Fo4vcqywUSaJG7b6NGcHWxp4HwZNuhl3XxLhzSNvO83UkOAFE6I%2FgZCTADkhMzzSd%2Fl70jZH25MmmfepAh2zybGEynbg4F%2BNPSZdi5d%2BuPXEWrrqRTTQqECEg26ySEXsWV%2BM2dyRgt45A0JcKbR8f%2Bfvr1Lk%2FRJsJrpPCQ35q7%2FJwXOxJskTkVdulm5TIqjrZokq0Y96qT0tQv%2BG8F%2FJw68daQF8QXGYB1KvmEUhe08sxsCEAZIwB8X7IcCSDZUKoBN5oQ6OvyjRNWYRyOTMb2RIeXv%2F24H0DusGkPED1Ts%2Bg%3D%7Ctkp%3ABk9SR4b64tGHaA",
+          "url": "https://www.ebay.com/itm/286715831998?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=11043365447&itmmeta=01M114BYE42TEDPEVDRW7E907B&hash=item42c19866be:g:ahYAAeSwSy1oerOb&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAUMwRlraFpFrNGUBZqfI%2Fo4vcqywUSaJG7b6NGcHWxp4HwZNuhl3XxLhzSNvO83UkOAFE6I%2FgZCTADkhMzzSd%2Fl70jZH25MmmfepAh2zybGEynbg4F%2BNPSZdi5d%2BuPXEXR6WTpwcvoRprJLlj3b9QRawWRBQWfdxoa205i%2FLblE7U70Wc%2BCbGPIe0UWyI4qSy8fvCm4yICS93UIsCfNaVAw4hxJ9Iutu4cg6%2Bl%2B8KMmTYXCqcWfZDY0kfONx7556hbosXmyL0SAnn2iedtui%2FQe7Yw9x7Uu4bzYZTggk27YpDQcLLHYoR3CVyOQ3Ss%2BZg%3D%7Ctkp%3ABk9SR6bnr6SIaA",
           "imageUrl": "https://i.ebayimg.com/images/g/ahYAAeSwSy1oerOb/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787059396087,
-          "lastSeen": 1787731741794
+          "lastSeen": 1787818419147
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -108,7 +122,7 @@
         "firstOpportunityAt": 1787059396087
       },
       "firstOpportunityAt": 1787059396087,
-      "updatedAt": 1787731741794
+      "updatedAt": 1787818419147
     },
     "prices": {
       "variantId": 3569,
@@ -132,14 +146,29 @@
         "priceC": 200000,
         "shippingC": 999,
         "landedC": 200999,
-        "url": "https://www.ebay.com/itm/286715831998?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=11043365447&itmmeta=01M0YHRQKK6PEPACV6CBEDD2WE&hash=item42c19866be:g:ahYAAeSwSy1oerOb&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAUMwRlraFpFrNGUBZqfI%2Fo4vcqywUSaJG7b6NGcHWxp4HwZNuhl3XxLhzSNvO83UkOAFE6I%2FgZCTADkhMzzSd%2Fl70jZH25MmmfepAh2zybGEynbg4F%2BNPSZdi5d%2BuPXEWrrqRTTQqECEg26ySEXsWV%2BM2dyRgt45A0JcKbR8f%2Bfvr1Lk%2FRJsJrpPCQ35q7%2FJwXOxJskTkVdulm5TIqjrZokq0Y96qT0tQv%2BG8F%2FJw68daQF8QXGYB1KvmEUhe08sxsCEAZIwB8X7IcCSDZUKoBN5oQ6OvyjRNWYRyOTMb2RIeXv%2F24H0DusGkPED1Ts%2Bg%3D%7Ctkp%3ABk9SR4b64tGHaA",
+        "url": "https://www.ebay.com/itm/286715831998?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=11043365447&itmmeta=01M114BYE42TEDPEVDRW7E907B&hash=item42c19866be:g:ahYAAeSwSy1oerOb&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAUMwRlraFpFrNGUBZqfI%2Fo4vcqywUSaJG7b6NGcHWxp4HwZNuhl3XxLhzSNvO83UkOAFE6I%2FgZCTADkhMzzSd%2Fl70jZH25MmmfepAh2zybGEynbg4F%2BNPSZdi5d%2BuPXEXR6WTpwcvoRprJLlj3b9QRawWRBQWfdxoa205i%2FLblE7U70Wc%2BCbGPIe0UWyI4qSy8fvCm4yICS93UIsCfNaVAw4hxJ9Iutu4cg6%2Bl%2B8KMmTYXCqcWfZDY0kfONx7556hbosXmyL0SAnn2iedtui%2FQe7Yw9x7Uu4bzYZTggk27YpDQcLLHYoR3CVyOQ3Ss%2BZg%3D%7Ctkp%3ABk9SR6bnr6SIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ahYAAeSwSy1oerOb/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787059396087,
-        "lastSeen": 1787731741794
+        "lastSeen": 1787818419147
+      },
+      {
+        "itemId": "227493184197",
+        "title": "Pokémon Sceptile EX Card Team Magma vs Team Aqua 2004 PSA 10 UNLIMITED !Opens in a new window or tab",
+        "priceC": 400000,
+        "shippingC": 517,
+        "landedC": 400517,
+        "url": "https://www.ebay.com/itm/227493184197?_skw=%28sceptile%29+%2893%2Cmagma%2Caqua%29+%28CGC%2CPSA%29&epid=20074423676&itmmeta=01M114BYE4CV34PTDRNRKHAGPW&hash=item34f7a682c5:g:8QwAAeSw4C1qj6~M&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAAfI8MLOAkbawbTzgaPpwS5HRkA%2Fvnd3Cfu1SExxWLpR5YmlNNBcbdoE%2FAstgmh%2FhV4hmfe5p3BGdyqEFyuvYIAq2dRKuJGWRoJ6yGadNdJADUSHr7Jn6pe79RLGCjR3gEeK36I70kNWQIGzX7ekQVSxskJC1gJXhFxoQlq5wqDFz9oc069jfXAEvPpb9vEvkGTkJDLebALxD5D%2FRdUUSwo5evH2G7pgKSTDrMTtE%2B9Gb3Qz%2BEgDm6IEXa%2F7oUOz0dPYNic%2F0Kty8Se67YfxJq%7Ctkp%3ABk9SR6bnr6SIaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/8QwAAeSw4C1qj6~M/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787818419147,
+        "lastSeen": 1787818419147
       }
     ],
     "marketHistory": {
