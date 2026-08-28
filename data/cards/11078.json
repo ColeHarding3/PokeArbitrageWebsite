@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 11078,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/36966ee664d9508d2a2bc7db66ee2a8db02fcc67f12321734b5dee4337a1152e/1600.jpg",
       "popularityScore": 81,
       "market": {
-        "ungradedC": 70067,
-        "grade9C": 285048,
-        "grade95C": 313600,
-        "cgc10C": 404564,
-        "cgc10PristineC": 728200,
-        "psa10C": 1755217,
-        "bgs10C": 2281800,
+        "ungradedC": 70261,
+        "grade9C": 287425,
+        "grade95C": 316200,
+        "cgc10C": 404307,
+        "cgc10PristineC": 727800,
+        "psa10C": 1750746,
+        "bgs10C": 2276000,
         "psa9Pop": 265,
         "psa10Pop": 59,
         "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 2 sales per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787733078238
+        "fetchedAt": 1787906404666
       },
       "bestCgc10": {
         "itemId": "147522275871",
@@ -83,8 +83,8 @@
         "cgc10CostC": 800000,
         "submissionFeeC": 99900,
         "totalCostC": 899900,
-        "psa10ValueC": 1755217,
-        "ratio": 1.9504578286476275
+        "psa10ValueC": 1750746,
+        "ratio": 1.9454894988332037
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -116,28 +116,28 @@
           "cgc10CostC": 800000,
           "submissionFeeC": 99900,
           "totalCostC": 899900,
-          "psa10ValueC": 1755217,
-          "ratio": 1.9504578286476275
+          "psa10ValueC": 1750746,
+          "ratio": 1.9454894988332037
         },
         "firstOpportunityAt": 1787560344224
       },
       "firstOpportunityAt": 1787560344224,
-      "updatedAt": 1787820054636
+      "updatedAt": 1787906404666
     },
     "prices": {
       "variantId": 11078,
-      "ungradedC": 70067,
-      "grade9C": 285048,
-      "grade95C": 313600,
-      "cgc10C": 404564,
-      "cgc10PristineC": 728200,
-      "psa10C": 1755217,
+      "ungradedC": 70261,
+      "grade9C": 287425,
+      "grade95C": 316200,
+      "cgc10C": 404307,
+      "cgc10PristineC": 727800,
+      "psa10C": 1750746,
       "psa9Pop": 265,
       "psa10Pop": 59,
       "cgc10Pop": null,
-      "bgs10C": 2281800,
+      "bgs10C": 2276000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 2 sales per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787733078238
+      "fetchedAt": 1787906404666
     },
     "listings": [
       {
@@ -173,6 +173,19 @@
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 7207437,
+          "saleDate": "2026-08-27",
+          "priceC": 147600,
+          "title": "2006 POKEMON EX LEGEND MAKER GOLD STAR #90 REGICE-HOLO PSA 7 #90",
+          "url": "https://www.ebay.com/itm/307126882382?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 7,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 2572559,
           "saleDate": "2026-08-22",
@@ -1719,19 +1732,6 @@
           "gradingGrade": 3,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 1413950,
-          "saleDate": "2026-01-13",
-          "priceC": 270000,
-          "title": "Pokemon Regice Gold Star EX Legend Maker Holo Ultra Rare #90 PSA 9 Mint #90",
-          "url": "https://www.ebay.com/itm/286852579168?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1786,9 +1786,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 247,
+      "englishSaleCount": 248,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787733075881
+      "lastCapturedAt": 1787906402188
     }
   }
 }

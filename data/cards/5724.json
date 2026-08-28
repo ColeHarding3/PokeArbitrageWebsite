@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 5724,
@@ -20,8 +20,8 @@
       "popularityScore": 79,
       "market": {
         "ungradedC": 6400,
-        "grade9C": 27750,
-        "grade95C": 30500,
+        "grade9C": 27988,
+        "grade95C": 30800,
         "cgc10C": 26269,
         "cgc10PristineC": 47300,
         "psa10C": 420000,
@@ -30,7 +30,7 @@
         "psa10Pop": 31,
         "cgc10Pop": 11,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787733704320
+        "fetchedAt": 1787907044190
       },
       "bestCgc10": {
         "itemId": "327114435514",
@@ -38,38 +38,24 @@
         "priceC": 29900,
         "shippingC": 0,
         "landedC": 29900,
-        "url": "https://www.ebay.com/itm/327114435514?_skw=%28kingdra%2Cdelta%29+%2894%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=12043364116&itmmeta=01M116RC7BK4R26Y59Q470KWWQ&hash=item4c298a2bba:g:x4IAAeSwWahpljnR&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA10ivxGGynjrjL8uDwQbNfpankura%2Bzxra2a5nISZ0PXQ8sojTyCBMBvic3MFo%2FesG1fwGfRjOjOG5rO2g7yuzxmH22mC1ty0t7PVb6BlfuHo%2B7LP%2BiCB7KDojVRNpHcMUtRtkJUqVNkPlHXPAKxpDNQXg5Vp1gQWZi3TqR8YHd0Afz9NtiJylmwaCLc44sE7G1SYO2uaav194OhZZzlEftVyRt--G04s6gLSd1fInFb7X2EMplgrhemDAunWpjmafnjtYhEdbf%2FGpXhT1wOVTMHRldttPzYOitSJiee8dysbT0n3Ki%2FHy8%2FYQI228KCSnPihfv6bRERWJA11q4y0%2B%7Ctkp%3ABk9SR4zE4aaIaA",
+        "url": "https://www.ebay.com/itm/327114435514?_skw=%28kingdra%2Cdelta%29+%2894%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=12043364116&itmmeta=01M13S45DVBRG25WH5H3D0YJTH&hash=item4c298a2bba:g:x4IAAeSwWahpljnR&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAxzy0QDXFHX3nSa0GowCTtSjLuUEkQUM0rp937R29rrZuquNOZyCiOR2y%2Br21%2BjAa%2FbOhI4g4ey%2BkZu4IQJAT7RsK8h8EhAJRkV4Eb%2FDHBpLvjoY6OeXri3Epq%2BG0HuoGc1gHDq0Z0V9qdQq35gbYUMM%2FPI1N2Kw3DAXXXCf9EQHiceKK%2Fe71FF%2FmpYd69QkRasv23muuyYz7W5zcWYixlVjHIoX%2FoDSX9Hyjb8eYuTaaGjopLZ%2BVeg7AJ6iP76SfdH28n8q4plqjApFhGwTaOgucAJNj6DUQwLUDKwjPCzw%3D%3D%7Ctkp%3ABk9SR6jXkPmIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/x4IAAeSwWahpljnR/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787821067310
+        "lastSeen": 1787907342276
       },
       "bestPsa10": null,
-      "bestPsa9": {
-        "itemId": "317951113388",
-        "title": "Kingdra EX HOLO EX DRAGON FRONTIERS POKEMON MINT PSA 9Opens in a new window or tab",
-        "priceC": 102128,
-        "shippingC": 0,
-        "landedC": 102128,
-        "url": "https://www.ebay.com/itm/317951113388?_skw=%28kingdra%2Cdelta%29+%2894%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=12043364116&itmmeta=01M116RGXGXQD9F2Y7NQ4PSGND&hash=item4a075cf8ac:g:D2QAAeSwlXFpp4zF&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAxiA0yRQdKWxQGKkSnrOe8nzG2lQ10u%2FJDtABMXrVqeZ0g1J1z%2BVXScwkoxX2SK2EDps11sE%2F0WHJfO2NL6zSM83I4tmvDlCpYavPX1nhFu2erIkz0lWT07EcO9qPNXgLY5yAkXCV2QBr82scAE4N9%2BNxIz%2FZ6xGX7lA6uB0N1QK0i2wjISQDpHUpkJediKLKRyPAR1HYWvxiI6oaLA3GCJLJMV0wXN68W6HHKGy0IHDSJK%2Fq3uvShGgDTqWVfdoY4IPCMiZyujGyAS%2FOb2Rs36WKVOgUeyukcPz%2BbKTOJjUSPPDha2EJaPWCN1nMkCTJovL0cHiVC%2BgdCJdhQdmu3%7Ctkp%3ABk9SR4iP4qaIaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/D2QAAeSwlXFpp4zF/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787058454419,
-        "lastSeen": 1787821067310
-      },
+      "bestPsa9": null,
       "counts": {
         "cgc10Bin": 3,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 1
+        "psa9Bin": 0
       },
       "ratio": {
         "ok": true,
@@ -93,14 +79,14 @@
           "priceC": 89900,
           "shippingC": 548,
           "landedC": 90448,
-          "url": "https://www.ebay.com/itm/128023117867?_skw=%28kingdra%2Cdelta%29+%2894%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=12043364116&itmmeta=01M116RGXG11DKN37A49SJ1F5T&hash=item1dcec5c02b:g:0hUAAeSwSLlqfJht&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCoM1ryz9ghKsjjmQuvKC2kh85koacMbkYI%2BJWndPa%2Fc0ph2h%2BCX%2BuMfGDTeDE6drzcZ74M39dSOZ6a10Lc0CAtPWeFI6mcTDFfL0feGkTx7Pmsi0odnYwK298QQFQ246AveqcAkicPIGzxVzdt9ROrIWEJy3qTTJrboWPLKTGARNdmv7SGFJi7kJXTZHmL%2F4XXqvk2qPFb2L6Of%2F3KPf57QiBPoWfPU5Q%2BgixnYp5pxJnf%2FDK%2FG9xNBUd6XvkpIMscvflXFrLQH9kU6ocmNcXDMo4WUF8TJ%2FkUybkCKfV6z8r9Q1wZ82TxczIH%2FAKv5CTDkF%2FkZkGIe6AIvxlx88yT%7Ctkp%3ABk9SR4aP4qaIaA",
+          "url": "https://www.ebay.com/itm/128023117867?_skw=%28kingdra%2Cdelta%29+%2894%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=12043364116&itmmeta=01M13S4A6REQN502KFVCGZDGAT&hash=item1dcec5c02b:g:0hUAAeSwSLlqfJht&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCoM1ryz9ghKsjjmQuvKC2kh85koacMbkYI%2BJWndPa%2Fc0ph2h%2BCX%2BuMfGDTeDE6drzcZ74M39dSOZ6a10Lc0CAtPWeFI6mcTDFfL0feGkTx7Pmsi0odnYwK298QQFQ246C%2BNbVuxzScI2EJyHtoxPIdgcM7zQIKb%2FbHbpOzBUAwVmgqNOWfYbVev2LIcZQwavnFtbQFoGRJP9QJABn8gVHaVbOY6voVbWvtqx0OfUseXGrM8d8ifuS40C02z25ihpvAvqCwCnvRwRCnnDZKYLE3%2FtK5kxNu9lcZe74WAQzx6YGGYmDWCQkJ5sJ8KdLULGa8tBiW7hJt%2FZdkoZPSdBIO%7Ctkp%3ABk9SR9ijkfmIaA",
           "imageUrl": "https://i.ebayimg.com/images/g/0hUAAeSwSLlqfJht/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787218759794,
-          "lastSeen": 1787821067310
+          "lastSeen": 1787907342276
         },
         "cgc10Bin": 2,
         "cgc10Auction": 0,
@@ -122,13 +108,13 @@
         "firstOpportunityAt": 1787218759794
       },
       "firstOpportunityAt": 1787218759794,
-      "updatedAt": 1787821067310
+      "updatedAt": 1787907342276
     },
     "prices": {
       "variantId": 5724,
       "ungradedC": 6400,
-      "grade9C": 27750,
-      "grade95C": 30500,
+      "grade9C": 27988,
+      "grade95C": 30800,
       "cgc10C": 26269,
       "cgc10PristineC": 47300,
       "psa10C": 420000,
@@ -137,7 +123,7 @@
       "cgc10Pop": 11,
       "bgs10C": 546000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787733704320
+      "fetchedAt": 1787907044190
     },
     "listings": [
       {
@@ -146,14 +132,14 @@
         "priceC": 29900,
         "shippingC": 0,
         "landedC": 29900,
-        "url": "https://www.ebay.com/itm/327114435514?_skw=%28kingdra%2Cdelta%29+%2894%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=12043364116&itmmeta=01M116RC7BK4R26Y59Q470KWWQ&hash=item4c298a2bba:g:x4IAAeSwWahpljnR&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA10ivxGGynjrjL8uDwQbNfpankura%2Bzxra2a5nISZ0PXQ8sojTyCBMBvic3MFo%2FesG1fwGfRjOjOG5rO2g7yuzxmH22mC1ty0t7PVb6BlfuHo%2B7LP%2BiCB7KDojVRNpHcMUtRtkJUqVNkPlHXPAKxpDNQXg5Vp1gQWZi3TqR8YHd0Afz9NtiJylmwaCLc44sE7G1SYO2uaav194OhZZzlEftVyRt--G04s6gLSd1fInFb7X2EMplgrhemDAunWpjmafnjtYhEdbf%2FGpXhT1wOVTMHRldttPzYOitSJiee8dysbT0n3Ki%2FHy8%2FYQI228KCSnPihfv6bRERWJA11q4y0%2B%7Ctkp%3ABk9SR4zE4aaIaA",
+        "url": "https://www.ebay.com/itm/327114435514?_skw=%28kingdra%2Cdelta%29+%2894%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=12043364116&itmmeta=01M13S45DVBRG25WH5H3D0YJTH&hash=item4c298a2bba:g:x4IAAeSwWahpljnR&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAxzy0QDXFHX3nSa0GowCTtSjLuUEkQUM0rp937R29rrZuquNOZyCiOR2y%2Br21%2BjAa%2FbOhI4g4ey%2BkZu4IQJAT7RsK8h8EhAJRkV4Eb%2FDHBpLvjoY6OeXri3Epq%2BG0HuoGc1gHDq0Z0V9qdQq35gbYUMM%2FPI1N2Kw3DAXXXCf9EQHiceKK%2Fe71FF%2FmpYd69QkRasv23muuyYz7W5zcWYixlVjHIoX%2FoDSX9Hyjb8eYuTaaGjopLZ%2BVeg7AJ6iP76SfdH28n8q4plqjApFhGwTaOgucAJNj6DUQwLUDKwjPCzw%3D%3D%7Ctkp%3ABk9SR6jXkPmIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/x4IAAeSwWahpljnR/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787821067310
+        "lastSeen": 1787907342276
       },
       {
         "itemId": "128023117867",
@@ -161,14 +147,14 @@
         "priceC": 89900,
         "shippingC": 548,
         "landedC": 90448,
-        "url": "https://www.ebay.com/itm/128023117867?_skw=%28kingdra%2Cdelta%29+%2894%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=12043364116&itmmeta=01M116RGXG11DKN37A49SJ1F5T&hash=item1dcec5c02b:g:0hUAAeSwSLlqfJht&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCoM1ryz9ghKsjjmQuvKC2kh85koacMbkYI%2BJWndPa%2Fc0ph2h%2BCX%2BuMfGDTeDE6drzcZ74M39dSOZ6a10Lc0CAtPWeFI6mcTDFfL0feGkTx7Pmsi0odnYwK298QQFQ246AveqcAkicPIGzxVzdt9ROrIWEJy3qTTJrboWPLKTGARNdmv7SGFJi7kJXTZHmL%2F4XXqvk2qPFb2L6Of%2F3KPf57QiBPoWfPU5Q%2BgixnYp5pxJnf%2FDK%2FG9xNBUd6XvkpIMscvflXFrLQH9kU6ocmNcXDMo4WUF8TJ%2FkUybkCKfV6z8r9Q1wZ82TxczIH%2FAKv5CTDkF%2FkZkGIe6AIvxlx88yT%7Ctkp%3ABk9SR4aP4qaIaA",
+        "url": "https://www.ebay.com/itm/128023117867?_skw=%28kingdra%2Cdelta%29+%2894%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=12043364116&itmmeta=01M13S4A6REQN502KFVCGZDGAT&hash=item1dcec5c02b:g:0hUAAeSwSLlqfJht&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCoM1ryz9ghKsjjmQuvKC2kh85koacMbkYI%2BJWndPa%2Fc0ph2h%2BCX%2BuMfGDTeDE6drzcZ74M39dSOZ6a10Lc0CAtPWeFI6mcTDFfL0feGkTx7Pmsi0odnYwK298QQFQ246C%2BNbVuxzScI2EJyHtoxPIdgcM7zQIKb%2FbHbpOzBUAwVmgqNOWfYbVev2LIcZQwavnFtbQFoGRJP9QJABn8gVHaVbOY6voVbWvtqx0OfUseXGrM8d8ifuS40C02z25ihpvAvqCwCnvRwRCnnDZKYLE3%2FtK5kxNu9lcZe74WAQzx6YGGYmDWCQkJ5sJ8KdLULGa8tBiW7hJt%2FZdkoZPSdBIO%7Ctkp%3ABk9SR9ijkfmIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/0hUAAeSwSLlqfJht/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787821067310
+        "lastSeen": 1787907342276
       },
       {
         "itemId": "287536583180",
@@ -176,29 +162,14 @@
         "priceC": 100000,
         "shippingC": 999,
         "landedC": 100999,
-        "url": "https://www.ebay.com/itm/287536583180?_skw=%28kingdra%2Cdelta%29+%2894%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=12043364116&itmmeta=01M116RGXGJMBGG2A7N7S9Q5HP&hash=item42f284120c:g:-gIAAeSwIR1qhzFy&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA2%2FLgK83LjxGRtRMEWYs%2F1NQ46P%2F2%2FBwlP8tI%2BsZtxBoJ%2Bb%2Fg4z%2FjkKaJbcb3rh6B9qqGC3T%2Bf%2FS953zkK2Y3iss%2FAONMYj%2Bowv2CipKiUiZ8ImAvpItzMF28RYcGaJzW0M%2BMue5H4txVGP%2BtStQAouZSlFVeqj%2FCwBMSljOnMRbRgYA1BjCMYMwPnT9UPdqE%2BnQu3KJrIZvVkp2ynGwfm3ZGhXCGrT4kFtHkdg--z1lIc5BFi4SvS0VHARx9nPxt2Eko7YIuhMQPNk4Xj1Udiqd5t%2FRlfnR1WTlJsneNc68lqObvSzeo0cdM2ebEQ0GU9OxihFWdhTsDmUOsjWJzH%7Ctkp%3ABk9SR4iP4qaIaA",
+        "url": "https://www.ebay.com/itm/287536583180?_skw=%28kingdra%2Cdelta%29+%2894%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=12043364116&itmmeta=01M13S4A6R5F1NZ56FFCXQPK8X&hash=item42f284120c:g:-gIAAeSwIR1qhzFy&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBJsdvWCZ4inzM5tMfg28ZkWtdeVt2nBNicULk%2BEXKfG2GqNhVYSKX%2BZ2hdqEG5%2B62yoF14Koi1O%2FYv3sbrgfnMAQgUgNTNPSXP%2BVafYyh8GqoPF1R42x%2FlTIkxO2Xgd7GTJeXQYjTaqxqT2FuqvgDBTHhL1W6Lf8q7bmY5R0y8kr862Nx%2Flz9Jgoy%2B%2BqJX2tk3Nv5ggTRGplz7RtV%2BSd6RbMfDH3jhhLq02kqiu543ERyhG9nEOtxn%2FIeaF14%2FGj42eJ%2BeWim453STQAdXJl866aC7epXmnoCBTGFiOzOXeg%3D%3D%7Ctkp%3ABk9SR9qjkfmIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-gIAAeSwIR1qhzFy/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787302568112,
-        "lastSeen": 1787821067310
-      },
-      {
-        "itemId": "317951113388",
-        "title": "Kingdra EX HOLO EX DRAGON FRONTIERS POKEMON MINT PSA 9Opens in a new window or tab",
-        "priceC": 102128,
-        "shippingC": 0,
-        "landedC": 102128,
-        "url": "https://www.ebay.com/itm/317951113388?_skw=%28kingdra%2Cdelta%29+%2894%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=12043364116&itmmeta=01M116RGXGXQD9F2Y7NQ4PSGND&hash=item4a075cf8ac:g:D2QAAeSwlXFpp4zF&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAxiA0yRQdKWxQGKkSnrOe8nzG2lQ10u%2FJDtABMXrVqeZ0g1J1z%2BVXScwkoxX2SK2EDps11sE%2F0WHJfO2NL6zSM83I4tmvDlCpYavPX1nhFu2erIkz0lWT07EcO9qPNXgLY5yAkXCV2QBr82scAE4N9%2BNxIz%2FZ6xGX7lA6uB0N1QK0i2wjISQDpHUpkJediKLKRyPAR1HYWvxiI6oaLA3GCJLJMV0wXN68W6HHKGy0IHDSJK%2Fq3uvShGgDTqWVfdoY4IPCMiZyujGyAS%2FOb2Rs36WKVOgUeyukcPz%2BbKTOJjUSPPDha2EJaPWCN1nMkCTJovL0cHiVC%2BgdCJdhQdmu3%7Ctkp%3ABk9SR4iP4qaIaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/D2QAAeSwlXFpp4zF/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787058454419,
-        "lastSeen": 1787821067310
+        "lastSeen": 1787907342276
       }
     ],
     "marketHistory": {
@@ -1823,7 +1794,7 @@
       ],
       "englishSaleCount": 178,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787733702435
+      "lastCapturedAt": 1787907042790
     }
   }
 }

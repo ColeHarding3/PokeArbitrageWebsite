@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 1487,
@@ -21,16 +21,16 @@
       "market": {
         "ungradedC": 26131,
         "grade9C": 162600,
-        "grade95C": 264592,
+        "grade95C": 264642,
         "cgc10C": 120000,
-        "cgc10PristineC": 388873,
-        "psa10C": 1080834,
-        "bgs10C": 1405100,
+        "cgc10PristineC": 388504,
+        "psa10C": 1077917,
+        "bgs10C": 1401300,
         "psa9Pop": 434,
         "psa10Pop": 77,
         "cgc10Pop": 37,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787729554310
+        "fetchedAt": 1787902770316
       },
       "bestCgc10": {
         "itemId": "206288214549",
@@ -38,14 +38,14 @@
         "priceC": 129999,
         "shippingC": 0,
         "landedC": 129999,
-        "url": "https://www.ebay.com/itm/206288214549?_skw=%28tyranitar%29+%2812%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=22043373962&itmmeta=01M1122M16AHKZZQV0F4VTR2WK&hash=item3007bc5a15:g:V~wAAeSwNBlqDmMJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCkQNioysBjL2jT660NJz%2F8n97mx4aw%2BzbFRb7PDXwo9FqF82A8Ktdc3ZOWlTnMU6kBn8nTKL2lU9YpzC7d8O5mrBhXaf39bx6a%2BFJi%2B4bwGj5HFOo%2FBoSAavCKMe6CUdfGhlZzhh2NIbT3FYq62KN81DdV7dvm%2F3%2FZTwMUXDaqW4%2FUKzT7KNjQgV7qEspkCNJXnL%2F4ciPwSZcOF3GFQf7%2BJJv8BAIsuoan6UrO0w6CpWiVqYsUIntxcXfmOjxdw%2B9YN1qvrZpfkq7aMkhEHvzPVRaHMeVE5K5Ia%2BBw%2Br%2FzAw%3D%3D%7Ctkp%3ABk9SR_DAiqKIaA",
+        "url": "https://www.ebay.com/itm/206288214549?_skw=%28tyranitar%29+%2812%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=22043373962&itmmeta=01M13N0DP30RYMMMR87VWVS0Z5&hash=item3007bc5a15:g:V~wAAeSwNBlqDmMJ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBTQ56W8HKAo%2Fo3YbKq6UlrAh%2Blv3j0qWdPx1bCitP8NFqeo11A8CM8i%2FJxHXiFGUov7FAnPB0TSEOwPXzFnBPPIH1lkBabVczZmnU99CHe4jjhwDSati5oXN9zlC2Nst%2FYlY%2Fp%2BQlG2SeF6pVfAmNpoRSi1n2aaK%2FyzZvyco9ppc9QOvFuEtmyf8jIgMxzFygqxqA6hc8M7Os%2FxhrgCWLIC5jEk%2BVxWqjvntgHO9Usb73iUOccYAnITNw9AXGodGToTP4hOlF4evZ7wv0kf0h9yjLbYVUMcfKFHsyLT0TRx1TvvTvkJwaFUg1YqHScDblc3FgN13aySoxhmbg0BG0s%7Ctkp%3ABk9SR67bgfWIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/V~wAAeSwNBlqDmMJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094600607,
-        "lastSeen": 1787816030569
+        "lastSeen": 1787902934055
       },
       "bestPsa10": null,
       "bestPsa9": {
@@ -54,14 +54,14 @@
         "priceC": 199999,
         "shippingC": 495,
         "landedC": 200494,
-        "url": "https://www.ebay.com/itm/158204400053?_skw=%28tyranitar%29+%2812%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=22043373962&itmmeta=01M1122M17DBB3P9EKCNGQT6SM&hash=item24d5b791b5:g:pnUAAeSwiX1qhT5Y&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCLTahRt8Dj1%2F9%2FQ6uzhbtsyj0igyszvOcZ88ZuMiRzuKUR035UYpYwSfHWiekRlKlpbsd7WgYO%2BWrzBLc%2B%2FPX7E7NuFiDjFtse88RKQurkYVMFAEeDU5TdUyXgvQNGr3Kr5r4MHc%2BsjSGjefP6c1ze881fMOQus%2FnKvA2Wn3omDsE589ozD8LuYRGPGv07UN96kbu09alw3bv7NUyxoa4tLPlEyiA8DbmyKavnRrX84vUKXvhk0%2B7ml%2F59dZTidpGWcHeQYM%2BeQvZk4gGRpIkddZBitP8Ls4nvgWQDBC0gV%2FYgKRT%2BG0UlIkSVERx5PVSrGP9mvTyf%2Bl2P65IGiqq3%7Ctkp%3ABk9SR_TAiqKIaA",
+        "url": "https://www.ebay.com/itm/158204400053?_skw=%28tyranitar%29+%2812%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=22043373962&itmmeta=01M13N0DP4250A747XRYJD185G&hash=item24d5b791b5:g:pnUAAeSwiX1qhT5Y&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDplF%2Bn%2F0ikRHVVh6AFmpzBoQksQBaLGnYy6Eih4NjBhTDwfK8KqEKLQBc7EwWwbNh0GvioX2oUB6ck8q8mvjFVMivuEtX3fubLyFDz9Bi5I0CpEfnalFnRy0tu70Qat5ZhCi6TgEu8pLq%2FVR4ALyo9G90nEthe1Fj%2FkhcDDNqdZ5436elUP4rrdepv4TE%2FtmmncuwFJbZ%2B8fINmUP51YN1ZIhRKVSsVmiLZBVeTD1UV%2BGv6i6nOSyo3Xqf9NnpnT8CaHOo6j01SYZcYle3xur5RaW7SaWqquW4gl0jsPiaow%3D%3D%7Ctkp%3ABk9SR7LbgfWIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/pnUAAeSwiX1qhT5Y/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787211400552,
-        "lastSeen": 1787816030569
+        "lastSeen": 1787902934055
       },
       "counts": {
         "cgc10Bin": 1,
@@ -83,8 +83,8 @@
         "cgc10CostC": 129999,
         "submissionFeeC": 99900,
         "totalCostC": 229899,
-        "psa10ValueC": 1080834,
-        "ratio": 4.70134276356139
+        "psa10ValueC": 1077917,
+        "ratio": 4.688654583099535
       },
       "withoutLegacyCgc95": {
         "bestCgc10": null,
@@ -94,22 +94,22 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787094600607,
-      "updatedAt": 1787816030569
+      "updatedAt": 1787902934055
     },
     "prices": {
       "variantId": 1487,
       "ungradedC": 26131,
       "grade9C": 162600,
-      "grade95C": 264592,
+      "grade95C": 264642,
       "cgc10C": 120000,
-      "cgc10PristineC": 388873,
-      "psa10C": 1080834,
+      "cgc10PristineC": 388504,
+      "psa10C": 1077917,
       "psa9Pop": 434,
       "psa10Pop": 77,
       "cgc10Pop": 37,
-      "bgs10C": 1405100,
+      "bgs10C": 1401300,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787729554310
+      "fetchedAt": 1787902770316
     },
     "listings": [
       {
@@ -118,14 +118,14 @@
         "priceC": 129999,
         "shippingC": 0,
         "landedC": 129999,
-        "url": "https://www.ebay.com/itm/206288214549?_skw=%28tyranitar%29+%2812%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=22043373962&itmmeta=01M1122M16AHKZZQV0F4VTR2WK&hash=item3007bc5a15:g:V~wAAeSwNBlqDmMJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCkQNioysBjL2jT660NJz%2F8n97mx4aw%2BzbFRb7PDXwo9FqF82A8Ktdc3ZOWlTnMU6kBn8nTKL2lU9YpzC7d8O5mrBhXaf39bx6a%2BFJi%2B4bwGj5HFOo%2FBoSAavCKMe6CUdfGhlZzhh2NIbT3FYq62KN81DdV7dvm%2F3%2FZTwMUXDaqW4%2FUKzT7KNjQgV7qEspkCNJXnL%2F4ciPwSZcOF3GFQf7%2BJJv8BAIsuoan6UrO0w6CpWiVqYsUIntxcXfmOjxdw%2B9YN1qvrZpfkq7aMkhEHvzPVRaHMeVE5K5Ia%2BBw%2Br%2FzAw%3D%3D%7Ctkp%3ABk9SR_DAiqKIaA",
+        "url": "https://www.ebay.com/itm/206288214549?_skw=%28tyranitar%29+%2812%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=22043373962&itmmeta=01M13N0DP30RYMMMR87VWVS0Z5&hash=item3007bc5a15:g:V~wAAeSwNBlqDmMJ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBTQ56W8HKAo%2Fo3YbKq6UlrAh%2Blv3j0qWdPx1bCitP8NFqeo11A8CM8i%2FJxHXiFGUov7FAnPB0TSEOwPXzFnBPPIH1lkBabVczZmnU99CHe4jjhwDSati5oXN9zlC2Nst%2FYlY%2Fp%2BQlG2SeF6pVfAmNpoRSi1n2aaK%2FyzZvyco9ppc9QOvFuEtmyf8jIgMxzFygqxqA6hc8M7Os%2FxhrgCWLIC5jEk%2BVxWqjvntgHO9Usb73iUOccYAnITNw9AXGodGToTP4hOlF4evZ7wv0kf0h9yjLbYVUMcfKFHsyLT0TRx1TvvTvkJwaFUg1YqHScDblc3FgN13aySoxhmbg0BG0s%7Ctkp%3ABk9SR67bgfWIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/V~wAAeSwNBlqDmMJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094600607,
-        "lastSeen": 1787816030569
+        "lastSeen": 1787902934055
       },
       {
         "itemId": "158204400053",
@@ -133,14 +133,14 @@
         "priceC": 199999,
         "shippingC": 495,
         "landedC": 200494,
-        "url": "https://www.ebay.com/itm/158204400053?_skw=%28tyranitar%29+%2812%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=22043373962&itmmeta=01M1122M17DBB3P9EKCNGQT6SM&hash=item24d5b791b5:g:pnUAAeSwiX1qhT5Y&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCLTahRt8Dj1%2F9%2FQ6uzhbtsyj0igyszvOcZ88ZuMiRzuKUR035UYpYwSfHWiekRlKlpbsd7WgYO%2BWrzBLc%2B%2FPX7E7NuFiDjFtse88RKQurkYVMFAEeDU5TdUyXgvQNGr3Kr5r4MHc%2BsjSGjefP6c1ze881fMOQus%2FnKvA2Wn3omDsE589ozD8LuYRGPGv07UN96kbu09alw3bv7NUyxoa4tLPlEyiA8DbmyKavnRrX84vUKXvhk0%2B7ml%2F59dZTidpGWcHeQYM%2BeQvZk4gGRpIkddZBitP8Ls4nvgWQDBC0gV%2FYgKRT%2BG0UlIkSVERx5PVSrGP9mvTyf%2Bl2P65IGiqq3%7Ctkp%3ABk9SR_TAiqKIaA",
+        "url": "https://www.ebay.com/itm/158204400053?_skw=%28tyranitar%29+%2812%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=22043373962&itmmeta=01M13N0DP4250A747XRYJD185G&hash=item24d5b791b5:g:pnUAAeSwiX1qhT5Y&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDplF%2Bn%2F0ikRHVVh6AFmpzBoQksQBaLGnYy6Eih4NjBhTDwfK8KqEKLQBc7EwWwbNh0GvioX2oUB6ck8q8mvjFVMivuEtX3fubLyFDz9Bi5I0CpEfnalFnRy0tu70Qat5ZhCi6TgEu8pLq%2FVR4ALyo9G90nEthe1Fj%2FkhcDDNqdZ5436elUP4rrdepv4TE%2FtmmncuwFJbZ%2B8fINmUP51YN1ZIhRKVSsVmiLZBVeTD1UV%2BGv6i6nOSyo3Xqf9NnpnT8CaHOo6j01SYZcYle3xur5RaW7SaWqquW4gl0jsPiaow%3D%3D%7Ctkp%3ABk9SR7LbgfWIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/pnUAAeSwiX1qhT5Y/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787211400552,
-        "lastSeen": 1787816030569
+        "lastSeen": 1787902934055
       },
       {
         "itemId": "377394729876",
@@ -148,29 +148,29 @@
         "priceC": 212595,
         "shippingC": 0,
         "landedC": 212595,
-        "url": "https://www.ebay.com/itm/377394729876?_skw=%28tyranitar%29+%2812%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=22043373962&itmmeta=01M1122M17X1WE4XCY0SFNJX16&hash=item57de7a9394:g:05sAAeSwh~xqcj7J&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDhY1LcEnub%2BLU4miWa3FfXGc36C%2FLCfGXJqwFOQRPtN%2FhC%2FXo56AHo5fhcXlDl26F36fRtl1BKaZ%2FCJ%2BE2ws3iMsbpSGFgsfeIfynPA9MQaHP7JdxSaTK6e55YcptyiaD%2BGDX0I%2BYE2q9%2FWQDkntyS0fsUf55LeO0ueUGMCaP%2FEB%2FCqyV1Zr%2BwOlbcaqfHYETNMjP3LU1zbXoFnDWng5n%2F1BoEwoDqcSrr%2BOs0aXqB5uDYSwka%2BL1jiTAoFKBEWUywph7%2FuLkIujUAIGU2nwMTf%2BycqbSWUjs48zTuScsO1NEcgwFktt0KZGXQA1zy25NLwNrlCztn%2BNeXcbN2NM4s%7Ctkp%3ABk9SR_TAiqKIaA",
+        "url": "https://www.ebay.com/itm/377394729876?_skw=%28tyranitar%29+%2812%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=22043373962&itmmeta=01M13N0DP5NPV5P9RMXYYFKC7G&hash=item57de7a9394:g:05sAAeSwh~xqcj7J&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBqTVUFRAV1jTbyrbABd8%2Bxg7%2F6rveA7AXITV9QFrnR92yqVx%2FJy09gXHoZcfiSbOLuQ1%2FGcRYCRRX7%2BjA8ir7gwGrJ9Wt7rCaJlhRhyF87WFIIfK0l4te%2BoR%2BVHG04Q9mVLxjZJr%2Foa5xnqzcrO9n%2FGVVk8RmsFl0iHREolXwNQ9kWACBiquZkvI7PP2xajZFeB0ovXMXzlZlrguMDAPvjXSPzrb%2BwBCcP1MOcRuxv6F0x9dt38UGxYABDulqrrcZpsqmf1LsTy0%2BTXZBqQxjTeApsgmtJyPnU7VMXSe%2BUtg%3D%3D%7Ctkp%3ABk9SR7LbgfWIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/05sAAeSwh~xqcj7J/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787047017265,
-        "lastSeen": 1787816030569
+        "lastSeen": 1787902934055
       },
       {
         "itemId": "137636580313",
         "title": "Pokemon TCG 2001 Neo Discovery Tyranitar 12/75 1st Edition Holo EN PSA 9Opens in a new window or tab",
         "priceC": 230000,
-        "shippingC": 517,
-        "landedC": 230517,
-        "url": "https://www.ebay.com/itm/137636580313?_skw=%28tyranitar%29+%2812%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=22043373962&itmmeta=01M1122M18RMFAQS0A2TNQZBF2&hash=item200bc78bd9:g:bOYAAeSwzkRqhL6W&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBGajNPNP7AnEtJtMKx3ddLseDxujlXtcVcFo6Tf0Fw1nzyguY2n1cYeYvU73GXti6CdkGt3od%2F60CexdCxpMB7Cgd1iVzwnv2N%2BPlAyuL3hnNElklINGjQSBI8hsZI6dvKbrgUr2JR9NgwyDLsnjw3FRxFq1hk0NxCH6pUn4i%2BlGo4%2FBTngoLN1XlEMp%2FXTdu5QC0bgxVKraGkQdXDPQGO9UlQ5ZtnqISPpJQCAPrBncW5YRGoOAkVYhhU1U3tPU33iNyL2oELctGxswCGn4IsRznVYuKksGszk%2FsnOePg8w%3D%3D%7Ctkp%3ABk9SR_bAiqKIaA",
+        "shippingC": 548,
+        "landedC": 230548,
+        "url": "https://www.ebay.com/itm/137636580313?_skw=%28tyranitar%29+%2812%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=22043373962&itmmeta=01M13N0DP5CXDJVC9QHQ04KPWZ&hash=item200bc78bd9:g:bOYAAeSwzkRqhL6W&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBGajNPNP7AnEtJtMKx3ddLseDxujlXtcVcFo6Tf0Fw1njv4tLTKNFHGLvZQND%2BYkAxvZOVST5XUfrFGo3FdJ%2FUxTzUWTwn2hIpcQhlHpuktR37Pyt1mJeJTOv1NKiBANMDbD%2FDVOqx7HlaJMUNReSgJSizcvvNAACbEZ%2FHMwQ3ZFkEI4ODQ%2Bw91Nz99wAzA2074QHLoRmyr3fBJExvkH6ABKzbIKPpMbaEJPYxkpqmZpRjs15r9HsHbXqF8M%2FLS8CNJPgHhh3pOoq5qxLVrLgP2qV6Jjw7xEi3WDViic9L4w%3D%3D%7Ctkp%3ABk9SR7TbgfWIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/bOYAAeSwzkRqhL6W/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787211400552,
-        "lastSeen": 1787816030569
+        "lastSeen": 1787902934055
       },
       {
         "itemId": "168352243675",
@@ -178,14 +178,14 @@
         "priceC": 256900,
         "shippingC": 624,
         "landedC": 257524,
-        "url": "https://www.ebay.com/itm/168352243675?_skw=%28tyranitar%29+%2812%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=22043373962&itmmeta=01M1122M18YJQQE0NQJADV7X7H&hash=item2732935fdb:g:DagAAeSwvRxqRGn9&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB1GILnfDVnuAFFtgQEqW3VPO0s8svnEzk8xewU2EGQykwMhCJg9PvvZIzly6m2hNZbp%2FT0J53x0VfN6vexLz9B4vxSIQmmzCNwSC1UZ%2Bm%2FApCl5%2FpS6%2BBY2FYrqyd6X4l5Ib%2Fj0Iq5uZqIA06DiQALMdwDxqrs4fY9UDWIjHrJgKkpil%2BmFnT6ev9YETafJhmcI2jseAibh0D4GWvmfkP1WguGDOBgS448g4t3vRXpwAUFYKMmGpeffLbUsuYZx19w7%2B%2BQTZRwy1Awq1wHrS8ko1omiBP2ADPL7B5fzP884g%3D%3D%7Ctkp%3ABk9SR_bAiqKIaA",
+        "url": "https://www.ebay.com/itm/168352243675?_skw=%28tyranitar%29+%2812%2Cneo%2Cdiscovery%29+%28CGC%2CPSA%29&epid=22043373962&itmmeta=01M13N0DP5NEHR1WHQDG19XPRC&hash=item2732935fdb:g:DagAAeSwvRxqRGn9&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAt9UV4VG5T9LYONd4w5GTRE%2BQ%2FhTieKKwIhXOwLpfT3eBGJDpFH43Mi3B3odnNPphCChkcLghlm9ZxZTeURFfj8IF16HL9x9i9frDvo3wr1btK%2BjwtkCGxV3em%2FvbOUYqWjVvkvlNUH7szQR5wMd8LtCt6YIPXYpSQXq7qMAiRLx6Al1GgBB9yNZgwdg17u3OkbKkhcVeevVYpOBw9aLqW8ZbEvSsE1cdWrOR%2Bwmecz6BkJkYc7BjqVEqYE4rFEwHsVEcG%2Bu2OECJz%2BG5NX5aqmCL8hnnaoRaH%2BnrplyG980wJxxEpp9Tea0O338L0u1eF3EkafnI3Yv%2FQ8NFk3OOv%7Ctkp%3ABk9SR7TbgfWIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/DagAAeSwvRxqRGn9/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787047017265,
-        "lastSeen": 1787816030569
+        "lastSeen": 1787902934055
       }
     ],
     "marketHistory": {
@@ -200,6 +200,32 @@
           "gradingStatus": "graded",
           "gradingCompany": "PSA",
           "gradingGrade": 1,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 6807381,
+          "saleDate": "2026-08-23",
+          "priceC": 86000,
+          "title": "PSA 8 2001 Pokemon Neo Discovery Tyranitar Holo 1st Edition 12/75 12/75",
+          "url": "https://www.ebay.com/itm/366624094556?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 6807351,
+          "saleDate": "2026-08-23",
+          "priceC": 183531,
+          "title": "Tyranitar Holo 12/75 PSA 9 1st Edition Neo Discovery Pokemon 12/75",
+          "url": "https://www.ebay.com/itm/168620193912?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1723,32 +1749,6 @@
           "gradingGrade": 8,
           "gradingDesignation": "nm-mt",
           "agreementStatus": "match"
-        },
-        {
-          "id": 261935,
-          "saleDate": "2025-12-22",
-          "priceC": 61000,
-          "title": "Pokemon Tyranitar Neo Discovery 1st Edition Holo Rare #12 PSA 9 Mint",
-          "url": "https://www.ebay.com/itm/287006778159?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 261978,
-          "saleDate": "2025-12-18",
-          "priceC": 32000,
-          "title": "Pokemon Tyranitar Neo Discovery First Edition Holo Rare #12 PSA 7 NM Mint SWIRL #12",
-          "url": "https://www.ebay.com/itm/297844022404?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1853,9 +1853,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 242,
+      "englishSaleCount": 244,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787729552285
+      "lastCapturedAt": 1787902768399
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 3478,
@@ -28,9 +28,9 @@
         "bgs10C": 208100,
         "psa9Pop": null,
         "psa10Pop": null,
-        "cgc10Pop": 69,
+        "cgc10Pop": 78,
         "salesVolumeJson": "{\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\",\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787731488547
+        "fetchedAt": 1787904817605
       },
       "bestCgc10": {
         "itemId": "188843403549",
@@ -38,14 +38,14 @@
         "priceC": 300000,
         "shippingC": 597,
         "landedC": 300597,
-        "url": "https://www.ebay.com/itm/188843403549?_skw=%28flygon%29+%2815%2Cdragon%29+%28CGC%2CPSA%29&itmmeta=01M1147BW0CPA4AGC3SCTYQ87Y&hash=item2bf7f1a91d:g:usAAAeSw2eVoq1~S&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCFvWb38%2Bmc7NnYN7VT9w74tW83oZCXu3ZzsJi7W2gGUdPAP8sld%2Bn8fe86U1xr0yigMYOkthieSWVWOgBHBlU5u89WdHyKr2%2FrNdL0MKLZCjjGOz5gz1lqE%2BJaiRb0ih7nHbwR%2BZ5IkPjXaBxCbIytlj3HUJ8s2KTbV%2B6p0NT1km3TVlu%2FsFNnsmOZ1K92w6w40VC294Kz6eLIi8nqPkGgCS6MDIUMuWfzkPZcopnsQ35z20e6kuqlUdnqRON0TBa53LAObvambNnYvMWL%2BrGg%7Ctkp%3ABk9SR6a-naSIaA",
+        "url": "https://www.ebay.com/itm/188843403549?_skw=%28flygon%29+%2815%2Cdragon%29+%28CGC%2CPSA%29&itmmeta=01M13PYFMR34E4BMV4SEKDBHXM&hash=item2bf7f1a91d:g:usAAAeSw2eVoq1~S&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCFvWb38%2Bmc7NnYN7VT9w74tW83oZCXu3ZzsJi7W2gGUXlNZw1jr5slXDMnJpQEO%2B08DHkx%2Bf5tM2tzaQLU4sw3Q%2B4dz4LtzszpAJYNKbntGU1RPT7D%2Bf5qeTCkV2A9BfYZafxcTNGPNgznm5ywHnI7ooWhqBP8GHaH5iHjb9sJTxfERQeAboypS0fMREf6PhRdpphR%2FIHTkEMOLi2wP1jQ6wu1qlTkByPt%2BTiN0ZbuMhRIqyjC3Q4Ai31%2FUmB5hzU1MzOMmbTeKrWZ%2FG5fmGnE%7Ctkp%3ABk9SR9T6-faIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/usAAAeSw2eVoq1~S/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787818239752,
-        "lastSeen": 1787818239752
+        "lastSeen": 1787904915427
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -80,7 +80,7 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787818239752,
-      "updatedAt": 1787818239752
+      "updatedAt": 1787904915427
     },
     "prices": {
       "variantId": 3478,
@@ -92,10 +92,10 @@
       "psa10C": 160072,
       "psa9Pop": null,
       "psa10Pop": null,
-      "cgc10Pop": 69,
+      "cgc10Pop": 78,
       "bgs10C": 208100,
       "salesVolumeJson": "{\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\",\"volume: 2 sales per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787731488547
+      "fetchedAt": 1787904817605
     },
     "listings": [
       {
@@ -104,14 +104,14 @@
         "priceC": 300000,
         "shippingC": 597,
         "landedC": 300597,
-        "url": "https://www.ebay.com/itm/188843403549?_skw=%28flygon%29+%2815%2Cdragon%29+%28CGC%2CPSA%29&itmmeta=01M1147BW0CPA4AGC3SCTYQ87Y&hash=item2bf7f1a91d:g:usAAAeSw2eVoq1~S&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCFvWb38%2Bmc7NnYN7VT9w74tW83oZCXu3ZzsJi7W2gGUdPAP8sld%2Bn8fe86U1xr0yigMYOkthieSWVWOgBHBlU5u89WdHyKr2%2FrNdL0MKLZCjjGOz5gz1lqE%2BJaiRb0ih7nHbwR%2BZ5IkPjXaBxCbIytlj3HUJ8s2KTbV%2B6p0NT1km3TVlu%2FsFNnsmOZ1K92w6w40VC294Kz6eLIi8nqPkGgCS6MDIUMuWfzkPZcopnsQ35z20e6kuqlUdnqRON0TBa53LAObvambNnYvMWL%2BrGg%7Ctkp%3ABk9SR6a-naSIaA",
+        "url": "https://www.ebay.com/itm/188843403549?_skw=%28flygon%29+%2815%2Cdragon%29+%28CGC%2CPSA%29&itmmeta=01M13PYFMR34E4BMV4SEKDBHXM&hash=item2bf7f1a91d:g:usAAAeSw2eVoq1~S&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCFvWb38%2Bmc7NnYN7VT9w74tW83oZCXu3ZzsJi7W2gGUXlNZw1jr5slXDMnJpQEO%2B08DHkx%2Bf5tM2tzaQLU4sw3Q%2B4dz4LtzszpAJYNKbntGU1RPT7D%2Bf5qeTCkV2A9BfYZafxcTNGPNgznm5ywHnI7ooWhqBP8GHaH5iHjb9sJTxfERQeAboypS0fMREf6PhRdpphR%2FIHTkEMOLi2wP1jQ6wu1qlTkByPt%2BTiN0ZbuMhRIqyjC3Q4Ai31%2FUmB5hzU1MzOMmbTeKrWZ%2FG5fmGnE%7Ctkp%3ABk9SR9T6-faIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/usAAAeSw2eVoq1~S/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787818239752,
-        "lastSeen": 1787818239752
+        "lastSeen": 1787904915427
       }
     ],
     "marketHistory": {
@@ -1756,7 +1756,7 @@
       ],
       "englishSaleCount": 143,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787731486873
+      "lastCapturedAt": 1787904816129
     }
   }
 }

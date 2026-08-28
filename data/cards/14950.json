@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 14950,
@@ -20,17 +20,17 @@
       "popularityScore": 91,
       "market": {
         "ungradedC": 38163,
-        "grade9C": 383750,
+        "grade9C": 390155,
         "grade95C": 599550,
-        "cgc10C": 893608,
-        "cgc10PristineC": 1608500,
-        "psa10C": 2042403,
-        "bgs10C": 2655100,
+        "cgc10C": 864135,
+        "cgc10PristineC": 1555400,
+        "psa10C": 2886682,
+        "bgs10C": 3752700,
         "psa9Pop": 803,
         "psa10Pop": 83,
-        "cgc10Pop": 19,
-        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\"}",
-        "fetchedAt": 1787736936635
+        "cgc10Pop": 23,
+        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    5 sales per year\"}",
+        "fetchedAt": 1787910325932
       },
       "bestCgc10": {
         "itemId": "327266111677",
@@ -38,14 +38,14 @@
         "priceC": 2000000,
         "shippingC": 0,
         "landedC": 2000000,
-        "url": "https://www.ebay.com/itm/327266111677?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M0YPVNEPYZ5AA5F5W72JT242&hash=item4c329490bd:g:HGgAAeSw~LpqYFIP&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBZSvKucaC2iKu6gjPHLVw3HqBbKPWbHskw6UpmthKvkwtXwlWfG%2Ft%2FiEW0AiKshvCe9km2eQ%2Bxs9QY0PyrJGwOXAcXawyEeJre0Pn6M4P2aDF3vGFTyEAHaekZtfC9pBDgxt%2BAgZwog8svFtVm%2B%2BMQZ52yr5f4z7EnFAQu4Me7rjmw9ue66%2F4JYLOlE8eGKeesSR33I%2BS910Ovi96gqVICH9wJn7Qjwy5ljY38uMo8y64yunZOrgjvrhHpwK96cNKDMoDjUtA76tTJ22SQVJAu%7Ctkp%3ABk9SR-DX7taHaA",
+        "url": "https://www.ebay.com/itm/327266111677?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M13W787J9HDKZTQ6WTVQ4C27&hash=item4c329490bd:g:HGgAAeSw~LpqYFIP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBDKHw7PCcSoC2K1a7lLqKRHRPSYGkSOGJjyRL%2FmKSBadiluriZKe1exzxk3O%2BX%2Fx%2BPWisedi7mvjUhEZUmtIN6akZbs2ga0%2BrP9O6%2FmpOSD5pGgxuoAb3P4USmNNjA%2Fl037%2BMSMyhjtamTMMSzHn22%2Bt%2FDSTbGb26Ye%2BLlPojMMDuN5gbKb32ZTPQfOQAnRhukRVNb8%2BCFyzXipVvP65jlV81sPVHK%2Fm3hq7PYMjw6muTrqge4KJOXIDFgXra1c6RqM9Xox8cSZxGR8EX5wGsxYkPY3dveapZvhtB%2FHogCS8oTpxjbdAO1EHba3e7NAJs%3D%7Ctkp%3ABk9SR6yEnfyIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HGgAAeSw~LpqYFIP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
-        "lastSeen": 1787737060333
+        "lastSeen": 1787910449916
       },
       "bestPsa10": null,
       "bestPsa9": {
@@ -54,14 +54,14 @@
         "priceC": 450000,
         "shippingC": 0,
         "landedC": 450000,
-        "url": "https://www.ebay.com/itm/198508833293?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M0YPVNENS2Z8080PJAM3GQT6&hash=item2e380c6a0d:g:2rAAAeSwkB5qXM6w&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBiuESGNqzGa7tpgLnFLcY0jmBeimBedsoc5a0iGQf%2FhaGZnSioiIVSl1m6t4k6VdDqADh3Nifo7Trnc8stUooekWzPAjie6m63RKDrUcoRW3hp10vo86AnklajTkf580tWUQftWW%2BtnP%2Bje0GavPB2IN0x14%2B0m55hVIs9KWwFOXX8pq4JDpvc1RaOAn2FyYm5aXS11A1mz65U2GTOd4wWqOGNYeQpKquLALCo9SRR88ZUgTzlt4DPOEkz8EMeNYuXMlwL9bXywRvPBHoff1OS%7Ctkp%3ABk9SR-DX7taHaA",
+        "url": "https://www.ebay.com/itm/198508833293?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M13W787JVTTXCVN1DHTRR7W6&hash=item2e380c6a0d:g:2rAAAeSwkB5qXM6w&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAFwXJ11BnHNgRlqwcnm%2BYJJuyUTb%2Bfae%2BgzNOoxgnN2dEibWolzBv7MIOO%2FYIqUxBnjmFrs0dpupW7%2Ff1FnN2gtLnwNowgccYom6a7f1Mi9WQQbjLeBXorzilAKDcioiV%2BHvd8vIxMX7Lw%2BS%2BHv8IIn03gTlBLK7nVMSaJ%2BlTuNJhLv%2FeBde1ZXpszyXhbBHBKDMTuZTvfpdf3ncveJjDSQoN6mpiU6JfnmDav%2Fbz9UoW8PVsVKekFWcEDSr1o6Tccxy37fkPe5MK69DQ%2BImHrdxLFwdxR6LSa0VPeoYahN4uWyR7P%2Fb6bv0UK9rHVmcA%3D%7Ctkp%3ABk9SR6yEnfyIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/2rAAAeSwkB5qXM6w/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
-        "lastSeen": 1787737060333
+        "lastSeen": 1787910449916
       },
       "counts": {
         "cgc10Bin": 1,
@@ -74,17 +74,17 @@
       "ratio": {
         "ok": true,
         "tier": {
-          "id": "premium1",
-          "label": "Premium 1",
-          "feeC": 99900,
-          "declaredValueCapC": 2500000,
+          "id": "premium2",
+          "label": "Premium 2",
+          "feeC": 199900,
+          "declaredValueCapC": 5000000,
           "turnaroundBizDays": 7
         },
         "cgc10CostC": 2000000,
-        "submissionFeeC": 99900,
-        "totalCostC": 2099900,
-        "psa10ValueC": 2042403,
-        "ratio": 0.97261917234154
+        "submissionFeeC": 199900,
+        "totalCostC": 2199900,
+        "psa10ValueC": 2886682,
+        "ratio": 1.3121878267193963
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -93,67 +93,97 @@
           "priceC": 2000000,
           "shippingC": 0,
           "landedC": 2000000,
-          "url": "https://www.ebay.com/itm/327266111677?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M0YPVNEPYZ5AA5F5W72JT242&hash=item4c329490bd:g:HGgAAeSw~LpqYFIP&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBZSvKucaC2iKu6gjPHLVw3HqBbKPWbHskw6UpmthKvkwtXwlWfG%2Ft%2FiEW0AiKshvCe9km2eQ%2Bxs9QY0PyrJGwOXAcXawyEeJre0Pn6M4P2aDF3vGFTyEAHaekZtfC9pBDgxt%2BAgZwog8svFtVm%2B%2BMQZ52yr5f4z7EnFAQu4Me7rjmw9ue66%2F4JYLOlE8eGKeesSR33I%2BS910Ovi96gqVICH9wJn7Qjwy5ljY38uMo8y64yunZOrgjvrhHpwK96cNKDMoDjUtA76tTJ22SQVJAu%7Ctkp%3ABk9SR-DX7taHaA",
+          "url": "https://www.ebay.com/itm/327266111677?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M13W787J9HDKZTQ6WTVQ4C27&hash=item4c329490bd:g:HGgAAeSw~LpqYFIP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBDKHw7PCcSoC2K1a7lLqKRHRPSYGkSOGJjyRL%2FmKSBadiluriZKe1exzxk3O%2BX%2Fx%2BPWisedi7mvjUhEZUmtIN6akZbs2ga0%2BrP9O6%2FmpOSD5pGgxuoAb3P4USmNNjA%2Fl037%2BMSMyhjtamTMMSzHn22%2Bt%2FDSTbGb26Ye%2BLlPojMMDuN5gbKb32ZTPQfOQAnRhukRVNb8%2BCFyzXipVvP65jlV81sPVHK%2Fm3hq7PYMjw6muTrqge4KJOXIDFgXra1c6RqM9Xox8cSZxGR8EX5wGsxYkPY3dveapZvhtB%2FHogCS8oTpxjbdAO1EHba3e7NAJs%3D%7Ctkp%3ABk9SR6yEnfyIaA",
           "imageUrl": "https://i.ebayimg.com/images/g/HGgAAeSw~LpqYFIP/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787224565444,
-          "lastSeen": 1787737060333
+          "lastSeen": 1787910449916
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "ratio": {
           "ok": true,
           "tier": {
-            "id": "premium1",
-            "label": "Premium 1",
-            "feeC": 99900,
-            "declaredValueCapC": 2500000,
+            "id": "premium2",
+            "label": "Premium 2",
+            "feeC": 199900,
+            "declaredValueCapC": 5000000,
             "turnaroundBizDays": 7
           },
           "cgc10CostC": 2000000,
-          "submissionFeeC": 99900,
-          "totalCostC": 2099900,
-          "psa10ValueC": 2042403,
-          "ratio": 0.97261917234154
+          "submissionFeeC": 199900,
+          "totalCostC": 2199900,
+          "psa10ValueC": 2886682,
+          "ratio": 1.3121878267193963
         },
         "firstOpportunityAt": 1787224565444
       },
       "firstOpportunityAt": 1787224565444,
-      "updatedAt": 1787737060333
+      "updatedAt": 1787910449916
     },
     "prices": {
       "variantId": 14950,
       "ungradedC": 38163,
-      "grade9C": 383750,
+      "grade9C": 390155,
       "grade95C": 599550,
-      "cgc10C": 893608,
-      "cgc10PristineC": 1608500,
-      "psa10C": 2042403,
+      "cgc10C": 864135,
+      "cgc10PristineC": 1555400,
+      "psa10C": 2886682,
       "psa9Pop": 803,
       "psa10Pop": 83,
-      "cgc10Pop": 19,
-      "bgs10C": 2655100,
-      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\"}",
-      "fetchedAt": 1787736936635
+      "cgc10Pop": 23,
+      "bgs10C": 3752700,
+      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    5 sales per year\"}",
+      "fetchedAt": 1787910325932
     },
     "listings": [
+      {
+        "itemId": "800568115123",
+        "title": "2010 POKEMON UMBREON-HOLO HEARTGOLD & SOULSILVER UNDAUNTED #86 PSA 9Opens in a new window or tab",
+        "priceC": 40500,
+        "shippingC": 795,
+        "landedC": 41295,
+        "url": "https://www.ebay.com/itm/800568115123?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M13W787G6VZFVDP0B290ZPSN&hash=itemba6593ffb3:g:RMIAAeSw94NqjAbH&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBbNYPMb%2BYLh11uQeK1Tu%2FTaoL7nuAf45andXJvpsNrJvJcbX%2BV1Vuw6Zt8XTJudXE84%2BvAOpujuuvdLk5A4W0E8IEe9s2x7%2Bv2GM%2Bg0uQQgrtaFCe4pI0cRnCXKSw0X085ElZptTEH0X%2FNRJq5SX74HEYowvl%2BZJSbsBtek1QjFNEpQXB3NE8Ib3BQUy2Qy6--79Ih43rLwWqU%2F64Rhg0epp9e9hTex0BIsPfeximiMH%2F09JSAHLHPTE%2FJAYEsbTLvCmLijEFsTEMGWRMRYy0r%7Ctkp%3ABk9SR6iEnfyIaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/RMIAAeSw94NqjAbH/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787910449916,
+        "lastSeen": 1787910449916
+      },
+      {
+        "itemId": "117367048541",
+        "title": "2010 POKEMON HEARTGOLD & SOULSILVER UNDAUNTED #86 UMBREON-HOLO PSA 9Opens in a new window or tab",
+        "priceC": 58500,
+        "shippingC": 599,
+        "landedC": 59099,
+        "url": "https://www.ebay.com/itm/117367048541?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M13W787GN4AB7VW67X2QXQFG&hash=item1b539f095d:g:pQ8AAeSwBD9qhPHT&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD9d%2BO%2BeEinFevKWzOezFkd%2B%2FQecU%2FQTvFpWx%2FBenTMjz3gm%2Boost9oCz0ZZJNYxWwRELpHOL8vJfkwAv1Ot0RCZCk68kug4Tl6HWSx6UGuLCE5cm61W1Wkl9AVLnakucPmG%2BmUKiiu4OcHHq5Qb25JMM9hTuWROPHK3QgWv3wTtD52PQ0hR8zj3uHh1H2l5YrA2607vIGsGNhwjsDIWgl7loA2L%2FYewammNgB5ohPNWFcv1aCEHN5YGBDSyAEHKI5dGvPmwQvKq33dPOvuGcPq%7Ctkp%3ABk9SR6qEnfyIaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/pQ8AAeSwBD9qhPHT/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787564190208,
+        "lastSeen": 1787910449916
+      },
       {
         "itemId": "198508833293",
         "title": "2010 POKEMON HEARTGOLD & SOULSILVER UNDAUNTED #86 UMBREON-HOLO PSA 9Opens in a new window or tab",
         "priceC": 450000,
         "shippingC": 0,
         "landedC": 450000,
-        "url": "https://www.ebay.com/itm/198508833293?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M0YPVNENS2Z8080PJAM3GQT6&hash=item2e380c6a0d:g:2rAAAeSwkB5qXM6w&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBiuESGNqzGa7tpgLnFLcY0jmBeimBedsoc5a0iGQf%2FhaGZnSioiIVSl1m6t4k6VdDqADh3Nifo7Trnc8stUooekWzPAjie6m63RKDrUcoRW3hp10vo86AnklajTkf580tWUQftWW%2BtnP%2Bje0GavPB2IN0x14%2B0m55hVIs9KWwFOXX8pq4JDpvc1RaOAn2FyYm5aXS11A1mz65U2GTOd4wWqOGNYeQpKquLALCo9SRR88ZUgTzlt4DPOEkz8EMeNYuXMlwL9bXywRvPBHoff1OS%7Ctkp%3ABk9SR-DX7taHaA",
+        "url": "https://www.ebay.com/itm/198508833293?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M13W787JVTTXCVN1DHTRR7W6&hash=item2e380c6a0d:g:2rAAAeSwkB5qXM6w&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAFwXJ11BnHNgRlqwcnm%2BYJJuyUTb%2Bfae%2BgzNOoxgnN2dEibWolzBv7MIOO%2FYIqUxBnjmFrs0dpupW7%2Ff1FnN2gtLnwNowgccYom6a7f1Mi9WQQbjLeBXorzilAKDcioiV%2BHvd8vIxMX7Lw%2BS%2BHv8IIn03gTlBLK7nVMSaJ%2BlTuNJhLv%2FeBde1ZXpszyXhbBHBKDMTuZTvfpdf3ncveJjDSQoN6mpiU6JfnmDav%2Fbz9UoW8PVsVKekFWcEDSr1o6Tccxy37fkPe5MK69DQ%2BImHrdxLFwdxR6LSa0VPeoYahN4uWyR7P%2Fb6bv0UK9rHVmcA%3D%7Ctkp%3ABk9SR6yEnfyIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/2rAAAeSwkB5qXM6w/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
-        "lastSeen": 1787737060333
+        "lastSeen": 1787910449916
       },
       {
         "itemId": "318640742948",
@@ -161,14 +191,14 @@
         "priceC": 450000,
         "shippingC": 0,
         "landedC": 450000,
-        "url": "https://www.ebay.com/itm/318640742948?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M0YPVNENC1Z5B96R7JB9W7TS&hash=item4a3077e224:g:2HwAAeSwi1JqZxiU&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDkZAs%2BB%2BPyU0vYGjhN4dtR2AW4O2bheVEeusMLY7LauE15J%2BmXDoGqKg97vaObcv6l%2B2IohS4XS35IaoswZ5rwOzT5%2FuM0xkkY4mqFcM9ZSJs6e27h%2Fyq9Nx5o98RvgMw0g4ZkEhORhh1n218K5EOgbQNRttn6%2FPgj3IcVx0N0HoGd7qWlscHHDhNi1dZDY06uuYe72Kc6bj2PQtlgZz%2FMFxAey9WgC7OUw0SEPdOKJcdrLt7%2F90BUDuJtFcF4jTXsPj%2BGP1MaEhOS74%2B%2FSaOHyPi9SOQbnfsEjahSjfRUncXDEth1bxUMTvI4sfHtGvw%3D%7Ctkp%3ABk9SR-DX7taHaA",
+        "url": "https://www.ebay.com/itm/318640742948?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M13W787JPH9YGV7NTT0G8C89&hash=item4a3077e224:g:2HwAAeSwi1JqZxiU&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDkZAs%2BB%2BPyU0vYGjhN4dtR2AW4O2bheVEeusMLY7LauE15J%2BmXDoGqKg97vaObcv6l%2B2IohS4XS35IaoswZ5rwOzT5%2FuM0xkkY4mqFcM9ZSJs6e27h%2Fyq9Nx5o98RvgMzeiusadpJrDdkEMuZxBd2TKLm%2B3CdRHXmbyA812t757mfC6XBCkCgb5J%2BK2jqHEiYx1uceHG%2B4iZo1gDbIR%2BLkDAvU3ncH2ttljP%2FJT%2BK13VgNXT%2B93ypn0B3aWDN2HzESSXjeH0yB%2FPyD%2BgxAq%2BY9IQJ6km64BSeFhRp3kG3bArRtEzJdNDZKghVzKNpi4xY%3D%7Ctkp%3ABk9SR6yEnfyIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/2HwAAeSwi1JqZxiU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
-        "lastSeen": 1787737060333
+        "lastSeen": 1787910449916
       },
       {
         "itemId": "307146503425",
@@ -176,14 +206,14 @@
         "priceC": 510000,
         "shippingC": 1365,
         "landedC": 511365,
-        "url": "https://www.ebay.com/itm/307146503425?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M0YPVNENMMJ2HYTB9J0B6J5C&hash=item47835bb501:g:ihAAAeSwmmZqjlf~&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCH8Q6OvWLn8RhCz7wLB%2FqL58KstEOWYUiYfM7kSGCR0XYXjAuOecEVVCvzs%2F5XTWfenErHLEqbyZ0%2Bu5e2OTKOldKck2lO7fJ86dMlAk6xCUyjE32wKm%2FpQ3zyGjPngRr51kCXp5F25aj%2Fb4r2s61x%2F89eCGmAuRigsAqz5yOGGE%2FNhhU%2FJk%2FcfUelTLlC5a%2FQ%2F3HbNyZfpmNHwCHc%2FUP%2Fgv0XP4jT%2FCnm0lOxJvs2WF7GItDt0446pq9FvmB9ykAKsjXuigHpQ%2FhD9Kn1xtT%2Bz0COYiPKH%2BaxPW0bJbQ1xC%2FdaJNzlEBlxUkVpOm3Fcg%3D%7Ctkp%3ABk9SR-DX7taHaA",
+        "url": "https://www.ebay.com/itm/307146503425?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M13W787JY5X95DEEJKXBVAX3&hash=item47835bb501:g:ihAAAeSwmmZqjlf~&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCH8Q6OvWLn8RhCz7wLB%2FqL58KstEOWYUiYfM7kSGCR0XYXjAuOecEVVCvzs%2F5XTWfenErHLEqbyZ0%2Bu5e2OTKOldKck2lO7fJ86dMlAk6xCUyjE32wKm%2FpQ3zyGjPngRpRO8D5vghU%2BCKbFSOyRRH%2FKQ1Z0NhxtgHJpkMBvl6Epo0EZrbUHk%2FXceKNLB6vQ%2Fi4mnIFAvisw7xBIlYsOB5ChH0h6lZ5qU3HEqTJWAhnMxEZlyIyOMePynsq8eiSmbvTZH5jcfI0vhy65H%2BEmPEl5RkYxbCQzPHyGV5N0eFEJcrPYUgJqqiY79ERg0okIxs%3D%7Ctkp%3ABk9SR6yEnfyIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ihAAAeSwmmZqjlf~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787737060333,
-        "lastSeen": 1787737060333
+        "lastSeen": 1787910449916
       },
       {
         "itemId": "318703185229",
@@ -191,14 +221,14 @@
         "priceC": 620000,
         "shippingC": 0,
         "landedC": 620000,
-        "url": "https://www.ebay.com/itm/318703185229?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M0YPVNEPNX4JT9V1TDD6817W&hash=item4a3430ad4d:g:JGgAAeSwndBqeL~3&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCfHVsLqzcdx43nMz%2BdvVbKlTM1x22QwWnxPiWuDirpoq3AQfeezpQkJc7Mwlg6LBu3WxADzk0N2Jxcl7w9yrgssady92K%2FwxofaV4LwmK9p4w%2FxWHIzKwcYqpq7KkDNhBTKnQIGekdIxQ0B9DMe11%2Fo1JSEqakivnz9HLVT7GzhUTVeI0thJyQqGtNCNVpycU%2FhztPWp4JUTkf7JUu4MuFlPXWaeAGs7%2FGIxMt1tMl9yj7p9HwCnl0RKi3pxKaUzLTNiTj8m32wEZBP7YecS6l%7Ctkp%3ABk9SR-DX7taHaA",
+        "url": "https://www.ebay.com/itm/318703185229?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M13W787J3BBD4YSC22SDB4K6&hash=item4a3430ad4d:g:JGgAAeSwndBqeL~3&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCfHVsLqzcdx43nMz%2BdvVbKlTM1x22QwWnxPiWuDirpoq99x02R3opFDuhgyGWeN%2BTZp2cRP7Meqx74bZr9XWNYKOQWRO10lwLhdGs%2F9Gdr%2Be%2BbWSiyjSSrZYICvYZnTNG8pkvICeQYKZlL3N4IK9yu%2BsIxgKk%2BcLDfRKRpU0ssBMbIBBqAZLBJr0VXx9ECBl3aaP%2B2fgi6j6iax9yBtFhIwG1Er2gOpLZPS7SvPHYCnXUsvMVBK85HGeoVHm9aRJf6GFb14Xh3cwxLXstxlxst%7Ctkp%3ABk9SR6yEnfyIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/JGgAAeSwndBqeL~3/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
-        "lastSeen": 1787737060333
+        "lastSeen": 1787910449916
       },
       {
         "itemId": "318382557798",
@@ -206,14 +236,14 @@
         "priceC": 689900,
         "shippingC": 562,
         "landedC": 690462,
-        "url": "https://www.ebay.com/itm/318382557798?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M0YPVNEPXFBJBJK489Q0BBHH&hash=item4a21144a66:g:vYwAAeSwKZVqGkr-&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDtRaAZ9kTsAK7%2FOjUa3aUuZiEBroj%2FzYkKSCRzcvRn%2B9acxeYp5c2pVxOr2b5wuDKwF9DLrGjbUTLstUBNcEcVav6PX%2Bt4u73EH2ttzNPfNbNMhxd%2FLLJOmNQaqqLYxZcifVqUedNN1P7%2BInVxrLozVzqTuc6F5uEUI1twoUwxkAl6i2W%2BG8egQ3JeSJds%2BWCppK%2FM3bCCrr3GMwJmO5BtGKigKXstx55RK21OxdLXQA7H9SQx1CoA70YqkdwaFD%2FjGX4sTaCnlN4u6D5uX2Kf%7Ctkp%3ABk9SR-DX7taHaA",
+        "url": "https://www.ebay.com/itm/318382557798?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M13W787JC1JMH5Y22QGRJW1H&hash=item4a21144a66:g:vYwAAeSwKZVqGkr-&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDtRaAZ9kTsAK7%2FOjUa3aUuZiEBroj%2FzYkKSCRzcvRn%2B%2BNBQrCTJKTcP7L1ewX%2FyaiZ%2BORfynmzBBFplLNS7ijGDdB4K4kKLYZKScH42b3k1pJDKUGqd%2FdBK9aLhiOJtypsh9zXYrTF%2Bgx6oGSAhS7P6dnisb7XRgnZdIWkYMGCn3MQ%2BBwPlguvyK0vCEzv256oMedVm%2FQnb6PSFbr%2B9GbBKXRgpDX4lGCEpdiNRKqeF11mzGBDaa5RMLEHscykWFH6YNEF4JLfIRE2gl81NXsV%7Ctkp%3ABk9SR6yEnfyIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/vYwAAeSwKZVqGkr-/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
-        "lastSeen": 1787737060333
+        "lastSeen": 1787910449916
       },
       {
         "itemId": "188284888558",
@@ -221,14 +251,14 @@
         "priceC": 690000,
         "shippingC": 572,
         "landedC": 690572,
-        "url": "https://www.ebay.com/itm/188284888558?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M0YPVNEPNFYTGD40530P9679&hash=item2bd6a765ee:g:gmMAAeSwNUBqKus3&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCRE5qQlQ5ul4Csgu5FqAomJnVelEEL9U9YkA6beAQWog5AmdNMBHDffojw89yzOgrRAn8y%2F80DMXGIJ9Q9zuvike6VJM881dnEevbpBbh4Cnmme53On5%2BHKyzN94U4wncCKEcvIIdqNaugfomKXn4m2zXEHey4w4p96brMUw0OyBKCY0x58SUD2WtMkWZX2Qg%2BnYDQqUjzBqK9jog4ujxuu%2F88o8dLw3RhbMOmq7nkzgebrw%2F0zi4odrQXmGhwMVnXdqnhf0Fq7OkVZO5Finmy%7Ctkp%3ABk9SR-DX7taHaA",
+        "url": "https://www.ebay.com/itm/188284888558?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M13W787JVKH4R3D37TRKHY9V&hash=item2bd6a765ee:g:gmMAAeSwNUBqKus3&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCRE5qQlQ5ul4Csgu5FqAomJnVelEEL9U9YkA6beAQWotOX8Sv8x2L7tuhcmInGCErDivwJwVx7hDO6DUqJP1pq4JEPk4giNx7w20YJCHenAG2pgZGXytWddELGWa90EPrmdDOU1wq%2BkUb7dldR0wpP5%2BMIwO3toKzwCRSrBXj6SbDZLJ8JQ2EK1eV6RVue2bGLJFcYkAstWx9mPBS9v4%2B1A25utvxx6TmdW9UhrTn2Tx%2FInCkv5GYhlLjm1SfZUl1V5bmx0x82X0gN50esCwpg%7Ctkp%3ABk9SR6yEnfyIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/gmMAAeSwNUBqKus3/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
-        "lastSeen": 1787737060333
+        "lastSeen": 1787910449916
       },
       {
         "itemId": "198437623164",
@@ -236,14 +266,14 @@
         "priceC": 900000,
         "shippingC": 0,
         "landedC": 900000,
-        "url": "https://www.ebay.com/itm/198437623164?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M0YPVNEPS0FWA3RQPWDQ9JWE&hash=item2e33cdd57c:g:vWgAAeSwbqtqNFMw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAfm4Y8867MWZCqCfd4ESm4OF%2FrQoHm98g3gPM%2FsiXwiI1D8AG9UKHWrVmCZw2uwAg%2FyPDqHlMM5md5SHb5z7cH1B9S9ZnY1gqndLj83t8bekPEwUBpV3MlKmVrPM5K42BafhAs7YvyTpQRVvu2who4RYJxHcsfOvFG2pZspW%2BeV8jjJt3UuYyo49%2F5w3D6f5LKMr7kfa%2B1cvjkekWZ599SgnG7vbSo%2BSBzBFCNbqydvooC5hERHQuVDqN5Iz3q46RRB5Ihu%2FxI5HIjad7xMAU%2B%7Ctkp%3ABk9SR-DX7taHaA",
+        "url": "https://www.ebay.com/itm/198437623164?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M13W787J36EA7V0BBDSH618M&hash=item2e33cdd57c:g:vWgAAeSwbqtqNFMw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAfm4Y8867MWZCqCfd4ESm4OF%2FrQoHm98g3gPM%2FsiXwiFXlxuLLB8kv4x8wFbiMB8esrIpe1UQ14U6pxMWbjJYdLlUPVkbemMGzVLZan%2BvMLQX2x8XmxbGDA7I8FKOZX86ruLwcQmS%2B8kPy7Lx7VzDGBTR25Ta8CpxdFiz4LXcjAMVM2QK%2B0EUX7aHL4qZEZ3OdMPZoP1SmT1W2jg79szYV%2FERMbdgnV%2FTwBCXdPv2oiF3jSKT7id5bUFjfdJ%2FFVBUbaC8uY5j61qL8Q4a0gygF%7Ctkp%3ABk9SR6yEnfyIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/vWgAAeSwbqtqNFMw/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
-        "lastSeen": 1787737060333
+        "lastSeen": 1787910449916
       },
       {
         "itemId": "327266111677",
@@ -251,18 +281,57 @@
         "priceC": 2000000,
         "shippingC": 0,
         "landedC": 2000000,
-        "url": "https://www.ebay.com/itm/327266111677?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M0YPVNEPYZ5AA5F5W72JT242&hash=item4c329490bd:g:HGgAAeSw~LpqYFIP&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBZSvKucaC2iKu6gjPHLVw3HqBbKPWbHskw6UpmthKvkwtXwlWfG%2Ft%2FiEW0AiKshvCe9km2eQ%2Bxs9QY0PyrJGwOXAcXawyEeJre0Pn6M4P2aDF3vGFTyEAHaekZtfC9pBDgxt%2BAgZwog8svFtVm%2B%2BMQZ52yr5f4z7EnFAQu4Me7rjmw9ue66%2F4JYLOlE8eGKeesSR33I%2BS910Ovi96gqVICH9wJn7Qjwy5ljY38uMo8y64yunZOrgjvrhHpwK96cNKDMoDjUtA76tTJ22SQVJAu%7Ctkp%3ABk9SR-DX7taHaA",
+        "url": "https://www.ebay.com/itm/327266111677?_skw=%28umbreon%29+%2886%2Cundaunted%29+%28CGC%2CPSA%29&epid=15043376950&itmmeta=01M13W787J9HDKZTQ6WTVQ4C27&hash=item4c329490bd:g:HGgAAeSw~LpqYFIP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBDKHw7PCcSoC2K1a7lLqKRHRPSYGkSOGJjyRL%2FmKSBadiluriZKe1exzxk3O%2BX%2Fx%2BPWisedi7mvjUhEZUmtIN6akZbs2ga0%2BrP9O6%2FmpOSD5pGgxuoAb3P4USmNNjA%2Fl037%2BMSMyhjtamTMMSzHn22%2Bt%2FDSTbGb26Ye%2BLlPojMMDuN5gbKb32ZTPQfOQAnRhukRVNb8%2BCFyzXipVvP65jlV81sPVHK%2Fm3hq7PYMjw6muTrqge4KJOXIDFgXra1c6RqM9Xox8cSZxGR8EX5wGsxYkPY3dveapZvhtB%2FHogCS8oTpxjbdAO1EHba3e7NAJs%3D%7Ctkp%3ABk9SR6yEnfyIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HGgAAeSw~LpqYFIP/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787224565444,
-        "lastSeen": 1787737060333
+        "lastSeen": 1787910449916
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 7482438,
+          "saleDate": "2026-08-28",
+          "priceC": 53500,
+          "title": "2010 POKEMON UNDAUNTED HOLO #86 UMBREON CGC 7.5",
+          "url": "https://www.ebay.com/itm/298600426746?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 7.5,
+          "gradingDesignation": null,
+          "agreementStatus": "mismatch"
+        },
+        {
+          "id": 7482408,
+          "saleDate": "2026-08-26",
+          "priceC": 135000,
+          "title": "2010 Pokemon HG & SS Undaunted #86 Umbreon Holo BGS 8 NM-MT",
+          "url": "https://www.ebay.com/itm/800530047844?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "BGS",
+          "gradingGrade": 8,
+          "gradingDesignation": "nm-mt",
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7482279,
+          "saleDate": "2026-08-25",
+          "priceC": 20900,
+          "title": "Pokemon Umbreon Prime 86/90 HGSS Undaunted Holo Rare MP/HP 2010 86/90",
+          "url": "https://www.ebay.com/itm/117375001495?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 4459345,
           "saleDate": "2026-08-24",
@@ -290,6 +359,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 7482331,
+          "saleDate": "2026-08-21",
+          "priceC": 6160000,
+          "title": "2010 POKEMON HEARTGOLD & SOULSILVER UNDAUNTED #86 UMBREON-HOLO PSA 10 #86",
+          "url": "https://www.ebay.com/itm/307121793801?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 10,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 1686814,
           "saleDate": "2026-08-19",
           "priceC": 33500,
@@ -299,6 +381,19 @@
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7482379,
+          "saleDate": "2026-08-18",
+          "priceC": 420000,
+          "title": "POKEMON 2010 HEARTGOLD & SOULSILVER UNDAUNTED UMBREON PRIME HOLO #86 PSA 9 #86",
+          "url": "https://www.ebay.com/itm/158199211007?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -326,6 +421,19 @@
           "gradingCompany": "CGC",
           "gradingGrade": 10,
           "gradingDesignation": "gem-mint",
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7482380,
+          "saleDate": "2026-08-16",
+          "priceC": 380000,
+          "title": "Pokemon Umbreon Prime Holo Heartgold & Soulsilver Undaunted 86/123 PSA 9 Mint 86/123",
+          "url": "https://www.ebay.com/itm/287511095776?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
+          "gradingDesignation": "mint",
           "agreementStatus": "match"
         },
         {
@@ -626,6 +734,19 @@
           "gradingGrade": 8.5,
           "gradingDesignation": "nm-mt",
           "agreementStatus": "mismatch"
+        },
+        {
+          "id": 7482381,
+          "saleDate": "2026-08-06",
+          "priceC": 370000,
+          "title": "POKEMON 2010 HEARTGOLD & SOULSILVER UNDAUNTED UMBREON PRIME HOLO #86 PSA 9 #86",
+          "url": "https://www.ebay.com/itm/800430182566?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
         },
         {
           "id": 1686950,
@@ -1005,6 +1126,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 7482383,
+          "saleDate": "2026-07-28",
+          "priceC": 361925,
+          "title": "2010 Pokemon HeartGold & SoulSilver Undaunted Umbreon Holo #86/90 PSA 9",
+          "url": "https://www.ebay.com/itm/206375222915?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 1687063,
           "saleDate": "2026-07-27",
           "priceC": 31500,
@@ -1092,6 +1226,19 @@
           "gradingStatus": "graded",
           "gradingCompany": "PSA",
           "gradingGrade": 6,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7482385,
+          "saleDate": "2026-07-16",
+          "priceC": 405000,
+          "title": "2010 POKEMON HEARTGOLD & SOULSILVER UNDAUNTED #86 UMBREON-HOLO PSA 9 #86",
+          "url": "https://www.ebay.com/itm/117289472376?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1287,6 +1434,19 @@
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7482390,
+          "saleDate": "2026-06-30",
+          "priceC": 420000,
+          "title": "2010 Pokemon HeartGold & SoulSilver Undaunted Umbreon Holo #86/90 PSA 9",
+          "url": "https://www.ebay.com/itm/377288853771?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1692,136 +1852,6 @@
           "gradingGrade": 6,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 1687011,
-          "saleDate": "2026-05-24",
-          "priceC": 56800,
-          "title": "Pokemon Umbreon Prime Undaunted Holo Ultra Rare #86 PSA 6",
-          "url": "https://www.ebay.com/itm/287333485077?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 6,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1686929,
-          "saleDate": "2026-05-24",
-          "priceC": 152500,
-          "title": "Pokemon Umbreon Prime Undaunted Holo Ultra Rare #86 BGS 9 Mint",
-          "url": "https://www.ebay.com/itm/287333471574?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "BGS",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1686966,
-          "saleDate": "2026-05-23",
-          "priceC": 120000,
-          "title": "Pokémon TCG Umbreon Undaunted Prime #86 PSA 8 86/90",
-          "url": "https://www.ebay.com/itm/800028027017?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1686965,
-          "saleDate": "2026-05-23",
-          "priceC": 140000,
-          "title": "Pokémon TCG Umbreon Undaunted Prime #86 PSA 8 86/90",
-          "url": "https://www.ebay.com/itm/800059573491?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1687039,
-          "saleDate": "2026-05-22",
-          "priceC": 37000,
-          "title": "2010 POKEMON HG&SS UNDAUNTED UMBREON PRIME 86/90 ULTRA RARE HOLO FOIL PSA 5 86/90",
-          "url": "https://www.ebay.com/itm/178136722992?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 5,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1686930,
-          "saleDate": "2026-05-22",
-          "priceC": 260000,
-          "title": "2010 Pokemon HG & SS Undaunted #86 Umbreon Holo PSA 9 MINT",
-          "url": "https://www.ebay.com/itm/366409419341?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1686967,
-          "saleDate": "2026-05-21",
-          "priceC": 175000,
-          "title": "2010 POKEMON HEARTGOLD & SOULSILVER UNDAUNTED #86 UMBREON-HOLO PSA 8 #86",
-          "url": "https://www.ebay.com/itm/306922303056?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1687040,
-          "saleDate": "2026-05-19",
-          "priceC": 35000,
-          "title": "Pokemon hg & ss umbreon (prime) undaunted holo 86/90 psa 5 86/90",
-          "url": "https://www.ebay.com/itm/188400008923?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 5,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1686907,
-          "saleDate": "2026-05-18",
-          "priceC": 676600,
-          "title": "Pokemon Umbreon Prime Undaunted Holo Ultra Rare #86 BGS 9.5",
-          "url": "https://www.ebay.com/itm/287320383139?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "BGS",
-          "gradingGrade": 9.5,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1686979,
-          "saleDate": "2026-05-16",
-          "priceC": 69995,
-          "title": "Fart Swirl CGC 7.5 2010 Pokémon Umbreon Prime Undaunted Ultra Rare 86/90 PSA 86/90",
-          "url": "https://www.ebay.com/itm/358516993158?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "ambiguous",
-          "gradingCompany": "CGC",
-          "gradingGrade": 7.5,
-          "gradingDesignation": null,
-          "agreementStatus": "unverifiable"
         }
       ],
       "monthlyPsa10": [
@@ -1899,11 +1929,16 @@
           "month": "2026-05",
           "medianC": 2558488,
           "count": 4
+        },
+        {
+          "month": "2026-08",
+          "medianC": 6160000,
+          "count": 1
         }
       ],
-      "englishSaleCount": 300,
+      "englishSaleCount": 310,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787736934839
+      "lastCapturedAt": 1787910323972
     }
   }
 }

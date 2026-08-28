@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 5697,
@@ -19,7 +19,7 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/36ca60c5581744cf9b61cef3169b95a467e8237d6fabebc286bbb024a85f0793/1600.jpg",
       "popularityScore": 93,
       "market": {
-        "ungradedC": 15545,
+        "ungradedC": 15529,
         "grade9C": 47050,
         "grade95C": 51800,
         "cgc10C": 69900,
@@ -30,7 +30,7 @@
         "psa10Pop": 69,
         "cgc10Pop": 27,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per month\",\"volume: 2 sales per week\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787733692300
+        "fetchedAt": 1787907033296
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -52,11 +52,11 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787733692300
+      "updatedAt": 1787907033296
     },
     "prices": {
       "variantId": 5697,
-      "ungradedC": 15545,
+      "ungradedC": 15529,
       "grade9C": 47050,
       "grade95C": 51800,
       "cgc10C": 69900,
@@ -67,7 +67,7 @@
       "cgc10Pop": 27,
       "bgs10C": 478900,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per month\",\"volume: 2 sales per week\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787733692300
+      "fetchedAt": 1787907033296
     },
     "listings": [
       {
@@ -76,18 +76,31 @@
         "priceC": 325,
         "shippingC": 400,
         "landedC": 725,
-        "url": "https://www.ebay.com/itm/137653596127?_skw=%28snorlax%2Cdelta%29+%2810%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&itmmeta=01M116XXAAVAQZRHPNCA37KP6H&hash=item200ccb2fdf:g:HKUAAeSwau1qi5mY&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDEqrED%2FTpOUVZQqyajpd3qPdnshRPlq7ntIv1dl70p2xtpgzptEw1GWVk%2Fy5NBXKsbfZcLpDY3NCI76fg%2BXwEQB3Ya3JAqdsfe6t8mwsnbmPVLyD6A4ydGCZZAAYKspdSoNjnIniNp7xT0dQVmzK6GfpAmdHpk5%2FVKferPZNhVWeb0WJfXOh7NptqGrQriGAdXYr0sf1lQpiU49%2FIhU6qx82Q1vlppYKfZMtD10UvxIACoqPPzhbHqBOeF7gSudsPwJv8%2FDq0DDfhO1xra1fiITcqNWz4EVRrg9KGsRC8TOA%3D%3D%7Ctkp%3ABk9SR7TV96aIaA",
+        "url": "https://www.ebay.com/itm/137653596127?_skw=%28snorlax%2Cdelta%29+%2810%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&itmmeta=01M13S815H6XMYFCJ9MYN4PDGS&hash=item200ccb2fdf:g:HKUAAeSwau1qi5mY&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDEqrED%2FTpOUVZQqyajpd3qPdnshRPlq7ntIv1dl70p293ZBq9yWgf0meRdUQbJxogJ3fJKfhePgdYUbZsZuLuru4CAVuXzz671nTChxMwRE0Eo5wKhPXhCwAHGkz6s%2B64jihrJxbiIt2cqqBpwv%2FGAwO73YYjwNSpXyVUE6w3bvkw2SJpqwQD0jAZrj0N%2FCHhIcUc6q%2B%2B%2BXTBz1cVreLN%2BKbYJHz%2FMYcpcwOHM3ixpiY3VlrBw6X0dcM1Od4KOgHAKOie2jnpwiL2HW32upI0Iy7b78C4%2B3%2F68pitch%2Fo0%2BA%3D%3D%7Ctkp%3ABk9SR5KToPmIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HKUAAeSwau1qi5mY/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787561161445,
-        "lastSeen": 1787821067310
+        "lastSeen": 1787907342276
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 7266902,
+          "saleDate": "2026-08-27",
+          "priceC": 13750,
+          "title": "Snorlax Holo #10 EX Dragon Frontiers 2006 Pokemon PSA 6 151970891",
+          "url": "https://www.ebay.com/itm/278297208955?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 6,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 2630951,
           "saleDate": "2026-08-21",
@@ -1634,19 +1647,6 @@
           "gradingGrade": 1,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 742065,
-          "saleDate": "2026-05-08",
-          "priceC": 18000,
-          "title": "Pokémon TCG Snorlax EX Dragon Frontiers 10/101 Holo Holo PSA 7 NM 10/101",
-          "url": "https://www.ebay.com/itm/406826661044?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1766,9 +1766,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 241,
+      "englishSaleCount": 242,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787733690430
+      "lastCapturedAt": 1787907031745
     }
   }
 }

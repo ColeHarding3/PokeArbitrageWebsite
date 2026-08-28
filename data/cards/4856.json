@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 4856,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/1ae65c64c657de3137b9a9498a2fdb2ac754741fd069c0d5fffaa714ec096f4f/1600.jpg",
       "popularityScore": 85,
       "market": {
-        "ungradedC": 12999,
+        "ungradedC": 16538,
         "grade9C": 49150,
-        "grade95C": 55747,
-        "cgc10C": 55938,
-        "cgc10PristineC": 100700,
+        "grade95C": 55669,
+        "cgc10C": 55916,
+        "cgc10PristineC": 100600,
         "psa10C": 669297,
         "bgs10C": 870100,
         "psa9Pop": 255,
         "psa10Pop": 41,
         "cgc10Pop": 15,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787732899583
+        "fetchedAt": 1787906218796
       },
       "bestCgc10": {
         "itemId": "227310102696",
@@ -38,14 +38,14 @@
         "priceC": 249900,
         "shippingC": 13369,
         "landedC": 263269,
-        "url": "https://www.ebay.com/itm/227310102696?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M115RH3BC8EFGE0FA8WEQKZF&hash=item34ecbce8a8:g:lIgAAeSwpzNp5w2W&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCQnGDuNlmRy8Pc4ZQnzg2RH6h2DeuwzhixXh3YROlm8U08dfsU%2B7Sc8RLzEmbWM%2F2tUmGXv2rAfpeGpnfsbxzOpZhpRwf006EConRs483QCBU5dGUBo3KL3GsiQm%2B%2FfbwPbwbURGNMgqLCMwe%2Bc6qPw3U2RJQBlAjSpSQmyq5Ui%2BNE%2B1vPHwj5kH1TNlR8uTVcvkLenQQqZNtcIVdPbYbCn%2FHNTXo2tTpaU7I%2B4w%2FkZcSfe3U3cKxilgBeOCHxMe%2Fo6jPAqUIRJxvWTCYylhyIkQyHX9FNeXn8qQIn3l7pPw%3D%3D%7Ctkp%3ABk9SR-yR4qWIaA",
+        "url": "https://www.ebay.com/itm/227310102696?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M13RAMGC55XCGYB66G09X3PG&hash=item34ecbce8a8:g:lIgAAeSwpzNp5w2W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCJWSq9SA9V4rcj3H22TazchA5nnp7xehbN1HUce4Wt2A12d2TrGToJoCK80WIuJuWCKttZbbVrw4CNfBC%2Bjg08IF5KJtg%2FFZj8rhvococTeuO%2BKr8%2FKaEq3ji9I5uUAUPUTA36VUBXzp627TVShdkqRZCAoNMDr5LVeMYpxkEQuweGPJo%2BXta7FzdBruVRUaWFrNDbK7Yfmn8D2mwifnYpAaMcaFW5qMAfVcNPDm4K1MVrf8EPZklurgvM539A406FDL5m%2BOQ0JwwLMmPq4j6lCdtj9ZIlyHgjunhVGj%2FH7jzQjl7VIwq0wLw3WDF%2BrB7xOPO3zBb2Sp3KYlwDwYrT%7Ctkp%3ABk9SR6rIqviIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/lIgAAeSwpzNp5w2W/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787819891571
+        "lastSeen": 1787906393998
       },
       "bestPsa10": {
         "itemId": "127980620451",
@@ -53,29 +53,29 @@
         "priceC": 4888800,
         "shippingC": null,
         "landedC": null,
-        "url": "https://www.ebay.com/itm/127980620451?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M115RH3CMDJV026G0NMT1ZT8&hash=item1dcc3d4aa3:g:W~wAAeSwtiBptMp1&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA8lImWPCZ3PNZRxgrR2arwXH9ra1hggPPIjCAg8%2FzQTF%2FTcpM%2Btf6CiyfQIfZKsX5CPl1ExgjMICX%2FeROqp8JWRSkua5egRdcYHKMq6OuNgRu2%2BUAl9ok1KfakKP4ak8qumcRRUqmrsl%2FExMQBTwc2MMZjCYkWMMbbgB6UXo5S%2B%2BBx53INJ32A%2FJ3pcAZWZyV4krYXftQwUL4xriVThK9FtrVardhk%2FVQ8acp35DzWCOEPmX4A%2BB1zDfIARGVh%2BkdgT56AWs8ppddO4Ks8TYJrH5IOadfzC%2BaTTzsdHi%2BNUWNGFSCj8Qaz7shM5mH9YlqvDAcI7iAYyQ%2Fa4fDZI27e%7Ctkp%3ABk9SR-6R4qWIaA",
+        "url": "https://www.ebay.com/itm/127980620451?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M13RAMGC62W5PX7G7862K2N0&hash=item1dcc3d4aa3:g:W~wAAeSwtiBptMp1&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBpZESEVTWLDcrDEvhp6Ye6xRhuXp6K4KboPRhOOlCRNoy4%2BnDgi0wDaIAJfIncBZCsYRKxwOV3b9xAN1hXwBwqVYt0tn8MR0Ar46zGPBN4RUnditak1VWfvGbskdcuOyhltpF2PzKIlG3s4k7t6lsIrMYgOkB8Dh3zCmPCFFryx348ILD%2BM525r%2FIBYhe3RLEnRZPs7lUOpiaPu%2BWHsAm4gM1I7nHj06PKSL%2BzJUYvB7d8GJckP%2FYClg%2FA1pyR3yyCjKwMG717lTj1rLkDNpG4IMpH48TrOyPz%2FqCfuYyLrQ%3D%3D%7Ctkp%3ABk9SR6zIqviIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/W~wAAeSwtiBptMp1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787819891571
+        "lastSeen": 1787906393998
       },
       "bestPsa9": {
-        "itemId": "298336562223",
-        "title": "2005 POKEMON EX DELTA SPECIES #108 FLAREON EX-HOLO PSA 9Opens in a new window or tab",
-        "priceC": 119999,
-        "shippingC": 3200,
-        "landedC": 123199,
-        "url": "https://www.ebay.com/itm/298336562223?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M115RH3BW8TPVXEAGAZWSDE9&hash=item45763eac2f:g:wfQAAeSwu-dqDfca&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCnBma%2FMX03OBe1q5NVPQGMsFCNzaobno0k9jai9SkKFmMxAQACv%2FCiViILLlgc4Og1QOICf41KEc1QInG5mjdHCHsKHABbpoJlw80MR4U2ck3hr4939D9EDchzWUHwEd7F8pXke%2FID%2BrEmw6VZBz4xAsdIAi%2BT21Lf2VMb1s2bpEe2qFHiSl9fd5IPebW9O7FD42iDl3eaIP9Bf4JcR3mjwO8jBjTWMFkuUoLVfYZLHO4FlJbnIZFihH1WIuKRRij3%2FBPv7ynu3K5F0walLS6aJFgDdiEIVQ6mOR2t2JS0Pf5OmcYiJWj7qEaBfGqpiLrqGicgmvpa0afGbepa0K3%2F%7Ctkp%3ABk9SR-yR4qWIaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/wfQAAeSwu-dqDfca/s-l500.webp",
+        "itemId": "287548876554",
+        "title": "Pokemon Flareon ex Holo EX Delta Species 108/113 PSA 9 MintOpens in a new window or tab",
+        "priceC": 99999,
+        "shippingC": 5829,
+        "landedC": 105828,
+        "url": "https://www.ebay.com/itm/287548876554?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M13RAMGBQEPTC6TRP8TNJ7YV&hash=item42f33fa70a:g:Y6wAAeSwQe1qj3TX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xArL6yNovMi%2BF%2FLor1pZplsKTojt9iUhp55aDHnInhXGjKBhgpzOhTzaTcsNO7ep2xd0cjwBvLU27jQeVGZ7%2F6o3SA01Zoeirk5Jgtqgk8B6rgDrnXAtooLZlxrwzcCXcLYp60SL8n1agqdu2FeKc8T5nR9qiyrYH%2FgaJOhdA76nCH9Jggy6fIEsZibe1YcZ2kRsELc%2FteV9U7xFKdL94koql5DVL36dRf4QgnwhgTEKE4V2Zkuhn%2BFTKxgencDUOT7V2nlJJ1GzZmi2Eb40lx%2FYlE3Nnj5MqQCep8E4iudbQ%3D%3D%7Ctkp%3ABk9SR6rIqviIaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/Y6wAAeSwQe1qj3TX/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
-        "firstSeen": 1787089625972,
-        "lastSeen": 1787819891571
+        "firstSeen": 1787906393998,
+        "lastSeen": 1787906393998
       },
       "counts": {
         "cgc10Bin": 1,
@@ -83,7 +83,7 @@
         "pristine10": 0,
         "psa10Bin": 1,
         "psa10Auction": 1,
-        "psa9Bin": 3
+        "psa9Bin": 4
       },
       "ratio": {
         "ok": true,
@@ -107,14 +107,14 @@
           "priceC": 249900,
           "shippingC": 13369,
           "landedC": 263269,
-          "url": "https://www.ebay.com/itm/227310102696?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M115RH3BC8EFGE0FA8WEQKZF&hash=item34ecbce8a8:g:lIgAAeSwpzNp5w2W&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCQnGDuNlmRy8Pc4ZQnzg2RH6h2DeuwzhixXh3YROlm8U08dfsU%2B7Sc8RLzEmbWM%2F2tUmGXv2rAfpeGpnfsbxzOpZhpRwf006EConRs483QCBU5dGUBo3KL3GsiQm%2B%2FfbwPbwbURGNMgqLCMwe%2Bc6qPw3U2RJQBlAjSpSQmyq5Ui%2BNE%2B1vPHwj5kH1TNlR8uTVcvkLenQQqZNtcIVdPbYbCn%2FHNTXo2tTpaU7I%2B4w%2FkZcSfe3U3cKxilgBeOCHxMe%2Fo6jPAqUIRJxvWTCYylhyIkQyHX9FNeXn8qQIn3l7pPw%3D%3D%7Ctkp%3ABk9SR-yR4qWIaA",
+          "url": "https://www.ebay.com/itm/227310102696?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M13RAMGC55XCGYB66G09X3PG&hash=item34ecbce8a8:g:lIgAAeSwpzNp5w2W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCJWSq9SA9V4rcj3H22TazchA5nnp7xehbN1HUce4Wt2A12d2TrGToJoCK80WIuJuWCKttZbbVrw4CNfBC%2Bjg08IF5KJtg%2FFZj8rhvococTeuO%2BKr8%2FKaEq3ji9I5uUAUPUTA36VUBXzp627TVShdkqRZCAoNMDr5LVeMYpxkEQuweGPJo%2BXta7FzdBruVRUaWFrNDbK7Yfmn8D2mwifnYpAaMcaFW5qMAfVcNPDm4K1MVrf8EPZklurgvM539A406FDL5m%2BOQ0JwwLMmPq4j6lCdtj9ZIlyHgjunhVGj%2FH7jzQjl7VIwq0wLw3WDF%2BrB7xOPO3zBb2Sp3KYlwDwYrT%7Ctkp%3ABk9SR6rIqviIaA",
           "imageUrl": "https://i.ebayimg.com/images/g/lIgAAeSwpzNp5w2W/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787089625972,
-          "lastSeen": 1787819891571
+          "lastSeen": 1787906393998
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -136,38 +136,53 @@
         "firstOpportunityAt": 1787089625972
       },
       "firstOpportunityAt": 1787089625972,
-      "updatedAt": 1787819891571
+      "updatedAt": 1787906393998
     },
     "prices": {
       "variantId": 4856,
-      "ungradedC": 12999,
+      "ungradedC": 16538,
       "grade9C": 49150,
-      "grade95C": 55747,
-      "cgc10C": 55938,
-      "cgc10PristineC": 100700,
+      "grade95C": 55669,
+      "cgc10C": 55916,
+      "cgc10PristineC": 100600,
       "psa10C": 669297,
       "psa9Pop": 255,
       "psa10Pop": 41,
       "cgc10Pop": 15,
       "bgs10C": 870100,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787732899583
+      "fetchedAt": 1787906218796
     },
     "listings": [
+      {
+        "itemId": "287548876554",
+        "title": "Pokemon Flareon ex Holo EX Delta Species 108/113 PSA 9 MintOpens in a new window or tab",
+        "priceC": 99999,
+        "shippingC": 5829,
+        "landedC": 105828,
+        "url": "https://www.ebay.com/itm/287548876554?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M13RAMGBQEPTC6TRP8TNJ7YV&hash=item42f33fa70a:g:Y6wAAeSwQe1qj3TX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xArL6yNovMi%2BF%2FLor1pZplsKTojt9iUhp55aDHnInhXGjKBhgpzOhTzaTcsNO7ep2xd0cjwBvLU27jQeVGZ7%2F6o3SA01Zoeirk5Jgtqgk8B6rgDrnXAtooLZlxrwzcCXcLYp60SL8n1agqdu2FeKc8T5nR9qiyrYH%2FgaJOhdA76nCH9Jggy6fIEsZibe1YcZ2kRsELc%2FteV9U7xFKdL94koql5DVL36dRf4QgnwhgTEKE4V2Zkuhn%2BFTKxgencDUOT7V2nlJJ1GzZmi2Eb40lx%2FYlE3Nnj5MqQCep8E4iudbQ%3D%3D%7Ctkp%3ABk9SR6rIqviIaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/Y6wAAeSwQe1qj3TX/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787906393998,
+        "lastSeen": 1787906393998
+      },
       {
         "itemId": "298336562223",
         "title": "2005 POKEMON EX DELTA SPECIES #108 FLAREON EX-HOLO PSA 9Opens in a new window or tab",
         "priceC": 119999,
         "shippingC": 3200,
         "landedC": 123199,
-        "url": "https://www.ebay.com/itm/298336562223?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M115RH3BW8TPVXEAGAZWSDE9&hash=item45763eac2f:g:wfQAAeSwu-dqDfca&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCnBma%2FMX03OBe1q5NVPQGMsFCNzaobno0k9jai9SkKFmMxAQACv%2FCiViILLlgc4Og1QOICf41KEc1QInG5mjdHCHsKHABbpoJlw80MR4U2ck3hr4939D9EDchzWUHwEd7F8pXke%2FID%2BrEmw6VZBz4xAsdIAi%2BT21Lf2VMb1s2bpEe2qFHiSl9fd5IPebW9O7FD42iDl3eaIP9Bf4JcR3mjwO8jBjTWMFkuUoLVfYZLHO4FlJbnIZFihH1WIuKRRij3%2FBPv7ynu3K5F0walLS6aJFgDdiEIVQ6mOR2t2JS0Pf5OmcYiJWj7qEaBfGqpiLrqGicgmvpa0afGbepa0K3%2F%7Ctkp%3ABk9SR-yR4qWIaA",
+        "url": "https://www.ebay.com/itm/298336562223?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M13RAMGBXKW9HZ2VHR70BMWR&hash=item45763eac2f:g:wfQAAeSwu-dqDfca&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCnBma%2FMX03OBe1q5NVPQGMsFCNzaobno0k9jai9SkKFmMxAQACv%2FCiViILLlgc4Og1QOICf41KEc1QInG5mjdHCHsKHABbpoJlw80MR4U2ck3hr4939D9EDchzWUHwEd5X6zWAEPl4qvrqPQTGlIcQ8yaDHu%2BpbZxKdyytMUV2eWCLs7%2Fw105kgiCLzqjCsmqLd%2BgSDzl%2BSE%2Bvv94dWBPQpqN%2FYQRx%2BAv9p5usoQYMRZnSiPGdjnrcjkNSG4e1ZhxY%2Fk8ZD0Kr606yzaBxleqxC5tc2bdmDqSDshtmv2u0FVC00LzTsaDfZ3%2B%2BxTPaErt7J%2FI49%2FxhLcE2S0ypcwl7%7Ctkp%3ABk9SR6rIqviIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/wfQAAeSwu-dqDfca/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787819891571
+        "lastSeen": 1787906393998
       },
       {
         "itemId": "298613178291",
@@ -175,14 +190,14 @@
         "priceC": 195000,
         "shippingC": 3200,
         "landedC": 198200,
-        "url": "https://www.ebay.com/itm/298613178291?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=14043371717&itmmeta=01M115RH3BHFZQ3C40D7K4WPS6&hash=item4586bb7fb3:g:lPUAAeSwrWpqjNyw&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBQcxkPw2fHLp%2B0YcFgeOIYiM4lqCuf6ZRUKFDTVT3qiBR7nrlpC%2FUKjqh6SqIyhUVpF%2BCMm%2F2KzGtCF7lF3POIgrV7xd5jGiLW6aT8dXMMsQr7cAyrzPQY9gYsdm0qaaGzy6VUBQU2aZABS4yvbRGZ6CozE49gxQIoGPG2LbuT5RXCcvpR1DzGdkg%2FkiGKyUEvUcxLN2NCgGugvQBDRUf6r%2BFGWHxUE48nErmoSelH2RKjOGYZD2pCNa78kLAcmIZE7zUA3vHUCfVbHb0mxQjhvSZppfGiF9Z3g%2F0EqwXKAQ%3D%3D%7Ctkp%3ABk9SR-yR4qWIaA",
+        "url": "https://www.ebay.com/itm/298613178291?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=14043371717&itmmeta=01M13RAMGBR00E8VK71WBJE7RB&hash=item4586bb7fb3:g:lPUAAeSwrWpqjNyw&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBQcxkPw2fHLp%2B0YcFgeOIYiM4lqCuf6ZRUKFDTVT3qiEozFpl%2BlJWvP0Jwr%2BoPQkm7D0iIHYIKbhv9WVOAAnudfBIlxvAcLdn6XbQ%2Ba1feoEWtNa4NexUYA781aVAj4%2BGXJpph9iUV4w8Qy3YO1QYuTds%2Bd453JlE3R6k1U%2B0fn7Jlr%2FS2bzct0rIzn5f59PnDUxiuW%2Fp7uYLUtkTgzRY6sY6YdqTCqxGp%2B1JfRIZINbs0xmKaI6TdJpx6N6CPhEQe%2FUM5XTd%2BhUUkOPlSOxvG8eJtcANzfAgq0T%2BdKMLHKg%3D%3D%7Ctkp%3ABk9SR6rIqviIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/lPUAAeSwrWpqjNyw/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787733068530,
-        "lastSeen": 1787819891571
+        "lastSeen": 1787906393998
       },
       {
         "itemId": "227310102696",
@@ -190,14 +205,14 @@
         "priceC": 249900,
         "shippingC": 13369,
         "landedC": 263269,
-        "url": "https://www.ebay.com/itm/227310102696?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M115RH3BC8EFGE0FA8WEQKZF&hash=item34ecbce8a8:g:lIgAAeSwpzNp5w2W&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCQnGDuNlmRy8Pc4ZQnzg2RH6h2DeuwzhixXh3YROlm8U08dfsU%2B7Sc8RLzEmbWM%2F2tUmGXv2rAfpeGpnfsbxzOpZhpRwf006EConRs483QCBU5dGUBo3KL3GsiQm%2B%2FfbwPbwbURGNMgqLCMwe%2Bc6qPw3U2RJQBlAjSpSQmyq5Ui%2BNE%2B1vPHwj5kH1TNlR8uTVcvkLenQQqZNtcIVdPbYbCn%2FHNTXo2tTpaU7I%2B4w%2FkZcSfe3U3cKxilgBeOCHxMe%2Fo6jPAqUIRJxvWTCYylhyIkQyHX9FNeXn8qQIn3l7pPw%3D%3D%7Ctkp%3ABk9SR-yR4qWIaA",
+        "url": "https://www.ebay.com/itm/227310102696?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M13RAMGC55XCGYB66G09X3PG&hash=item34ecbce8a8:g:lIgAAeSwpzNp5w2W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCJWSq9SA9V4rcj3H22TazchA5nnp7xehbN1HUce4Wt2A12d2TrGToJoCK80WIuJuWCKttZbbVrw4CNfBC%2Bjg08IF5KJtg%2FFZj8rhvococTeuO%2BKr8%2FKaEq3ji9I5uUAUPUTA36VUBXzp627TVShdkqRZCAoNMDr5LVeMYpxkEQuweGPJo%2BXta7FzdBruVRUaWFrNDbK7Yfmn8D2mwifnYpAaMcaFW5qMAfVcNPDm4K1MVrf8EPZklurgvM539A406FDL5m%2BOQ0JwwLMmPq4j6lCdtj9ZIlyHgjunhVGj%2FH7jzQjl7VIwq0wLw3WDF%2BrB7xOPO3zBb2Sp3KYlwDwYrT%7Ctkp%3ABk9SR6rIqviIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/lIgAAeSwpzNp5w2W/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787819891571
+        "lastSeen": 1787906393998
       },
       {
         "itemId": "318632285352",
@@ -205,14 +220,14 @@
         "priceC": 199999,
         "shippingC": null,
         "landedC": null,
-        "url": "https://www.ebay.com/itm/318632285352?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M115RH3BX742ZMZXZADN4Y1F&hash=item4a2ff6d4a8:g:oNQAAeSwEFNqZBMB&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCzEjHPi9NBqSpgtzMQ6rQFlz0vnDfIckXdBS16gaF0PKX4KoFMuHFZyV0wRTsWYC8OEWBDFARouNnths4XhtP02P6RhoMn6dxOr5172neB%2F%2Bl2MD5xXxEDJm69mxXQKWkP1mzppHMqpc17cAKZTvOjKdD0qk3NS10tBg40jDCe%2BEMV1TmiImilvDbZwOub%2FIVVgLY67c54ysXvPleHvpmOUO07zlpjpajgQnyhHSWEXQpedfpgGcHOARb0FvWNTElcOxwbIVWupQpy0PBJaO--FdXNoa%2BMEESvpcGy2rxqUumWx6QjhL8yh%2B55GJv6X2WJ%2F6kK9NjjZNbvcx%2FgidXw%7Ctkp%3ABk9SR-6R4qWIaA",
+        "url": "https://www.ebay.com/itm/318632285352?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M13RAMGC2WNAPNK43QD4CK8M&hash=item4a2ff6d4a8:g:oNQAAeSwEFNqZBMB&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCzEjHPi9NBqSpgtzMQ6rQFlz0vnDfIckXdBS16gaF0PKX4KoFMuHFZyV0wRTsWYC8OEWBDFARouNnths4XhtP02P6RhoMn6dxOr5172neB%2F%2Bl2MD5xXxEDJm69mxXQKWlDxvJPlX%2FRoabmtvo6UGeH76W70BoIQV0dOP7dstV1poly%2FETgykHXaEJ3ZyfnhZLM%2FTOYF5g4fZYdBlji0wOGxD2oqGIEWBzXYoiExDxlM%2BCw3W6P9PFiPpRKPtg2He0gFbLZqS44XaYPnYtIXIgIskokWqnCNH4tLi5PeIWAvbk5R3ti9L1KFzkF3xJOstzkC5Nsji1i2w5%2Fl%2F5JsMat%7Ctkp%3ABk9SR6rIqviIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/oNQAAeSwEFNqZBMB/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787819891571
+        "lastSeen": 1787906393998
       },
       {
         "itemId": "406023462393",
@@ -220,14 +235,14 @@
         "priceC": 469900,
         "shippingC": null,
         "landedC": null,
-        "url": "https://www.ebay.com/itm/406023462393?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&itmmeta=01M115RH3BWBAGT0PX480GQZZC&hash=item5e88e25df9:g:4f8AAeSwwyNomi9L&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDwLCK3J0moiUd9KObyHgc7wYh0nyEVMUccesI8xs279De18EQPxz2zREVTCoBp%2Fq1UfJDWGLZA7GyOcHmtgh5Hgr6U%2BCfRKhP28L%2BOBN6MZkpcSeRY1SscI4fL6msn%2BOVzYG1aBNyFE7WvS%2F9naS4H7tMrL1a6feqg1cbs2ZomdGR0AkAxO43HujC9ZP5xqWQdhnt6zOuOVeQmQzX%2FiUqe0izmHnQdZTBaztlr1BQ2cewtHT7rpg9YO1IzVqe35I8KUl4lrDXFhx27agtJJ2mZWTwdKvf2Diqsk7yK1FdBDg%3D%3D%7Ctkp%3ABk9SR-6R4qWIaA",
+        "url": "https://www.ebay.com/itm/406023462393?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&itmmeta=01M13RAMGCDF7SET1PJJWX6SB7&hash=item5e88e25df9:g:4f8AAeSwwyNomi9L&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDr9S%2FkiB2Nrr0fS3zXUA6CxaZCv7YzHelHqWzQBQ7vhykxqYSvHwF3XTu1W7EkHr5T%2Bo1oJl7YisDwp54J%2F7G%2BPskeEm6%2BZVhjUnOU28VUfGucLgz%2F6HQgtbhB15WJA%2B79ZQ5L0Yz%2BoAEWzYgcNCUCxefFPLwYwGKBvEFfmhT0RXwkBmqOLKus%2BnnuoGNU4NU%2F560yBkujuhBRDpb5NJydPr5fz14oxKvk5zQxMK34dGXWXCaRbGtA6SQAO3G3gcAps2oZNosiQt6YfV5CM00S7w8TYiz6UpDM20OH5R51Xl5dElFwKIXcmOsYoGRvqSjuucWbzD88LY3IL4BaOMWp%7Ctkp%3ABk9SR6zIqviIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/4f8AAeSwwyNomi9L/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787819891571
+        "lastSeen": 1787906393998
       },
       {
         "itemId": "127980620451",
@@ -235,14 +250,14 @@
         "priceC": 4888800,
         "shippingC": null,
         "landedC": null,
-        "url": "https://www.ebay.com/itm/127980620451?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M115RH3CMDJV026G0NMT1ZT8&hash=item1dcc3d4aa3:g:W~wAAeSwtiBptMp1&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA8lImWPCZ3PNZRxgrR2arwXH9ra1hggPPIjCAg8%2FzQTF%2FTcpM%2Btf6CiyfQIfZKsX5CPl1ExgjMICX%2FeROqp8JWRSkua5egRdcYHKMq6OuNgRu2%2BUAl9ok1KfakKP4ak8qumcRRUqmrsl%2FExMQBTwc2MMZjCYkWMMbbgB6UXo5S%2B%2BBx53INJ32A%2FJ3pcAZWZyV4krYXftQwUL4xriVThK9FtrVardhk%2FVQ8acp35DzWCOEPmX4A%2BB1zDfIARGVh%2BkdgT56AWs8ppddO4Ks8TYJrH5IOadfzC%2BaTTzsdHi%2BNUWNGFSCj8Qaz7shM5mH9YlqvDAcI7iAYyQ%2Fa4fDZI27e%7Ctkp%3ABk9SR-6R4qWIaA",
+        "url": "https://www.ebay.com/itm/127980620451?_skw=%28flareon%29+%28108%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=23043383393&itmmeta=01M13RAMGC62W5PX7G7862K2N0&hash=item1dcc3d4aa3:g:W~wAAeSwtiBptMp1&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBpZESEVTWLDcrDEvhp6Ye6xRhuXp6K4KboPRhOOlCRNoy4%2BnDgi0wDaIAJfIncBZCsYRKxwOV3b9xAN1hXwBwqVYt0tn8MR0Ar46zGPBN4RUnditak1VWfvGbskdcuOyhltpF2PzKIlG3s4k7t6lsIrMYgOkB8Dh3zCmPCFFryx348ILD%2BM525r%2FIBYhe3RLEnRZPs7lUOpiaPu%2BWHsAm4gM1I7nHj06PKSL%2BzJUYvB7d8GJckP%2FYClg%2FA1pyR3yyCjKwMG717lTj1rLkDNpG4IMpH48TrOyPz%2FqCfuYyLrQ%3D%3D%7Ctkp%3ABk9SR6zIqviIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/W~wAAeSwtiBptMp1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787819891571
+        "lastSeen": 1787906393998
       }
     ],
     "marketHistory": {
@@ -1877,7 +1892,7 @@
       ],
       "englishSaleCount": 216,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787732897894
+      "lastCapturedAt": 1787906216791
     }
   }
 }

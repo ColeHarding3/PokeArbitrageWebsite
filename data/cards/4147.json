@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 4147,
@@ -19,9 +19,9 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/6d36549f0f423eaa42a6fdbc2626e8ccc77b7f0a47a6e80ef66bcb63ae0e272f/1600.jpg",
       "popularityScore": 80,
       "market": {
-        "ungradedC": 3007,
-        "grade9C": 12913,
-        "grade95C": 14200,
+        "ungradedC": 3261,
+        "grade9C": 12857,
+        "grade95C": 14100,
         "cgc10C": 20250,
         "cgc10PristineC": 60000,
         "psa10C": 335652,
@@ -30,22 +30,22 @@
         "psa10Pop": 13,
         "cgc10Pop": 13,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787732145259
+        "fetchedAt": 1787905480408
       },
       "bestCgc10": {
         "itemId": "327328217255",
         "title": "2004 Pokemon EX Team Rocket Returns Additional Ink Holo Azumarill #1 CGC 10Opens in a new window or tab",
         "priceC": 300000,
-        "shippingC": 1290,
-        "landedC": 301290,
-        "url": "https://www.ebay.com/itm/327328217255?_skw=%28azumarill%29+%281%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380408&itmmeta=01M114ZAYPKMZP5NNWZS243ZZJ&hash=item4c364838a7:g:eTwAAeSwRqBqj5oD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBsA%2BW3NtDejElUvwCkww%2BD10UInG%2BEGZ5XH3F5vNW4IdUU0k0J6C8vjZ6nxZswoStHX7nKNVV1RHbK6nHsyf%2FBxPISENPD11E9NfJ9qThaK9%2BF%2BhI0l1we8gA2ymYUxCjieBu8YQxVw1QeIVGVTq1bq2q%2BuHkcUM0TFXIt5BGL3EJyfd437ubTvWLmEZt8hIAflQStx8flUDLEbSZGH8s8K2s4HxLBb5rDCG31mN81sscNno6LcE49%2FDUfpgEGjlihQJew5%2F2PCyroIr3LANClY%2FGphHRdGRnsl42BXEYnWJlsjil9uBeJYn6ViXSe00WusIqIp2sQV5vQZjmqysR1%7Ctkp%3ABk9SR9av_aSIaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/327328217255?_skw=%28azumarill%29+%281%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380408&itmmeta=01M13QKYD604PRB74RERSYB36Y&hash=item4c364838a7:g:eTwAAeSwRqBqj5oD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAhID%2Fr6EmVlPv%2Fs05GfbU4opDoOgjWD9ihjHuXF5ETDOEOcxZbN%2BByY7TlWkJaRK1lC4SH4MvFnt8kkuzwG7Dj%2FWctPsKfAaa6OLTgVZckAPbr6lCUu473nRxn8%2BWP%2FNer05S9gZHV9xWN7Z7mGydt7Uce4gBXub9gjiNm2GpoGFRCRIW34EMbkUIhItmuUUhct5%2FoDaLeInvpB6TMYScnNVxkuI5bdPMVrvsTWXeFN8pDWQ7YcOAX%2FnNUJpU3kUEA%2BJUild7lX9nPEENlpFgzhu1EKG7sWxqO9tVBSuqbow%3D%3D%7Ctkp%3ABk9SR-Lmz_eIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/eTwAAeSwRqBqj5oD/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787819063871,
-        "lastSeen": 1787819063871
+        "lastSeen": 1787905647500
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -57,64 +57,36 @@
         "psa10Auction": 0,
         "psa9Bin": 0
       },
-      "ratio": {
-        "ok": true,
-        "tier": {
-          "id": "superExpress",
-          "label": "Super Express",
-          "feeC": 34900,
-          "declaredValueCapC": 500000,
-          "turnaroundBizDays": 15
-        },
-        "cgc10CostC": 301290,
-        "submissionFeeC": 34900,
-        "totalCostC": 336190,
-        "psa10ValueC": 335652,
-        "ratio": 0.9983997144471876
-      },
+      "ratio": null,
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "327328217255",
           "title": "2004 Pokemon EX Team Rocket Returns Additional Ink Holo Azumarill #1 CGC 10Opens in a new window or tab",
           "priceC": 300000,
-          "shippingC": 1290,
-          "landedC": 301290,
-          "url": "https://www.ebay.com/itm/327328217255?_skw=%28azumarill%29+%281%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380408&itmmeta=01M114ZAYPKMZP5NNWZS243ZZJ&hash=item4c364838a7:g:eTwAAeSwRqBqj5oD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBsA%2BW3NtDejElUvwCkww%2BD10UInG%2BEGZ5XH3F5vNW4IdUU0k0J6C8vjZ6nxZswoStHX7nKNVV1RHbK6nHsyf%2FBxPISENPD11E9NfJ9qThaK9%2BF%2BhI0l1we8gA2ymYUxCjieBu8YQxVw1QeIVGVTq1bq2q%2BuHkcUM0TFXIt5BGL3EJyfd437ubTvWLmEZt8hIAflQStx8flUDLEbSZGH8s8K2s4HxLBb5rDCG31mN81sscNno6LcE49%2FDUfpgEGjlihQJew5%2F2PCyroIr3LANClY%2FGphHRdGRnsl42BXEYnWJlsjil9uBeJYn6ViXSe00WusIqIp2sQV5vQZjmqysR1%7Ctkp%3ABk9SR9av_aSIaA",
+          "shippingC": null,
+          "landedC": null,
+          "url": "https://www.ebay.com/itm/327328217255?_skw=%28azumarill%29+%281%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380408&itmmeta=01M13QKYD604PRB74RERSYB36Y&hash=item4c364838a7:g:eTwAAeSwRqBqj5oD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAhID%2Fr6EmVlPv%2Fs05GfbU4opDoOgjWD9ihjHuXF5ETDOEOcxZbN%2BByY7TlWkJaRK1lC4SH4MvFnt8kkuzwG7Dj%2FWctPsKfAaa6OLTgVZckAPbr6lCUu473nRxn8%2BWP%2FNer05S9gZHV9xWN7Z7mGydt7Uce4gBXub9gjiNm2GpoGFRCRIW34EMbkUIhItmuUUhct5%2FoDaLeInvpB6TMYScnNVxkuI5bdPMVrvsTWXeFN8pDWQ7YcOAX%2FnNUJpU3kUEA%2BJUild7lX9nPEENlpFgzhu1EKG7sWxqO9tVBSuqbow%3D%3D%7Ctkp%3ABk9SR-Lmz_eIaA",
           "imageUrl": "https://i.ebayimg.com/images/g/eTwAAeSwRqBqj5oD/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787819063871,
-          "lastSeen": 1787819063871
+          "lastSeen": 1787905647500
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
-        "ratio": {
-          "ok": true,
-          "tier": {
-            "id": "superExpress",
-            "label": "Super Express",
-            "feeC": 34900,
-            "declaredValueCapC": 500000,
-            "turnaroundBizDays": 15
-          },
-          "cgc10CostC": 301290,
-          "submissionFeeC": 34900,
-          "totalCostC": 336190,
-          "psa10ValueC": 335652,
-          "ratio": 0.9983997144471876
-        },
+        "ratio": null,
         "firstOpportunityAt": 1787819063871
       },
       "firstOpportunityAt": 1787819063871,
-      "updatedAt": 1787819063871
+      "updatedAt": 1787905647500
     },
     "prices": {
       "variantId": 4147,
-      "ungradedC": 3007,
-      "grade9C": 12913,
-      "grade95C": 14200,
+      "ungradedC": 3261,
+      "grade9C": 12857,
+      "grade95C": 14100,
       "cgc10C": 20250,
       "cgc10PristineC": 60000,
       "psa10C": 335652,
@@ -123,23 +95,23 @@
       "cgc10Pop": 13,
       "bgs10C": 436300,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787732145259
+      "fetchedAt": 1787905480408
     },
     "listings": [
       {
         "itemId": "327328217255",
         "title": "2004 Pokemon EX Team Rocket Returns Additional Ink Holo Azumarill #1 CGC 10Opens in a new window or tab",
         "priceC": 300000,
-        "shippingC": 1290,
-        "landedC": 301290,
-        "url": "https://www.ebay.com/itm/327328217255?_skw=%28azumarill%29+%281%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380408&itmmeta=01M114ZAYPKMZP5NNWZS243ZZJ&hash=item4c364838a7:g:eTwAAeSwRqBqj5oD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBsA%2BW3NtDejElUvwCkww%2BD10UInG%2BEGZ5XH3F5vNW4IdUU0k0J6C8vjZ6nxZswoStHX7nKNVV1RHbK6nHsyf%2FBxPISENPD11E9NfJ9qThaK9%2BF%2BhI0l1we8gA2ymYUxCjieBu8YQxVw1QeIVGVTq1bq2q%2BuHkcUM0TFXIt5BGL3EJyfd437ubTvWLmEZt8hIAflQStx8flUDLEbSZGH8s8K2s4HxLBb5rDCG31mN81sscNno6LcE49%2FDUfpgEGjlihQJew5%2F2PCyroIr3LANClY%2FGphHRdGRnsl42BXEYnWJlsjil9uBeJYn6ViXSe00WusIqIp2sQV5vQZjmqysR1%7Ctkp%3ABk9SR9av_aSIaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/327328217255?_skw=%28azumarill%29+%281%2Crocket%2Creturns%29+%28CGC%2CPSA%29&epid=5043380408&itmmeta=01M13QKYD604PRB74RERSYB36Y&hash=item4c364838a7:g:eTwAAeSwRqBqj5oD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAhID%2Fr6EmVlPv%2Fs05GfbU4opDoOgjWD9ihjHuXF5ETDOEOcxZbN%2BByY7TlWkJaRK1lC4SH4MvFnt8kkuzwG7Dj%2FWctPsKfAaa6OLTgVZckAPbr6lCUu473nRxn8%2BWP%2FNer05S9gZHV9xWN7Z7mGydt7Uce4gBXub9gjiNm2GpoGFRCRIW34EMbkUIhItmuUUhct5%2FoDaLeInvpB6TMYScnNVxkuI5bdPMVrvsTWXeFN8pDWQ7YcOAX%2FnNUJpU3kUEA%2BJUild7lX9nPEENlpFgzhu1EKG7sWxqO9tVBSuqbow%3D%3D%7Ctkp%3ABk9SR-Lmz_eIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/eTwAAeSwRqBqj5oD/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787819063871,
-        "lastSeen": 1787819063871
+        "lastSeen": 1787905647500
       }
     ],
     "marketHistory": {
@@ -150,6 +122,19 @@
           "priceC": 4000,
           "title": "Pokémon TCG - Azumarill - 1/109 - Team Rocket Returns Holo TAIL SWIRL NM 1/109",
           "url": "https://www.ebay.com/itm/198541043521?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7112868,
+          "saleDate": "2026-08-12",
+          "priceC": 4100,
+          "title": "2004 Pokemon EX Team Rocket Returns Azumarill Holo 1/109 MP DMG Stamped #1",
+          "url": "https://www.ebay.com/itm/327295959796?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1690,19 +1675,6 @@
           "gradingGrade": 8,
           "gradingDesignation": "nm-mt",
           "agreementStatus": "match"
-        },
-        {
-          "id": 565852,
-          "saleDate": "2025-01-27",
-          "priceC": 6000,
-          "title": "2004 Pokemon Azumarill - Holo EX Team Rocket Returns #1 PSA 9 #1",
-          "url": "https://www.ebay.com/itm/356227998260?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1742,9 +1714,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 143,
+      "englishSaleCount": 144,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787732143516
+      "lastCapturedAt": 1787905478188
     }
   }
 }

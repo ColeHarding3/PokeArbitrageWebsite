@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 689,
@@ -28,9 +28,9 @@
         "bgs10C": 151700,
         "psa9Pop": 879,
         "psa10Pop": 81,
-        "cgc10Pop": 54,
+        "cgc10Pop": 56,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per week\",\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787814907283
+        "fetchedAt": 1787901788928
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -52,7 +52,7 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787814907283
+      "updatedAt": 1787901788928
     },
     "prices": {
       "variantId": 689,
@@ -64,10 +64,10 @@
       "psa10C": 116695,
       "psa9Pop": 879,
       "psa10Pop": 81,
-      "cgc10Pop": 54,
+      "cgc10Pop": 56,
       "bgs10C": 151700,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per week\",\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787814907283
+      "fetchedAt": 1787901788928
     },
     "listings": [
       {
@@ -76,18 +76,44 @@
         "priceC": 5000,
         "shippingC": 699,
         "landedC": 5699,
-        "url": "https://www.ebay.com/itm/287541276558?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=15043377694&itmmeta=01M1116SJZKP10XDZYC3Z8CC4B&hash=item42f2cbaf8e:g:s58AAeSww45qit9Z&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDJcW8%2FfjzXA5quilbC5KPgFO9aW5KY%2BpzynMjgANg4nu9sV%2BEBS3mJuC6j2qancTubJMvoC7%2Bp5QqqzPgyh53fGQAEHr8%2FAvASbb%2FTQryR19VQwP7LmZJ7%2B775X22xhtR6H%2FXQHq2KbUtSRnEY4YT9IkCQDz2W3YLaSe2E9liPmOo5AdhBIqvYPxj%2FvNz%2BSTTuPUt8IR%2Bewpm1%2BejeLlXTJXIVOiJjugi7y2mIotxDpL9icpSKboahLLK1GIw6Kd9FxCLbN53XIQy6lQmQX9ao65bcRyzNXDKNX0GfHZL073mNJ9x6hVf1MFpIf3MzbEE%3D%7Ctkp%3ABk9SR-qZm6GIaA",
+        "url": "https://www.ebay.com/itm/287541276558?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=15043377694&itmmeta=01M13M2F4VBN1T2WYRAXXS0M3M&hash=item42f2cbaf8e:g:s58AAeSww45qit9Z&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDLDQ3oZMrN6uLd0Yw6lukjkG3PZVqpkOygWM%2Bz2zs%2FrGSdjo4Xk%2FgSqNyr8dCPrHTLvD1OHqerhZNklOtw47VhO8lkVENZqNMP6meQTaU%2FFCyvWfXbiSMfjvKpoMk5J8qqhZgyAmHfu7DXTMgxBqTTVlifo62wRa1xIqwYxORo0BHfRQ13g8igi6M8dz83he%2BvE26qWjvOBkG%2Bt%2Bs962Ca62sadxq0PMCf7N2L79Lcasmo%2BQjRRSSH9KmpiMVc%2ByzxGRiv7BdnOphjC2EtTPqp%7Ctkp%3ABk9SR9zyifSIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/s58AAeSww45qit9Z/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787555910622,
-        "lastSeen": 1787815112128
+        "lastSeen": 1787902012992
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 6681393,
+          "saleDate": "2026-08-27",
+          "priceC": 1850,
+          "title": "2000 Pokemon GYARADOS #7/130 Base Set 2 Rare Cosmic Holo Water English 7/130",
+          "url": "https://www.ebay.com/itm/307132473579?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 6681392,
+          "saleDate": "2026-08-27",
+          "priceC": 3500,
+          "title": "Pokemon TCG Gyarados 7/130 Base Set 2 Unlimited Holo WOTC VTG 2000 7/130",
+          "url": "https://www.ebay.com/itm/366619213219?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 6503581,
           "saleDate": "2026-08-26",
@@ -1621,32 +1647,6 @@
           "gradingGrade": 7,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 137714,
-          "saleDate": "2026-05-21",
-          "priceC": 13150,
-          "title": "2000 POKEMON BASE SET 2 #7 GYARADOS-HOLO PSA 9 007/130",
-          "url": "https://www.ebay.com/itm/336583985902?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 137769,
-          "saleDate": "2026-05-20",
-          "priceC": 6999,
-          "title": "2000 POKEMON BASE SET 2 #7 GYARADOS-HOLO PSA 7 #7",
-          "url": "https://www.ebay.com/itm/117188851461?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1741,9 +1741,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 331,
+      "englishSaleCount": 333,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787814905470
+      "lastCapturedAt": 1787901786285
     }
   }
 }

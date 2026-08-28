@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 3228,
@@ -20,17 +20,17 @@
       "popularityScore": 85,
       "market": {
         "ungradedC": 3678,
-        "grade9C": 16500,
-        "grade95C": 18200,
+        "grade9C": 16425,
+        "grade95C": 18100,
         "cgc10C": 16750,
         "cgc10PristineC": 30200,
-        "psa10C": 193052,
-        "bgs10C": 251000,
+        "psa10C": 192826,
+        "bgs10C": 250700,
         "psa9Pop": 62,
         "psa10Pop": 9,
         "cgc10Pop": 8,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 5 sales per year\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787731321692
+        "fetchedAt": 1787904643799
       },
       "bestCgc10": {
         "itemId": "147494621903",
@@ -38,14 +38,14 @@
         "priceC": 150000,
         "shippingC": 0,
         "landedC": 150000,
-        "url": "https://www.ebay.com/itm/147494621903?_skw=%28flareon%29+%285%2Csandstorm%29+%28CGC%2CPSA%29&epid=16043369989&itmmeta=01M1142GVBKPDPRZT02XQVYTHV&hash=item22575d52cf:g:PWwAAeSwm6tqeU3L&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA%2B0JfTeEMcZU%2Bea%2BEFB9chEttQ80SicUIuo5jYpF88JryvjlC3stWwrpjXjrFeesKmZVFUTCmC%2Fm5wg1yJjFV32uJuNU%2F%2BGdzrozRDE5sroyL8KjyJ7so%2FiqgcwMC68co9Pg21OKys%2FcJsXAD2%2FiDxIMm7fD44m1ql7iVo2CQtGUoHHgISopxa%2BblLoKamuPj6EfCEOrfn6notXDoS6dkcTer6jZj1Ly55E22l5LOP2sJyDpy2q51mFDGfnRHxinwIM6syXGCvbjncQENFLYGW%7Ctkp%3ABk9SR4KOiqSIaA",
+        "url": "https://www.ebay.com/itm/147494621903?_skw=%28flareon%29+%285%2Csandstorm%29+%28CGC%2CPSA%29&epid=16043369989&itmmeta=01M13PT1V2TTRSBHG4NY3ZK3CB&hash=item22575d52cf:g:PWwAAeSwm6tqeU3L&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA%2B0JfTeEMcZU%2Bea%2BEFB9chEttQ80SicUIuo5jYpF88JsoG4Rp2WWLCwO%2B4BKWiH1rBGigGRotyCP5mw6Tc%2BaEa1VHIUjdcMY%2BCKCQ%2B%2Ff%2F4oll%2B%2FhmLVS1FtZMNpOCh57%2Fm0q0xKZ6Uxk6L3TvTe9ST2nuBL%2BVyBjtp6rs7lJ6qZ%2FDaE0s8FLI8pw6ZSoUoN0z3Sxj0uGwoI8u%2BqdkTeeZiv0x2Dsx%2FaOQBtfYmu6tOBcrW22lthsEjL7Lp0UIw7y%2BJj%2B3dTI72es3aevt4x%2BqD%7Ctkp%3ABk9SR_Cd6PaIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/PWwAAeSwm6tqeU3L/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558576390,
-        "lastSeen": 1787818084796
+        "lastSeen": 1787904767856
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -69,8 +69,8 @@
         "cgc10CostC": 150000,
         "submissionFeeC": 14900,
         "totalCostC": 164900,
-        "psa10ValueC": 193052,
-        "ratio": 1.170721649484536
+        "psa10ValueC": 192826,
+        "ratio": 1.1693511218920558
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -79,14 +79,14 @@
           "priceC": 150000,
           "shippingC": 0,
           "landedC": 150000,
-          "url": "https://www.ebay.com/itm/147494621903?_skw=%28flareon%29+%285%2Csandstorm%29+%28CGC%2CPSA%29&epid=16043369989&itmmeta=01M1142GVBKPDPRZT02XQVYTHV&hash=item22575d52cf:g:PWwAAeSwm6tqeU3L&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA%2B0JfTeEMcZU%2Bea%2BEFB9chEttQ80SicUIuo5jYpF88JryvjlC3stWwrpjXjrFeesKmZVFUTCmC%2Fm5wg1yJjFV32uJuNU%2F%2BGdzrozRDE5sroyL8KjyJ7so%2FiqgcwMC68co9Pg21OKys%2FcJsXAD2%2FiDxIMm7fD44m1ql7iVo2CQtGUoHHgISopxa%2BblLoKamuPj6EfCEOrfn6notXDoS6dkcTer6jZj1Ly55E22l5LOP2sJyDpy2q51mFDGfnRHxinwIM6syXGCvbjncQENFLYGW%7Ctkp%3ABk9SR4KOiqSIaA",
+          "url": "https://www.ebay.com/itm/147494621903?_skw=%28flareon%29+%285%2Csandstorm%29+%28CGC%2CPSA%29&epid=16043369989&itmmeta=01M13PT1V2TTRSBHG4NY3ZK3CB&hash=item22575d52cf:g:PWwAAeSwm6tqeU3L&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA%2B0JfTeEMcZU%2Bea%2BEFB9chEttQ80SicUIuo5jYpF88JsoG4Rp2WWLCwO%2B4BKWiH1rBGigGRotyCP5mw6Tc%2BaEa1VHIUjdcMY%2BCKCQ%2B%2Ff%2F4oll%2B%2FhmLVS1FtZMNpOCh57%2Fm0q0xKZ6Uxk6L3TvTe9ST2nuBL%2BVyBjtp6rs7lJ6qZ%2FDaE0s8FLI8pw6ZSoUoN0z3Sxj0uGwoI8u%2BqdkTeeZiv0x2Dsx%2FaOQBtfYmu6tOBcrW22lthsEjL7Lp0UIw7y%2BJj%2B3dTI72es3aevt4x%2BqD%7Ctkp%3ABk9SR_Cd6PaIaA",
           "imageUrl": "https://i.ebayimg.com/images/g/PWwAAeSwm6tqeU3L/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787558576390,
-          "lastSeen": 1787818084796
+          "lastSeen": 1787904767856
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -102,28 +102,28 @@
           "cgc10CostC": 150000,
           "submissionFeeC": 14900,
           "totalCostC": 164900,
-          "psa10ValueC": 193052,
-          "ratio": 1.170721649484536
+          "psa10ValueC": 192826,
+          "ratio": 1.1693511218920558
         },
         "firstOpportunityAt": 1787558576390
       },
       "firstOpportunityAt": 1787558576390,
-      "updatedAt": 1787818084796
+      "updatedAt": 1787904767856
     },
     "prices": {
       "variantId": 3228,
       "ungradedC": 3678,
-      "grade9C": 16500,
-      "grade95C": 18200,
+      "grade9C": 16425,
+      "grade95C": 18100,
       "cgc10C": 16750,
       "cgc10PristineC": 30200,
-      "psa10C": 193052,
+      "psa10C": 192826,
       "psa9Pop": 62,
       "psa10Pop": 9,
       "cgc10Pop": 8,
-      "bgs10C": 251000,
+      "bgs10C": 250700,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 5 sales per year\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787731321692
+      "fetchedAt": 1787904643799
     },
     "listings": [
       {
@@ -132,18 +132,44 @@
         "priceC": 150000,
         "shippingC": 0,
         "landedC": 150000,
-        "url": "https://www.ebay.com/itm/147494621903?_skw=%28flareon%29+%285%2Csandstorm%29+%28CGC%2CPSA%29&epid=16043369989&itmmeta=01M1142GVBKPDPRZT02XQVYTHV&hash=item22575d52cf:g:PWwAAeSwm6tqeU3L&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA%2B0JfTeEMcZU%2Bea%2BEFB9chEttQ80SicUIuo5jYpF88JryvjlC3stWwrpjXjrFeesKmZVFUTCmC%2Fm5wg1yJjFV32uJuNU%2F%2BGdzrozRDE5sroyL8KjyJ7so%2FiqgcwMC68co9Pg21OKys%2FcJsXAD2%2FiDxIMm7fD44m1ql7iVo2CQtGUoHHgISopxa%2BblLoKamuPj6EfCEOrfn6notXDoS6dkcTer6jZj1Ly55E22l5LOP2sJyDpy2q51mFDGfnRHxinwIM6syXGCvbjncQENFLYGW%7Ctkp%3ABk9SR4KOiqSIaA",
+        "url": "https://www.ebay.com/itm/147494621903?_skw=%28flareon%29+%285%2Csandstorm%29+%28CGC%2CPSA%29&epid=16043369989&itmmeta=01M13PT1V2TTRSBHG4NY3ZK3CB&hash=item22575d52cf:g:PWwAAeSwm6tqeU3L&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA%2B0JfTeEMcZU%2Bea%2BEFB9chEttQ80SicUIuo5jYpF88JsoG4Rp2WWLCwO%2B4BKWiH1rBGigGRotyCP5mw6Tc%2BaEa1VHIUjdcMY%2BCKCQ%2B%2Ff%2F4oll%2B%2FhmLVS1FtZMNpOCh57%2Fm0q0xKZ6Uxk6L3TvTe9ST2nuBL%2BVyBjtp6rs7lJ6qZ%2FDaE0s8FLI8pw6ZSoUoN0z3Sxj0uGwoI8u%2BqdkTeeZiv0x2Dsx%2FaOQBtfYmu6tOBcrW22lthsEjL7Lp0UIw7y%2BJj%2B3dTI72es3aevt4x%2BqD%7Ctkp%3ABk9SR_Cd6PaIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/PWwAAeSwm6tqeU3L/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558576390,
-        "lastSeen": 1787818084796
+        "lastSeen": 1787904767856
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 7025906,
+          "saleDate": "2026-08-27",
+          "priceC": 7300,
+          "title": "2003 Pokemon EX Sandstorm Flareon Reverse Holo #5/100",
+          "url": "https://www.ebay.com/itm/377439478705?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7025907,
+          "saleDate": "2026-08-24",
+          "priceC": 6682,
+          "title": "Flareon #5 Near Mint English Reverse Holo",
+          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F85489%2F-&sharedId=web&subId1=completed",
+          "sourceMarketplace": "TCGPlayer",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 4004672,
           "saleDate": "2026-08-24",
@@ -1701,9 +1727,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 118,
+      "englishSaleCount": 120,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787731319867
+      "lastCapturedAt": 1787904642053
     }
   }
 }

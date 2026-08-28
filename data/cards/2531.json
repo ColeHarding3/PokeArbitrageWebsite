@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 2531,
@@ -30,7 +30,7 @@
         "psa10Pop": 8,
         "cgc10Pop": 4,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 3 sales per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787730744145
+        "fetchedAt": 1787904043554
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -52,7 +52,7 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787730744145
+      "updatedAt": 1787904043554
     },
     "prices": {
       "variantId": 2531,
@@ -67,23 +67,23 @@
       "cgc10Pop": 4,
       "bgs10C": 107900,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 3 sales per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787730744145
+      "fetchedAt": 1787904043554
     },
     "listings": [
       {
         "itemId": "318776518301",
         "title": "CGC 10 Wooper Aquapolis 117/147 Reverse Holo Pokémon TCG Card 2003 EnglishOpens in a new window or tab",
         "priceC": 12750,
-        "shippingC": 548,
-        "landedC": 13298,
-        "url": "https://www.ebay.com/itm/318776518301?_skw=%28wooper%29+%28117%2Caquapolis%29+%28CGC%2CPSA%29&epid=20043376668&itmmeta=01M113HT0QE3HSKGPGWP0XYNMH&hash=item4a388fa69d:g:8gMAAeSwNuRqjVV5&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCirs4JpW9jT5AfWB4am9NFYIUgZYo6D4hy%2BSyk%2Fs0Qk3DP6kiTR8%2B0sBuvyZVE0yYP43iVGqBQQDGGel67kt8rKQZwrHCfX3nxDC2uA5vhp20ltp2N250aysi5Oi7Qob9qoYrlyWX7g%2BDvqVu%2Bl2--LjT5qIdV%2BDBfbDzLzdUogY4VEFIuIB6hN5MnXi8VlKaKUI%2FvxRurIMe1TH105a5E7T6vPUO0NmLcPG%2BGPaBerbLwBHFCxi7J7uGa2SoV%2FZHSQ%2Bxgj0sifROIrWZcxsM7%7Ctkp%3ABk9SR9Kgx6OIaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/318776518301?_skw=%28wooper%29+%28117%2Caquapolis%29+%28CGC%2CPSA%29&epid=20043376668&itmmeta=01M13P8K81Z0X1WCXTWA6J1PA1&hash=item4a388fa69d:g:8gMAAeSwNuRqjVV5&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCirs4JpW9jT5AfWB4am9NFYIUgZYo6D4hy%2BSyk%2Fs0Qk3Sy%2F3%2BSWc5nSxzmMESrdlUHQkQ50V1Kb3ZxBbcEhgZtepHWu2egIQiS%2Bo7f%2BNIdIoLBMkShI4vDtxK6RtNMbpBGB0hu%2BdW26yg5OYROExu3VJqvB5esgA1ykDsXJkOE690taWQuEH4A5vR2j6CHaG49KcWnTgJHzIFG3R6zmP2Lm6TPzlH9KoC6izbJ8l5h7AShmY2fp9zobt6DCcP9ZWd3ts%2BxKjtb1UWVdIvYUPjv%7Ctkp%3ABk9SR5C0ovaIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8gMAAeSwNuRqjVV5/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787730930244,
-        "lastSeen": 1787817572230
+        "lastSeen": 1787904229797
       }
     ],
     "marketHistory": {
@@ -107,6 +107,19 @@
           "priceC": 17300,
           "title": "Pokemon TCG Reverse Holo Wooper 117/147 Aquapolis Set LP English 117/147",
           "url": "https://www.ebay.com/itm/800508165856?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 6953886,
+          "saleDate": "2026-08-11",
+          "priceC": 3844,
+          "title": "Pokemon TCG Wooper 117/147 Aquapolis Reverse Holo Common English 2002 40 HP 117/147",
+          "url": "https://www.ebay.com/itm/377410892229?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -346,6 +359,19 @@
           "gradingCompany": null,
           "gradingGrade": null,
           "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 6953921,
+          "saleDate": "2026-05-28",
+          "priceC": 87500,
+          "title": "2003 Pokemon - Wooper Reverse Holo E Reader Aquapolis 117/147 - PSA 9 Mint! WOTC 117/147",
+          "url": "https://www.ebay.com/itm/178129756053?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
+          "gradingDesignation": "mint",
           "agreementStatus": "match"
         },
         {
@@ -985,9 +1011,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 68,
+      "englishSaleCount": 70,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787730742172
+      "lastCapturedAt": 1787904042009
     }
   }
 }

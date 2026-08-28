@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 2078,
@@ -28,9 +28,9 @@
         "bgs10C": 200700,
         "psa9Pop": 212,
         "psa10Pop": 36,
-        "cgc10Pop": 11,
+        "cgc10Pop": 15,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\"}",
-        "fetchedAt": 1787730200639
+        "fetchedAt": 1787903488492
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -52,7 +52,7 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787730200639
+      "updatedAt": 1787903488492
     },
     "prices": {
       "variantId": 2078,
@@ -64,10 +64,10 @@
       "psa10C": 154400,
       "psa9Pop": 212,
       "psa10Pop": 36,
-      "cgc10Pop": 11,
+      "cgc10Pop": 15,
       "bgs10C": 200700,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\"}",
-      "fetchedAt": 1787730200639
+      "fetchedAt": 1787903488492
     },
     "listings": [
       {
@@ -1713,7 +1713,7 @@
       ],
       "englishSaleCount": 173,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787730199082
+      "lastCapturedAt": 1787903486168
     }
   }
 }

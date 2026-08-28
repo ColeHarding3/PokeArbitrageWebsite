@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 4076,
@@ -28,101 +28,87 @@
         "bgs10C": 1284100,
         "psa9Pop": 147,
         "psa10Pop": 8,
-        "cgc10Pop": 10,
+        "cgc10Pop": 12,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per month\":\"volume: \\n    1 sale per month\"}",
-        "fetchedAt": 1787732072213
+        "fetchedAt": 1787905406439
       },
       "bestCgc10": {
         "itemId": "318322537382",
         "title": "Tyranitar ex (Cosmos Holo) - 2004 Pokemon POP Series 1 - #17/17 - CGC10Opens in a new window or tab",
         "priceC": 2500000,
-        "shippingC": 0,
-        "landedC": 2500000,
-        "url": "https://www.ebay.com/itm/318322537382?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=5043380941&itmmeta=01M0YRADR9AAZ39G1XCT5SHEEV&hash=item4a1d8073a6:g:GAcAAeSwyRhqCybz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAQEQiaT%2F82dFc8tRCkJm3eP8pX0W5iPU%2FmoCFBIuzjdy4OfmlhyKXKV7yZQCYc8uu9opYnOXI3TQ%2FhQOXZnswJFwCOhg4ZVqHLM4%2FvpRO5RdgO8fxj00nIQSxe42HtvYwHPWw7qe8DwWESVxEH5uEHFKIWYzddra2Sw1V4h0KJhfJVB5ZsjY5YhMSgBsgd7yue7rva%2B4sz0IyitJxEmIhYsIylaGUnnIcgDpmqDc77WOJSVYz2xzy%2B%2F9Ipj1NHRt50XV8LMPcbhbOBM3pzNuoH5SvlvCPAMQSWBGxTyS%2FmWQ%3D%3D%7Ctkp%3ABk9SR67fqdiHaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/318322537382?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=5043380941&itmmeta=01M13YA7R9BTE7JHBRV538P1E8&hash=item4a1d8073a6:g:GAcAAeSwyRhqCybz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAQEQiaT%2F82dFc8tRCkJm3eP8pX0W5iPU%2FmoCFBIuzjd1%2BkxjrDyGMeZ6GZZ%2FPiPB1L3djB%2FgL05xVMLyO55FN2o3XpDWlv5geHYpIWLw2EzTGrsrlGiwXZ3lkZZeifRhz3191x0fcpRYvIKs6py6Bhsp5FXMqz9TQnOZr3X99W564OCHuwixdOCskPHsOlDku93DjKqEm%2BmPHOQ8taa6hPaE1ajWXAjUC2lOjJQ9vqczyXaKKI5A7h4TKObfTDi1fRlNEmqaji6nolQSfgBDT8oLGjaQpPSDSSTkxH69DIjg%3D%3D%7Ctkp%3ABk9SR6j8qP6IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GAcAAeSwyRhqCybz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787912759000
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "298407672456",
+        "title": "2004 POKEMON POP SERIES 1 #17 TYRANITAR EX PSA 10Opens in a new window or tab",
+        "priceC": 149999,
+        "shippingC": 599,
+        "landedC": 150598,
+        "url": "https://www.ebay.com/itm/298407672456?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=12043365085&itmmeta=01M13XA1HYRCQ1YFEAXKBEVRJY&hash=item457a7bba88:g:MwYAAeSwsv9qK3XM&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xADUyLSdoXXL5MlUkzQKYI6Zj5UEhZzGhBqy%2Blk6uqWX4mEMU0zH94yOPvf7tBWoTqjUrd9y%2Fg5u9usc79aMNVQV8hHdDPxyyS5fYWOWiy9rSJLq%2BabxGViv8bmBKdine%2B8x9QNW3jVdnY66TOOIAKQCcRoj15MjaGehmuPD4UVNIDqmwVLK141VARXQfZiHAtadJ7HDOLb84a7PHoV349Lyym3tAi%2B%2F0kp1uljh9HFaP1CB0MaIyR0HXUBJ7txj7rerfMCj9oX5o6CQ8gNm72D7Ypsz%2BwKTVVtOjspUjE2Cs57lCA57VdU6D6IwhS8F65a8hbBcnp8ivNUxSdYRi0Z%7Ctkp%3ABk9SR7aZqP2IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/MwYAAeSwsv9qK3XM/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787061558184,
+        "lastSeen": 1787912759000
+      },
       "bestPsa9": {
-        "itemId": "387016773358",
-        "title": "PSA 9 MINT Tyranitar ex 17/17 HOLO POP Series 1 2004 Pokemon CardOpens in a new window or tab",
-        "priceC": 1100000,
-        "shippingC": 548,
-        "landedC": 1100548,
-        "url": "https://www.ebay.com/itm/387016773358?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=5043380941&itmmeta=01M0YRADR96JG2RK97ZEVAPZZ8&hash=item5a1bff4eee:g:SWEAAOSwHAFmSXKU&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAFgHUOYrOPuCGsCqzp91T%2BejSKEWcBOlax2qKxSQdq49wjx1GxsiWojqPJ33njvdYqOjBJeiiqVX4MGeenYZT7ElJx6p6wBoCn7C9KIuSRGcS3nDl%2Bcmob%2FJlHcirISR9W6rXpBbB7vBMRvH7jt2ZbGSVmdK7ZR8zoUdQcnSpz9t%2B%2BuY6pL%2FpIWuDZcasdxoBMts5RAIm8Yt2QC4RWoaoK3RHDaxwyfKKo3Rdpzmc%2B6kqCsduk9x1Upc1ciatxT7%2BUp%2FLqRn9O5lIWvWB8EpgrI8ZT5Ihlc%2Fez5Ld5Q82ML23HT2pKqMyWyMkht2YQ12n2GPsYd3%2FhMgHp5kx23cH2%7Ctkp%3ABk9SR67fqdiHaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/SWEAAOSwHAFmSXKU/s-l500.webp",
+        "itemId": "188536036453",
+        "title": "Pokemon Tyranitar ex POP Series 1 Holo Ultra Rare #17 PSA 9 MintOpens in a new window or tab",
+        "priceC": 340000,
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/188536036453?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=5043380941&itmmeta=01M13YA7R7VF8VCX1VHBS39RPF&hash=item2be59f9c65:g:x6QAAeSwV0tqNhAS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDd6Y9KmT8JsY3rBLAIg%2BOs5paJC7sx3kGMnE%2BILDSJuVCCtRU1OMn5y4om5mcEhQZJMUHngTZFsqno6ktaYheLMcICwFd53nhArNIrolrmlE0e7c3rFSKtWYsmqdJFmnhQ1wi1%2FRc%2BQ32Ag66JylzEnNaxPcLIxfhOgvS4ekgaZYyjImm5hH4VH0HZ8qaKZTiqwO%2BQFdeneOwVnKzCoo1C1kH91%2F%2BuPf6QrmjqWbVED9oNtSjl8wLBx4P6Tfej9kvwknldAsgj1BsIeAVQhDVMcns1mMKW5KuKgrDNoaL35w%3D%3D%7Ctkp%3ABk9SR6T8qP6IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/x6QAAeSwV0tqNhAS/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787912759000
       },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 3,
         "psa10Auction": 0,
-        "psa9Bin": 1
+        "psa9Bin": 2
       },
-      "ratio": {
-        "ok": true,
-        "tier": {
-          "id": "walkThrough",
-          "label": "Walk-Through",
-          "feeC": 59900,
-          "declaredValueCapC": 1000000,
-          "turnaroundBizDays": 10
-        },
-        "cgc10CostC": 2500000,
-        "submissionFeeC": 59900,
-        "totalCostC": 2559900,
-        "psa10ValueC": 987750,
-        "ratio": 0.3858549162076644
-      },
+      "ratio": null,
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "318322537382",
           "title": "Tyranitar ex (Cosmos Holo) - 2004 Pokemon POP Series 1 - #17/17 - CGC10Opens in a new window or tab",
           "priceC": 2500000,
-          "shippingC": 0,
-          "landedC": 2500000,
-          "url": "https://www.ebay.com/itm/318322537382?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=5043380941&itmmeta=01M0YRADR9AAZ39G1XCT5SHEEV&hash=item4a1d8073a6:g:GAcAAeSwyRhqCybz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAQEQiaT%2F82dFc8tRCkJm3eP8pX0W5iPU%2FmoCFBIuzjdy4OfmlhyKXKV7yZQCYc8uu9opYnOXI3TQ%2FhQOXZnswJFwCOhg4ZVqHLM4%2FvpRO5RdgO8fxj00nIQSxe42HtvYwHPWw7qe8DwWESVxEH5uEHFKIWYzddra2Sw1V4h0KJhfJVB5ZsjY5YhMSgBsgd7yue7rva%2B4sz0IyitJxEmIhYsIylaGUnnIcgDpmqDc77WOJSVYz2xzy%2B%2F9Ipj1NHRt50XV8LMPcbhbOBM3pzNuoH5SvlvCPAMQSWBGxTyS%2FmWQ%3D%3D%7Ctkp%3ABk9SR67fqdiHaA",
+          "shippingC": null,
+          "landedC": null,
+          "url": "https://www.ebay.com/itm/318322537382?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=5043380941&itmmeta=01M13YA7R9BTE7JHBRV538P1E8&hash=item4a1d8073a6:g:GAcAAeSwyRhqCybz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAQEQiaT%2F82dFc8tRCkJm3eP8pX0W5iPU%2FmoCFBIuzjd1%2BkxjrDyGMeZ6GZZ%2FPiPB1L3djB%2FgL05xVMLyO55FN2o3XpDWlv5geHYpIWLw2EzTGrsrlGiwXZ3lkZZeifRhz3191x0fcpRYvIKs6py6Bhsp5FXMqz9TQnOZr3X99W564OCHuwixdOCskPHsOlDku93DjKqEm%2BmPHOQ8taa6hPaE1ajWXAjUC2lOjJQ9vqczyXaKKI5A7h4TKObfTDi1fRlNEmqaji6nolQSfgBDT8oLGjaQpPSDSSTkxH69DIjg%3D%3D%7Ctkp%3ABk9SR6j8qP6IaA",
           "imageUrl": "https://i.ebayimg.com/images/g/GAcAAeSwyRhqCybz/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787061558184,
-          "lastSeen": 1787738656916
+          "lastSeen": 1787912759000
         },
         "cgc10Bin": 2,
         "cgc10Auction": 0,
-        "ratio": {
-          "ok": true,
-          "tier": {
-            "id": "walkThrough",
-            "label": "Walk-Through",
-            "feeC": 59900,
-            "declaredValueCapC": 1000000,
-            "turnaroundBizDays": 10
-          },
-          "cgc10CostC": 2500000,
-          "submissionFeeC": 59900,
-          "totalCostC": 2559900,
-          "psa10ValueC": 987750,
-          "ratio": 0.3858549162076644
-        },
+        "ratio": null,
         "firstOpportunityAt": 1787061558184
       },
       "firstOpportunityAt": 1787061558184,
-      "updatedAt": 1787738656916
+      "updatedAt": 1787912759000
     },
     "prices": {
       "variantId": 4076,
@@ -134,12 +120,42 @@
       "psa10C": 987750,
       "psa9Pop": 147,
       "psa10Pop": 8,
-      "cgc10Pop": 10,
+      "cgc10Pop": 12,
       "bgs10C": 1284100,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per month\":\"volume: \\n    1 sale per month\"}",
-      "fetchedAt": 1787732072213
+      "fetchedAt": 1787905406439
     },
     "listings": [
+      {
+        "itemId": "298407672456",
+        "title": "2004 POKEMON POP SERIES 1 #17 TYRANITAR EX PSA 10Opens in a new window or tab",
+        "priceC": 149999,
+        "shippingC": 599,
+        "landedC": 150598,
+        "url": "https://www.ebay.com/itm/298407672456?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=12043365085&itmmeta=01M13XA1HYRCQ1YFEAXKBEVRJY&hash=item457a7bba88:g:MwYAAeSwsv9qK3XM&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xADUyLSdoXXL5MlUkzQKYI6Zj5UEhZzGhBqy%2Blk6uqWX4mEMU0zH94yOPvf7tBWoTqjUrd9y%2Fg5u9usc79aMNVQV8hHdDPxyyS5fYWOWiy9rSJLq%2BabxGViv8bmBKdine%2B8x9QNW3jVdnY66TOOIAKQCcRoj15MjaGehmuPD4UVNIDqmwVLK141VARXQfZiHAtadJ7HDOLb84a7PHoV349Lyym3tAi%2B%2F0kp1uljh9HFaP1CB0MaIyR0HXUBJ7txj7rerfMCj9oX5o6CQ8gNm72D7Ypsz%2BwKTVVtOjspUjE2Cs57lCA57VdU6D6IwhS8F65a8hbBcnp8ivNUxSdYRi0Z%7Ctkp%3ABk9SR7aZqP2IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/MwYAAeSwsv9qK3XM/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787061558184,
+        "lastSeen": 1787912759000
+      },
+      {
+        "itemId": "287232988560",
+        "title": "Pokemon Tyranitar ex POP Series 1 Rare #17 PSA 10 Gem MintOpens in a new window or tab",
+        "priceC": 200000,
+        "shippingC": 999,
+        "landedC": 200999,
+        "url": "https://www.ebay.com/itm/287232988560?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=12043365085&itmmeta=01M13XA1HY30APTRPAWFD36E10&hash=item42e06b9590:g:b08AAeSw3DRpxG79&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCq7gDcg9J5HiQgDAK%2BL1YsE3xFlLS%2F1A%2B%2FXp%2BYCsV5C9QXv1rRlrn1aD6QD1LbNabmPrA4QuVHE11JaOEpk7Xwnpc35sNWSAJvUtIZoY1KtihF7xu%2BS%2FEv%2FhXEnjGLxijJo48J4ANvwnV6WrEUT%2F9VusCgpuVnCA%2BFfLDQK6E1RFYYvRRip4ZQDfZv2pFwf8hN6rtlILgABDoJbNy%2FF5CkcH8ct68gpSpo70MSDEmuBdTScSe1Q8o%2FCuydxwb72s1cMRsQYqQTd5raSaoS2YCx3WKCgNJzxKONB%2Bxkz1Jjt7efZrqdcVfmIRdVF0dbrX%2B6xv0aqckVO0a2g7DGfege%7Ctkp%3ABk9SR7iZqP2IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/b08AAeSw3DRpxG79/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787061558184,
+        "lastSeen": 1787912759000
+      },
       {
         "itemId": "358896666980",
         "title": "Pokémon TCG Tyranitar EX Pop Series 1 Psa 9Opens in a new window or tab",
@@ -156,49 +172,79 @@
         "lastSeen": 1787094609736
       },
       {
+        "itemId": "188536036453",
+        "title": "Pokemon Tyranitar ex POP Series 1 Holo Ultra Rare #17 PSA 9 MintOpens in a new window or tab",
+        "priceC": 340000,
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/188536036453?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=5043380941&itmmeta=01M13YA7R7VF8VCX1VHBS39RPF&hash=item2be59f9c65:g:x6QAAeSwV0tqNhAS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDd6Y9KmT8JsY3rBLAIg%2BOs5paJC7sx3kGMnE%2BILDSJuVCCtRU1OMn5y4om5mcEhQZJMUHngTZFsqno6ktaYheLMcICwFd53nhArNIrolrmlE0e7c3rFSKtWYsmqdJFmnhQ1wi1%2FRc%2BQ32Ag66JylzEnNaxPcLIxfhOgvS4ekgaZYyjImm5hH4VH0HZ8qaKZTiqwO%2BQFdeneOwVnKzCoo1C1kH91%2F%2BuPf6QrmjqWbVED9oNtSjl8wLBx4P6Tfej9kvwknldAsgj1BsIeAVQhDVMcns1mMKW5KuKgrDNoaL35w%3D%3D%7Ctkp%3ABk9SR6T8qP6IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/x6QAAeSwV0tqNhAS/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787061558184,
+        "lastSeen": 1787912759000
+      },
+      {
         "itemId": "387016773358",
         "title": "PSA 9 MINT Tyranitar ex 17/17 HOLO POP Series 1 2004 Pokemon CardOpens in a new window or tab",
         "priceC": 1100000,
-        "shippingC": 548,
-        "landedC": 1100548,
-        "url": "https://www.ebay.com/itm/387016773358?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=5043380941&itmmeta=01M0YRADR96JG2RK97ZEVAPZZ8&hash=item5a1bff4eee:g:SWEAAOSwHAFmSXKU&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAFgHUOYrOPuCGsCqzp91T%2BejSKEWcBOlax2qKxSQdq49wjx1GxsiWojqPJ33njvdYqOjBJeiiqVX4MGeenYZT7ElJx6p6wBoCn7C9KIuSRGcS3nDl%2Bcmob%2FJlHcirISR9W6rXpBbB7vBMRvH7jt2ZbGSVmdK7ZR8zoUdQcnSpz9t%2B%2BuY6pL%2FpIWuDZcasdxoBMts5RAIm8Yt2QC4RWoaoK3RHDaxwyfKKo3Rdpzmc%2B6kqCsduk9x1Upc1ciatxT7%2BUp%2FLqRn9O5lIWvWB8EpgrI8ZT5Ihlc%2Fez5Ld5Q82ML23HT2pKqMyWyMkht2YQ12n2GPsYd3%2FhMgHp5kx23cH2%7Ctkp%3ABk9SR67fqdiHaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/387016773358?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=5043380941&itmmeta=01M13YA7R82527XMSC0KTBYPHK&hash=item5a1bff4eee:g:SWEAAOSwHAFmSXKU&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCrIVQKAtqmDuXzWRQtogtE%2F%2BEzimCf5KEw4oF2AnqmgNUoaK%2Bw0D7N5YNRl8MMDOpLMd9fC4ISid63n9nQAvjKlJ4ZoDd1xuMCjWRY2tZtCHMjf371uEJ2jUVbjTepypAr6nq3T%2ByyjSzFOGAdCpLiY5K3rkz%2FKi1u6x4ofZF6Rms7Lu8Z0uBRUhj04S7p0Ta7NqwKQTNGeB7UZYBir4WU2p%2FvqRryU1Psk4TxI1Mqq6HAdhn7wNiHWSKiP0O080sP7wqU3sLaKWJL85g%2B0poDFQqLKwyxs1Q%2FCOT26YiUjQ%3D%3D%7Ctkp%3ABk9SR6b8qP6IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/SWEAAOSwHAFmSXKU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "318322537382",
         "title": "Tyranitar ex (Cosmos Holo) - 2004 Pokemon POP Series 1 - #17/17 - CGC10Opens in a new window or tab",
         "priceC": 2500000,
-        "shippingC": 0,
-        "landedC": 2500000,
-        "url": "https://www.ebay.com/itm/318322537382?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=5043380941&itmmeta=01M0YRADR9AAZ39G1XCT5SHEEV&hash=item4a1d8073a6:g:GAcAAeSwyRhqCybz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAQEQiaT%2F82dFc8tRCkJm3eP8pX0W5iPU%2FmoCFBIuzjdy4OfmlhyKXKV7yZQCYc8uu9opYnOXI3TQ%2FhQOXZnswJFwCOhg4ZVqHLM4%2FvpRO5RdgO8fxj00nIQSxe42HtvYwHPWw7qe8DwWESVxEH5uEHFKIWYzddra2Sw1V4h0KJhfJVB5ZsjY5YhMSgBsgd7yue7rva%2B4sz0IyitJxEmIhYsIylaGUnnIcgDpmqDc77WOJSVYz2xzy%2B%2F9Ipj1NHRt50XV8LMPcbhbOBM3pzNuoH5SvlvCPAMQSWBGxTyS%2FmWQ%3D%3D%7Ctkp%3ABk9SR67fqdiHaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/318322537382?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=5043380941&itmmeta=01M13YA7R9BTE7JHBRV538P1E8&hash=item4a1d8073a6:g:GAcAAeSwyRhqCybz&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAQEQiaT%2F82dFc8tRCkJm3eP8pX0W5iPU%2FmoCFBIuzjd1%2BkxjrDyGMeZ6GZZ%2FPiPB1L3djB%2FgL05xVMLyO55FN2o3XpDWlv5geHYpIWLw2EzTGrsrlGiwXZ3lkZZeifRhz3191x0fcpRYvIKs6py6Bhsp5FXMqz9TQnOZr3X99W564OCHuwixdOCskPHsOlDku93DjKqEm%2BmPHOQ8taa6hPaE1ajWXAjUC2lOjJQ9vqczyXaKKI5A7h4TKObfTDi1fRlNEmqaji6nolQSfgBDT8oLGjaQpPSDSSTkxH69DIjg%3D%3D%7Ctkp%3ABk9SR6j8qP6IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GAcAAeSwyRhqCybz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787912759000
+      },
+      {
+        "itemId": "257658082707",
+        "title": "2007 POKEMON D & P MYSTERIOUS TREASURES #17 TYRANITAR-HOLO PSA 10 POP 21Opens in a new window or tab",
+        "priceC": 3500000,
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/257658082707?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=6043385468&itmmeta=01M13YA7R9QRNBBYE4CDVDBEJ7&hash=item3bfd9e5593:g:UrwAAeSwXRFqcBLV&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDZH6uZInaIUwrhd6JVjsPcsUlVn4%2FzRfKnn1qOAfYlmpHKA6Rg%2FrT2TwVIaAC8jSFildg1lupN6RVzUHlLmvPrl0Ps8URJ8H2pqmitwRux4P8uLWPQxG0ecr4lAZTf62AcTi1TC4M1ktqNqswtFf2M6JrSth6EaqTM2QcvVcvjB0nG1lB6YeerldzimaSFvFQ6WedYf3NlCvellc33SxPEBuvLwPU2xpUHmTB2zJCyFNyrtn6OoDM4p%2Bc62nmtiEZj%2Bulx2f7RQYJ1WRZA5%2BCdUZ%2Bm%2Bna5MeUio3PCkKO%2BFg%3D%3D%7Ctkp%3ABk9SR6j8qP6IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/UrwAAeSwXRFqcBLV/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787061558184,
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "377117330934",
         "title": "Pokémon Tyranitar ex 17/17 Cosmos Holo CGC 10 Gem Mint - pop 9 - Perfect Swirl!Opens in a new window or tab",
         "priceC": 4999999,
-        "shippingC": 0,
-        "landedC": 4999999,
-        "url": "https://www.ebay.com/itm/377117330934?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=5043380941&itmmeta=01M0YRADRAHZEWHFT3NYPXD54C&hash=item57cdf1cdf6:g:CjAAAeSwcM9p4ELT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDQ3DL9CrKPi6bA06GiezbXcnZ1WXG5C%2Bgfz0gAgHFGuImEzWTFxUnZlr0UYC1h8hWf3wK%2Bz%2BmPb1%2BVpFcTjaYEpqxUAdcRy05lLrzrGMiR87UHI3dzzMtxD17D4A7HvxKjVhLwU%2FeUWNI2xQRyJxC3%2Fy18zCE%2BUSGJp2xh4w8CmMxIrG5yJcXDBS6aZQcN4zgi%2BmY7RxY8iH1PWxzf8WVWzrHWUHRiMKXdfFN4RCg38rDkR9HWULTvrIZ8QPT4D1wFlPD3lv5dz781gKlRylMWR8ccWrPjX9IGDb6YAeAVGa2KueOiUsmclTYj96iRPC%2Fr%2Flp5y8iBT2PT704jYe7e%7Ctkp%3ABk9SR7DfqdiHaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/377117330934?_skw=%28tyranitar%29+%2817%2Cpop%2Cseries%2C1%29+%28CGC%2CPSA%29&epid=5043380941&itmmeta=01M13YA7R9BYJQ9JC2M78NNCMH&hash=item57cdf1cdf6:g:CjAAAeSwcM9p4ELT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDQ3DL9CrKPi6bA06GiezbXcnZ1WXG5C%2Bgfz0gAgHFGuImEzWTFxUnZlr0UYC1h8hWf3wK%2Bz%2BmPb1%2BVpFcTjaYEpqxUAdcRy05lLrzrGMiR87UHI3dzzMtxD17D4A7HvxKo3%2FDugkDsqf1%2FQotyuOOYl%2F9QLqC%2F7aLKpBytLwUkleKjIenaMqdS92v37fBKExj1SUQ4%2BRAbMXkDTsdLHNR8TKiUZ98obj1ITGDwVt10ntoYvvEhvZAH5Dp0fv2czkygfc9bRb0d7vf2ZTGhjefa3siOg%2FlnWDSfMYkbe3cZ%2F4FQwo0U7fEpm1oi%2Bbr295GJpxEwtJT9e5vB36YXjPEc%7Ctkp%3ABk9SR6j8qP6IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/CjAAAeSwcM9p4ELT/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787061558184,
-        "lastSeen": 1787738656916
+        "lastSeen": 1787912759000
       }
     ],
     "marketHistory": {
@@ -928,6 +974,19 @@
           "gradingStatus": "graded",
           "gradingCompany": "ACE",
           "gradingGrade": 4,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7102829,
+          "saleDate": "2026-07-23",
+          "priceC": 2919,
+          "title": "Tyranitar ex (Holo) POP Series 1 017/017 DMG Pokémon TCG 017/017",
+          "url": "https://www.ebay.com/itm/137459239290?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1749,19 +1808,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 555148,
-          "saleDate": "2026-05-03",
-          "priceC": 13982,
-          "title": "Pokemon Tyranitar ex #17 POP Series 1 PSA 5 EX Holo #17",
-          "url": "https://www.ebay.com/itm/178093770042?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 5,
-          "gradingDesignation": "excellent",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1776,9 +1822,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 267,
+      "englishSaleCount": 268,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787732070051
+      "lastCapturedAt": 1787905405014
     }
   }
 }

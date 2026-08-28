@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 4877,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/5b99ededfe2c1b781ae55b4b7591fb311847c4bad96eb2433eb50f64307a9bc6/1600.jpg",
       "popularityScore": null,
       "market": {
-        "ungradedC": 11468,
+        "ungradedC": 11489,
         "grade9C": 49500,
         "grade95C": 54500,
-        "cgc10C": 55521,
-        "cgc10PristineC": 99900,
-        "psa10C": 59400,
-        "bgs10C": 77200,
+        "cgc10C": 54421,
+        "cgc10PristineC": 98000,
+        "psa10C": 158192,
+        "bgs10C": 205700,
         "psa9Pop": 76,
         "psa10Pop": 51,
-        "cgc10Pop": 12,
+        "cgc10Pop": 13,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787732907601
+        "fetchedAt": 1787906227204
       },
       "bestCgc10": {
         "itemId": "327321268340",
@@ -38,14 +38,14 @@
         "priceC": 99900,
         "shippingC": 0,
         "landedC": 99900,
-        "url": "https://www.ebay.com/itm/327321268340?_skw=%28ditto%29+%2838%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367669&itmmeta=01M115VVH7V1ZBBSAEXQXFA8T2&hash=item4c35de3074:g:G3IAAeSwALdqiLuO&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xASNtLKg2Co23%2BwuVqA2wiDtlwe3eqiIK3p2%2FTplqyGGDcIAc1YrXxVxe9T5G6SiwdaVN8NrIXXOYBvrOiPXTvjrkNPTvCnKulutiht2btn2AAJGDsY2cJd39JftNczox7Yf69KGruq1NUUDr8hRPbHocuZRCMDg%2F7GajTsmwo9D97M40269%2Bv5OPkPZ5ejQegCFVcozP2uiy56FEjM1dkpgydlZnfqcjbFr4LODyDz5vsGUgjHKjSRvbkS8NvYhPnsfHhnBOsQVWhJcgbO1cdv%7Ctkp%3ABk9SR_C476WIaA",
+        "url": "https://www.ebay.com/itm/327321268340?_skw=%28ditto%29+%2838%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367669&itmmeta=01M13YE7X50AJWN2TSEHQYS0MN&hash=item4c35de3074:g:G3IAAeSwALdqiLuO&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAwvAwvBbcPnZPhW5QP%2BwN3lnG5uYpE4yUJwFbF6eZMQylviwAlKBRqGGRSx%2FUhvND%2BJYmxpdDu4JVSjKUNYihTkQmMluG9%2BtdP%2B%2FgeLN23LuY%2FwTM72y00479gRB5yBXoT8H%2Bbybk%2BPpDemNprQpiD3b8bS1AJGdKBfIlJXdCugkZyWiaRjrrK0pOvnVhp%2F7Z3VhR%2BQJUT7s0zE5YVOyq7YU5w06YdT2oFmztklUFijybx9eRVDnw6qnwruToeY%2Bn%2BrP4vdOceR3QbjwyZhaBLEuCf1U41BNJ%2FF9jW7ztUyveI2%2FW78cG2Km%2BoNcxhM2M%3D%7Ctkp%3ABk9SR_z-uP6IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/G3IAAeSwALdqiLuO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787387516137,
-        "lastSeen": 1787819891571
+        "lastSeen": 1787912759000
       },
       "bestPsa10": null,
       "bestPsa9": {
@@ -54,14 +54,14 @@
         "priceC": 60000,
         "shippingC": 954,
         "landedC": 60954,
-        "url": "https://www.ebay.com/itm/178345501744?_skw=%28ditto%29+%2838%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367669&itmmeta=01M115VVH6HNGK7AEG7K1TC4KN&hash=item2986386430:g:uTYAAeSwQkNqPxAx&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDuSgOcPmI%2BGCOBTPTTzggVP2Dd%2B5RM3d1ixDA4h7djHZDeKN8sjFVDh8suhKgsi9LlNZx1EivoZ13Aftn0FBr6IUO48GR1%2BDRUhnMFEquU%2BKyjc0nKcFzOOBfq8V4ZpNLmjdNaU5yE8WrVV1NsIPCHnFNQ2K7K4LNtT%2B46PMOogY8bLhBVAazV3yOhjYV5Ju8KunF%2BxG9UHKqoQfY8vXw6NE98N%2FAN%2BEUeff1uZV4wQLXKeGiCFQVpjtTqOYZm1kEM5XhLzIfuNQvMA%2FKSwVSc%7Ctkp%3ABk9SR-6476WIaA",
+        "url": "https://www.ebay.com/itm/178345501744?_skw=%28ditto%29+%2838%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367669&itmmeta=01M13YE7X3RWJH7W4WREN2QVNS&hash=item2986386430:g:uTYAAeSwQkNqPxAx&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCUxxGEfXq3O94b%2FCIdyXE0wdJyIw6PxdkNjsEwhk2YG67cqZWbBaA97Zcd195f6spHhUDMiW6yTTSg3LFAIdAf3xPJa8ZUhlzJ51etM6bUKYlkvz%2FCSllqRS80xiYrryJWAvwR13PD%2Fj4Irx%2B1zjitsX1TAycfNRqCyO5WWDlloknUJUvZVp8YYnb8BP5EHhDb7ezxox%2F7xQ9JJ3R5LFJxBuxp8bj%2FNabvnusb6fnazisJlImWsBOadM9A8Z9XLmMEVcg2ry%2BG4tabhKLzZQb1qrTiS8kfwAAMpLeudfiOi7OCEeqQ2cwgYC%2FUF8xhj4s%3D%7Ctkp%3ABk9SR_j-uP6IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/uTYAAeSwQkNqPxAx/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787819891571
+        "lastSeen": 1787912759000
       },
       "counts": {
         "cgc10Bin": 1,
@@ -74,17 +74,17 @@
       "ratio": {
         "ok": true,
         "tier": {
-          "id": "regular",
-          "label": "Regular",
-          "feeC": 7999,
-          "declaredValueCapC": 150000,
-          "turnaroundBizDays": 50
+          "id": "express",
+          "label": "Express",
+          "feeC": 14900,
+          "declaredValueCapC": 250000,
+          "turnaroundBizDays": 30
         },
         "cgc10CostC": 99900,
-        "submissionFeeC": 7999,
-        "totalCostC": 107899,
-        "psa10ValueC": 59400,
-        "ratio": 0.5505148333163421
+        "submissionFeeC": 14900,
+        "totalCostC": 114800,
+        "psa10ValueC": 158192,
+        "ratio": 1.377979094076655
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -93,67 +93,67 @@
           "priceC": 99900,
           "shippingC": 0,
           "landedC": 99900,
-          "url": "https://www.ebay.com/itm/327321268340?_skw=%28ditto%29+%2838%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367669&itmmeta=01M115VVH7V1ZBBSAEXQXFA8T2&hash=item4c35de3074:g:G3IAAeSwALdqiLuO&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xASNtLKg2Co23%2BwuVqA2wiDtlwe3eqiIK3p2%2FTplqyGGDcIAc1YrXxVxe9T5G6SiwdaVN8NrIXXOYBvrOiPXTvjrkNPTvCnKulutiht2btn2AAJGDsY2cJd39JftNczox7Yf69KGruq1NUUDr8hRPbHocuZRCMDg%2F7GajTsmwo9D97M40269%2Bv5OPkPZ5ejQegCFVcozP2uiy56FEjM1dkpgydlZnfqcjbFr4LODyDz5vsGUgjHKjSRvbkS8NvYhPnsfHhnBOsQVWhJcgbO1cdv%7Ctkp%3ABk9SR_C476WIaA",
+          "url": "https://www.ebay.com/itm/327321268340?_skw=%28ditto%29+%2838%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367669&itmmeta=01M13YE7X50AJWN2TSEHQYS0MN&hash=item4c35de3074:g:G3IAAeSwALdqiLuO&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAwvAwvBbcPnZPhW5QP%2BwN3lnG5uYpE4yUJwFbF6eZMQylviwAlKBRqGGRSx%2FUhvND%2BJYmxpdDu4JVSjKUNYihTkQmMluG9%2BtdP%2B%2FgeLN23LuY%2FwTM72y00479gRB5yBXoT8H%2Bbybk%2BPpDemNprQpiD3b8bS1AJGdKBfIlJXdCugkZyWiaRjrrK0pOvnVhp%2F7Z3VhR%2BQJUT7s0zE5YVOyq7YU5w06YdT2oFmztklUFijybx9eRVDnw6qnwruToeY%2Bn%2BrP4vdOceR3QbjwyZhaBLEuCf1U41BNJ%2FF9jW7ztUyveI2%2FW78cG2Km%2BoNcxhM2M%3D%7Ctkp%3ABk9SR_z-uP6IaA",
           "imageUrl": "https://i.ebayimg.com/images/g/G3IAAeSwALdqiLuO/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787387516137,
-          "lastSeen": 1787819891571
+          "lastSeen": 1787912759000
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "ratio": {
           "ok": true,
           "tier": {
-            "id": "regular",
-            "label": "Regular",
-            "feeC": 7999,
-            "declaredValueCapC": 150000,
-            "turnaroundBizDays": 50
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
           },
           "cgc10CostC": 99900,
-          "submissionFeeC": 7999,
-          "totalCostC": 107899,
-          "psa10ValueC": 59400,
-          "ratio": 0.5505148333163421
+          "submissionFeeC": 14900,
+          "totalCostC": 114800,
+          "psa10ValueC": 158192,
+          "ratio": 1.377979094076655
         },
         "firstOpportunityAt": 1787387516137
       },
       "firstOpportunityAt": 1787387516137,
-      "updatedAt": 1787819891571
+      "updatedAt": 1787912759000
     },
     "prices": {
       "variantId": 4877,
-      "ungradedC": 11468,
+      "ungradedC": 11489,
       "grade9C": 49500,
       "grade95C": 54500,
-      "cgc10C": 55521,
-      "cgc10PristineC": 99900,
-      "psa10C": 59400,
+      "cgc10C": 54421,
+      "cgc10PristineC": 98000,
+      "psa10C": 158192,
       "psa9Pop": 76,
       "psa10Pop": 51,
-      "cgc10Pop": 12,
-      "bgs10C": 77200,
+      "cgc10Pop": 13,
+      "bgs10C": 205700,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787732907601
+      "fetchedAt": 1787906227204
     },
     "listings": [
       {
         "itemId": "287541278681",
         "title": "Pokemon Ditto [Mr. Mime] Reverse Holo EX Delta Species 38/113 PSA 9 MintOpens in a new window or tab",
-        "priceC": 5100,
+        "priceC": 30500,
         "shippingC": 699,
-        "landedC": 5799,
-        "url": "https://www.ebay.com/itm/287541278681?_skw=%28ditto%29+%2838%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367669&itmmeta=01M115VQAND134400A5QY1GCX3&hash=item42f2cbb7d9:g:wW8AAeSwWaNqiuA~&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBR%2Bs7Wj2lKs0fYD4NQF5d1gVXHUhjqt3Zl0vlynsL0%2BrmvHx5h4aRRB43xsvLU%2Bv8EfH2rAAfm4FnysnzuPITHnTW%2Bu%2Fovodsq0yBVvHc5AZWN%2Fq2sczwgH9nm8SY8gO4TPrKYVKx7Ji11L%2BiUmpy48I2FDCKyDfLv3eD9I%2FtODHIxnFU7sy9SM4KrSrrF83FHc6OpCRlGew%2FhMSZer3szxl%2B9vs0c3zCzZUEmRdngFCpEW3WFuWnpIxQ%2F3Kk3LQwVF2TZXiOzFclptBwsfKCeh79g8tYZfYqf%2FyETLwjB2XieOkguPS6hI1BliuwtjA0%3D%7Ctkp%3ABk9SR9r17qWIaA",
+        "landedC": 31199,
+        "url": "https://www.ebay.com/itm/287541278681?_skw=%28ditto%29+%2838%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367669&itmmeta=01M13YDZZSAEJASBYBFB181QF9&hash=item42f2cbb7d9:g:wW8AAeSwWaNqiuA~&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBn6eeg1X4ZItNIaJ2%2B3vpb2ZgpHzXy8uwth13KEnq%2FBbh4AvcCU%2Bqnbv2c3HF9HDWPGEBwIQX2fl3KYRexd5cw%2B2mEOyuDlsujN2DNA%2Fd168y5fp0qzgqBoYed2m2mTbChYNDw3nfNg8oD6FF%2Fg8YnkECnEIrNHj8PA2%2ByOf%2ByE3jjJF%2FmntCv%2FY57VyiGaxSEZ53a%2BdW9gEyZfbIPrwJXwqR6oQu0J%2Bf4uTo2ABim7ueBh%2FyobVMZQSj6Vkzq9QZJvlNv5Jh09tNy7Q1vByHK%7Ctkp%3ABk9SR5yAuP6IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/wW8AAeSwWaNqiuA~/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787560190120,
-        "lastSeen": 1787819891571
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "178345501744",
@@ -161,14 +161,14 @@
         "priceC": 60000,
         "shippingC": 954,
         "landedC": 60954,
-        "url": "https://www.ebay.com/itm/178345501744?_skw=%28ditto%29+%2838%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367669&itmmeta=01M115VVH6HNGK7AEG7K1TC4KN&hash=item2986386430:g:uTYAAeSwQkNqPxAx&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDuSgOcPmI%2BGCOBTPTTzggVP2Dd%2B5RM3d1ixDA4h7djHZDeKN8sjFVDh8suhKgsi9LlNZx1EivoZ13Aftn0FBr6IUO48GR1%2BDRUhnMFEquU%2BKyjc0nKcFzOOBfq8V4ZpNLmjdNaU5yE8WrVV1NsIPCHnFNQ2K7K4LNtT%2B46PMOogY8bLhBVAazV3yOhjYV5Ju8KunF%2BxG9UHKqoQfY8vXw6NE98N%2FAN%2BEUeff1uZV4wQLXKeGiCFQVpjtTqOYZm1kEM5XhLzIfuNQvMA%2FKSwVSc%7Ctkp%3ABk9SR-6476WIaA",
+        "url": "https://www.ebay.com/itm/178345501744?_skw=%28ditto%29+%2838%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367669&itmmeta=01M13YE7X3RWJH7W4WREN2QVNS&hash=item2986386430:g:uTYAAeSwQkNqPxAx&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCUxxGEfXq3O94b%2FCIdyXE0wdJyIw6PxdkNjsEwhk2YG67cqZWbBaA97Zcd195f6spHhUDMiW6yTTSg3LFAIdAf3xPJa8ZUhlzJ51etM6bUKYlkvz%2FCSllqRS80xiYrryJWAvwR13PD%2Fj4Irx%2B1zjitsX1TAycfNRqCyO5WWDlloknUJUvZVp8YYnb8BP5EHhDb7ezxox%2F7xQ9JJ3R5LFJxBuxp8bj%2FNabvnusb6fnazisJlImWsBOadM9A8Z9XLmMEVcg2ry%2BG4tabhKLzZQb1qrTiS8kfwAAMpLeudfiOi7OCEeqQ2cwgYC%2FUF8xhj4s%3D%7Ctkp%3ABk9SR_j-uP6IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/uTYAAeSwQkNqPxAx/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787089625972,
-        "lastSeen": 1787819891571
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "327321268340",
@@ -176,14 +176,14 @@
         "priceC": 99900,
         "shippingC": 0,
         "landedC": 99900,
-        "url": "https://www.ebay.com/itm/327321268340?_skw=%28ditto%29+%2838%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367669&itmmeta=01M115VVH7V1ZBBSAEXQXFA8T2&hash=item4c35de3074:g:G3IAAeSwALdqiLuO&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xASNtLKg2Co23%2BwuVqA2wiDtlwe3eqiIK3p2%2FTplqyGGDcIAc1YrXxVxe9T5G6SiwdaVN8NrIXXOYBvrOiPXTvjrkNPTvCnKulutiht2btn2AAJGDsY2cJd39JftNczox7Yf69KGruq1NUUDr8hRPbHocuZRCMDg%2F7GajTsmwo9D97M40269%2Bv5OPkPZ5ejQegCFVcozP2uiy56FEjM1dkpgydlZnfqcjbFr4LODyDz5vsGUgjHKjSRvbkS8NvYhPnsfHhnBOsQVWhJcgbO1cdv%7Ctkp%3ABk9SR_C476WIaA",
+        "url": "https://www.ebay.com/itm/327321268340?_skw=%28ditto%29+%2838%2Cdelta%2Cspecies%29+%28CGC%2CPSA%29&epid=4043367669&itmmeta=01M13YE7X50AJWN2TSEHQYS0MN&hash=item4c35de3074:g:G3IAAeSwALdqiLuO&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAwvAwvBbcPnZPhW5QP%2BwN3lnG5uYpE4yUJwFbF6eZMQylviwAlKBRqGGRSx%2FUhvND%2BJYmxpdDu4JVSjKUNYihTkQmMluG9%2BtdP%2B%2FgeLN23LuY%2FwTM72y00479gRB5yBXoT8H%2Bbybk%2BPpDemNprQpiD3b8bS1AJGdKBfIlJXdCugkZyWiaRjrrK0pOvnVhp%2F7Z3VhR%2BQJUT7s0zE5YVOyq7YU5w06YdT2oFmztklUFijybx9eRVDnw6qnwruToeY%2Bn%2BrP4vdOceR3QbjwyZhaBLEuCf1U41BNJ%2FF9jW7ztUyveI2%2FW78cG2Km%2BoNcxhM2M%3D%7Ctkp%3ABk9SR_z-uP6IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/G3IAAeSwALdqiLuO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787387516137,
-        "lastSeen": 1787819891571
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "117203030740",
@@ -526,6 +526,19 @@
           "gradingCompany": "PSA",
           "gradingGrade": 9,
           "gradingDesignation": "mint",
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7195674,
+          "saleDate": "2026-05-31",
+          "priceC": 455000,
+          "title": "Pokemon Ditto [Mr. Mime] EX Delta Species Reverse Holo #38 PSA 10 Gem Mint",
+          "url": "https://www.ebay.com/itm/287344972234?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 10,
+          "gradingDesignation": "gem-mint",
           "agreementStatus": "match"
         },
         {
@@ -1010,6 +1023,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 7195675,
+          "saleDate": "2025-12-22",
+          "priceC": 83300,
+          "title": "Pokemon Ditto [Mr. Mime] EX Delta Species Reverse Holo #38 PSA 10 Gem Mint",
+          "url": "https://www.ebay.com/itm/287006859549?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 10,
+          "gradingDesignation": "gem-mint",
+          "agreementStatus": "match"
+        },
+        {
           "id": 639275,
           "saleDate": "2025-11-08",
           "priceC": 5689,
@@ -1072,6 +1098,19 @@
           "gradingCompany": "PSA",
           "gradingGrade": 7,
           "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7195676,
+          "saleDate": "2025-07-28",
+          "priceC": 71969,
+          "title": "Pokemon Ditto [Mr. Mime] EX Delta Species Reverse Holo #38 PSA 10 Gem Mint",
+          "url": "https://www.ebay.com/itm/286716016792?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 10,
+          "gradingDesignation": "gem-mint",
           "agreementStatus": "match"
         },
         {
@@ -1586,11 +1625,26 @@
           "month": "2024-10",
           "medianC": 22500,
           "count": 1
+        },
+        {
+          "month": "2025-07",
+          "medianC": 71969,
+          "count": 1
+        },
+        {
+          "month": "2025-12",
+          "medianC": 83300,
+          "count": 1
+        },
+        {
+          "month": "2026-05",
+          "medianC": 455000,
+          "count": 1
         }
       ],
-      "englishSaleCount": 104,
+      "englishSaleCount": 107,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787732905827
+      "lastCapturedAt": 1787906225884
     }
   }
 }

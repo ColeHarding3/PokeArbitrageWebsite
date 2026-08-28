@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 691,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/efe7da3ea90afe984013bbd053d9e1a5bdd728bd46e2d60ecad4417022cb1e17/1600.jpg",
       "popularityScore": 79,
       "market": {
-        "ungradedC": 1290,
+        "ungradedC": 1180,
         "grade9C": 11000,
         "grade95C": 12100,
         "cgc10C": 32000,
-        "cgc10PristineC": 117907,
+        "cgc10PristineC": 117896,
         "psa10C": 120000,
         "bgs10C": 156000,
         "psa9Pop": 1030,
         "psa10Pop": 112,
         "cgc10Pop": 42,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787814907748
+        "fetchedAt": 1787901789431
       },
       "bestCgc10": {
         "itemId": "395511238143",
@@ -38,14 +38,14 @@
         "priceC": 30000,
         "shippingC": 945,
         "landedC": 30945,
-        "url": "https://www.ebay.com/itm/395511238143?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M111ABFDPQFHNQDRS5KAFW7Y&hash=item5c164e8dff:g:qWQAAOSwp3VmhadW&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA8KB2dXggUZaTKMQ4ZoTMSbPXLQ4CCBGQ35nMRA3iuCkDHRNZn2D%2FDYB0hdJ49YF1b1ozwvLSkyoc721uFjoSUlUBdIJcbKMPocmL15rYpghO%2FC2uGSCqQ7ClyRs3Fv3rRX%2FHr%2BB%2B53Xs9Sy6QuHLeT7X0PoLFW29Pfw7%2F%2BBcNwLt0kdy286f%2FtuMVPav07L57nTRVeulyu5ukqWhTey5tjmY7%2Bzbig97t3vXJvtrgPDKmIqs2ns2T5YNRQtXiyz1SzDmnfcOyf4qMvCwQ%2FmlX%7Ctkp%3ABk9SR_63qaGIaA",
+        "url": "https://www.ebay.com/itm/395511238143?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M13XQ650S7M7HHW2FM3K3YH2&hash=item5c164e8dff:g:qWQAAOSwp3VmhadW&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBBrvCHDWAjhksLrbdEyWcyrLdWdNXY8b%2FNax93NS5qfajVIq4jn6l7JiPaT5kNcR4YCr64Shckk3aXUNd9Eqxva0XP4drGRMdr%2FqwW4NpfRXQ3XUFoQyDROCdLUxOmsRqvTZuTPdQZ943lz05gDnHiBUdTTk1JE9%2FPRUvdvlktwV%2FcV%2FlvMw8sBV5HyweVw9s%2FPoykwsSj1zLW8IQn008eBnvjvbXM9YX%2Bs%2BrleTqeTkjbQa8GTpydaZcKVV7m2mall0a5jnUeQUbgit2pZawGp3mWi9k5xtS%2FCAireF8FEkwVVZ5IhvSDtfU2kq2BhBA%3D%7Ctkp%3ABk9SR9zi3P2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/qWQAAOSwp3VmhadW/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787041802808,
-        "lastSeen": 1787815112128
+        "lastSeen": 1787912759000
       },
       "bestPsa10": {
         "itemId": "188632003561",
@@ -53,37 +53,37 @@
         "priceC": 250000,
         "shippingC": 0,
         "landedC": 250000,
-        "url": "https://www.ebay.com/itm/188632003561?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M111ABFGAPRPKAMGX3K7BKMR&hash=item2beb57f3e9:g:WZ0AAeSwLDNqCRCJ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD2GV7Utokw2YlUdcMOJvAbLd3bWPugsnj%2BQIlXAUbwQTRwKQ5G0yHoaET4AuITdTKXrvcSKPruSSkMZ4iBZzfI3N%2FA3Gcii8FHJ9qFX6fzaARxVgzSLzew2dvhd74iWYtuhJ%2BnJAf0qQa9grj4wp%2FI30M31ZHerGP37J7vag8eMUJDMCWeo1UtOpqIjU4ldlt8jFds0O2mKACp0y26tMiDW5pCfc9reNUVNycZBYIOv7MD8rGq93udDIgGDiiFy%2F6eQuQg9zI36gwkaQjxaBRdUCGvvB5Pupa2gJ2YKHts5QDmDtP83nFspt61IqaeS1o%3D%7Ctkp%3ABk9SR4a4qaGIaA",
+        "url": "https://www.ebay.com/itm/188632003561?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M13XQ652A1FKCTRWB5QNX39Q&hash=item2beb57f3e9:g:WZ0AAeSwLDNqCRCJ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBEBkB%2FOBHOiDnfQ%2F9R%2BPn%2FOZdQDFtEwbSI9dfeIOkyUCOAUAzIHub48xM6VNAbdE8Udf%2Fe7XLiCakzEuiKMvkxuEHoFTriNcv%2Bva9c%2F41NbZ6q8J%2FFPZrgbfAba4%2FkeHVKWSI3ZaMvbihcWaUbX6jvHCZxArj8WAlbjop2Cp0uLA39neCrQXlgWnGcEDhniO%2BYRcL3cpmYmvYCiPrQb8j2WVQkDjXHiktaKe02sL%2BpYqFcWWQ4O2agFpMmXT96ysOVeOrea8DA2cW6j1iTQkLA%7Ctkp%3ABk9SR-Li3P2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/WZ0AAeSwLDNqCRCJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787041802808,
-        "lastSeen": 1787815112128
+        "lastSeen": 1787912759000
       },
       "bestPsa9": {
-        "itemId": "304829838080",
-        "title": "poliwrath base set 2 psa 9Opens in a new window or tab",
-        "priceC": 3500,
+        "itemId": "327318165852",
+        "title": "2000 POKEMON BASE II (BASE 2) #15 POLIWRATH-HOLO PSA 9 UNLIMITEDOpens in a new window or tab",
+        "priceC": 9999,
         "shippingC": 517,
-        "landedC": 4017,
-        "url": "https://www.ebay.com/itm/304829838080?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M111A1M7JFTSBRGBG2WZQAPX&hash=item46f9463300:g:zU4AAOSw4CJkBqss&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAw6w3GE8pKQyT8eyc3uuDrmmNxCvicmyWcO%2Bs2BewxMJT%2BcV4zqaYNQ%2F7hVFY72xHhQx4jfpU%2F%2BxHY2VTaUeLPAAsyVibgJSnmymPz%2BfwGtpFze1RUoMD1REMQXSK2TAKacpYMSgiAJRcTmxxAb50E9lP2CaHJD%2BoNuSB%2BBWhHsPZAV3OAEXW9qAkfJ0Waq%2BDhaHgIj266jgbR7NCLQpIdjlZbvbvSqOq5Vbt6mkB%2FxHr86e5p0gFKHWCGXd2dMtkN0uatsL58TaPXQF7rVECBrZt%2BT8JTAe7zlf71oSM2ALOBg5KDBaVZcbTAJUm8v%2FU%3D%7Ctkp%3ABk9SR7iaqKGIaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/zU4AAOSw4CJkBqss/s-l500.webp",
+        "landedC": 10516,
+        "url": "https://www.ebay.com/itm/327318165852?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M0YQXVQ4BQ2HEWVTGP4E5TAW&hash=item4c35aed95c:g:K0oAAeSwYPFqfL7K&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCWyCcFITtHJA%2BhS3O%2FKfnKvp3z3jxFyNikQXt9iDvc8%2B9DNEWaCoVM7Klq%2FyLBPjYfOyncyYviNWp9l1qJ5WYI0BWOzN4vh9urmSDnVfchAd7buvG3wc1SFNM4QyPUV6dhjOrJEtcPI3LoBTEvi9looprdQvje6gVZsaMQ5G8EAOv4jiBEof2XaKNXXynTO1EXsJcPmSz9ynHHnQbHJILTcqZ60LkY5pgZJB4PDgnrnrmQs1xVncUluUhsX9TqWxY5NCpqqMbHU2Gk%2BUYVVdRK%7Ctkp%3ABk9SR_S799eHaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/K0oAAeSwYPFqfL7K/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787815112128
+        "firstSeen": 1787210439269,
+        "lastSeen": 1787738656916
       },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 4,
+        "psa10Bin": 2,
         "psa10Auction": 1,
-        "psa9Bin": 8
+        "psa9Bin": 5
       },
       "ratio": {
         "ok": true,
@@ -107,14 +107,14 @@
           "priceC": 30000,
           "shippingC": 945,
           "landedC": 30945,
-          "url": "https://www.ebay.com/itm/395511238143?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M111ABFDPQFHNQDRS5KAFW7Y&hash=item5c164e8dff:g:qWQAAOSwp3VmhadW&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA8KB2dXggUZaTKMQ4ZoTMSbPXLQ4CCBGQ35nMRA3iuCkDHRNZn2D%2FDYB0hdJ49YF1b1ozwvLSkyoc721uFjoSUlUBdIJcbKMPocmL15rYpghO%2FC2uGSCqQ7ClyRs3Fv3rRX%2FHr%2BB%2B53Xs9Sy6QuHLeT7X0PoLFW29Pfw7%2F%2BBcNwLt0kdy286f%2FtuMVPav07L57nTRVeulyu5ukqWhTey5tjmY7%2Bzbig97t3vXJvtrgPDKmIqs2ns2T5YNRQtXiyz1SzDmnfcOyf4qMvCwQ%2FmlX%7Ctkp%3ABk9SR_63qaGIaA",
+          "url": "https://www.ebay.com/itm/395511238143?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M13XQ650S7M7HHW2FM3K3YH2&hash=item5c164e8dff:g:qWQAAOSwp3VmhadW&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBBrvCHDWAjhksLrbdEyWcyrLdWdNXY8b%2FNax93NS5qfajVIq4jn6l7JiPaT5kNcR4YCr64Shckk3aXUNd9Eqxva0XP4drGRMdr%2FqwW4NpfRXQ3XUFoQyDROCdLUxOmsRqvTZuTPdQZ943lz05gDnHiBUdTTk1JE9%2FPRUvdvlktwV%2FcV%2FlvMw8sBV5HyweVw9s%2FPoykwsSj1zLW8IQn008eBnvjvbXM9YX%2Bs%2BrleTqeTkjbQa8GTpydaZcKVV7m2mall0a5jnUeQUbgit2pZawGp3mWi9k5xtS%2FCAireF8FEkwVVZ5IhvSDtfU2kq2BhBA%3D%7Ctkp%3ABk9SR9zi3P2IaA",
           "imageUrl": "https://i.ebayimg.com/images/g/qWQAAOSwp3VmhadW/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787041802808,
-          "lastSeen": 1787815112128
+          "lastSeen": 1787912759000
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -136,39 +136,24 @@
         "firstOpportunityAt": 1787041802808
       },
       "firstOpportunityAt": 1787041802808,
-      "updatedAt": 1787815112128
+      "updatedAt": 1787912759000
     },
     "prices": {
       "variantId": 691,
-      "ungradedC": 1290,
+      "ungradedC": 1180,
       "grade9C": 11000,
       "grade95C": 12100,
       "cgc10C": 32000,
-      "cgc10PristineC": 117907,
+      "cgc10PristineC": 117896,
       "psa10C": 120000,
       "psa9Pop": 1030,
       "psa10Pop": 112,
       "cgc10Pop": 42,
       "bgs10C": 156000,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787814907748
+      "fetchedAt": 1787901789431
     },
     "listings": [
-      {
-        "itemId": "304829838080",
-        "title": "poliwrath base set 2 psa 9Opens in a new window or tab",
-        "priceC": 3500,
-        "shippingC": 517,
-        "landedC": 4017,
-        "url": "https://www.ebay.com/itm/304829838080?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M111A1M7JFTSBRGBG2WZQAPX&hash=item46f9463300:g:zU4AAOSw4CJkBqss&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAw6w3GE8pKQyT8eyc3uuDrmmNxCvicmyWcO%2Bs2BewxMJT%2BcV4zqaYNQ%2F7hVFY72xHhQx4jfpU%2F%2BxHY2VTaUeLPAAsyVibgJSnmymPz%2BfwGtpFze1RUoMD1REMQXSK2TAKacpYMSgiAJRcTmxxAb50E9lP2CaHJD%2BoNuSB%2BBWhHsPZAV3OAEXW9qAkfJ0Waq%2BDhaHgIj266jgbR7NCLQpIdjlZbvbvSqOq5Vbt6mkB%2FxHr86e5p0gFKHWCGXd2dMtkN0uatsL58TaPXQF7rVECBrZt%2BT8JTAe7zlf71oSM2ALOBg5KDBaVZcbTAJUm8v%2FU%3D%7Ctkp%3ABk9SR7iaqKGIaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/zU4AAOSw4CJkBqss/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787815112128
-      },
       {
         "itemId": "327307173373",
         "title": "2000 POKEMON BASE II (BASE 2) #15 POLIWRATH-HOLO PSA 9 UNLIMITEDOpens in a new window or tab",
@@ -205,14 +190,14 @@
         "priceC": 9999,
         "shippingC": 517,
         "landedC": 10516,
-        "url": "https://www.ebay.com/itm/327327701777?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M111A6DN4HGVKRJC8HQ62QBV&hash=item4c36405b11:g:K0oAAeSwYPFqfL7K&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCNfNax61%2BNhjf4MDQFylgzqX3YqrReMZ10gCSugarD0cVltKdER2yFLT51%2BPyYDfQf0iCLwZ7bHoPU4s0OGOLgfLR9mCadF%2FK4Pk7hVmixlOb56Y6r2h0yFU0%2F9Gr1%2FW%2Fck09Qjh6HI8VrpRogVclkCu0Hgfx0fmWu95mLNrxQOcEOTDR%2FM368J6zTXE0PuM96UDhGOSsc9YBjUcJajj0hikQAp5JZFYF6jf1XMi6Y%2BOM5lahyA1%2FjZ4Tw0irHPfrUQlf1eEAKRxorwG%2BDyWgQ%7Ctkp%3ABk9SR5TnqKGIaA",
+        "url": "https://www.ebay.com/itm/327327701777?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M13XPXY7AFMDR2FMBZZHMXZ0&hash=item4c36405b11:g:K0oAAeSwYPFqfL7K&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCPAdEmWYFRUz%2BX8GGCNXZ4QDTzXKmuTwAOjjgq8q3%2FNlVIWux50hv7%2FrrAFMHceiu1KE3yUQ0TvF7C0WH0so33hFnUz6xdeYgKDIcsigSATLXyqNP%2BokaC4pnOxE2pK%2FasfOgrdgE1xELByzsjYQBOo%2BIjLIWO0oBdFXmmDk8Q3JPorOAHzKiwcvZTJJkHysgvL%2F3TK9kK9NWjnFuUvtsuWhEYbk0XQmwGB16Iyr%2Flv6OP8DI%2FDiy8u1VmfGtla3V%2FBQhyBB9IlKJjLWDKDgf57Eyj%2Bsnx2wDS7p4xjLU1KsFn3DhPPEr3z7L1oKbSsEQ%3D%7Ctkp%3ABk9SR77f2_2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/K0oAAeSwYPFqfL7K/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787815112128,
-        "lastSeen": 1787815112128
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "117289563048",
@@ -225,7 +210,7 @@
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787041802808,
         "lastSeen": 1787579269844
       },
@@ -235,14 +220,14 @@
         "priceC": 13999,
         "shippingC": 0,
         "landedC": 13999,
-        "url": "https://www.ebay.com/itm/127604843690?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M111A6DQS5H81K944XAJSSK9&hash=item1db5d764aa:g:WToAAeSwPXNpWscD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDpzEBKGZC3Ej5%2BFyb1x5ALYQ2fP3ak4qsXFeDZ8y%2BFQVjPBZHJUytlLHV%2BEdka4grPoi1x2H8hxl%2BtKhxzayin2BPkLDBjKP9smu3eGSK00sN6l15FOyZBmtAVRxdbUOcb%2FOwy%2FTeStuARb3T2aVlCSRzqwz%2FSjBpKhpdL24Hkm0YaBT1GvNiwIu0FuImO6yIKy9IJXZQQwMKjimosDKbSGHzRcfcP1tVxn%2BvYZ6GIlrOc8Brg1fpVHExFHfwEAoNurgyt5mGFvwDiLgwaWFdm%7Ctkp%3ABk9SR5rnqKGIaA",
+        "url": "https://www.ebay.com/itm/127604843690?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M13XPXY93TDKNVVS6ER0WR83&hash=item1db5d764aa:g:WToAAeSwPXNpWscD&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDCqAnUm0oPVVvd1suZsetICrAsZuVlDpaNZKnoxTHnELLsmZ4TcHiDF8PUg4A9nl0XaDMfQkItuh%2B1L%2F9vr0g8ARQistsiTMJdPk92Sq0Jjm2RPAr7PwPFUd5PBaajca5QPUubwX4nBaku5369TB8cgZuOU3q0z75UVQT55mI%2BXQFrDQgiWQlRxToY6y6tN08QbUebxMBmFFSIyED35IQks%2FFWFM3XWk%2FrIMdgSf%2BqoJ4g2jheLxOZKkK5fTsEMuipcJ9YZRmCMt3hhRar1l6yDGadl2%2B5mWfXDEJU%2BJHixdPx3gFjJU2vij9%2FfrvRZuA%3D%7Ctkp%3ABk9SR8Lf2_2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/WToAAeSwPXNpWscD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787041802808,
-        "lastSeen": 1787815112128
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "227473661102",
@@ -250,29 +235,29 @@
         "priceC": 14795,
         "shippingC": 0,
         "landedC": 14795,
-        "url": "https://www.ebay.com/itm/227473661102?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M111A6DQ5BCB6PBW4CYX1SS8&hash=item34f67c9cae:g:Mu4AAeSwQGhqfTjL&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAuRITiCEaKApyjozGbN5Py51UqQ3yaikerorWbjraZqCjasL6zc9jrGtfSO%2FA6uzS1VUbo37o3l2BLA8XHze1uksiRiJmzg3Jb%2FUBUPhO4Bq53gOKcVLpQRLTq3pie8v5K4L5WUGwJJeVo7SueFOQmbOloloni1rFAWsToGPhs9p7Gi9%2FzpeRWi2qwGmU0Q4s1zIhvEYQjGfTzbvnuzZCJ4jnREXDYT0npmpzRwaqWEJPVPSIElhHL18%2BtwfTjQ5Qhmoa54H2OpoVKU29ZGt34%7Ctkp%3ABk9SR5rnqKGIaA",
+        "url": "https://www.ebay.com/itm/227473661102?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M13XPXYAK4GG44RVPFF9ETKY&hash=item34f67c9cae:g:Mu4AAeSwQGhqfTjL&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBE5x7V014TDgibJjRP2ftqeXHVkKEY29NyAYugMHeL25%2FARBE26OkycnWA6RgpvShYxtUwxARZb2%2FPX5PCRT2I%2FguoDsFWZ1bFH9vVyybaTPjck8qgN2Hwo3ntcp%2BSX%2Bd%2FYYblV7gQCTs9JBH2JCuXz0QUPzveNoqsV%2B6qihp5OPyuNIVXvQqGENgMHw0UJctymKnzLBKArzga6s4SFzyYN9axVCh8xn5KZ7avdIgI1qFqnhSJvhQRxMTJRvT6FAAZR5IkINcpWFea458D%2B5G4ceza0c9uM6q6qXxf0KDGDkIDHnctQEO8wztgi%2B6Y%2Fuk%3D%7Ctkp%3ABk9SR8Lf2_2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Mu4AAeSwQGhqfTjL/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787041802808,
-        "lastSeen": 1787815112128
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "278174622964",
         "title": "Pokemon 2000 Base Set 2 Poliwrath Holo 15/130 PSA 9 English Pokémon TCGOpens in a new window or tab",
         "priceC": 25000,
-        "shippingC": 562,
-        "landedC": 25562,
-        "url": "https://www.ebay.com/itm/278174622964?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M111ABFCX077WYQVRM1EQ985&hash=item40c47fe4f4:g:RZ8AAeSwQ7dqUqf5&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBOx6rnFDmB8HkywOlMz1aypDxXrlDq%2Fg4udhF0xOxb4ZDoM1adBsh0jBVMANaXQgt8nIMfnrzRe4t43JLH3Rh5aM5Nl6rlG2FAMIamMxLmAuZs1IO9mO%2BHi2UnPEjNJedM8hJHbaH1rmUh4G5wsIhuVXFKUG7MddC9sSwjEWTyFoNROBlXW%2FrEUmXCn2Be9bIndjqF979%2F15RfsvGOAqBoLaf%2Bc%2Bp9pL7C6K86rk7OCAgq%2BbXHUFpwhg2jtjnl85uiqeo5k0J0xK6TKY3ttYxd%7Ctkp%3ABk9SR_y3qaGIaA",
+        "shippingC": 548,
+        "landedC": 25548,
+        "url": "https://www.ebay.com/itm/278174622964?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M13XQ65013PA0S51PJG8YVRA&hash=item40c47fe4f4:g:RZ8AAeSwQ7dqUqf5&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCF9OFnLR21Y%2FbtzhXYjGldIWDOY7k3kDKLJzv9U1MtpionWCt1QhmmUQkEL%2FAZcxzzN274XI9bXJrKyoXCbzS5Gw%2BQJB6u7Y3sWLPohEWaoHgS7gfOr9x0tGBbCqJym8YinNDfqzIL%2FsmWXXwkvipqLG53%2FqUSwwB13mlY230hIavd4x4gpRCu%2F77bYwK%2FikNNOvQ86aiz5JuJKnC8IqvV14Bev97CH20ftKIwnK86fHI4sVIdKdaUXsR3VI32k2MXYrBNNlwuGfx%2BUwMcvfGhqFfJdbgczUnmq1a8dhgJFRqqngYraMRlEV8ffT5YJFs%3D%7Ctkp%3ABk9SR9zi3P2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/RZ8AAeSwQ7dqUqf5/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787041802808,
-        "lastSeen": 1787815112128
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "395511238143",
@@ -280,29 +265,14 @@
         "priceC": 30000,
         "shippingC": 945,
         "landedC": 30945,
-        "url": "https://www.ebay.com/itm/395511238143?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M111ABFDPQFHNQDRS5KAFW7Y&hash=item5c164e8dff:g:qWQAAOSwp3VmhadW&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA8KB2dXggUZaTKMQ4ZoTMSbPXLQ4CCBGQ35nMRA3iuCkDHRNZn2D%2FDYB0hdJ49YF1b1ozwvLSkyoc721uFjoSUlUBdIJcbKMPocmL15rYpghO%2FC2uGSCqQ7ClyRs3Fv3rRX%2FHr%2BB%2B53Xs9Sy6QuHLeT7X0PoLFW29Pfw7%2F%2BBcNwLt0kdy286f%2FtuMVPav07L57nTRVeulyu5ukqWhTey5tjmY7%2Bzbig97t3vXJvtrgPDKmIqs2ns2T5YNRQtXiyz1SzDmnfcOyf4qMvCwQ%2FmlX%7Ctkp%3ABk9SR_63qaGIaA",
+        "url": "https://www.ebay.com/itm/395511238143?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M13XQ650S7M7HHW2FM3K3YH2&hash=item5c164e8dff:g:qWQAAOSwp3VmhadW&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBBrvCHDWAjhksLrbdEyWcyrLdWdNXY8b%2FNax93NS5qfajVIq4jn6l7JiPaT5kNcR4YCr64Shckk3aXUNd9Eqxva0XP4drGRMdr%2FqwW4NpfRXQ3XUFoQyDROCdLUxOmsRqvTZuTPdQZ943lz05gDnHiBUdTTk1JE9%2FPRUvdvlktwV%2FcV%2FlvMw8sBV5HyweVw9s%2FPoykwsSj1zLW8IQn008eBnvjvbXM9YX%2Bs%2BrleTqeTkjbQa8GTpydaZcKVV7m2mall0a5jnUeQUbgit2pZawGp3mWi9k5xtS%2FCAireF8FEkwVVZ5IhvSDtfU2kq2BhBA%3D%7Ctkp%3ABk9SR9zi3P2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/qWQAAOSwp3VmhadW/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787041802808,
-        "lastSeen": 1787815112128
-      },
-      {
-        "itemId": "800094502656",
-        "title": "Pokemon 2000 WOTC 🍥 Base Set 2 Poliwrath Holo Rare ✨ PSA 9 Mint 🌊Opens in a new window or tab",
-        "priceC": 32000,
-        "shippingC": 597,
-        "landedC": 32597,
-        "url": "https://www.ebay.com/itm/800094502656?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M111ABFD8T0H4YKFC2J45PDD&hash=itemba49593f00:g:y-cAAeSwYbhp4AAL&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAkOWQmdcmZgkUxldIgy7yCEZrIct8C0YyssxFW%2FFGuh6PApYQTzcm7z1%2FAOgbcjcq%2BpgM8ELBHWpHB8sAKeA5bGksB8tCdUTPNeAffoK3h64SalqDD4ygrSfMFQJFrKa4QNmWHMS6LaoSgwGSIXOv0IdBReJwwzZLxyFv1rT%2F8g8wEqLJI0%2Fe9YKk4yoohQNGjtRv5jmU4DbWHezR5cvj7ytdDTa0kYcOiYJBFQ6W55OcBG340c2XXIKLAEEm8HMR%2FaJRoXseDseKhYbfuoToHxuXzD66gqSjZMQWHJ%2BU3pCOKBJtMif%2B3jmQNWqANhMw%3D%7Ctkp%3ABk9SR_63qaGIaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/y-cAAeSwYbhp4AAL/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787815112128
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "800556392126",
@@ -310,14 +280,14 @@
         "priceC": 50000,
         "shippingC": 2000,
         "landedC": 52000,
-        "url": "https://www.ebay.com/itm/800556392126?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&itmmeta=01M111ABFEY6895RCS2RTX1SPH&hash=itemba64e11ebe:g:yssAAeSwhYZqjFtn&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xARKp5tCbdhN3X50tfKSe5z8KiatY9rASwP61McKYmKznnlLrvVfbuq%2FgKmkAoSZqXpTwNnANFvWY63wlUgxiRM6RMGpYcRCxF8INjlB6o84jtxpi%2FPe0YRaNN3XyxlAv4VPL7ehmwkzdP7z3JZYtqCqUR%2BvfyAyfMVSM7M5ak14o6T144fFtH33dHlKHQCoi8rB0Qd9rVylsxZmxQ7cBmvfnqjsPuHpJqlOqheb0dJ3fsUeZ1BAD3a1Ide8ud0zqtVKfHpDi2lwvMUrRjRLLqw%7Ctkp%3ABk9SR4C4qaGIaA",
+        "url": "https://www.ebay.com/itm/800556392126?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&itmmeta=01M13XQ6511JDKR0NESD0SY5M7&hash=itemba64e11ebe:g:yssAAeSwhYZqjFtn&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCg3LXg1%2BTlJPaJSK7p5FAYGOyGk11JNuaNOXqc7MobdsSHAXh6TJcllhV3nrZEc9VEtwMBjtdmHliAP5BsXExLzcJGd6SVlZ8Cr1%2FG7r5kLLEApnDv5RXDnP1Q7bkFfTgzRMo0dez5GetfJq3KkzHuup8mSU4wax9TgKUv0YR6pwOZpBGsLJjpXg3%2Fa8fDLcP95apVP%2BY16VdUFE5hqmrfgEefGxDAmkihzLRpe3xqEYWdirJZExHcX35ANpLteMx5SRtWZhlH8FMpKLJ7yluXX%2BpOR9tEDxHeQvBrVfWrbIBeHT8zlVwjHNowJ4wtc3U%3D%7Ctkp%3ABk9SR97i3P2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/yssAAeSwhYZqjFtn/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787642421489,
-        "lastSeen": 1787815112128
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "188632003561",
@@ -325,14 +295,14 @@
         "priceC": 250000,
         "shippingC": 0,
         "landedC": 250000,
-        "url": "https://www.ebay.com/itm/188632003561?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M111ABFGAPRPKAMGX3K7BKMR&hash=item2beb57f3e9:g:WZ0AAeSwLDNqCRCJ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD2GV7Utokw2YlUdcMOJvAbLd3bWPugsnj%2BQIlXAUbwQTRwKQ5G0yHoaET4AuITdTKXrvcSKPruSSkMZ4iBZzfI3N%2FA3Gcii8FHJ9qFX6fzaARxVgzSLzew2dvhd74iWYtuhJ%2BnJAf0qQa9grj4wp%2FI30M31ZHerGP37J7vag8eMUJDMCWeo1UtOpqIjU4ldlt8jFds0O2mKACp0y26tMiDW5pCfc9reNUVNycZBYIOv7MD8rGq93udDIgGDiiFy%2F6eQuQg9zI36gwkaQjxaBRdUCGvvB5Pupa2gJ2YKHts5QDmDtP83nFspt61IqaeS1o%3D%7Ctkp%3ABk9SR4a4qaGIaA",
+        "url": "https://www.ebay.com/itm/188632003561?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M13XQ652A1FKCTRWB5QNX39Q&hash=item2beb57f3e9:g:WZ0AAeSwLDNqCRCJ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBEBkB%2FOBHOiDnfQ%2F9R%2BPn%2FOZdQDFtEwbSI9dfeIOkyUCOAUAzIHub48xM6VNAbdE8Udf%2Fe7XLiCakzEuiKMvkxuEHoFTriNcv%2Bva9c%2F41NbZ6q8J%2FFPZrgbfAba4%2FkeHVKWSI3ZaMvbihcWaUbX6jvHCZxArj8WAlbjop2Cp0uLA39neCrQXlgWnGcEDhniO%2BYRcL3cpmYmvYCiPrQb8j2WVQkDjXHiktaKe02sL%2BpYqFcWWQ4O2agFpMmXT96ysOVeOrea8DA2cW6j1iTQkLA%7Ctkp%3ABk9SR-Li3P2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/WZ0AAeSwLDNqCRCJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787041802808,
-        "lastSeen": 1787815112128
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "377427014105",
@@ -340,44 +310,14 @@
         "priceC": 250000,
         "shippingC": 942,
         "landedC": 250942,
-        "url": "https://www.ebay.com/itm/377427014105?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M111ABFG1910NBBDDBGHZV8G&hash=item57e06731d9:g:WmEAAeSwVzdqg21T&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBVU9LgyLwmFw6YWCJjkuvAVZWLqpwAKEa7Ro5oGU0lXjucT4G4VxI97zujUoEDV4URiiWfjAoiKi7f1paOtwbyZvw2rrPLCUGBZT6%2BI%2Bkct%2FBoCmTMXnmh6kVpQ1aZoccD9IJJnzCn35HHUQcOA4lnqZGcjBrUkhVfkm%2F0%2B3VQLuxMeqMUlnRzBaSw1QSfcwBC9ZqYlTyI42BdWXaYGDJp%2FL1x7TqMeqebNOVp5aAt8t1Ek7hfYw3iVmWSSANm%2BnN3bgmdcSNA6uTvWUbBDG8u%7Ctkp%3ABk9SR4a4qaGIaA",
+        "url": "https://www.ebay.com/itm/377427014105?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M13XQ652NP8Z0M43NZCMP4YE&hash=item57e06731d9:g:WmEAAeSwVzdqg21T&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAv63J23mN4o6dI%2BT3DvDCtoDYs83ohbqD4OZ4hb8ooxigqjF770M6AjsM%2FAhY898H3su8myORI68nVjPCQpNv%2BEH8yF4Ble8RmlBFaTx0HKRxJFn7eKNCudHu%2FAn7%2FQKPPn55F4cTEhQmpZHC9TFnCsPOyL51qzI8NlZIiNG90SDeH4DgSMbuMVlDPsgFLfR8alsq%2BiO6WbyBi741iFpy5%2Fnb%2BdGoe%2FYI6dRAEEp%2BDFeTclWQIfHoPBq75d51WCscPJvAxqvaaXR0MQt47k0X0Tp3VpyuJYGIoEr8MBNI2KLLezAQ3%2Fv%2FcWYCEmLmhxhw%3D%7Ctkp%3ABk9SR-Li3P2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/WmEAAeSwVzdqg21T/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787041802808,
-        "lastSeen": 1787815112128
-      },
-      {
-        "itemId": "257688444320",
-        "title": "2000 Pokemon Base Set 2 II Poliwrath PSA 10 Gem Mint Pop 112Opens in a new window or tab",
-        "priceC": 280000,
-        "shippingC": 945,
-        "landedC": 280945,
-        "url": "https://www.ebay.com/itm/257688444320?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=11043365961&itmmeta=01M111ABFGT7FG9ENT79EMFRVF&hash=item3bff6d9da0:g:vEoAAeSw-8lqhG~E&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAytHuvqJiO4sDKcY7uuNxvx0mvshSrnkwjyt7HA1nWvDCms%2FC2avi9Lh5X3MaHgpw%2FqwC7FojatgZfC9l2ZnF4mfaMY2XagRE%2F2F64cpCmJ1r6I3paQjR9RHwEISkrN%2BDjLcGn%2FEv3m%2Bx6yzOnHM7jn3vPv4gx34oGZETa1FAG2KmLE3ENLbv8hqIDLNBXuEPuEH8smskWMOKbr68o5jwDR5Kd6LEXAHUl7OYmKgCHCcPuG2qEzaR%2FwugjUSRiue4mNb6089ys5QOyvmMwhJfI%2BxaRd6n7UzACHPZeGP06rdGbQbqvXTYlmnZtsE%2Bzts0%3D%7Ctkp%3ABk9SR4a4qaGIaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/vEoAAeSw-8lqhG~E/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787165573087,
-        "lastSeen": 1787815112128
-      },
-      {
-        "itemId": "298372821910",
-        "title": "2000 Pokemon Base Set 2 II Poliwrath PSA 10 Gem Mint 💎 RareOpens in a new window or tab",
-        "priceC": 499999,
-        "shippingC": 599,
-        "landedC": 500598,
-        "url": "https://www.ebay.com/itm/298372821910?_skw=%28poliwrath%29+%2815%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&itmmeta=01M111ABFH28M45FYR1RG8BK3V&hash=item457867f396:g:~~AAAeSwg4BqHNzP&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDdVZpIROQwoHOAIjYEJYGNL9eDKJO3z3I7Rfmzm92uN9h38IlLmo2lluneBXp8mxj5noZSqcVXb7yXrfHrD6E5Rme4TufsvANcwQ8ZwRuakin6ndezFLLLEvzi4jjYJbIx9xkiU%2FhaOnoJdOrUHAuFGcogWBAZyO%2B0ds7ucHDosLtYjH%2B3pb85Uj4SY4HCO8GrLiUhen1sBxvojkX2iiFYIaqh6SOSFsWIPy7C2nCBjaQ%2BZx%2FvjeibUA%2F9ggumC8s1WmddiwGnDcLdW3gPr24cqcH24wZ%2BxKC9RdGyx6yUtkzlgNkAhsEOdwOK%2BkvdVOrAT2M8DHi5jK%2Br%2BwPJs05Z%7Ctkp%3ABk9SR4a4qaGIaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/~~AAAeSwg4BqHNzP/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787038168986,
-        "lastSeen": 1787815112128
+        "lastSeen": 1787912759000
       }
     ],
     "marketHistory": {
@@ -2042,7 +1982,7 @@
       ],
       "englishSaleCount": 325,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787814905914
+      "lastCapturedAt": 1787901787538
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 2792,
@@ -28,24 +28,24 @@
         "bgs10C": 58600,
         "psa9Pop": 63,
         "psa10Pop": 14,
-        "cgc10Pop": 16,
+        "cgc10Pop": 17,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per year\",\"volume: 5 sales per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787730964911
+        "fetchedAt": 1787904264254
       },
       "bestCgc10": {
         "itemId": "327299863747",
         "title": "CGC 10 GEM MINT Ditto 51/144 Skyridge Reverse Holo Pokemon CardOpens in a new window or tab",
         "priceC": 299900,
-        "shippingC": 0,
-        "landedC": 299900,
-        "url": "https://www.ebay.com/itm/327299863747?_skw=%28ditto%29+%2851%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369278&itmmeta=01M113QKX885HRXS85MN99PZCZ&hash=item4c349794c3:g:X5gAAeSw3T9qdlB1&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAGaH%2BqL%2FK8SSlWjwIQc4XoeTjmHDuZJ1AJBCXtAMO346ZAML7muGL5EQfKFs1ZOq9pjrWmaghHBL8lih3EOth9G%2B%2B9LgylYiaKm8U0EO4qXmjvoI97SUVNKxvOJv0WX3KS8NrpaD3uKezYoRCY%2FvQCzZWebkRNcGOSbvzAq3F8pLm2q0QnS%2BsVbT8E5Fujzqej2NXVM3CrzJ9nrVu3hn6EeZDp5BEf4Rrm3JLTAfF%2BwhsoS5zvDbY5GDGIy6Ty0fJWtJpcpVw0%2FooxXZt5wsQpXfysY6f6Sn9gRfwKPPDWFEwAhm2itGDmNr97tcCrJVI%3D%7Ctkp%3ABk9SR-q-3qOIaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/327299863747?_skw=%28ditto%29+%2851%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369278&itmmeta=01M13PFE54A38EA88ERMGSJ1QH&hash=item4c349794c3:g:X5gAAeSw3T9qdlB1&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAGaH%2BqL%2FK8SSlWjwIQc4XoeTjmHDuZJ1AJBCXtAMO346ZAML7muGL5EQfKFs1ZOq9pjrWmaghHBL8lih3EOth9G%2B%2B9LgylYiaKm8U0EO4qXmjvoI97SUVNKxvOJv0WX3Is%2BRQK0%2FJy9OZ20f9hN%2FJfgjjw8MCbf1vixaxa18YO9l3QQebLtmSQyxpn%2BXJckvnmb%2FyRdh6BvBHW5i3mOYvmKCu82zDR0sYvdljSjCGRJfk%2BMnqFndTDBwMyFzbS%2Fi1mDh1rvgUwWo2AkEpoqlRvbbx6qGeSsWThoYl93TmVo1QoHIEP6lJ4bZ2OLmVtRLs%3D%7Ctkp%3ABk9SR9jivfaIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/X5gAAeSw3T9qdlB1/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787472542569,
-        "lastSeen": 1787817775198
+        "lastSeen": 1787904464545
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -57,58 +57,30 @@
         "psa10Auction": 0,
         "psa9Bin": 0
       },
-      "ratio": {
-        "ok": true,
-        "tier": {
-          "id": "regular",
-          "label": "Regular",
-          "feeC": 7999,
-          "declaredValueCapC": 150000,
-          "turnaroundBizDays": 50
-        },
-        "cgc10CostC": 299900,
-        "submissionFeeC": 7999,
-        "totalCostC": 307899,
-        "psa10ValueC": 45100,
-        "ratio": 0.1464766043410339
-      },
+      "ratio": null,
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "327299863747",
           "title": "CGC 10 GEM MINT Ditto 51/144 Skyridge Reverse Holo Pokemon CardOpens in a new window or tab",
           "priceC": 299900,
-          "shippingC": 0,
-          "landedC": 299900,
-          "url": "https://www.ebay.com/itm/327299863747?_skw=%28ditto%29+%2851%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369278&itmmeta=01M113QKX885HRXS85MN99PZCZ&hash=item4c349794c3:g:X5gAAeSw3T9qdlB1&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAGaH%2BqL%2FK8SSlWjwIQc4XoeTjmHDuZJ1AJBCXtAMO346ZAML7muGL5EQfKFs1ZOq9pjrWmaghHBL8lih3EOth9G%2B%2B9LgylYiaKm8U0EO4qXmjvoI97SUVNKxvOJv0WX3KS8NrpaD3uKezYoRCY%2FvQCzZWebkRNcGOSbvzAq3F8pLm2q0QnS%2BsVbT8E5Fujzqej2NXVM3CrzJ9nrVu3hn6EeZDp5BEf4Rrm3JLTAfF%2BwhsoS5zvDbY5GDGIy6Ty0fJWtJpcpVw0%2FooxXZt5wsQpXfysY6f6Sn9gRfwKPPDWFEwAhm2itGDmNr97tcCrJVI%3D%7Ctkp%3ABk9SR-q-3qOIaA",
+          "shippingC": null,
+          "landedC": null,
+          "url": "https://www.ebay.com/itm/327299863747?_skw=%28ditto%29+%2851%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369278&itmmeta=01M13PFE54A38EA88ERMGSJ1QH&hash=item4c349794c3:g:X5gAAeSw3T9qdlB1&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAGaH%2BqL%2FK8SSlWjwIQc4XoeTjmHDuZJ1AJBCXtAMO346ZAML7muGL5EQfKFs1ZOq9pjrWmaghHBL8lih3EOth9G%2B%2B9LgylYiaKm8U0EO4qXmjvoI97SUVNKxvOJv0WX3Is%2BRQK0%2FJy9OZ20f9hN%2FJfgjjw8MCbf1vixaxa18YO9l3QQebLtmSQyxpn%2BXJckvnmb%2FyRdh6BvBHW5i3mOYvmKCu82zDR0sYvdljSjCGRJfk%2BMnqFndTDBwMyFzbS%2Fi1mDh1rvgUwWo2AkEpoqlRvbbx6qGeSsWThoYl93TmVo1QoHIEP6lJ4bZ2OLmVtRLs%3D%7Ctkp%3ABk9SR9jivfaIaA",
           "imageUrl": "https://i.ebayimg.com/images/g/X5gAAeSw3T9qdlB1/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787472542569,
-          "lastSeen": 1787817775198
+          "lastSeen": 1787904464545
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
-        "ratio": {
-          "ok": true,
-          "tier": {
-            "id": "regular",
-            "label": "Regular",
-            "feeC": 7999,
-            "declaredValueCapC": 150000,
-            "turnaroundBizDays": 50
-          },
-          "cgc10CostC": 299900,
-          "submissionFeeC": 7999,
-          "totalCostC": 307899,
-          "psa10ValueC": 45100,
-          "ratio": 0.1464766043410339
-        },
+        "ratio": null,
         "firstOpportunityAt": 1787472542569
       },
       "firstOpportunityAt": 1787472542569,
-      "updatedAt": 1787817775198
+      "updatedAt": 1787904464545
     },
     "prices": {
       "variantId": 2792,
@@ -120,26 +92,26 @@
       "psa10C": 45100,
       "psa9Pop": 63,
       "psa10Pop": 14,
-      "cgc10Pop": 16,
+      "cgc10Pop": 17,
       "bgs10C": 58600,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per year\",\"volume: 5 sales per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787730964911
+      "fetchedAt": 1787904264254
     },
     "listings": [
       {
         "itemId": "327299863747",
         "title": "CGC 10 GEM MINT Ditto 51/144 Skyridge Reverse Holo Pokemon CardOpens in a new window or tab",
         "priceC": 299900,
-        "shippingC": 0,
-        "landedC": 299900,
-        "url": "https://www.ebay.com/itm/327299863747?_skw=%28ditto%29+%2851%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369278&itmmeta=01M113QKX885HRXS85MN99PZCZ&hash=item4c349794c3:g:X5gAAeSw3T9qdlB1&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAGaH%2BqL%2FK8SSlWjwIQc4XoeTjmHDuZJ1AJBCXtAMO346ZAML7muGL5EQfKFs1ZOq9pjrWmaghHBL8lih3EOth9G%2B%2B9LgylYiaKm8U0EO4qXmjvoI97SUVNKxvOJv0WX3KS8NrpaD3uKezYoRCY%2FvQCzZWebkRNcGOSbvzAq3F8pLm2q0QnS%2BsVbT8E5Fujzqej2NXVM3CrzJ9nrVu3hn6EeZDp5BEf4Rrm3JLTAfF%2BwhsoS5zvDbY5GDGIy6Ty0fJWtJpcpVw0%2FooxXZt5wsQpXfysY6f6Sn9gRfwKPPDWFEwAhm2itGDmNr97tcCrJVI%3D%7Ctkp%3ABk9SR-q-3qOIaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/327299863747?_skw=%28ditto%29+%2851%2Cskyridge%29+%28CGC%2CPSA%29&epid=16043369278&itmmeta=01M13PFE54A38EA88ERMGSJ1QH&hash=item4c349794c3:g:X5gAAeSw3T9qdlB1&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAGaH%2BqL%2FK8SSlWjwIQc4XoeTjmHDuZJ1AJBCXtAMO346ZAML7muGL5EQfKFs1ZOq9pjrWmaghHBL8lih3EOth9G%2B%2B9LgylYiaKm8U0EO4qXmjvoI97SUVNKxvOJv0WX3Is%2BRQK0%2FJy9OZ20f9hN%2FJfgjjw8MCbf1vixaxa18YO9l3QQebLtmSQyxpn%2BXJckvnmb%2FyRdh6BvBHW5i3mOYvmKCu82zDR0sYvdljSjCGRJfk%2BMnqFndTDBwMyFzbS%2Fi1mDh1rvgUwWo2AkEpoqlRvbbx6qGeSsWThoYl93TmVo1QoHIEP6lJ4bZ2OLmVtRLs%3D%7Ctkp%3ABk9SR9jivfaIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/X5gAAeSw3T9qdlB1/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787472542569,
-        "lastSeen": 1787817775198
+        "lastSeen": 1787904464545
       }
     ],
     "marketHistory": {
@@ -1243,7 +1215,7 @@
       ],
       "englishSaleCount": 83,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787730963309
+      "lastCapturedAt": 1787904262673
     }
   }
 }

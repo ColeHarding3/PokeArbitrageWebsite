@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 5808,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/5e99311fc03df243f5e9319fd6b371b862916ba07151f9f1683649515f27adec/1600.jpg",
       "popularityScore": 74,
       "market": {
-        "ungradedC": 1088,
+        "ungradedC": 1087,
         "grade9C": 9900,
         "grade95C": 10900,
-        "cgc10C": 73300,
-        "cgc10PristineC": 131900,
-        "psa10C": 122244,
-        "bgs10C": 158900,
+        "cgc10C": 69200,
+        "cgc10PristineC": 124600,
+        "psa10C": 115355,
+        "bgs10C": 150000,
         "psa9Pop": 60,
         "psa10Pop": 12,
         "cgc10Pop": 37,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787733741077
+        "fetchedAt": 1787907081774
       },
       "bestCgc10": {
         "itemId": "398174171140",
@@ -38,14 +38,14 @@
         "priceC": 99900,
         "shippingC": 624,
         "landedC": 100524,
-        "url": "https://www.ebay.com/itm/398174171140?_skw=%28shellder%2Cdelta%29+%2863%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=8043378073&itmmeta=01M116YTPM0NNMQHVRAFNA1JH3&hash=item5cb507b004:g:S~8AAeSwW0ZqVnof&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCa%2Fpcd6s7zjfrDCMrJ7twcbISXgWH4PtymCj9FUX0Z0U2g52WjSN1jMMCF55c1tySY6E4dz%2FOC2YM1fNfHfAbDk149s8XFTsu3p1OHB3mFoJGY3RYvRVc%2ByvxiVxCDbL%2BzdGo%2BPc4JMaBmKy6wNw3QEzL6DT26QUYqdsIhm4HRecHMXu2eoELlI%2Bq9Mf9wbKZkDgWv4YdggXfaLPAb2%2FQolE2bLGy%2F4W4taQu1rlvR7W0Bn6qSfczPxYgY4%2Fl5sebkqofevFRUPV2rlpUAV5aBf2Q3leBgBPLcy2LGdlsauw%3D%3D%7Ctkp%3ABk9SR9Sr-6aIaA",
+        "url": "https://www.ebay.com/itm/398174171140?_skw=%28shellder%2Cdelta%29+%2863%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=8043378073&itmmeta=01M13S8YR20XTJQ5KPY0KE64TM&hash=item5cb507b004:g:S~8AAeSwW0ZqVnof&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDiVqY8XbZIx%2BvizG1%2B3THxCDQbOiMRL6U91SjBgc7iHScd8KwBPYPcdowokeUYrvcUOFTVH5Uckf04KU1GWpROolERZBXyYqtjTCscWaOIC55l7kP1JWTLornxR1O%2F9QxY4%2BxNtyIuDq5bQqj3ABNd%2BAhsxyJJ0fO9lEc6pRveUOrsaRWHv8CGLGbi53%2FdKWoJAS3IVBkvzErMsedNds9%2B5CDmOZZXQWmd7QRudFE6Rx3HsYDYXliOq76KiNonEKgTag6B21BMBirXafyz0jxcvUfqVyB5osNoFVoVV7syxzRcBxu2nHCnLC2LZpQrjN1Odnsyw4VFNKqxiTs%2FYY10%7Ctkp%3ABk9SR67so_mIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/S~8AAeSwW0ZqVnof/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787821067310
+        "lastSeen": 1787907342276
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -69,8 +69,8 @@
         "cgc10CostC": 100524,
         "submissionFeeC": 7999,
         "totalCostC": 108523,
-        "psa10ValueC": 122244,
-        "ratio": 1.126434027809773
+        "psa10ValueC": 115355,
+        "ratio": 1.0629543967638198
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -79,14 +79,14 @@
           "priceC": 99900,
           "shippingC": 624,
           "landedC": 100524,
-          "url": "https://www.ebay.com/itm/398174171140?_skw=%28shellder%2Cdelta%29+%2863%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=8043378073&itmmeta=01M116YTPM0NNMQHVRAFNA1JH3&hash=item5cb507b004:g:S~8AAeSwW0ZqVnof&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCa%2Fpcd6s7zjfrDCMrJ7twcbISXgWH4PtymCj9FUX0Z0U2g52WjSN1jMMCF55c1tySY6E4dz%2FOC2YM1fNfHfAbDk149s8XFTsu3p1OHB3mFoJGY3RYvRVc%2ByvxiVxCDbL%2BzdGo%2BPc4JMaBmKy6wNw3QEzL6DT26QUYqdsIhm4HRecHMXu2eoELlI%2Bq9Mf9wbKZkDgWv4YdggXfaLPAb2%2FQolE2bLGy%2F4W4taQu1rlvR7W0Bn6qSfczPxYgY4%2Fl5sebkqofevFRUPV2rlpUAV5aBf2Q3leBgBPLcy2LGdlsauw%3D%3D%7Ctkp%3ABk9SR9Sr-6aIaA",
+          "url": "https://www.ebay.com/itm/398174171140?_skw=%28shellder%2Cdelta%29+%2863%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=8043378073&itmmeta=01M13S8YR20XTJQ5KPY0KE64TM&hash=item5cb507b004:g:S~8AAeSwW0ZqVnof&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDiVqY8XbZIx%2BvizG1%2B3THxCDQbOiMRL6U91SjBgc7iHScd8KwBPYPcdowokeUYrvcUOFTVH5Uckf04KU1GWpROolERZBXyYqtjTCscWaOIC55l7kP1JWTLornxR1O%2F9QxY4%2BxNtyIuDq5bQqj3ABNd%2BAhsxyJJ0fO9lEc6pRveUOrsaRWHv8CGLGbi53%2FdKWoJAS3IVBkvzErMsedNds9%2B5CDmOZZXQWmd7QRudFE6Rx3HsYDYXliOq76KiNonEKgTag6B21BMBirXafyz0jxcvUfqVyB5osNoFVoVV7syxzRcBxu2nHCnLC2LZpQrjN1Odnsyw4VFNKqxiTs%2FYY10%7Ctkp%3ABk9SR67so_mIaA",
           "imageUrl": "https://i.ebayimg.com/images/g/S~8AAeSwW0ZqVnof/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787218759794,
-          "lastSeen": 1787821067310
+          "lastSeen": 1787907342276
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -102,28 +102,28 @@
           "cgc10CostC": 100524,
           "submissionFeeC": 7999,
           "totalCostC": 108523,
-          "psa10ValueC": 122244,
-          "ratio": 1.126434027809773
+          "psa10ValueC": 115355,
+          "ratio": 1.0629543967638198
         },
         "firstOpportunityAt": 1787218759794
       },
       "firstOpportunityAt": 1787218759794,
-      "updatedAt": 1787821067310
+      "updatedAt": 1787907342276
     },
     "prices": {
       "variantId": 5808,
-      "ungradedC": 1088,
+      "ungradedC": 1087,
       "grade9C": 9900,
       "grade95C": 10900,
-      "cgc10C": 73300,
-      "cgc10PristineC": 131900,
-      "psa10C": 122244,
+      "cgc10C": 69200,
+      "cgc10PristineC": 124600,
+      "psa10C": 115355,
       "psa9Pop": 60,
       "psa10Pop": 12,
       "cgc10Pop": 37,
-      "bgs10C": 158900,
+      "bgs10C": 150000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787733741077
+      "fetchedAt": 1787907081774
     },
     "listings": [
       {
@@ -192,14 +192,14 @@
         "priceC": 99900,
         "shippingC": 624,
         "landedC": 100524,
-        "url": "https://www.ebay.com/itm/398174171140?_skw=%28shellder%2Cdelta%29+%2863%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=8043378073&itmmeta=01M116YTPM0NNMQHVRAFNA1JH3&hash=item5cb507b004:g:S~8AAeSwW0ZqVnof&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCa%2Fpcd6s7zjfrDCMrJ7twcbISXgWH4PtymCj9FUX0Z0U2g52WjSN1jMMCF55c1tySY6E4dz%2FOC2YM1fNfHfAbDk149s8XFTsu3p1OHB3mFoJGY3RYvRVc%2ByvxiVxCDbL%2BzdGo%2BPc4JMaBmKy6wNw3QEzL6DT26QUYqdsIhm4HRecHMXu2eoELlI%2Bq9Mf9wbKZkDgWv4YdggXfaLPAb2%2FQolE2bLGy%2F4W4taQu1rlvR7W0Bn6qSfczPxYgY4%2Fl5sebkqofevFRUPV2rlpUAV5aBf2Q3leBgBPLcy2LGdlsauw%3D%3D%7Ctkp%3ABk9SR9Sr-6aIaA",
+        "url": "https://www.ebay.com/itm/398174171140?_skw=%28shellder%2Cdelta%29+%2863%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=8043378073&itmmeta=01M13S8YR20XTJQ5KPY0KE64TM&hash=item5cb507b004:g:S~8AAeSwW0ZqVnof&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDiVqY8XbZIx%2BvizG1%2B3THxCDQbOiMRL6U91SjBgc7iHScd8KwBPYPcdowokeUYrvcUOFTVH5Uckf04KU1GWpROolERZBXyYqtjTCscWaOIC55l7kP1JWTLornxR1O%2F9QxY4%2BxNtyIuDq5bQqj3ABNd%2BAhsxyJJ0fO9lEc6pRveUOrsaRWHv8CGLGbi53%2FdKWoJAS3IVBkvzErMsedNds9%2B5CDmOZZXQWmd7QRudFE6Rx3HsYDYXliOq76KiNonEKgTag6B21BMBirXafyz0jxcvUfqVyB5osNoFVoVV7syxzRcBxu2nHCnLC2LZpQrjN1Odnsyw4VFNKqxiTs%2FYY10%7Ctkp%3ABk9SR67so_mIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/S~8AAeSwW0ZqVnof/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787218759794,
-        "lastSeen": 1787821067310
+        "lastSeen": 1787907342276
       }
     ],
     "marketHistory": {
@@ -435,6 +435,19 @@
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7278079,
+          "saleDate": "2026-07-16",
+          "priceC": 3000,
+          "title": "Pokémon Shellder (Delta Species) EX Dragon Frontiers 63/101 Reverse Holo PSA 6 63/101",
+          "url": "https://www.ebay.com/itm/365138158721?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 6,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1750,19 +1763,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 1484547,
-          "saleDate": "2023-08-13",
-          "priceC": 1694,
-          "title": "Pokemon - Shellder 63/101 REVERSE HOLO - 2006 EX Dragon Frontiers PSA 9 MINT",
-          "url": "https://www.ebay.com/itm/235116679310?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1802,9 +1802,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 130,
+      "englishSaleCount": 131,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787733739248
+      "lastCapturedAt": 1787907080172
     }
   }
 }

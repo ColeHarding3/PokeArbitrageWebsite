@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 2786,
@@ -30,7 +30,7 @@
         "psa10Pop": 148,
         "cgc10Pop": 42,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787730958610
+        "fetchedAt": 1787904258164
       },
       "bestCgc10": {
         "itemId": "327299863771",
@@ -47,15 +47,43 @@
         "firstSeen": 1787055777278,
         "lastSeen": 1787738656916
       },
-      "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa10": {
+        "itemId": "137641047104",
+        "title": "2003 Pokemon ALAKAZAM #H1/H32 Skyridge Holo Rare Foil Vintage English PSA 10Opens in a new window or tab",
+        "priceC": 1250000,
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/137641047104?_skw=%28alakazam%29+%282%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043379017&itmmeta=01M13Y7FHDBPQM8TBKWKC558SP&hash=item200c0bb440:g:WtoAAeSw5B5qhjfj&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA3L%2F3TYiTCUNlWhDrGD0BosVTBzYdn%2BndX4PKvvj8vyYRs265gNwxHHhAA1wJJPckgvL2YjRH0aZh%2FTdtIiON%2BOC8izKT6ZsepPFCuf52knQj3fEdA47%2BuyQCGcomC7l1C8PdrIZe%2ByZaZqIcHrQF1mjYEnOvD5a9nrur43%2BgbkpyFS%2FOxsiXTVm4Ku5c9g2WlrsPOmtbUpfZ3eOkii9DUREfbOE3RMwXlCbduzUSKjaFeaM6oEuzj9mDHpfR7engP6sOuQw7SZH5Xb0ddaT0A%7Ctkp%3ABk9SR-b4nf6IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/WtoAAeSw5B5qhjfj/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787212943224,
+        "lastSeen": 1787912759000
+      },
+      "bestPsa9": {
+        "itemId": "287491018723",
+        "title": "Pokemon Alakazam Holo Skyridge H1/144 PSA 9 MintOpens in a new window or tab",
+        "priceC": 399999,
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/287491018723?_skw=%28alakazam%29+%282%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043379017&itmmeta=01M13Y7FHCXDE4CSNPSM2E8XQJ&hash=item42efcccfe3:g:gAAAAeSwRo9qaf27&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCOVJWL4P%2F5WRtyBiHauKMBpH1A%2BONRtIID7CbEwPa4%2FiTX5ires9Kp1cSZAsueBPeN41iJyuX3VQMBx5sIn5kwtc4hoMzx9bKxwYQFh2TIkB0dzWOAL0rKiD4CmOXeSJOXovFcl7weQSGg4BVyZuQCdqfrfmmrbbWwmTexv%2FcA%2FK5tIzbaEXl8KpYyZMypLKG9aiVsNKgJ95JoE26%2Bh7I1Kbu0%2FXnH60A6QffofEVyzTkbyX%2FHGlpP7pfgs1yhi%2FaOpGgYM8G%2B4ZAYb2LA2icYsIMq1QbpNQwstXQk5sEExKZiBL19w7UmCA2zX5Vr7d8%3D%7Ctkp%3ABk9SR-b4nf6IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/gAAAAeSwRo9qaf27/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787055777278,
+        "lastSeen": 1787912759000
+      },
       "counts": {
-        "cgc10Bin": 1,
+        "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 1,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 2
       },
       "ratio": {
         "ok": true,
@@ -88,7 +116,7 @@
           "firstSeen": 1787055777278,
           "lastSeen": 1787738656916
         },
-        "cgc10Bin": 1,
+        "cgc10Bin": 2,
         "cgc10Auction": 0,
         "ratio": {
           "ok": true,
@@ -108,7 +136,7 @@
         "firstOpportunityAt": 1787055777278
       },
       "firstOpportunityAt": 1787055777278,
-      "updatedAt": 1787738656916
+      "updatedAt": 1787912759000
     },
     "prices": {
       "variantId": 2786,
@@ -123,23 +151,23 @@
       "cgc10Pop": 42,
       "bgs10C": 44200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787730958610
+      "fetchedAt": 1787904258164
     },
     "listings": [
       {
         "itemId": "127962330538",
         "title": "Alakazam Skyridge 2/144 CGC Pristine 10Opens in a new window or tab",
         "priceC": 100000,
-        "shippingC": 0,
-        "landedC": 100000,
-        "url": "https://www.ebay.com/itm/127962330538?_skw=%28alakazam%29+%282%2Cskyridge%29+%28CGC%2CPSA%29&epid=24043367235&itmmeta=01M113WCMETZBQV7R4YKN31H5Y&hash=item1dcb2635aa:g:HE4AAeSwHPlqTSjD&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA1HMbj2yYmMrL8DpM2J8Enz81bivUKLDlCawp9D6ZytBGtzPVwZRzgODqUKLr62t4Qb6WUWOTLh10USetGantjsx0KDweyG6CZtI2oEHbCmj2Ilxvdn0xBrQyYwbF%2FqvuzJxCCWt6%2FN5MyzPyrC%2B6cMPUBc19jbMdIXmBu7MjH20lxrM3TTj3s8OMEFrK%2FnBRLE3Vg%2FqEcCuxJFX8pYpTuqXJZjJE4Q4QTEkIcB7i669x0G%2B5UscWda3vQr5AiRgqqjAwUCt661cvBBFCCgs52zUqApPpyjYySKx0eZNqf4LbI%2BNAY3ZXaRh3DxSXhqiw%3D%7Ctkp%3ABk9SR7zK8aOIaA",
+        "shippingC": 5829,
+        "landedC": 105829,
+        "url": "https://www.ebay.com/itm/127962330538?_skw=%28alakazam%29+%282%2Cskyridge%29+%28CGC%2CPSA%29&epid=24043367235&itmmeta=01M13Y78427MRDFRFZDQMRRKQ1&hash=item1dcb2635aa:g:HE4AAeSwHPlqTSjD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA5673faDIE4ejCfk7vjjfRKR6t7H5SKZANwaPTguRETgLJwcHMIoBU%2B9xVS4NSM5%2FnPDEuBlV43LbnUv0FHq6JSeLuuuikUX%2BZVAlYlRT0BIY5oWUknx4qHxjzqqQfr2GulnvCXvvz%2FedhNXZvarQ9SPOKqUmbtVEh3usXfE3PdvuAPwhX2SVrogdpQB8%2BYgXjQlzJPeOGHSz%2FetM9BZWonTmAOcxX9jXF0fz5wUIRLp9VJO5pCsI4zs9MNVG9cB2vcXmzjY8OVcw%2BG8SsYkKS%7Ctkp%3ABk9SR5iCnf6IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HE4AAeSwHPlqTSjD/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787055777278,
-        "lastSeen": 1787817775198
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "327299863771",
@@ -170,6 +198,66 @@
         "freshness": "stale",
         "firstSeen": 1787055777278,
         "lastSeen": 1787480423442
+      },
+      {
+        "itemId": "327299863689",
+        "title": "CGC 10 GEM MINT Alakazam H1/H32 Skyridge Holo Pokemon CardOpens in a new window or tab",
+        "priceC": 325000,
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/327299863689?_skw=%28alakazam%29+%282%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043379017&itmmeta=01M13Y7FHCJ48FEDF8YDFV90RT&hash=item4c34979489:g:GqYAAeSwcShqdk8T&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBQ6JD67Hlx7sS2vOrT8wb4%2F1w1DmwtNpNGrNugV7SeIeWBfujaFzGm%2BYqZfeGK3U9LI90r9olJqbt2PMFiqUvvDVYpXIcFufyfxAwT%2F8PJa2rRcGA98WB83TKMncCYIR2VnB8hAvUKNVERcvSgYsa656xEimNiLlWeibbLRcwfe7OKl9gecW3BtbHDfFa7qFNAjlhrmuEkx8Zc5DJaDqfSvn2b%2BH2zS8115uUcLbrf6b%2BFJ62HRVT3vc%2BcwHi02i7aTd1XTW7fVOO6vsdlZYs2a%2Fbv9WnqujJbOr3jKJEcDPJ2uT6KcSh7mYVKhQPCHD4%3D%7Ctkp%3ABk9SR-b4nf6IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/GqYAAeSwcShqdk8T/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787055777278,
+        "lastSeen": 1787912759000
+      },
+      {
+        "itemId": "287491018723",
+        "title": "Pokemon Alakazam Holo Skyridge H1/144 PSA 9 MintOpens in a new window or tab",
+        "priceC": 399999,
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/287491018723?_skw=%28alakazam%29+%282%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043379017&itmmeta=01M13Y7FHCXDE4CSNPSM2E8XQJ&hash=item42efcccfe3:g:gAAAAeSwRo9qaf27&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCOVJWL4P%2F5WRtyBiHauKMBpH1A%2BONRtIID7CbEwPa4%2FiTX5ires9Kp1cSZAsueBPeN41iJyuX3VQMBx5sIn5kwtc4hoMzx9bKxwYQFh2TIkB0dzWOAL0rKiD4CmOXeSJOXovFcl7weQSGg4BVyZuQCdqfrfmmrbbWwmTexv%2FcA%2FK5tIzbaEXl8KpYyZMypLKG9aiVsNKgJ95JoE26%2Bh7I1Kbu0%2FXnH60A6QffofEVyzTkbyX%2FHGlpP7pfgs1yhi%2FaOpGgYM8G%2B4ZAYb2LA2icYsIMq1QbpNQwstXQk5sEExKZiBL19w7UmCA2zX5Vr7d8%3D%7Ctkp%3ABk9SR-b4nf6IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/gAAAAeSwRo9qaf27/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787055777278,
+        "lastSeen": 1787912759000
+      },
+      {
+        "itemId": "318420883322",
+        "title": "2003 Pokémon Skyridge Alakazam-Holo #H1 PSA 9 MINTOpens in a new window or tab",
+        "priceC": 400000,
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/318420883322?_skw=%28alakazam%29+%282%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043379017&itmmeta=01M13Y7FHCP92406N0H6860CCZ&hash=item4a235d177a:g:BHwAAeSwJnBqJR0Y&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDho6KNSEoUN76TulcBCEVxbZLEoOuqiNEL7NuZYx7nhqsZwheAenggTV83nrM%2BEhCbJLDLEsYpEG8cSq0kG8LHv3dDSuN7iWPAV7c6kEtl4aO9soyY1lF2ATBx1N5JuYXtgNFYkHr1wWQ%2Fr3EFJKLl31XSSVfqdWBz0ZEefesXVdXF9kguTWqgAj1qrz8w65e2j1J%2FlFaDUgddo5bD%2BT62dfd%2Fmx98n9ruYVDSkj2STtQBt5AB%2FzoR4uyEOymOwb9esJmWevlkbBqLkikIVJIW%7Ctkp%3ABk9SR-b4nf6IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/BHwAAeSwJnBqJR0Y/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787055777278,
+        "lastSeen": 1787912759000
+      },
+      {
+        "itemId": "137641047104",
+        "title": "2003 Pokemon ALAKAZAM #H1/H32 Skyridge Holo Rare Foil Vintage English PSA 10Opens in a new window or tab",
+        "priceC": 1250000,
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/137641047104?_skw=%28alakazam%29+%282%2Cskyridge%29+%28CGC%2CPSA%29&epid=7043379017&itmmeta=01M13Y7FHDBPQM8TBKWKC558SP&hash=item200c0bb440:g:WtoAAeSw5B5qhjfj&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA3L%2F3TYiTCUNlWhDrGD0BosVTBzYdn%2BndX4PKvvj8vyYRs265gNwxHHhAA1wJJPckgvL2YjRH0aZh%2FTdtIiON%2BOC8izKT6ZsepPFCuf52knQj3fEdA47%2BuyQCGcomC7l1C8PdrIZe%2ByZaZqIcHrQF1mjYEnOvD5a9nrur43%2BgbkpyFS%2FOxsiXTVm4Ku5c9g2WlrsPOmtbUpfZ3eOkii9DUREfbOE3RMwXlCbduzUSKjaFeaM6oEuzj9mDHpfR7engP6sOuQw7SZH5Xb0ddaT0A%7Ctkp%3ABk9SR-b4nf6IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/WtoAAeSw5B5qhjfj/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787212943224,
+        "lastSeen": 1787912759000
       }
     ],
     "marketHistory": {
@@ -1834,7 +1922,7 @@
       ],
       "englishSaleCount": 157,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787730956547
+      "lastCapturedAt": 1787904255794
     }
   }
 }

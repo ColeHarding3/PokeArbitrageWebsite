@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 10686,
@@ -19,33 +19,33 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/a0e48a43c5573a6735ad40377c4b81d18a3a235a618ab94b1a40bd82cdbffcc5/1600.jpg",
       "popularityScore": 83,
       "market": {
-        "ungradedC": 5628,
-        "grade9C": 19655,
-        "grade95C": 21600,
+        "ungradedC": 5999,
+        "grade9C": 20014,
+        "grade95C": 22000,
         "cgc10C": 14813,
         "cgc10PristineC": 29550,
-        "psa10C": 194569,
-        "bgs10C": 252900,
+        "psa10C": 194393,
+        "bgs10C": 252700,
         "psa9Pop": 113,
         "psa10Pop": 22,
-        "cgc10Pop": 23,
+        "cgc10Pop": 24,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787732664149
+        "fetchedAt": 1787905991282
       },
       "bestCgc10": {
         "itemId": "327315124750",
         "title": "CGC 10 GEM MINT Ampharos 1/115 EX Unseen Forces Holo Swirl Pokemon CardOpens in a new window or tab",
         "priceC": 79900,
-        "shippingC": 4818,
-        "landedC": 84718,
-        "url": "https://www.ebay.com/itm/327315124750?_skw=%28ampharos%29+%281%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=2314420388&itmmeta=01M115JAMDA55AG81ENNXZP8V7&hash=item4c3580720e:g:Rl8AAeSw2Ztqg2yE&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCF%2BNA5%2B5vtc%2B%2Fe7o8eqfWlVfMMjFiWN99aBMPly2N%2BGeeyKprgHWuWQlHZCLBoz0arophTkIbQVNwfl8ou3qZgqHoK2Zv2d%2FU8Ktt%2FL9Cp6uIU4BDp8WHdvKQuB4%2BqPkmfNa5aOzLP6PJwMUq1zLRbsxxNdE40v4vIgWtGP0EnheX3TvXF8bzcBbbtHUhB6Ph7FHVhGebvuG438t9nyo%2B%2FC1MW72aLcnzZtW%2FvocFdVgIpn%2BsLas1gDoVulYNuP2hpcIPQGdvhIB2q5sFyDZiJ%7Ctkp%3ABk9SR7CqyaWIaA",
+        "shippingC": 0,
+        "landedC": 79900,
+        "url": "https://www.ebay.com/itm/327315124750?_skw=%28ampharos%29+%281%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=2314420388&itmmeta=01M13YET60P64GAD7RMQSVB4NX&hash=item4c3580720e:g:Rl8AAeSw2Ztqg2yE&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCGTsgZv%2FWEDX%2BETXfjdE8C4%2BnBKqZIlAt%2FoXyVN%2FwGdCdF%2Fy%2FTs2BrODVICqLf3Q4j2BqX%2FYR%2BCHF1wNewIUzDlyvtLSmtUJSl%2Bzjc11V8GKnmSpZ1P6lLVjLvWPRSHAn4m5gQx9Qr%2Bbi5GDoCNf6Q7aHfvy9vNPHnReUqDdRHjGpKZFxIV4byMeI6Gc8%2B08FSJy3ZvsAwMY2%2Fe8AnJozyR1PMkGSmw70d3aB8fRutr%2FVK47KgVLjk7EOJqknRRl%2BhkK%2FIdul%2FjHBR%2Bg0qY9NX8jCOUqWphbcpqWiW9j22BklLb6L%2BKQ4J4xAI78%2B6TtM%3D%7Ctkp%3ABk9SR6iju_6IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Rl8AAeSw2Ztqg2yE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787819570817
+        "lastSeen": 1787912759000
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -66,27 +66,27 @@
           "declaredValueCapC": 250000,
           "turnaroundBizDays": 30
         },
-        "cgc10CostC": 84718,
+        "cgc10CostC": 79900,
         "submissionFeeC": 14900,
-        "totalCostC": 99618,
-        "psa10ValueC": 194569,
-        "ratio": 1.9531510369611917
+        "totalCostC": 94800,
+        "psa10ValueC": 194393,
+        "ratio": 2.0505590717299578
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "327315124750",
           "title": "CGC 10 GEM MINT Ampharos 1/115 EX Unseen Forces Holo Swirl Pokemon CardOpens in a new window or tab",
           "priceC": 79900,
-          "shippingC": 4818,
-          "landedC": 84718,
-          "url": "https://www.ebay.com/itm/327315124750?_skw=%28ampharos%29+%281%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=2314420388&itmmeta=01M115JAMDA55AG81ENNXZP8V7&hash=item4c3580720e:g:Rl8AAeSw2Ztqg2yE&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCF%2BNA5%2B5vtc%2B%2Fe7o8eqfWlVfMMjFiWN99aBMPly2N%2BGeeyKprgHWuWQlHZCLBoz0arophTkIbQVNwfl8ou3qZgqHoK2Zv2d%2FU8Ktt%2FL9Cp6uIU4BDp8WHdvKQuB4%2BqPkmfNa5aOzLP6PJwMUq1zLRbsxxNdE40v4vIgWtGP0EnheX3TvXF8bzcBbbtHUhB6Ph7FHVhGebvuG438t9nyo%2B%2FC1MW72aLcnzZtW%2FvocFdVgIpn%2BsLas1gDoVulYNuP2hpcIPQGdvhIB2q5sFyDZiJ%7Ctkp%3ABk9SR7CqyaWIaA",
+          "shippingC": 0,
+          "landedC": 79900,
+          "url": "https://www.ebay.com/itm/327315124750?_skw=%28ampharos%29+%281%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=2314420388&itmmeta=01M13YET60P64GAD7RMQSVB4NX&hash=item4c3580720e:g:Rl8AAeSw2Ztqg2yE&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCGTsgZv%2FWEDX%2BETXfjdE8C4%2BnBKqZIlAt%2FoXyVN%2FwGdCdF%2Fy%2FTs2BrODVICqLf3Q4j2BqX%2FYR%2BCHF1wNewIUzDlyvtLSmtUJSl%2Bzjc11V8GKnmSpZ1P6lLVjLvWPRSHAn4m5gQx9Qr%2Bbi5GDoCNf6Q7aHfvy9vNPHnReUqDdRHjGpKZFxIV4byMeI6Gc8%2B08FSJy3ZvsAwMY2%2Fe8AnJozyR1PMkGSmw70d3aB8fRutr%2FVK47KgVLjk7EOJqknRRl%2BhkK%2FIdul%2FjHBR%2Bg0qY9NX8jCOUqWphbcpqWiW9j22BklLb6L%2BKQ4J4xAI78%2B6TtM%3D%7Ctkp%3ABk9SR6iju_6IaA",
           "imageUrl": "https://i.ebayimg.com/images/g/Rl8AAeSw2Ztqg2yE/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787215619257,
-          "lastSeen": 1787819570817
+          "lastSeen": 1787912759000
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -99,66 +99,92 @@
             "declaredValueCapC": 250000,
             "turnaroundBizDays": 30
           },
-          "cgc10CostC": 84718,
+          "cgc10CostC": 79900,
           "submissionFeeC": 14900,
-          "totalCostC": 99618,
-          "psa10ValueC": 194569,
-          "ratio": 1.9531510369611917
+          "totalCostC": 94800,
+          "psa10ValueC": 194393,
+          "ratio": 2.0505590717299578
         },
         "firstOpportunityAt": 1787215619257
       },
       "firstOpportunityAt": 1787215619257,
-      "updatedAt": 1787819570817
+      "updatedAt": 1787912759000
     },
     "prices": {
       "variantId": 10686,
-      "ungradedC": 5628,
-      "grade9C": 19655,
-      "grade95C": 21600,
+      "ungradedC": 5999,
+      "grade9C": 20014,
+      "grade95C": 22000,
       "cgc10C": 14813,
       "cgc10PristineC": 29550,
-      "psa10C": 194569,
+      "psa10C": 194393,
       "psa9Pop": 113,
       "psa10Pop": 22,
-      "cgc10Pop": 23,
-      "bgs10C": 252900,
+      "cgc10Pop": 24,
+      "bgs10C": 252700,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787732664149
+      "fetchedAt": 1787905991282
     },
     "listings": [
       {
         "itemId": "287541280121",
         "title": "Pokemon Ampharos Holo Unseen Forces 1/115 PSA 9 MintOpens in a new window or tab",
-        "priceC": 6100,
-        "shippingC": 1805,
-        "landedC": 7905,
-        "url": "https://www.ebay.com/itm/287541280121?_skw=%28ampharos%29+%281%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=2314420388&itmmeta=01M115J69Y6KN78B3BCQEZG3PB&hash=item42f2cbbd79:g:SfEAAeSwYspqiuBz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDOLBAbRzSF1dCcMcf1VZWyOS9Ih16Xo%2BDTLNUUscp2U%2BGULOftHVAlbCIsCKiHkC8kdX1OxkPzUswWk9xyQi9Xy6nj0vfx5tbFDXifG7PYRXWUPW%2Bg8%2F0twpJvacEn5%2BT%2BTPmWbLjKcNJelcWK%2BBsG73uFDvyG8ysU5ZfTJkwzTnO9Hg5rkyifmlxP92epAYpJ1Oc4XfTRiUJo%2FnKI35UgcxjQOKyLZYF6gm1jBbWGjuBwxCqSUxSE2keorNKdi0pJvwxj77fMAu1cieG%2BKLoC%7Ctkp%3ABk9SR5rlyKWIaA",
+        "priceC": 11050,
+        "shippingC": 699,
+        "landedC": 11749,
+        "url": "https://www.ebay.com/itm/287541280121?_skw=%28ampharos%29+%281%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=2314420388&itmmeta=01M13YEJV0YJ11XEC9H5DNAY68&hash=item42f2cbbd79:g:SfEAAeSwYspqiuBz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDOLBAbRzSF1dCcMcf1VZWyOS9Ih16Xo%2BDTLNUUscp2UzVAwGenRcRTmf0Qo6QB5ijD5HT58lBdhQoiF%2B5naKg7uBDy%2BjUHi%2BrMkbAv%2FHh1q3NZ%2F2J5WAfrNekKKJh00qdsfSUA7OTRUP5QSLmMVHlmg7J1rzTLHU%2BNLKmlAW6o0lOnoOIGtMtQ28Z3rvzofeYYBZ0n63HcR1f%2FwRpx1gqsKriUFo7gCbCCa0xaV1frvqKblpPM2P4SbP8FRB8qIKGuFRdbmUuMCqYaBamMp1tG%7Ctkp%3ABk9SR9ytuv6IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/SfEAAeSwYspqiuBz/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787559919428,
-        "lastSeen": 1787819570817
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "327315124750",
         "title": "CGC 10 GEM MINT Ampharos 1/115 EX Unseen Forces Holo Swirl Pokemon CardOpens in a new window or tab",
         "priceC": 79900,
-        "shippingC": 4818,
-        "landedC": 84718,
-        "url": "https://www.ebay.com/itm/327315124750?_skw=%28ampharos%29+%281%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=2314420388&itmmeta=01M115JAMDA55AG81ENNXZP8V7&hash=item4c3580720e:g:Rl8AAeSw2Ztqg2yE&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCF%2BNA5%2B5vtc%2B%2Fe7o8eqfWlVfMMjFiWN99aBMPly2N%2BGeeyKprgHWuWQlHZCLBoz0arophTkIbQVNwfl8ou3qZgqHoK2Zv2d%2FU8Ktt%2FL9Cp6uIU4BDp8WHdvKQuB4%2BqPkmfNa5aOzLP6PJwMUq1zLRbsxxNdE40v4vIgWtGP0EnheX3TvXF8bzcBbbtHUhB6Ph7FHVhGebvuG438t9nyo%2B%2FC1MW72aLcnzZtW%2FvocFdVgIpn%2BsLas1gDoVulYNuP2hpcIPQGdvhIB2q5sFyDZiJ%7Ctkp%3ABk9SR7CqyaWIaA",
+        "shippingC": 0,
+        "landedC": 79900,
+        "url": "https://www.ebay.com/itm/327315124750?_skw=%28ampharos%29+%281%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=2314420388&itmmeta=01M13YET60P64GAD7RMQSVB4NX&hash=item4c3580720e:g:Rl8AAeSw2Ztqg2yE&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCGTsgZv%2FWEDX%2BETXfjdE8C4%2BnBKqZIlAt%2FoXyVN%2FwGdCdF%2Fy%2FTs2BrODVICqLf3Q4j2BqX%2FYR%2BCHF1wNewIUzDlyvtLSmtUJSl%2Bzjc11V8GKnmSpZ1P6lLVjLvWPRSHAn4m5gQx9Qr%2Bbi5GDoCNf6Q7aHfvy9vNPHnReUqDdRHjGpKZFxIV4byMeI6Gc8%2B08FSJy3ZvsAwMY2%2Fe8AnJozyR1PMkGSmw70d3aB8fRutr%2FVK47KgVLjk7EOJqknRRl%2BhkK%2FIdul%2FjHBR%2Bg0qY9NX8jCOUqWphbcpqWiW9j22BklLb6L%2BKQ4J4xAI78%2B6TtM%3D%7Ctkp%3ABk9SR6iju_6IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Rl8AAeSw2Ztqg2yE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787215619257,
-        "lastSeen": 1787819570817
+        "lastSeen": 1787912759000
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 7165904,
+          "saleDate": "2026-08-27",
+          "priceC": 7300,
+          "title": "2005 Pokemon Ex Unseen Forces #1 Ampharos - Holo PSA 7 NM",
+          "url": "https://www.ebay.com/itm/366616445066?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 7,
+          "gradingDesignation": "nm-mt",
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7165775,
+          "saleDate": "2026-08-24",
+          "priceC": 7499,
+          "title": "LP Pokemon AMPHAROS Card EX UNSEEN FORCES Set #1/115 Holo Foil Rare SWIRL#1 1/115",
+          "url": "https://www.ebay.com/itm/117325810674?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 2530854,
           "saleDate": "2026-08-21",
@@ -1692,32 +1718,6 @@
           "gradingGrade": 8.5,
           "gradingDesignation": null,
           "agreementStatus": "mismatch"
-        },
-        {
-          "id": 1372420,
-          "saleDate": "2024-09-02",
-          "priceC": 5885,
-          "title": "PSA 9 MINT Ampharos Ex Unseen Forces 1/115 Holo Rare Graded Pokemon Card 1/115",
-          "url": "https://www.ebay.com/itm/266965592628?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1372421,
-          "saleDate": "2024-08-14",
-          "priceC": 5499,
-          "title": "PSA 9 MINT Ampharos Ex Unseen Forces 1/115 Holo Rare Graded Pokemon Card 1/115",
-          "url": "https://www.ebay.com/itm/326181252130?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1782,9 +1782,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 150,
+      "englishSaleCount": 152,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787732662304
+      "lastCapturedAt": 1787905989616
     }
   }
 }

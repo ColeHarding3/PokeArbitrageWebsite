@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 515,
@@ -19,57 +19,43 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/bz35k24srfg6jbvn/1600.jpg",
       "popularityScore": 91,
       "market": {
-        "ungradedC": 9900,
-        "grade9C": 60113,
-        "grade95C": 66100,
-        "cgc10C": 119489,
+        "ungradedC": 9733,
+        "grade9C": 60173,
+        "grade95C": 66200,
+        "cgc10C": 119457,
         "cgc10PristineC": 455000,
-        "psa10C": 449739,
-        "bgs10C": 584700,
+        "psa10C": 439872,
+        "bgs10C": 571800,
         "psa9Pop": 1165,
         "psa10Pop": 51,
         "cgc10Pop": 79,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per day\",\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-        "fetchedAt": 1787814689031
+        "fetchedAt": 1787901505197
       },
       "bestCgc10": {
         "itemId": "366561375687",
         "title": "Pokémon TCG 1999 Gengar Fossil 5/62 Holo Rare Unlimited CGC 9.5 GradedOpens in a new window or tab",
         "priceC": 60000,
-        "shippingC": 540,
-        "landedC": 60540,
-        "url": "https://www.ebay.com/itm/366561375687?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=16043369905&itmmeta=01M11119JJKZ0DK8EDJ40E94NP&hash=item5558c2b5c7:g:bD4AAeSwms5qYnq8&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDzShyJ5qlIqytgC0mv1%2FE3s4zvShaXzLQluw76UBtRuXkL72C%2Brr3EKr3hqz9lLVcLGRb%2FZggAkUb1OMjq8y4NiVmM3nBPEFJkWtcZ2wfX3VXkHw6Qds9w9Mj3bazN%2BjKHKgmIp1KvZzlk5aJqMzApTJ9jksbYFJMtDQ36QtUwEXeEMQdBCCFqmcXnp04nBMhINMFf0x53g9tjdHYJipt6QbiewyA1cuk12PjT5vpEJ2%2FweAl--Zl1vrTFvQrmDV13raXAbSpzGPLcJC7cA5L9ryVdiEnWZcng7h93OCaQHY9Xukty1pzz9Azt1KVgbF4%3D%7Ctkp%3ABk9SR8yZhaGIaA",
+        "shippingC": 769,
+        "landedC": 60769,
+        "url": "https://www.ebay.com/itm/366561375687?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=16043369905&itmmeta=01M13KWMSMKFYEWYK2C9C3N988&hash=item5558c2b5c7:g:bD4AAeSwms5qYnq8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCWQA4%2BszmtABf5M2cnPPu052LUaTy60sPj5zAhyYiFPP69fp4FOXh3cIKXxy21UiWKTeksENC%2B8v9SFyefsR8HYTS0NWFiZrWpY83sJXvTPgePzDPUXM4rw1I7LVWvyv%2Bft8A9Juri6C9iuvUUREl%2FBspZFRtwMzKWIzaP4sfJLIbvpi60sY2qITMpifd6AizMQ037J5MuuC5tNPRwJmiXWOi%2FsdJEUptG8c0oLUg9gsYznztJASyvJ%2BnrPuqImZ9JZre%2FzUkaLx%2BediDynBfa%7Ctkp%3ABk9SR6zN8vOIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/bD4AAeSwms5qYnq8/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094434764,
-        "lastSeen": 1787814891499
+        "lastSeen": 1787901772844
       },
       "bestPsa10": null,
-      "bestPsa9": {
-        "itemId": "336757989114",
-        "title": "1999 Gengar 5/62 Fossil Holo PSA 9 VintageOpens in a new window or tab",
-        "priceC": 82000,
-        "shippingC": 548,
-        "landedC": 82548,
-        "url": "https://www.ebay.com/itm/336757989114?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=16043369905&itmmeta=01M11119JM2WBTAQD72EJ7QRDT&hash=item4e68571efa:g:q1AAAeSwoxhqi5pR&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCQBHN0Ve7SQH9gBWxeg7D2r%2FDDhX0ZhUBZmlDW0kS34uNP6W3FF9zEnQQin94bArxAAYGm5q7yDilgu2PhZpbzTlpPXfzzZKzfnbRTQLXPJt1%2FqSSGlky%2BOyha407SRGSRhuMTWIRX3pKbqkqMwrq1PQVpTmn8Z0wAl2ZIdgSa18NHQlkREWxrw0jJbiNDuI1xsEMy6DggsNNP5qeAtydu2Hb0wlFzGlZu5pXk8zY42FnuR%2BrYC85x8AxY03ipuyNHP6G0VDP99tkCLBlNG3fx%7Ctkp%3ABk9SR9CZhaGIaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/q1AAAeSwoxhqi5pR/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787555685458,
-        "lastSeen": 1787814891499
-      },
+      "bestPsa9": null,
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 2
+        "psa9Bin": 0
       },
       "ratio": {
         "ok": true,
@@ -80,11 +66,11 @@
           "declaredValueCapC": 500000,
           "turnaroundBizDays": 15
         },
-        "cgc10CostC": 60540,
+        "cgc10CostC": 60769,
         "submissionFeeC": 34900,
-        "totalCostC": 95440,
-        "psa10ValueC": 449739,
-        "ratio": 4.71226948868399
+        "totalCostC": 95669,
+        "psa10ValueC": 439872,
+        "ratio": 4.597853014037985
       },
       "withoutLegacyCgc95": {
         "bestCgc10": null,
@@ -94,87 +80,109 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787094434764,
-      "updatedAt": 1787814891499
+      "updatedAt": 1787901772844
     },
     "prices": {
       "variantId": 515,
-      "ungradedC": 9900,
-      "grade9C": 60113,
-      "grade95C": 66100,
-      "cgc10C": 119489,
+      "ungradedC": 9733,
+      "grade9C": 60173,
+      "grade95C": 66200,
+      "cgc10C": 119457,
       "cgc10PristineC": 455000,
-      "psa10C": 449739,
+      "psa10C": 439872,
       "psa9Pop": 1165,
       "psa10Pop": 51,
       "cgc10Pop": 79,
-      "bgs10C": 584700,
+      "bgs10C": 571800,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per day\",\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-      "fetchedAt": 1787814689031
+      "fetchedAt": 1787901505197
     },
     "listings": [
       {
-        "itemId": "800568052605",
-        "title": "2006 POKEMON EX GENGAR-REV.FOIL LEGEND MAKER #5 PSA 9Opens in a new window or tab",
-        "priceC": 550,
-        "shippingC": 795,
-        "landedC": 1345,
-        "url": "https://www.ebay.com/itm/800568052605?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=11043365288&itmmeta=01M1110TW0X99TAPNW95KABX6C&hash=itemba65930b7d:g:vVAAAeSwZsBqjeAI&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCDBOFLD%2B1q6aEBTxGyedgy%2FOe20bRUXoHOnEE6ePQj%2FaPZiezX%2BgNBwcd2IajxkrGlNxKzsMCJUTEhCOaha4RDVyyIH1rQVspXhwZ5hjHyJ958gICi9vDUuyL5h3i12WdzCnOgdc39WvjH%2F0LtIUjOxMgc%2B61k87gx%2BYgnC6ovVvlaUhse7Pldfv9mN8Qsl2kWOs1wrV856BVIB%2B7NAjtPkM5Is4xhMTvxZrorjdvpwwVxmH%2B9PSvofdOUeDtw3%2Bw6Cx8lHyDOkWAjdNTkpFCp%7Ctkp%3ABk9SR7yug6GIaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/vVAAAeSwZsBqjeAI/s-l500.webp",
+        "itemId": "278317134117",
+        "title": "GENGAR 1999 POKEMON FOSSIL 5/62 RARE HOLO PSA 9 Q5677Opens in a new window or tab",
+        "priceC": 100,
+        "shippingC": 600,
+        "landedC": 700,
+        "url": "https://www.ebay.com/itm/278317134117?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=16043369905&itmmeta=01M13KVPX8ZT2VP3HT6V42MC7H&hash=item40ccfe7125:g:6xMAAeSwEphqkFmM&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB63zq%2F1nqrOyDeD0AY9qimz82GRDqSKqP3nCqauLukXFz7F2ZxUoLllU2u6gXsyCX6DTFef6qNgs8pIMeJWwS7Fi6UhQhermzKBcgfgzuDOWdYHFEC6f1VyKrPI6y48S2uqwQNUJcJVxomr5JM5kBD1vRbrFgE%2FN91iFXgklcegECfunZXDOXsceqWEWayaf3Bk1xupYEnRv1Gcmi7aF9C%2F6ydXJH9aqmBuqTm1CZtaITiGNmFznd4g%2Fgv7%2FkyaLwejLY3xGAZpS9df4XwDo1DK75%2BG9ziawdzbWcNHeWpm%2B0NccaZ43l9T0Wu2nh5J9A%3D%7Ctkp%3ABk9SR_bu7vOIaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/6xMAAeSwEphqkFmM/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
-        "firstSeen": 1787814891499,
-        "lastSeen": 1787814891499
+        "firstSeen": 1787901772844,
+        "lastSeen": 1787901772844
       },
       {
         "itemId": "366561375687",
         "title": "Pokémon TCG 1999 Gengar Fossil 5/62 Holo Rare Unlimited CGC 9.5 GradedOpens in a new window or tab",
         "priceC": 60000,
-        "shippingC": 540,
-        "landedC": 60540,
-        "url": "https://www.ebay.com/itm/366561375687?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=16043369905&itmmeta=01M11119JJKZ0DK8EDJ40E94NP&hash=item5558c2b5c7:g:bD4AAeSwms5qYnq8&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDzShyJ5qlIqytgC0mv1%2FE3s4zvShaXzLQluw76UBtRuXkL72C%2Brr3EKr3hqz9lLVcLGRb%2FZggAkUb1OMjq8y4NiVmM3nBPEFJkWtcZ2wfX3VXkHw6Qds9w9Mj3bazN%2BjKHKgmIp1KvZzlk5aJqMzApTJ9jksbYFJMtDQ36QtUwEXeEMQdBCCFqmcXnp04nBMhINMFf0x53g9tjdHYJipt6QbiewyA1cuk12PjT5vpEJ2%2FweAl--Zl1vrTFvQrmDV13raXAbSpzGPLcJC7cA5L9ryVdiEnWZcng7h93OCaQHY9Xukty1pzz9Azt1KVgbF4%3D%7Ctkp%3ABk9SR8yZhaGIaA",
+        "shippingC": 769,
+        "landedC": 60769,
+        "url": "https://www.ebay.com/itm/366561375687?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=16043369905&itmmeta=01M13KWMSMKFYEWYK2C9C3N988&hash=item5558c2b5c7:g:bD4AAeSwms5qYnq8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCWQA4%2BszmtABf5M2cnPPu052LUaTy60sPj5zAhyYiFPP69fp4FOXh3cIKXxy21UiWKTeksENC%2B8v9SFyefsR8HYTS0NWFiZrWpY83sJXvTPgePzDPUXM4rw1I7LVWvyv%2Bft8A9Juri6C9iuvUUREl%2FBspZFRtwMzKWIzaP4sfJLIbvpi60sY2qITMpifd6AizMQ037J5MuuC5tNPRwJmiXWOi%2FsdJEUptG8c0oLUg9gsYznztJASyvJ%2BnrPuqImZ9JZre%2FzUkaLx%2BediDynBfa%7Ctkp%3ABk9SR6zN8vOIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/bD4AAeSwms5qYnq8/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094434764,
-        "lastSeen": 1787814891499
-      },
-      {
-        "itemId": "336757989114",
-        "title": "1999 Gengar 5/62 Fossil Holo PSA 9 VintageOpens in a new window or tab",
-        "priceC": 82000,
-        "shippingC": 548,
-        "landedC": 82548,
-        "url": "https://www.ebay.com/itm/336757989114?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=16043369905&itmmeta=01M11119JM2WBTAQD72EJ7QRDT&hash=item4e68571efa:g:q1AAAeSwoxhqi5pR&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCQBHN0Ve7SQH9gBWxeg7D2r%2FDDhX0ZhUBZmlDW0kS34uNP6W3FF9zEnQQin94bArxAAYGm5q7yDilgu2PhZpbzTlpPXfzzZKzfnbRTQLXPJt1%2FqSSGlky%2BOyha407SRGSRhuMTWIRX3pKbqkqMwrq1PQVpTmn8Z0wAl2ZIdgSa18NHQlkREWxrw0jJbiNDuI1xsEMy6DggsNNP5qeAtydu2Hb0wlFzGlZu5pXk8zY42FnuR%2BrYC85x8AxY03ipuyNHP6G0VDP99tkCLBlNG3fx%7Ctkp%3ABk9SR9CZhaGIaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/q1AAAeSwoxhqi5pR/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787555685458,
-        "lastSeen": 1787814891499
-      },
-      {
-        "itemId": "366366067536",
-        "title": "Pokemon Gengar EX Legend Maker Holo Rare #5 PSA 9 MintOpens in a new window or tab",
-        "priceC": 95000,
-        "shippingC": 0,
-        "landedC": 95000,
-        "url": "https://www.ebay.com/itm/366366067536?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=17043372098&itmmeta=01M11119JN5Y2JQ5G5HH4KRJXB&hash=item554d1e8b50:g:faEAAeSwETJp6tll&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDZJ7b00aaUpO%2F4%2BI9yLlB00ASKxt0yFw3m2q1tgihyNMjkSFViGV5uKqhtyjP%2F8QVuYIQPLrBadX1si%2Bmp4bTVW0c5eVgn6O4VBQ8DuSIwNghHBD%2FgUeyXPEPo9ZmdnxERfOCUZdqSoATaBFFdt1B4mNDj92sAV54EMyHE4rRMp6V0cvSn4BvHQX1jIgQhNcBgGjwa2iR%2FapMdhyKZIIDczUYlde7Nmk%2BvJim%2BiQVHgL1hXMyubyMsJ3JgQNmvFCfK1qBRtuS9OT%2F020n7p96yXu9N0foDX%2FXJvkKOrv%2BxbvE8%2BHsK72ghAdwJA5rhe7s%3D%7Ctkp%3ABk9SR9KZhaGIaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/faEAAeSwETJp6tll/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787040561909,
-        "lastSeen": 1787814891499
+        "lastSeen": 1787901772844
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 6649518,
+          "saleDate": "2026-08-28",
+          "priceC": 9100,
+          "title": "1999 Pokemon Fossil Gengar Rare Holo #5/62 CGC 5.5",
+          "url": "https://www.ebay.com/itm/128039457190?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 5.5,
+          "gradingDesignation": null,
+          "agreementStatus": "mismatch"
+        },
+        {
+          "id": 6649273,
+          "saleDate": "2026-08-28",
+          "priceC": 8300,
+          "title": "1999 Pokemon Fossil Gengar Holo #5/62",
+          "url": "https://www.ebay.com/itm/128039175504?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 6649458,
+          "saleDate": "2026-08-27",
+          "priceC": 19050,
+          "title": "1999 Pokemon Fossil Unlimited Gengar HOLO Rare WOTC 5/62 BGS 7.5 NM 5/62",
+          "url": "https://www.ebay.com/itm/227484506278?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "BGS",
+          "gradingGrade": 7.5,
+          "gradingDesignation": "nm-mt",
+          "agreementStatus": "mismatch"
+        },
+        {
+          "id": 6649428,
+          "saleDate": "2026-08-27",
+          "priceC": 34660,
+          "title": "1999 Pokémon TCG Fossil Gengar 5/62 Holo Rare Unlimited PSA 8",
+          "url": "https://www.ebay.com/itm/318758944809?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 6471430,
           "saleDate": "2026-08-27",
@@ -1682,58 +1690,6 @@
           "gradingGrade": 5,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 104693,
-          "saleDate": "2026-08-03",
-          "priceC": 35000,
-          "title": "1999 POKEMON FOSSIL #5 GENGAR-HOLO PSA 8",
-          "url": "https://www.ebay.com/itm/227455256453?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 104692,
-          "saleDate": "2026-08-03",
-          "priceC": 31900,
-          "title": "1999 Pokemon Fossil #5/62 Gengar Holo Rare PSA 8 NM-MT 5/62",
-          "url": "https://www.ebay.com/itm/137547414141?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 104691,
-          "saleDate": "2026-08-03",
-          "priceC": 29900,
-          "title": "CGC 8.5 NM/MINT+ Gengar 5/62 Fossil Holo Pokemon Card 5/62",
-          "url": "https://www.ebay.com/itm/327245566379?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8.5,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "mismatch"
-        },
-        {
-          "id": 104743,
-          "saleDate": "2026-08-02",
-          "priceC": 17999,
-          "title": "1999 POKEMON FOSSIL #5 GENGAR-HOLO PSA 6 #5",
-          "url": "https://www.ebay.com/itm/257432190467?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 6,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1793,9 +1749,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 414,
+      "englishSaleCount": 418,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787814686269
+      "lastCapturedAt": 1787901502517
     }
   }
 }

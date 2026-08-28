@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 2480,
@@ -20,17 +20,17 @@
       "popularityScore": 88,
       "market": {
         "ungradedC": 22275,
-        "grade9C": 149059,
-        "grade95C": 164000,
+        "grade9C": 142070,
+        "grade95C": 156300,
         "cgc10C": 200100,
         "cgc10PristineC": 360200,
-        "psa10C": 770029,
-        "bgs10C": 1001000,
+        "psa10C": 755093,
+        "bgs10C": 981600,
         "psa9Pop": 258,
         "psa10Pop": 111,
-        "cgc10Pop": 13,
+        "cgc10Pop": 14,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787730723606
+        "fetchedAt": 1787904022769
       },
       "bestCgc10": {
         "itemId": "227491690760",
@@ -38,36 +38,50 @@
         "priceC": 249999,
         "shippingC": 499,
         "landedC": 250498,
-        "url": "https://www.ebay.com/itm/227491690760?_skw=%28zapdos%29+%28h32%2Caquapolis%29+%28CGC%2CPSA%29&epid=13043374561&itmmeta=01M113HGN93QA802DZN20BEXC2&hash=item34f78fb908:g:7rEAAeSwL3VqjkFm&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDQV14EQb7kZsjFme12y56UiPvMMAOnvEmuT6RkUTs8o%2FV%2FrpVMWNJ6coo29aC3FmAxGvc66CyAlE9ZCi9vNmmwpMasRnz3n2EyAOhGbMrMI6vwU3lY6YCyuNiHKSujUcj1rYlC%2FLe3Kt6HOBacF2AmSTqdSzgSYh9M%2BUz%2BpeHX3xZbe%2FaN3PXC6mYaHbI64Q3Y2Lodb%2FHdHySgu1GH%2Fqi0n0z4tyZ6GFiMdoExnJEUJ2GnfSq6MtYKq0LwucztA%2FLPlsZDVh%2BZirjSGqP%2BDV1D%7Ctkp%3ABk9SR4CLxqOIaA",
+        "url": "https://www.ebay.com/itm/227491690760?_skw=%28zapdos%29+%28h32%2Caquapolis%29+%28CGC%2CPSA%29&epid=13043374561&itmmeta=01M13P8F0C324KR3G62Z616PZD&hash=item34f78fb908:g:7rEAAeSwL3VqjkFm&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDQV14EQb7kZsjFme12y56UiPvMMAOnvEmuT6RkUTs8o9g1Mm%2FfUyRiD0hUvbtpe%2FPf9WEccvdLjvHKyQoJva%2BH9pP7Hu3dHXzWIyiwCWeTA8kPh0Vks5XEhq7KAQu9WJbmsnEGNzn4M%2FKSSJTYFWls%2FS1uMV8HTRRLu%2BSKcQnvzUUJ6sAuylm0L0Nm0pnDQBMCDsczLf2%2FIsIUg8yacH1kyFgNauprdL4%2B7TU030AND9yR3yEYsRuMfAdzUGDJIQWiwV6kw0dPvlJX00YUO30S%7Ctkp%3ABk9SR8bwofaIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7rEAAeSwL3VqjkFm/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787730930244,
-        "lastSeen": 1787817572230
+        "lastSeen": 1787904229797
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "267768902176",
+        "title": "Zapdos H32 Holo PSA 10 Aquapolis POP 111Opens in a new window or tab",
+        "priceC": 5000000,
+        "shippingC": 0,
+        "landedC": 5000000,
+        "url": "https://www.ebay.com/itm/267768902176?_skw=%28zapdos%29+%28h32%2Caquapolis%29+%28CGC%2CPSA%29&epid=13043374561&itmmeta=01M13P8F0DV9HDD0SKQ8QJWX4J&hash=item3e58453220:g:ALwAAeSwIf9qkEwS&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBI8eMgcErF4N6fNxb%2BUrxIRDm%2FbU2Mx6TU8cV1JYUTus9YDfgq9lPyc%2Bqb1nl5YJXx6%2F6hbG3CU4JqC%2BOEPGkuMwKsQ8i1fhUb7EhTkBHjtDJai7u2881HEwqEmm4YDVioxqKC5MAJXXMv09YRhO%2BCQKUhf95x8OpYVcisByVho4YL8Tr%2BAnySuuUKDzOzZ1BQq1jfAl16vH%2Ffv3OW2d02DDmca70DlKoZc6%2B%2BqhAToldsDDDIAHW2dwP2uYtk%2BC%2B11o9M8nUQIvvmyAlRMOTCl242C0XXd1tcnOtlH%2BgAWhf6YI9nng7CGyQRteo2MsE%3D%7Ctkp%3ABk9SR8jwofaIaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/ALwAAeSwIf9qkEwS/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787904229797,
+        "lastSeen": 1787904229797
+      },
       "bestPsa9": {
         "itemId": "357225547159",
         "title": "2003 Pokémon Zapdos Aquapolis H32 Holo PSA 9Opens in a new window or tab",
         "priceC": 499999,
         "shippingC": 1499,
         "landedC": 501498,
-        "url": "https://www.ebay.com/itm/357225547159?_skw=%28zapdos%29+%28h32%2Caquapolis%29+%28CGC%2CPSA%29&epid=13043374561&itmmeta=01M113HGN9K673PY66DXZ63MKJ&hash=item532c4d4597:g:Om8AAeSwfT9oZ~w1&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAZ77WWFaeU%2FZAFcdQKu6ATfY5dlroKFv8%2BQuuSKu9XomJHuAsIV0gOJ%2Fc2ZpPcPFzTw6X2XwoYGXvA2FynyZ2St9fFd4rYsncltG5gGUWg%2FHveGtpYbvG2w4SvvNJL%2BoBuusQrKAsLDWPByCxa7xfbzmd9cB0IhRoNENvjAJT9QvO9W32TSq%2FV6vvPWhFpCcRl9ltGZSdjX2JNHygwJPCXMBUAuPePZI3bJYjh9RlVigBJ4WOEs8PxZuJW3JtyVbppIoC0pE2VH4AUGK1HY11l%7Ctkp%3ABk9SR4CLxqOIaA",
+        "url": "https://www.ebay.com/itm/357225547159?_skw=%28zapdos%29+%28h32%2Caquapolis%29+%28CGC%2CPSA%29&epid=13043374561&itmmeta=01M13P8F0CKN6W085RN8N7TYS1&hash=item532c4d4597:g:Om8AAeSwfT9oZ~w1&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC3h517TWvozwgTOiUCc98D3CeGM6LZi5fM%2FfDB4uxdPVzdrDhDgGvmbV3hff%2BPM0j0AGGRe22V%2BMdpF6XjxZ%2BC8b4qSjtKAhtUsGV0DhSH609COu4L3Voj%2FwBNbwA9pTvYmZx4Jv2d4ZlKet1rYdgNrhLNlLhnjTFtpW4W5YYAR05PA6q5HL2D%2BJ2Eb5kkvyZEvCqpdYLgVT28QXmQb9RI8EE%2BEaLzLufeA253OF9OAYwIhlgkU7GbeGt68Ibr27r%2F%2BMT2IGuopwN%2FFTAITymhj5aZdfzVWH4UH54QJTQ8AuhcfsqUFrAsCa3jSqyeO6A%3D%7Ctkp%3ABk9SR8jwofaIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Om8AAeSwfT9oZ~w1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
-        "lastSeen": 1787817572230
+        "lastSeen": 1787904229797
       },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
         "psa9Bin": 1
       },
@@ -83,8 +97,8 @@
         "cgc10CostC": 250498,
         "submissionFeeC": 59900,
         "totalCostC": 310398,
-        "psa10ValueC": 770029,
-        "ratio": 2.4807795153319288
+        "psa10ValueC": 755093,
+        "ratio": 2.432660648586653
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -93,14 +107,14 @@
           "priceC": 249999,
           "shippingC": 499,
           "landedC": 250498,
-          "url": "https://www.ebay.com/itm/227491690760?_skw=%28zapdos%29+%28h32%2Caquapolis%29+%28CGC%2CPSA%29&epid=13043374561&itmmeta=01M113HGN93QA802DZN20BEXC2&hash=item34f78fb908:g:7rEAAeSwL3VqjkFm&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDQV14EQb7kZsjFme12y56UiPvMMAOnvEmuT6RkUTs8o%2FV%2FrpVMWNJ6coo29aC3FmAxGvc66CyAlE9ZCi9vNmmwpMasRnz3n2EyAOhGbMrMI6vwU3lY6YCyuNiHKSujUcj1rYlC%2FLe3Kt6HOBacF2AmSTqdSzgSYh9M%2BUz%2BpeHX3xZbe%2FaN3PXC6mYaHbI64Q3Y2Lodb%2FHdHySgu1GH%2Fqi0n0z4tyZ6GFiMdoExnJEUJ2GnfSq6MtYKq0LwucztA%2FLPlsZDVh%2BZirjSGqP%2BDV1D%7Ctkp%3ABk9SR4CLxqOIaA",
+          "url": "https://www.ebay.com/itm/227491690760?_skw=%28zapdos%29+%28h32%2Caquapolis%29+%28CGC%2CPSA%29&epid=13043374561&itmmeta=01M13P8F0C324KR3G62Z616PZD&hash=item34f78fb908:g:7rEAAeSwL3VqjkFm&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDQV14EQb7kZsjFme12y56UiPvMMAOnvEmuT6RkUTs8o9g1Mm%2FfUyRiD0hUvbtpe%2FPf9WEccvdLjvHKyQoJva%2BH9pP7Hu3dHXzWIyiwCWeTA8kPh0Vks5XEhq7KAQu9WJbmsnEGNzn4M%2FKSSJTYFWls%2FS1uMV8HTRRLu%2BSKcQnvzUUJ6sAuylm0L0Nm0pnDQBMCDsczLf2%2FIsIUg8yacH1kyFgNauprdL4%2B7TU030AND9yR3yEYsRuMfAdzUGDJIQWiwV6kw0dPvlJX00YUO30S%7Ctkp%3ABk9SR8bwofaIaA",
           "imageUrl": "https://i.ebayimg.com/images/g/7rEAAeSwL3VqjkFm/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787730930244,
-          "lastSeen": 1787817572230
+          "lastSeen": 1787904229797
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -116,28 +130,28 @@
           "cgc10CostC": 250498,
           "submissionFeeC": 59900,
           "totalCostC": 310398,
-          "psa10ValueC": 770029,
-          "ratio": 2.4807795153319288
+          "psa10ValueC": 755093,
+          "ratio": 2.432660648586653
         },
         "firstOpportunityAt": 1787730930244
       },
       "firstOpportunityAt": 1787730930244,
-      "updatedAt": 1787817572230
+      "updatedAt": 1787904229797
     },
     "prices": {
       "variantId": 2480,
       "ungradedC": 22275,
-      "grade9C": 149059,
-      "grade95C": 164000,
+      "grade9C": 142070,
+      "grade95C": 156300,
       "cgc10C": 200100,
       "cgc10PristineC": 360200,
-      "psa10C": 770029,
+      "psa10C": 755093,
       "psa9Pop": 258,
       "psa10Pop": 111,
-      "cgc10Pop": 13,
-      "bgs10C": 1001000,
+      "cgc10Pop": 14,
+      "bgs10C": 981600,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787730723606
+      "fetchedAt": 1787904022769
     },
     "listings": [
       {
@@ -146,14 +160,14 @@
         "priceC": 249999,
         "shippingC": 499,
         "landedC": 250498,
-        "url": "https://www.ebay.com/itm/227491690760?_skw=%28zapdos%29+%28h32%2Caquapolis%29+%28CGC%2CPSA%29&epid=13043374561&itmmeta=01M113HGN93QA802DZN20BEXC2&hash=item34f78fb908:g:7rEAAeSwL3VqjkFm&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDQV14EQb7kZsjFme12y56UiPvMMAOnvEmuT6RkUTs8o%2FV%2FrpVMWNJ6coo29aC3FmAxGvc66CyAlE9ZCi9vNmmwpMasRnz3n2EyAOhGbMrMI6vwU3lY6YCyuNiHKSujUcj1rYlC%2FLe3Kt6HOBacF2AmSTqdSzgSYh9M%2BUz%2BpeHX3xZbe%2FaN3PXC6mYaHbI64Q3Y2Lodb%2FHdHySgu1GH%2Fqi0n0z4tyZ6GFiMdoExnJEUJ2GnfSq6MtYKq0LwucztA%2FLPlsZDVh%2BZirjSGqP%2BDV1D%7Ctkp%3ABk9SR4CLxqOIaA",
+        "url": "https://www.ebay.com/itm/227491690760?_skw=%28zapdos%29+%28h32%2Caquapolis%29+%28CGC%2CPSA%29&epid=13043374561&itmmeta=01M13P8F0C324KR3G62Z616PZD&hash=item34f78fb908:g:7rEAAeSwL3VqjkFm&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDQV14EQb7kZsjFme12y56UiPvMMAOnvEmuT6RkUTs8o9g1Mm%2FfUyRiD0hUvbtpe%2FPf9WEccvdLjvHKyQoJva%2BH9pP7Hu3dHXzWIyiwCWeTA8kPh0Vks5XEhq7KAQu9WJbmsnEGNzn4M%2FKSSJTYFWls%2FS1uMV8HTRRLu%2BSKcQnvzUUJ6sAuylm0L0Nm0pnDQBMCDsczLf2%2FIsIUg8yacH1kyFgNauprdL4%2B7TU030AND9yR3yEYsRuMfAdzUGDJIQWiwV6kw0dPvlJX00YUO30S%7Ctkp%3ABk9SR8bwofaIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7rEAAeSwL3VqjkFm/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787730930244,
-        "lastSeen": 1787817572230
+        "lastSeen": 1787904229797
       },
       {
         "itemId": "357225547159",
@@ -161,14 +175,29 @@
         "priceC": 499999,
         "shippingC": 1499,
         "landedC": 501498,
-        "url": "https://www.ebay.com/itm/357225547159?_skw=%28zapdos%29+%28h32%2Caquapolis%29+%28CGC%2CPSA%29&epid=13043374561&itmmeta=01M113HGN9K673PY66DXZ63MKJ&hash=item532c4d4597:g:Om8AAeSwfT9oZ~w1&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAZ77WWFaeU%2FZAFcdQKu6ATfY5dlroKFv8%2BQuuSKu9XomJHuAsIV0gOJ%2Fc2ZpPcPFzTw6X2XwoYGXvA2FynyZ2St9fFd4rYsncltG5gGUWg%2FHveGtpYbvG2w4SvvNJL%2BoBuusQrKAsLDWPByCxa7xfbzmd9cB0IhRoNENvjAJT9QvO9W32TSq%2FV6vvPWhFpCcRl9ltGZSdjX2JNHygwJPCXMBUAuPePZI3bJYjh9RlVigBJ4WOEs8PxZuJW3JtyVbppIoC0pE2VH4AUGK1HY11l%7Ctkp%3ABk9SR4CLxqOIaA",
+        "url": "https://www.ebay.com/itm/357225547159?_skw=%28zapdos%29+%28h32%2Caquapolis%29+%28CGC%2CPSA%29&epid=13043374561&itmmeta=01M13P8F0CKN6W085RN8N7TYS1&hash=item532c4d4597:g:Om8AAeSwfT9oZ~w1&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC3h517TWvozwgTOiUCc98D3CeGM6LZi5fM%2FfDB4uxdPVzdrDhDgGvmbV3hff%2BPM0j0AGGRe22V%2BMdpF6XjxZ%2BC8b4qSjtKAhtUsGV0DhSH609COu4L3Voj%2FwBNbwA9pTvYmZx4Jv2d4ZlKet1rYdgNrhLNlLhnjTFtpW4W5YYAR05PA6q5HL2D%2BJ2Eb5kkvyZEvCqpdYLgVT28QXmQb9RI8EE%2BEaLzLufeA253OF9OAYwIhlgkU7GbeGt68Ibr27r%2F%2BMT2IGuopwN%2FFTAITymhj5aZdfzVWH4UH54QJTQ8AuhcfsqUFrAsCa3jSqyeO6A%3D%7Ctkp%3ABk9SR8jwofaIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Om8AAeSwfT9oZ~w1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
-        "lastSeen": 1787817572230
+        "lastSeen": 1787904229797
+      },
+      {
+        "itemId": "267768902176",
+        "title": "Zapdos H32 Holo PSA 10 Aquapolis POP 111Opens in a new window or tab",
+        "priceC": 5000000,
+        "shippingC": 0,
+        "landedC": 5000000,
+        "url": "https://www.ebay.com/itm/267768902176?_skw=%28zapdos%29+%28h32%2Caquapolis%29+%28CGC%2CPSA%29&epid=13043374561&itmmeta=01M13P8F0DV9HDD0SKQ8QJWX4J&hash=item3e58453220:g:ALwAAeSwIf9qkEwS&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBI8eMgcErF4N6fNxb%2BUrxIRDm%2FbU2Mx6TU8cV1JYUTus9YDfgq9lPyc%2Bqb1nl5YJXx6%2F6hbG3CU4JqC%2BOEPGkuMwKsQ8i1fhUb7EhTkBHjtDJai7u2881HEwqEmm4YDVioxqKC5MAJXXMv09YRhO%2BCQKUhf95x8OpYVcisByVho4YL8Tr%2BAnySuuUKDzOzZ1BQq1jfAl16vH%2Ffv3OW2d02DDmca70DlKoZc6%2B%2BqhAToldsDDDIAHW2dwP2uYtk%2BC%2B11o9M8nUQIvvmyAlRMOTCl242C0XXd1tcnOtlH%2BgAWhf6YI9nng7CGyQRteo2MsE%3D%7Ctkp%3ABk9SR8jwofaIaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/ALwAAeSwIf9qkEwS/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787904229797,
+        "lastSeen": 1787904229797
       }
     ],
     "marketHistory": {
@@ -196,6 +225,19 @@
           "gradingStatus": "graded",
           "gradingCompany": "PSA",
           "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 6947407,
+          "saleDate": "2026-08-13",
+          "priceC": 61000,
+          "title": "Pokémon TCG Zapdos Holo Rare H32/H32 Aquapolis H32/H32",
+          "url": "https://www.ebay.com/itm/236848846825?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1719,19 +1761,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 401404,
-          "saleDate": "2026-01-11",
-          "priceC": 86101,
-          "title": "Pokemon Zapdos Aquapolis Holo Rare #H32 PSA 9 Mint",
-          "url": "https://www.ebay.com/itm/287045665270?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1836,9 +1865,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 216,
+      "englishSaleCount": 217,
       "excludedLanguageCount": 3,
-      "lastCapturedAt": 1787730721638
+      "lastCapturedAt": 1787904021104
     }
   }
 }

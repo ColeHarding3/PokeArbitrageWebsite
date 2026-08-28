@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 4464,
@@ -19,25 +19,25 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/4858ce6542c5864e464c16a7b2d3216cd48de493a1dd8ee8781903f5ebaee7b1/1600.jpg",
       "popularityScore": 90,
       "market": {
-        "ungradedC": 1355,
+        "ungradedC": 1500,
         "grade9C": 19000,
         "grade95C": 20900,
-        "cgc10C": 9784,
+        "cgc10C": 9743,
         "cgc10PristineC": 9999,
-        "psa10C": 102136,
-        "bgs10C": 132800,
+        "psa10C": 104758,
+        "bgs10C": 136200,
         "psa9Pop": 26,
         "psa10Pop": 7,
-        "cgc10Pop": 33,
+        "cgc10Pop": 34,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787732328056
+        "fetchedAt": 1787905663051
       },
       "bestCgc10": null,
       "bestPsa10": null,
       "bestPsa9": null,
       "counts": {
         "cgc10Bin": 0,
-        "cgc10Auction": 1,
+        "cgc10Auction": 2,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
@@ -52,22 +52,22 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787732328056
+      "updatedAt": 1787905663051
     },
     "prices": {
       "variantId": 4464,
-      "ungradedC": 1355,
+      "ungradedC": 1500,
       "grade9C": 19000,
       "grade95C": 20900,
-      "cgc10C": 9784,
+      "cgc10C": 9743,
       "cgc10PristineC": 9999,
-      "psa10C": 102136,
+      "psa10C": 104758,
       "psa9Pop": 26,
       "psa10Pop": 7,
-      "cgc10Pop": 33,
-      "bgs10C": 132800,
+      "cgc10Pop": 34,
+      "bgs10C": 136200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787732328056
+      "fetchedAt": 1787905663051
     },
     "listings": [
       {
@@ -84,6 +84,21 @@
         "freshness": "live",
         "firstSeen": 1787647141705,
         "lastSeen": 1787738656916
+      },
+      {
+        "itemId": "800573152347",
+        "title": "Pokémon Deoxys 2005 EX Deoxys #16/107 Regional Championships CGC 9.5Opens in a new window or tab",
+        "priceC": 99,
+        "shippingC": 795,
+        "landedC": 894,
+        "url": "https://www.ebay.com/itm/800573152347?_skw=%28deoxys%29+%2816%2Cdeoxys%29+%28CGC%2CPSA%29&epid=26043384026&itmmeta=01M13YC4CS52FDQ1ZB8EFZW53K&hash=itemba65e0dc5b:g:HcsAAeSwEu1qjtOA&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAd%2BDbo9qZT5aea4bXv2HFnQMwvF3xUJeK9UwJYSuqOIMYAoRW5VvByKjb7Q3qlIlqT1YfuzUDEhbGgU%2Fi7eO%2BAFTjeF02B3zjEgEXBoXwcitK6usYVB1W2ZG6w95KDsYvfvmXNO4Viij3t2QEilAmNw8gJf%2F8rVs5JuUcfu2LwR3bBP1%2Bn%2FWIJ17tkrCBG8lKeAAlaeADNb87OKCnbJaXoKfa0IEPiaNBinVM4gPURbWbLvVSI66xWkaKLkDkHYdLuxOkUZOSwzujc7vqtcQ43%7Ctkp%3ABk9SR9bGsP6IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/HcsAAeSwEu1qjtOA/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "gemMint10",
+        "legacyCgc95": true,
+        "freshness": "live",
+        "firstSeen": 1787905821032,
+        "lastSeen": 1787912759000
       }
     ],
     "marketHistory": {
@@ -1743,7 +1758,7 @@
       ],
       "englishSaleCount": 193,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787732326383
+      "lastCapturedAt": 1787905661104
     }
   }
 }

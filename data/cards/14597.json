@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 14597,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/f993b001d18da8ed97a019a04a5fe48c2b54540df3dcb12842193b018d62a5dd/1600.jpg",
       "popularityScore": 84,
       "market": {
-        "ungradedC": 595,
-        "grade9C": 5924,
+        "ungradedC": 597,
+        "grade9C": 5912,
         "grade95C": 6500,
-        "cgc10C": 355900,
-        "cgc10PristineC": 640600,
-        "psa10C": 593225,
-        "bgs10C": 771200,
+        "cgc10C": 355200,
+        "cgc10PristineC": 639400,
+        "psa10C": 591938,
+        "bgs10C": 769500,
         "psa9Pop": 19,
         "psa10Pop": 2,
         "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 4 sales per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787736638353
+        "fetchedAt": 1787910019554
       },
       "bestCgc10": {
         "itemId": "800531486249",
@@ -38,14 +38,14 @@
         "priceC": 150000,
         "shippingC": 1495,
         "landedC": 151495,
-        "url": "https://www.ebay.com/itm/800531486249?_skw=%28typhlosion%29+%2832%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=2314419864&itmmeta=01M119T0PW1Z31PQXNFAT4RNSN&hash=itemba63651629:g:CWgAAeSwjspqhP5u&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBC05vzhrUJULHhHufOKSmKyZrYL8OksfjCgagVT1Q2%2BED%2FRGW8QhEhqSEFJqoCfqNWi6aRRjGWOmeQHzElJIFJkbZhtsXa%2BP4E7Iq0mshmUiX2QAVvcft7BhdxHJ23WyUMrhjtZj5vcHEB%2BQ7JC9uyelsfYdWIEymgXdzgVKOt8iVruqCSrAj8WNaZoDDpROL7ZGu2Exk9%2Blc1VsutO8Vwvus87e5H9yn9gk5xAVkAR9%2B6ZVG8csYCoH3nc8M53XOT1pSF0dKtBJ1yMPvsQFHTCbJcrxgBLTBJSkcYFEf%2BN2kOKtEyrUB7oCDu8KZ1Ay6dUMMIiHfWjoDF1DiSY%2BaQ%7Ctkp%3ABk9SR9aL6KmIaA",
+        "url": "https://www.ebay.com/itm/800531486249?_skw=%28typhlosion%29+%2832%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=2314419864&itmmeta=01M13VYJ7X5Z8362MTZK6ZXRND&hash=itemba63651629:g:CWgAAeSwjspqhP5u&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBC05vzhrUJULHhHufOKSmKyZrYL8OksfjCgagVT1Q2%2BED%2FRGW8QhEhqSEFJqoCfqNWi6aRRjGWOmeQHzElJIFJkbZhtsXa%2BP4E7Iq0mshmUiX2QAVvcft7BhdxHJ23WyV1tv9N5zRAHuh2XC84LmlWRZ5h07nTvbxkrwu7EzIHmRQVjW4o608%2BOsjJ0%2FlJs2zi%2B2LYgdAmNVABAsCfLeig%2FxsF1cNw3eHaT1bBwNaZkerSCkURaJDLTMwx5NgwLDO1m0Pwt6mbxb%2B0dfguo%2B9OWf%2Fls%2F2TzxUGRkLqmpJxan%2FfCWnOjT79M3DajuwK3CLHTFXBZDhmBGawetKV3sh0%7Ctkp%3ABk9SR7Ck-vuIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/CWgAAeSwjspqhP5u/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787824102295
+        "lastSeen": 1787910176020
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -69,8 +69,8 @@
         "cgc10CostC": 151495,
         "submissionFeeC": 59900,
         "totalCostC": 211395,
-        "psa10ValueC": 593225,
-        "ratio": 2.8062395042456068
+        "psa10ValueC": 591938,
+        "ratio": 2.800151375387308
       },
       "withoutLegacyCgc95": {
         "bestCgc10": null,
@@ -80,22 +80,22 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787224259777,
-      "updatedAt": 1787824102295
+      "updatedAt": 1787910176020
     },
     "prices": {
       "variantId": 14597,
-      "ungradedC": 595,
-      "grade9C": 5924,
+      "ungradedC": 597,
+      "grade9C": 5912,
       "grade95C": 6500,
-      "cgc10C": 355900,
-      "cgc10PristineC": 640600,
-      "psa10C": 593225,
+      "cgc10C": 355200,
+      "cgc10PristineC": 639400,
+      "psa10C": 591938,
       "psa9Pop": 19,
       "psa10Pop": 2,
       "cgc10Pop": null,
-      "bgs10C": 771200,
+      "bgs10C": 769500,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 4 sales per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787736638353
+      "fetchedAt": 1787910019554
     },
     "listings": [
       {
@@ -104,14 +104,14 @@
         "priceC": 150000,
         "shippingC": 1495,
         "landedC": 151495,
-        "url": "https://www.ebay.com/itm/800531486249?_skw=%28typhlosion%29+%2832%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=2314419864&itmmeta=01M119T0PW1Z31PQXNFAT4RNSN&hash=itemba63651629:g:CWgAAeSwjspqhP5u&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBC05vzhrUJULHhHufOKSmKyZrYL8OksfjCgagVT1Q2%2BED%2FRGW8QhEhqSEFJqoCfqNWi6aRRjGWOmeQHzElJIFJkbZhtsXa%2BP4E7Iq0mshmUiX2QAVvcft7BhdxHJ23WyUMrhjtZj5vcHEB%2BQ7JC9uyelsfYdWIEymgXdzgVKOt8iVruqCSrAj8WNaZoDDpROL7ZGu2Exk9%2Blc1VsutO8Vwvus87e5H9yn9gk5xAVkAR9%2B6ZVG8csYCoH3nc8M53XOT1pSF0dKtBJ1yMPvsQFHTCbJcrxgBLTBJSkcYFEf%2BN2kOKtEyrUB7oCDu8KZ1Ay6dUMMIiHfWjoDF1DiSY%2BaQ%7Ctkp%3ABk9SR9aL6KmIaA",
+        "url": "https://www.ebay.com/itm/800531486249?_skw=%28typhlosion%29+%2832%2Cheart%2Cgold%2Csoul%2Csilver%29+%28CGC%2CPSA%29&epid=2314419864&itmmeta=01M13VYJ7X5Z8362MTZK6ZXRND&hash=itemba63651629:g:CWgAAeSwjspqhP5u&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBC05vzhrUJULHhHufOKSmKyZrYL8OksfjCgagVT1Q2%2BED%2FRGW8QhEhqSEFJqoCfqNWi6aRRjGWOmeQHzElJIFJkbZhtsXa%2BP4E7Iq0mshmUiX2QAVvcft7BhdxHJ23WyV1tv9N5zRAHuh2XC84LmlWRZ5h07nTvbxkrwu7EzIHmRQVjW4o608%2BOsjJ0%2FlJs2zi%2B2LYgdAmNVABAsCfLeig%2FxsF1cNw3eHaT1bBwNaZkerSCkURaJDLTMwx5NgwLDO1m0Pwt6mbxb%2B0dfguo%2B9OWf%2Fls%2F2TzxUGRkLqmpJxan%2FfCWnOjT79M3DajuwK3CLHTFXBZDhmBGawetKV3sh0%7Ctkp%3ABk9SR7Ck-vuIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/CWgAAeSwjspqhP5u/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787224259777,
-        "lastSeen": 1787824102295
+        "lastSeen": 1787910176020
       }
     ],
     "marketHistory": {
@@ -182,6 +182,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 7462542,
+          "saleDate": "2026-08-01",
+          "priceC": 2500,
+          "title": "Pokemon 2010 HeartGold SoulSilver Typhlosion Holo Card #32/123 32/123",
+          "url": "https://www.ebay.com/itm/127935041709?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 1667365,
           "saleDate": "2026-07-29",
           "priceC": 325,
@@ -200,6 +213,19 @@
           "priceC": 550,
           "title": "TYPHLOSION 32/123 R HEARTGOLD & SOULSILVER POKEMON HP 32/123",
           "url": "https://www.ebay.com/itm/267725754483?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7462545,
+          "saleDate": "2026-07-24",
+          "priceC": 1550,
+          "title": "Typhlosion HeartGold SoulSilver 32 Holo Rare 2010 mid-era Pokemon TCG 32/123",
+          "url": "https://www.ebay.com/itm/407092838563?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1213,9 +1239,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 83,
+      "englishSaleCount": 85,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787736636974
+      "lastCapturedAt": 1787910017676
     }
   }
 }

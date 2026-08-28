@@ -1,135 +1,135 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "lastSuccessfulSyncAt": null,
   "status": "partial",
   "defaultThreshold": 3,
   "cutoffSetId": "hgss4",
   "setCount": 62,
-  "dealCount": 2202,
-  "detailCount": 756,
-  "eventCount": 1858,
+  "dealCount": 2208,
+  "detailCount": 755,
+  "eventCount": 2130,
   "setStatuses": [
     {
       "setId": "base1",
       "status": "partial",
-      "finishedAt": 1787814046938,
-      "error": "29 of 69 eBay card searches failed or were not attempted (incomplete=7, non-authoritative=22)"
+      "finishedAt": 1787900447343,
+      "error": "28 of 69 eBay card searches failed or were not attempted (incomplete=6, non-authoritative=22)"
     },
     {
       "setId": "base2",
       "status": "partial",
-      "finishedAt": 1787814346545,
-      "error": "21 of 63 eBay card searches failed or were not attempted (non-authoritative=21)"
+      "finishedAt": 1787900927292,
+      "error": "19 of 63 eBay card searches failed or were not attempted (non-authoritative=19)"
     },
     {
       "setId": "basep",
       "status": "partial",
-      "finishedAt": 1787814552014,
-      "error": "22 of 48 eBay card searches failed or were not attempted (incomplete=14, non-authoritative=8)"
+      "finishedAt": 1787901352197,
+      "error": "21 of 48 eBay card searches failed or were not attempted (incomplete=10, unknown=7, non-authoritative=4)"
     },
     {
       "setId": "base3",
       "status": "partial",
-      "finishedAt": 1787814680151,
+      "finishedAt": 1787901496524,
       "error": "21 of 57 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=20)"
     },
     {
       "setId": "base4",
       "status": "partial",
-      "finishedAt": 1787814898239,
-      "error": "33 of 100 eBay card searches failed or were not attempted (incomplete=7, non-authoritative=26)"
+      "finishedAt": 1787901778754,
+      "error": "35 of 100 eBay card searches failed or were not attempted (incomplete=7, non-authoritative=27, unknown=1)"
     },
     {
       "setId": "base5",
       "status": "partial",
-      "finishedAt": 1787815121252,
+      "finishedAt": 1787902018924,
       "error": "49 of 68 eBay card searches failed or were not attempted (incomplete=45, non-authoritative=4)"
     },
     {
       "setId": "gym1",
-      "status": "error",
-      "finishedAt": 1787815301127,
-      "error": "gym1: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787902182277,
+      "error": "21 of 91 eBay card searches failed or were not attempted (incomplete=14, non-authoritative=7)"
     },
     {
       "setId": "gym2",
-      "status": "error",
-      "finishedAt": 1787815474254,
-      "error": "gym2: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787902369806,
+      "error": "24 of 95 eBay card searches failed or were not attempted (incomplete=10, non-authoritative=14)"
     },
     {
       "setId": "neo1",
-      "status": "error",
-      "finishedAt": 1787815648224,
-      "error": "neo1: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787902575225,
+      "error": "14 of 81 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=13)"
     },
     {
       "setId": "neo2",
-      "status": "error",
-      "finishedAt": 1787815840251,
-      "error": "neo2: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787902754907,
+      "error": "10 of 71 eBay card searches failed or were not attempted (non-authoritative=10)"
     },
     {
       "setId": "si1",
-      "status": "error",
-      "finishedAt": 1787816034383,
-      "error": "si1: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787902937518,
+      "error": "2 of 18 eBay card searches failed or were not attempted (non-authoritative=2)"
     },
     {
       "setId": "neo3",
-      "status": "error",
-      "finishedAt": 1787816155319,
-      "error": "neo3: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787902988027,
+      "error": "10 of 61 eBay card searches failed or were not attempted (non-authoritative=9, incomplete=1)"
     },
     {
       "setId": "neo4",
-      "status": "error",
-      "finishedAt": 1787816352929,
-      "error": "neo4: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787903141275,
+      "error": "22 of 98 eBay card searches failed or were not attempted (incomplete=14, non-authoritative=8)"
     },
     {
       "setId": "base6",
-      "status": "error",
-      "finishedAt": 1787816696813,
-      "error": "base6: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787903425679,
+      "error": "17 of 99 eBay card searches failed or were not attempted (incomplete=9, non-authoritative=8)"
     },
     {
       "setId": "ecard1",
-      "status": "error",
-      "finishedAt": 1787816914436,
-      "error": "ecard1: Error: PokeWorker-03: net::ERR_TIMED_OUT"
+      "status": "partial",
+      "finishedAt": 1787903632746,
+      "error": "38 of 136 eBay card searches failed or were not attempted (incomplete=9, non-authoritative=29)"
     },
     {
       "setId": "bp",
-      "status": "error",
-      "finishedAt": 1787817265100,
-      "error": "bp: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787903969871,
+      "error": "3 of 8 eBay card searches failed or were not attempted (incomplete=3)"
     },
     {
       "setId": "ecard2",
-      "status": "error",
-      "finishedAt": 1787817378415,
-      "error": "ecard2: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787904009212,
+      "error": "1 of 152 eBay card searches failed or were not attempted (non-authoritative=1)"
     },
     {
       "setId": "ecard3",
-      "status": "error",
-      "finishedAt": 1787817574686,
-      "error": "ecard3: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787904232018,
+      "error": "2 of 156 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=1)"
     },
     {
       "setId": "ex1",
-      "status": "error",
-      "finishedAt": 1787817778345,
-      "error": "ex1: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787904467406,
+      "error": "2 of 87 eBay card searches failed or were not attempted (non-authoritative=2)"
     },
     {
       "setId": "ex2",
-      "status": "error",
-      "finishedAt": 1787817932865,
-      "error": "ex2: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787904621784,
+      "error": "1 of 92 eBay card searches failed or were not attempted (non-authoritative=1)"
     },
     {
       "setId": "np",
@@ -139,249 +139,249 @@
     },
     {
       "setId": "ex3",
-      "status": "error",
-      "finishedAt": 1787818086153,
-      "error": "ex3: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787904769188,
+      "error": "1 of 93 eBay card searches failed or were not attempted (non-authoritative=1)"
     },
     {
       "setId": "ex4",
-      "status": "error",
-      "finishedAt": 1787818241769,
-      "error": "ex4: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787904917632,
+      "error": "59 of 77 eBay card searches failed or were not attempted (incomplete=59)"
     },
     {
       "setId": "ex5",
-      "status": "error",
-      "finishedAt": 1787818421177,
-      "error": "ex5: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787905075890,
+      "error": "2 of 93 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=1)"
     },
     {
       "setId": "ex6",
-      "status": "error",
-      "finishedAt": 1787818582494,
-      "error": "ex6: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787905229278,
+      "error": "4 of 99 eBay card searches failed or were not attempted (non-authoritative=4)"
     },
     {
       "setId": "pop1",
-      "status": "error",
-      "finishedAt": 1787818743938,
-      "error": "pop1: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787905400860,
+      "error": "4 of 17 eBay card searches failed or were not attempted (non-authoritative=4)"
     },
     {
       "setId": "ex7",
-      "status": "error",
-      "finishedAt": 1787818851163,
-      "error": "ex7: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787905450660,
+      "error": "36 of 97 eBay card searches failed or were not attempted (incomplete=30, non-authoritative=6)"
     },
     {
       "setId": "ex8",
-      "status": "error",
-      "finishedAt": 1787819067437,
-      "error": "ex8: Error: PokeWorker-03: net::ERR_TIMED_OUT"
+      "status": "partial",
+      "finishedAt": 1787905651152,
+      "error": "9 of 96 eBay card searches failed or were not attempted (incomplete=6, non-authoritative=3)"
     },
     {
       "setId": "ex9",
-      "status": "error",
-      "finishedAt": 1787819255944,
-      "error": "ex9: Error: PokeWorker-01: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787905823023,
+      "error": "4 of 86 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=3)"
     },
     {
       "setId": "ex10",
-      "status": "error",
-      "finishedAt": 1787819408628,
-      "error": "ex10: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787905970771,
+      "error": "2 of 97 eBay card searches failed or were not attempted (non-authoritative=2)"
     },
     {
       "setId": "pop2",
-      "status": "error",
-      "finishedAt": 1787819573802,
-      "error": "pop2: Error: PokeWorker-07: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787906139479,
+      "error": "5 of 13 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=4)"
     },
     {
       "setId": "ex11",
-      "status": "error",
-      "finishedAt": 1787819677928,
-      "error": "ex11: Error: PokeWorker-01: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787906195368,
+      "error": "46 of 95 eBay card searches failed or were not attempted (incomplete=35, non-authoritative=11)"
     },
     {
       "setId": "ex12",
-      "status": "error",
-      "finishedAt": 1787819894110,
-      "error": "ex12: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787906396639,
+      "error": "3 of 82 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=2)"
     },
     {
       "setId": "pop3",
-      "status": "error",
-      "finishedAt": 1787820056683,
-      "error": "pop3: Error: PokeWorker-01: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787906539418,
+      "error": "4 of 15 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=3)"
     },
     {
       "setId": "ex13",
-      "status": "error",
-      "finishedAt": 1787820163629,
-      "error": "ex13: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787906593681,
+      "error": "3 of 90 eBay card searches failed or were not attempted (incomplete=3)"
     },
     {
       "setId": "ex14",
-      "status": "error",
-      "finishedAt": 1787820427473,
-      "error": "ex14: Error: PokeWorker-01: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787906824022,
+      "error": "4 of 82 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=2)"
     },
     {
       "setId": "pop4",
-      "status": "error",
-      "finishedAt": 1787820569653,
-      "error": "pop4: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787906977990,
+      "error": "1 of 14 eBay card searches failed or were not attempted (incomplete=1)"
     },
     {
       "setId": "ex15",
-      "status": "error",
-      "finishedAt": 1787820696175,
-      "error": "ex15: Error: PokeWorker-07: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787907024711,
+      "error": "27 of 81 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=25)"
     },
     {
       "setId": "ex16",
-      "status": "error",
-      "finishedAt": 1787821073591,
-      "error": "ex16: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787907348625,
+      "error": "3 of 81 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=2)"
     },
     {
       "setId": "pop5",
-      "status": "error",
-      "finishedAt": 1787821211999,
-      "error": "pop5: Error: PokeWorker-07: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787907495054,
+      "error": "6 of 12 eBay card searches failed or were not attempted (incomplete=6)"
     },
     {
       "setId": "dpp",
-      "status": "error",
-      "finishedAt": 1787821311642,
-      "error": "dpp: Error: PokeWorker-01: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787907547315,
+      "error": "23 of 30 eBay card searches failed or were not attempted (incomplete=20, non-authoritative=3)"
     },
     {
       "setId": "dp1",
-      "status": "error",
-      "finishedAt": 1787821444232,
-      "error": "dp1: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787907631932,
+      "error": "3 of 107 eBay card searches failed or were not attempted (non-authoritative=3)"
     },
     {
       "setId": "dp2",
-      "status": "error",
-      "finishedAt": 1787821581538,
-      "error": "dp2: Error: PokeWorker-07: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787907818862,
+      "error": "2 of 111 eBay card searches failed or were not attempted (non-authoritative=2)"
     },
     {
       "setId": "pop6",
-      "status": "error",
-      "finishedAt": 1787821748337,
-      "error": "pop6: Error: PokeWorker-01: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787907997665,
+      "error": "2 of 17 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=1)"
     },
     {
       "setId": "dp3",
-      "status": "error",
-      "finishedAt": 1787821850644,
-      "error": "dp3: Error: PokeWorker-01: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787908046926,
+      "error": "9 of 120 eBay card searches failed or were not attempted (incomplete=4, non-authoritative=5)"
     },
     {
       "setId": "dp4",
-      "status": "error",
-      "finishedAt": 1787822066118,
-      "error": "dp4: Error: PokeWorker-01: net::ERR_TIMED_OUT"
+      "status": "partial",
+      "finishedAt": 1787908242610,
+      "error": "1 of 100 eBay card searches failed or were not attempted (unknown=1)"
     },
     {
       "setId": "pop7",
-      "status": "error",
-      "finishedAt": 1787822205723,
-      "error": "pop7: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787908391672,
+      "error": "1 of 17 eBay card searches failed or were not attempted (non-authoritative=1)"
     },
     {
       "setId": "dp5",
-      "status": "error",
-      "finishedAt": 1787822259007,
-      "error": "dp5: Error: PokeWorker-01: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787908438739,
+      "error": "7 of 82 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=5)"
     },
     {
       "setId": "dp6",
-      "status": "error",
-      "finishedAt": 1787822409778,
-      "error": "dp6: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787908586081,
+      "error": "6 of 135 eBay card searches failed or were not attempted (non-authoritative=6)"
     },
     {
       "setId": "pop8",
-      "status": "error",
-      "finishedAt": 1787822605263,
-      "error": "pop8: Error: PokeWorker-07: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787908814601,
+      "error": "1 of 14 eBay card searches failed or were not attempted (non-authoritative=1)"
     },
     {
       "setId": "dp7",
-      "status": "error",
-      "finishedAt": 1787822716003,
-      "error": "dp7: Error: PokeWorker-01: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787908866321,
+      "error": "2 of 92 eBay card searches failed or were not attempted (non-authoritative=2)"
     },
     {
       "setId": "pl1",
-      "status": "error",
-      "finishedAt": 1787822864537,
-      "error": "pl1: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787909012683,
+      "error": "23 of 115 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=21)"
     },
     {
       "setId": "pop9",
-      "status": "error",
-      "finishedAt": 1787823107336,
-      "error": "pop9: Error: PokeWorker-07: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787909227861,
+      "error": "6 of 17 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=3, unknown=1)"
     },
     {
       "setId": "pl2",
-      "status": "error",
-      "finishedAt": 1787823210211,
-      "error": "pl2: Error: PokeWorker-01: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787909281654,
+      "error": "6 of 104 eBay card searches failed or were not attempted (non-authoritative=5, unknown=1)"
     },
     {
       "setId": "pl3",
-      "status": "error",
-      "finishedAt": 1787823378207,
-      "error": "pl3: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787909455264,
+      "error": "16 of 146 eBay card searches failed or were not attempted (non-authoritative=16)"
     },
     {
       "setId": "pl4",
-      "status": "error",
-      "finishedAt": 1787823590960,
-      "error": "pl4: Error: PokeWorker-07: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787909727022,
+      "error": "16 of 99 eBay card searches failed or were not attempted (incomplete=13, non-authoritative=3)"
     },
     {
       "setId": "ru1",
-      "status": "error",
-      "finishedAt": 1787823721381,
-      "error": "ru1: Error: PokeWorker-01: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787909889939,
+      "error": "4 of 16 eBay card searches failed or were not attempted (incomplete=3, non-authoritative=1)"
     },
     {
       "setId": "hsp",
-      "status": "error",
-      "finishedAt": 1787823833738,
-      "error": "hsp: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787909946226,
+      "error": "5 of 11 eBay card searches failed or were not attempted (incomplete=2, non-authoritative=3)"
     },
     {
       "setId": "hgss1",
-      "status": "error",
-      "finishedAt": 1787823935232,
-      "error": "hgss1: Error: PokeWorker-07: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787910004537,
+      "error": "7 of 99 eBay card searches failed or were not attempted (incomplete=3, non-authoritative=4)"
     },
     {
       "setId": "hgss2",
-      "status": "error",
-      "finishedAt": 1787824104962,
-      "error": "hgss2: Error: PokeWorker-01: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787910178714,
+      "error": "3 of 82 eBay card searches failed or were not attempted (non-authoritative=3)"
     },
     {
       "setId": "hgss3",
-      "status": "error",
-      "finishedAt": 1787824232394,
-      "error": "hgss3: Error: PokeWorker-03: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787910317961,
+      "error": "6 of 80 eBay card searches failed or were not attempted (incomplete=1, non-authoritative=5)"
     },
     {
       "setId": "hgss4",
-      "status": "error",
-      "finishedAt": 1787824365535,
-      "error": "hgss4: Error: PokeWorker-07: This operation was aborted"
+      "status": "partial",
+      "finishedAt": 1787910451077,
+      "error": "3 of 95 eBay card searches failed or were not attempted (non-authoritative=3)"
     }
   ]
 }

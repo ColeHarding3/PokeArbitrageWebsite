@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 4253,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/5bc1300b433e81fdc1bed6e358cbe25221c5cc7518d12880bcb938fc6b377b6f/1600.jpg",
       "popularityScore": 77,
       "market": {
-        "ungradedC": 3730,
+        "ungradedC": 3500,
         "grade9C": 24449,
         "grade95C": 26900,
         "cgc10C": 13175,
         "cgc10PristineC": 23700,
-        "psa10C": 107982,
-        "bgs10C": 140400,
+        "psa10C": 106900,
+        "bgs10C": 139000,
         "psa9Pop": 106,
         "psa10Pop": 12,
-        "cgc10Pop": 10,
+        "cgc10Pop": 11,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    6 sales per year\"}",
-        "fetchedAt": 1787732192889
+        "fetchedAt": 1787905529045
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -52,22 +52,22 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787732192889
+      "updatedAt": 1787905529045
     },
     "prices": {
       "variantId": 4253,
-      "ungradedC": 3730,
+      "ungradedC": 3500,
       "grade9C": 24449,
       "grade95C": 26900,
       "cgc10C": 13175,
       "cgc10PristineC": 23700,
-      "psa10C": 107982,
+      "psa10C": 106900,
       "psa9Pop": 106,
       "psa10Pop": 12,
-      "cgc10Pop": 10,
-      "bgs10C": 140400,
+      "cgc10Pop": 11,
+      "bgs10C": 139000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    6 sales per year\"}",
-      "fetchedAt": 1787732192889
+      "fetchedAt": 1787905529045
     },
     "listings": [
       {
@@ -263,6 +263,19 @@
           "priceC": 8963,
           "title": "Dark Raticate 17/109 Team Rocket Returns Reverse Holo Pokemon TCG - NM #17",
           "url": "https://www.ebay.com/itm/257596838328?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7125305,
+          "saleDate": "2026-07-14",
+          "priceC": 11499,
+          "title": "Dark Raticate 17/109 Rare Team Rocket Returns Pokemon Reverse Holo NM/LP 17/109",
+          "url": "https://www.ebay.com/itm/318571849076?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1473,9 +1486,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 104,
+      "englishSaleCount": 105,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787732191095
+      "lastCapturedAt": 1787905527220
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 1315,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/fe951a2e8ad3d7ec3ee13f04488a6406839e481cac9ba6b5ff098628a81a63c8/1600.jpg",
       "popularityScore": 78,
       "market": {
-        "ungradedC": 18359,
-        "grade9C": 124932,
-        "grade95C": 290700,
-        "cgc10C": 4117900,
-        "cgc10PristineC": 7412200,
-        "psa10C": 6863234,
+        "ungradedC": 18566,
+        "grade9C": 144324,
+        "grade95C": 292500,
+        "cgc10C": 4100200,
+        "cgc10PristineC": 7380400,
+        "psa10C": 6833668,
         "bgs10C": 5694366,
         "psa9Pop": 533,
         "psa10Pop": 17,
-        "cgc10Pop": 108,
-        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per week\",\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-        "fetchedAt": 1787729373457
+        "cgc10Pop": 111,
+        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per week\",\"volume: 3 sales per week\":\"volume: \\n    1 sale per month\"}",
+        "fetchedAt": 1787902585982
       },
       "bestCgc10": {
         "itemId": "158144983726",
@@ -38,14 +38,14 @@
         "priceC": 350000,
         "shippingC": 1059,
         "landedC": 351059,
-        "url": "https://www.ebay.com/itm/158144983726?_skw=%28slowking%29+%2814%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=17043372007&itmmeta=01M111WRNF1MGGWMYWR368FPQW&hash=item24d22cf2ae:g:TmEAAeSwixZqSk3c&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBNTCimKsuN6tTVzaZucRwbNj6U3J5B%2BevsPFKTCZyf8ias2zNL9tqZ%2BzZgi8j%2B%2Bs7kyw4b2V%2BDbohbAe0Z5lsW%2BlDmFaxao0DgzLULsIh9WXlPC2PsDRcuwpBhAuUlsuzNzAuyj%2BrKis%2FHHPnmD%2BMBBgjWNgqB7IcB4ECF48tZ1flJSNxAPXI7smJ8P1UD7R%2FhPmt0cdBcfGHj6Oh3L7PvdyJ0zoIwBpAIBZFDNQOsAtb3ab0%2B%2B0YsL1uu8k8CuIiq7e02vtj6P3Q8Lf6E4VME%7Ctkp%3ABk9SR4yL86GIaA",
+        "url": "https://www.ebay.com/itm/158144983726?_skw=%28slowking%29+%2814%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=17043372007&itmmeta=01M13MV6TT02N2PJXNW5ADQGXP&hash=item24d22cf2ae:g:TmEAAeSwixZqSk3c&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBNTCimKsuN6tTVzaZucRwbNj6U3J5B%2BevsPFKTCZyf8rMdd7LKfIVG0r%2FH5lT9wSxkky2rlqYlL%2F2kSxc2pLm4iJm8p38u%2BAqUEDaUooQYsFaSoozprBXj53jOMJrbrERdp2RY23snmp%2BEu5crh%2BdGp3%2Bq7KJK8QIT4iwNy3PabBUxDoVZpo6%2FX7zWhauoAVzJ5aYnMAqX2KjEk58Xma21%2FNHcIxiAFBsryJkga4WRPA97%2BSKBN5XLh7UVHcnEWdmSqIl2HpdytPml21NdCicw%7Ctkp%3ABk9SR-bt7PSIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/TmEAAeSwixZqSk3c/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787902750979
       },
       "bestPsa10": null,
       "bestPsa9": {
@@ -54,14 +54,14 @@
         "priceC": 189995,
         "shippingC": 945,
         "landedC": 190940,
-        "url": "https://www.ebay.com/itm/227471457296?_skw=%28slowking%29+%2814%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=17043372007&itmmeta=01M111WRNEFX6ECVH74DK303CF&hash=item34f65afc10:g:SBcAAeSwHiJqew1H&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDxmnanzwAQnFMr2y8RhcxRKQzX62Y8bU6nUHMwMDtsu%2Byf5ECg9mGC%2FAnDA5RUlwW0ziy6QYa4YlcBlVwMmO2W5dP3zmeKxQ50PxHTMqmf7FMFTqHHt9oi7WcRRlyHuC5dLugTjF2KIukH6eDJyvXNmTDV48lhJ%2BoDUqQAlchhx2c8WQzekpXT9u0LQJFz2lbkXsZOcJqoYMHaedlIt5cWFBRfyJIdvbcLJaeQ6ImC%2FpS42tAInZFTu2ueOfDdw%2BkeQU%2FhAUIQSXD6KqwRO8FQRx%2BVs1xLoymVtjMw%2BcnRufLw8OqQTE%2BBGX4Rjwq306s%3D%7Ctkp%3ABk9SR4qL86GIaA",
+        "url": "https://www.ebay.com/itm/227471457296?_skw=%28slowking%29+%2814%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=17043372007&itmmeta=01M13MV6TS43MQCPAHNXJ1GY1S&hash=item34f65afc10:g:SBcAAeSwHiJqew1H&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDxmnanzwAQnFMr2y8RhcxRKQzX62Y8bU6nUHMwMDtsu%2Byf5ECg9mGC%2FAnDA5RUlwW0ziy6QYa4YlcBlVwMmO2W5dP3zmeKxQ50PxHTMqmf7FMFTqHHt9oi7WcRRlyHuC5Nxmrp%2F7ZDtpML6ugCBc86SLoyZRLxAkzftkLWni1MOeDduVeEpf%2F064lJNY9jkjXNjPywGUvGMU4FpTSeM1svxlJdSiNYyx%2B49pcov5%2F4ylfKHaYRPZa2IKSsKXrVCbTnLjO0RY5EZFGM1Fg0%2FAPGsYZNaeuZgPD5QdF3rxNk%2FvqhJXNIOIfA%2FOJKxK5D%2FJ0%3D%7Ctkp%3ABk9SR-Tt7PSIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/SBcAAeSwHiJqew1H/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787902750979
       },
       "counts": {
         "cgc10Bin": 2,
@@ -83,8 +83,8 @@
         "cgc10CostC": 351059,
         "submissionFeeC": 299900,
         "totalCostC": 650959,
-        "psa10ValueC": 6863234,
-        "ratio": 10.543266165764663
+        "psa10ValueC": 6833668,
+        "ratio": 10.497847022623544
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -93,14 +93,14 @@
           "priceC": 350000,
           "shippingC": 1059,
           "landedC": 351059,
-          "url": "https://www.ebay.com/itm/158144983726?_skw=%28slowking%29+%2814%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=17043372007&itmmeta=01M111WRNF1MGGWMYWR368FPQW&hash=item24d22cf2ae:g:TmEAAeSwixZqSk3c&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBNTCimKsuN6tTVzaZucRwbNj6U3J5B%2BevsPFKTCZyf8ias2zNL9tqZ%2BzZgi8j%2B%2Bs7kyw4b2V%2BDbohbAe0Z5lsW%2BlDmFaxao0DgzLULsIh9WXlPC2PsDRcuwpBhAuUlsuzNzAuyj%2BrKis%2FHHPnmD%2BMBBgjWNgqB7IcB4ECF48tZ1flJSNxAPXI7smJ8P1UD7R%2FhPmt0cdBcfGHj6Oh3L7PvdyJ0zoIwBpAIBZFDNQOsAtb3ab0%2B%2B0YsL1uu8k8CuIiq7e02vtj6P3Q8Lf6E4VME%7Ctkp%3ABk9SR4yL86GIaA",
+          "url": "https://www.ebay.com/itm/158144983726?_skw=%28slowking%29+%2814%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=17043372007&itmmeta=01M13MV6TT02N2PJXNW5ADQGXP&hash=item24d22cf2ae:g:TmEAAeSwixZqSk3c&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBNTCimKsuN6tTVzaZucRwbNj6U3J5B%2BevsPFKTCZyf8rMdd7LKfIVG0r%2FH5lT9wSxkky2rlqYlL%2F2kSxc2pLm4iJm8p38u%2BAqUEDaUooQYsFaSoozprBXj53jOMJrbrERdp2RY23snmp%2BEu5crh%2BdGp3%2Bq7KJK8QIT4iwNy3PabBUxDoVZpo6%2FX7zWhauoAVzJ5aYnMAqX2KjEk58Xma21%2FNHcIxiAFBsryJkga4WRPA97%2BSKBN5XLh7UVHcnEWdmSqIl2HpdytPml21NdCicw%7Ctkp%3ABk9SR-bt7PSIaA",
           "imageUrl": "https://i.ebayimg.com/images/g/TmEAAeSwixZqSk3c/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787046039169,
-          "lastSeen": 1787815835896
+          "lastSeen": 1787902750979
         },
         "cgc10Bin": 2,
         "cgc10Auction": 0,
@@ -116,28 +116,28 @@
           "cgc10CostC": 351059,
           "submissionFeeC": 299900,
           "totalCostC": 650959,
-          "psa10ValueC": 6863234,
-          "ratio": 10.543266165764663
+          "psa10ValueC": 6833668,
+          "ratio": 10.497847022623544
         },
         "firstOpportunityAt": 1787046039169
       },
       "firstOpportunityAt": 1787046039169,
-      "updatedAt": 1787815835896
+      "updatedAt": 1787902750979
     },
     "prices": {
       "variantId": 1315,
-      "ungradedC": 18359,
-      "grade9C": 124932,
-      "grade95C": 290700,
-      "cgc10C": 4117900,
-      "cgc10PristineC": 7412200,
-      "psa10C": 6863234,
+      "ungradedC": 18566,
+      "grade9C": 144324,
+      "grade95C": 292500,
+      "cgc10C": 4100200,
+      "cgc10PristineC": 7380400,
+      "psa10C": 6833668,
       "psa9Pop": 533,
       "psa10Pop": 17,
-      "cgc10Pop": 108,
+      "cgc10Pop": 111,
       "bgs10C": 5694366,
-      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per week\",\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-      "fetchedAt": 1787729373457
+      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per week\",\"volume: 3 sales per week\":\"volume: \\n    1 sale per month\"}",
+      "fetchedAt": 1787902585982
     },
     "listings": [
       {
@@ -146,14 +146,14 @@
         "priceC": 189995,
         "shippingC": 945,
         "landedC": 190940,
-        "url": "https://www.ebay.com/itm/227471457296?_skw=%28slowking%29+%2814%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=17043372007&itmmeta=01M111WRNEFX6ECVH74DK303CF&hash=item34f65afc10:g:SBcAAeSwHiJqew1H&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDxmnanzwAQnFMr2y8RhcxRKQzX62Y8bU6nUHMwMDtsu%2Byf5ECg9mGC%2FAnDA5RUlwW0ziy6QYa4YlcBlVwMmO2W5dP3zmeKxQ50PxHTMqmf7FMFTqHHt9oi7WcRRlyHuC5dLugTjF2KIukH6eDJyvXNmTDV48lhJ%2BoDUqQAlchhx2c8WQzekpXT9u0LQJFz2lbkXsZOcJqoYMHaedlIt5cWFBRfyJIdvbcLJaeQ6ImC%2FpS42tAInZFTu2ueOfDdw%2BkeQU%2FhAUIQSXD6KqwRO8FQRx%2BVs1xLoymVtjMw%2BcnRufLw8OqQTE%2BBGX4Rjwq306s%3D%7Ctkp%3ABk9SR4qL86GIaA",
+        "url": "https://www.ebay.com/itm/227471457296?_skw=%28slowking%29+%2814%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=17043372007&itmmeta=01M13MV6TS43MQCPAHNXJ1GY1S&hash=item34f65afc10:g:SBcAAeSwHiJqew1H&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDxmnanzwAQnFMr2y8RhcxRKQzX62Y8bU6nUHMwMDtsu%2Byf5ECg9mGC%2FAnDA5RUlwW0ziy6QYa4YlcBlVwMmO2W5dP3zmeKxQ50PxHTMqmf7FMFTqHHt9oi7WcRRlyHuC5Nxmrp%2F7ZDtpML6ugCBc86SLoyZRLxAkzftkLWni1MOeDduVeEpf%2F064lJNY9jkjXNjPywGUvGMU4FpTSeM1svxlJdSiNYyx%2B49pcov5%2F4ylfKHaYRPZa2IKSsKXrVCbTnLjO0RY5EZFGM1Fg0%2FAPGsYZNaeuZgPD5QdF3rxNk%2FvqhJXNIOIfA%2FOJKxK5D%2FJ0%3D%7Ctkp%3ABk9SR-Tt7PSIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/SBcAAeSwHiJqew1H/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787902750979
       },
       {
         "itemId": "158144983726",
@@ -161,14 +161,14 @@
         "priceC": 350000,
         "shippingC": 1059,
         "landedC": 351059,
-        "url": "https://www.ebay.com/itm/158144983726?_skw=%28slowking%29+%2814%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=17043372007&itmmeta=01M111WRNF1MGGWMYWR368FPQW&hash=item24d22cf2ae:g:TmEAAeSwixZqSk3c&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBNTCimKsuN6tTVzaZucRwbNj6U3J5B%2BevsPFKTCZyf8ias2zNL9tqZ%2BzZgi8j%2B%2Bs7kyw4b2V%2BDbohbAe0Z5lsW%2BlDmFaxao0DgzLULsIh9WXlPC2PsDRcuwpBhAuUlsuzNzAuyj%2BrKis%2FHHPnmD%2BMBBgjWNgqB7IcB4ECF48tZ1flJSNxAPXI7smJ8P1UD7R%2FhPmt0cdBcfGHj6Oh3L7PvdyJ0zoIwBpAIBZFDNQOsAtb3ab0%2B%2B0YsL1uu8k8CuIiq7e02vtj6P3Q8Lf6E4VME%7Ctkp%3ABk9SR4yL86GIaA",
+        "url": "https://www.ebay.com/itm/158144983726?_skw=%28slowking%29+%2814%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=17043372007&itmmeta=01M13MV6TT02N2PJXNW5ADQGXP&hash=item24d22cf2ae:g:TmEAAeSwixZqSk3c&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBNTCimKsuN6tTVzaZucRwbNj6U3J5B%2BevsPFKTCZyf8rMdd7LKfIVG0r%2FH5lT9wSxkky2rlqYlL%2F2kSxc2pLm4iJm8p38u%2BAqUEDaUooQYsFaSoozprBXj53jOMJrbrERdp2RY23snmp%2BEu5crh%2BdGp3%2Bq7KJK8QIT4iwNy3PabBUxDoVZpo6%2FX7zWhauoAVzJ5aYnMAqX2KjEk58Xma21%2FNHcIxiAFBsryJkga4WRPA97%2BSKBN5XLh7UVHcnEWdmSqIl2HpdytPml21NdCicw%7Ctkp%3ABk9SR-bt7PSIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/TmEAAeSwixZqSk3c/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787902750979
       },
       {
         "itemId": "407111966551",
@@ -176,18 +176,44 @@
         "priceC": 5000000,
         "shippingC": 0,
         "landedC": 5000000,
-        "url": "https://www.ebay.com/itm/407111966551?_skw=%28slowking%29+%2814%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=17043372007&itmmeta=01M111WRNF2KG9P1XNXMNQDNX2&hash=item5ec9c39f57:g:b5wAAeSw-jdqbXte&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD9YLLQ8A2hbZxlcV4xuToACLaGXmb%2F8kbrIx5jnGc1IkMmN3BcHg8wSb8W0AN7QkiH1m0FhKp%2BkxY7Hb2bSsJBVe0RsuTU1io5BDh1%2BXujprFlMjWQRziibNJ26KOlKtpqUHgaxFkcQ%2BJPz66Pu6RLj%2B%2B65Kq%2FWT10mUcdPn3C9yC%2BU9RIaUllP1BHo4JpDkEiRhxXzZJ%2BhGbUlG55zqIvb5G8gPwsJgZHoKeghnktwtKC1j5ttecbf0cYzqqooum0tyVK%2FTjL0pvRBIHfuOsfNDWTYdbASWRt24VGDz1E6mHyaOOYC7Wgz3nYvqBDoPj57IHuD0tLN8Xw9E8lIAt8%7Ctkp%3ABk9SR46L86GIaA",
+        "url": "https://www.ebay.com/itm/407111966551?_skw=%28slowking%29+%2814%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=17043372007&itmmeta=01M13MV6TTKTYP0E6KZFCBW5A3&hash=item5ec9c39f57:g:b5wAAeSw-jdqbXte&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD9YLLQ8A2hbZxlcV4xuToACLaGXmb%2F8kbrIx5jnGc1IkMmN3BcHg8wSb8W0AN7QkiH1m0FhKp%2BkxY7Hb2bSsJBVe0RsuTU1io5BDh1%2BXujprFlMjWQRziibNJ26KOlKtpgVc%2FbTZ4OXlC2owassgTlaLhzZpsNE7rdFxeGzECFYhN4Dp9ujr%2FCTl5S4O1m4VOnx2dOPpc72qkhJ%2BaYx1ponLNudd%2FVntOCX0XNSQUQCAtifCfL2p3l5WuopSgwvs4MzdHI1Qrtm4JmpGmW6AXHRY8T3uipOTH47irnhFVOLRJjQ3MVCypa6mSyP1KdIx9sb5xlCO4X5cul1rRFeMay%7Ctkp%3ABk9SR-jt7PSIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/b5wAAeSw-jdqbXte/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787902750979
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 6780055,
+          "saleDate": "2026-08-27",
+          "priceC": 292500,
+          "title": "2000 Pokemon Neo Genesis 1st Edition #14/111 Slowking Holo BGS 9.5 GEM MINT",
+          "url": "https://www.ebay.com/itm/366616580129?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "BGS",
+          "gradingGrade": 9.5,
+          "gradingDesignation": "gem-mint",
+          "agreementStatus": "match"
+        },
+        {
+          "id": 6780085,
+          "saleDate": "2026-08-26",
+          "priceC": 190000,
+          "title": "2000 Pokémon Neo Genesis (1st Edition) Slowking-Holo #14 TAG 9 (PSA 9)",
+          "url": "https://www.ebay.com/itm/398304832558?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "ambiguous",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "unverifiable"
+        },
         {
           "id": 4716930,
           "saleDate": "2026-08-24",
@@ -514,6 +540,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 6780056,
+          "saleDate": "2026-08-06",
+          "priceC": 378300,
+          "title": "Pokemon Slowking HOLO R 2000 Neo Genesis 1st Edition BGS 9.5",
+          "url": "https://www.ebay.com/itm/800429522900?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "BGS",
+          "gradingGrade": 9.5,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 235330,
           "saleDate": "2026-08-06",
           "priceC": 25000,
@@ -590,6 +629,19 @@
           "gradingGrade": null,
           "gradingDesignation": null,
           "agreementStatus": "unverifiable"
+        },
+        {
+          "id": 6780121,
+          "saleDate": "2026-08-02",
+          "priceC": 37760,
+          "title": "TAG 8.5 - SLOWKING - 14/111 NEO GENESIS - 1ST EDITION HOLO POKEMON 14/111",
+          "url": "https://www.ebay.com/itm/800381008205?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "TAG",
+          "gradingGrade": 8.5,
+          "gradingDesignation": null,
+          "agreementStatus": "mismatch"
         },
         {
           "id": 235275,
@@ -1695,58 +1747,6 @@
           "gradingGrade": 9.5,
           "gradingDesignation": "gem-mint",
           "agreementStatus": "match"
-        },
-        {
-          "id": 235182,
-          "saleDate": "2026-06-23",
-          "priceC": 207522,
-          "title": "CGC 10 GEM MINT 💎 - Slowking 14/111 Neo Genesis 1st Edition Holo - 2000 Pokemon 14/111",
-          "url": "https://www.ebay.com/itm/377269001703?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 235159,
-          "saleDate": "2026-06-23",
-          "priceC": 25019,
-          "title": "Slowking 14/111 Neo Genesis 1st Edition Holo Pokemon Pokemon TCG - NM",
-          "url": "https://www.ebay.com/itm/327070350189?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "raw",
-          "gradingCompany": null,
-          "gradingGrade": null,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 235338,
-          "saleDate": "2026-06-22",
-          "priceC": 19668,
-          "title": "Slowking Holo 1st Edition Neo Genesis #14 PSA 6 EX-MT Pokemon WOTC",
-          "url": "https://www.ebay.com/itm/236872446501?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 6,
-          "gradingDesignation": "excellent",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 235316,
-          "saleDate": "2026-06-22",
-          "priceC": 24650,
-          "title": "2000 POKEMON NEO GENESIS 1ST EDITION #14 SLOWKING-HOLO PSA 7 #14",
-          "url": "https://www.ebay.com/itm/298393421468?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1766,9 +1766,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 284,
+      "englishSaleCount": 288,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787729371207
+      "lastCapturedAt": 1787902584062
     }
   }
 }

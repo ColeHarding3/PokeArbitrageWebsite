@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260827T095723208Z-2f32f269e4",
-  "generatedAt": 1787824643208,
+  "snapshotId": "20260828T103222306Z-e4d988bcd6",
+  "generatedAt": 1787913142306,
   "data": {
     "deal": {
       "variantId": 1335,
@@ -21,8 +21,8 @@
       "market": {
         "ungradedC": 8000,
         "grade9C": 26183,
-        "grade95C": 28548,
-        "cgc10C": 39055,
+        "grade95C": 28387,
+        "cgc10C": 39046,
         "cgc10PristineC": 79125,
         "psa10C": 245000,
         "bgs10C": 318500,
@@ -30,7 +30,7 @@
         "psa10Pop": 290,
         "cgc10Pop": 98,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787729384105
+        "fetchedAt": 1787902594921
       },
       "bestCgc10": {
         "itemId": "318782942526",
@@ -38,38 +38,52 @@
         "priceC": 70000,
         "shippingC": 624,
         "landedC": 70624,
-        "url": "https://www.ebay.com/itm/318782942526?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&itmmeta=01M1120BVB188CK16DXZHMHJ89&hash=item4a38f1ad3e:g:jGAAAeSwqlBqjxuE&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCHXp5cEZOPWnZZO8UXKJD5QyF4rPv9MqcDK5ODg%2FGAdfFSrGDehF5Ix%2Btv5%2FbllY1juPh6KgkbffDn10HPSgA6gNkk%2FPMkwqk9NYkPoNtmNpWgvj9lxFT%2B9FHpPypGzaQVCEd2DXKCmuy%2FZKYNVwhTXpCgoU9D4U9QgHmvnC0zLKlzvOT5tfT%2FK6owNbbd7FSXVaVfBShowZexbPZ0I9dQyoQozUs96wGNlrfb3fbJKuExZiSccHMTOdL2KMFENJThfaa35F8iXaIBAQvS1n514Lt8uUqs1CPSmt%2B5out6vQueQ1XSZCn%2BBk2%2FGx6Mqs8%3D%7Ctkp%3ABk9SR_69gaKIaA",
+        "url": "https://www.ebay.com/itm/318782942526?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&itmmeta=01M13XY52FEX4V7077ZZPYJ9BT&hash=item4a38f1ad3e:g:jGAAAeSwqlBqjxuE&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCHXp5cEZOPWnZZO8UXKJD5QyF4rPv9MqcDK5ODg%2FGAdfFSrGDehF5Ix%2Btv5%2FbllY1juPh6KgkbffDn10HPSgA6gNkk%2FPMkwqk9NYkPoNtmNpWgvj9lxFT%2B9FHpPypGzaR%2B6vNrKJhfxjNp4tdWWlrzwZQbqGVVC7cboE0WZvv8fUwwLNJNBsvHdvNMox9cJlD%2BpP%2FSSD5j1o23mUwmTCOX1Lc3A2eVnSdni6pJx3YrMpNIZgzLP2n51k2K31J6EndST%2BZJZFI%2F1lP41dSIJ1zvdEMpYMo7KkHEHZBuNwaaFfgq7C5%2FXZvTNCoV6fO4XTU%3D%7Ctkp%3ABk9SR8bR-P2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/jGAAAeSwqlBqjxuE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787815835896,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787912759000
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "287517940999",
+        "title": "2000 Pokemon Neo Genesis 1st Edition #1 Ampharos Holo PSA 10 GEM MINT HEAD SWIRLOpens in a new window or tab",
+        "priceC": 280000,
+        "shippingC": 562,
+        "landedC": 280562,
+        "url": "https://www.ebay.com/itm/287517940999?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M13XY52J2Y503ABZSZ55V021&hash=item42f1679d07:g:WBQAAeSwgYVqeqow&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBQ3Q7S06BODPKTScM2hjyYxWpO1cOU1Y2%2FPMxoJXtGm1Og6cBR8bEbffQE%2BM7dbXVRbu1e7rjwyHH3s06QWXYMhNWrsjGN69SPLv2A2z3ox7W6ktCWwMQAcpAmbMjFxtewdxsztEvHZr1klpqKektJ7YJH%2BteVZ2eeDtyBNoVCISfLf7WEqUtGDWXwOyOZfc0j7W1U9kdICXXioP02lNChVWMlW5Rbq6HqqJsfL72WE9NhAwRcW6nmuEEIPqopagfrTBYJvui5AwmiCFr1KmCs%7Ctkp%3ABk9SR8zR-P2IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/WBQAAeSwgYVqeqow/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787046039169,
+        "lastSeen": 1787912759000
+      },
       "bestPsa9": {
         "itemId": "377396614217",
         "title": "2000 Pokemon Neo Genesis 1st Edition Ampharos Holo PSA 9 #1/111Opens in a new window or tab",
         "priceC": 34900,
-        "shippingC": 0,
-        "landedC": 34900,
-        "url": "https://www.ebay.com/itm/377396614217?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M112071NK9KC6RPRJ5W9MNBX&hash=item57de975449:g:UOsAAeSwmaVqcy4s&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBhzaedFRn%2Fq7FvlhZHHYM4F%2FjD%2Fe53976o55%2Biclw9tXLdePDgFN6QHo3WiBnymTIhs1KXvjUsngwBdXmWdr23wSq7ZVNZpnSQeY32IYyG817XIcLJXBvrN60B2TwEh9jEmB5UnrKdDgKUmJiFKrHb7YX3VS86l4Jpjeis1dwyJ2Nh%2BM03JPfKi6jC6F4li551DHEHszMg%2BGyw9Bznm%2BFzfUV0NP%2FOKjjzbJN1WbeuUiV2XHksITqOJ7D74G50uanOR1VU867ISS5ERF7sNNHzaLkWZVJBRGZ6U%2FNiHKiL5quLWFOj8gNil147gzKZ5Ts%3D%7Ctkp%3ABk9SR5zxgKKIaA",
+        "shippingC": 2555,
+        "landedC": 37455,
+        "url": "https://www.ebay.com/itm/377396614217?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M13XXX9B6TFBSJF4E8AGBV3B&hash=item57de975449:g:UOsAAeSwmaVqcy4s&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBhzaedFRn%2Fq7FvlhZHHYM4F%2FjD%2Fe53976o55%2Biclw9tXLdePDgFN6QHo3WiBnymTIhs1KXvjUsngwBdXmWdr23wSq7ZVNZpnSQeY32IYyG817XIcLJXBvrN60B2TwEh9g5VRmoNftMbB7thr4r%2BtCDBZBOttADBi3mRyVvXCpxrGoU2bY2dOMNPiz1%2B56ezAqAwXBcTEprGFWZjfCqCPekY4hQ8Uo9A9cOYSxAQbrLbWKEx%2B11xDLs%2BqQBwncLh1M1iZAd8Wr%2F15tAdrcBAJv%2BJTvdx3BXqVYh%2F3H8C67NTmw6YFsUCxW1Th6ZTZNdZNA%3D%7Ctkp%3ABk9SR-bU9_2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/UOsAAeSwmaVqcy4s/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787912759000
       },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 1,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 3,
         "psa10Auction": 0,
-        "psa9Bin": 5
+        "psa9Bin": 7
       },
       "ratio": {
         "ok": true,
@@ -93,14 +107,14 @@
           "priceC": 99900,
           "shippingC": 0,
           "landedC": 99900,
-          "url": "https://www.ebay.com/itm/398167990476?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M1120BVBAN7K0SDGQ9EZ0SJE&hash=item5cb4a960cc:g:DLgAAeSwMJ5qStcv&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xB6o2jRdZCLLqRnjOXx0g4q0BGFKwHQQUh3D53%2B1EZc%2B63ALBCgehVrRjQdA0WwzNbStGAg%2FGCaXlxS0ZmoR0GiwWWpz77iUOSq74dlJs2XK%2BXnbXImS8mcqkhbPhcONVevwsreysOWxhUCCWtHxkQSmw%2FUrHOVtiRt6oTQE%2B3n3pWRz2pYJpUvJvhh02qcfyZbHPClFjjvU%2FNpaFCLte%2FiqbxAH9%2B77PcI1NlqaUol7kZgA4c0huZ5AdTgmtncxMDSjBD8EXpH4BuiCw2qx6Z3%7Ctkp%3ABk9SR4C-gaKIaA",
+          "url": "https://www.ebay.com/itm/398167990476?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M13XY52G1HM2VW916CE4AZSR&hash=item5cb4a960cc:g:DLgAAeSwMJ5qStcv&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB%2BSIUKYaijVnFxpqhDeEuMytxS4eYkpvy83o8ZYm7T85owClNxKbu30NEnQMqc31Y%2FTKb%2FU9DG5RnL6AmTo7kGlbTdXzW4xtVSBNYs96G06pryvRtLWsy371pDVua%2F%2BruuUYdmz2wVrEEXABTs%2FI2ifsrocrHgpEA3siqUcSwl5PKs0hMB19pIQYTteGHKPZpoQWJSSzBg1M1zTryMF1OnGTrctGCwZnCNZsdcwc5naA4f%2F6o%2B6R6yB2ukeenjnSEKpgdguFOdVyPykz0yMorsDLzEYYrKksZVv26rWPKh0eOXa0F0QUNswqyeO4OFS8E%3D%7Ctkp%3ABk9SR8jR-P2IaA",
           "imageUrl": "https://i.ebayimg.com/images/g/DLgAAeSwMJ5qStcv/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787046039169,
-          "lastSeen": 1787815835896
+          "lastSeen": 1787912759000
         },
         "cgc10Bin": 1,
         "cgc10Auction": 1,
@@ -122,14 +136,14 @@
         "firstOpportunityAt": 1787046039169
       },
       "firstOpportunityAt": 1787815835896,
-      "updatedAt": 1787815835896
+      "updatedAt": 1787912759000
     },
     "prices": {
       "variantId": 1335,
       "ungradedC": 8000,
       "grade9C": 26183,
-      "grade95C": 28548,
-      "cgc10C": 39055,
+      "grade95C": 28387,
+      "cgc10C": 39046,
       "cgc10PristineC": 79125,
       "psa10C": 245000,
       "psa9Pop": 1047,
@@ -137,98 +151,128 @@
       "cgc10Pop": 98,
       "bgs10C": 318500,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787729384105
+      "fetchedAt": 1787902594921
     },
     "listings": [
       {
         "itemId": "158213875044",
         "title": "Pokémon Neo Genesis 1st Edition Ampharos CGC 10 GEM MINT Swirl 🌀Opens in a new window or tab",
-        "priceC": 12850,
+        "priceC": 14850,
         "shippingC": 1059,
-        "landedC": 13909,
-        "url": "https://www.ebay.com/itm/158213875044?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=2368411921&itmmeta=01M11202D8CR3H423ZH4BAX6G1&hash=item24d6482564:g:I8oAAeSwGS5qSgpK&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCafiJSzo5IOLxMXwPYoJXIgWLqAy2IMExFRTW9qv%2BqoSZPudKvt0QSK11blENO67Z9hEt8IvQKboOkhJp%2FdINTjP%2BnuPThc%2FDtPBVBci%2BLPCLEpqV%2Bk%2FnWIr%2BKwDxraQM7LG1U7yrj1bqFxB3C2i3PtJ%2F6FxuN%2BMtEFJrEhAMISQnYLVFae1ccczw8o6aEN7K9TMv2aK3SRVLYUuUlUdx5qGoux1YaClDy%2BaDiH5IuhFSWMxlzL%2BKmq9wFC9Epnm4dnj6uJSA%2B9VEashOdnztwrTDm3RkbVnekG1DrcoKx8yGm0DBN4%2Bq%2FaLRIs04XHT4%3D%7Ctkp%3ABk9SR4yngKKIaA",
+        "landedC": 15909,
+        "url": "https://www.ebay.com/itm/158213875044?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=2368411921&itmmeta=01M13WXD6743YV3TBXDSR7K9AN&hash=item24d6482564:g:I8oAAeSwGS5qSgpK&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCIai6PE%2BX07qT5PuTvpBxe1ddiGL2RBEt9e%2FrXgKNrVOPyNw0xv3%2FkTpY2lOsyJJRoX%2FGEy0poyLsOFx30scWDexoqJ2BzYWrYpyvJeh2oilRDntsWFugN3Jg6UzR9jaytD3Wg6gcfIHmRw2XU%2BUIQzbrAZvnK0308QcVQ3n6HDasjcbbfPpymHSyXPMlDp%2BKlqlmcaBnvhRGvtyV1mK%2FST6y59ZWfwgrZ7MHjE58wGzg08KzcsPRq%2BiX8KIXxfz2RHl0OKfPseTd3l7qQ9j82%7Ctkp%3ABk9SR8LT9fyIaA",
         "imageUrl": "https://i.ebayimg.com/images/g/I8oAAeSwGS5qSgpK/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787383947761,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "377396614217",
         "title": "2000 Pokemon Neo Genesis 1st Edition Ampharos Holo PSA 9 #1/111Opens in a new window or tab",
         "priceC": 34900,
-        "shippingC": 0,
-        "landedC": 34900,
-        "url": "https://www.ebay.com/itm/377396614217?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M112071NK9KC6RPRJ5W9MNBX&hash=item57de975449:g:UOsAAeSwmaVqcy4s&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBhzaedFRn%2Fq7FvlhZHHYM4F%2FjD%2Fe53976o55%2Biclw9tXLdePDgFN6QHo3WiBnymTIhs1KXvjUsngwBdXmWdr23wSq7ZVNZpnSQeY32IYyG817XIcLJXBvrN60B2TwEh9jEmB5UnrKdDgKUmJiFKrHb7YX3VS86l4Jpjeis1dwyJ2Nh%2BM03JPfKi6jC6F4li551DHEHszMg%2BGyw9Bznm%2BFzfUV0NP%2FOKjjzbJN1WbeuUiV2XHksITqOJ7D74G50uanOR1VU867ISS5ERF7sNNHzaLkWZVJBRGZ6U%2FNiHKiL5quLWFOj8gNil147gzKZ5Ts%3D%7Ctkp%3ABk9SR5zxgKKIaA",
+        "shippingC": 2555,
+        "landedC": 37455,
+        "url": "https://www.ebay.com/itm/377396614217?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M13XXX9B6TFBSJF4E8AGBV3B&hash=item57de975449:g:UOsAAeSwmaVqcy4s&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBhzaedFRn%2Fq7FvlhZHHYM4F%2FjD%2Fe53976o55%2Biclw9tXLdePDgFN6QHo3WiBnymTIhs1KXvjUsngwBdXmWdr23wSq7ZVNZpnSQeY32IYyG817XIcLJXBvrN60B2TwEh9g5VRmoNftMbB7thr4r%2BtCDBZBOttADBi3mRyVvXCpxrGoU2bY2dOMNPiz1%2B56ezAqAwXBcTEprGFWZjfCqCPekY4hQ8Uo9A9cOYSxAQbrLbWKEx%2B11xDLs%2BqQBwncLh1M1iZAd8Wr%2F15tAdrcBAJv%2BJTvdx3BXqVYh%2F3H8C67NTmw6YFsUCxW1Th6ZTZNdZNA%3D%7Ctkp%3ABk9SR-bU9_2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/UOsAAeSwmaVqcy4s/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "198573335255",
         "title": "PSA 9 2000 Pokemon Neo Genesis Ampharos Holo 1st Edition 1/111 GradedOpens in a new window or tab",
         "priceC": 35000,
-        "shippingC": 597,
-        "landedC": 35597,
-        "url": "https://www.ebay.com/itm/198573335255?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M112071NZ0T66F3AB8C45EJ6&hash=item2e3be4a2d7:g:IhcAAeSwdh5qgJKg&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xB2lfID9atx66EraodHCauWtNQ3WXPVh82Sr0nNO1Z7hTna199XbCY8wtzxnoAcky3m01bit05CQhLZA1MGmzUKvbfwgw%2BVklDA1DnGqsKqycrRHXfhbPj0daWIzEpyaP9Dcn5iR9X4z7CKcySxHkrEZ0U0izcd3W%2BPi4nbmSWbNquVWOaLG8sDrwCvPKeZG0RQhPaA99R6c7vwRrLFtMPpvdakd55QXW1KEQqZD4jedPRSaAlbq2ODSF4BaUVHS%2F66qTZHcX7KKhqTkxK6JRdl%7Ctkp%3ABk9SR5zxgKKIaA",
+        "shippingC": 3122,
+        "landedC": 38122,
+        "url": "https://www.ebay.com/itm/198573335255?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M13XXX9BZVDFQXWPVZHM6B84&hash=item2e3be4a2d7:g:IhcAAeSwdh5qgJKg&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xChzNfMZAscHll8p6U%2FHxUB8GmKB%2BTIQYyiqZrBiL4frXFxmntShSXTcFZfpdNdzIlaMYXYo0ZyAlEkg6WK3qiyXbQs%2F8qT9HmSOux%2Bhj4%2Biy13bsANiGiJmokcPY3yOqe3NaiBvvNK%2FDNGk91578ISvG2oPwoNGywA9oyfH7IMgrXaD6D5rgBLIspKBTeAev7%2Bzk0xLmgKBbCYr4eyvZEhP5m3EYpX%2FYNfeuz3CKbfDyS%2Fidg7c3W5XCPcVRUXVyoyDq0hdJJ7GZubnUF2mgZP%2BJxTxLyVPSZjFUwGD%2BllhXKfxVSAGxQOWilj87GSK7E%3D%7Ctkp%3ABk9SR-bU9_2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/IhcAAeSwdh5qgJKg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "188675686069",
         "title": "2000 Pokemon Neo Genesis 1st Edition Ampharos-Holo 1st Edition PSA 9Opens in a new window or tab",
         "priceC": 37375,
-        "shippingC": 800,
-        "landedC": 38175,
-        "url": "https://www.ebay.com/itm/188675686069?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M112071NVCAJC8K5C5FAE8Q6&hash=item2bedf27eb5:g:H5cAAeSwROhqX3z2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAJlTQs6ZQCW5CIjiYBSBPjuGKCQ9Av0dqrvIWWRYt3qV6OZQj1Ldo1apKFmXcvAK2IJ0dixhaCccJWtCYFJcpvcchZDlX%2FGSJY8LyPiFucuydbny2%2F%2BEwZ3li3N6Hv%2Bj5sU1qyIBeddgrJlLbal6Yxox2RxtQziGu4E7hrnktx5UuLg0fwQDAHhNktOmxJDd0wkFDafQGJfVz4GDEcFcYV1B4F0G4AIqZMm8xF3oEyKITSYZY0YA69EyW3EVl8aQugPOAL0Ws7mp60p4AOVRxI%7Ctkp%3ABk9SR57xgKKIaA",
+        "shippingC": 3479,
+        "landedC": 40854,
+        "url": "https://www.ebay.com/itm/188675686069?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M13XXX9BDVQH0KGG4NW25SHN&hash=item2bedf27eb5:g:H5cAAeSwROhqX3z2&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCtHKlDFwY6Idtx%2F0x6CtRNrzyjVKDS0B98P1loQUee2QbghxrwrNaNynsL69HaozwdNiN85z1lHvvEjxXgxNHzc7uhZYiDnHHLevIhS5YUdJ46QpbVC%2BGFPog3hZMfpS437jPtGOeTKp7CnPP0PO2HOXNl%2F9Sjf8WkCUAmHioWShjbCumeuW8Ooe%2FT2%2FWi2v0DndzVvD6lZyQ2hj2anvkGOQeQ7C3Qpfu%2FwFhOeULoh%2FxtaiL%2Buk5cUsAJSgyYcSHVPv%2FbJ6eyOTQXEgnUr6QS%2BSnxnHyPoexi6QCAB%2BSGXAVfkd5K9xElNHWjrHJayJw%3D%7Ctkp%3ABk9SR-bU9_2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/H5cAAeSwROhqX3z2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787912759000
+      },
+      {
+        "itemId": "168147993260",
+        "title": "2000 Pokemon Neo Genesis Ampharos #1 AMPHAROS-1st Edition HOLO PSA 9 ⚡️Opens in a new window or tab",
+        "priceC": 39999,
+        "shippingC": 3359,
+        "landedC": 43358,
+        "url": "https://www.ebay.com/itm/168147993260?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M13XXX9B3YHX0QDFQX1TD4NW&hash=item272666c2ac:g:Bs0AAeSw9Z5pilqn&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCXZuB3BayziVWPPZD%2F4fh5S1%2Fqp0FxItcv%2B1RmASzPaZeauCpaoKWG53OG0shZwIXNbwkLTQvWAe2lJu69oYAtNeZJLeSLl702wzn2FAF9Ezj6ihTENiy4CB%2BHRDGGbdO8mLbFPCv0uzLWLYCGkGP20kCXT%2F5FyG%2BejjQ1rxIlujusUZvTBsx%2BcOqYhKAdj8bPYVyg9Rj38Of9JKc8G9gEiPOlv4Oqr21FhZCIwuC4Ieu496Nmacn68%2BDN8dhd9lbuWJckJhUcef5yTmrTB9Mj%7Ctkp%3ABk9SR-jU9_2IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/Bs0AAeSw9Z5pilqn/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787046039169,
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "178357338482",
         "title": "2000 Pokemon Neo Genesis 1st Edition Ampharos Holo PSA 9 #1/111Opens in a new window or tab",
         "priceC": 42000,
-        "shippingC": 300,
-        "landedC": 42300,
-        "url": "https://www.ebay.com/itm/178357338482?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M112071NNEHBP8NMJWWZYKDD&hash=item2986ed0172:g:ulcAAeSwXRFqa3xN&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCimk7GxbEGkUbSK3%2B%2BuaewxDFQk%2BIaEl6DlAJbeKcD%2BIUacy2nOPVh3lv%2BmVVUgVJo6shSVrHfwpWiMLH4Jj6OgeALSz69XmV%2BywnwTAo1RVQUqLK6%2BxEkSZNrsBE5BRYw38J6D6eBmeY%2BILyTRrUzSvE5jI0tnqLnQvAftwmJFS1ADsqNXmxd%2FVjwwJxr5FZfqpflixuXhvfGZixWDFAz9ZIQuP35R0fZCdUkG1Nifvw4jya%2B0hw5yqRinrjuwOo9%2BGqte%2Ft1jipODHsTCfvAiyRycfWIKgbJbuZCrXQK4ZFfizrXweYmaCv5lxE0zCk%3D%7Ctkp%3ABk9SR57xgKKIaA",
+        "shippingC": 3212,
+        "landedC": 45212,
+        "url": "https://www.ebay.com/itm/178357338482?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M13XXX9B3K43YMX2WZV7RWEV&hash=item2986ed0172:g:ulcAAeSwXRFqa3xN&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCimk7GxbEGkUbSK3%2B%2BuaewxDFQk%2BIaEl6DlAJbeKcD%2BIUacy2nOPVh3lv%2BmVVUgVJo6shSVrHfwpWiMLH4Jj6OgeALSz69XmV%2BywnwTAo1RVQUqLK6%2BxEkSZNrsBE5BRbTBN5mM4PdjLKXdjyWg5nGRnG3%2FnofkLgrPN9ldrzDdYNVW3aNTZOjgTrxHVDyB%2FeyCq6y6kVw%2FSmNRcs6G7fnMWAjI0z41KGJeo31dSvvO1idMD5rkbO9x5Obp2E%2F%2B%2BSI3loCXb31V92H4fHbuweNOkwQMQxAijYkdWSOGJq3kM%2FZGJm4oeAnvHdALU6qz%2B0%3D%7Ctkp%3ABk9SR-jU9_2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ulcAAeSwXRFqa3xN/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "358294715326",
         "title": "Pokémon TCG 2000 Ampharos Neo Genesis 1st Edition 1/111 Holo Rare PSA 9Opens in a new window or tab",
         "priceC": 44444,
-        "shippingC": 540,
-        "landedC": 44984,
-        "url": "https://www.ebay.com/itm/358294715326?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M112071PS4X6VPKJ4CH83YQG&hash=item536c077bbe:g:7c0AAeSw52Vpqx4M&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDvdKe79wA9jbxmGko%2FgpKKIbx%2FsKVA6AMtKCfF8UXnxaSocRses3%2FJIYMb7bzJ1PvNvpRra%2FjesoLpuRkXAEpjh1CYElV1b43UfhUpc8ugPFsNRy4sPa8hTTCK4WomN4Gmgz%2F9EWsAJxH9uz1qm9AVe30eut9bfNjXdij%2BIP5dXptIuBFoGfV5lzciosvDPSvdZC9OUvNkaDVBxljpzq1EzaE5hUjq6eLvsnhGqY4OzVUa2B%2BN6azERnhVZmdCuN0i%2FTiLUEDMwcm1t%2Bx5fGF3BtWpbY8A3XRlSocffx2SQBp68LgRuXBNkHXeIL4kbzs%3D%7Ctkp%3ABk9SR57xgKKIaA",
+        "shippingC": 3583,
+        "landedC": 48027,
+        "url": "https://www.ebay.com/itm/358294715326?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M13XXX9BXEDGYBY1S4FS91CW&hash=item536c077bbe:g:7c0AAeSw52Vpqx4M&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDvdKe79wA9jbxmGko%2FgpKKIbx%2FsKVA6AMtKCfF8UXnxaSocRses3%2FJIYMb7bzJ1PvNvpRra%2FjesoLpuRkXAEpjh1CYElV1b43UfhUpc8ugPFsNRy4sPa8hTTCK4WomN4HDH0kLEHPwBDxykiguq8ehUrCEXDa%2BMRM3QfMAKch0GHu1nw0ASQH3dXhbcbQHaIyitWcKRsgZvcsKArM%2F30v45XHo2qsnpjcV9Pj6rmyX3RqYBohzLof9hdDLW8F5MNAsBvxLzZJWOThn%2FXnk%2BnJLqwHe36Y3Dol%2F3h80ubYtJ8utwt5ZJnGj5uMyDwRUYcs%3D%7Ctkp%3ABk9SR-jU9_2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7c0AAeSw52Vpqx4M/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787912759000
+      },
+      {
+        "itemId": "298269959741",
+        "title": "2000 POKEMON NEO GENESIS 1ST EDITION #1 AMPHAROS-HOLO PSA 9Opens in a new window or tab",
+        "priceC": 50000,
+        "shippingC": 3200,
+        "landedC": 53200,
+        "url": "https://www.ebay.com/itm/298269959741?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M13XXX9C6N4APC4XXQJ83AQS&hash=item457246663d:g:pSoAAeSwCEdpyL76&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCK6Kw216PPdx%2BPQl8LfZusGfZUZZX%2B5GQK1iSs5SL273U4nGgwAM1VCt8FOToRKr6s251KGgDzEnUBRBalzQ4xjHxGv1MjVw05TRZ0UT26Qjzozn9vddlsalWtcTbJpupZTwrbC03hCRirwcbx1r%2BGctenY7k9Lf3687R79Bckng%2BVUExQw%2BJ05dh60RdFhuw0GDitQA8OUwouVsc29MDR%2BI1drQ22wXMEqTyFqc4UCTtZJi3ukKbIoNiVazlARz4TMaIqRkWXaR739TB7QS8G%7Ctkp%3ABk9SR-jU9_2IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/pSoAAeSwCEdpyL76/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787165573087,
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "318782942526",
@@ -236,14 +280,14 @@
         "priceC": 70000,
         "shippingC": 624,
         "landedC": 70624,
-        "url": "https://www.ebay.com/itm/318782942526?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&itmmeta=01M1120BVB188CK16DXZHMHJ89&hash=item4a38f1ad3e:g:jGAAAeSwqlBqjxuE&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCHXp5cEZOPWnZZO8UXKJD5QyF4rPv9MqcDK5ODg%2FGAdfFSrGDehF5Ix%2Btv5%2FbllY1juPh6KgkbffDn10HPSgA6gNkk%2FPMkwqk9NYkPoNtmNpWgvj9lxFT%2B9FHpPypGzaQVCEd2DXKCmuy%2FZKYNVwhTXpCgoU9D4U9QgHmvnC0zLKlzvOT5tfT%2FK6owNbbd7FSXVaVfBShowZexbPZ0I9dQyoQozUs96wGNlrfb3fbJKuExZiSccHMTOdL2KMFENJThfaa35F8iXaIBAQvS1n514Lt8uUqs1CPSmt%2B5out6vQueQ1XSZCn%2BBk2%2FGx6Mqs8%3D%7Ctkp%3ABk9SR_69gaKIaA",
+        "url": "https://www.ebay.com/itm/318782942526?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&itmmeta=01M13XY52FEX4V7077ZZPYJ9BT&hash=item4a38f1ad3e:g:jGAAAeSwqlBqjxuE&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCHXp5cEZOPWnZZO8UXKJD5QyF4rPv9MqcDK5ODg%2FGAdfFSrGDehF5Ix%2Btv5%2FbllY1juPh6KgkbffDn10HPSgA6gNkk%2FPMkwqk9NYkPoNtmNpWgvj9lxFT%2B9FHpPypGzaR%2B6vNrKJhfxjNp4tdWWlrzwZQbqGVVC7cboE0WZvv8fUwwLNJNBsvHdvNMox9cJlD%2BpP%2FSSD5j1o23mUwmTCOX1Lc3A2eVnSdni6pJx3YrMpNIZgzLP2n51k2K31J6EndST%2BZJZFI%2F1lP41dSIJ1zvdEMpYMo7KkHEHZBuNwaaFfgq7C5%2FXZvTNCoV6fO4XTU%3D%7Ctkp%3ABk9SR8bR-P2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/jGAAAeSwqlBqjxuE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787815835896,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787912759000
       },
       {
         "itemId": "398167990476",
@@ -251,14 +295,59 @@
         "priceC": 99900,
         "shippingC": 0,
         "landedC": 99900,
-        "url": "https://www.ebay.com/itm/398167990476?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M1120BVBAN7K0SDGQ9EZ0SJE&hash=item5cb4a960cc:g:DLgAAeSwMJ5qStcv&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xB6o2jRdZCLLqRnjOXx0g4q0BGFKwHQQUh3D53%2B1EZc%2B63ALBCgehVrRjQdA0WwzNbStGAg%2FGCaXlxS0ZmoR0GiwWWpz77iUOSq74dlJs2XK%2BXnbXImS8mcqkhbPhcONVevwsreysOWxhUCCWtHxkQSmw%2FUrHOVtiRt6oTQE%2B3n3pWRz2pYJpUvJvhh02qcfyZbHPClFjjvU%2FNpaFCLte%2FiqbxAH9%2B77PcI1NlqaUol7kZgA4c0huZ5AdTgmtncxMDSjBD8EXpH4BuiCw2qx6Z3%7Ctkp%3ABk9SR4C-gaKIaA",
+        "url": "https://www.ebay.com/itm/398167990476?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M13XY52G1HM2VW916CE4AZSR&hash=item5cb4a960cc:g:DLgAAeSwMJ5qStcv&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB%2BSIUKYaijVnFxpqhDeEuMytxS4eYkpvy83o8ZYm7T85owClNxKbu30NEnQMqc31Y%2FTKb%2FU9DG5RnL6AmTo7kGlbTdXzW4xtVSBNYs96G06pryvRtLWsy371pDVua%2F%2BruuUYdmz2wVrEEXABTs%2FI2ifsrocrHgpEA3siqUcSwl5PKs0hMB19pIQYTteGHKPZpoQWJSSzBg1M1zTryMF1OnGTrctGCwZnCNZsdcwc5naA4f%2F6o%2B6R6yB2ukeenjnSEKpgdguFOdVyPykz0yMorsDLzEYYrKksZVv26rWPKh0eOXa0F0QUNswqyeO4OFS8E%3D%7Ctkp%3ABk9SR8jR-P2IaA",
         "imageUrl": "https://i.ebayimg.com/images/g/DLgAAeSwMJ5qStcv/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787046039169,
-        "lastSeen": 1787815835896
+        "lastSeen": 1787912759000
+      },
+      {
+        "itemId": "287517940999",
+        "title": "2000 Pokemon Neo Genesis 1st Edition #1 Ampharos Holo PSA 10 GEM MINT HEAD SWIRLOpens in a new window or tab",
+        "priceC": 280000,
+        "shippingC": 562,
+        "landedC": 280562,
+        "url": "https://www.ebay.com/itm/287517940999?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M13XY52J2Y503ABZSZ55V021&hash=item42f1679d07:g:WBQAAeSwgYVqeqow&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBQ3Q7S06BODPKTScM2hjyYxWpO1cOU1Y2%2FPMxoJXtGm1Og6cBR8bEbffQE%2BM7dbXVRbu1e7rjwyHH3s06QWXYMhNWrsjGN69SPLv2A2z3ox7W6ktCWwMQAcpAmbMjFxtewdxsztEvHZr1klpqKektJ7YJH%2BteVZ2eeDtyBNoVCISfLf7WEqUtGDWXwOyOZfc0j7W1U9kdICXXioP02lNChVWMlW5Rbq6HqqJsfL72WE9NhAwRcW6nmuEEIPqopagfrTBYJvui5AwmiCFr1KmCs%7Ctkp%3ABk9SR8zR-P2IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/WBQAAeSwgYVqeqow/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787046039169,
+        "lastSeen": 1787912759000
+      },
+      {
+        "itemId": "287265005367",
+        "title": "Pokemon Ampharos Neo Genesis 1st Edition Holo Rare #1 PSA 10 Gem MintOpens in a new window or tab",
+        "priceC": 450000,
+        "shippingC": 999,
+        "landedC": 450999,
+        "url": "https://www.ebay.com/itm/287265005367?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M13XY52J6N6RGTNRKNZ7FNJ9&hash=item42e2541f37:g:GyEAAeSw69Jp2VnX&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDucMSyZmbaa%2BWvDEiV9%2B75i8AuohGEqPEc3v7QDrST9BLl%2BcEztnt7w40JaTHNzMeHGP%2B5nIcoy19LLtDQUWtoMamtvzoc5o1CjJ71utVBTKEAEFSecHPn8nmEb1Gif7Y%2BKcEntl3K3JDtucTq3sgI9hPe%2B9uD8BwSkcre6ocXpyFLXl6FH7M7tdbIdikqAfFrZojC2MUoC0bul0nnpYxNQ5I6uuGZIFbdmL%2FHecUx8k8rM7S%2F04WB%2BdYR6Ul4oAOJvSwllbzQgSeWRErPQcdmOvYEHsK4jxQp1u5ZTwSYKwx9d%2FE%2FLNCTO7nwFrqDw%2Bk%3D%7Ctkp%3ABk9SR8zR-P2IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/GyEAAeSw69Jp2VnX/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787046039169,
+        "lastSeen": 1787912759000
+      },
+      {
+        "itemId": "127941756568",
+        "title": "2000 POKEMON NEO GENESIS 1ST EDITION #1 AMPHAROS-HOLO PSA 10Opens in a new window or tab",
+        "priceC": 249999,
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/127941756568?_skw=%28ampharos%29+%281%2Cneo%2Cgenesis%29+%28CGC%2CPSA%29&epid=7043378950&itmmeta=01M13XY52JE78QVZDXJ198APKF&hash=item1dc9ec4698:g:9f0AAeSw8HVqMEtL&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD1ntWqcdC3SKXpESVhIRxQ3KVC9ap5%2FdyNMPAFBR%2B3x5piFKiRC4Vdz5ZDlfsB2PxnV%2BPfiYrd1g%2BOgk3t8H7j6wwGzi%2BPwKQScpSoapqmABwd8tZ1u6NF8rJitZGEzaz%2FKLWJTP7uaT0ewXcx0wHYMYuEnWiXJh9EBbRsVGFx92i7tl1T4Th9rosm8Zkaz9eHY%2BUdv%2FqIy39DXOPyrNc2LlpxT3dkjdTi8LDoM64QZl8TMV6BKmNRtMsNLiVBi1zGg04RMjavR2AoHM2xTA%2Bs%7Ctkp%3ABk9SR87R-P2IaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/9f0AAeSw8HVqMEtL/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787046039169,
+        "lastSeen": 1787912759000
       }
     ],
     "marketHistory": {
@@ -1883,7 +1972,7 @@
       ],
       "englishSaleCount": 283,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787729381806
+      "lastCapturedAt": 1787902592920
     }
   }
 }
