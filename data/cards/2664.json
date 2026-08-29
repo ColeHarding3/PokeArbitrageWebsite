@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260828T103222306Z-e4d988bcd6",
-  "generatedAt": 1787913142306,
+  "snapshotId": "20260829T093902881Z-2c77376cd2",
+  "generatedAt": 1787996342881,
   "data": {
     "deal": {
       "variantId": 2664,
@@ -36,16 +36,16 @@
         "itemId": "137641359664",
         "title": "CGC 10 MARILL AQUAPOLIS 53/147 REVERSE HOLO ****POP 3****Opens in a new window or tab",
         "priceC": 500000,
-        "shippingC": null,
-        "landedC": null,
-        "url": "https://www.ebay.com/itm/137641359664?_skw=%28marill%29+%2853%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383945&itmmeta=01M13PA25WTF6D78PJ1NH08H0T&hash=item200c107930:g:~~0AAeSwicVqhlCB&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBYIM5WNkJsrwiw4WRWmJwAU2JLDDZ6d5II88ePq%2FomsvTPRlOONp%2FPlEzKugEdO0%2FXXfm5eNdwoPula5GyxEAC76AyYX0TGZFUrP8eq7Q1Zp9QQo%2FeIVYGUy61KG0E%2Bzler865%2F5GTbHpPmGFfSi8xTy1L7rgajBPps0ateddKlzBH%2FGPosiyG--clfcWvooiRM91zv%2BiXjjz8kwPZ7OVdDahhSWXAygsa9OMA7s%2F3b0YPCSFQMDS2wnaEt%2FtCLfIxU%2FOIcFQwqFMiAns0Hzh2%7Ctkp%3ABk9SR4qjqPaIaA",
+        "shippingC": 840,
+        "landedC": 500840,
+        "url": "https://www.ebay.com/itm/137641359664?_skw=%28marill%29+%2853%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383945&itmmeta=01M168GQ5TBXDD4Z7HECK4TYDB&hash=item200c107930:g:~~0AAeSwicVqhlCB&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAojW00PnfzCJIsjohXg5ADfTJ8OS%2BnLPl9QWnVBCcvby8pbtqWM1le9iKgvuhMvLRAaPPAR8ClyGnqDAFQIzdFrbNU5DMN3NApCgjHJ9T4MvEBO9fr3JQcBEnjWBL7Xz0tGezYXuWcXwqVi%2BJkyqPbZwrj3pvpOmTXguwCGXCT0UDs%2FOrIxHLuJiniV5rPPKRDiwRH0hs1voTWLUFmL7IW3O%2FpN8FW5aqWrKyRywoUehquJ%2BfjELNqpfH%2FhtZjJM3lVgOnzumgRTM%2FaEpo4%2Be%2BIrwenZu09CGhO8XcWuYSglfMNvHpq38JnA6iBaDAiYc%3D%7Ctkp%3ABk9SR5bzwsiJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~~0AAeSwicVqhlCB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787212719513,
-        "lastSeen": 1787904229797
+        "lastSeen": 1787990446147
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -57,30 +57,58 @@
         "psa10Auction": 0,
         "psa9Bin": 0
       },
-      "ratio": null,
+      "ratio": {
+        "ok": true,
+        "tier": {
+          "id": "express",
+          "label": "Express",
+          "feeC": 14900,
+          "declaredValueCapC": 250000,
+          "turnaroundBizDays": 30
+        },
+        "cgc10CostC": 500840,
+        "submissionFeeC": 14900,
+        "totalCostC": 515740,
+        "psa10ValueC": 154469,
+        "ratio": 0.29950944274246716
+      },
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "137641359664",
           "title": "CGC 10 MARILL AQUAPOLIS 53/147 REVERSE HOLO ****POP 3****Opens in a new window or tab",
           "priceC": 500000,
-          "shippingC": null,
-          "landedC": null,
-          "url": "https://www.ebay.com/itm/137641359664?_skw=%28marill%29+%2853%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383945&itmmeta=01M13PA25WTF6D78PJ1NH08H0T&hash=item200c107930:g:~~0AAeSwicVqhlCB&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBYIM5WNkJsrwiw4WRWmJwAU2JLDDZ6d5II88ePq%2FomsvTPRlOONp%2FPlEzKugEdO0%2FXXfm5eNdwoPula5GyxEAC76AyYX0TGZFUrP8eq7Q1Zp9QQo%2FeIVYGUy61KG0E%2Bzler865%2F5GTbHpPmGFfSi8xTy1L7rgajBPps0ateddKlzBH%2FGPosiyG--clfcWvooiRM91zv%2BiXjjz8kwPZ7OVdDahhSWXAygsa9OMA7s%2F3b0YPCSFQMDS2wnaEt%2FtCLfIxU%2FOIcFQwqFMiAns0Hzh2%7Ctkp%3ABk9SR4qjqPaIaA",
+          "shippingC": 840,
+          "landedC": 500840,
+          "url": "https://www.ebay.com/itm/137641359664?_skw=%28marill%29+%2853%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383945&itmmeta=01M168GQ5TBXDD4Z7HECK4TYDB&hash=item200c107930:g:~~0AAeSwicVqhlCB&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAojW00PnfzCJIsjohXg5ADfTJ8OS%2BnLPl9QWnVBCcvby8pbtqWM1le9iKgvuhMvLRAaPPAR8ClyGnqDAFQIzdFrbNU5DMN3NApCgjHJ9T4MvEBO9fr3JQcBEnjWBL7Xz0tGezYXuWcXwqVi%2BJkyqPbZwrj3pvpOmTXguwCGXCT0UDs%2FOrIxHLuJiniV5rPPKRDiwRH0hs1voTWLUFmL7IW3O%2FpN8FW5aqWrKyRywoUehquJ%2BfjELNqpfH%2FhtZjJM3lVgOnzumgRTM%2FaEpo4%2Be%2BIrwenZu09CGhO8XcWuYSglfMNvHpq38JnA6iBaDAiYc%3D%7Ctkp%3ABk9SR5bzwsiJaA",
           "imageUrl": "https://i.ebayimg.com/images/g/~~0AAeSwicVqhlCB/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787212719513,
-          "lastSeen": 1787904229797
+          "lastSeen": 1787990446147
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
-        "ratio": null,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "express",
+            "label": "Express",
+            "feeC": 14900,
+            "declaredValueCapC": 250000,
+            "turnaroundBizDays": 30
+          },
+          "cgc10CostC": 500840,
+          "submissionFeeC": 14900,
+          "totalCostC": 515740,
+          "psa10ValueC": 154469,
+          "ratio": 0.29950944274246716
+        },
         "firstOpportunityAt": 1787212719513
       },
       "firstOpportunityAt": 1787212719513,
-      "updatedAt": 1787904229797
+      "updatedAt": 1787990446147
     },
     "prices": {
       "variantId": 2664,
@@ -102,31 +130,31 @@
         "itemId": "137641359664",
         "title": "CGC 10 MARILL AQUAPOLIS 53/147 REVERSE HOLO ****POP 3****Opens in a new window or tab",
         "priceC": 500000,
-        "shippingC": null,
-        "landedC": null,
-        "url": "https://www.ebay.com/itm/137641359664?_skw=%28marill%29+%2853%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383945&itmmeta=01M13PA25WTF6D78PJ1NH08H0T&hash=item200c107930:g:~~0AAeSwicVqhlCB&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBYIM5WNkJsrwiw4WRWmJwAU2JLDDZ6d5II88ePq%2FomsvTPRlOONp%2FPlEzKugEdO0%2FXXfm5eNdwoPula5GyxEAC76AyYX0TGZFUrP8eq7Q1Zp9QQo%2FeIVYGUy61KG0E%2Bzler865%2F5GTbHpPmGFfSi8xTy1L7rgajBPps0ateddKlzBH%2FGPosiyG--clfcWvooiRM91zv%2BiXjjz8kwPZ7OVdDahhSWXAygsa9OMA7s%2F3b0YPCSFQMDS2wnaEt%2FtCLfIxU%2FOIcFQwqFMiAns0Hzh2%7Ctkp%3ABk9SR4qjqPaIaA",
+        "shippingC": 840,
+        "landedC": 500840,
+        "url": "https://www.ebay.com/itm/137641359664?_skw=%28marill%29+%2853%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383945&itmmeta=01M168GQ5TBXDD4Z7HECK4TYDB&hash=item200c107930:g:~~0AAeSwicVqhlCB&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAojW00PnfzCJIsjohXg5ADfTJ8OS%2BnLPl9QWnVBCcvby8pbtqWM1le9iKgvuhMvLRAaPPAR8ClyGnqDAFQIzdFrbNU5DMN3NApCgjHJ9T4MvEBO9fr3JQcBEnjWBL7Xz0tGezYXuWcXwqVi%2BJkyqPbZwrj3pvpOmTXguwCGXCT0UDs%2FOrIxHLuJiniV5rPPKRDiwRH0hs1voTWLUFmL7IW3O%2FpN8FW5aqWrKyRywoUehquJ%2BfjELNqpfH%2FhtZjJM3lVgOnzumgRTM%2FaEpo4%2Be%2BIrwenZu09CGhO8XcWuYSglfMNvHpq38JnA6iBaDAiYc%3D%7Ctkp%3ABk9SR5bzwsiJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~~0AAeSwicVqhlCB/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787212719513,
-        "lastSeen": 1787904229797
+        "lastSeen": 1787990446147
       },
       {
         "itemId": "318770078435",
         "title": "2003 POKEMON AQUAPOLIS MARILL REVERSE HOLO 53/147 CGC 10 PRISTINE ***POP 1***Opens in a new window or tab",
         "priceC": 600000,
-        "shippingC": null,
-        "landedC": null,
-        "url": "https://www.ebay.com/itm/318770078435?_skw=%28marill%29+%2853%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383945&itmmeta=01M13PA25WKDXAKWFHGW66DNMB&hash=item4a382d62e3:g:-OsAAeSwlDZqam0F&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBG%2BGaMP6ogeG%2FUXmR%2FRe0VtnIcQGCIF0bbMNztxIMVrIiXm7yEJiScuvqP2T7iwb2dguhRpza%2Bbz%2BUem4v%2BFK5aMv0kehADdnw6k9O8%2B9RP%2BJ%2BQ5npd5GEREUDNal4K3IXYRUVzyPjSqdAq0q7G1Qmtam1dtV8DbMwbqjD3dD4N3SlQT1fLFdhtHkqriTnKZS9v5xwKJ5PfIUMvPaajRo9nDB5QlN0HMTx4auZ28obTHuGo8ldpQJkC2drjUwZQ7oZsZwK59xfCIck9JRU1L9Y%7Ctkp%3ABk9SR4qjqPaIaA",
+        "shippingC": 0,
+        "landedC": 600000,
+        "url": "https://www.ebay.com/itm/318770078435?_skw=%28marill%29+%2853%2Caquapolis%29+%28CGC%2CPSA%29&epid=23043383945&itmmeta=01M168GQ5TVA97TPSFCKY1X2S3&hash=item4a382d62e3:g:-OsAAeSwlDZqam0F&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCXuDuYO%2BsCpDloqrP%2FDu0YFd9tJQonBEgVVrJhhcW2IOzzgijdTUnoG9HIbcVtvZ3Dgm96p%2BU8b74%2BC5f2htpsy3NVlNgyJ0RIf2P%2F7KteEBTvPYETTz3M5eaOiV6ja3L8qGFpe4ApKSOOIFsMu%2BVcypNSX1QtWnQC5DBrwujo4kZ7Xw5xrEkfNgzOTk%2BxULLP9ac9Zt2FmfEnDfC974oIvaiigpXfnIq5533Koq8Nx4mAma7hvPmqcjqa5e089No9pBKFnDTK%2Bl%2FXSG%2BLNGbbmYWop7qMfLi3sl8L0FrgK3yavOYurEzxPTq5NBrvyJM%3D%7Ctkp%3ABk9SR5bzwsiJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-OsAAeSwlDZqam0F/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558075872,
-        "lastSeen": 1787904229797
+        "lastSeen": 1787990446147
       }
     ],
     "marketHistory": {

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260828T103222306Z-e4d988bcd6",
-  "generatedAt": 1787913142306,
+  "snapshotId": "20260829T093902881Z-2c77376cd2",
+  "generatedAt": 1787996342881,
   "data": {
     "deal": {
       "variantId": 689,
@@ -34,25 +34,39 @@
       },
       "bestCgc10": null,
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "147533704377",
+        "title": "Pokemon Base set 2 Gyarados PSA 9Opens in a new window or tab",
+        "priceC": 21000,
+        "shippingC": 1856,
+        "landedC": 22856,
+        "url": "https://www.ebay.com/itm/147533704377?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=15043377694&itmmeta=01M166HBQPW66PY03RH1XTZ5WS&hash=item2259b1acb9:g:j-MAAeSwo8JqkdSW&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAVFG1jBAwj9TG8XA0eOVxkaCx7hi8LocZ18LAeHWy6KORa8jfSErPUpjHx9H%2B%2BBUd4HVt4Dqhq3QgeQLCMZpD3bw4r%2BXAmyTsjI1YoWAm7MGUFCkoUfEbY3hkR4TjedL6qc2EOZpmKRw2rZx6JAuGyGzWzm6bkBnWQ7oG19D4bWczkW4hSTL4oRc5TDZ8V9RDfFA%2FWFcKCPScpnQajrRV76bHeEKOlUAmxGAhWwC5vInMxbNVBXRvWSbC2E293PeOkwGDDL%2B0vHDnTxjQ8rSmK0FWB19abiTJKpq7uiU8CzRryt1dePlcxOGMaXln4gIs%3D%7Ctkp%3ABk9SR4K8xcaJaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/j-MAAeSwo8JqkdSW/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787987445774,
+        "lastSeen": 1787988494988
+      },
       "counts": {
         "cgc10Bin": 0,
-        "cgc10Auction": 1,
+        "cgc10Auction": 2,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 3
       },
       "ratio": null,
       "withoutLegacyCgc95": {
         "bestCgc10": null,
         "cgc10Bin": 0,
-        "cgc10Auction": 0,
+        "cgc10Auction": 1,
         "ratio": null,
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787901788928
+      "updatedAt": 1787988494988
     },
     "prices": {
       "variantId": 689,
@@ -74,16 +88,76 @@
         "itemId": "287541276558",
         "title": "Pokemon Gyarados Base Set 2 7/130 Holo CGC 9.5Opens in a new window or tab",
         "priceC": 5000,
-        "shippingC": 699,
-        "landedC": 5699,
-        "url": "https://www.ebay.com/itm/287541276558?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=15043377694&itmmeta=01M13M2F4VBN1T2WYRAXXS0M3M&hash=item42f2cbaf8e:g:s58AAeSww45qit9Z&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDLDQ3oZMrN6uLd0Yw6lukjkG3PZVqpkOygWM%2Bz2zs%2FrGSdjo4Xk%2FgSqNyr8dCPrHTLvD1OHqerhZNklOtw47VhO8lkVENZqNMP6meQTaU%2FFCyvWfXbiSMfjvKpoMk5J8qqhZgyAmHfu7DXTMgxBqTTVlifo62wRa1xIqwYxORo0BHfRQ13g8igi6M8dz83he%2BvE26qWjvOBkG%2Bt%2Bs962Ca62sadxq0PMCf7N2L79Lcasmo%2BQjRRSSH9KmpiMVc%2ByzxGRiv7BdnOphjC2EtTPqp%7Ctkp%3ABk9SR9zyifSIaA",
+        "shippingC": 1750,
+        "landedC": 6750,
+        "url": "https://www.ebay.com/itm/287541276558?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=15043377694&itmmeta=01M166GWPA0X8YV6HP2ZGB5HRN&hash=item42f2cbaf8e:g:s58AAeSww45qit9Z&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDJcW8%2FfjzXA5quilbC5KPgFO9aW5KY%2BpzynMjgANg4nu9sV%2BEBS3mJuC6j2qancTubJMvoC7%2Bp5QqqzPgyh53fGQAEHr8%2FAvASbb%2FTQryR19VQwP7LmZJ7%2B775X22xhtRaa%2FRMYuqzCxOCq9iQJPbwVwamyBm8DPjdh7lAi%2FQzoC6wnycTPYrbM9BKfBp9i96kpTAS3eAHbdZpJD21VMnxL5L23monkfKnhsLDxkUzcEFceFt4DHZvvpzDu7j4kcGOizU07zyleIemmG9%2B2wkY3%2FBkKDljizWJ69Jh6tzB2taoFxhlgxb3jIShGy5M5zE%3D%7Ctkp%3ABk9SR6rLw8aJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/s58AAeSww45qit9Z/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787555910622,
-        "lastSeen": 1787902012992
+        "lastSeen": 1787988494988
+      },
+      {
+        "itemId": "147533704377",
+        "title": "Pokemon Base set 2 Gyarados PSA 9Opens in a new window or tab",
+        "priceC": 21000,
+        "shippingC": 1856,
+        "landedC": 22856,
+        "url": "https://www.ebay.com/itm/147533704377?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=15043377694&itmmeta=01M166HBQPW66PY03RH1XTZ5WS&hash=item2259b1acb9:g:j-MAAeSwo8JqkdSW&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAVFG1jBAwj9TG8XA0eOVxkaCx7hi8LocZ18LAeHWy6KORa8jfSErPUpjHx9H%2B%2BBUd4HVt4Dqhq3QgeQLCMZpD3bw4r%2BXAmyTsjI1YoWAm7MGUFCkoUfEbY3hkR4TjedL6qc2EOZpmKRw2rZx6JAuGyGzWzm6bkBnWQ7oG19D4bWczkW4hSTL4oRc5TDZ8V9RDfFA%2FWFcKCPScpnQajrRV76bHeEKOlUAmxGAhWwC5vInMxbNVBXRvWSbC2E293PeOkwGDDL%2B0vHDnTxjQ8rSmK0FWB19abiTJKpq7uiU8CzRryt1dePlcxOGMaXln4gIs%3D%7Ctkp%3ABk9SR4K8xcaJaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/j-MAAeSwo8JqkdSW/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787987445774,
+        "lastSeen": 1787988494988
+      },
+      {
+        "itemId": "227280220416",
+        "title": "2000 POKEMON BASE SET II \" PERFECT CENTERING \" #7 GYARADOS - HOLO PSA 9Opens in a new window or tab",
+        "priceC": 21900,
+        "shippingC": 3400,
+        "landedC": 25300,
+        "url": "https://www.ebay.com/itm/227280220416?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&itmmeta=01M166HBQP9EYXQK3SVS9E9K6Z&hash=item34eaf4f100:g:b~sAAeSwgyhpy1Uy&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBG19BA70dRoQWWk6FtwNHbj9zNT%2Btw1xN%2Fk3L7GOMZaCoiMA5T4pxKsGjW7DtJ%2F4G5vY1xKkbWL%2FPxv9eNXEcZZGCN%2F7TtulU%2Fyn0MGlTTeI6%2FAPMvvrUkm5Np9erJgBBmzdOBse2Syzue9eHfJ%2Ff9HD375Gmj4jrkbPFffRGGNms3gT%2BgwmWE7LmTgDd6rgLjz%2FdYBBrQAmtlSs%2FPqAxs6D1QOg%2FYBuscDGblIUX0eyuwOe73kobrdIMCvPc5GRrl5q25qyVcfm%2BmSqwZI9XLNH%2FHgKqCbjw4K1KbkY7p8gLzOn3x%2BNnRGrVLp9ETThg%3D%7Ctkp%3ABk9SR4S8xcaJaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/b~sAAeSwgyhpy1Uy/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787296960631,
+        "lastSeen": 1787988494988
+      },
+      {
+        "itemId": "137472143236",
+        "title": "2000 Pokemon Gyarados-Holo Base Set 2 #7 PSA 9Opens in a new window or tab",
+        "priceC": 22999,
+        "shippingC": 3000,
+        "landedC": 25999,
+        "url": "https://www.ebay.com/itm/137472143236?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=15043377694&itmmeta=01M166HBQP7YP7PMT9XD4GTV71&hash=item2001fa6f84:g:0LcAAeSwcIlqRW5v&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBdmzC5eOPlB9lsgtItNHOhi%2F2koPaxxhXSf2B96bj2rDvjlAdmhtr%2BDF1VqaQWGsnyYTqi0vBkpRIr3dlUtiDizOZOiZyDpWLeVI9wms7D1T1dBS9tf8iKyd%2BxnTt25hiRD0ekevf4o6ubhKh9NAUtoCp2GN4wHpGUNf04r9FWsQ5FkYeZUR9iX61TCZlkOERfgioknZ7PYoxtwW17wQNxKIwZ7qTg3RNW9p4AtA44nY1W1zBF6tXAlPXG5Q0RqzmwLjNLD4KSUxKx2nR4Un10bDlk18od00MpKjtTIX1X0d8mvCyVzFeSu%2FZUb5yNXiQ%3D%7Ctkp%3ABk9SR4a8xcaJaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/0LcAAeSwcIlqRW5v/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787210439269,
+        "lastSeen": 1787988494988
+      },
+      {
+        "itemId": "407160085744",
+        "title": "Pokemon 2000 Gyarados 7/130 Holo Rare Base Set 2 GEM MINT CGC 10Opens in a new window or tab",
+        "priceC": 33000,
+        "shippingC": 3158,
+        "landedC": 36158,
+        "url": "https://www.ebay.com/itm/407160085744?_skw=%28gyarados%29+%287%2Cbase%2Cset%2C2%29+%28CGC%2CPSA%29&epid=15043377694&itmmeta=01M166HBQS69SE5XVQZVTY07Q5&hash=item5ecca1dcf0:g:MzYAAeSwSGdqh9UT&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAHMKAcjRZgpgAyRPNlunNrOFAukKaE%2FgdYBiuTm9BOCM9aAj71ar2zL2hPGOtYDNv47NHXbe%2BGo3UCKKbhslsi9QepufLqlbGG8qzcITRMNrilKsdYkJ89KMBNAh0v0%2FJfkqL0Lmi2N4Qhksp7JEdRizyKo2e7L8jD7Kjsv2WMjSusVOAXoVF3tGlGWY9RJb0mEZcyfmiD0XlnqxtVeJbO5Y3SwwdmlSFCFB0Ie7q79t%2Bo8%2FLo%2Bre2zpWdAka26vtgfGFA07WCTFoF1LAe%2Ffru%2B9c%2BxmzLPpBvTohriZmMHDbfxuZBGBTX9Owc7f8jLa8%3D%7Ctkp%3ABk9SR4y8xcaJaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/MzYAAeSwSGdqh9UT/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "gemMint10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787296960631,
+        "lastSeen": 1787988494988
       }
     ],
     "marketHistory": {

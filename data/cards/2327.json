@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260828T103222306Z-e4d988bcd6",
-  "generatedAt": 1787913142306,
+  "snapshotId": "20260829T093902881Z-2c77376cd2",
+  "generatedAt": 1787996342881,
   "data": {
     "deal": {
       "variantId": 2327,
@@ -36,16 +36,16 @@
         "itemId": "236963335435",
         "title": "Dragonair 75/165 Expedition Reverse Holo CGC 10, POP 7Opens in a new window or tab",
         "priceC": 694200,
-        "shippingC": null,
-        "landedC": null,
-        "url": "https://www.ebay.com/itm/236963335435?_skw=%28dragonair%29+%2875%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=27043367123&itmmeta=01M13NZS166Z5BQFA7Q28MG5EX&hash=item372c1d8d0b:g:feoAAeSwmaVqZXyT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCkqAYJXJ2eT9QhZNkzOR29Y1ck9LVjyubQcn5me8yKYFLT6MKa13Z2iHlbXTXsqZo%2Fg9e3QWiDCaFyEEX2qtdnD%2FH%2B410B6A60RCPbw3OpCpi54G8EpWNXmjH0Z9B5m3ROUXjaSs8vqIQXBZSyb9XQUOGcSa%2F3GFobZhC5EKZwrEuQDJbGlk86Dr7RooMlERevvVEnCdhx4PPT4mAvnpNbBdroB7m9fjj3UCpCKX4AvFFbQZMwaUJ8BxDw%2FnQw37zVA404gyC4tAIdohQjLI%2F7CL2uW86oy%2FhYA2td5f7ogj46W4CSMJsH4MjdeGYNSU66KSmGhM0lSQA1AoD6YLDq%7Ctkp%3ABk9SR-qQ__WIaA",
+        "shippingC": 597,
+        "landedC": 694797,
+        "url": "https://www.ebay.com/itm/236963335435?_skw=%28dragonair%29+%2875%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=27043367123&itmmeta=01M168A03DR5VGN9H63WQBZDQA&hash=item372c1d8d0b:g:feoAAeSwmaVqZXyT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCxTYJprpEPu4iUXMvR5JJIOXNhHTw7VQNVHexW359CDd%2FHikHMnWaUhZaQxH%2FS2xdWguSkgvzhRUfcozIYxoQ7ly1Tazu%2BdaewFQKp%2FgQMD%2ByKsMgShxHnB7fN4Ci4O7lc3i71MrA%2FtHYGC9QOP71C7GsyH012GDhU4WKXVi%2BYjeQTopvAJGP%2FzYeUkdvnGVNf63tw1GjJuk0PpalSdflKq7uOaCLYuLhSXe7i6xVye7WI8aAsj%2F5J7HX2Oh2RFBtuQUYJPExvCKWKE9sUO1u%2Bqs9YrfLa3GZlvCw4g7f5ew%3D%3D%7Ctkp%3ABk9SR_aBqMiJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/feoAAeSwmaVqZXyT/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
-        "lastSeen": 1787903960554
+        "lastSeen": 1787990215525
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -57,30 +57,58 @@
         "psa10Auction": 0,
         "psa9Bin": 0
       },
-      "ratio": null,
+      "ratio": {
+        "ok": true,
+        "tier": {
+          "id": "regular",
+          "label": "Regular",
+          "feeC": 7999,
+          "declaredValueCapC": 150000,
+          "turnaroundBizDays": 50
+        },
+        "cgc10CostC": 694797,
+        "submissionFeeC": 7999,
+        "totalCostC": 702796,
+        "psa10ValueC": 40692,
+        "ratio": 0.05790015879430162
+      },
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "236963335435",
           "title": "Dragonair 75/165 Expedition Reverse Holo CGC 10, POP 7Opens in a new window or tab",
           "priceC": 694200,
-          "shippingC": null,
-          "landedC": null,
-          "url": "https://www.ebay.com/itm/236963335435?_skw=%28dragonair%29+%2875%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=27043367123&itmmeta=01M13NZS166Z5BQFA7Q28MG5EX&hash=item372c1d8d0b:g:feoAAeSwmaVqZXyT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCkqAYJXJ2eT9QhZNkzOR29Y1ck9LVjyubQcn5me8yKYFLT6MKa13Z2iHlbXTXsqZo%2Fg9e3QWiDCaFyEEX2qtdnD%2FH%2B410B6A60RCPbw3OpCpi54G8EpWNXmjH0Z9B5m3ROUXjaSs8vqIQXBZSyb9XQUOGcSa%2F3GFobZhC5EKZwrEuQDJbGlk86Dr7RooMlERevvVEnCdhx4PPT4mAvnpNbBdroB7m9fjj3UCpCKX4AvFFbQZMwaUJ8BxDw%2FnQw37zVA404gyC4tAIdohQjLI%2F7CL2uW86oy%2FhYA2td5f7ogj46W4CSMJsH4MjdeGYNSU66KSmGhM0lSQA1AoD6YLDq%7Ctkp%3ABk9SR-qQ__WIaA",
+          "shippingC": 597,
+          "landedC": 694797,
+          "url": "https://www.ebay.com/itm/236963335435?_skw=%28dragonair%29+%2875%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=27043367123&itmmeta=01M168A03DR5VGN9H63WQBZDQA&hash=item372c1d8d0b:g:feoAAeSwmaVqZXyT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCxTYJprpEPu4iUXMvR5JJIOXNhHTw7VQNVHexW359CDd%2FHikHMnWaUhZaQxH%2FS2xdWguSkgvzhRUfcozIYxoQ7ly1Tazu%2BdaewFQKp%2FgQMD%2ByKsMgShxHnB7fN4Ci4O7lc3i71MrA%2FtHYGC9QOP71C7GsyH012GDhU4WKXVi%2BYjeQTopvAJGP%2FzYeUkdvnGVNf63tw1GjJuk0PpalSdflKq7uOaCLYuLhSXe7i6xVye7WI8aAsj%2F5J7HX2Oh2RFBtuQUYJPExvCKWKE9sUO1u%2Bqs9YrfLa3GZlvCw4g7f5ew%3D%3D%7Ctkp%3ABk9SR_aBqMiJaA",
           "imageUrl": "https://i.ebayimg.com/images/g/feoAAeSwmaVqZXyT/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787052902664,
-          "lastSeen": 1787903960554
+          "lastSeen": 1787990215525
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
-        "ratio": null,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "regular",
+            "label": "Regular",
+            "feeC": 7999,
+            "declaredValueCapC": 150000,
+            "turnaroundBizDays": 50
+          },
+          "cgc10CostC": 694797,
+          "submissionFeeC": 7999,
+          "totalCostC": 702796,
+          "psa10ValueC": 40692,
+          "ratio": 0.05790015879430162
+        },
         "firstOpportunityAt": 1787052902664
       },
       "firstOpportunityAt": 1787052902664,
-      "updatedAt": 1787903960554
+      "updatedAt": 1787990215525
     },
     "prices": {
       "variantId": 2327,
@@ -102,16 +130,16 @@
         "itemId": "236963335435",
         "title": "Dragonair 75/165 Expedition Reverse Holo CGC 10, POP 7Opens in a new window or tab",
         "priceC": 694200,
-        "shippingC": null,
-        "landedC": null,
-        "url": "https://www.ebay.com/itm/236963335435?_skw=%28dragonair%29+%2875%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=27043367123&itmmeta=01M13NZS166Z5BQFA7Q28MG5EX&hash=item372c1d8d0b:g:feoAAeSwmaVqZXyT&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCkqAYJXJ2eT9QhZNkzOR29Y1ck9LVjyubQcn5me8yKYFLT6MKa13Z2iHlbXTXsqZo%2Fg9e3QWiDCaFyEEX2qtdnD%2FH%2B410B6A60RCPbw3OpCpi54G8EpWNXmjH0Z9B5m3ROUXjaSs8vqIQXBZSyb9XQUOGcSa%2F3GFobZhC5EKZwrEuQDJbGlk86Dr7RooMlERevvVEnCdhx4PPT4mAvnpNbBdroB7m9fjj3UCpCKX4AvFFbQZMwaUJ8BxDw%2FnQw37zVA404gyC4tAIdohQjLI%2F7CL2uW86oy%2FhYA2td5f7ogj46W4CSMJsH4MjdeGYNSU66KSmGhM0lSQA1AoD6YLDq%7Ctkp%3ABk9SR-qQ__WIaA",
+        "shippingC": 597,
+        "landedC": 694797,
+        "url": "https://www.ebay.com/itm/236963335435?_skw=%28dragonair%29+%2875%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=27043367123&itmmeta=01M168A03DR5VGN9H63WQBZDQA&hash=item372c1d8d0b:g:feoAAeSwmaVqZXyT&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCxTYJprpEPu4iUXMvR5JJIOXNhHTw7VQNVHexW359CDd%2FHikHMnWaUhZaQxH%2FS2xdWguSkgvzhRUfcozIYxoQ7ly1Tazu%2BdaewFQKp%2FgQMD%2ByKsMgShxHnB7fN4Ci4O7lc3i71MrA%2FtHYGC9QOP71C7GsyH012GDhU4WKXVi%2BYjeQTopvAJGP%2FzYeUkdvnGVNf63tw1GjJuk0PpalSdflKq7uOaCLYuLhSXe7i6xVye7WI8aAsj%2F5J7HX2Oh2RFBtuQUYJPExvCKWKE9sUO1u%2Bqs9YrfLa3GZlvCw4g7f5ew%3D%3D%7Ctkp%3ABk9SR_aBqMiJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/feoAAeSwmaVqZXyT/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
-        "lastSeen": 1787903960554
+        "lastSeen": 1787990215525
       }
     ],
     "marketHistory": {

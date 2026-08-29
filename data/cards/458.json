@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260828T103222306Z-e4d988bcd6",
-  "generatedAt": 1787913142306,
+  "snapshotId": "20260829T093902881Z-2c77376cd2",
+  "generatedAt": 1787996342881,
   "data": {
     "deal": {
       "variantId": 458,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/e69a8058e3d74f89ef9032af1e1adc4d250b15530c55bfd33e1426f20e283c39/1600.jpg",
       "popularityScore": 85,
       "market": {
-        "ungradedC": 1525,
-        "grade9C": 7588,
+        "ungradedC": 1500,
+        "grade9C": 7800,
         "grade95C": 12000,
         "cgc10C": 13925,
-        "cgc10PristineC": 63513,
-        "psa10C": 110746,
-        "bgs10C": 144000,
+        "cgc10PristineC": 63507,
+        "psa10C": 110000,
+        "bgs10C": 143000,
         "psa9Pop": null,
         "psa10Pop": null,
         "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    2 sales per week\",\"volume: 1 sale per day\":\"volume: \\n    1 sale per week\"}",
-        "fetchedAt": 1787901366510
+        "fetchedAt": 1787987932983
       },
       "bestCgc10": {
         "itemId": "377436100727",
@@ -48,19 +48,19 @@
         "lastSeen": 1787814677018
       },
       "bestPsa10": {
-        "itemId": "188828529880",
+        "itemId": "188854868931",
         "title": "2001 POKEMON GAME MOVIE #34 ENTEI-REV.FOIL POKEMON 3 MOVIE PROMO PSA 10Opens in a new window or tab",
         "priceC": 109999,
-        "shippingC": 6880,
-        "landedC": 116879,
-        "url": "https://www.ebay.com/itm/188828529880?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M13XK5MCZ7CEMJYR34WZDD51&hash=item2bf70eb4d8:g:ejsAAeSw3QtqWqci&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xD3xqIFyRQR%2Fx%2B1P0ehtKoIDjC8o56QLTtB0r4KDWubKsuhQbHC%2BjU0bPtMpsWxJai8AR52sDgsDEUTuPfEVQIspMoOl%2BoY%2BShpM%2BxlsKNrKpeH66jrSMSvnrdkn9TqXnvJdeBw2%2BfcCqCL37Y%2FE%2FZT1yfxV--vWwFogFbj7OeozLhBpA3rzKn3pTtU%2FBpInV6YisUU9qOfoV39rt716Aj2jgVz70eVVlToKObjKegPoamZXFqY4RtW2rX9OcAEOlNFxYEkbVUxhGfhe4FYPriLEjygYQPlcUh%2FFDrRhBY5p1inCg0yH2mLWM%2F%2BFik2yp4bP2nwRn62FbaT%2BlPtwKmE%7Ctkp%3ABk9SR8LazP2IaA",
+        "shippingC": 597,
+        "landedC": 110596,
+        "url": "https://www.ebay.com/itm/188854868931?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M16691X2EEMS1HR8EXNW7EBD&hash=item2bf8a09bc3:g:ejsAAeSw3QtqWqci&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCDv5n5dkssGnCgH0ZAxygRgxHViVDXd0lG2aCfQGLYXpST9sAXTSMd2URCmo0%2BB7ZJWu3dIRi6li8BjaDeQewtjExh4sJoDXioPlGe9v1JvBu39MBJudSlc9o1rwURDxzkPOblH%2BdmAgiurZS9sJO0maLVRWCfneSe7HjBQW5AAfBfOIrmJa290HCzdzQ8i0zNKRzOKPLyIYXA5MOyLBAlnvRDFbuOwHNlOwWlEb0%2FJ8y8WibkXsZNrH2cazZbTrEkLUPDxf%2BFHiYdfJ%2Br7fLxGarpddy%2BBlT%2FvCwyK4rpEdxs3O7ldXCUX9A6ALq6RUE0Ok0Yef6wjhQ%2Bv0HRsNIy%7Ctkp%3ABk9SR4KfpMaJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ejsAAeSw3QtqWqci/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
-        "firstSeen": 1787382758536,
-        "lastSeen": 1787912759000
+        "firstSeen": 1787988102184,
+        "lastSeen": 1787988102184
       },
       "bestPsa9": {
         "itemId": "237004356552",
@@ -81,9 +81,9 @@
         "cgc10Bin": 4,
         "cgc10Auction": 1,
         "pristine10": 2,
-        "psa10Bin": 2,
+        "psa10Bin": 3,
         "psa10Auction": 0,
-        "psa9Bin": 8
+        "psa9Bin": 9
       },
       "ratio": {
         "ok": true,
@@ -97,8 +97,8 @@
         "cgc10CostC": 29400,
         "submissionFeeC": 7999,
         "totalCostC": 37399,
-        "psa10ValueC": 110746,
-        "ratio": 2.9612021711810477
+        "psa10ValueC": 110000,
+        "ratio": 2.9412551137730953
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -130,44 +130,44 @@
           "cgc10CostC": 29400,
           "submissionFeeC": 7999,
           "totalCostC": 37399,
-          "psa10ValueC": 110746,
-          "ratio": 2.9612021711810477
+          "psa10ValueC": 110000,
+          "ratio": 2.9412551137730953
         },
         "firstOpportunityAt": 1787296401499
       },
       "firstOpportunityAt": 1787296401499,
-      "updatedAt": 1787912759000
+      "updatedAt": 1787988102184
     },
     "prices": {
       "variantId": 458,
-      "ungradedC": 1525,
-      "grade9C": 7588,
+      "ungradedC": 1500,
+      "grade9C": 7800,
       "grade95C": 12000,
       "cgc10C": 13925,
-      "cgc10PristineC": 63513,
-      "psa10C": 110746,
+      "cgc10PristineC": 63507,
+      "psa10C": 110000,
       "psa9Pop": null,
       "psa10Pop": null,
       "cgc10Pop": null,
-      "bgs10C": 144000,
+      "bgs10C": 143000,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    2 sales per week\",\"volume: 1 sale per day\":\"volume: \\n    1 sale per week\"}",
-      "fetchedAt": 1787901366510
+      "fetchedAt": 1787987932983
     },
     "listings": [
       {
         "itemId": "168636276536",
         "title": "Pokemon Black Star Entei Promo #34 PSA 9 Opens in a new window or tab",
-        "priceC": 850,
+        "priceC": 1550,
         "shippingC": 99,
-        "landedC": 949,
-        "url": "https://www.ebay.com/itm/168636276536?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M13XJWYMGB634STWAAR8VCGC&hash=item2743815f38:g:7EcAAeSw7SlqjHH~&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAssKtDKLAtNkrzWPLCPl7JtTnPcaHPWCexzvpuAp8t8heU6lLhpwbrHlnPt3CwzQj6AGQaFB3GGbqdqqTCDJvynIJhauc20McEUnshsFwljJ9bpjcXLynJWpLBOYnN03Dw6i1UBLxXnkFZzMzE9OxBk%2BpTHN7utWr5BaC3Y7egpp%2FDw1uTffegXRA4OZ2P%2FMk2YFMuDedASpbeHvwnRFAJFsDp55csgs41Arn8dfqVwtS3JNvUn2%2BAX18Md3yioMM6ATlBBtyxnUymKMEUZ1OXbWhMTrq54NWM0IpFB%2BHqy2cv3eVSFaMJDnvZGbniTNW17XvxD7BT08NpRCcGiGDN%7Ctkp%3ABk9SR8TPy_2IaA",
+        "landedC": 1649,
+        "url": "https://www.ebay.com/itm/168636276536?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M1668XAKKMWF1CJHNX04H04M&hash=item2743815f38:g:7EcAAeSw7SlqjHH~&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBxEdaaZARfXsUGTQE6aD8YhHvODHrhh%2B8nBvUeKwOXIMBVpplWuJaoRUQhxIyEl8RvNtHQmak3AX4o%2BiDDB%2FFEpxxOD0HMhmHZ3X89Lg2nyEYv56d93Gd8kF%2FiC1GxEqOqAWs93KV%2FHVqQnro8tUDXxgLFttabeoPAvgulhhlJkvqpzWL%2FYh%2BJxIlbrZjFBkOI8%2BHr9B5lFnXGnXsmOQDwB%2FxLwRWZgaY12IDzqsFYUZtCibRvqotDcNUNcpQQjrwqB42c71EOx%2FMtTTetHxCmvb0V9ow96p5uMHD1HEe9Dw%3D%3D%7Ctkp%3ABk9SR9bVo8aJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7EcAAeSw7SlqjHH~/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787641927949,
-        "lastSeen": 1787912759000
+        "lastSeen": 1787988102184
       },
       {
         "itemId": "298589754723",
@@ -220,14 +220,14 @@
         "priceC": 9500,
         "shippingC": 0,
         "landedC": 9500,
-        "url": "https://www.ebay.com/itm/147514018814?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M13XJWYQPPMGY0FRGXMMRQEC&hash=item2258854bfe:g:gIcAAeSwc8FqhQ7O&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDDcR5lzUfWhHf9YWOTzScPNDuEdbPPgRQIzhjSHkvwEMuqp7EiyzCHsUlGWzy2Q22yt8oQmORxpEspU6QbjLrAU4f%2BoRzvNvZKANzg4JhKZL%2BNauhzyUhVsSJkYJQxcUJXpKnTO8o1WMBL2OFJVTnMOfeiY5tSJ5TCS2tsWA0%2BBo%2BFmzlmK8Se4X34pY9V46yHVLhFBoz%2FP4UXAzDe1%2BPHYHNDKEJ%2Fv9nybV8WnfKeQjbdA45fVH0la2sHHWdhx--tzflLNmgkSH1LqJFQcSurx%2FYr4eTI1mABmfZb7GxwVA%3D%3D%7Ctkp%3ABk9SR8rPy_2IaA",
+        "url": "https://www.ebay.com/itm/147514018814?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M1668XARXGH9ZNB3BM3GYC9F&hash=item2258854bfe:g:gIcAAeSwc8FqhQ7O&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAjATPRFvGWnmMKhlCn%2B9YkpkK5I7JWev6iC%2Bzuk8bnjbgYsr4g4b1DN%2Fy29sYU4FSA%2F4PD4IMBy4jY6CT0s%2BlHWawd79ghoVKxSBZFcvffXARTDIdgcTvy7zubFxPDQ9mhWIr%2F3NrYiqd6haaY49XzJsW%2FfZTHfcL3hQBLAykFzgmoPcNVLQkbXaaooZ0gyB7KddMuxdFqxTlhrjeP3roiHlR4IliCFkT8ScTPxv5Flid4bmQL%2BhphzfZg0pVrcRyjll%2FyV7lYQx8YkiVuo6XsgR6bNpzYBlmP5VAh6E1uot51uQUlvYI%2FcfQmH40PMyKsoEXNh7uKYkzXUVqWkfH6%7Ctkp%3ABk9SR-LVo8aJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/gIcAAeSwc8FqhQ7O/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787912759000
+        "lastSeen": 1787988102184
       },
       {
         "itemId": "287537344324",
@@ -250,14 +250,29 @@
         "priceC": 8999,
         "shippingC": 589,
         "landedC": 9588,
-        "url": "https://www.ebay.com/itm/147520566341?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M13XJWYQ868DF1F3VC35DTS1&hash=item2258e93445:g:U88AAeSwvW9qiOHY&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDFxkvUPpXh%2BzJh35W83Ta2RxPmxi1lG8NXt3Njvhc7xK%2B%2FlYJDAFuZuJQ7P60ZUnvHspNY6gmjhSUnTxdu%2BO3MrHNLwJH1PCPfCHQrbOI9CgpSGn2X0FmZaRZczpZrVcUyQwJfy243nvZ5%2BR%2FXX0yDeICNkpbtnX7%2FnNMI1KNEVNITbmtrkXiiNBcJdc3bnwMzKMpdGea%2B934nndeY42dZ%2FbTsblbthn3j8Ho%2BKn1SwfAmDqBkc52UbQzlh%2Fn%2BMqMIBHJ--ZERqRQ5voF78IsIOqRixz2b2LP8dpJxB84yu8W3wXumKY6QOlqQGQO1AgG5LQd7nQMdcsfNqch78rSV%7Ctkp%3ABk9SR8zPy_2IaA",
+        "url": "https://www.ebay.com/itm/147520566341?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M1668XAREH3EZ4DMKMF42K8H&hash=item2258e93445:g:U88AAeSwvW9qiOHY&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDFxkvUPpXh%2BzJh35W83Ta2RxPmxi1lG8NXt3Njvhc7xK%2B%2FlYJDAFuZuJQ7P60ZUnvHspNY6gmjhSUnTxdu%2BO3MrHNLwJH1PCPfCHQrbOI9CgpSGn2X0FmZaRZczpZrVcVmSVDDBspklF%2BHWrDOOPe02awFUuE0%2FeBw5kJKlf%2Fmdzc8JdiV3YxY3vDbXaMn2r8tqg2W%2FPuS3tZOr97gN6nxZWZ8hKlMmVuw0h1HxhfeZh26iIdJwGr%2BtomSdYfrxob4ntQ9D8dtTRQwAeWTl3y0m0YGW1Ay%2BNgv2In%2FrF%2BbYPihTdlPNtHNiD48yw5mhwyMOHXZagOC3pmeguL3fhV4%7Ctkp%3ABk9SR-LVo8aJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/U88AAeSwvW9qiOHY/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787382758536,
-        "lastSeen": 1787912759000
+        "lastSeen": 1787988102184
+      },
+      {
+        "itemId": "267769898050",
+        "title": "Pokémon TCG Entei Card 34/53 Promo PSA 9 (4 Swirls 💫)Opens in a new window or tab",
+        "priceC": 9800,
+        "shippingC": 623,
+        "landedC": 10423,
+        "url": "https://www.ebay.com/itm/267769898050?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M1668XASXVQ96WD9BXNS52P0&hash=item3e58546442:g:O5EAAeSw-Mdqd-1f&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCYvDyCcAAZfUpBx4YOrq4ac1EgC5WRwi8dIhXGdX064JCSyrqFkn%2BlIyGqFkhLnL1jhTUgYWf%2BN%2BQKvZPHyKYBRI6aZDDqJboEii%2BMDyZy1Ul2LDVtDqM6YG5dhzzOZDctYv9DmMFVamXzufsdPb%2FFrhiF2gS4qovFilc3T3Z%2BrEZaRoxGQ6Pkeq3XcaTomcGuNIrF%2FZRTocir56U2fZFLrTFpPRJ6KJscnJfxOJSLu5dzAkQKdhhNFTB6p3BU48GDnym%2Bx2VIVGRlJLzHJMmG74wWOsJXhatO078jFtazVi9U6SlVZKhP8gulTDJHyO0ZdrfLI%2BjT3sqzGefPWID2%7Ctkp%3ABk9SR-LVo8aJaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/O5EAAeSw-Mdqd-1f/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787988102184,
+        "lastSeen": 1787988102184
       },
       {
         "itemId": "267751590982",
@@ -310,14 +325,14 @@
         "priceC": 10000,
         "shippingC": 695,
         "landedC": 10695,
-        "url": "https://www.ebay.com/itm/227487432081?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=9043370516&itmmeta=01M13WJERGZXG6SXJTTZMHP2T9&hash=item34f74ebd91:g:NasAAeSwAY9qbQZD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB2JTeNPTRHVbPsxC6tG%2BlQu1q3RSEF6K3W2oBYiYKMBBUlegpT7%2BX7ZYP6DMvvYe35f2uFuz%2BchI4qUtJhi0XpG5cGFjXkFZ2heQHvss7BdW0sqbge3H2RGO3hvrpw21x2WG8iOLlJcnemyiPI2EXzZiD52Pevy1%2BXpgHORo8gPZ1Tt%2Fa441GjRnRCDUYiiEKDZWLFF%2F658P9YCN7z6Gg8fYmxAky0424wfoEuCM1MgX1x5DmONf%2B%2FUs5EXsMNq1AWA8NfKaUAERPbSxEqIn7h0L4v439yw%2F4rdEl6isi1OA%3D%3D%7Ctkp%3ABk9SR8jsyfyIaA",
+        "url": "https://www.ebay.com/itm/227487432081?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=9043370516&itmmeta=01M16691WW46E9RWB5XMZDV61F&hash=item34f74ebd91:g:NasAAeSwAY9qbQZD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB2JTeNPTRHVbPsxC6tG%2BlQu1q3RSEF6K3W2oBYiYKMBPGm5vsfp3DdbcwjpYPvkJrcjNblM2avOhlVu546PZ8a6duJxrofg1jDWZRYpCm3quBG5ddzCBYHZGukLB1I0zDkh8RjawfwqEyHnqbT12JgNe1LvderdYTMVFhMrOrvyn0YTfOpAJ82bZbqD%2Bpo9A0pH9rE4EwEXTQb%2FEqoGfKN3UFDIH9DcOCYNux4UxZZ90vwh70U1W9lYGMSUt2ik9CiPKuQbTOJOAwSohiqcz5dEAuv4AQf%2FyMYHCSE593k0w%3D%3D%7Ctkp%3ABk9SR_KepMaJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/NasAAeSwAY9qbQZD/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787469106787,
-        "lastSeen": 1787912759000
+        "lastSeen": 1787988102184
       },
       {
         "itemId": "227476455269",
@@ -340,14 +355,29 @@
         "priceC": 10000,
         "shippingC": 1410,
         "landedC": 11410,
-        "url": "https://www.ebay.com/itm/227482890392?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M13WJERGRZ5TAJWYGWK2MY0F&hash=item34f7097098:g:UqgAAeSwuVhqhet~&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCGk30kurjM7y2sOmjXtqDF0fh9YUwQTHq9KY%2FaR%2BBm1esH9dfhnGSOegtGRRSsDvFIrJCW5ZGz4DeulW95oCImxfxFfUVtxxZAB0QjLlc7pNWP0AvxgPlIcy5hNp8PRpWD3aMSv4rnSzmifyYZRaqpxsbWlUQ%2BqNthpcbRFjUyZoHMHfdeTEQ5aSK3rNEAdv%2BEIUYjbStupzlsZIunr0RYIjzesFpNP2VSpqfhwVppZbuzpLQB9l0hYm%2F3MGgGcRz7%2FjkQ%2B51PQ2WbsBquEflCv2K96pUN0Epoip%2F33VbmYp2CKwNY4RLFRVnM7XGF9RQpWYzmpidUdIuYrb9u562b%7Ctkp%3ABk9SR8rsyfyIaA",
+        "url": "https://www.ebay.com/itm/227482890392?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M16691WX7RGEJAN1QPSV2ACB&hash=item34f7097098:g:UqgAAeSwuVhqhet~&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCGk30kurjM7y2sOmjXtqDF0fh9YUwQTHq9KY%2FaR%2BBm1esH9dfhnGSOegtGRRSsDvFIrJCW5ZGz4DeulW95oCImxfxFfUVtxxZAB0QjLlc7pNWP0AvxgPlIcy5hNp8PRpW%2FstrONMxrvlH0ecobDV%2BFFN1QrK4JhZ5X0O4ug5j6R5KMUO2rZ0w5D5F44cK8wwV2kdcHcTEgY8gU7H9BPReMRxywh%2Bv3xj1ZMj9kK56Uw1mEphBi8fmgPgjqHEuiawFS13CFOUlTdxrao1IIDOONxNLjcPd2FUQluNkQwP2qyEkIXJhHluzd51a7%2Bo4%2FCg4MxEtn64gN50Lf3pkGr7hh%7Ctkp%3ABk9SR_KepMaJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/UqgAAeSwuVhqhet~/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787912759000
+        "lastSeen": 1787988102184
+      },
+      {
+        "itemId": "398167809933",
+        "title": "2001 Pokemon Entei 34/53 Pokemon 3 Movie Promo Rev Foil - PSA 9 w/ SWIRLOpens in a new window or tab",
+        "priceC": 12000,
+        "shippingC": 572,
+        "landedC": 12572,
+        "url": "https://www.ebay.com/itm/398167809933?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M16691WX3ZJC4GVXWP8WN0W0&hash=item5cb4a69f8d:g:VV8AAeSwn2JqVDBw&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCvnKBtuxRBKy4y4Jj%2FNp7HqNa%2FnvHfbsGV4%2Bn4dr1AK%2Bgp4WFyQLq6kgTD7pyyhk8TuQduP%2BVzhyNwvYhKgaucEOXC5OdYGdqrpQgjuF9%2BRkSKCxvTJdT05vBG54K0kyXSaymD%2BIAhPvtI47EaaZauNsCj%2FySbui4%2Bm7SCxILOvJZyd7pSPzhIjOHgmskBz7tukTj%2Blw3Yu1kpO%2FMZ6K3Fl%2BlF2ylSl8V%2Fp6SmnUkbMBxPab30X%2FDSbeE2UfUw%2BVdE3iexlMyn3ar6Py6F43n0SHAgFXq8A5y7CUmPhYPNxQ%3D%3D%7Ctkp%3ABk9SR_SepMaJaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/VV8AAeSwn2JqVDBw/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787039418956,
+        "lastSeen": 1787988102184
       },
       {
         "itemId": "366569886272",
@@ -363,6 +393,21 @@
         "freshness": "stale",
         "firstSeen": 1787039418956,
         "lastSeen": 1787094570196
+      },
+      {
+        "itemId": "188641075299",
+        "title": "WoTC Promo #34/53 Entei PSA 9Opens in a new window or tab",
+        "priceC": 15000,
+        "shippingC": 690,
+        "landedC": 15690,
+        "url": "https://www.ebay.com/itm/188641075299?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M16691WYP0Q5HC51ZDHWKE5V&hash=item2bebe26063:g:ChEAAeSwkN9qVwxA&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAw7sdgISN6KeqWm%2Bdqu13dMF7Tn7qE%2B9ei49L9WVGP1%2FjmQE%2BL3Jg85bcukQbkTHToaNyWpJK%2BClMX%2FTyVBM4xh15hT9nRyaGmX4Ye15iE0EbIALPif2pnJnBLIGZrxurAcx5fSpT2B%2BRwaK0eC9l1TYI%2Br6OQVv4maUuYLrLSxj6Dfw0TGq5Mvm3vfesQfjamonKP%2FrJ1Is1fhlv5xLvQYG%2B%2BQoUUaRjH3bc7Fatr9SB7jbhZN%2B3m6qA--DjOuiiiZyWveDpXMMFFGL2FxJtisxPYoVGhFIgrI8H0Kaqr75ilmXCUVialeuTbf9frJCv3PjCVbCCrVH7W5LH%2BEygp%7Ctkp%3ABk9SR_iepMaJaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/ChEAAeSwkN9qVwxA/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787039418956,
+        "lastSeen": 1787988102184
       },
       {
         "itemId": "377415645693",
@@ -395,64 +440,79 @@
         "lastSeen": 1787814677018
       },
       {
+        "itemId": "377451646814",
+        "title": "2001 Pokémon Game Entei #34- Rev.Foil Pokémon 3 Movie Promo Gem Mint CGC 10Opens in a new window or tab",
+        "priceC": 26900,
+        "shippingC": 2500,
+        "landedC": 29400,
+        "url": "https://www.ebay.com/itm/377451646814?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M16691WZAQMEZNHMH641QTDX&hash=item57e1df0f5e:g:mdUAAeSwRQxqfKNM&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA8h3OYFRkNH6VTTbww6TsxDUnRFPsEXB3VoU2gSD%2BuIRgkZ2pj4bIb6DOGJqJlVQ%2BBj%2BQfn5fL56x86Sza2xSJuqnzeged5BFismVsAdAxZ1TBmogeDi6i7lCMS9SZUEj3%2BHSUUe7GbtLZVrVKmnavemfoCc1czueEc%2FIR2BzUlZJ5qxrrito5thqpiXz0bxMzmy%2Bka5r2C6TYNY4ElyAgVv22yN0F6tfZuOQaZJZnOSkG0nnUZwVqL394MtT4lasKAkaIwecXeBPhd5uFAXDOltLNentOmp23fZQ875JHNap8eeEYQEZK1fJmBZgrgLWAj7RaR2ZH337phaN%2BAae8%7Ctkp%3ABk9SR_yepMaJaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/mdUAAeSwRQxqfKNM/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787901493685,
+        "lastSeen": 1787988102184
+      },
+      {
         "itemId": "257447368480",
         "title": "2001 BLACK STAR PROMO #34 SPELL OF THE UNOWN ENTEI CGC 10 GEM MINT (2) SWIRL 💫Opens in a new window or tab",
         "priceC": 29999,
-        "shippingC": 2808,
-        "landedC": 32807,
-        "url": "https://www.ebay.com/itm/257447368480?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=9043370516&itmmeta=01M13XK5MA33DC14NCJJDSG66R&hash=item3bf10f1720:g:aNEAAeSwFDVp1YlM&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDGA47DbmkfZh4F66A4W5Rp2mbDuZQuaNyz2Vu3DNeOBJqW3TCegge7wfUu3jBAcJ%2BRV03pRP8BtQQyG%2FL3Jdhzpf%2B0LunoofFL6Cg351AMz%2Bxnwok7QPoct1EDWnRi%2Fx4SBu3bb73yxHyGfBd5cAfkOJpDtGZgKy1Al1K0QUoiKePhxgokCBC2vI4DAqgOSZceWJTSkoF4Ud9dcrp89ZgAXZ0YtXdm5lf%2FMlD2PbKA69p2Z%2B0OT71sRDM2vE5IVcOt0ZQZrYUwjMf4%2B2ayf0qUHCWhbtyD6BYLEUw9sOY3yJ%2Bb0U8cbT%2FKoydGBtrfncS7B6tOsheHLuYTMFrswLwJ%7Ctkp%3ABk9SR77azP2IaA",
+        "shippingC": 500,
+        "landedC": 30499,
+        "url": "https://www.ebay.com/itm/257447368480?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=9043370516&itmmeta=01M16691X0GEEM991BBY9G0TEA&hash=item3bf10f1720:g:aNEAAeSwFDVp1YlM&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCmAMCEGGXfdgZIbiXn1rRsTt%2FsrZIHIXUem2r0ZVpbkseKHMIBUS0ISWO4c2lfmO2fayxVkEtc1GMb%2FFkKIqfRTB8U8NQDU4DMANBJYSK0TNBFGh%2BBntPk0zaV0MQHQTG9r9IwxzCpQIW6FYCoatuuYAUhWALLlyh7M3MgSNAHnp6LMdI8iI1FwaGOUBu80ca8XfFFKPFiFUyV1EySUzVluAlEmhm5aU0yKKsw1nYYDqTbpD5BKODdCHC9G7Od8j14HUkeHaETHHGIzVgES7cWk%2ByzBvs18Jy693ugl4N7tA%3D%3D%7Ctkp%3ABk9SR_yepMaJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/aNEAAeSwFDVp1YlM/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787912759000
+        "lastSeen": 1787988102184
       },
       {
-        "itemId": "188641075299",
-        "title": "WoTC Promo #34/53 Entei PSA 9Opens in a new window or tab",
-        "priceC": 15000,
-        "shippingC": 20520,
-        "landedC": 35520,
-        "url": "https://www.ebay.com/itm/188641075299?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M13XK5MBCYMP67T3Q3A9JQE0&hash=item2bebe26063:g:ChEAAeSwkN9qVwxA&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAw7sdgISN6KeqWm%2Bdqu13dMF7Tn7qE%2B9ei49L9WVGP1%2FjmQE%2BL3Jg85bcukQbkTHToaNyWpJK%2BClMX%2FTyVBM4xh15hT9nRyaGmX4Ye15iE0EbIALPif2pnJnBLIGZrxuq9ghFzFAkNFZyhPvECOJ%2BbQsuKXTQOhOnToSUIcw%2BnAhjde8s0qSXFEZ1xIGjC%2FqA1xabQLR3gBk5aAoirntzqcQV5moiOw0fLeyZWuRiPDrHuoH4%2B%2BIjFMsD47544gqb7t0Q5wiQlD%2FORYYk62Egk4mWysvsJFHl28Gobhc7WkTRL3GjYkyfBd9nDcxM%2FQCAQDpX2Wj8remclRXaKBMTk%7Ctkp%3ABk9SR77azP2IaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/ChEAAeSwkN9qVwxA/s-l500.webp",
+        "itemId": "389821612305",
+        "title": "2001 POKEMON SPELL OF THE UNKNOWN BLACK STAR PROMO #34 ENTEI CGC 10 GEM MINTOpens in a new window or tab",
+        "priceC": 45000,
+        "shippingC": 516,
+        "landedC": 45516,
+        "url": "https://www.ebay.com/itm/389821612305?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=9043370516&itmmeta=01M16691X0793K88VAKC4Y4JJJ&hash=item5ac32dc111:g:NBEAAeSwzP9pypE7&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDjoh5b3ILdXeuGvndn2YdObaICmVHCaS7OrGQobrW2RN5t3BALWnEz%2Fr4AH5ePgq7wUYCwd%2BHYyZedqvew4s4eafJhZoI9AWT2g6ZLm9U5LAUVewQXlR6tQ6Ku6QqzPlI%2Bwo3Zr4qlT7FCrMkYkhSUHKLf4qCJXllRGD35TWco5pCSmxcTBQgEfRWuVHF0CyMc7bXIO64QMtow9Zv4L8pkBbPzJWMMK7symxoiGGCoX8Ugr3QEBb8vU01hWrEVIDVdcdNkHL9z1%2BBfWOvWlpAQ%2B5P2Uui5pkhLhbu28FO59Q%3D%3D%7Ctkp%3ABk9SR_6epMaJaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/NBEAAeSwzP9pypE7/s-l500.webp",
         "listingType": "bin",
-        "bucket": "psa9",
+        "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787912759000
+        "lastSeen": 1787988102184
       },
       {
         "itemId": "287289078140",
         "title": "2001 POKEMON BLACK STAR PROMO #34 SPELL OF THE UNOWN ENTEI CGC 10 PRISTINEOpens in a new window or tab",
         "priceC": 69999,
-        "shippingC": 4320,
-        "landedC": 74319,
-        "url": "https://www.ebay.com/itm/287289078140?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=9043370516&itmmeta=01M13XK5MBTW5KY9847810J57J&hash=item42e3c3717c:g:pOgAAeSwe69p6cuS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCd9kltK4ZZuUHJ9I2kr%2Bc3TA5BG%2BEFrX2x00KvLFnjCM4pH02Jr04Gllc%2BsS1rslLoc4zINn364KkrSQGLW2csJuU5JB%2Fpy6gUnxs%2BxBYkVV5Ps7ERmGXBtXRg4TqqrhMyUpZqb%2BXYjFG2z6gsh4uAw81%2BOUFoxOAX8Uo8M0T8HyIRuyCMl4mRjKyv9KLE0L6POv5tvEp9nsrfop3jVd3N13HkVThOeiMjpqbEjmBglKLnwZ%2BeTPuPakt0uM0uEjzbOVhcEsB%2BrKIDBF5YQNqQZUC9e7tcRYt56feLT0OCmQ%3D%3D%7Ctkp%3ABk9SR8DazP2IaA",
+        "shippingC": 0,
+        "landedC": 69999,
+        "url": "https://www.ebay.com/itm/287289078140?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=9043370516&itmmeta=01M16691X0PBMN2R87XQZBKWN7&hash=item42e3c3717c:g:pOgAAeSwe69p6cuS&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCd9kltK4ZZuUHJ9I2kr%2Bc3TA5BG%2BEFrX2x00KvLFnjCELrVHRYl5uF60to3rXY6P2HArowjHMMVEVQsNwdT7VzWw9l8hm52BQiTrbsDbtnyBPewVhqM2YjNWpL02v3q9xJdiU80NKMvUfSJ5d7F0CQCawuLqMy6AOn3HATgNxSV%2FCO%2BTGo30%2Fjo193O1pNz7a9otnhcw8sitbf8%2BEU5STdRqSn%2Bq6MxitBKKMLyaf2GYzcGTdqDQ7Be65XhSPG9XzLABwG31pmMVHXPtJJPQSy8C8pz8dZ3h4V%2FsSJL%2F9yEg%3D%3D%7Ctkp%3ABk9SR_6epMaJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/pOgAAeSwe69p6cuS/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787912759000
+        "lastSeen": 1787988102184
       },
       {
         "itemId": "306807702671",
         "title": "2001 POKEMON BLACK STAR PROMO #34 SPELL OF THE UNOWN ENTEI CGC 10 PRISTINEOpens in a new window or tab",
         "priceC": 100199,
-        "shippingC": 3200,
-        "landedC": 103399,
-        "url": "https://www.ebay.com/itm/306807702671?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&itmmeta=01M13XK5MC2ZVMQSR070CF16ZC&hash=item476f2a048f:g:0jMAAeSwJHppq462&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBPXNhWQW1U9%2BUo%2FUBqglfHtCdjL8k41RBFDhZSsXbn88Ht6ZWq3kEfNKGVyx4HuzdBaIF0r7hQYurBZcXtQfvG5MYV0se7Xyals7NOeiWvRDt48sGYyL%2FLfyaQ7FmBynp%2B%2BxzLAxqB%2F1KwWSXtS2jZ9DtltMlCHeWXqCIrD4QmL%2B0ab%2B1TRwWkNXEo7j90ml2UaTmMXFExikP%2BKLRojv%2FgW8FTTpHzMWgDqoWY404KdSGropZZeNfP2nu6bdKYqowiy%2Bcus4vJwFmM49QsbQ80upqPd0MVnirzgxTApjW36w%3D%3D%7Ctkp%3ABk9SR8DazP2IaA",
+        "shippingC": 599,
+        "landedC": 100798,
+        "url": "https://www.ebay.com/itm/306807702671?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&itmmeta=01M16691X1R5MS8RPFQD62287K&hash=item476f2a048f:g:0jMAAeSwJHppq462&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDhVi3I41wVjudNRnftvT%2BOF6Lp7SbhsVQY8lDh0jj31FySCN1irF9iKUpnwrKud3UoyP7lN5Fi3OuWSUiklsIzhMkvGy5RCYsfs2iRml4ImYIH1an53OEVTHREGc6BhltMlay4pRQigI9GFOFdaMDY0H%2BTcxqN7E3tQiJYNN%2B2g3ICycNG%2FfTl7QsxUzcW6f%2BmSfFtIxOox7OiicvYP%2Fs7L0eMMRhOstQln%2Fu6R6HsI8ksNdSUN64XmalcuQkmGZCu9HGPwHKGWOmXXSUYQpQKozUvSFavAuvaDnx%2FpcDlTsHwQQHAY6bRJu03Mw2BL4Zqc65yBrtK%2FTmbuZU2cCbG%7Ctkp%3ABk9SR4CfpMaJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/0jMAAeSwJHppq462/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787912759000
+        "lastSeen": 1787988102184
       },
       {
         "itemId": "188793643211",
@@ -470,6 +530,21 @@
         "lastSeen": 1787307369320
       },
       {
+        "itemId": "188854868931",
+        "title": "2001 POKEMON GAME MOVIE #34 ENTEI-REV.FOIL POKEMON 3 MOVIE PROMO PSA 10Opens in a new window or tab",
+        "priceC": 109999,
+        "shippingC": 597,
+        "landedC": 110596,
+        "url": "https://www.ebay.com/itm/188854868931?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M16691X2EEMS1HR8EXNW7EBD&hash=item2bf8a09bc3:g:ejsAAeSw3QtqWqci&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCDv5n5dkssGnCgH0ZAxygRgxHViVDXd0lG2aCfQGLYXpST9sAXTSMd2URCmo0%2BB7ZJWu3dIRi6li8BjaDeQewtjExh4sJoDXioPlGe9v1JvBu39MBJudSlc9o1rwURDxzkPOblH%2BdmAgiurZS9sJO0maLVRWCfneSe7HjBQW5AAfBfOIrmJa290HCzdzQ8i0zNKRzOKPLyIYXA5MOyLBAlnvRDFbuOwHNlOwWlEb0%2FJ8y8WibkXsZNrH2cazZbTrEkLUPDxf%2BFHiYdfJ%2Br7fLxGarpddy%2BBlT%2FvCwyK4rpEdxs3O7ldXCUX9A6ALq6RUE0Ok0Yef6wjhQ%2Bv0HRsNIy%7Ctkp%3ABk9SR4KfpMaJaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/ejsAAeSw3QtqWqci/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787988102184,
+        "lastSeen": 1787988102184
+      },
+      {
         "itemId": "188828529880",
         "title": "2001 POKEMON GAME MOVIE #34 ENTEI-REV.FOIL POKEMON 3 MOVIE PROMO PSA 10Opens in a new window or tab",
         "priceC": 109999,
@@ -485,68 +560,140 @@
         "lastSeen": 1787912759000
       },
       {
-        "itemId": "398167809933",
-        "title": "2001 Pokemon Entei 34/53 Pokemon 3 Movie Promo Rev Foil - PSA 9 w/ SWIRLOpens in a new window or tab",
-        "priceC": 12000,
-        "shippingC": null,
-        "landedC": null,
-        "url": "https://www.ebay.com/itm/398167809933?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M13XK5MFJ0S354FEND3QR177&hash=item5cb4a69f8d:g:VV8AAeSwn2JqVDBw&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCvnKBtuxRBKy4y4Jj%2FNp7HqNa%2FnvHfbsGV4%2Bn4dr1AK09cDg%2FQw9N0aF3HSMToPIY9rdQE4ncATdfh38Z7QOFFPlPhlBFOPAg21DbsR1MJUi9Q%2BYYKmUuctKoGn9dCuG5A4GU%2Brd4JZ1%2FJkjKLTcZLkKFy5eTa%2FXlfrVfUblfJfFuFAsumX4N0TDCQIrCs969Vw8fVUbHhqRASUlIuPtz69xtzbV4OmrtLIfJk2m4eO3i3TdeoFXUDjIs2xthm%2B%2FF0lqgpYoL%2FG2tjBkKivv4SR%2FhQhfAXvhyRncqItPH5Dg%3D%3D%7Ctkp%3ABk9SR8zazP2IaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/VV8AAeSwn2JqVDBw/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787039418956,
-        "lastSeen": 1787912759000
-      },
-      {
-        "itemId": "377451646814",
-        "title": "2001 Pokémon Game Entei #34- Rev.Foil Pokémon 3 Movie Promo Gem Mint CGC 10Opens in a new window or tab",
-        "priceC": 26900,
-        "shippingC": null,
-        "landedC": null,
-        "url": "https://www.ebay.com/itm/377451646814?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M13XK5MGRKMJ7KBRB3BXEVNW&hash=item57e1df0f5e:g:mdUAAeSwRQxqfKNM&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA8h3OYFRkNH6VTTbww6TsxDUnRFPsEXB3VoU2gSD%2BuIRgkZ2pj4bIb6DOGJqJlVQ%2BBj%2BQfn5fL56x86Sza2xSJuqnzeged5BFismVsAdAxZ1TBmogeDi6i7lCMS9SZUEjc8WUWrmb3xSapx2sSpaOpf3EwXmDwWE41WmuTAJPyppX%2BEjgDZgCuM9ZyPbZDTa6EF2qKDrJKOPy6OEmtq6Pcu%2FJIFiXdWx%2BySUD41SJ7Qx74tx7VfnOTT1sxR0p71JGtYVAoLbEZxduyEfc8LoVXrRGquFux2zODi91m98L1%2BuJyd%2F4m02fEGB4kyQkCOOz1FzDQmz3pxZbCKCG4Ky%2Fl%7Ctkp%3ABk9SR87azP2IaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/mdUAAeSwRQxqfKNM/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "gemMint10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787901493685,
-        "lastSeen": 1787912759000
-      },
-      {
-        "itemId": "389821612305",
-        "title": "2001 POKEMON SPELL OF THE UNKNOWN BLACK STAR PROMO #34 ENTEI CGC 10 GEM MINTOpens in a new window or tab",
-        "priceC": 45000,
-        "shippingC": null,
-        "landedC": null,
-        "url": "https://www.ebay.com/itm/389821612305?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=9043370516&itmmeta=01M13XK5MGN4E1QSS3NZ14Q7AN&hash=item5ac32dc111:g:NBEAAeSwzP9pypE7&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDjoh5b3ILdXeuGvndn2YdObaICmVHCaS7OrGQobrW2RBNvwEVJ1XpIeOMtW2%2BUfTheiAy%2FH6ckB%2B6v3zyhDUstw4kN5%2Fls4Ry4K1%2BPslvw5mW7kBI2pjbcTl2%2Bw5jcfJ1zHt67vrsnQMJ%2F8ORigKr8p9baGKrwmelQrcgpXvQJp%2FGj653nz039TqhOVobEKDdQEeZTURpZGgIwsPsxgOkVWX0oAbF%2FE9EWaMwa4RKRlwBBqv7eJLDOJwShwefwjrrQtEnJyoQicJetWmXaXDI4DML9HHYoUZq5uf5kZEPeCw%3D%3D%7Ctkp%3ABk9SR87azP2IaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/NBEAAeSwzP9pypE7/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "gemMint10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787039418956,
-        "lastSeen": 1787912759000
-      },
-      {
         "itemId": "206254913818",
         "title": "Entei 34/53 PSA 10 Movie Promo 3 Swirls And Orions Belt Constellation Image.Opens in a new window or tab",
         "priceC": 700000,
-        "shippingC": null,
-        "landedC": null,
-        "url": "https://www.ebay.com/itm/206254913818?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M13XKD2WRC56V9KAQNJX0ABS&hash=item3005c0391a:g:J1YAAeSw--9p9U~A&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDAyBVxh%2BgZRA1mpzYUUA7Y2H1MhuPo5q5MG6asGu1gSMjrONWoIhKf7Niu1oqAWj0A49jrpnX%2FjsFox4VHtncRhvCH0iWSK0ZcPJW20ajV9U7nR5Ols%2FNsCsO9vzWb%2FxTMbHd7laWlqZtWRN0Uz8QvO%2BhL6i0FXJMuAGbYWIaPIPywjGwOjSTahhNMcE9YsCx5hK02RpRb8bjp5cFbMnYu1LArsQNefZ7HXtGCEu6Aj3ALEGWOq%2FJrmRLG5C9IA8pFIFVUR6HgrVM6Fc0P4hRYhvYAos8VggWJdQJYDA%2Fg6cpGKBA5QGJmJfxcCgUrlbGQ6Ba6R%2FzLlC%2BqHW8OzEQ2%7Ctkp%3ABk9SR-7Rzf2IaA",
+        "shippingC": 1220,
+        "landedC": 701220,
+        "url": "https://www.ebay.com/itm/206254913818?_skw=%28entei%29+%2834%2Cwizards%2Cblack%2Cstar%2Cpromos%29+%28CGC%2CPSA%29&epid=7043379349&itmmeta=01M16696MQNF3E3FNTYREANZBJ&hash=item3005c0391a:g:J1YAAeSw--9p9U~A&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDAyBVxh%2BgZRA1mpzYUUA7Y2H1MhuPo5q5MG6asGu1gSMjrONWoIhKf7Niu1oqAWj0A49jrpnX%2FjsFox4VHtncRhvCH0iWSK0ZcPJW20ajV9U7nR5Ols%2FNsCsO9vzWb%2FxTvWoP0XttjEqjOS%2Brjdaw%2BLP10hIn0mRpfdIYItl55zO654hNeHZH%2B1eDiUjrfqAwbFGXL46eUa9sh8npGed%2BAvvtCnUQMqzQnVTLeNwfeoThmRYMb%2FZ8N8JpkkUemeRVultNV2P4acZyGHXXUZSyJ%2BmrHLg5v6QQCue5RPbTxXVYK7kpWBSjLUQGaHHVG8dW%2F3ZFBMu684lsuWcBxEvvI%7Ctkp%3ABk9SR8zqpMaJaA",
         "imageUrl": "https://i.ebayimg.com/images/g/J1YAAeSw--9p9U~A/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787039418956,
-        "lastSeen": 1787912759000
+        "lastSeen": 1787988102184
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 7597387,
+          "saleDate": "2026-08-28",
+          "priceC": 5700,
+          "title": "Pokemon TCG Entei 2001 Wotc Promo 34/53 Reverse Holo PSA 8 EN Ken Sugimori 34/53",
+          "url": "https://www.ebay.com/itm/327320554049?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7597357,
+          "saleDate": "2026-08-28",
+          "priceC": 5100,
+          "title": "Pokemon Entei #34 Movie Promo Reverse Holo PSA 9 #34",
+          "url": "https://www.ebay.com/itm/168635352665?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7597176,
+          "saleDate": "2026-08-28",
+          "priceC": 2050,
+          "title": "ENTEI 1999 POKEMON BASE WIZARDS BLACK STAR PROMO HOLO #34 Q7183 #34",
+          "url": "https://www.ebay.com/itm/278299604132?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7597175,
+          "saleDate": "2026-08-28",
+          "priceC": 3849,
+          "title": "Entei #34 Near Mint English",
+          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F85270%2F-&sharedId=web&subId1=completed",
+          "sourceMarketplace": "TCGPlayer",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7597174,
+          "saleDate": "2026-08-28",
+          "priceC": 596,
+          "title": "Pokemon TCG Entei Wotc Promo Reverse Holo Promo English 2000 34/53",
+          "url": "https://www.ebay.com/itm/800544634644?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7597173,
+          "saleDate": "2026-08-28",
+          "priceC": 363,
+          "title": "Pokemon TCG Entei 34/53 Wotc Promo Reverse Holo Promo English HP 80 damaged 34/53",
+          "url": "https://www.ebay.com/itm/206509179150?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7597179,
+          "saleDate": "2026-08-27",
+          "priceC": 500,
+          "title": "Pokémon TCG Entei Wizards Black Star Promos 34 Holo Promo Promo #34",
+          "url": "https://www.ebay.com/itm/206510011847?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7597178,
+          "saleDate": "2026-08-27",
+          "priceC": 2500,
+          "title": "Entei 34 Promo Reverse Holo 80 HP Basic Pokemon TCG English 34/53",
+          "url": "https://www.ebay.com/itm/198584807952?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7597177,
+          "saleDate": "2026-08-27",
+          "priceC": 1400,
+          "title": "2001 Pokemon WOTC Black Star Promo Entei #34 Reverse Holo Movie Promo #34",
+          "url": "https://www.ebay.com/itm/307137897921?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 6457327,
           "saleDate": "2026-08-27",
@@ -727,6 +874,19 @@
           "gradingCompany": null,
           "gradingGrade": null,
           "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7597361,
+          "saleDate": "2026-08-23",
+          "priceC": 9000,
+          "title": "Entei Black Star 3 Movie Promo #34 Rev. Holo PSA 9 Mint Pokemon TCG (2001) #34",
+          "url": "https://www.ebay.com/itm/287537344324?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
+          "gradingDesignation": "mint",
           "agreementStatus": "match"
         },
         {
@@ -1976,136 +2136,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 91725,
-          "saleDate": "2026-07-27",
-          "priceC": 8200,
-          "title": "2001 POKEMON GAME POKEMON 3 MOVIE PROMO #34 ENTEI-REV FOIL PSA 8 TRIPLE SWIRL🌀 34/53",
-          "url": "https://www.ebay.com/itm/366543933351?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 91714,
-          "saleDate": "2026-07-27",
-          "priceC": 3700,
-          "title": "2001 POKEMON BLACK STAR PROMOS SPELL OF THE UNOWN: ENTEI #34 ENTEI CGC 9 #34",
-          "url": "https://www.ebay.com/itm/366553286645?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 91713,
-          "saleDate": "2026-07-27",
-          "priceC": 7750,
-          "title": "2001 POKEMON GAME MOVIE POKEMON 3 MOVIE PROMO #34 ENTEI-REVERSE FOIL PSA 9 #34",
-          "url": "https://www.ebay.com/itm/366527012382?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 91625,
-          "saleDate": "2026-07-27",
-          "priceC": 15000,
-          "title": "2001 POKEMON BLACK STAR PROMOS SPELL OF THE UNOWN: ENTEI ENTEI CGC 10 GEM MINT",
-          "url": "https://www.ebay.com/itm/298518792569?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 91751,
-          "saleDate": "2026-07-26",
-          "priceC": 2150,
-          "title": "CGC 7.5 pokemon Entei Black star promo 34 Spells of the Unown 2001 Vintage #34",
-          "url": "https://www.ebay.com/itm/188647532538?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 7.5,
-          "gradingDesignation": null,
-          "agreementStatus": "mismatch"
-        },
-        {
-          "id": 91727,
-          "saleDate": "2026-07-26",
-          "priceC": 2150,
-          "title": "2001 POKEMON ENTEI #34 BLACK STAR PROMO REVERSE HOLO CGC 8 Vintage Old School 34/53",
-          "url": "https://www.ebay.com/itm/366545002408?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 91627,
-          "saleDate": "2026-07-26",
-          "priceC": 18655,
-          "title": "Pokemon Card Entei 34/53 WOTC Promo Reverse Holo CGC 10 GEM MINT",
-          "url": "https://www.ebay.com/itm/267726475151?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 91626,
-          "saleDate": "2026-07-26",
-          "priceC": 10000,
-          "title": "Pokemon Entei #34 Movie Promo Reverse Holo CGC 10 #34",
-          "url": "https://www.ebay.com/itm/158021596201?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 91715,
-          "saleDate": "2026-07-25",
-          "priceC": 9999,
-          "title": "Pokemon Black Star Entei Promo #34 PSA 9 # 68473724 #34",
-          "url": "https://www.ebay.com/itm/227433004361?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 91593,
-          "saleDate": "2026-07-25",
-          "priceC": 100000,
-          "title": "2001 Pokemon Game Entei Reverse Foil Pokemon 3 Movie Promo PSA 10 GEM MINT",
-          "url": "https://www.ebay.com/itm/298344916815?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -2130,9 +2160,9 @@
           "count": 8
         }
       ],
-      "englishSaleCount": 441,
+      "englishSaleCount": 451,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787814566822
+      "lastCapturedAt": 1787987930791
     }
   }
 }

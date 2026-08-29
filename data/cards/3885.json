@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260828T103222306Z-e4d988bcd6",
-  "generatedAt": 1787913142306,
+  "snapshotId": "20260829T093902881Z-2c77376cd2",
+  "generatedAt": 1787996342881,
   "data": {
     "deal": {
       "variantId": 3885,
@@ -30,7 +30,7 @@
         "psa10Pop": 105,
         "cgc10Pop": 43,
         "salesVolumeJson": "{\"volume: 3 sales per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-        "fetchedAt": 1787905236778
+        "fetchedAt": 1787991214548
       },
       "bestCgc10": {
         "itemId": "358901793540",
@@ -136,7 +136,7 @@
         "firstOpportunityAt": 1787061354691
       },
       "firstOpportunityAt": 1787061354691,
-      "updatedAt": 1787905397511
+      "updatedAt": 1787991214548
     },
     "prices": {
       "variantId": 3885,
@@ -151,7 +151,7 @@
       "cgc10Pop": 43,
       "bgs10C": 3263000,
       "salesVolumeJson": "{\"volume: 3 sales per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
-      "fetchedAt": 1787905236778
+      "fetchedAt": 1787991214548
     },
     "listings": [
       {
@@ -292,6 +292,19 @@
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 7637193,
+          "saleDate": "2026-08-29",
+          "priceC": 162500,
+          "title": "2004 POKEMON EX FIRE RED & LEAF GREEN #108 GENGAR EX-HOLO PSA 5 #108",
+          "url": "https://www.ebay.com/itm/117370319500?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 5,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 2447421,
           "saleDate": "2026-08-20",
@@ -590,6 +603,19 @@
           "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
+        },
+        {
+          "id": 7636965,
+          "saleDate": "2026-08-09",
+          "priceC": 232500,
+          "title": "Pokemon Gengar ex EX Fire Red & Leaf Green Holo 108 PCG 8",
+          "url": "https://www.ebay.com/itm/287495179287?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PCG",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "mismatch"
         },
         {
           "id": 5017370,
@@ -1825,32 +1851,6 @@
           "gradingGrade": 1,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 535316,
-          "saleDate": "2026-06-07",
-          "priceC": 75000,
-          "title": "Pokemon Gengar ex EX Fire Red & Leaf Green Holo Ultra Rare #108 PSA 1",
-          "url": "https://www.ebay.com/itm/287361549339?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 1,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 535110,
-          "saleDate": "2026-06-07",
-          "priceC": 375000,
-          "title": "Pokemon Gengar ex EX Fire Red & Leaf Green Holo Ultra Rare #108 BGS 9 Mint",
-          "url": "https://www.ebay.com/itm/287364214416?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "BGS",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1965,9 +1965,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 366,
+      "englishSaleCount": 368,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787905234412
+      "lastCapturedAt": 1787991212808
     }
   }
 }

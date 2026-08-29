@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260828T103222306Z-e4d988bcd6",
-  "generatedAt": 1787913142306,
+  "snapshotId": "20260829T093902881Z-2c77376cd2",
+  "generatedAt": 1787996342881,
   "data": {
     "deal": {
       "variantId": 4099,
@@ -83,7 +83,7 @@
         "pristine10": 0,
         "psa10Bin": 1,
         "psa10Auction": 0,
-        "psa9Bin": 3
+        "psa9Bin": 2
       },
       "ratio": {
         "ok": true,
@@ -227,7 +227,7 @@
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787165573087,
         "lastSeen": 1787677567103
       }
