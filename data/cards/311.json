@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260829T093902881Z-2c77376cd2",
-  "generatedAt": 1787996342881,
+  "snapshotId": "20260830T102123506Z-b907ba6b0e",
+  "generatedAt": 1788085283506,
   "data": {
     "deal": {
       "variantId": 311,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/8bf0e33038356e8ce3561c506e043bcb63a7f26714f2624cadc6a4cfe2d6b618/1600.jpg",
       "popularityScore": 93,
       "market": {
-        "ungradedC": 5345,
-        "grade9C": 66860,
-        "grade95C": 73500,
+        "ungradedC": 5072,
+        "grade9C": 70320,
+        "grade95C": 77400,
         "cgc10C": 119250,
         "cgc10PristineC": 282777,
-        "psa10C": 463267,
-        "bgs10C": 602200,
+        "psa10C": 460525,
+        "bgs10C": 598700,
         "psa9Pop": 817,
         "psa10Pop": 39,
         "cgc10Pop": 60,
-        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\"}",
-        "fetchedAt": 1787987468239
+        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per week\",\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
+        "fetchedAt": 1788073887306
       },
       "bestCgc10": {
         "itemId": "206381711499",
@@ -38,44 +38,44 @@
         "priceC": 899999,
         "shippingC": 0,
         "landedC": 899999,
-        "url": "https://www.ebay.com/itm/206381711499?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=5043380638&itmmeta=01M1663GA7076YG8R0ZA20N22P&hash=item300d4f008b:g:nxIAAeSwJ91qQp~R&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCAKpjlmnNxAkJ5yzgv4ebuSZgsheK9NNbAMshA%2BN7%2FblRrICDPHed8JzqlCIakuySWMzbngw57%2F6nD06AegssZlDT6jAkxlAS57wTUnfp%2FZqcE9SlApXrImQxJayjpM8zy%2FKLCZvCte64lUn64dpWgm3S1Jisuwe7UrII1WCDjFqoS6ulnzWkhiop72hKaepujHowUNa9H0tco4w8GFNQPg7h58%2B2P7T519LRxcgMUQ%2BqXhL9JDtn23K6lcWuWtN7qQzmuq%2FoWazP%2Bwm88OnFp%7Ctkp%3ABk9SR7CFjsaJaA",
+        "url": "https://www.ebay.com/itm/206381711499?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=5043380638&itmmeta=01M191RJKZ9W81KP829CZZ22P8&hash=item300d4f008b:g:nxIAAeSwJ91qQp~R&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCAKpjlmnNxAkJ5yzgv4ebuSZgsheK9NNbAMshA%2BN7%2FbomS1ifnPcnKNMQdBwolk5xUDscwsqEBzq1SzlP59xHyl9QoLxAoQlFtC%2F9grpHeC7ujUyIRrkOJZKzEn9Ql3WhBeaRkGKFbCdDSVHCZGy5D0neBQ%2FWd0ABII2uMvgZ8oX2W1bvm85ghrPzqAn3%2FW2fUVW3sMJRX%2FE%2BOtjWU1Xru%2FM%2FQx6eO%2BBraXberHfpSvXYrTlt41sUG6Qr7ViqrCiaS7UJLnS9LGL7RIVAI794%2F%7Ctkp%3ABk9SR5qq4qGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/nxIAAeSwJ91qQp~R/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787987908841
+        "lastSeen": 1788085138535
       },
       "bestPsa10": {
         "itemId": "237011994145",
         "title": "Pokémon TCG snorlax jungle first edition PSA 10Opens in a new window or tab",
         "priceC": 275000,
-        "shippingC": 540,
-        "landedC": 275540,
-        "url": "https://www.ebay.com/itm/237011994145?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=25043362947&itmmeta=01M1663GA6EE0SEM742CDFKEFJ&hash=item372f040621:g:NsIAAeSwicVqgyBU&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAx%2BK3AADUjr%2F7sO7pRulduA5rtYeqj%2FBL5D%2B%2BqMWD2HwGpsU6CfTMSklYtYCVZfxLf0mIuR1PAGbYDZRcqF4l%2FJnv%2FCPtFkf6ENZYMpjDaNgJyRQUJ3tuVa0fI%2Ff%2FeymWkXq751tvDpOxDNr%2BAq37GgTr%2BxCCCwlhXA5E1rdhKqRHw0KvXeFOKI01r0JesELoz%2FPXi6zN26DpFEpt%2BXbXZS%2FROl0K%2Bbr5nUb9jzGEC5Zl%2Bj%2F7BSAxHfBiPR1U8opvDeTeVGrnQqPDOF3GRU8gO4rdSMcukonrgHglvx5eVAB8v%2BgT0rcfyMvhrJOcysZw%3D%7Ctkp%3ABk9SR7CFjsaJaA",
+        "shippingC": 548,
+        "landedC": 275548,
+        "url": "https://www.ebay.com/itm/237011994145?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=25043362947&itmmeta=01M191RJKYVQVSA0KRXAA22FQN&hash=item372f040621:g:NsIAAeSwicVqgyBU&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDE%2B%2BcbCxLIPwIcnoQ5%2F9eV%2BnnPJbhoo5DKmrUKaORWCZKTmUZvF2cusmZHha6sl%2F1W%2BQC9%2BgCs%2F76bggYHUNvs0USwZ%2Fd68yo5BNTmcBFzdB8Lv2%2FQFNkFrqyixZQQptX6GD8jL6O1vswoR8lL%2F%2BVYL0sn6OyXf9zVq%2BHg7oRyUkgVbCxwdQxaqgoXf9s5KcoFpKJwTRFbAQJfpX64X%2FH1tr7IBgkUwt1NhyE0jQfLU5ofHBggbnjMngoXMPHMyClG4w9qAv9vCCVv%2F0F7uH2w%7Ctkp%3ABk9SR5iq4qGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/NsIAAeSwicVqgyBU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787987908841
+        "lastSeen": 1788085138535
       },
       "bestPsa9": {
-        "itemId": "407149955888",
-        "title": "1997 Pokemon Jungle Snorlax Holo PSA 9 MintOpens in a new window or tab",
-        "priceC": 55000,
-        "shippingC": 597,
-        "landedC": 55597,
-        "url": "https://www.ebay.com/itm/407149955888?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=24073637001&itmmeta=01M110RTDM7MGM7E57VKG4MWMC&hash=item5ecc074b30:g:FtMAAeSwiOxqjn-l&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xADZcrJeh3ZksTEvZZswIgwReekT2q%2FoK%2FLvIwryh2mejIg5Foc%2FretINS6otxWn5RTyQZ3ieZfs9UQ1qGbgZ%2BCxIjlOWnjGsFy6GmbLg%2BSwQAt27XGB5eIzzBHCb7MwwXM2iWaZALaYihuFjO3TYnpLQAtPwmd5YiVopGYt2HzejRjOdO39PCH6YarIHqWKh6xa0yPmDHtxzLM6K11hoESUO6d%2F8zd4511JQkAnZSraWyOYIcuAhaGH9bbN8OtXY3LmuwcDBL46YshPCbFR%2FQj%7Ctkp%3ABk9SR7Kn46CIaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/FtMAAeSwiOxqjn-l/s-l500.webp",
+        "itemId": "318246450169",
+        "title": "PSA 9 Snorlax Holo Rare #143 Pokemon 1997 Jungle 11/64 WOTC (Original Snorlax!)Opens in a new window or tab",
+        "priceC": 52500,
+        "shippingC": 0,
+        "landedC": 52500,
+        "url": "https://www.ebay.com/itm/318246450169?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M191RAX2MVS43DD9XVDPH0ES&hash=item4a18f773f9:g:zFoAAeSwe5tp-E6C&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDith%2FVyZsrgj3rdg93WjgcoIPLsg7UAVPIchN7%2FVV3jq8x%2BdOl1978AGBuwLtm8gxBrvf0u2IgYBoS9cqbTo%2FQSvsvMhLy3BO8TIPNg41TsucaculMlsVzgn9MYPjgTwMI%2BoyYKDFil%2FSxWUUi9QP21qTza3LslOboiccBLFZtQkXZiPiM0JDyGwGyx1ic%2FLrmK7noFdJ3hRhrYgRPuVcVLDE4hhUOyyvjLNJc843Yg%2FC87Kyu%2Bt7iSXJVB4oA35Jrel8A2lOL7sVcL60k3IJW%7Ctkp%3ABk9SR-Cu4aGKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/zFoAAeSwe5tp-E6C/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787814545983
+        "lastSeen": 1788085138535
       },
       "counts": {
         "cgc10Bin": 1,
@@ -83,7 +83,7 @@
         "pristine10": 0,
         "psa10Bin": 3,
         "psa10Auction": 0,
-        "psa9Bin": 9
+        "psa9Bin": 8
       },
       "ratio": {
         "ok": true,
@@ -97,8 +97,8 @@
         "cgc10CostC": 899999,
         "submissionFeeC": 34900,
         "totalCostC": 934899,
-        "psa10ValueC": 463267,
-        "ratio": 0.49552625470772776
+        "psa10ValueC": 460525,
+        "ratio": 0.4925933175669243
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -107,14 +107,14 @@
           "priceC": 899999,
           "shippingC": 0,
           "landedC": 899999,
-          "url": "https://www.ebay.com/itm/206381711499?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=5043380638&itmmeta=01M1663GA7076YG8R0ZA20N22P&hash=item300d4f008b:g:nxIAAeSwJ91qQp~R&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCAKpjlmnNxAkJ5yzgv4ebuSZgsheK9NNbAMshA%2BN7%2FblRrICDPHed8JzqlCIakuySWMzbngw57%2F6nD06AegssZlDT6jAkxlAS57wTUnfp%2FZqcE9SlApXrImQxJayjpM8zy%2FKLCZvCte64lUn64dpWgm3S1Jisuwe7UrII1WCDjFqoS6ulnzWkhiop72hKaepujHowUNa9H0tco4w8GFNQPg7h58%2B2P7T519LRxcgMUQ%2BqXhL9JDtn23K6lcWuWtN7qQzmuq%2FoWazP%2Bwm88OnFp%7Ctkp%3ABk9SR7CFjsaJaA",
+          "url": "https://www.ebay.com/itm/206381711499?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=5043380638&itmmeta=01M191RJKZ9W81KP829CZZ22P8&hash=item300d4f008b:g:nxIAAeSwJ91qQp~R&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCAKpjlmnNxAkJ5yzgv4ebuSZgsheK9NNbAMshA%2BN7%2FbomS1ifnPcnKNMQdBwolk5xUDscwsqEBzq1SzlP59xHyl9QoLxAoQlFtC%2F9grpHeC7ujUyIRrkOJZKzEn9Ql3WhBeaRkGKFbCdDSVHCZGy5D0neBQ%2FWd0ABII2uMvgZ8oX2W1bvm85ghrPzqAn3%2FW2fUVW3sMJRX%2FE%2BOtjWU1Xru%2FM%2FQx6eO%2BBraXberHfpSvXYrTlt41sUG6Qr7ViqrCiaS7UJLnS9LGL7RIVAI794%2F%7Ctkp%3ABk9SR5qq4qGKaA",
           "imageUrl": "https://i.ebayimg.com/images/g/nxIAAeSwJ91qQp~R/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787038800668,
-          "lastSeen": 1787987908841
+          "lastSeen": 1788085138535
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -130,28 +130,28 @@
           "cgc10CostC": 899999,
           "submissionFeeC": 34900,
           "totalCostC": 934899,
-          "psa10ValueC": 463267,
-          "ratio": 0.49552625470772776
+          "psa10ValueC": 460525,
+          "ratio": 0.4925933175669243
         },
         "firstOpportunityAt": 1787038800668
       },
       "firstOpportunityAt": 1787038800668,
-      "updatedAt": 1787987908841
+      "updatedAt": 1788085138535
     },
     "prices": {
       "variantId": 311,
-      "ungradedC": 5345,
-      "grade9C": 66860,
-      "grade95C": 73500,
+      "ungradedC": 5072,
+      "grade9C": 70320,
+      "grade95C": 77400,
       "cgc10C": 119250,
       "cgc10PristineC": 282777,
-      "psa10C": 463267,
+      "psa10C": 460525,
       "psa9Pop": 817,
       "psa10Pop": 39,
       "cgc10Pop": 60,
-      "bgs10C": 602200,
-      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\"}",
-      "fetchedAt": 1787987468239
+      "bgs10C": 598700,
+      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per week\",\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\"}",
+      "fetchedAt": 1788073887306
     },
     "listings": [
       {
@@ -165,9 +165,24 @@
         "listingType": "auction",
         "bucket": "psa9",
         "legacyCgc95": false,
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787728167674,
         "lastSeen": 1787814545983
+      },
+      {
+        "itemId": "318246450169",
+        "title": "PSA 9 Snorlax Holo Rare #143 Pokemon 1997 Jungle 11/64 WOTC (Original Snorlax!)Opens in a new window or tab",
+        "priceC": 52500,
+        "shippingC": 0,
+        "landedC": 52500,
+        "url": "https://www.ebay.com/itm/318246450169?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M191RAX2MVS43DD9XVDPH0ES&hash=item4a18f773f9:g:zFoAAeSwe5tp-E6C&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDith%2FVyZsrgj3rdg93WjgcoIPLsg7UAVPIchN7%2FVV3jq8x%2BdOl1978AGBuwLtm8gxBrvf0u2IgYBoS9cqbTo%2FQSvsvMhLy3BO8TIPNg41TsucaculMlsVzgn9MYPjgTwMI%2BoyYKDFil%2FSxWUUi9QP21qTza3LslOboiccBLFZtQkXZiPiM0JDyGwGyx1ic%2FLrmK7noFdJ3hRhrYgRPuVcVLDE4hhUOyyvjLNJc843Yg%2FC87Kyu%2Bt7iSXJVB4oA35Jrel8A2lOL7sVcL60k3IJW%7Ctkp%3ABk9SR-Cu4aGKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/zFoAAeSwe5tp-E6C/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787038800668,
+        "lastSeen": 1788085138535
       },
       {
         "itemId": "407149955888",
@@ -180,24 +195,9 @@
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787038800668,
         "lastSeen": 1787814545983
-      },
-      {
-        "itemId": "318246450169",
-        "title": "PSA 9 Snorlax Holo Rare #143 Pokemon 1997 Jungle 11/64 WOTC (Original Snorlax!)Opens in a new window or tab",
-        "priceC": 52500,
-        "shippingC": 3440,
-        "landedC": 55940,
-        "url": "https://www.ebay.com/itm/318246450169?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M1663ADMZQHQRT08M0ZMG926&hash=item4a18f773f9:g:zFoAAeSwe5tp-E6C&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBIBVTe5XH7h%2FwgnmvAqQw2HeJAPjrdnPwGE4NaAK2AW3BRmfuRRvZx73gGdl8PH7obl6al%2BCB7gIyi0qHsMrBxDngHLEFmABDc8ecKB0Gx42SiPxlatRRC%2Blz%2B1peoYWmgz43SxbcWcFpxXkT07RvkkMZDb6DhtDqKK74fD%2FNmoAxITbQVZGBcbWoDC4W2RGuyQD6RJWiI%2BW3pHPZamAcWLsZKf9qBFwTjJ3euY%2BsteZ9yeo9XREr%2BDWNlbwhgMHTfBgorgSazLWMgQqy5iusJaCR7LCbxqbPB7fQnZngz74U8bqTL5xbqqjax8Ax6efs%3D%7Ctkp%3ABk9SR4SnjcaJaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/zFoAAeSwe5tp-E6C/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787038800668,
-        "lastSeen": 1787987908841
       },
       {
         "itemId": "147509688589",
@@ -220,14 +220,14 @@
         "priceC": 78299,
         "shippingC": 0,
         "landedC": 78299,
-        "url": "https://www.ebay.com/itm/298540004920?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M16601MK7A03T9VD37N4X573&hash=item45825ef638:g:6q8AAeSwfVNqaOt1&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCHaa6D3htCGrnz2KWRnYd5mEiQ8ffSl%2BA18ox5Y4GYxnkhPXoT9O4LDWS0s3GK%2BTQjL3kGMi4UTYDo7kujlse1mqUqHe--LmSoyHXtWcCnaJhu2Jm8M30sEhfUO2ryHTuXSal2t7bhjF4ZZlo6ChEHHIwxBg34fOZyszQO5E5kV70w8fE%2FqHy%2Fk0wPvMN5CN2ZGMqeV902KcmvvbopL9Hun3%2FFtrW%2FUXmURrAqR4GqVsrRx1uD%2BYez2PY6s%2B19FQzHHQ%2FJTTrS%2F4PsLtNz9i38%7Ctkp%3ABk9SR8qagMaJaA",
+        "url": "https://www.ebay.com/itm/298540004920?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M191RAX29KW7H2CH23H4HKHN&hash=item45825ef638:g:6q8AAeSwfVNqaOt1&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCHaa6D3htCGrnz2KWRnYd5mEiQ8ffSl%2BA18ox5Y4GYxhdHU0ewBL21jAjzubLBeHUvZoilGbF5CFWd9vyAvqBO8Tc5NF6eNS%2F1r%2B82fA1NDJswU3FLVmmOZIkl8bI7%2BISA0FwKNisGPTTkInf07kiOLclGd%2BXipOP1t87KYaKZQBLJwM7ltZiQR6tMJwT3L1PlZcXzZQYLJLmBF1Kunqk%2Fk1BGzYkO3eU37oxMUgmnL9YGPmcgvhcXJQD1njfChFMYZHNgMmAv2EPtZOS1QnMm%7Ctkp%3ABk9SR-Ku4aGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/6q8AAeSwfVNqaOt1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787987908841
+        "lastSeen": 1788085138535
       },
       {
         "itemId": "236904662820",
@@ -235,29 +235,29 @@
         "priceC": 78000,
         "shippingC": 572,
         "landedC": 78572,
-        "url": "https://www.ebay.com/itm/236904662820?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M16601MK93A5R4B9ZAXSCN9V&hash=item37289e4724:g:qlIAAeSwMPVqQfov&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xApnddTO4aYE1%2BNnvM944ufaDfBdCQu5mDcU4EoI0F6P0FlUzs3nvcet%2BMcGD3KnpnvpKT8hwBVov27foNo2qTCQcQCn65%2B82ECxa7YaLctCQHMNCCmtRUKeELsOh7t5qkffewHSiBQyfbsc3Bhlc5%2BGT62UHP5Teh%2F4fqYI1pp1%2BmYA6RcleUz47bhYOZbjYn9tCPg3urPiX%2FVcQ15zNOgswnTfZWy6mmpqsPK1Cp6XSYxMKNOtVx9%2FccZasU7THeMopBWZIVZwRGUgXTMeuwq%7Ctkp%3ABk9SR8qagMaJaA",
+        "url": "https://www.ebay.com/itm/236904662820?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M191RAX23QA0CX13AKZ9N4C8&hash=item37289e4724:g:qlIAAeSwMPVqQfov&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB4FHOWBmSGPKS5VIuRGlInrocLYP02CcAStEdcY44mL9ZmxXHDLOqDAp%2F4UXoOVNGEmraj0VvWGXyKjmyyboo4yMkOBD6jPGkD5Xq49x3Sz4l7rA0Y73HHeSZ2z4DM%2BcuSjZ46rcKWTFwuIevUY639O31dneCbU5KTvcIXz5YSD08EaqsuPAVApaY9D753qxpV9ebCDj4aV7Fr3kySlrSVFqhEFuh%2Fx3tloC67Jzmxk2uJuTSewxzd%2BSooNcnBeG7sYy1BFhHRmYmt2r2%2FVSXhvgDgp8f4Tsc%2FpaT2xRCWbVvW4SEhh0pMEbgLGgn7P%2F4%3D%7Ctkp%3ABk9SR-Ku4aGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/qlIAAeSwMPVqQfov/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787987908841
+        "lastSeen": 1788085138535
       },
       {
         "itemId": "157941037343",
         "title": "Pokémon Snorlax 11/64 - PSA 9 MINT - Jungle Holo Vintage Rare! Unlimited 1999Opens in a new window or tab",
         "priceC": 82500,
-        "shippingC": 5497,
-        "landedC": 87997,
-        "url": "https://www.ebay.com/itm/157941037343?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380464&itmmeta=01M1663ADNRZC391M4302WVC4B&hash=item24c604f91f:g:fIoAAeSwB3FqFIM5&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCyCrXbmDIbjzVhjztmEv4fgckFkrPBw8sS%2FmGiyoMFB4loFLLSbE0zZhSBED6dVli%2FWs5yKGMeFOpJCs7Kp9xMpLFBuzVM2R3%2FraB4InlOPLlsdP75D4u0DmLYUDMieWgEH5oWkzUvRdF4VawjbxFL7lUDddbaiSN5ogPUHcg2u59Cu3%2FwLD6WKwA9XEfUQpZbGVY4uWUawKaFSSipiqBBZ154NOmpQbKKBf6%2BvzG3vPEsffrCv5%2Fw1jcasZsS0xUGb2M62E40x0gmzGwmKvgh%7Ctkp%3ABk9SR4anjcaJaA",
+        "shippingC": 597,
+        "landedC": 83097,
+        "url": "https://www.ebay.com/itm/157941037343?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=3043380464&itmmeta=01M191RAX3EJYXHFGP1BAS40Y5&hash=item24c604f91f:g:fIoAAeSwB3FqFIM5&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCyCrXbmDIbjzVhjztmEv4fgckFkrPBw8sS%2FmGiyoMFB8Mwf3ljzUyq8cvSuhrXZ8cO1zx71KF4paTvX32FmueqT95Nx84si84C%2FXkWSpKxDDXGdR6zi%2BYpIJRnU%2FnVNtA%2BclSB0TkdETP1JlW2ilNGsZ%2FCVpRH8qBJI1odOAAmbilr0n1Xt%2F4lG0G2jTp%2BNiaMODw3BM0z6x7z8eHn5DfmEXes42K1EqUeJtTeP%2BrJc2LqBnRILWM5EoByX2nOfrVSZoEV3L9PAb2iS7RCQuG5%7Ctkp%3ABk9SR-Ku4aGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/fIoAAeSwB3FqFIM5/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787987908841
+        "lastSeen": 1788085138535
       },
       {
         "itemId": "127922202953",
@@ -280,14 +280,14 @@
         "priceC": 99900,
         "shippingC": 572,
         "landedC": 100472,
-        "url": "https://www.ebay.com/itm/168499287295?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M16601MK4HT7TSG92B074M27&hash=item273b5714ff:g:jy4AAeSwwNtqQXsw&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAW19jEUT76gJsKt9a5IdhyPZhc6ajV36lFnPUr5fw%2Ff98ycsW6RbXxSKijMRsShbOvmN3cNRVjAURT9fZrzLoZs1hEL5xgCCpJvCyJWeGUkeuCYOnkkjmEzwgA3vPR%2FRlgFL2nVnVq%2FuYBL1GpTZk8ja3qi4JctgfGKGH99F4WwVicjYhV4TqjWrcSgsOTQCddP0LIi9nssg%2B1YCc5MQgFtDaR0b1%2FfVJYTXyQzh5JI2qbaIzPjJ08pRevFwTeCCNR5zj2cPJTGj5ZMr8Z2%2Bis%7Ctkp%3ABk9SR8qagMaJaA",
+        "url": "https://www.ebay.com/itm/168499287295?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M191RAX3PFCMCP37WN4T3328&hash=item273b5714ff:g:jy4AAeSwwNtqQXsw&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB9Nu63a6%2F6k5q9tvHphF0wfgh4lqDG1CQ9J2Du50n5HwWj6B8pVU55HuEMv7Wf0BwnlElzlf8HDJRHCQHI%2FVio4X%2BK7ZCzDf%2B06NVGTZn5Z1Prprs7pqNYZO0qdN%2Bx%2Bsk5WXi47R3jyZBtKYybsIDpSj%2F%2BLxC3DU0dBrdfqAcQdN1KQY3tBXJgLQGf9iFgZi5CYcXvc3zmdHDdJ9BfG1ubc25hTRYFMZSscazjmzKw8YIx%2BEeQsE5QzqISBbiOnPgzR%2BiycWT79JVVLiw71MhL8XSW%2FBYKjfV9pnr%2FpV5ZiGfmHjMoUEN6YkNLATYOVa4%3D%7Ctkp%3ABk9SR-Ku4aGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/jy4AAeSwwNtqQXsw/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787987908841
+        "lastSeen": 1788085138535
       },
       {
         "itemId": "178129631778",
@@ -295,14 +295,14 @@
         "priceC": 128000,
         "shippingC": 0,
         "landedC": 128000,
-        "url": "https://www.ebay.com/itm/178129631778?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M1663GA6AJRKC7F2DXQZ1BYJ&hash=item29795a7a22:g:lF0AAeSwvSpqA8pT&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAGw62xTEGE8E1yIevi6lUPldCz5SgpR92mKVicIL5LiedKZ98g5QXZh4D2UT1VqcmmYT5MvBEi8EIqPVJHUJsufb%2FuJjNJvOUJAI9%2F%2BLTISWVDjWPuNAbmTokB%2BPgboSeweSEl%2F5UVAj2gZbRFUTMiGCgyW4Qcclb49rGprDUIp%2FQI0RS0drBWMZDKsrmmejG19YIpsvYc%2BRzN0%2FMyOWJlhZNRNZUnNwRswDIL%2BCUX9972EswSvdeAxXAyS%2BpX%2B%2F6rtX0hBdyz5ykyQHMqMG8N%7Ctkp%3ABk9SR66FjsaJaA",
+        "url": "https://www.ebay.com/itm/178129631778?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M191RAX3DTEE614CTK9FGSV8&hash=item29795a7a22:g:lF0AAeSwvSpqA8pT&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAGw62xTEGE8E1yIevi6lUPldCz5SgpR92mKVicIL5LiZXkyEO%2BxavXOIf8xH3eY5qa5plztgL6p6Bgv5YLvu2xuHzsNRQfnf8ahN16NIpVnKNGRRz1B4K7W791rPsGd0hvyJu54OCpR6Z7Yw%2FeDf78ni9ZJ4o8a8Mk2oS0hTGZ0THOQX%2Bqb%2FHCwGmNxuhUlsMFYbh9LnkDZQ3qJMruUgfrf2hDHcn7cY167cB1R3%2FVnebh1KdFVW1xL%2B9DZMz2b%2FY4P%2Bp%2FWhbSy9zbgnkwOIAH%7Ctkp%3ABk9SR-Ku4aGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/lF0AAeSwvSpqA8pT/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787987908841
+        "lastSeen": 1788085138535
       },
       {
         "itemId": "147513549964",
@@ -323,16 +323,16 @@
         "itemId": "237011994145",
         "title": "Pokémon TCG snorlax jungle first edition PSA 10Opens in a new window or tab",
         "priceC": 275000,
-        "shippingC": 540,
-        "landedC": 275540,
-        "url": "https://www.ebay.com/itm/237011994145?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=25043362947&itmmeta=01M1663GA6EE0SEM742CDFKEFJ&hash=item372f040621:g:NsIAAeSwicVqgyBU&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAx%2BK3AADUjr%2F7sO7pRulduA5rtYeqj%2FBL5D%2B%2BqMWD2HwGpsU6CfTMSklYtYCVZfxLf0mIuR1PAGbYDZRcqF4l%2FJnv%2FCPtFkf6ENZYMpjDaNgJyRQUJ3tuVa0fI%2Ff%2FeymWkXq751tvDpOxDNr%2BAq37GgTr%2BxCCCwlhXA5E1rdhKqRHw0KvXeFOKI01r0JesELoz%2FPXi6zN26DpFEpt%2BXbXZS%2FROl0K%2Bbr5nUb9jzGEC5Zl%2Bj%2F7BSAxHfBiPR1U8opvDeTeVGrnQqPDOF3GRU8gO4rdSMcukonrgHglvx5eVAB8v%2BgT0rcfyMvhrJOcysZw%3D%7Ctkp%3ABk9SR7CFjsaJaA",
+        "shippingC": 548,
+        "landedC": 275548,
+        "url": "https://www.ebay.com/itm/237011994145?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=25043362947&itmmeta=01M191RJKYVQVSA0KRXAA22FQN&hash=item372f040621:g:NsIAAeSwicVqgyBU&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDE%2B%2BcbCxLIPwIcnoQ5%2F9eV%2BnnPJbhoo5DKmrUKaORWCZKTmUZvF2cusmZHha6sl%2F1W%2BQC9%2BgCs%2F76bggYHUNvs0USwZ%2Fd68yo5BNTmcBFzdB8Lv2%2FQFNkFrqyixZQQptX6GD8jL6O1vswoR8lL%2F%2BVYL0sn6OyXf9zVq%2BHg7oRyUkgVbCxwdQxaqgoXf9s5KcoFpKJwTRFbAQJfpX64X%2FH1tr7IBgkUwt1NhyE0jQfLU5ofHBggbnjMngoXMPHMyClG4w9qAv9vCCVv%2F0F7uH2w%7Ctkp%3ABk9SR5iq4qGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/NsIAAeSwicVqgyBU/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787987908841
+        "lastSeen": 1788085138535
       },
       {
         "itemId": "397756022898",
@@ -340,14 +340,14 @@
         "priceC": 279999,
         "shippingC": 997,
         "landedC": 280996,
-        "url": "https://www.ebay.com/itm/397756022898?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M1663GA6YCKT6M0GMT4P2MV7&hash=item5c9c1b4072:g:oWsAAeSwShhpwuLL&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBnDEIFE03He2nHV%2Bmv02TgydxQtEcQRA5boh9B9z8N%2FN9E3GW%2BfAJHX%2BgcuUJ1epyf2Pl9CmTf5qTz2EOpEC5EIL8MyK5kbYktufPgOynexVy%2ByU9g9%2B%2BOd190Py1rPDnQlPTy7tV1XNWKKFsSdYKEGZqmMo2L1SkVpxz7sOE9w2oqj8XXKXl1OJFZPNTSVVzFXyTZkTUAvfkvEhsDoGKF5BW0%2FplGqlsOlSkKefdbsUVwyvQSqfAkf7c9legbetQAQImj1vy041eWzyoMFbmwuWIjpD43CfRNEIuf3OjKzP9DsywuPZ8X19psUmA5%2B0k%3D%7Ctkp%3ABk9SR7CFjsaJaA",
+        "url": "https://www.ebay.com/itm/397756022898?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M191RJKY904HP2TSAFG81T9W&hash=item5c9c1b4072:g:oWsAAeSwShhpwuLL&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCtAudAE%2BOxWqZ3tUHckI5SdS6l4IPAojI%2FISKnnkc6oRfDgzYyFcwuIX20y8sdf4oQLyDKDRtIyHotqKy9URERgpMCEAVBhqvXUnAs%2BKGahY94TVK3QYWOqt7rLndi54INIwwGRsaPZSsdrMTewBRlZXZujimGFSScrS6vJ3Nq00tQ%2Ft1VgOPZ%2BoDCMxcyizqW%2B%2BDf1LBi%2FHoIXK8jvsnn8feAoVXka%2BC%2BJNzRVSZN735csM49PlSCITsCl2E8LAB3T454m3QzioxhXxTnRqAB%7Ctkp%3ABk9SR5iq4qGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/oWsAAeSwShhpwuLL/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787987908841
+        "lastSeen": 1788085138535
       },
       {
         "itemId": "206381711499",
@@ -355,14 +355,14 @@
         "priceC": 899999,
         "shippingC": 0,
         "landedC": 899999,
-        "url": "https://www.ebay.com/itm/206381711499?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=5043380638&itmmeta=01M1663GA7076YG8R0ZA20N22P&hash=item300d4f008b:g:nxIAAeSwJ91qQp~R&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCAKpjlmnNxAkJ5yzgv4ebuSZgsheK9NNbAMshA%2BN7%2FblRrICDPHed8JzqlCIakuySWMzbngw57%2F6nD06AegssZlDT6jAkxlAS57wTUnfp%2FZqcE9SlApXrImQxJayjpM8zy%2FKLCZvCte64lUn64dpWgm3S1Jisuwe7UrII1WCDjFqoS6ulnzWkhiop72hKaepujHowUNa9H0tco4w8GFNQPg7h58%2B2P7T519LRxcgMUQ%2BqXhL9JDtn23K6lcWuWtN7qQzmuq%2FoWazP%2Bwm88OnFp%7Ctkp%3ABk9SR7CFjsaJaA",
+        "url": "https://www.ebay.com/itm/206381711499?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=5043380638&itmmeta=01M191RJKZ9W81KP829CZZ22P8&hash=item300d4f008b:g:nxIAAeSwJ91qQp~R&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCAKpjlmnNxAkJ5yzgv4ebuSZgsheK9NNbAMshA%2BN7%2FbomS1ifnPcnKNMQdBwolk5xUDscwsqEBzq1SzlP59xHyl9QoLxAoQlFtC%2F9grpHeC7ujUyIRrkOJZKzEn9Ql3WhBeaRkGKFbCdDSVHCZGy5D0neBQ%2FWd0ABII2uMvgZ8oX2W1bvm85ghrPzqAn3%2FW2fUVW3sMJRX%2FE%2BOtjWU1Xru%2FM%2FQx6eO%2BBraXberHfpSvXYrTlt41sUG6Qr7ViqrCiaS7UJLnS9LGL7RIVAI794%2F%7Ctkp%3ABk9SR5qq4qGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/nxIAAeSwJ91qQp~R/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787987908841
+        "lastSeen": 1788085138535
       },
       {
         "itemId": "267733633023",
@@ -385,18 +385,57 @@
         "priceC": 4999999,
         "shippingC": 0,
         "landedC": 4999999,
-        "url": "https://www.ebay.com/itm/318660607008?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M1663GA7W1RQXYV9NDK2XC19&hash=item4a31a6fc20:g:ap0AAeSwrA1puZWf&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBHpJuYPCm9LjpP%2FviYfglA2VnbLQM4Z1MqauEfkIpyEzyg3FU%2FtypX%2B8e989wALIO2qFUQcSHgAD9Z8M2lk8Z%2Fuiqx4LHKKoTN1Y4kKoLepqqnn1zU4sbEgtmucD9YxnvTXsfYYP2ltK7DeJqR20JhVq6MF6qzCaEqbqUl8rPwlw9GaS%2FoPULb4CqzshyBhKaVp0A%2B1tBTEwzxkWRDsCv%2Bllur0hQWb0eLpfiDydbtM0cd4l7uz7dlBVKLOwV6aj%2BsAO7wiiS7NWxzyYMH3LRw%7Ctkp%3ABk9SR7KFjsaJaA",
+        "url": "https://www.ebay.com/itm/318660607008?_skw=%28snorlax%29+%2811%2Cjungle%29+%28CGC%2CPSA%29&epid=12043364833&itmmeta=01M191RJM0WPWKHSV287AYQ9YF&hash=item4a31a6fc20:g:ap0AAeSwrA1puZWf&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBHpJuYPCm9LjpP%2FviYfglA2VnbLQM4Z1MqauEfkIpyE2%2BYqkRHS881xXDtOcGSLurgA2Eexn2I9eIUsy0x%2FPuLIQ3NlTfN4ryf2FEDL0uQqwVC49BB3GjnsEhI8Dfp9fnBljlt%2BNwYATJpNHne%2BIIB0s%2BOxl7%2B1%2BUDW3JxFYm9gdMs87ZMvYLCjL4wxdJt71aNSxjwJjBQQaO3V%2BDsVwcMYokE%2FkdYsxCzzxjQkEiM0o1V2aODaLCVt34LzKuHgys%2BLosdg7dYsN3IO1adLrsP%7Ctkp%3ABk9SR5qq4qGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/ap0AAeSwrA1puZWf/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038800668,
-        "lastSeen": 1787987908841
+        "lastSeen": 1788085138535
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 7727455,
+          "saleDate": "2026-08-30",
+          "priceC": 7192,
+          "title": "1999 POKEMON JUNGLE #11/64 SNORLAX HOLO RARE 11/64",
+          "url": "https://www.ebay.com/itm/206509504133?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7727454,
+          "saleDate": "2026-08-30",
+          "priceC": 4300,
+          "title": "Pokemon Snorlax 11/64 Jungle Unlimited Holo Rare English WOTC 90 HP 11/64",
+          "url": "https://www.ebay.com/itm/158215135826?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7727456,
+          "saleDate": "2026-08-29",
+          "priceC": 6000,
+          "title": "Pokémon TCG Snorlax Jungle 11/64 Holo Unlimited Holo Rare 11/64",
+          "url": "https://www.ebay.com/itm/206509926507?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 7562154,
           "saleDate": "2026-08-28",
@@ -524,6 +563,19 @@
           "gradingStatus": "graded",
           "gradingCompany": "PSA",
           "gradingGrade": 4,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7727569,
+          "saleDate": "2026-08-25",
+          "priceC": 73900,
+          "title": "Pokemon Jungle Snorlax Holo PSA 9 11/64",
+          "url": "https://www.ebay.com/itm/147509688589?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -823,6 +875,19 @@
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7727571,
+          "saleDate": "2026-08-17",
+          "priceC": 75000,
+          "title": "Pokemon TCG Jungle Snorlax 11/64 Holo Rare EN 1999 PSA 9 WOTC Sugimori 11/64",
+          "url": "https://www.ebay.com/itm/227459610281?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1891,71 +1956,6 @@
           "gradingGrade": 7,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 58626,
-          "saleDate": "2026-07-14",
-          "priceC": 8999,
-          "title": "1999 💤SNORLAX HOLO✨️ PSA 5 EXCELLENT POKEMON JUNGLE 11 *NEWLY GRADED* 11/64",
-          "url": "https://www.ebay.com/itm/407065561967?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 5,
-          "gradingDesignation": "excellent",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 58541,
-          "saleDate": "2026-07-14",
-          "priceC": 42600,
-          "title": "1999 POKEMON JUNGLE #11 SNORLAX-HOLO PSA 8 #11",
-          "url": "https://www.ebay.com/itm/307041054425?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 58540,
-          "saleDate": "2026-07-14",
-          "priceC": 29500,
-          "title": "Pokemon 1999 Jungle Snorlax Holo Rare 11/64 Unlimited English PSA 8 11/64",
-          "url": "https://www.ebay.com/itm/198480600275?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 58539,
-          "saleDate": "2026-07-14",
-          "priceC": 30000,
-          "title": "Pokemon TCG Snorlax 11/64 Jungle Holo Rare EN 1999 PSA 8. 11/64",
-          "url": "https://www.ebay.com/itm/127970907787?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 58594,
-          "saleDate": "2026-07-13",
-          "priceC": 4400,
-          "title": "Pokemon Snorlax Jungle 11/64 Holo Unlimited CGC 6.5 #Nov-64",
-          "url": "https://www.ebay.com/itm/287433885236?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 6.5,
-          "gradingDesignation": null,
-          "agreementStatus": "mismatch"
         }
       ],
       "monthlyPsa10": [
@@ -2000,9 +2000,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 398,
+      "englishSaleCount": 403,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787987466061
+      "lastCapturedAt": 1788073884042
     }
   }
 }

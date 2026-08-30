@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260829T093902881Z-2c77376cd2",
-  "generatedAt": 1787996342881,
+  "snapshotId": "20260830T102123506Z-b907ba6b0e",
+  "generatedAt": 1788085283506,
   "data": {
     "deal": {
       "variantId": 38,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/7400c2d216899e68f1511713225aa705f3c396576245b6cca2eafb7f1839f1ba/1600.jpg",
       "popularityScore": 92,
       "market": {
-        "ungradedC": 10550,
+        "ungradedC": 9992,
         "grade9C": 51850,
         "grade95C": 66250,
         "cgc10C": 83434,
         "cgc10PristineC": 200000,
-        "psa10C": 275900,
-        "bgs10C": 358700,
+        "psa10C": 275500,
+        "bgs10C": 358200,
         "psa9Pop": 2044,
         "psa10Pop": 952,
         "cgc10Pop": 60,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787986884277
+        "fetchedAt": 1788073284744
       },
       "bestCgc10": {
         "itemId": "298379835577",
@@ -38,50 +38,36 @@
         "priceC": 64999,
         "shippingC": 0,
         "landedC": 64999,
-        "url": "https://www.ebay.com/itm/298379835577?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ5A20B5C7P7KMN345GA&hash=item4578d2f8b9:g:r0sAAeSwzT9qH7JO&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDGZAxJiOZgSIq7HFYH6cMu95qW7NNuXf3Pvr7vqiRI1KT2JvJ2tvEwVDB8G1MiDUHsKqriGQpYkIFdo3muPAfwxhDXUua3UqY8F7PUmtNJBGLIZg3FC6ZGum7qRdQMMWsjKiMynyCMST8uImMPiUb9S0lDL8stVYNSDqiK05WbmMPG6BMkhKr9AU0vvszayQUiNEviOyytg37p2ni%2Flp2EhsSSyqUsSkDfijRx6TpPR9I0fF6l35voBS4bi1%2BE552Yn%2BSpa9Zih67lUUqAy7Dfgf8ZJmXOyHqCckxuHfwG5SA6AYKkStRT%2F0DTME15%2FsY%3D%7Ctkp%3ABk9SR47zs8WJaA",
+        "url": "https://www.ebay.com/itm/298379835577?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M18QRWQDTVJYS3P7WRBZP2X3&hash=item4578d2f8b9:g:r0sAAeSwzT9qH7JO&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBg%2BoxWRIQvcZE9NyvyDGTt6jrMXLlmBGQqoj0z27b4QRFAmzmXs9z0%2FCs6UpfWIL%2F5I0Ylm%2BuyNmM04NDAcXEjy1kPGGVuyVurvN8DoUIPoOwISMEoBORD%2B7r%2F7v2%2FzqH%2BsTv8GNDusr%2BDq0bW4fzLhoZNfViAp36%2BDoztX85qOP7gf9qWhreVn9%2BK7SQcDe7l6dzxZpT8TFIUQlUdKAe%2BV8nTMuA3FPkgzQYPjo2ArUVIeTJpj3%2FZYfn9NnIP1W1Ylki9C7MUHgpQQDNz8%2BIu%7Ctkp%3ABk9SR4bM45eKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/r0sAAeSwzT9qH7JO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094427972,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
-      "bestPsa10": {
-        "itemId": "227481463449",
-        "title": "1999 Pokemon Squirtle 63 Base Set 1st Edition PSA 10 WOTC 🔥Thick Stamp🔥Opens in a new window or tab",
-        "priceC": 350000,
-        "shippingC": 999,
-        "landedC": 350999,
-        "url": "https://www.ebay.com/itm/227481463449?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ5NNNMRKQG0CWRX47RB&hash=item34f6f3aa99:g:9MkAAeSwZERqhKxX&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDAR5mHHBeLGbaC84xnuNGJTPEBlWAHZhJhKCJC1TenK%2BbhZ2dHhMQ5gP1BPe6Mrbc1Z1d97q3Zd2Jd27aBmd76rc8ktFf0%2BFGYyA0LKhyKlU0hIkkff1H5o5M8%2BAm6L5ZgDGCdgz14hJBpuf4vqNTBoh%2FqURkhjEoNezcBT4%2BMw4dR3XsEZZAFt6KsyEjbOkyAm7j4fReexg7WoXSOuoUG%2F36BzjrBJlvUzR%2BtfScy25qLi0C6M4BwpH34T1YvfyrMgrPMzbRWN9u4C4y3aOXM%7Ctkp%3ABk9SR5jzs8WJaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/9MkAAeSwZERqhKxX/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787295958915,
-        "lastSeen": 1787987445774
-      },
+      "bestPsa10": null,
       "bestPsa9": {
         "itemId": "188842066745",
         "title": "Pokemon Squirtle Carapuce #63 Base Set 1st Edition PSA 9Opens in a new window or tab",
         "priceC": 12499,
-        "shippingC": 2288,
-        "landedC": 14787,
-        "url": "https://www.ebay.com/itm/188842066745?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M165BZ2VW6QPHD7C49A1792E&hash=item2bf7dd4339:g:D1UAAeSw0KVqjmGW&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAcFq%2BrcfZNoAVbt30hKq4SaH4NBidUhIguhz4WRml69cg00Urnt4phv2jETfh0I7kz3xonbC0Rw4IKLnMST6hgjtijrIFb0ru%2BWJCC2t1kVNLkPf%2F4HjdWejxy3gedxu4rH%2FFfJBw5cjXQfEVnTfA0oSERWlyKX6fuSmeKOyYqcVR54ARtClk65qAN6YmEqxAOKQQv%2Ft16GrmYXybotF6cPdDvOMnJJdjzR4jBliDkqIvR8mG7SCvuXNaKylu9%2FEv73YJYeI3dYxRK7O%2BQFd3B%7Ctkp%3ABk9SR87xr8WJaA",
+        "shippingC": 790,
+        "landedC": 13289,
+        "url": "https://www.ebay.com/itm/188842066745?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M18QRF0QS3VN0QY9A0FZYPB0&hash=item2bf7dd4339:g:D1UAAeSw0KVqjmGW&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAcFq%2BrcfZNoAVbt30hKq4SaH4NBidUhIguhz4WRml69ePYca0TVy%2FwvnjrrkdSamAFuoQ3ObRTaeduFWmnAP7BrQlFum3OSWGKVk%2BGbyAvQSrY1njWYHuiiddPULPv%2BJFi%2FPJdE08rU1tKw5xmdzLDanXkCJIOFHgRLRseRMhbB47CP9o%2FSLGHAwOi%2BxcZbzzcHmADLa8EQYex8xzSezp2VS4RrilkPu7p48Lkp7yO2O363CIc7658PGZx%2BBmrxs5o497bCTt1fguexHDGqAUF%7Ctkp%3ABk9SR97w4ZeKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/D1UAAeSw0KVqjmGW/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787727945888,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
       "counts": {
         "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 6,
+        "psa10Bin": 0,
         "psa10Auction": 1,
         "psa9Bin": 11
       },
@@ -97,8 +83,8 @@
         "cgc10CostC": 64999,
         "submissionFeeC": 34900,
         "totalCostC": 99899,
-        "psa10ValueC": 275900,
-        "ratio": 2.7617894073013742
+        "psa10ValueC": 275500,
+        "ratio": 2.757785363216849
       },
       "withoutLegacyCgc95": {
         "bestCgc10": null,
@@ -108,68 +94,68 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787094427972,
-      "updatedAt": 1787987445774
+      "updatedAt": 1788073863031
     },
     "prices": {
       "variantId": 38,
-      "ungradedC": 10550,
+      "ungradedC": 9992,
       "grade9C": 51850,
       "grade95C": 66250,
       "cgc10C": 83434,
       "cgc10PristineC": 200000,
-      "psa10C": 275900,
+      "psa10C": 275500,
       "psa9Pop": 2044,
       "psa10Pop": 952,
       "cgc10Pop": 60,
-      "bgs10C": 358700,
+      "bgs10C": 358200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 2 sales per week\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787986884277
+      "fetchedAt": 1788073284744
     },
     "listings": [
       {
         "itemId": "188842066745",
         "title": "Pokemon Squirtle Carapuce #63 Base Set 1st Edition PSA 9Opens in a new window or tab",
         "priceC": 12499,
-        "shippingC": 2288,
-        "landedC": 14787,
-        "url": "https://www.ebay.com/itm/188842066745?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M165BZ2VW6QPHD7C49A1792E&hash=item2bf7dd4339:g:D1UAAeSw0KVqjmGW&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAcFq%2BrcfZNoAVbt30hKq4SaH4NBidUhIguhz4WRml69cg00Urnt4phv2jETfh0I7kz3xonbC0Rw4IKLnMST6hgjtijrIFb0ru%2BWJCC2t1kVNLkPf%2F4HjdWejxy3gedxu4rH%2FFfJBw5cjXQfEVnTfA0oSERWlyKX6fuSmeKOyYqcVR54ARtClk65qAN6YmEqxAOKQQv%2Ft16GrmYXybotF6cPdDvOMnJJdjzR4jBliDkqIvR8mG7SCvuXNaKylu9%2FEv73YJYeI3dYxRK7O%2BQFd3B%7Ctkp%3ABk9SR87xr8WJaA",
+        "shippingC": 790,
+        "landedC": 13289,
+        "url": "https://www.ebay.com/itm/188842066745?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M18QRF0QS3VN0QY9A0FZYPB0&hash=item2bf7dd4339:g:D1UAAeSw0KVqjmGW&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAcFq%2BrcfZNoAVbt30hKq4SaH4NBidUhIguhz4WRml69ePYca0TVy%2FwvnjrrkdSamAFuoQ3ObRTaeduFWmnAP7BrQlFum3OSWGKVk%2BGbyAvQSrY1njWYHuiiddPULPv%2BJFi%2FPJdE08rU1tKw5xmdzLDanXkCJIOFHgRLRseRMhbB47CP9o%2FSLGHAwOi%2BxcZbzzcHmADLa8EQYex8xzSezp2VS4RrilkPu7p48Lkp7yO2O363CIc7658PGZx%2BBmrxs5o497bCTt1fguexHDGqAUF%7Ctkp%3ABk9SR97w4ZeKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/D1UAAeSw0KVqjmGW/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787727945888,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
       {
         "itemId": "128039783709",
         "title": "1999 Pokemon Game #63 Squirtle Mint 1st Edition PSA 9 MintOpens in a new window or tab",
-        "priceC": 51500,
+        "priceC": 47500,
         "shippingC": 540,
-        "landedC": 52040,
-        "url": "https://www.ebay.com/itm/128039783709?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M165CZ57JY33D989W2N1FG80&hash=item1dcfc40d1d:g:uekAAeSw7RNqijGd&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCKQ%2FI5qPYS2NLOUB715rejb2fldMfy9XHjcVmMLvA56NrPudh66x2PfDp6VIwi62tcYLt2KmaIfGEt0ezrjgci%2BVc5A8H9eGNuJK%2BQD9XQgt38emKxUHXmoicUzbieSG2GwXizuoe7TnoeA%2FU6ypB5I%2F2UQTZRbQgsPjknzhVJGwBR1D6f6OcjeHOPRH7ZSRFYMiT1sIzzMmV8kWRpxkADzvCTLVHNL4qf4KnH6H8lruSuTy4Oa5vLdsu3krAtxW7dBkanK6uVuHZDU7bnF6yH%7Ctkp%3ABk9SR4jzs8WJaA",
+        "landedC": 48040,
+        "url": "https://www.ebay.com/itm/128039783709?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M18QRPKNK4Y6FJ2QZWG92C33&hash=item1dcfc40d1d:g:uekAAeSw7RNqijGd&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDeu3K47ten50%2BkCM%2FrlrbVnKGS24S3s0ls3NC3ab1WKrDTusm%2BRr4iDrt%2FkUiu8DQSiCKtRRPWCA4Sudy4t00uJIY4DMYDRENzT1rIj8hKGctiGTeoN%2Bya35h1LxGe0ZEM3ZM%2BFrvTLe7wTr1xeBUDh%2FwaVpuK%2BYy0OYKJFBhTtOj3nHph5kqqumwrm3CNwg9cPmeF5dCAkGQtCcKUo8Ztscf6EfgggprGXzCU6ioMlg3cAhfs%2FSwX18yrl%2BmSb0XVf4rJvKQuirLBatE7fZjRdnvsAZN6U9laBnk3PZeqYLxbJoRC3Akzqnxziv59Y4k%3D%7Ctkp%3ABk9SR8jq4peKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/uekAAeSw7RNqijGd/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787468745147,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
       {
         "itemId": "267766148325",
         "title": "PSA 10 GEM MINT Squirtle 63/102 Base Set 1st Edition Pokemon Card CS1-414Opens in a new window or tab",
-        "priceC": 53000,
+        "priceC": 56000,
         "shippingC": 1626,
-        "landedC": 54626,
-        "url": "https://www.ebay.com/itm/267766148325?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ58K8DB4X86KSCZ0HMA&hash=item3e581b2ce5:g:cmgAAeSw1PxqjJCs&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCqvqtqgUJei6ARtUz0DEoZTvw%2F8sHFGC0bv3nqwwDWS3x9eo17Hi4XKgniuStSFE3rguuiEwJA7jVUxxtYLxe%2F7Zur3dApECLp2koYc%2BrJZ8bguMeQVikGsb%2BI%2FT56KjLMXwfX1O4v2l6Ox3fU49FGJAUOxDiK9eAn0jMo%2BZFJ%2BjhztzjI8McCQU%2BHzDd0Cql8mQ85uSaGZB%2BlUoSSXL6uBLlO8tGrbYsnu92H%2Fv%2B3usUl2eCG8W1EmWv4e1u%2B%2FD%2BI1WHOcQbiY1%2BBdxzqEWpq%7Ctkp%3ABk9SR4rzs8WJaA",
+        "landedC": 57626,
+        "url": "https://www.ebay.com/itm/267766148325?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M18QRWQDGF1F9Y1BZK21BJTT&hash=item3e581b2ce5:g:cmgAAeSw1PxqjJCs&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA0W1p6fesJBRpY5TmQmObcaWeODr%2Ffrg8gF0Z6VdF4JJ5HtCW4e5hP8kaQwMECB%2FBlYpGIEJkgYH%2B9VotPthvS7Oxci4RX1qyL7qSD531R0Zuw3CQUqZhzgI78fMaRS0Xwu6BOLeAl5E5zBjboqHmFl9R95CqcFq0EcuHswtgxMMqAWpsXUfK8gWKFAB8j%2Bi0eqlpYjPokVXPkk3HLb22yCwvkDSTcvS5hE4aNqL0ZTUCkD%2F7N1kd9S6KWonggwBlJXLGnkZXUc39pmhDRvGpTj%2BWmBG3MuRUpcPjBVqEuf9QEJ6cUkATHf7RzJI3bqhY%3D%7Ctkp%3ABk9SR4TM45eKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/cmgAAeSw1PxqjJCs/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787900915280,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
       {
         "itemId": "178442822390",
@@ -177,14 +163,14 @@
         "priceC": 60000,
         "shippingC": 0,
         "landedC": 60000,
-        "url": "https://www.ebay.com/itm/178442822390?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ59D3VND4MEF1EB6GMH&hash=item298c0562f6:g:LegAAeSwvSNqjyjv&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCI628EW78yqoFh%2FdiCxffmWf4dh1Np4w0dJ2ftCBMS%2F2DcpQV9DUNlme%2F8qOVJ0mNCBTHLCosVszJ%2F27SD6fz4Lzla84KUqiQ0YgNu%2FqNT0XaMRndB%2BG9q6CjjYxghmI%2FOzuk6TX6%2BGS5xzXt0x11OpXnU75yTToKfjhjak%2FKHd337TsoomLrKY7C5mnA9Rhr0%2FyztpT9VLgYkaHw850Dv6uaKpg3s2eLPaWQ7Xacl1%2BTLI7olyJd2nJNcuLVuzc8G2VC02OxMizXBSiAYxtGs%7Ctkp%3ABk9SR4rzs8WJaA",
+        "url": "https://www.ebay.com/itm/178442822390?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M18QRWQDE00MNRFDH4KVREX9&hash=item298c0562f6:g:LegAAeSwvSNqjyjv&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA60Qm%2BKGs8DaF%2B5W5ZLl1x2eMur5fz29rmq6BdFRKxvYWpcNqjMFCSrYNWG50wv%2FcbV2LLdCWMCZwmmJOFb%2FBpZc8dy%2B%2FcjWsPnUjUxLWhmLEpPCCQNsvAYHypzBPGe8zX7dJON9PCG4NcjE3QWD4dTiOL1Xkb%2BAPdqxoVsdx8GAouiIRheEDi0%2BUflqntg0w%2BzqfQ7XD2Gf5ASfixMkT%2BzL8V2cWy2CYaZmTO%2FJ3vwDf9CpTMUqRM09ODT8knUHoF5%2FKvS0BzG3I3GgbF%2BcfvO1pxxKzPWJKeLRwI4q0CdoshWvy9fvQ%2FviNNau9Z%2BDc%3D%7Ctkp%3ABk9SR4TM45eKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/LegAAeSwvSNqjyjv/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787814333481,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
       {
         "itemId": "358693796759",
@@ -192,14 +178,14 @@
         "priceC": 59800,
         "shippingC": 597,
         "landedC": 60397,
-        "url": "https://www.ebay.com/itm/358693796759?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ59V08Q9P9262X9BBDS&hash=item5383d0fb97:g:Ad0AAeSwLodqM2V2&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCqGoxTF%2FBbQsxciJmSq8SjvAJnDp6UfuSwd5F%2Bt86297zo%2BwILLg8kWJ57TcERB44VfwRUUtw5%2FaJKh3KcSJgL8d7mgXvsY%2BCHl7Eq5lrp5YMNnkMHfHwfB7jrE5WCAKALsM2ZymuEZN1WGFyI6bqMDkJ5Ycnmcv1ecrKS7DbF222nJCskS9U7gKGyrTtZRX1gUHquHdpxuM0ZNIWlQPoGKD3p5Fin3nY5AZ59ZVPC%2FdGxZ8U3P7NhYSLCePtadYXquqtuhcBD0Fs2ukDrsmVoWn5d2zlUWr9tnVqhf3lAKexSYpGTiQFbTRIMxXViEgA%3D%7Ctkp%3ABk9SR4zzs8WJaA",
+        "url": "https://www.ebay.com/itm/358693796759?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M18QRWQD8FW8ZXHY4N1W2G3J&hash=item5383d0fb97:g:Ad0AAeSwLodqM2V2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDMkw82SmPSvN88JhUmXrWrNOroCdlfcsdFTtGr3qj9Sqm7G9qWVzRu1Mior8ENh8663DlPxeuGWhBZ9BNcYphF2bjh%2F9gCPVQHI6KLwSBq434fASsU2DyS3JMC69P1XPLyUmCFc7cKvfok7Xyk7v3vVA8i3nL1JyHQZKw8EKHqvv14S4%2F1%2Bi4w3lSvqZpvrWtENpHxGN1h20%2BCcBFP4vNPw%2F0xNZEdmCILo1xVuCEeT%2BXiziyNZ%2FcdER%2B3clo0j1yBRUfcmHJvk%2Bg2fXRdrVk%2B%7Ctkp%3ABk9SR4TM45eKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Ad0AAeSwLodqM2V2/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
       {
         "itemId": "407175338741",
@@ -207,14 +193,14 @@
         "priceC": 63000,
         "shippingC": 945,
         "landedC": 63945,
-        "url": "https://www.ebay.com/itm/407175338741?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ5ACWDXYM0E3ERPNH60&hash=item5ecd8a9af5:g:oxYAAeSwyIRqkPnq&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDUHxIyclxzis3Hl9U2iPHDDCksYRJjN3EHv9wQGozxdMTiQD%2BrcTv1df%2BGLPhWDHBPNhjF1pROdIVnwNflcw--Cpignia2brarmKgRGojTCr%2FN3nvwQ3NDlQ2ODcJxAhINE9RKliEVWmZpy%2By4vLdC%2BCZ27EBtARkWJKTl%2FZ8kgzxCi0a1PRZL0WoXNDLCRCStMDM6DYW%2FcefGkHH1X5HlQMdmMRFLlXrHHCRzeu1nu95cEheQfaBlU8ka%2FZF%2FzcIBs1KrL6FXHU4LvWMX2X2b%7Ctkp%3ABk9SR4zzs8WJaA",
+        "url": "https://www.ebay.com/itm/407175338741?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M18QRWQDBZDZKT38A7HA0A53&hash=item5ecd8a9af5:g:oxYAAeSwyIRqkPnq&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBz39dltXAqblmoyE03Eke04D0cB90TpbEDU0GQoFv0SrUOluFk6e30%2F7IKGNMz7gi3p3quw8O8mkY1X7urVF76BP8hTHj2N7F8Ccx1JYNkUGHgLTWleSyAbk6KFknFEqx3aQM%2B586Zji1ZjTfp8gTUTTWeCGD0TwJ5C0Oo0QaEwI4TTOBjrF%2Bu4rnwVtbslKzafv4DOxDL0gXLELLbklmjBGXmPrvPUhdKzEAy758rGDs4Z5Ww3%2BMllE7ojn%2FqHw0qbGkPYTCCByHaQsP21a8YZkgusKqTVYkkm3dRbAAiwjDgXmh%2B%2FJlXzKJrnZjPAYo%3D%7Ctkp%3ABk9SR4bM45eKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/oxYAAeSwyIRqkPnq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787900915280,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
       {
         "itemId": "298379835577",
@@ -222,29 +208,29 @@
         "priceC": 64999,
         "shippingC": 0,
         "landedC": 64999,
-        "url": "https://www.ebay.com/itm/298379835577?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ5A20B5C7P7KMN345GA&hash=item4578d2f8b9:g:r0sAAeSwzT9qH7JO&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDGZAxJiOZgSIq7HFYH6cMu95qW7NNuXf3Pvr7vqiRI1KT2JvJ2tvEwVDB8G1MiDUHsKqriGQpYkIFdo3muPAfwxhDXUua3UqY8F7PUmtNJBGLIZg3FC6ZGum7qRdQMMWsjKiMynyCMST8uImMPiUb9S0lDL8stVYNSDqiK05WbmMPG6BMkhKr9AU0vvszayQUiNEviOyytg37p2ni%2Flp2EhsSSyqUsSkDfijRx6TpPR9I0fF6l35voBS4bi1%2BE552Yn%2BSpa9Zih67lUUqAy7Dfgf8ZJmXOyHqCckxuHfwG5SA6AYKkStRT%2F0DTME15%2FsY%3D%7Ctkp%3ABk9SR47zs8WJaA",
+        "url": "https://www.ebay.com/itm/298379835577?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M18QRWQDTVJYS3P7WRBZP2X3&hash=item4578d2f8b9:g:r0sAAeSwzT9qH7JO&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBg%2BoxWRIQvcZE9NyvyDGTt6jrMXLlmBGQqoj0z27b4QRFAmzmXs9z0%2FCs6UpfWIL%2F5I0Ylm%2BuyNmM04NDAcXEjy1kPGGVuyVurvN8DoUIPoOwISMEoBORD%2B7r%2F7v2%2FzqH%2BsTv8GNDusr%2BDq0bW4fzLhoZNfViAp36%2BDoztX85qOP7gf9qWhreVn9%2BK7SQcDe7l6dzxZpT8TFIUQlUdKAe%2BV8nTMuA3FPkgzQYPjo2ArUVIeTJpj3%2FZYfn9NnIP1W1Ylki9C7MUHgpQQDNz8%2BIu%7Ctkp%3ABk9SR4bM45eKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/r0sAAeSwzT9qH7JO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094427972,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
       {
         "itemId": "127976415081",
         "title": "Squirtle 63/102 Base Set 1st Edition Shadowless 1999 Pokemon TCG - PSA 9 MINTOpens in a new window or tab",
         "priceC": 66000,
-        "shippingC": 548,
-        "landedC": 66548,
-        "url": "https://www.ebay.com/itm/127976415081?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ5BVWF76ZEHGEDVFPVK&hash=item1dcbfd1f69:g:rGwAAeSwVDJqV7H1&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBTLkIUxJldjsgmjfk63hDRzc05EZx%2Fdpr4V61KXNrdd0TeHM1QPG0YHJiE6233n%2FH3p%2FcpCJp9lpyPtUYAg2zRZB7nfQ3a3kVwmwsC8g7JFtZ6oIn5weSbix86ixzwWqO6J1MAr8702j8XGgYzDp9zkkQ1jpItaboRicqyVsQxbKtj5oUQFiN%2FGgPe6PSFMU8Ac39CwblxLrD18zzHN%2BVVprOFlc%2Fb%2BT3elv%2Frie24Fv6aiRTrtndS1zHH4pAXzskfeKwLqOQg--A6jSGtYEM%2F%7Ctkp%3ABk9SR47zs8WJaA",
+        "shippingC": 572,
+        "landedC": 66572,
+        "url": "https://www.ebay.com/itm/127976415081?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M18QRWQEXV3MQG5ZD9ZFZ1H1&hash=item1dcbfd1f69:g:rGwAAeSwVDJqV7H1&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBAR4MYrBJKzYxZHM7gE0pI6QNep%2FIfIYbDWPI3osBOfh75rV7QSLf345dcnSI7sY3mdh%2Bv681HFKXWx1p60HZ%2BlF8ddzDdAc0Qz5qKGVZHBVLfytgQgRxnsZbbtBqQKvDsa2KS6XyhwWRBwo9W3iSulfUJYBHaytn%2Bs725LGAgLEPrYUMKpDFtAbETMugAT55hOxhTLcD5odo6soGAy8vVp8g7L44FK70kvrGhYjMH2DHM7eRWNiogB4UZqaCCz48blbDZHLco8%2F23P5c9tf0Foi7NJIHrSDlsM2exq%2BBn9LyheFpo3Gxc4AxatGYEqf8%3D%7Ctkp%3ABk9SR4bM45eKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/rGwAAeSwVDJqV7H1/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
       {
         "itemId": "298308679283",
@@ -252,14 +238,14 @@
         "priceC": 67500,
         "shippingC": 830,
         "landedC": 68330,
-        "url": "https://www.ebay.com/itm/298308679283?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ5BM538TYYZ5QVV1ER2&hash=item4574953673:g:nkwAAeSwtz5qAgBQ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBUSP%2FV5Qqb3pDKoImbvLgXN83UGweYNX2x4zXL3QkJhusQ6gTIxcJyumfIgvryHd6Eryu9ww%2B81%2BH%2FU%2BKOcSFBy5INoI5X3Oi3q4DE%2FJkcj6ubaoRnDEnShbcy6aDccI5IkvRQk98xNnHRisquLGQ140MfgJ8%2BonFDKBynU8uoW4iz0mIltoteyUJtiNVmqt60meOYoGbmbA0vqa36VjbvUy3Iv6gwaHEPc4LFayYsTiLVTyI8IZA70QvkqhKm6Kcull1nKgHgJSSKVINZIVcej1r5wkmy4GSf1WqDfvsxCJY%2B5NsR1%2FYk5d8FRG%2F5J1E%3D%7Ctkp%3ABk9SR47zs8WJaA",
+        "url": "https://www.ebay.com/itm/298308679283?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M18QRWQEKRNK7F7DSFJPQ4G4&hash=item4574953673:g:nkwAAeSwtz5qAgBQ&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBUSP%2FV5Qqb3pDKoImbvLgXN83UGweYNX2x4zXL3QkJhusQ6gTIxcJyumfIgvryHd6Eryu9ww%2B81%2BH%2FU%2BKOcSFBy5INoI5X3Oi3q4DE%2FJkcj6ubaoRnDEnShbcy6aDccI5QvUsKcyCt2g8BndjPyP%2B9q%2FvNF4%2FaHbGhEMYN3o5n05Ep%2BTcPf9Uu1FAsUReu6xHTZtg5uMkYWmTLu7Bptr3DbHj1K2BtykiVxFFN2OH0ZXaHxXj8wauhQUAqIny7nhjkI%2BAbkg9545FOm2s2ILCbqpheaUS7JEBEMJGEIy7PAgizGv1IgDieDV3qLUmzyHk%3D%7Ctkp%3ABk9SR4bM45eKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/nkwAAeSwtz5qAgBQ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
       {
         "itemId": "227301165759",
@@ -267,14 +253,14 @@
         "priceC": 69900,
         "shippingC": 0,
         "landedC": 69900,
-        "url": "https://www.ebay.com/itm/227301165759?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ5B6K1RGXPY82NBYNPF&hash=item34ec348abf:g:oCkAAeSwC1Zp3vOH&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAAm8W%2FMVFQTwRW4N2DLjVRKcq3JUvEsi3CAVelENK%2FLB4Kd0a3%2FmM5X2sn4BnoufPgBfiOoy1n1TGHmUHL64V5Wm%2Fsx9Lh1myPOTfqP5TJLR7sY0QRHOKYPL9QqkK75oNAWZ0YNb8oVCa40Xag6GveJzK0K8Utp7%2F47Mp2N6GlZYn6f6iBhuVBeQtNwcvaArzkjqJ5g0OB31nTdA4hB4QgPgdFln1Ar3adZl50QO%2FRhQtP9pHk0JhXz48GqxjAD%2FHbJPCdmyghRQ3oX12%2Bqq5luxx9rX9yDPbxf9GouE8GxBditIV3cojllx9%2FpF8M2sQ%3D%7Ctkp%3ABk9SR47zs8WJaA",
+        "url": "https://www.ebay.com/itm/227301165759?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M18QRWQE7ES6SP7G3K5A9G43&hash=item34ec348abf:g:oCkAAeSwC1Zp3vOH&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAAm8W%2FMVFQTwRW4N2DLjVRKcq3JUvEsi3CAVelENK%2FLB4Kd0a3%2FmM5X2sn4BnoufPgBfiOoy1n1TGHmUHL64V5Wm%2Fsx9Lh1myPOTfqP5TJLR7sY0QRHOKYPL9QqkK75oM%2FPU%2FdaffNXjva4pcVYa31zxwiS2oBbnm%2Bj83zQwiBa%2B7NshqS8l1Z0Sk1jKP7SH4sJ9rgS2c2tSe5aRnlQMgM9Sfr254sEkjXjkC4A8MgVS0kyakDkmdEZQUp86I4NxTUh2j8T3MVM8IrrH4sHyJQh33YNyhdpJNQrjJr0cfYZgUJ95vTbH6vS%2FGHCaeZDRo%3D%7Ctkp%3ABk9SR4jM45eKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/oCkAAeSwC1Zp3vOH/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
       {
         "itemId": "358897754458",
@@ -282,14 +268,14 @@
         "priceC": 74999,
         "shippingC": 0,
         "landedC": 74999,
-        "url": "https://www.ebay.com/itm/358897754458?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M165CZ5C2T8QYD2YZ5PZMK0K&hash=item538ff9215a:g:GCoAAeSwd3dqdjRo&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBuAWl1ERdHM5MyREd31qyxHpdhmInMl6KhuH5IzU5LKbDkUN5V6RUyS%2BVlXaD8f2%2FV40dz5kE837E4W%2BA4F%2BxMZYVppdKzBWqawiPdND0AbLwzJWXe9efYcpRTxoiaoP9ps2eCS%2B0dZ8TQhDsg5mFuoUj75Bj0ftNY%2BlvA4H3tb2e1pEGNht7HHcVtNN%2B%2B2H9B67dGipq5qPNzxIqSpigZ91L%2BFb3roKh9ifdClFvOGkk9f%2BB1sq6ZtgKxoXqxEnnC550%2F0g7mQvaSeaNAt6QnqC1u3OSk39Gqg5333ryi5XDoJIal%2F0ApP4semQcRM78%3D%7Ctkp%3ABk9SR47zs8WJaA",
+        "url": "https://www.ebay.com/itm/358897754458?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M18QRWQE6W5NYDCJ1EW3F037&hash=item538ff9215a:g:GCoAAeSwd3dqdjRo&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBuAWl1ERdHM5MyREd31qyxHpdhmInMl6KhuH5IzU5LKbDkUN5V6RUyS%2BVlXaD8f2%2FV40dz5kE837E4W%2BA4F%2BxMZYVppdKzBWqawiPdND0AbLwzJWXe9efYcpRTxoiaoP%2B0DAKJ6X0c0hzxbzHs7hBfKzFnNnMg7qzWinMV%2BXyEPbsTv5QMv%2FVPIx%2FcXqAW6ClQNSxUS28qZ3L1SNsA74vic7%2F3geigAMofKY8AdvFawWC9POEh2mavX5Lc388CK4RCmBMGxKdFUmELkMqFkA%2Fqf5dEdGhUqt%2BO1%2BUbhrvuCcELURl40L2HJoTqBauPuqI%3D%7Ctkp%3ABk9SR4jM45eKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GCoAAeSwd3dqdjRo/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
       {
         "itemId": "327000739901",
@@ -297,14 +283,14 @@
         "priceC": 75000,
         "shippingC": 0,
         "landedC": 75000,
-        "url": "https://www.ebay.com/itm/327000739901?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ5C1PYJGTPRFZ2ZZX7Q&hash=item4c22c3503d:g:SKgAAeSwtMZpj8Yd&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBh59Kd0DwWy1aT6KMZ8ctDBWBS3qhk%2F81wGG--sIsmjbNwbWVceI11JmV3WhT%2BybP9Wojk9UhJA%2Ft5lqFW8njnnn5cwpK9Vfr4IBqItxIplgPNJ9a3GAw29Dx9A4toKk9EkZCyUWPjx6l8QH6tHkOrOWK5XQPTLEEKi7%2ByIQwNb7fcWOWoM%2Fa0sqciv2o4rj122fZDbf6mqJB3Vzaa%2B8UZJTwleqZtCLaLKWwDqv0GQXXBuJw1s2yLQk22l9soqV2SirpEJa%2BsuJF7h6gRIeB2FGl83hXju8VaoORY6CcuysK9lf3K4ODkoSEEz7%2FBdCs%3D%7Ctkp%3ABk9SR5Dzs8WJaA",
+        "url": "https://www.ebay.com/itm/327000739901?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M18QRWQE4EBQA66XNVK2HPN9&hash=item4c22c3503d:g:SKgAAeSwtMZpj8Yd&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBh59Kd0DwWy1aT6KMZ8ctDBWBS3qhk%2F81wGG--sIsmjbNwbWVceI11JmV3WhT%2BybP9Wojk9UhJA%2Ft5lqFW8njnnn5cwpK9Vfr4IBqItxIplgPNJ9a3GAw29Dx9A4toKk8lDDK88Rdi2j4S0vtBiIb8Bv3AjQgFow%2FX45KO1PcvEiPFxH1qoDPbefiABaKcc5%2F0nULO1gM3XFE8uGoTf1NaaGuZSroDJqJHM4F91OhZoSa0PP9RQo7Y0HnfMI9VFHdd2dqeX2Mk3gcFGI%2FXbtZZFaXrz1Df2fuexUywkAQCJYh4wbvPUb3AmtYXF86qYj4%3D%7Ctkp%3ABk9SR4jM45eKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/SKgAAeSwtMZpj8Yd/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094427972,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
       {
         "itemId": "303821753500",
@@ -312,14 +298,14 @@
         "priceC": 149999,
         "shippingC": 0,
         "landedC": 149999,
-        "url": "https://www.ebay.com/itm/303821753500?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M165CZ5J7Y4J2VW1FM5R94SQ&hash=item46bd300c9c:g:SO4AAOSw-JRf4q6y&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xClO8oCjiiZc8rrjyNycJhgKmLGFvzvipe0Ewhx36w8NNV8dRtb6bxoBdri8zjLW2MxWmvgsG0kCd4KHf4AG7r2NYNHPExmcZgeydi75zAcZBbsL4ch7xscHKiAFrH4sIXRl31TSwfCFJfr52syArqJ8bctlR3q2r92%2BKVj7Rd78aiOExBcNon2gsSdJ2irunq2Na6RuXjUXcBpzlFDejrfdi9SwnwoMc7J8GnpNL8%2FXZTYiORKEG4MCyAplE4cGIDDQlfQeioRmJR6rUSGOC3ZVV0KZOxpNOaCf%2B8EJUDbIcDGiCO%2BPM81Q2W16oQxEOM%3D%7Ctkp%3ABk9SR5bzs8WJaA",
+        "url": "https://www.ebay.com/itm/303821753500?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M18QRWQGHDWTMFD2CS22KMHR&hash=item46bd300c9c:g:SO4AAOSw-JRf4q6y&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBdnFUb5EponDkqy%2FfaKU5ASsQ4%2B5Ezzv%2F7fnfOGJjsObfNaxeEIFlKn4y7Am%2BXI4FapZqx9f0gpNO1PBXvhuofRgV2tG7CVXCnUT6qRz831P1JGIYrtvMNG3Et4wbTylrp9kgGv9LT%2BXC61rbluH5aJ0yXQY7IT%2FOMj6qyAUP2IjOJbIEfPaBH9Czr0qZmrWmQAs8COypMZOd%2B2vsYZaNpZ4TsF9mrWVyJusLp2%2BfFk9ntkP27dVAhqW%2F2ONqkE5Ux4xSCJP%2Fhmc34kj6EHYAt%7Ctkp%3ABk9SR4zM45eKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/SO4AAOSw-JRf4q6y/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       },
       {
         "itemId": "373622811879",
@@ -327,104 +313,14 @@
         "priceC": 150000,
         "shippingC": 0,
         "landedC": 150000,
-        "url": "https://www.ebay.com/itm/373622811879?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ5JPYB2X8HJAS0C8PJE&hash=item56fda7ace7:g:zrMAAOSwH3lg0Otq&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDvtjgqCj7gRlJ8rJk8NIsMn4ZwQAiglq00A3sByUpWQZHambm8xHc4bLfLFx7hvPIW4eVzM2GBnNU4QTA%2BhJmJgnHs%2FARr7u6oinmzwCr0v%2FYleORby2IPG08SIXvpXS54T10LT2c0lI2WJUXJfutXJSDMSg0%2BCF75h7TvG%2FQ9IzYmQ2Jw%2FJiVjsvOazOaKhOoLTuW4SQNSW8%2BwpOkXOcuCMO3s756mH3%2FsvzIHn7qObVFslVpHsXEjhABXwTrfth%2FNCICiEkUC0T8ZNAVU51r%7Ctkp%3ABk9SR5bzs8WJaA",
+        "url": "https://www.ebay.com/itm/373622811879?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M18QRWQGNJ122DRYTPEXQV0X&hash=item56fda7ace7:g:zrMAAOSwH3lg0Otq&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAl13nbCjReek81y6OTVoEdtBSedG%2FJcSJ4qUCg9banUoTSHKs3OtajfgYfY388DYonLsKsqLPZenktoTGiDRZdfcbn5vhNnSyuL5wfeF8tJpPDqSianmKH3tDVw3ku6rlx769LwLOQ%2B5W2CH1ZjCU85K4z2zmRc06ylRposEuiOLQlad44tBo5fqfU4sNiAdK6WOdtSlay0F%2Bh22l%2F0O3naVFeyKEgQ9xbxejnBMYXXvfnWKZxldbBcG9NOurIMmQVn%2BGJaOpdyy%2FVkF1ZD1w%2FeGvij97Vs%2BWdovVlThKSs%2F0yMQakNGaM1%2BqE7MxWBmM%3D%7Ctkp%3ABk9SR4zM45eKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/zrMAAOSwH3lg0Otq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1787987445774
-      },
-      {
-        "itemId": "227481463449",
-        "title": "1999 Pokemon Squirtle 63 Base Set 1st Edition PSA 10 WOTC 🔥Thick Stamp🔥Opens in a new window or tab",
-        "priceC": 350000,
-        "shippingC": 999,
-        "landedC": 350999,
-        "url": "https://www.ebay.com/itm/227481463449?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ5NNNMRKQG0CWRX47RB&hash=item34f6f3aa99:g:9MkAAeSwZERqhKxX&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDAR5mHHBeLGbaC84xnuNGJTPEBlWAHZhJhKCJC1TenK%2BbhZ2dHhMQ5gP1BPe6Mrbc1Z1d97q3Zd2Jd27aBmd76rc8ktFf0%2BFGYyA0LKhyKlU0hIkkff1H5o5M8%2BAm6L5ZgDGCdgz14hJBpuf4vqNTBoh%2FqURkhjEoNezcBT4%2BMw4dR3XsEZZAFt6KsyEjbOkyAm7j4fReexg7WoXSOuoUG%2F36BzjrBJlvUzR%2BtfScy25qLi0C6M4BwpH34T1YvfyrMgrPMzbRWN9u4C4y3aOXM%7Ctkp%3ABk9SR5jzs8WJaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/9MkAAeSwZERqhKxX/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787295958915,
-        "lastSeen": 1787987445774
-      },
-      {
-        "itemId": "188564490900",
-        "title": "1999 POKEMON BASE SET 1ST EDITION #63 SQUIRTLE PSA 10 GEM MINTOpens in a new window or tab",
-        "priceC": 358800,
-        "shippingC": 1141,
-        "landedC": 359941,
-        "url": "https://www.ebay.com/itm/188564490900?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M165CZ5PZNQQJJMZQX70YKD9&hash=item2be751ca94:g:Zv8AAeSwMPVqOb-j&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBtWHS%2B58QyfJqkl7A%2BeUt%2F3jaUQyMKGmaaav4CzA03Mwwp8V8A%2FVvoKJlfY7Az0MTGkfITNVd4fT%2F4C7E0frkVixOv6z9Ra9BUato0d6QNEvyhxDjCQU9f4%2F7AnArr489uffD6L6CD8wEdueUlLucoGDW9WfYkljPjf%2FU3xlaX5xYokH7jvapXWAwqSlFSCDg3KuTZ%2BEWpzCGwD4xBdKMn6q9jKloSKGodKsxjmFA8O%2ByJXrbJF7scfQkQOzDKVjFNF2%2F8FfGvyQftYt9%2Fsx2o%7Ctkp%3ABk9SR5jzs8WJaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/Zv8AAeSwMPVqOb-j/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787295958915,
-        "lastSeen": 1787987445774
-      },
-      {
-        "itemId": "158003423510",
-        "title": "1999 POKEMON BASE SET 1ST EDITION #63 SQUIRTLE PSA 10 GEM MINTOpens in a new window or tab",
-        "priceC": 360000,
-        "shippingC": 1000,
-        "landedC": 361000,
-        "url": "https://www.ebay.com/itm/158003423510?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&itmmeta=01M165CZ5PJ3Z9MY10323VX1WK&hash=item24c9bce916:g:3VAAAeSwI5lqMLea&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAgzayyxH7SXXe5Hhm6FS5rWnnJFaZWraxMgDE8kUr6NsQt0FPWDDxr7NvBTcOyRrON0ZxxoDPr4VuVj3HQlV%2Fudugux1mRqa%2B1GaZZkga2d2EaJN%2FmlcIh%2FU9BVssYU2ALKQ2mIEzA3qEy1juXEMiixCtZITqQS2mK4Txs8pN1JPnbEi1Zt3WKdDFTNVn7s28Iw2kg%2FFBwJZvqNNh2zPtfFpv7uQFgRFDRv%2BT%2F6I2QaWKUx4MiBPh3t3l69vpxBGEpzV9emZOY2HIOgobHZR%2Fre88e7i4yDfE1Jq27KXvU5CltFbG3vjnBe8jkk4JDH7Y%3D%7Ctkp%3ABk9SR5rzs8WJaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/3VAAAeSwI5lqMLea/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787382384815,
-        "lastSeen": 1787987445774
-      },
-      {
-        "itemId": "407122797575",
-        "title": "1999 Pokemon - #63 Squirtle 1st Edition - PSA 10Opens in a new window or tab",
-        "priceC": 390000,
-        "shippingC": 0,
-        "landedC": 390000,
-        "url": "https://www.ebay.com/itm/407122797575?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=9073824153&itmmeta=01M165CZ5P5J5G3YAEGJWYB091&hash=item5eca68e407:g:S-oAAeSwX8RqCSnP&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAnRq7z5sqG7nmZT8MBOm%2FKuC%2F3PsHqgmXar46q9krMqVXKF2JIqZMgPCDQlTKcHgzwXizFBiSCqSqAuT%2Bk3fKmnI0MasuTv4CHqOYh%2F8xiwNghVV7%2BKWYxeYz6S6Q57fXfDn01CciekjJtJiK1ho6PHGUmzRu5xf%2B3hcMUaaKQqonj4S3DzZsmhjXuzJKtiBDY4Dy%2BKBCM2TczUbmXX5K2h0OMtGwIbkhoV8P6BHBN0MMx4g9AUrFBhDevFOgecKd1rVKZHf9h%2BPCEVkmh1Mua%7Ctkp%3ABk9SR5rzs8WJaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/S-oAAeSwX8RqCSnP/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787295958915,
-        "lastSeen": 1787987445774
-      },
-      {
-        "itemId": "278153980677",
-        "title": "1999 Pokemon Squirtle 63/102 Base Set 1st Edition PSA 10 Gem Mint WOTCOpens in a new window or tab",
-        "priceC": 395000,
-        "shippingC": 1165,
-        "landedC": 396165,
-        "url": "https://www.ebay.com/itm/278153980677?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ5P0P01YPK9GFW3BCGA&hash=item40c344eb05:g:y98AAeSwKjRqSVsH&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCJGXhqyPC9gfVDWVjUmCx5f7v%2BMpg6GncUvNsxEojpSHjK7rfxHxVBVQ%2FdlJBU%2BSmLz3AMr%2B%2BsY74OtHkskoqHTrtsahjBz7eq81NgL9TdU2rb7I1cZ8FK%2FmbjK%2FEMFYHLn2Wbnbz4PiOnbFYIKKQ6a2SCYrRxNnsSyDZvHD7nHA1vKF7iQFzcjV%2Ffov0k2kGtQMUuK%2BYd4X26yETW52eValBQ%2FXQ2TtA2s%2F7bnD0mgEhdAX707SGwpHyajsGCKaS3S9xwjcoU6xA%2BjTakM2BY%7Ctkp%3ABk9SR5rzs8WJaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/y98AAeSwKjRqSVsH/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787295958915,
-        "lastSeen": 1787987445774
-      },
-      {
-        "itemId": "157801164792",
-        "title": "1st Edition PSA 10 Shadowless Squirtle Base Set 63/102 1999 Pokémon Gem MintOpens in a new window or tab",
-        "priceC": 464400,
-        "shippingC": 0,
-        "landedC": 464400,
-        "url": "https://www.ebay.com/itm/157801164792?_skw=%28squirtle%29+%2863%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=13043374532&itmmeta=01M165CZ5QA4V7647NR1R0Y6V0&hash=item24bdaeaff8:g:5NEAAeSwQKxpzGEt&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xApmbBhiozvYZZR4BXrMH4k98dYoUZIEvyezNTnbfdKE2NLKI8DRZiQLZdaE7KZBiYn9uUSZROwOPAg8PuXYYQi0mRNM2Nyz5ie8xzU1UWn8oUHnNl%2BFMibHdvc%2Ff6VLMAJfb3lPFFCbN4deC%2FFn999skngdInnH3X2n2qO3l5r8b7OlNNV4zGrUaZrq%2FZ7cs69LSPAIqMGlGzdkxS5aw3AubuWV81xG7MdyFq73wsQXCsvxztV52OS11XEfPC%2BfPwMBfKcLibfvb4U%2BPq7%2FHBzyOfTsevQ8ENDPvQIZqjNX%2FH3oHVVTUC%2B2c%2Fpo23EGD8%3D%7Ctkp%3ABk9SR5rzs8WJaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/5NEAAeSwQKxpzGEt/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787295958915,
-        "lastSeen": 1787987445774
+        "lastSeen": 1788073863031
       }
     ],
     "marketHistory": {
@@ -2029,7 +1925,7 @@
       ],
       "englishSaleCount": 315,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787986881901
+      "lastCapturedAt": 1788073282865
     }
   }
 }

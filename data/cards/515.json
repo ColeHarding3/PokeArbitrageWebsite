@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260829T093902881Z-2c77376cd2",
-  "generatedAt": 1787996342881,
+  "snapshotId": "20260830T102123506Z-b907ba6b0e",
+  "generatedAt": 1788085283506,
   "data": {
     "deal": {
       "variantId": 515,
@@ -36,26 +36,40 @@
         "itemId": "366561375687",
         "title": "Pokémon TCG 1999 Gengar Fossil 5/62 Holo Rare Unlimited CGC 9.5 GradedOpens in a new window or tab",
         "priceC": 60000,
-        "shippingC": 769,
-        "landedC": 60769,
-        "url": "https://www.ebay.com/itm/366561375687?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=16043369905&itmmeta=01M13KWMSMKFYEWYK2C9C3N988&hash=item5558c2b5c7:g:bD4AAeSwms5qYnq8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCWQA4%2BszmtABf5M2cnPPu052LUaTy60sPj5zAhyYiFPP69fp4FOXh3cIKXxy21UiWKTeksENC%2B8v9SFyefsR8HYTS0NWFiZrWpY83sJXvTPgePzDPUXM4rw1I7LVWvyv%2Bft8A9Juri6C9iuvUUREl%2FBspZFRtwMzKWIzaP4sfJLIbvpi60sY2qITMpifd6AizMQ037J5MuuC5tNPRwJmiXWOi%2FsdJEUptG8c0oLUg9gsYznztJASyvJ%2BnrPuqImZ9JZre%2FzUkaLx%2BediDynBfa%7Ctkp%3ABk9SR6zN8vOIaA",
+        "shippingC": 540,
+        "landedC": 60540,
+        "url": "https://www.ebay.com/itm/366561375687?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=16043369905&itmmeta=01M18RXM8GZGXK64BHFDBPQJNQ&hash=item5558c2b5c7:g:bD4AAeSwms5qYnq8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCWQA4%2BszmtABf5M2cnPPu052LUaTy60sPj5zAhyYiFPBwQ%2FsGq%2F7cdXDj4ItbnLei%2FkD2e69QoKJKH2eMQ5pRuqE14rsNpERlcNQ8QSrQsn3YJxq2Uxm%2B0AbhQ23PfKk4yA3ji%2BLsZzVmgffNWYTJtLcU6HtcFBBdKb25QW9732EWA%2FGcXvaB2VDvmcyWrw4TWGoF8LrYtFhi7%2FaaO%2Bf4VjBEFvbf0%2F79xUK7lvq%2BZqS4LwBGonmiEmL%2FGDf8xl1fZ0lcUBuv1FnA%2FkMTRwN9r%7Ctkp%3ABk9SR9LE9piKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/bD4AAeSwms5qYnq8/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094434764,
-        "lastSeen": 1787901772844
+        "lastSeen": 1788074912493
       },
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "366366067536",
+        "title": "Pokemon Gengar EX Legend Maker Holo Rare #5 PSA 9 MintOpens in a new window or tab",
+        "priceC": 95000,
+        "shippingC": 0,
+        "landedC": 95000,
+        "url": "https://www.ebay.com/itm/366366067536?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=17043372098&itmmeta=01M18RXM8M77Q1XFVHVW477F1Z&hash=item554d1e8b50:g:faEAAeSwETJp6tll&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBp%2FC81%2F58NyPjiWCF3aL3GcxpHDekY6VRpNZJUlDboFbg%2FXJbRF3v0HbBNer7iCNwBQh0pkUm5lK%2FJjI9tdftXnubB3v5d2lREp7b0eSJLZ9RB6iRYVZNN97Dfu2FeOtbr3PspVzlZzzhWTbR3%2Bts5UDBJ2YyqEU5Jt6HfcWLT8XoGjzPtOTMOSNZOP6sg2twO9DukDh7m71tSbkFsgn%2FZqmiI3XLOU26NfrgoeQWK2aZz0rMdpUfxKsrK6U6Plft3K20TIQY%2Fuu3cpfBjfotd%7Ctkp%3ABk9SR9jE9piKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/faEAAeSwETJp6tll/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787040561909,
+        "lastSeen": 1788074912493
+      },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -66,11 +80,11 @@
           "declaredValueCapC": 500000,
           "turnaroundBizDays": 15
         },
-        "cgc10CostC": 60769,
+        "cgc10CostC": 60540,
         "submissionFeeC": 34900,
-        "totalCostC": 95669,
+        "totalCostC": 95440,
         "psa10ValueC": 439872,
-        "ratio": 4.597853014037985
+        "ratio": 4.608885163453478
       },
       "withoutLegacyCgc95": {
         "bestCgc10": null,
@@ -80,7 +94,7 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787094434764,
-      "updatedAt": 1787901772844
+      "updatedAt": 1788074912493
     },
     "prices": {
       "variantId": 515,
@@ -99,34 +113,49 @@
     },
     "listings": [
       {
-        "itemId": "278317134117",
-        "title": "GENGAR 1999 POKEMON FOSSIL 5/62 RARE HOLO PSA 9 Q5677Opens in a new window or tab",
-        "priceC": 100,
-        "shippingC": 600,
-        "landedC": 700,
-        "url": "https://www.ebay.com/itm/278317134117?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=16043369905&itmmeta=01M13KVPX8ZT2VP3HT6V42MC7H&hash=item40ccfe7125:g:6xMAAeSwEphqkFmM&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB63zq%2F1nqrOyDeD0AY9qimz82GRDqSKqP3nCqauLukXFz7F2ZxUoLllU2u6gXsyCX6DTFef6qNgs8pIMeJWwS7Fi6UhQhermzKBcgfgzuDOWdYHFEC6f1VyKrPI6y48S2uqwQNUJcJVxomr5JM5kBD1vRbrFgE%2FN91iFXgklcegECfunZXDOXsceqWEWayaf3Bk1xupYEnRv1Gcmi7aF9C%2F6ydXJH9aqmBuqTm1CZtaITiGNmFznd4g%2Fgv7%2FkyaLwejLY3xGAZpS9df4XwDo1DK75%2BG9ziawdzbWcNHeWpm%2B0NccaZ43l9T0Wu2nh5J9A%3D%7Ctkp%3ABk9SR_bu7vOIaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/6xMAAeSwEphqkFmM/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787901772844,
-        "lastSeen": 1787901772844
-      },
-      {
         "itemId": "366561375687",
         "title": "Pokémon TCG 1999 Gengar Fossil 5/62 Holo Rare Unlimited CGC 9.5 GradedOpens in a new window or tab",
         "priceC": 60000,
-        "shippingC": 769,
-        "landedC": 60769,
-        "url": "https://www.ebay.com/itm/366561375687?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=16043369905&itmmeta=01M13KWMSMKFYEWYK2C9C3N988&hash=item5558c2b5c7:g:bD4AAeSwms5qYnq8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCWQA4%2BszmtABf5M2cnPPu052LUaTy60sPj5zAhyYiFPP69fp4FOXh3cIKXxy21UiWKTeksENC%2B8v9SFyefsR8HYTS0NWFiZrWpY83sJXvTPgePzDPUXM4rw1I7LVWvyv%2Bft8A9Juri6C9iuvUUREl%2FBspZFRtwMzKWIzaP4sfJLIbvpi60sY2qITMpifd6AizMQ037J5MuuC5tNPRwJmiXWOi%2FsdJEUptG8c0oLUg9gsYznztJASyvJ%2BnrPuqImZ9JZre%2FzUkaLx%2BediDynBfa%7Ctkp%3ABk9SR6zN8vOIaA",
+        "shippingC": 540,
+        "landedC": 60540,
+        "url": "https://www.ebay.com/itm/366561375687?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=16043369905&itmmeta=01M18RXM8GZGXK64BHFDBPQJNQ&hash=item5558c2b5c7:g:bD4AAeSwms5qYnq8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCWQA4%2BszmtABf5M2cnPPu052LUaTy60sPj5zAhyYiFPBwQ%2FsGq%2F7cdXDj4ItbnLei%2FkD2e69QoKJKH2eMQ5pRuqE14rsNpERlcNQ8QSrQsn3YJxq2Uxm%2B0AbhQ23PfKk4yA3ji%2BLsZzVmgffNWYTJtLcU6HtcFBBdKb25QW9732EWA%2FGcXvaB2VDvmcyWrw4TWGoF8LrYtFhi7%2FaaO%2Bf4VjBEFvbf0%2F79xUK7lvq%2BZqS4LwBGonmiEmL%2FGDf8xl1fZ0lcUBuv1FnA%2FkMTRwN9r%7Ctkp%3ABk9SR9LE9piKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/bD4AAeSwms5qYnq8/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094434764,
-        "lastSeen": 1787901772844
+        "lastSeen": 1788074912493
+      },
+      {
+        "itemId": "800568052605",
+        "title": "2006 POKEMON EX GENGAR-REV.FOIL LEGEND MAKER #5 PSA 9Opens in a new window or tab",
+        "priceC": 80700,
+        "shippingC": 795,
+        "landedC": 81495,
+        "url": "https://www.ebay.com/itm/800568052605?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=11043365288&itmmeta=01M18RXM8J278E31020N9XWSD9&hash=itemba65930b7d:g:vVAAAeSwZsBqjeAI&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCDBOFLD%2B1q6aEBTxGyedgy%2FOe20bRUXoHOnEE6ePQj%2FVjPwCK4s8w7Uh9dyY6U%2BFjILwlU3tfaLtfNpLK2IVd7qLpLd0y4pgYZfTOD0LDuzTnF3zm5e7zCWiwsxQijjWtUcYT%2FTVFNbWy5MUgz02TN6t8Z73JFmsnCsTGFm9W8QsJydTb7N9qyHC54OMXnYXZzJH2eJ4fa%2BhM6qAXl%2FGTjLRTHNxlmOcKGW4%2BOR4L8ud4afAGmNlm3dyiiPTsdUkXpJkseML8VlsHKNT9VjxFh%7Ctkp%3ABk9SR9bE9piKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/vVAAAeSwZsBqjeAI/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787814891499,
+        "lastSeen": 1788074912493
+      },
+      {
+        "itemId": "366366067536",
+        "title": "Pokemon Gengar EX Legend Maker Holo Rare #5 PSA 9 MintOpens in a new window or tab",
+        "priceC": 95000,
+        "shippingC": 0,
+        "landedC": 95000,
+        "url": "https://www.ebay.com/itm/366366067536?_skw=%28gengar%29+%285%2Cfossil%29+%28CGC%2CPSA%29&epid=17043372098&itmmeta=01M18RXM8M77Q1XFVHVW477F1Z&hash=item554d1e8b50:g:faEAAeSwETJp6tll&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBp%2FC81%2F58NyPjiWCF3aL3GcxpHDekY6VRpNZJUlDboFbg%2FXJbRF3v0HbBNer7iCNwBQh0pkUm5lK%2FJjI9tdftXnubB3v5d2lREp7b0eSJLZ9RB6iRYVZNN97Dfu2FeOtbr3PspVzlZzzhWTbR3%2Bts5UDBJ2YyqEU5Jt6HfcWLT8XoGjzPtOTMOSNZOP6sg2twO9DukDh7m71tSbkFsgn%2FZqmiI3XLOU26NfrgoeQWK2aZz0rMdpUfxKsrK6U6Plft3K20TIQY%2Fuu3cpfBjfotd%7Ctkp%3ABk9SR9jE9piKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/faEAAeSwETJp6tll/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787040561909,
+        "lastSeen": 1788074912493
       }
     ],
     "marketHistory": {

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260829T093902881Z-2c77376cd2",
-  "generatedAt": 1787996342881,
+  "snapshotId": "20260830T102123506Z-b907ba6b0e",
+  "generatedAt": 1788085283506,
   "data": {
     "deal": {
       "variantId": 4464,
@@ -37,7 +37,7 @@
       "bestPsa9": null,
       "counts": {
         "cgc10Bin": 0,
-        "cgc10Auction": 2,
+        "cgc10Auction": 1,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
@@ -47,7 +47,7 @@
       "withoutLegacyCgc95": {
         "bestCgc10": null,
         "cgc10Bin": 0,
-        "cgc10Auction": 1,
+        "cgc10Auction": 0,
         "ratio": null,
         "firstOpportunityAt": null
       },
@@ -81,7 +81,7 @@
         "listingType": "auction",
         "bucket": "gemMint10",
         "legacyCgc95": false,
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787647141705,
         "lastSeen": 1787738656916
       },
@@ -91,14 +91,14 @@
         "priceC": 99,
         "shippingC": 795,
         "landedC": 894,
-        "url": "https://www.ebay.com/itm/800573152347?_skw=%28deoxys%29+%2816%2Cdeoxys%29+%28CGC%2CPSA%29&epid=26043384026&itmmeta=01M169XHVMQV20RCCBZQ3BHBAS&hash=itemba65e0dc5b:g:HcsAAeSwEu1qjtOA&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAd%2BDbo9qZT5aea4bXv2HFnQMwvF3xUJeK9UwJYSuqOIHEO%2BV%2FSrAKVNTQMlhE3QphOND8mBRND42p9xjj01M62aysTowPUkH4LfzSySOCZqIV1Mo%2BMJvMydQxN7Ei7BUdFpVvvn3enfQ0KOqBJ7LG9vR9TYuIHqXR91utdFDRFb2DBlE7HdAUSTQYo8XFSuh8RgbxbKEI152WfgM1mfpigF15abVVI3OWCz%2BChd1JfctocJtKJzUlG4bYcy%2Bd90Ldj8YRCUauhgFS7ZCgBRYIG%7Ctkp%3ABk9SR5ae9smJaA",
+        "url": "https://www.ebay.com/itm/800573152347?_skw=%28deoxys%29+%2816%2Cdeoxys%29+%28CGC%2CPSA%29&epid=26043384026&itmmeta=01M192RZ8XD08TGC47SPDXEZFN&hash=itemba65e0dc5b:g:HcsAAeSwEu1qjtOA&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAd%2BDbo9qZT5aea4bXv2HFnQMwvF3xUJeK9UwJYSuqOIIwiQTWjDP05%2FyMrhW0GaAGN31J7g3Pncv7%2BKvYr78EPZ1BALktbSk%2BIb83Vn1vS8MWHnyyCfjULydohVJgpHtRa70ZnPNuqeeQ2%2BfIwdX6fUJ%2FSDTYlM5YqhRJOpT9myApUxzdsoQ09foVGyjlULlG--nvD0IfF7qX3mLGmHbMVIOuR2PGGA3Vw7zAug2uiaN1r89CCVxC6Cs5sjS%2BbZwGje8v4T0gn4kqQfxNL%2FdqO%7Ctkp%3ABk9SR-z046KKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HcsAAeSwEu1qjtOA/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787905821032,
-        "lastSeen": 1787991894418
+        "lastSeen": 1788085138535
       }
     ],
     "marketHistory": {

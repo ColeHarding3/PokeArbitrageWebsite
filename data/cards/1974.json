@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260829T093902881Z-2c77376cd2",
-  "generatedAt": 1787996342881,
+  "snapshotId": "20260830T102123506Z-b907ba6b0e",
+  "generatedAt": 1788085283506,
   "data": {
     "deal": {
       "variantId": 1974,
@@ -36,16 +36,16 @@
         "itemId": "287520981546",
         "title": "Pokemon Eevee Legendary Coll. 74/110 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
         "priceC": 725000,
-        "shippingC": null,
-        "landedC": null,
-        "url": "https://www.ebay.com/itm/287520981546?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M167ZM4XZS5E94VVMQN2T930&hash=item42f196022a:g:zHQAAeSwcflqfLcA&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDjnpyFImOkGYQe3IVhyzFsgud7VfkY8eb%2FTVSNtM%2Fd%2BUqCUSKUzRNPn1fTEIEtwnAEoqcIU%2FgvX%2BUurZCGIiW12dEiSYk4wjHxbTbNrdoRPxKjKW1cJX04%2Bj9lpmDJsCKAkRnAICV%2FHS8o1ifcFf0xKuq%2FHMFMLgA%2F7idaAVBFHFVV8tZpozpYtrg6F72GrrfA9kxYjlIb5A%2BXBkDW19wQvFVv0TkFgspqOIlAQDkkdhkH0pGB8LINrEWB%2FYI7lDHXM6%2FmWaiiYNBYLVkbnKqRhq16LcwLgNu3WaLNJwUvZA%3D%3D%7Ctkp%3ABk9SR87C_seJaA",
+        "shippingC": 999,
+        "landedC": 725999,
+        "url": "https://www.ebay.com/itm/287520981546?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1916R7W83TAJ5CGJ3Z35EMD&hash=item42f196022a:g:zHQAAeSwcflqfLcA&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDjnpyFImOkGYQe3IVhyzFsgud7VfkY8eb%2FTVSNtM%2Fd%2BfeoSiKcaqZRNqDAh%2BcsqOL1gNTh1SP2djecWHdTwC0qAtN8OMRIbk2ZO6noal1X3sY6volwUnuUyM5X%2BQ2R7pxzhCR1v9xASsnduni3RPtU4eVIODhOXqiSKs9giAap29hVpgxxq7J3ukyfJHpZmBL0Vnagn2xLBNC17HXrudsoJ1%2Flu60hDAjm9lRMTdTUOJY7oYj00BCiXpyRX%2FgSbbh6%2BzS84YCBcSii85SrRbz%2FS%2BOPMbNQKHlwAVp1TcvcVQ%3D%3D%7Ctkp%3ABk9SR6KEm6GKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/zHQAAeSwcflqfLcA/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787989935545,
-        "lastSeen": 1787989935545
+        "lastSeen": 1788085138535
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -57,30 +57,58 @@
         "psa10Auction": 0,
         "psa9Bin": 0
       },
-      "ratio": null,
+      "ratio": {
+        "ok": true,
+        "tier": {
+          "id": "premium2",
+          "label": "Premium 2",
+          "feeC": 199900,
+          "declaredValueCapC": 5000000,
+          "turnaroundBizDays": 7
+        },
+        "cgc10CostC": 725999,
+        "submissionFeeC": 199900,
+        "totalCostC": 925899,
+        "psa10ValueC": 2733611,
+        "ratio": 2.952385735377185
+      },
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "287520981546",
           "title": "Pokemon Eevee Legendary Coll. 74/110 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
           "priceC": 725000,
-          "shippingC": null,
-          "landedC": null,
-          "url": "https://www.ebay.com/itm/287520981546?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M167ZM4XZS5E94VVMQN2T930&hash=item42f196022a:g:zHQAAeSwcflqfLcA&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDjnpyFImOkGYQe3IVhyzFsgud7VfkY8eb%2FTVSNtM%2Fd%2BUqCUSKUzRNPn1fTEIEtwnAEoqcIU%2FgvX%2BUurZCGIiW12dEiSYk4wjHxbTbNrdoRPxKjKW1cJX04%2Bj9lpmDJsCKAkRnAICV%2FHS8o1ifcFf0xKuq%2FHMFMLgA%2F7idaAVBFHFVV8tZpozpYtrg6F72GrrfA9kxYjlIb5A%2BXBkDW19wQvFVv0TkFgspqOIlAQDkkdhkH0pGB8LINrEWB%2FYI7lDHXM6%2FmWaiiYNBYLVkbnKqRhq16LcwLgNu3WaLNJwUvZA%3D%3D%7Ctkp%3ABk9SR87C_seJaA",
+          "shippingC": 999,
+          "landedC": 725999,
+          "url": "https://www.ebay.com/itm/287520981546?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1916R7W83TAJ5CGJ3Z35EMD&hash=item42f196022a:g:zHQAAeSwcflqfLcA&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDjnpyFImOkGYQe3IVhyzFsgud7VfkY8eb%2FTVSNtM%2Fd%2BfeoSiKcaqZRNqDAh%2BcsqOL1gNTh1SP2djecWHdTwC0qAtN8OMRIbk2ZO6noal1X3sY6volwUnuUyM5X%2BQ2R7pxzhCR1v9xASsnduni3RPtU4eVIODhOXqiSKs9giAap29hVpgxxq7J3ukyfJHpZmBL0Vnagn2xLBNC17HXrudsoJ1%2Flu60hDAjm9lRMTdTUOJY7oYj00BCiXpyRX%2FgSbbh6%2BzS84YCBcSii85SrRbz%2FS%2BOPMbNQKHlwAVp1TcvcVQ%3D%3D%7Ctkp%3ABk9SR6KEm6GKaA",
           "imageUrl": "https://i.ebayimg.com/images/g/zHQAAeSwcflqfLcA/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787989935545,
-          "lastSeen": 1787989935545
+          "lastSeen": 1788085138535
         },
         "cgc10Bin": 4,
         "cgc10Auction": 0,
-        "ratio": null,
+        "ratio": {
+          "ok": true,
+          "tier": {
+            "id": "premium2",
+            "label": "Premium 2",
+            "feeC": 199900,
+            "declaredValueCapC": 5000000,
+            "turnaroundBizDays": 7
+          },
+          "cgc10CostC": 725999,
+          "submissionFeeC": 199900,
+          "totalCostC": 925899,
+          "psa10ValueC": 2733611,
+          "ratio": 2.952385735377185
+        },
         "firstOpportunityAt": 1787989935545
       },
       "firstOpportunityAt": 1787989935545,
-      "updatedAt": 1787989935545
+      "updatedAt": 1788085138535
     },
     "prices": {
       "variantId": 1974,
@@ -102,61 +130,61 @@
         "itemId": "287520981546",
         "title": "Pokemon Eevee Legendary Coll. 74/110 Reverse Holo CGC 10 Gem MintOpens in a new window or tab",
         "priceC": 725000,
-        "shippingC": null,
-        "landedC": null,
-        "url": "https://www.ebay.com/itm/287520981546?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M167ZM4XZS5E94VVMQN2T930&hash=item42f196022a:g:zHQAAeSwcflqfLcA&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDjnpyFImOkGYQe3IVhyzFsgud7VfkY8eb%2FTVSNtM%2Fd%2BUqCUSKUzRNPn1fTEIEtwnAEoqcIU%2FgvX%2BUurZCGIiW12dEiSYk4wjHxbTbNrdoRPxKjKW1cJX04%2Bj9lpmDJsCKAkRnAICV%2FHS8o1ifcFf0xKuq%2FHMFMLgA%2F7idaAVBFHFVV8tZpozpYtrg6F72GrrfA9kxYjlIb5A%2BXBkDW19wQvFVv0TkFgspqOIlAQDkkdhkH0pGB8LINrEWB%2FYI7lDHXM6%2FmWaiiYNBYLVkbnKqRhq16LcwLgNu3WaLNJwUvZA%3D%3D%7Ctkp%3ABk9SR87C_seJaA",
+        "shippingC": 999,
+        "landedC": 725999,
+        "url": "https://www.ebay.com/itm/287520981546?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1916R7W83TAJ5CGJ3Z35EMD&hash=item42f196022a:g:zHQAAeSwcflqfLcA&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDjnpyFImOkGYQe3IVhyzFsgud7VfkY8eb%2FTVSNtM%2Fd%2BfeoSiKcaqZRNqDAh%2BcsqOL1gNTh1SP2djecWHdTwC0qAtN8OMRIbk2ZO6noal1X3sY6volwUnuUyM5X%2BQ2R7pxzhCR1v9xASsnduni3RPtU4eVIODhOXqiSKs9giAap29hVpgxxq7J3ukyfJHpZmBL0Vnagn2xLBNC17HXrudsoJ1%2Flu60hDAjm9lRMTdTUOJY7oYj00BCiXpyRX%2FgSbbh6%2BzS84YCBcSii85SrRbz%2FS%2BOPMbNQKHlwAVp1TcvcVQ%3D%3D%7Ctkp%3ABk9SR6KEm6GKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/zHQAAeSwcflqfLcA/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787989935545,
-        "lastSeen": 1787989935545
+        "lastSeen": 1788085138535
       },
       {
         "itemId": "127842435942",
         "title": "CGC 10 Pokemon Eevee LC 2002 Reverse Holo #74 Gem MintOpens in a new window or tab",
         "priceC": 1600000,
-        "shippingC": null,
-        "landedC": null,
-        "url": "https://www.ebay.com/itm/127842435942?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M167ZM4X7M2JBPRAJFSDC50G&hash=item1dc400c366:g:L~AAAeSwKxhqP48F&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAbq0VUCGafnoBHmktv0IYX6C2po9M2Bd5sPUB5ErMDfi6fGHAvIdZUpAGVsOFw0SIRXFCVNZCbWsHy1NoppjLLOR95aFp5EKMSO5fL14NeHvElqlWlJXDD5qt%2BhlMlxjnDFIPm7a6etvTvnFAUbiWkZg%2BgAxp515gImNfQii58N8ImH5l4sD70HIezQPXAX4%2FIqcMSJHjCUkebXXA7yr9xAc9jC5kD0i0lqXFwjc%2F9nY%2Bh0eM1txSygFcubNI2xpJIpJ9%2F4WOHYAFwGrjVQ0QzCRGXuAA7UkfVE8XZK96L4V1MEQPnrleeANSNgINCHTgW8u%2F9t93m24f62m9q8Pzm%7Ctkp%3ABk9SR87C_seJaA",
+        "shippingC": 0,
+        "landedC": 1600000,
+        "url": "https://www.ebay.com/itm/127842435942?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1916R7XHGVF6AKCAMSNQNEE&hash=item1dc400c366:g:L~AAAeSwKxhqP48F&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAbq0VUCGafnoBHmktv0IYX6C2po9M2Bd5sPUB5ErMDfi6fGHAvIdZUpAGVsOFw0SIRXFCVNZCbWsHy1NoppjLLOR95aFp5EKMSO5fL14NeHvElqlWlJXDD5qt%2BhlMlxjkw5J7OtGx5GXRKNFVSBbMKmMQwkHduan1q5ipUvs1QZ0R6Er51XcICumZdHiKw4rUVZIZgj05oKXvgu28hiQ%2BLu5QzwSOmXB87v%2Bq8Kg8wC33%2Flhe3xeVigFDmMEY%2BV02%2FadcCj2uEnbe8M1zEASTxqWNbvjD%2BrC%2FcTRexswWw%2BfHDtRvrh79V45zvN26P0UfMo7MHLnzCQNzt6r%2BOOdUM%7Ctkp%3ABk9SR6KEm6GKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/L~AAAeSwKxhqP48F/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787989935545
+        "lastSeen": 1788085138535
       },
       {
         "itemId": "227376332827",
         "title": "Pokemon 2002 Legendary Coll Eevee 74/110 Reverse Holo CGC 10Opens in a new window or tab",
         "priceC": 2300000,
-        "shippingC": null,
-        "landedC": null,
-        "url": "https://www.ebay.com/itm/227376332827?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M167ZM4XVZTW4MDE5AX5F8B7&hash=item34f0af801b:g:fokAAeSwPZdqJOC5&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB5KNbjxVLcP8i%2F558hyb9FUnSnSAdCKlfLvVJlwj0e9XTk7L2b8mhY%2F5kO%2F2jMvr%2BTUiqWl%2BADuAr%2BtTDrTIa31%2BX8buOQPy0PkD2%2FaD%2FZaxkr1V5y1iZooRV%2FPVI%2B0vQP45ISxR%2FbekZ1H9VNqHVhwnu0uBTWx7%2FdqT24Ow6zlDHKXCHcrtFHF2wbRz3ypIz%2ByxtGE%2BXOTIt%2F4%2BpFrK8wDoRUkphnLcGgC1uU45tTtpaiTeygFptVLWUVzYRJ2STVBOMWZhK87bWQc2a5eRBREYLvTVNZv4eP9P9DzsBqxakIoqPhMEBcIpiJydJaLvtWGKdEkNGWAk%2FSyzyGJwDA%7Ctkp%3ABk9SR87C_seJaA",
+        "shippingC": 0,
+        "landedC": 2300000,
+        "url": "https://www.ebay.com/itm/227376332827?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1916R7XRRAVM4R505QC0F5J&hash=item34f0af801b:g:fokAAeSwPZdqJOC5&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAKkf1ljyOIb1qeNdQhuVujKODiOW37RzSXjv%2FKVEFqo9C%2Fqa03HAJyYAHLUcbs5C%2Bo4%2BS%2BtHH9EOAXXATUqPtFw3C0xkOsNOQPOTFW1S4%2BA9jFqFx%2Bb7qUYSodeoagV6Dh6zJ8jC3Vr3KKFuZS6w34sM3fAfKA4TgBfpjidDh%2FtR5oaNFYydT%2FggEKbWFonFRkk5Kvzv0qG1iDk2eGNNFUB7hLbW%2FU8WnMzwHwQYIfIPGwVJYsnCo%2FV5D40NZnMIgoMl%2FTBRLh%2B3pciWIy7Vn%2B5SpiSmFsfgC6jne4D1ITVg%3D%3D%7Ctkp%3ABk9SR6KEm6GKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/fokAAeSwPZdqJOC5/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787989935545
+        "lastSeen": 1788085138535
       },
       {
         "itemId": "376782309672",
         "title": "💎🐾 CGC 10 | Eevee 74/110 Reverse Holo | Legendary Collection 2002Opens in a new window or tab",
         "priceC": 2499995,
-        "shippingC": null,
-        "landedC": null,
-        "url": "https://www.ebay.com/itm/376782309672?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M167ZM4XH12T294MBY279TA0&hash=item57b9f9c928:g:fDMAAeSwYNZpQb-q&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB0LTEPZpPePIIAVZ1DYsP30m0BGEj9OWEEvFk1zlbvrIiMpYPuxt9nJfhzWD6SvzKq6BJshzfOXBgzBAhTOouqUr1aYAFCisrb0FmYtRmYn%2BEtDAbcH6IrbkcotZ2KnTioxJOoHnjnQNf8cH%2B0BGGA0eKBHicy6r5wgZ%2FmZ7Zad4ahWPyeT%2BjDEoW9u879USD19P%2FSA%2B%2FsR14kgRp0dJwi8PILyNRjf85QNXV6y3QfX0WHxbxWGZrWRTpBvrvUKYtP3eK6QND8a%2BETW1FRyU150c%2BgwOe4tUgP0biRLtIghg%3D%3D%7Ctkp%3ABk9SR9DC_seJaA",
+        "shippingC": 597,
+        "landedC": 2500592,
+        "url": "https://www.ebay.com/itm/376782309672?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1916R7XAEHNVVQDQAX87AGA&hash=item57b9f9c928:g:fDMAAeSwYNZpQb-q&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB0LTEPZpPePIIAVZ1DYsP30m0BGEj9OWEEvFk1zlbvrI69avzdwAPNDTY43FPDzM3znJsF%2FZWWDt%2BR5pP7xZ6igaHBMNiVLDjk02zCB3fZB1HllGCku%2BGfemDxuRFz%2FGLcNqgHTP98i3Ha8L2iulf4ELFdSvn2SUPLxBfPC3N%2FY94Tu%2BD9JhA9Tw%2BlUJ%2FdR74piAPOSUaNG3qS9R6H6wpIaR8%2BEkZVz8Iyvdjl%2BofOqAB%2FfnVnF7V5rTGYW4aCkBcTQ2iOLIqlza%2BR6YNi8%2BgAKhXA5KcguWIawq5%2FkeOwEg%3D%3D%7Ctkp%3ABk9SR6KEm6GKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/fDMAAeSwYNZpQb-q/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1787989935545
+        "lastSeen": 1788085138535
       }
     ],
     "marketHistory": {
