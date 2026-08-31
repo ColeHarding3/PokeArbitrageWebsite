@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 14556,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/9ab56e1493b3cb491108a15767d58c2792090965f91bbca9b87b5413f7dccdb6/1600.jpg",
       "popularityScore": 91,
       "market": {
-        "ungradedC": 17440,
+        "ungradedC": 17379,
         "grade9C": 102500,
         "grade95C": 112800,
         "cgc10C": 131000,
         "cgc10PristineC": 235800,
-        "psa10C": 302071,
-        "bgs10C": 392700,
+        "psa10C": 292092,
+        "bgs10C": 379700,
         "psa9Pop": null,
         "psa10Pop": null,
         "cgc10Pop": 3,
         "salesVolumeJson": "{\"volume: 3 sales per week\":\"volume: \\n    4 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787909895619
+        "fetchedAt": 1788169058098
       },
       "bestCgc10": {
         "itemId": "820042348697",
@@ -38,38 +38,52 @@
         "priceC": 77500,
         "shippingC": 597,
         "landedC": 78097,
-        "url": "https://www.ebay.com/itm/820042348697?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M18ZVJCDWNYJB1YMN5HBPYAN&hash=itembeee553899:g:Lo4AAeSwe9ZqjHrO&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBE%2FcGEho0frL5dKbYDmd%2FiTLloNyFPMCwUqiKVUwSP8bAI2ajC%2F1GdF%2FgvbKiOqz89TrLmSS0c8b0DyVvh%2BqEbeA8v%2BiT6G9RUffQxk%2B780g72qy8s0L8jh39qKm9Cf28kF6PH7Y40f515sfqQb2BeJgxHwokJxmGcJhDhtz7RncIxZRJ6ea4lJvLqtZZR4heyaUCdoPEp%2Bsdzxnwx4LEI7BY9nsRj71Tj%2BWHbHCnKSWG1kd94jrfDcQvZ9au4wGpR8tDKbfkUFtLZnX3%2FgMsNDVo%2F1EXSujoaxD9XCyUpt2f2o6%2BBQPCCRQXLEvnvP8M%3D%7Ctkp%3ABk9SR8im7p-KaA",
+        "url": "https://www.ebay.com/itm/820042348697?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M1BJXM9EKTECMJSP06GFX7P7&hash=itembeee553899:g:Lo4AAeSwe9ZqjHrO&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBVKymHhyPaYe0HKI00up92eilqMrqdlSPeARUdTrZaDD9VfB3yFx526zY9du9DTpY%2BhAzpXbTvQFP1eoyJN9ESW2ovDvWfgj6G6dAbr1WY7oTwbIs%2BqCv6BWRh3i2RBMByaplpuiU%2FFtfvjt9bknc70Jt23AAc09YtaHnjKtJnXdfQ4wXpvIFYNKELrcNv1t61EXqj1uOcA5w0KXQraSJ48%2BMQp5Y6gcS92k8WqU6ZkCXaOIc8AXkdjliSs%2F6GYbL3Myx3H38myCbbsKf%2BZi%2Fj%7Ctkp%3ABk9SR4rF9vKKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Lo4AAeSwe9ZqjHrO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787651475077,
-        "lastSeen": 1788082020344
+        "lastSeen": 1788169101220
       },
-      "bestPsa10": null,
+      "bestPsa10": {
+        "itemId": "298629595872",
+        "title": "1999 POKEMON GAME #6 GYARADOS-HOLO PSA 10Opens in a new window or tab",
+        "priceC": 250000,
+        "shippingC": 599,
+        "landedC": 250599,
+        "url": "https://www.ebay.com/itm/298629595872?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&itmmeta=01M1BJXM9H31W7SXSRZRT9SF73&hash=item4587b602e0:g:W1kAAeSwPZVqfzQF&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBWaCANfEYv4dmmP6A4toTbWmcnTe%2BFVyvnFPubc6G2nXauYaUwWxEgpyVmEpByC%2B7sS%2F1FNOwXCMC9TT2m8jo0RHKpnXX6sfdqpiW7BKYcPCTOMgWwEagQns4Vb144BPEv7BYNLq9sEpOIXYbt9uKS9lWaNLOKhXCLkQULoESoiFgf3MAFoFD96z8BicKXMKoNZZnkF0zUbtygRzDTiKnxhWCVhfIKU93x2YsU1KQwU1KOk4%2BHwtsFNu4vSnQWAJl0zdLCsz0A24Tes0A5sbr1%7Ctkp%3ABk9SR5bF9vKKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/W1kAAeSwPZVqfzQF/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1788169101220,
+        "lastSeen": 1788169101220
+      },
       "bestPsa9": {
         "itemId": "800549672378",
         "title": "1999 POKEMON BASE SET UNLIMITED #6 - GYARADOS - HOLO PSA 9 - MINTOpens in a new window or tab",
         "priceC": 27499,
         "shippingC": 1099,
         "landedC": 28598,
-        "url": "https://www.ebay.com/itm/800549672378?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M18ZVJCANCQ94ST8NQ0SVWPR&hash=itemba647a95ba:g:OBgAAeSwN0tqijja&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAWzRKm%2FaySbTlDyN8yhaemiW%2Bc%2BoqDZL2uiG%2FQDkHEMxqvPr5GfuoIlPMnjQz9TCYPqYRzK64uD0TmhPzi42GEZ2cRZl8AaONF5rXdptBt78z79ezYeSixoct9ZfqMA5DasNPyDcqeRVR5hdK2of6v%2B4U1Lx3aRH3R6dFyOcLDFRD5umajE0HhfEsrIzx7CWzVxnyhwZpUF4NnqghGLAC8tObbj7gFT7teJxWQum3k38IYwvL1ITfJ4KWjWUOjUqpfVshbLfhyiNvns6tCEnXmM%2FrFWZZYF42pHIJvlVpl9236BqXaNM6JMVhqG%2BgGwOg%3D%7Ctkp%3ABk9SR8Cm7p-KaA",
+        "url": "https://www.ebay.com/itm/800549672378?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M1BJXM9CPKA94JYG2Q9D9N37&hash=itemba647a95ba:g:OBgAAeSwN0tqijja&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAWzRKm%2FaySbTlDyN8yhaemiW%2Bc%2BoqDZL2uiG%2FQDkHEMxqvPr5GfuoIlPMnjQz9TCYPqYRzK64uD0TmhPzi42GEZ2cRZl8AaONF5rXdptBt78z79ezYeSixoct9ZfqMA5CmOu24QOra95BadSudTTE4KmakYlwhsEGtcnYXm9vxOIrcWZTVCS%2BRJDzcmzA0EfVYpmdGv9ZnUhYLjL6MFeKP49IJ%2B2llH2dvLcH8TD0SPhWOmqRYeSy%2BjQGmznDvv0BhbYoGwDM1aGdH0t3iakiNWYILjd%2B5pj2ONIqapQkhagNuaUj3cvzWMqP%2BKgL0hrc%3D%7Ctkp%3ABk9SR4LF9vKKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/OBgAAeSwN0tqijja/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787468745147,
-        "lastSeen": 1788082020344
+        "lastSeen": 1788169101220
       },
       "counts": {
-        "cgc10Bin": 2,
+        "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 0,
+        "psa10Bin": 1,
         "psa10Auction": 0,
-        "psa9Bin": 4
+        "psa9Bin": 5
       },
       "ratio": {
         "ok": true,
@@ -83,8 +97,8 @@
         "cgc10CostC": 78097,
         "submissionFeeC": 34900,
         "totalCostC": 112997,
-        "psa10ValueC": 302071,
-        "ratio": 2.673265661920228
+        "psa10ValueC": 292092,
+        "ratio": 2.5849535828384824
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -93,16 +107,16 @@
           "priceC": 77500,
           "shippingC": 597,
           "landedC": 78097,
-          "url": "https://www.ebay.com/itm/820042348697?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M18ZVJCDWNYJB1YMN5HBPYAN&hash=itembeee553899:g:Lo4AAeSwe9ZqjHrO&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBE%2FcGEho0frL5dKbYDmd%2FiTLloNyFPMCwUqiKVUwSP8bAI2ajC%2F1GdF%2FgvbKiOqz89TrLmSS0c8b0DyVvh%2BqEbeA8v%2BiT6G9RUffQxk%2B780g72qy8s0L8jh39qKm9Cf28kF6PH7Y40f515sfqQb2BeJgxHwokJxmGcJhDhtz7RncIxZRJ6ea4lJvLqtZZR4heyaUCdoPEp%2Bsdzxnwx4LEI7BY9nsRj71Tj%2BWHbHCnKSWG1kd94jrfDcQvZ9au4wGpR8tDKbfkUFtLZnX3%2FgMsNDVo%2F1EXSujoaxD9XCyUpt2f2o6%2BBQPCCRQXLEvnvP8M%3D%7Ctkp%3ABk9SR8im7p-KaA",
+          "url": "https://www.ebay.com/itm/820042348697?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M1BJXM9EKTECMJSP06GFX7P7&hash=itembeee553899:g:Lo4AAeSwe9ZqjHrO&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBVKymHhyPaYe0HKI00up92eilqMrqdlSPeARUdTrZaDD9VfB3yFx526zY9du9DTpY%2BhAzpXbTvQFP1eoyJN9ESW2ovDvWfgj6G6dAbr1WY7oTwbIs%2BqCv6BWRh3i2RBMByaplpuiU%2FFtfvjt9bknc70Jt23AAc09YtaHnjKtJnXdfQ4wXpvIFYNKELrcNv1t61EXqj1uOcA5w0KXQraSJ48%2BMQp5Y6gcS92k8WqU6ZkCXaOIc8AXkdjliSs%2F6GYbL3Myx3H38myCbbsKf%2BZi%2Fj%7Ctkp%3ABk9SR4rF9vKKaA",
           "imageUrl": "https://i.ebayimg.com/images/g/Lo4AAeSwe9ZqjHrO/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787651475077,
-          "lastSeen": 1788082020344
+          "lastSeen": 1788169101220
         },
-        "cgc10Bin": 2,
+        "cgc10Bin": 1,
         "cgc10Auction": 0,
         "ratio": {
           "ok": true,
@@ -116,59 +130,44 @@
           "cgc10CostC": 78097,
           "submissionFeeC": 34900,
           "totalCostC": 112997,
-          "psa10ValueC": 302071,
-          "ratio": 2.673265661920228
+          "psa10ValueC": 292092,
+          "ratio": 2.5849535828384824
         },
         "firstOpportunityAt": 1787651475077
       },
       "firstOpportunityAt": 1787651475077,
-      "updatedAt": 1788082020344
+      "updatedAt": 1788169101220
     },
     "prices": {
       "variantId": 14556,
-      "ungradedC": 17440,
+      "ungradedC": 17379,
       "grade9C": 102500,
       "grade95C": 112800,
       "cgc10C": 131000,
       "cgc10PristineC": 235800,
-      "psa10C": 302071,
+      "psa10C": 292092,
       "psa9Pop": null,
       "psa10Pop": null,
       "cgc10Pop": 3,
-      "bgs10C": 392700,
+      "bgs10C": 379700,
       "salesVolumeJson": "{\"volume: 3 sales per week\":\"volume: \\n    4 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787909895619
+      "fetchedAt": 1788169058098
     },
     "listings": [
-      {
-        "itemId": "237021948579",
-        "title": "1999 Pokemon Game #6 Gyarados Holo PSA 9 MintOpens in a new window or tab",
-        "priceC": 22679,
-        "shippingC": 1399,
-        "landedC": 24078,
-        "url": "https://www.ebay.com/itm/237021948579?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&itmmeta=01M18ZVDG79YFB25PN81N75KE5&hash=item372f9beaa3:g:wAkAAeSw6Xlqcj8C&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC7W1rFM9mX2hDaKrQh8s0QBSIqdrcGAFG708Wbzf1K715mEL7K061qtXCWX7yQhezwvVzqrcFrr9ZluVphkTHieuYgJbf3qOd5c7Dw7RA1v6QCbLSM3sYeJz3JXq9NkPlxCrvH3llemerwCHfpQYkiGXHZEOxLw5VfGMljJsUoXS1yx54yQlrPcoRRAprNOriyXqI8IeN5ZKyJotZWBcZ37csXTZUKUaYBQd2SqC%2Fos0LaLFGxaaw8OdhYoMHp4ITsgoEAWEExe4xBnkYdhxOv9KNrNM8Zd8ZSG8h4fB4p4aZRRTR5KCDTtD8Rsl%2Ffav4%3D%7Ctkp%3ABk9SR8zY7Z-KaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/wAkAAeSw6Xlqcj8C/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787555120782,
-        "lastSeen": 1788082020344
-      },
       {
         "itemId": "800549672378",
         "title": "1999 POKEMON BASE SET UNLIMITED #6 - GYARADOS - HOLO PSA 9 - MINTOpens in a new window or tab",
         "priceC": 27499,
         "shippingC": 1099,
         "landedC": 28598,
-        "url": "https://www.ebay.com/itm/800549672378?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M18ZVJCANCQ94ST8NQ0SVWPR&hash=itemba647a95ba:g:OBgAAeSwN0tqijja&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAWzRKm%2FaySbTlDyN8yhaemiW%2Bc%2BoqDZL2uiG%2FQDkHEMxqvPr5GfuoIlPMnjQz9TCYPqYRzK64uD0TmhPzi42GEZ2cRZl8AaONF5rXdptBt78z79ezYeSixoct9ZfqMA5DasNPyDcqeRVR5hdK2of6v%2B4U1Lx3aRH3R6dFyOcLDFRD5umajE0HhfEsrIzx7CWzVxnyhwZpUF4NnqghGLAC8tObbj7gFT7teJxWQum3k38IYwvL1ITfJ4KWjWUOjUqpfVshbLfhyiNvns6tCEnXmM%2FrFWZZYF42pHIJvlVpl9236BqXaNM6JMVhqG%2BgGwOg%3D%7Ctkp%3ABk9SR8Cm7p-KaA",
+        "url": "https://www.ebay.com/itm/800549672378?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M1BJXM9CPKA94JYG2Q9D9N37&hash=itemba647a95ba:g:OBgAAeSwN0tqijja&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAWzRKm%2FaySbTlDyN8yhaemiW%2Bc%2BoqDZL2uiG%2FQDkHEMxqvPr5GfuoIlPMnjQz9TCYPqYRzK64uD0TmhPzi42GEZ2cRZl8AaONF5rXdptBt78z79ezYeSixoct9ZfqMA5CmOu24QOra95BadSudTTE4KmakYlwhsEGtcnYXm9vxOIrcWZTVCS%2BRJDzcmzA0EfVYpmdGv9ZnUhYLjL6MFeKP49IJ%2B2llH2dvLcH8TD0SPhWOmqRYeSy%2BjQGmznDvv0BhbYoGwDM1aGdH0t3iakiNWYILjd%2B5pj2ONIqapQkhagNuaUj3cvzWMqP%2BKgL0hrc%3D%7Ctkp%3ABk9SR4LF9vKKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/OBgAAeSwN0tqijja/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787468745147,
-        "lastSeen": 1788082020344
+        "lastSeen": 1788169101220
       },
       {
         "itemId": "336711636856",
@@ -176,14 +175,29 @@
         "priceC": 30500,
         "shippingC": 0,
         "landedC": 30500,
-        "url": "https://www.ebay.com/itm/336711636856?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M18ZVJCA6HFD000176V2YGDD&hash=item4e6593d778:g:cHEAAeSwtWFqZ5Y8&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCtwXogzU3ZuTojYT80wB2p7eME50EruEFpUycbuJYOAR8WhKJKJCopwUI24MrqhJalf0UY9q7Ma7m5HAJwrKpSXMi0EtQ1idj05DhIByKbA7pU5MRHr0Ggp1L0zXY9Ym2u8Z6VXc8554D1w89wTuk2YveDohViPY%2BIhHQB0sMnpfOieXDh6LDxr6B5COHM8D%2BCmW%2B4gUdxkhR324nyfi5Hn11UWOHIpOkOOv4QRLdlzwYoUs9Nw2fyUjUaAxTe%2BAQmYLyjfxsM6z0ypUx%2BTSB0vFAlV9XdkizQSMP%2FZZqNWEBVAGVPBsQ9BYPMbnGAMyw%3D%7Ctkp%3ABk9SR8Km7p-KaA",
+        "url": "https://www.ebay.com/itm/336711636856?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M1BJXM9C31N9N6E4HDP1YRGD&hash=item4e6593d778:g:cHEAAeSwtWFqZ5Y8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD8ABytN3OLYr%2BxxMyQzWKIcDPY8bozLmL7bI5iTU3SEwSJiJ%2FQnlF8QjiQw97XAtRjgJc7zCuzvJATOyn%2Bw3rF0HfxdxyXouHfspdEz%2BgH9xbe2HleYOnM95oTNgwT83L0%2F0LuFVcOozguA0LZGY4r2aK5f8hnSBSXRxLgbm3%2BDNfku%2BgjzbFVCJVJR99gecmYH6qOs7Gh3Gf41YiJV5DR%2BKRPhUyI49mZoeu%2FozIMUBT9AzoquShNwi6ia0LOGabeA3KwRi4N8ZIG%2B2BCzoMy%7Ctkp%3ABk9SR4LF9vKKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/cHEAAeSwtWFqZ5Y8/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787038168986,
-        "lastSeen": 1788082020344
+        "lastSeen": 1788169101220
+      },
+      {
+        "itemId": "366638532794",
+        "title": "1999 Pokémon Base Set Unlimited #6 Gyarados-Holo PSA 9Opens in a new window or tab",
+        "priceC": 29995,
+        "shippingC": 945,
+        "landedC": 30940,
+        "url": "https://www.ebay.com/itm/366638532794?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M1BJXM9CD5MSFACEE7C9F8NV&hash=item555d5c08ba:g:kKYAAeSw6RlqlKy8&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDbkPalHbRWWqwTWLTyFw8bu%2FE8OtHOF%2BeYgVfBz4I0N24Mo5G7dsjMs7UUhTilRkIol0b6pQ7UywhvJyP%2BYhBjBg9Q0T%2B79yq4nv9lRuZb5iYdmhceQX8tb8pNxeZlbZrv7UuGqk6WMnWMQpE9o%2FCgJVnbOX22MY0xSRTF5075NI3yw9Il%2Fz%2FB%2Fkz5V%2B%2BITN21kRIzzJozi4YKBx2RTvq2VLfIjGrHQTZvKGnOfHMATcGPmOdlT--kwiI1M%2FrMkZ0OXZraL3y5%2FDtH7nJwhVDvejl6QC0peXj--J0mJeJNTjtMrQUF6KC2%2Bn89FQNDE9Q%3D%7Ctkp%3ABk9SR4LF9vKKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/kKYAAeSw6RlqlKy8/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1788160102570,
+        "lastSeen": 1788169101220
       },
       {
         "itemId": "227280165977",
@@ -191,14 +205,14 @@
         "priceC": 34900,
         "shippingC": 1999,
         "landedC": 36899,
-        "url": "https://www.ebay.com/itm/227280165977?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M18ZVJCB6HSMX0YC05FSB4GV&hash=item34eaf41c59:g:BD4AAeSwXEhpy0eu&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCPM%2BukGWzg%2FxaFdanvGNGTosCTmT0gtRmsOYuMlyLFZjXDPcRKdvbLzfweOWeXPxHyt81tSS6TgQJEsyRkZ72p2aI4wvoaU0Kiy%2FkvSYR4An4QwTQVWV9PacNBg6HOabUk9XxNrvzdkOFG85gXQ8VSV2K2fdncuOsrqdmFfDnxbXFB6FYeJbVJSqbbTRda4woRgN62LLbfXVZIsbnvwHcBa1dRP1l9V2FemuTjyjgo2h1U5kKGq4S3p9MvBWk5ExVxpmrL7QtSY1VoSreXYFLL%7Ctkp%3ABk9SR8Sm7p-KaA",
+        "url": "https://www.ebay.com/itm/227280165977?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M1BJXM9D05WP283JG09PC5NS&hash=item34eaf41c59:g:BD4AAeSwXEhpy0eu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCIgjegBzMSK338u87wJUZ%2BWJmRHt50UnV0Ns0BI9Q5CHuYOkaqKxvcmrnkz9GFloiRabqb4I3J3eXNJ%2FzNt0A5c6lqwLV0gP5P6M%2F9gN2FFy2ILXOU2A8KoEFsdlvlCDjD9Rw5lK%2Fo64fWeiFL7wSDZ0YuqdkJbuFcabcR6AJ3CUMf%2B9U2%2FTxtKODoL6LLxVbEYhex6pS7lyvhwWVA8gsFUo4bB5I7EOuYd5kRTcuA%2F0%2BtBXdQ4mQTmyvVSO360ibzkX8dwlFEWhbYiV%2FFSgnLXnZYBgPZHzY%2BDweeW6ynInlaxWQZ036NMsP5f7fatFU%3D%7Ctkp%3ABk9SR4TF9vKKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BD4AAeSwXEhpy0eu/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787209549665,
-        "lastSeen": 1788082020344
+        "lastSeen": 1788169101220
       },
       {
         "itemId": "188490073050",
@@ -206,14 +220,14 @@
         "priceC": 50000,
         "shippingC": 0,
         "landedC": 50000,
-        "url": "https://www.ebay.com/itm/188490073050?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M18ZVJCC75AJXRNHX9EJVBF8&hash=item2be2e243da:g:Rz0AAeSwmc1qA7vZ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBVVPE59aDkLI8ipLeQ33jZ6PShjhPsjQcupz3mDysgLb1MgANpELSLXWmTE0Ndljjhn1Y3h1orilc%2BuIf3kpBAuFUC2lReOYF2n9cNswyJcFN2EqvP0Oe1AKY560%2B1feLKPDapefmdhY7O8iYdcl8n46%2FNPJTnRYuXw75R8d2wzC2obphgwKwR%2BUl4TMt0lPakFo2gSZdT4hF0hPlNf6cyXsGKg6dB4u5p%2FT4o8GFAjBx0BElYCBgwvhiEB3gawPJjvk46Dl6zHqgI5t27NQhk%7Ctkp%3ABk9SR8am7p-KaA",
+        "url": "https://www.ebay.com/itm/188490073050?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M1BJXM9D0XWTRVQ31WVFRRWH&hash=item2be2e243da:g:Rz0AAeSwmc1qA7vZ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBVVPE59aDkLI8ipLeQ33jZ6PShjhPsjQcupz3mDysgLdbSoAL9GFNqXVwqjNBuGh88eEJNm50pBo9vczk2CsqRr4KVMl1x0zEtQ0wK0SBraoU0OABdfW%2Fhby%2FZMWgwivHlYxaMLX1vTLt6Q0nutLgD6McWvGL88y5%2BIg6NyPnoWM9aTGUILVaDh2KOetlRJNYrjw5120%2BLRebRNHew%2FpFGcPELwlfbWokayCXehUgJsYn8FRkCU13plOcR1JyTOmKIV%2B1PHdBC%2FQBBg5Prv7RZ%7Ctkp%3ABk9SR4bF9vKKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Rz0AAeSwmc1qA7vZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787223904677,
-        "lastSeen": 1788082020344
+        "lastSeen": 1788169101220
       },
       {
         "itemId": "820042348697",
@@ -221,33 +235,46 @@
         "priceC": 77500,
         "shippingC": 597,
         "landedC": 78097,
-        "url": "https://www.ebay.com/itm/820042348697?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M18ZVJCDWNYJB1YMN5HBPYAN&hash=itembeee553899:g:Lo4AAeSwe9ZqjHrO&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBE%2FcGEho0frL5dKbYDmd%2FiTLloNyFPMCwUqiKVUwSP8bAI2ajC%2F1GdF%2FgvbKiOqz89TrLmSS0c8b0DyVvh%2BqEbeA8v%2BiT6G9RUffQxk%2B780g72qy8s0L8jh39qKm9Cf28kF6PH7Y40f515sfqQb2BeJgxHwokJxmGcJhDhtz7RncIxZRJ6ea4lJvLqtZZR4heyaUCdoPEp%2Bsdzxnwx4LEI7BY9nsRj71Tj%2BWHbHCnKSWG1kd94jrfDcQvZ9au4wGpR8tDKbfkUFtLZnX3%2FgMsNDVo%2F1EXSujoaxD9XCyUpt2f2o6%2BBQPCCRQXLEvnvP8M%3D%7Ctkp%3ABk9SR8im7p-KaA",
+        "url": "https://www.ebay.com/itm/820042348697?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M1BJXM9EKTECMJSP06GFX7P7&hash=itembeee553899:g:Lo4AAeSwe9ZqjHrO&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBVKymHhyPaYe0HKI00up92eilqMrqdlSPeARUdTrZaDD9VfB3yFx526zY9du9DTpY%2BhAzpXbTvQFP1eoyJN9ESW2ovDvWfgj6G6dAbr1WY7oTwbIs%2BqCv6BWRh3i2RBMByaplpuiU%2FFtfvjt9bknc70Jt23AAc09YtaHnjKtJnXdfQ4wXpvIFYNKELrcNv1t61EXqj1uOcA5w0KXQraSJ48%2BMQp5Y6gcS92k8WqU6ZkCXaOIc8AXkdjliSs%2F6GYbL3Myx3H38myCbbsKf%2BZi%2Fj%7Ctkp%3ABk9SR4rF9vKKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/Lo4AAeSwe9ZqjHrO/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787651475077,
-        "lastSeen": 1788082020344
+        "lastSeen": 1788169101220
       },
       {
-        "itemId": "188812272420",
-        "title": "Pokemon Gyarados #6 Base Set Holo CGC 10 Gem MintOpens in a new window or tab",
-        "priceC": 80000,
-        "shippingC": 1000,
-        "landedC": 81000,
-        "url": "https://www.ebay.com/itm/188812272420?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&epid=21043375917&itmmeta=01M18ZVJCEKH182MB1ZEB7FA6V&hash=item2bf616a324:g:2M8AAeSwhPJqhHMS&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAjjdMR69%2BMKKqYP9FIuGEINrOAwRYRvbXK2czthmrqforZChsPZctv2fFO3hckcU9fjKfk36D7cMv5wCeNjt%2FURZFfzF0f54GY5xt9NJZci%2BiK5O%2BRaITJZtBvF%2FEAlIh1P5sxjCO7dUgQ9p9%2FJQdh0vj6koHev8LroF4i9asa5gxeBmo2oaqTsE9GWxFeGEjs0udOos7oGPo3Gr8b20695SmhLH%2FMImMYHeh%2FELDDrUvuGHaRWNL8OKTwUUXipddqLGe4fprh%2B%2ByulB13NqfB%7Ctkp%3ABk9SR8qm7p-KaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/2M8AAeSwhPJqhHMS/s-l500.webp",
+        "itemId": "298629595872",
+        "title": "1999 POKEMON GAME #6 GYARADOS-HOLO PSA 10Opens in a new window or tab",
+        "priceC": 250000,
+        "shippingC": 599,
+        "landedC": 250599,
+        "url": "https://www.ebay.com/itm/298629595872?_skw=%28gyarados%29+%286%2Crumble%29+%28CGC%2CPSA%29&itmmeta=01M1BJXM9H31W7SXSRZRT9SF73&hash=item4587b602e0:g:W1kAAeSwPZVqfzQF&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBWaCANfEYv4dmmP6A4toTbWmcnTe%2BFVyvnFPubc6G2nXauYaUwWxEgpyVmEpByC%2B7sS%2F1FNOwXCMC9TT2m8jo0RHKpnXX6sfdqpiW7BKYcPCTOMgWwEagQns4Vb144BPEv7BYNLq9sEpOIXYbt9uKS9lWaNLOKhXCLkQULoESoiFgf3MAFoFD96z8BicKXMKoNZZnkF0zUbtygRzDTiKnxhWCVhfIKU93x2YsU1KQwU1KOk4%2BHwtsFNu4vSnQWAJl0zdLCsz0A24Tes0A5sbr1%7Ctkp%3ABk9SR5bF9vKKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/W1kAAeSwPZVqfzQF/s-l500.webp",
         "listingType": "bin",
-        "bucket": "gemMint10",
+        "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
-        "firstSeen": 1787223904677,
-        "lastSeen": 1788082020344
+        "firstSeen": 1788169101220,
+        "lastSeen": 1788169101220
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 8693834,
+          "saleDate": "2026-08-28",
+          "priceC": 10750,
+          "title": "Heavily Played Gyarados Pokemon Rumble Promo 6/16 #6",
+          "url": "https://www.ebay.com/itm/227486004260?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 4433892,
           "saleDate": "2026-08-23",
@@ -1794,19 +1821,6 @@
           "gradingGrade": 10,
           "gradingDesignation": "gem-mint",
           "agreementStatus": "match"
-        },
-        {
-          "id": 1661846,
-          "saleDate": "2023-12-17",
-          "priceC": 2001,
-          "title": "Pokemon Gyarados Rumble #6 Promo PSA 6",
-          "url": "https://www.ebay.com/itm/285595102733?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 6,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1856,9 +1870,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 131,
+      "englishSaleCount": 132,
       "excludedLanguageCount": 3,
-      "lastCapturedAt": 1787909893888
+      "lastCapturedAt": 1788169056043
     }
   }
 }

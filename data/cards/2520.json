@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 2520,
@@ -20,17 +20,17 @@
       "popularityScore": 82,
       "market": {
         "ungradedC": 8400,
-        "grade9C": 14000,
-        "grade95C": 15400,
-        "cgc10C": 9489,
+        "grade9C": 13844,
+        "grade95C": 15200,
+        "cgc10C": 9483,
         "cgc10PristineC": 57500,
         "psa10C": 67000,
         "bgs10C": 87100,
         "psa9Pop": 26,
         "psa10Pop": 34,
         "cgc10Pop": 26,
-        "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per year\",\"volume: 4 sales per year\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787904041922
+        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 4 sales per year\":\"volume: \\n    2 sales per year\"}",
+        "fetchedAt": 1788163132510
       },
       "bestCgc10": {
         "itemId": "278304132268",
@@ -38,14 +38,14 @@
         "priceC": 84900,
         "shippingC": 1000,
         "landedC": 85900,
-        "url": "https://www.ebay.com/itm/278304132268?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M18V4NTR6R91ETC03FMNEV9Z&hash=item40cc380cac:g:OaEAAeSwJK9qiopz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDtGFe74GEjtvo92YsL3YVu452tNqpkdpLX6hhxGkOn27B1fQDfXmKrHiRcFuUBOncqXABCyUneswSe4B0CiNQ%2BBcCwbJARbbtqMzIZL4opuDbSKsP7hfrCjiK%2BO%2FX7b8k9WIj607mDZHcLLHpKfw%2FU4K%2FVBGZfP5Pt1y3pi4gqz4wx9YZdO7F4dpLjUHWMNFOHqiBzaM23JLYHwhSM2Lxp759SCVqTKlwyVfiFBacrz9Etk2iuijdPsfNeVnGM%2BvRShHQDuFXlJy%2BJ9X8Jk2IOtLAKxxVfJKUeOaUrZ90%2FRwHjCf8AydBImN80NtAbXVs%3D%7Ctkp%3ABk9SR9LdkpuKaA",
+        "url": "https://www.ebay.com/itm/278304132268?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M1BDBVZWW8M4WNNFD1GHEHDM&hash=item40cc380cac:g:OaEAAeSwJK9qiopz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD9WGOO%2F70E7hWR2zECEZ1f--%2F7lu7oSSE0B8wZ7Ke9PhkT6xC%2BTmjx5KttvA9DBtcOxEStYjZdrwG77B%2Fq5edkXCVauIz7y4bGod993wJIr9dJ%2BTh6Ch16E%2FrnehKeObPlXSh%2BlCQYye3UAY0UfE5p%2FEWsBwi1FjwEiB5xA9n%2B4xyCh8nPxCcZvRoZIGzllonbVTkMQLX946Af9TVnEmzBJwHXGNG%2BM7lc7ePTlg1uhskeZY6vq1H9Orxwwzg52fBqJiBvEjSB5w1BNb0Sgzn0%7Ctkp%3ABk9SR5DAr-2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/OaEAAeSwJK9qiopz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787472174178,
-        "lastSeen": 1788077121012
+        "lastSeen": 1788163324416
       },
       "bestPsa10": {
         "itemId": "117327561399",
@@ -53,29 +53,29 @@
         "priceC": 150000,
         "shippingC": 599,
         "landedC": 150599,
-        "url": "https://www.ebay.com/itm/117327561399?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M18V4NTRYHAM2KCEBXC98X6E&hash=item1b514482b7:g:BnEAAeSwY0ppwW7Y&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAPGo87bwWbesB5WQLhA%2FPpLKFgVYCqAHDCNotrpzORO8TMcZS0a9UfpjEqgLvUdCqnRPLbWxSjAsIgHZLxELfuQGXpiPnmg%2FBiqFetDd4vmREGZcG53zQJfykVzozvUp2H5lNKIMzlzngru6aqjhfyWmV7zofnaRr%2FRs3a6XQb64nw7UP6yNtfjx%2FNzdnWPuStpjNXu9P%2BFW4Ls2ya2177DjSJhh%2BijWrC6I0JUS75hEPZZSv1GgMAe2kQyAwL8hVgYJiLci5Ib0bkvYJtC0nycPktkl5s2Ucyi%2FmuC57HBnjU1mhtCeDnWRZ573XVlSc%3D%7Ctkp%3ABk9SR9LdkpuKaA",
+        "url": "https://www.ebay.com/itm/117327561399?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M1BDBVZWX5135XM4GHD1KFRA&hash=item1b514482b7:g:BnEAAeSwY0ppwW7Y&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBzuuc5NV19PRZgm1YBFyy5x5uV5%2Fas7BztMp9il7ev4xc%2FE4zNDWBJtL2VO8fbKnvH4OCaxsFhLKxldWz89jtR68dhR8vuTJciuziLxywNyeif7Llh3cCjrNrSVWS95CssDvyY6HNMzsoAfWlWWSQA7Jx2iCLHvXLliJMMsPt36bjn6euEBfgjA5vEM9YDLdCX4ahyWzNmWCoi%2BtVwC4esd9gQhtfZ%2FceDPNg5tqShAJw4iNmMmgFt%2BaRtXd15EwDNDvVuY8t96mXBY7Ayzd%2Fl%7Ctkp%3ABk9SR5LAr-2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BnEAAeSwY0ppwW7Y/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787472174178,
-        "lastSeen": 1788077121012
+        "lastSeen": 1788163324416
       },
       "bestPsa9": {
         "itemId": "407177278610",
         "title": "Pokémon 2003 Aquapolis Slowbro Rare 33/147 PSA MINT 9Opens in a new window or tab",
-        "priceC": 16000,
+        "priceC": 15500,
         "shippingC": 548,
-        "landedC": 16548,
-        "url": "https://www.ebay.com/itm/407177278610?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M18V4NTR0RMDDEZJAS19NQBB&hash=item5ecda83492:g:KoEAAeSwLcVqkgne&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xATIwtXRe2rKB4clafNooJUp%2F25%2FyOOuubMBGqDJZZiCWzsh6MKjatKG%2F3%2BjpBogwQw4SjhLtBZ7nKBP%2FgOpLq4RdV%2FIZp6jAt9OAqqCEpZo6lyNM4RSqhQUQEFp0oKK1UCvq4IVcs8hDCf85kUuSIhoTYbZpfkIl1Xj02XQNvne0LaCMl7xgzjHcGRVgwMEdYOHIJ0ADqb0Og7ZSSyimiUO7yGYimZIvUHETlGVM%2FRyQn3Hnhg9C1LxEpP%2FNDc0JJbloPMlm%2FI%2B4nrspHbBTZU%7Ctkp%3ABk9SR9DdkpuKaA",
+        "landedC": 16048,
+        "url": "https://www.ebay.com/itm/407177278610?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M1BDBVZVKNF5FFQ9QSC1VB25&hash=item5ecda83492:g:KoEAAeSwLcVqkgne&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBAQGPlwXJMCxBx3RvfXF1ZMWeDwRRiGEZNctfk6DxeAUsW3CW8ApT4%2BPX1oJCDs%2B05KY8jWgNXXWPlkXtFFW2hsm1whOe%2BqgdL5vUSfpi3Cr5f23nv%2B71HEutksMWpHuAfeYz8gB7rXv%2F6LezVT9U0Du7Kn9qcdYyJXa1pEWuc%2BD%2BevmsTPPWkFj%2Fx5u4nSnUr7XvHnHeP5XNT7vu%2BYBxIe2gA%2F8l4Hrq6hk1QSlHeiMcDZBReIKoO%2BMpnD3XKCTtwmsklyJrvvn4Rr%2FuHWbERMxe7wcPsX6oIb5zkIgzIydbwo8WwPOjNFtfwHcsrY%2Fc%3D%7Ctkp%3ABk9SR5DAr-2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/KoEAAeSwLcVqkgne/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787990446147,
-        "lastSeen": 1788077121012
+        "lastSeen": 1788163324416
       },
       "counts": {
         "cgc10Bin": 1,
@@ -107,14 +107,14 @@
           "priceC": 84900,
           "shippingC": 1000,
           "landedC": 85900,
-          "url": "https://www.ebay.com/itm/278304132268?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M18V4NTR6R91ETC03FMNEV9Z&hash=item40cc380cac:g:OaEAAeSwJK9qiopz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDtGFe74GEjtvo92YsL3YVu452tNqpkdpLX6hhxGkOn27B1fQDfXmKrHiRcFuUBOncqXABCyUneswSe4B0CiNQ%2BBcCwbJARbbtqMzIZL4opuDbSKsP7hfrCjiK%2BO%2FX7b8k9WIj607mDZHcLLHpKfw%2FU4K%2FVBGZfP5Pt1y3pi4gqz4wx9YZdO7F4dpLjUHWMNFOHqiBzaM23JLYHwhSM2Lxp759SCVqTKlwyVfiFBacrz9Etk2iuijdPsfNeVnGM%2BvRShHQDuFXlJy%2BJ9X8Jk2IOtLAKxxVfJKUeOaUrZ90%2FRwHjCf8AydBImN80NtAbXVs%3D%7Ctkp%3ABk9SR9LdkpuKaA",
+          "url": "https://www.ebay.com/itm/278304132268?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M1BDBVZWW8M4WNNFD1GHEHDM&hash=item40cc380cac:g:OaEAAeSwJK9qiopz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD9WGOO%2F70E7hWR2zECEZ1f--%2F7lu7oSSE0B8wZ7Ke9PhkT6xC%2BTmjx5KttvA9DBtcOxEStYjZdrwG77B%2Fq5edkXCVauIz7y4bGod993wJIr9dJ%2BTh6Ch16E%2FrnehKeObPlXSh%2BlCQYye3UAY0UfE5p%2FEWsBwi1FjwEiB5xA9n%2B4xyCh8nPxCcZvRoZIGzllonbVTkMQLX946Af9TVnEmzBJwHXGNG%2BM7lc7ePTlg1uhskeZY6vq1H9Orxwwzg52fBqJiBvEjSB5w1BNb0Sgzn0%7Ctkp%3ABk9SR5DAr-2KaA",
           "imageUrl": "https://i.ebayimg.com/images/g/OaEAAeSwJK9qiopz/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787472174178,
-          "lastSeen": 1788077121012
+          "lastSeen": 1788163324416
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -136,53 +136,53 @@
         "firstOpportunityAt": 1787472174178
       },
       "firstOpportunityAt": 1787472174178,
-      "updatedAt": 1788077121012
+      "updatedAt": 1788163324416
     },
     "prices": {
       "variantId": 2520,
       "ungradedC": 8400,
-      "grade9C": 14000,
-      "grade95C": 15400,
-      "cgc10C": 9489,
+      "grade9C": 13844,
+      "grade95C": 15200,
+      "cgc10C": 9483,
       "cgc10PristineC": 57500,
       "psa10C": 67000,
       "psa9Pop": 26,
       "psa10Pop": 34,
       "cgc10Pop": 26,
       "bgs10C": 87100,
-      "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per year\",\"volume: 4 sales per year\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787904041922
+      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 4 sales per year\":\"volume: \\n    2 sales per year\"}",
+      "fetchedAt": 1788163132510
     },
     "listings": [
       {
         "itemId": "407177278610",
         "title": "Pokémon 2003 Aquapolis Slowbro Rare 33/147 PSA MINT 9Opens in a new window or tab",
-        "priceC": 16000,
+        "priceC": 15500,
         "shippingC": 548,
-        "landedC": 16548,
-        "url": "https://www.ebay.com/itm/407177278610?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M18V4NTR0RMDDEZJAS19NQBB&hash=item5ecda83492:g:KoEAAeSwLcVqkgne&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xATIwtXRe2rKB4clafNooJUp%2F25%2FyOOuubMBGqDJZZiCWzsh6MKjatKG%2F3%2BjpBogwQw4SjhLtBZ7nKBP%2FgOpLq4RdV%2FIZp6jAt9OAqqCEpZo6lyNM4RSqhQUQEFp0oKK1UCvq4IVcs8hDCf85kUuSIhoTYbZpfkIl1Xj02XQNvne0LaCMl7xgzjHcGRVgwMEdYOHIJ0ADqb0Og7ZSSyimiUO7yGYimZIvUHETlGVM%2FRyQn3Hnhg9C1LxEpP%2FNDc0JJbloPMlm%2FI%2B4nrspHbBTZU%7Ctkp%3ABk9SR9DdkpuKaA",
+        "landedC": 16048,
+        "url": "https://www.ebay.com/itm/407177278610?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M1BDBVZVKNF5FFQ9QSC1VB25&hash=item5ecda83492:g:KoEAAeSwLcVqkgne&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBAQGPlwXJMCxBx3RvfXF1ZMWeDwRRiGEZNctfk6DxeAUsW3CW8ApT4%2BPX1oJCDs%2B05KY8jWgNXXWPlkXtFFW2hsm1whOe%2BqgdL5vUSfpi3Cr5f23nv%2B71HEutksMWpHuAfeYz8gB7rXv%2F6LezVT9U0Du7Kn9qcdYyJXa1pEWuc%2BD%2BevmsTPPWkFj%2Fx5u4nSnUr7XvHnHeP5XNT7vu%2BYBxIe2gA%2F8l4Hrq6hk1QSlHeiMcDZBReIKoO%2BMpnD3XKCTtwmsklyJrvvn4Rr%2FuHWbERMxe7wcPsX6oIb5zkIgzIydbwo8WwPOjNFtfwHcsrY%2Fc%3D%7Ctkp%3ABk9SR5DAr-2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/KoEAAeSwLcVqkgne/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787990446147,
-        "lastSeen": 1788077121012
+        "lastSeen": 1788163324416
       },
       {
-        "itemId": "800523221796",
+        "itemId": "800588566957",
         "title": "2003 Aquapolis Slowbro 33/147 CGC PRISTINE 10 POP 4 PokemonOpens in a new window or tab",
         "priceC": 57500,
         "shippingC": 0,
         "landedC": 57500,
-        "url": "https://www.ebay.com/itm/800523221796?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M18V4NTRT0TRZNPVWF91NM3G&hash=itemba62e6fb24:g:s1YAAeSwmIdqKGN6&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBE9k%2FDMsjETkiRd4JRTjXWcHbdpJzj65gMeC0pD0IH9VJBK0QqY62gH1UPFTysXhY6HqX87jywdAH%2BjmR2BrvCZ6uqEOFRIq0R9KB8kSn6UQon%2B5mL%2BF5nzedF%2BABmygx7PxdRQpIaN%2FUZ4BRLFy%2FgrrEVCss%2Fyt2v5TLwuLEO69EsRNXngK93j0EBJ0bZcmue0jIdPcgJptEbyJHxPb2tkc91siMcySjgZddIEl3wVlRKP7p8u4BJvomys2fY0lTaGNzwPZVpE3FWkxBmxydieTVBqLQat7AW8pddiPlaAeTdwZtemI9stpY0INnpSOs%3D%7Ctkp%3ABk9SR9DdkpuKaA",
+        "url": "https://www.ebay.com/itm/800588566957?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M1BDBVZWHXHWTZ4GF5PZFJMC&hash=itemba66cc11ad:g:s1YAAeSwmIdqKGN6&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBCleoB6waub6gDQemuOHQrSeKTaLw0IriRJXZpEcmdK4BixjaicmmOg9BpqkgDHH0lif%2B%2FcsvDha5AmFmwi9VvJdZ97bq35noOsyTpq0kJqAhhKB1jlAmNz%2BDQI7%2B3k0MCVKtdS3uxl7%2FEQUaRbhHkRigW34F2kmgD0Y%2FBRECBEEKpjSLTdfMnXUFTTAwe%2BlM4dY5wICI8xNuXGIqxiQEHpYdAAngkKdzBfJANb%2BoQQiOeJ%2FApzm8v7v0AuerzCSGepmok8fM8Lcs%2FeJtZVW%2Fmdx1j8jrn0vCZigNQBR5vje0EGailQ9aX9oC84qVnKmI%3D%7Ctkp%3ABk9SR5DAr-2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/s1YAAeSwmIdqKGN6/s-l500.webp",
-        "listingType": "bin",
+        "listingType": "auction",
         "bucket": "pristine10",
         "legacyCgc95": false,
         "freshness": "live",
-        "firstSeen": 1787054322608,
-        "lastSeen": 1788077121012
+        "firstSeen": 1788163324416,
+        "lastSeen": 1788163324416
       },
       {
         "itemId": "278304132268",
@@ -190,14 +190,14 @@
         "priceC": 84900,
         "shippingC": 1000,
         "landedC": 85900,
-        "url": "https://www.ebay.com/itm/278304132268?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M18V4NTR6R91ETC03FMNEV9Z&hash=item40cc380cac:g:OaEAAeSwJK9qiopz&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDtGFe74GEjtvo92YsL3YVu452tNqpkdpLX6hhxGkOn27B1fQDfXmKrHiRcFuUBOncqXABCyUneswSe4B0CiNQ%2BBcCwbJARbbtqMzIZL4opuDbSKsP7hfrCjiK%2BO%2FX7b8k9WIj607mDZHcLLHpKfw%2FU4K%2FVBGZfP5Pt1y3pi4gqz4wx9YZdO7F4dpLjUHWMNFOHqiBzaM23JLYHwhSM2Lxp759SCVqTKlwyVfiFBacrz9Etk2iuijdPsfNeVnGM%2BvRShHQDuFXlJy%2BJ9X8Jk2IOtLAKxxVfJKUeOaUrZ90%2FRwHjCf8AydBImN80NtAbXVs%3D%7Ctkp%3ABk9SR9LdkpuKaA",
+        "url": "https://www.ebay.com/itm/278304132268?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M1BDBVZWW8M4WNNFD1GHEHDM&hash=item40cc380cac:g:OaEAAeSwJK9qiopz&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xD9WGOO%2F70E7hWR2zECEZ1f--%2F7lu7oSSE0B8wZ7Ke9PhkT6xC%2BTmjx5KttvA9DBtcOxEStYjZdrwG77B%2Fq5edkXCVauIz7y4bGod993wJIr9dJ%2BTh6Ch16E%2FrnehKeObPlXSh%2BlCQYye3UAY0UfE5p%2FEWsBwi1FjwEiB5xA9n%2B4xyCh8nPxCcZvRoZIGzllonbVTkMQLX946Af9TVnEmzBJwHXGNG%2BM7lc7ePTlg1uhskeZY6vq1H9Orxwwzg52fBqJiBvEjSB5w1BNb0Sgzn0%7Ctkp%3ABk9SR5DAr-2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/OaEAAeSwJK9qiopz/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787472174178,
-        "lastSeen": 1788077121012
+        "lastSeen": 1788163324416
       },
       {
         "itemId": "398316994046",
@@ -205,14 +205,14 @@
         "priceC": 120000,
         "shippingC": 528,
         "landedC": 120528,
-        "url": "https://www.ebay.com/itm/398316994046?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=17043371974&itmmeta=01M18V4NTR0DQS6CAMRN0QTYR5&hash=item5cbd8afdfe:g:xMYAAeSwvEZqi3wD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDrCdbfp9xtqiJrRUaYFlo%2F55SnJK1jjaWvchkaID1gh6iI9lIxLy6hSPE4wxd2vFQI4tT4YDiGpsduMSHkAI5sykrckQs18Oe%2BEDr650S%2BkUkZ6FWylVUcI1p9E8VZah%2BxFcybb6Xxh%2B6kCyeH7iZd445jndqoxOAZkAOJ5t6%2BLYij6TncXuG%2BJTXbpjqkn74FwtDNNEO9IGTsgHR4bpajULrRMMAb%2BvvWMf7tGhVUnbbZBf7wX7dx1RHyxIe%2FJXuXTGqLbJ156ZE2Q71JzDNQ%7Ctkp%3ABk9SR9LdkpuKaA",
+        "url": "https://www.ebay.com/itm/398316994046?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=17043371974&itmmeta=01M1BDBVZW5C1TW133C3QDE07E&hash=item5cbd8afdfe:g:xMYAAeSwvEZqi3wD&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDrCdbfp9xtqiJrRUaYFlo%2F55SnJK1jjaWvchkaID1gh%2FHv70SGVmbke7G3EyNmpGFRXhRSj%2B8Bpg40B9S4i61vmOUD0lc7NqLHPryq6NBRHVqpp6c6BKp9y3BEFeRF9D2FyhZb%2B0ezThkMsAI1SO%2BLJjaq8WHyovpCZl82KPe3T%2FrL6AflLEetkWL%2B887gDhuq0sxGuA3l2vPPWxe9VKpIJN2fEDyPCGKoHF0JHJIO6t%2FskunT73wqAa5UpBoComZNPsuHPZIM7VXfz24NbJz7%7Ctkp%3ABk9SR5LAr-2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/xMYAAeSwvEZqi3wD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558075872,
-        "lastSeen": 1788077121012
+        "lastSeen": 1788163324416
       },
       {
         "itemId": "117327561399",
@@ -220,18 +220,31 @@
         "priceC": 150000,
         "shippingC": 599,
         "landedC": 150599,
-        "url": "https://www.ebay.com/itm/117327561399?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M18V4NTRYHAM2KCEBXC98X6E&hash=item1b514482b7:g:BnEAAeSwY0ppwW7Y&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAPGo87bwWbesB5WQLhA%2FPpLKFgVYCqAHDCNotrpzORO8TMcZS0a9UfpjEqgLvUdCqnRPLbWxSjAsIgHZLxELfuQGXpiPnmg%2FBiqFetDd4vmREGZcG53zQJfykVzozvUp2H5lNKIMzlzngru6aqjhfyWmV7zofnaRr%2FRs3a6XQb64nw7UP6yNtfjx%2FNzdnWPuStpjNXu9P%2BFW4Ls2ya2177DjSJhh%2BijWrC6I0JUS75hEPZZSv1GgMAe2kQyAwL8hVgYJiLci5Ib0bkvYJtC0nycPktkl5s2Ucyi%2FmuC57HBnjU1mhtCeDnWRZ573XVlSc%3D%7Ctkp%3ABk9SR9LdkpuKaA",
+        "url": "https://www.ebay.com/itm/117327561399?_skw=%28slowbro%29+%2833%2Caquapolis%29+%28CGC%2CPSA%29&epid=21043375369&itmmeta=01M1BDBVZWX5135XM4GHD1KFRA&hash=item1b514482b7:g:BnEAAeSwY0ppwW7Y&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBzuuc5NV19PRZgm1YBFyy5x5uV5%2Fas7BztMp9il7ev4xc%2FE4zNDWBJtL2VO8fbKnvH4OCaxsFhLKxldWz89jtR68dhR8vuTJciuziLxywNyeif7Llh3cCjrNrSVWS95CssDvyY6HNMzsoAfWlWWSQA7Jx2iCLHvXLliJMMsPt36bjn6euEBfgjA5vEM9YDLdCX4ahyWzNmWCoi%2BtVwC4esd9gQhtfZ%2FceDPNg5tqShAJw4iNmMmgFt%2BaRtXd15EwDNDvVuY8t96mXBY7Ayzd%2Fl%7Ctkp%3ABk9SR5LAr-2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/BnEAAeSwY0ppwW7Y/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787472174178,
-        "lastSeen": 1788077121012
+        "lastSeen": 1788163324416
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 8189443,
+          "saleDate": "2026-08-31",
+          "priceC": 4800,
+          "title": "Pokemon TCG - Slowbro Aquapolis 33/147 Regular Non Holo Rare 33/147",
+          "url": "https://www.ebay.com/itm/298605407632?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 3931908,
           "saleDate": "2026-08-23",
@@ -1564,9 +1577,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 98,
+      "englishSaleCount": 99,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787904040081
+      "lastCapturedAt": 1788163130838
     }
   }
 }

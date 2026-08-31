@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 10838,
@@ -19,33 +19,33 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/12093295032d771ade2b0cd717090056d8b8c94fba34e1a04894130009c1e4a6/1600.jpg",
       "popularityScore": 76,
       "market": {
-        "ungradedC": 2750,
+        "ungradedC": 2704,
         "grade9C": 7607,
         "grade95C": 9499,
-        "cgc10C": 74900,
-        "cgc10PristineC": 134800,
-        "psa10C": 124884,
-        "bgs10C": 162300,
+        "cgc10C": 71800,
+        "cgc10PristineC": 129200,
+        "psa10C": 119632,
+        "bgs10C": 155500,
         "psa9Pop": 35,
         "psa10Pop": 3,
         "cgc10Pop": 3,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\",\"volume: 4 sales per year\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787906059001
+        "fetchedAt": 1788165201331
       },
       "bestCgc10": {
         "itemId": "327322967660",
         "title": "Corsola CGC 9.5 37/115 EX Unseen Forces Reverse Holo Pokemon TCG EnglishOpens in a new window or tab",
         "priceC": 13999,
-        "shippingC": 548,
-        "landedC": 14547,
-        "url": "https://www.ebay.com/itm/327322967660?_skw=%28corsola%29+%2837%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=13043374438&itmmeta=01M18WMF51YJ4K54WHMXVVAZ3H&hash=item4c35f81e6c:g:tZQAAeSw2HNqiym9&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDeYqwMYDHnQJwulXMOftKzl1f6tK4mXE74BqOK2lAf8kYRusBZ1hxFt7StAkKBO%2F8s2gXx%2BbM7Za1RGkbsxD1WzgRp3bg9H4gpY6svkUmkup5lfqAF17yP9COOThIS1GaFLQsXaITed1MroJrN9fIlIJTFbuMyYgd%2BHWwK%2BxASRHk2H0mT9FF5NMx29EqSm%2FOsM2VpWxY1IkUuuiYYF6EHvy0BBG8Qgy5TwKEe6ayHA%2Fx9K8zsZF6az553jvqhNEgQeVPtt5Rf%2BB2JK7Emr6WS%7Ctkp%3ABk9SR9ry0ZyKaA",
+        "shippingC": 562,
+        "landedC": 14561,
+        "url": "https://www.ebay.com/itm/327322967660?_skw=%28corsola%29+%2837%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=13043374438&itmmeta=01M1BF95NCJ0WCQSGYV1N128JK&hash=item4c35f81e6c:g:tZQAAeSw2HNqiym9&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDC26tkZUiK23Jf1v5eUvXrBEoppsQV9BQc90%2BY9mil%2BcS0LxOYXHSq%2Fj3JGqg1lHOZf74cU81xLBFQwL5sZptARA8jsXsBMX6OCTBv7xMlPvJyvpR3PI4mfpmvBBqPtF4%2B2X9%2FYfMSw6D4pkRXC%2Bn19jT%2B6sLmH%2F2V0xuG0GUd7VGxGYEWa4YvDzg8Mt3VkmJ%2FO1uIFzj88jEseJt4l31c6XI7MrJPl1bLh%2FHu1IykohY8yZGeFtciBNNgVui%2Bu8GbCd5h1Y3k7I%2FJGVdHVsRhDH1r6FixF2V34fdveGlic5HR9K6XM%2B%2Blm227GTSVpQI%3D%7Ctkp%3ABk9SR_japO-KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/tZQAAeSw2HNqiym9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787559919428,
-        "lastSeen": 1788078636500
+        "lastSeen": 1788165281907
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -66,11 +66,11 @@
           "declaredValueCapC": 150000,
           "turnaroundBizDays": 50
         },
-        "cgc10CostC": 14547,
+        "cgc10CostC": 14561,
         "submissionFeeC": 7999,
-        "totalCostC": 22546,
-        "psa10ValueC": 124884,
-        "ratio": 5.539075667524173
+        "totalCostC": 22560,
+        "psa10ValueC": 119632,
+        "ratio": 5.302836879432624
       },
       "withoutLegacyCgc95": {
         "bestCgc10": null,
@@ -80,38 +80,38 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787559919428,
-      "updatedAt": 1788078636500
+      "updatedAt": 1788165281907
     },
     "prices": {
       "variantId": 10838,
-      "ungradedC": 2750,
+      "ungradedC": 2704,
       "grade9C": 7607,
       "grade95C": 9499,
-      "cgc10C": 74900,
-      "cgc10PristineC": 134800,
-      "psa10C": 124884,
+      "cgc10C": 71800,
+      "cgc10PristineC": 129200,
+      "psa10C": 119632,
       "psa9Pop": 35,
       "psa10Pop": 3,
       "cgc10Pop": 3,
-      "bgs10C": 162300,
+      "bgs10C": 155500,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\",\"volume: 4 sales per year\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787906059001
+      "fetchedAt": 1788165201331
     },
     "listings": [
       {
         "itemId": "327322967660",
         "title": "Corsola CGC 9.5 37/115 EX Unseen Forces Reverse Holo Pokemon TCG EnglishOpens in a new window or tab",
         "priceC": 13999,
-        "shippingC": 548,
-        "landedC": 14547,
-        "url": "https://www.ebay.com/itm/327322967660?_skw=%28corsola%29+%2837%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=13043374438&itmmeta=01M18WMF51YJ4K54WHMXVVAZ3H&hash=item4c35f81e6c:g:tZQAAeSw2HNqiym9&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDeYqwMYDHnQJwulXMOftKzl1f6tK4mXE74BqOK2lAf8kYRusBZ1hxFt7StAkKBO%2F8s2gXx%2BbM7Za1RGkbsxD1WzgRp3bg9H4gpY6svkUmkup5lfqAF17yP9COOThIS1GaFLQsXaITed1MroJrN9fIlIJTFbuMyYgd%2BHWwK%2BxASRHk2H0mT9FF5NMx29EqSm%2FOsM2VpWxY1IkUuuiYYF6EHvy0BBG8Qgy5TwKEe6ayHA%2Fx9K8zsZF6az553jvqhNEgQeVPtt5Rf%2BB2JK7Emr6WS%7Ctkp%3ABk9SR9ry0ZyKaA",
+        "shippingC": 562,
+        "landedC": 14561,
+        "url": "https://www.ebay.com/itm/327322967660?_skw=%28corsola%29+%2837%2Cunseen%2Cforces%29+%28CGC%2CPSA%29&epid=13043374438&itmmeta=01M1BF95NCJ0WCQSGYV1N128JK&hash=item4c35f81e6c:g:tZQAAeSw2HNqiym9&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDC26tkZUiK23Jf1v5eUvXrBEoppsQV9BQc90%2BY9mil%2BcS0LxOYXHSq%2Fj3JGqg1lHOZf74cU81xLBFQwL5sZptARA8jsXsBMX6OCTBv7xMlPvJyvpR3PI4mfpmvBBqPtF4%2B2X9%2FYfMSw6D4pkRXC%2Bn19jT%2B6sLmH%2F2V0xuG0GUd7VGxGYEWa4YvDzg8Mt3VkmJ%2FO1uIFzj88jEseJt4l31c6XI7MrJPl1bLh%2FHu1IykohY8yZGeFtciBNNgVui%2Bu8GbCd5h1Y3k7I%2FJGVdHVsRhDH1r6FixF2V34fdveGlic5HR9K6XM%2B%2Blm227GTSVpQI%3D%7Ctkp%3ABk9SR_japO-KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/tZQAAeSw2HNqiym9/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787559919428,
-        "lastSeen": 1788078636500
+        "lastSeen": 1788165281907
       }
     ],
     "marketHistory": {
@@ -1345,7 +1345,7 @@
       ],
       "englishSaleCount": 93,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787906057131
+      "lastCapturedAt": 1788165199222
     }
   }
 }

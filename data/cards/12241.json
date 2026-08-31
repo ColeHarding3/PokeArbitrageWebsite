@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 12241,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/7045aefcd9949e62ee874543d0c1bb5d02c88e0e34ed5fd8015bbc3c6a21ac68/1600.jpg",
       "popularityScore": 75,
       "market": {
-        "ungradedC": 1250,
+        "ungradedC": 1500,
         "grade9C": 36121,
         "grade95C": 39700,
-        "cgc10C": 29690,
-        "cgc10PristineC": 53400,
-        "psa10C": 212500,
-        "bgs10C": 276300,
+        "cgc10C": 28970,
+        "cgc10PristineC": 52100,
+        "psa10C": 400000,
+        "bgs10C": 520000,
         "psa9Pop": 69,
         "psa10Pop": 14,
         "cgc10Pop": 6,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787907826115
+        "fetchedAt": 1788166987171
       },
       "bestCgc10": {
         "itemId": "257501484298",
@@ -38,14 +38,14 @@
         "priceC": 150000,
         "shippingC": 0,
         "landedC": 150000,
-        "url": "https://www.ebay.com/itm/257501484298?_skw=%28celebi%29+%287%2Cmysterious%2Ctreasures%29+%28CGC%2CPSA%29&epid=23043383855&itmmeta=01M18Y77EZSC3HPC2EB30MFPYX&hash=item3bf448d50a:g:~6MAAOSwk25nZa5W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xByRvZOm0k1A4dMSRKCVxht7Awg3ae4Jc%2F5dpJFiRv%2FXZzdTp8cQulOu6AelJjN%2BY0BH3cAEwuA%2BAPGvec1VuxR86q0TOKgyu35Z8qfj7BhpOKfW28hdCY9K6BlirK2Iw1me46MCL%2BzEfY8b5ZEC735%2FRfdB%2BIyt3I9xVNWYrKMDwVPgpDuAZmv77st96IW3J7LbahkFoThvDXSTXiecMNOLBkLV20Vn8WYQqKfvY%2B7hurwcN1AQx9Ef5iDilFmLuWqHMnW%2B%2FS6UXgf1SrW6CiFE0rbkxscZetlkLOSWHZxOkIjmej38an7BUTML2R6hYvc4B--h%2FEwKAqwwLp77cbo%7Ctkp%3ABk9SR973nJ6KaA",
+        "url": "https://www.ebay.com/itm/257501484298?_skw=%28celebi%29+%287%2Cmysterious%2Ctreasures%29+%28CGC%2CPSA%29&epid=23043383855&itmmeta=01M1BH0WP6DNRYVBQF0WAFWNGB&hash=item3bf448d50a:g:~6MAAOSwk25nZa5W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xByRvZOm0k1A4dMSRKCVxht7Awg3ae4Jc%2F5dpJFiRv%2FXZzdTp8cQulOu6AelJjN%2BY0BH3cAEwuA%2BAPGvec1VuxR86q0TOKgyu35Z8qfj7BhpOKfW28hdCY9K6BlirK2Iw1ahWcJWgNjqpfxLoeMG4r680p6aMqjuhSN6mRQHiDsTSwf3cM%2FK%2FL%2Fzdsinvi0FV6yL5dv8H%2FFVpsEaxITwdtPOq%2BweNUzsg0MJRGJyU9rO%2FaSINIYMumPNgFg3JSqrRYtv1X1FLzWeNcrMFSo7aPs%2FVzDL7P%2Fgp2OGlN3sGlq5MqrJL4qU2i6v8xPaijKo0b6U4rUZb2NY8rQQDMaKdZf%7Ctkp%3ABk9SR7zLg_GKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~6MAAOSwk25nZa5W/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
-        "lastSeen": 1788080376122
+        "lastSeen": 1788167158524
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -60,17 +60,17 @@
       "ratio": {
         "ok": true,
         "tier": {
-          "id": "express",
-          "label": "Express",
-          "feeC": 14900,
-          "declaredValueCapC": 250000,
-          "turnaroundBizDays": 30
+          "id": "superExpress",
+          "label": "Super Express",
+          "feeC": 34900,
+          "declaredValueCapC": 500000,
+          "turnaroundBizDays": 15
         },
         "cgc10CostC": 150000,
-        "submissionFeeC": 14900,
-        "totalCostC": 164900,
-        "psa10ValueC": 212500,
-        "ratio": 1.288659793814433
+        "submissionFeeC": 34900,
+        "totalCostC": 184900,
+        "psa10ValueC": 400000,
+        "ratio": 2.1633315305570577
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -79,51 +79,51 @@
           "priceC": 150000,
           "shippingC": 0,
           "landedC": 150000,
-          "url": "https://www.ebay.com/itm/257501484298?_skw=%28celebi%29+%287%2Cmysterious%2Ctreasures%29+%28CGC%2CPSA%29&epid=23043383855&itmmeta=01M18Y77EZSC3HPC2EB30MFPYX&hash=item3bf448d50a:g:~6MAAOSwk25nZa5W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xByRvZOm0k1A4dMSRKCVxht7Awg3ae4Jc%2F5dpJFiRv%2FXZzdTp8cQulOu6AelJjN%2BY0BH3cAEwuA%2BAPGvec1VuxR86q0TOKgyu35Z8qfj7BhpOKfW28hdCY9K6BlirK2Iw1me46MCL%2BzEfY8b5ZEC735%2FRfdB%2BIyt3I9xVNWYrKMDwVPgpDuAZmv77st96IW3J7LbahkFoThvDXSTXiecMNOLBkLV20Vn8WYQqKfvY%2B7hurwcN1AQx9Ef5iDilFmLuWqHMnW%2B%2FS6UXgf1SrW6CiFE0rbkxscZetlkLOSWHZxOkIjmej38an7BUTML2R6hYvc4B--h%2FEwKAqwwLp77cbo%7Ctkp%3ABk9SR973nJ6KaA",
+          "url": "https://www.ebay.com/itm/257501484298?_skw=%28celebi%29+%287%2Cmysterious%2Ctreasures%29+%28CGC%2CPSA%29&epid=23043383855&itmmeta=01M1BH0WP6DNRYVBQF0WAFWNGB&hash=item3bf448d50a:g:~6MAAOSwk25nZa5W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xByRvZOm0k1A4dMSRKCVxht7Awg3ae4Jc%2F5dpJFiRv%2FXZzdTp8cQulOu6AelJjN%2BY0BH3cAEwuA%2BAPGvec1VuxR86q0TOKgyu35Z8qfj7BhpOKfW28hdCY9K6BlirK2Iw1ahWcJWgNjqpfxLoeMG4r680p6aMqjuhSN6mRQHiDsTSwf3cM%2FK%2FL%2Fzdsinvi0FV6yL5dv8H%2FFVpsEaxITwdtPOq%2BweNUzsg0MJRGJyU9rO%2FaSINIYMumPNgFg3JSqrRYtv1X1FLzWeNcrMFSo7aPs%2FVzDL7P%2Fgp2OGlN3sGlq5MqrJL4qU2i6v8xPaijKo0b6U4rUZb2NY8rQQDMaKdZf%7Ctkp%3ABk9SR7zLg_GKaA",
           "imageUrl": "https://i.ebayimg.com/images/g/~6MAAOSwk25nZa5W/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787220120669,
-          "lastSeen": 1788080376122
+          "lastSeen": 1788167158524
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "ratio": {
           "ok": true,
           "tier": {
-            "id": "express",
-            "label": "Express",
-            "feeC": 14900,
-            "declaredValueCapC": 250000,
-            "turnaroundBizDays": 30
+            "id": "superExpress",
+            "label": "Super Express",
+            "feeC": 34900,
+            "declaredValueCapC": 500000,
+            "turnaroundBizDays": 15
           },
           "cgc10CostC": 150000,
-          "submissionFeeC": 14900,
-          "totalCostC": 164900,
-          "psa10ValueC": 212500,
-          "ratio": 1.288659793814433
+          "submissionFeeC": 34900,
+          "totalCostC": 184900,
+          "psa10ValueC": 400000,
+          "ratio": 2.1633315305570577
         },
         "firstOpportunityAt": 1787220120669
       },
       "firstOpportunityAt": 1787220120669,
-      "updatedAt": 1788080376122
+      "updatedAt": 1788167158524
     },
     "prices": {
       "variantId": 12241,
-      "ungradedC": 1250,
+      "ungradedC": 1500,
       "grade9C": 36121,
       "grade95C": 39700,
-      "cgc10C": 29690,
-      "cgc10PristineC": 53400,
-      "psa10C": 212500,
+      "cgc10C": 28970,
+      "cgc10PristineC": 52100,
+      "psa10C": 400000,
       "psa9Pop": 69,
       "psa10Pop": 14,
       "cgc10Pop": 6,
-      "bgs10C": 276300,
+      "bgs10C": 520000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787907826115
+      "fetchedAt": 1788166987171
     },
     "listings": [
       {
@@ -132,14 +132,14 @@
         "priceC": 150000,
         "shippingC": 0,
         "landedC": 150000,
-        "url": "https://www.ebay.com/itm/257501484298?_skw=%28celebi%29+%287%2Cmysterious%2Ctreasures%29+%28CGC%2CPSA%29&epid=23043383855&itmmeta=01M18Y77EZSC3HPC2EB30MFPYX&hash=item3bf448d50a:g:~6MAAOSwk25nZa5W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xByRvZOm0k1A4dMSRKCVxht7Awg3ae4Jc%2F5dpJFiRv%2FXZzdTp8cQulOu6AelJjN%2BY0BH3cAEwuA%2BAPGvec1VuxR86q0TOKgyu35Z8qfj7BhpOKfW28hdCY9K6BlirK2Iw1me46MCL%2BzEfY8b5ZEC735%2FRfdB%2BIyt3I9xVNWYrKMDwVPgpDuAZmv77st96IW3J7LbahkFoThvDXSTXiecMNOLBkLV20Vn8WYQqKfvY%2B7hurwcN1AQx9Ef5iDilFmLuWqHMnW%2B%2FS6UXgf1SrW6CiFE0rbkxscZetlkLOSWHZxOkIjmej38an7BUTML2R6hYvc4B--h%2FEwKAqwwLp77cbo%7Ctkp%3ABk9SR973nJ6KaA",
+        "url": "https://www.ebay.com/itm/257501484298?_skw=%28celebi%29+%287%2Cmysterious%2Ctreasures%29+%28CGC%2CPSA%29&epid=23043383855&itmmeta=01M1BH0WP6DNRYVBQF0WAFWNGB&hash=item3bf448d50a:g:~6MAAOSwk25nZa5W&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xByRvZOm0k1A4dMSRKCVxht7Awg3ae4Jc%2F5dpJFiRv%2FXZzdTp8cQulOu6AelJjN%2BY0BH3cAEwuA%2BAPGvec1VuxR86q0TOKgyu35Z8qfj7BhpOKfW28hdCY9K6BlirK2Iw1ahWcJWgNjqpfxLoeMG4r680p6aMqjuhSN6mRQHiDsTSwf3cM%2FK%2FL%2Fzdsinvi0FV6yL5dv8H%2FFVpsEaxITwdtPOq%2BweNUzsg0MJRGJyU9rO%2FaSINIYMumPNgFg3JSqrRYtv1X1FLzWeNcrMFSo7aPs%2FVzDL7P%2Fgp2OGlN3sGlq5MqrJL4qU2i6v8xPaijKo0b6U4rUZb2NY8rQQDMaKdZf%7Ctkp%3ABk9SR7zLg_GKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~6MAAOSwk25nZa5W/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220120669,
-        "lastSeen": 1788080376122
+        "lastSeen": 1788167158524
       }
     ],
     "marketHistory": {
@@ -1764,7 +1764,7 @@
       ],
       "englishSaleCount": 135,
       "excludedLanguageCount": 3,
-      "lastCapturedAt": 1787907824432
+      "lastCapturedAt": 1788166985294
     }
   }
 }

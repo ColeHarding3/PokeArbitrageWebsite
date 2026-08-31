@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 3377,
@@ -19,10 +19,10 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/f35f159a8737e891077c47be58d795f4819c9eb593b70a3441428e29800ca3dd/1600.jpg",
       "popularityScore": 87,
       "market": {
-        "ungradedC": 20040,
-        "grade9C": 94321,
-        "grade95C": 103800,
-        "cgc10C": 164418,
+        "ungradedC": 20018,
+        "grade9C": 94200,
+        "grade95C": 103600,
+        "cgc10C": 163715,
         "cgc10PristineC": 305000,
         "psa10C": 620000,
         "bgs10C": 806000,
@@ -30,7 +30,7 @@
         "psa10Pop": 78,
         "cgc10Pop": 55,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787904778652
+        "fetchedAt": 1788163843420
       },
       "bestCgc10": {
         "itemId": "147527559620",
@@ -38,19 +38,19 @@
         "priceC": 299900,
         "shippingC": 597,
         "landedC": 300497,
-        "url": "https://www.ebay.com/itm/147527559620?_skw=%28latios%29+%2894%2Cdragon%29+%28CGC%2CPSA%29&epid=26043384018&itmmeta=01M18VM3GSAXAG6QWGD9MVT9T0&hash=item225953e9c4:g:GJUAAeSw6xpqjlEu&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAZoML7S8WVcRnkDCxgu3xroKHk3FAZWa5a%2FSW%2F9DCSy9jUenklOkLjOyd40xYVhWo8FhaKmefBRIVadDq9TGqu0hlZvVCuyEKIzRoP0WtYJNpD%2FAJeIT71GJTHTGl6E7ffs0GIzJO4OCtkkurKoRWRNGk5gWMiOnP9ixdoKEgUKDSRQsAzEHHvZ2YiB0lzCTpmxWLy2YWvwKoIFeq5yfF2F6XLJkenIRsoc8lcc7idqro9kAAzG%2F8xFqx%2ByojD1iRRBmJ3rFFPKHh86XadJRKD%7Ctkp%3ABk9SR9K40JuKaA",
+        "url": "https://www.ebay.com/itm/147527559620?_skw=%28latios%29+%2894%2Cdragon%29+%28CGC%2CPSA%29&epid=26043384018&itmmeta=01M1BE0850MBE7886EZASXVKVQ&hash=item225953e9c4:g:GJUAAeSw6xpqjlEu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBNwMIOuRIZmGnWLLMkuoMLt8FoXJ5lbUUMRk9vhD8OjzUF1IOsUYbokFzpD5pEyTiHfWN0FBmdbn70RyMo2FrjBjGEaK862Q%2BcKqQ1iBepTbUMDzSuSYGziQ0RRRVCS39g5AktMBVGEEIgNOjxJbQicjiltMFgbGJVayKLGeU2scdJkkiFyit6EusQFSVbWtBSiaPbN702L5j%2FLOxiLWuzw7kBcqn%2FQrQ%2B5W5HysQ9OCrmTtWs841qdwx4%2F0L2ANWAa5RqELNWqXLq%2F%2BYubF%2B3d7s%2F3eEOohcbPDWEME0t1AJ3hj0yCyfJ5hLqsV8AwKc%3D%7Ctkp%3ABk9SR_KCge6KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GJUAAeSw6xpqjlEu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787731584605,
-        "lastSeen": 1788077625509
+        "lastSeen": 1788164023217
       },
       "bestPsa10": null,
       "bestPsa9": null,
       "counts": {
-        "cgc10Bin": 1,
+        "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
@@ -79,16 +79,16 @@
           "priceC": 299900,
           "shippingC": 597,
           "landedC": 300497,
-          "url": "https://www.ebay.com/itm/147527559620?_skw=%28latios%29+%2894%2Cdragon%29+%28CGC%2CPSA%29&epid=26043384018&itmmeta=01M18VM3GSAXAG6QWGD9MVT9T0&hash=item225953e9c4:g:GJUAAeSw6xpqjlEu&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAZoML7S8WVcRnkDCxgu3xroKHk3FAZWa5a%2FSW%2F9DCSy9jUenklOkLjOyd40xYVhWo8FhaKmefBRIVadDq9TGqu0hlZvVCuyEKIzRoP0WtYJNpD%2FAJeIT71GJTHTGl6E7ffs0GIzJO4OCtkkurKoRWRNGk5gWMiOnP9ixdoKEgUKDSRQsAzEHHvZ2YiB0lzCTpmxWLy2YWvwKoIFeq5yfF2F6XLJkenIRsoc8lcc7idqro9kAAzG%2F8xFqx%2ByojD1iRRBmJ3rFFPKHh86XadJRKD%7Ctkp%3ABk9SR9K40JuKaA",
+          "url": "https://www.ebay.com/itm/147527559620?_skw=%28latios%29+%2894%2Cdragon%29+%28CGC%2CPSA%29&epid=26043384018&itmmeta=01M1BE0850MBE7886EZASXVKVQ&hash=item225953e9c4:g:GJUAAeSw6xpqjlEu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBNwMIOuRIZmGnWLLMkuoMLt8FoXJ5lbUUMRk9vhD8OjzUF1IOsUYbokFzpD5pEyTiHfWN0FBmdbn70RyMo2FrjBjGEaK862Q%2BcKqQ1iBepTbUMDzSuSYGziQ0RRRVCS39g5AktMBVGEEIgNOjxJbQicjiltMFgbGJVayKLGeU2scdJkkiFyit6EusQFSVbWtBSiaPbN702L5j%2FLOxiLWuzw7kBcqn%2FQrQ%2B5W5HysQ9OCrmTtWs841qdwx4%2F0L2ANWAa5RqELNWqXLq%2F%2BYubF%2B3d7s%2F3eEOohcbPDWEME0t1AJ3hj0yCyfJ5hLqsV8AwKc%3D%7Ctkp%3ABk9SR_KCge6KaA",
           "imageUrl": "https://i.ebayimg.com/images/g/GJUAAeSw6xpqjlEu/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787731584605,
-          "lastSeen": 1788077625509
+          "lastSeen": 1788164023217
         },
-        "cgc10Bin": 1,
+        "cgc10Bin": 2,
         "cgc10Auction": 0,
         "ratio": {
           "ok": true,
@@ -108,14 +108,14 @@
         "firstOpportunityAt": 1787731584605
       },
       "firstOpportunityAt": 1787731584605,
-      "updatedAt": 1788077625509
+      "updatedAt": 1788164023217
     },
     "prices": {
       "variantId": 3377,
-      "ungradedC": 20040,
-      "grade9C": 94321,
-      "grade95C": 103800,
-      "cgc10C": 164418,
+      "ungradedC": 20018,
+      "grade9C": 94200,
+      "grade95C": 103600,
+      "cgc10C": 163715,
       "cgc10PristineC": 305000,
       "psa10C": 620000,
       "psa9Pop": 381,
@@ -123,7 +123,7 @@
       "cgc10Pop": 55,
       "bgs10C": 806000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787904778652
+      "fetchedAt": 1788163843420
     },
     "listings": [
       {
@@ -132,18 +132,59 @@
         "priceC": 299900,
         "shippingC": 597,
         "landedC": 300497,
-        "url": "https://www.ebay.com/itm/147527559620?_skw=%28latios%29+%2894%2Cdragon%29+%28CGC%2CPSA%29&epid=26043384018&itmmeta=01M18VM3GSAXAG6QWGD9MVT9T0&hash=item225953e9c4:g:GJUAAeSw6xpqjlEu&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAZoML7S8WVcRnkDCxgu3xroKHk3FAZWa5a%2FSW%2F9DCSy9jUenklOkLjOyd40xYVhWo8FhaKmefBRIVadDq9TGqu0hlZvVCuyEKIzRoP0WtYJNpD%2FAJeIT71GJTHTGl6E7ffs0GIzJO4OCtkkurKoRWRNGk5gWMiOnP9ixdoKEgUKDSRQsAzEHHvZ2YiB0lzCTpmxWLy2YWvwKoIFeq5yfF2F6XLJkenIRsoc8lcc7idqro9kAAzG%2F8xFqx%2ByojD1iRRBmJ3rFFPKHh86XadJRKD%7Ctkp%3ABk9SR9K40JuKaA",
+        "url": "https://www.ebay.com/itm/147527559620?_skw=%28latios%29+%2894%2Cdragon%29+%28CGC%2CPSA%29&epid=26043384018&itmmeta=01M1BE0850MBE7886EZASXVKVQ&hash=item225953e9c4:g:GJUAAeSw6xpqjlEu&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBNwMIOuRIZmGnWLLMkuoMLt8FoXJ5lbUUMRk9vhD8OjzUF1IOsUYbokFzpD5pEyTiHfWN0FBmdbn70RyMo2FrjBjGEaK862Q%2BcKqQ1iBepTbUMDzSuSYGziQ0RRRVCS39g5AktMBVGEEIgNOjxJbQicjiltMFgbGJVayKLGeU2scdJkkiFyit6EusQFSVbWtBSiaPbN702L5j%2FLOxiLWuzw7kBcqn%2FQrQ%2B5W5HysQ9OCrmTtWs841qdwx4%2F0L2ANWAa5RqELNWqXLq%2F%2BYubF%2B3d7s%2F3eEOohcbPDWEME0t1AJ3hj0yCyfJ5hLqsV8AwKc%3D%7Ctkp%3ABk9SR_KCge6KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GJUAAeSw6xpqjlEu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787731584605,
-        "lastSeen": 1788077625509
+        "lastSeen": 1788164023217
+      },
+      {
+        "itemId": "800588790792",
+        "title": "CGC 10 Latios ex 94/97 EX Dragon Ultra Rare Holo English 2003Opens in a new window or tab",
+        "priceC": 300000,
+        "shippingC": 548,
+        "landedC": 300548,
+        "url": "https://www.ebay.com/itm/800588790792?_skw=%28latios%29+%2894%2Cdragon%29+%28CGC%2CPSA%29&epid=26043384018&itmmeta=01M1BE085037T6FRGM6Z9XPQ5E&hash=itemba66cf7c08:g:utMAAeSwvSNqlNwq&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBxjDp0Qxm52XhEEOcRoxVZhmyz5AD8B2Fti%2BCThVZi9pP6Mu3YYJjPv4JpxBrnHYOIchOvcHeFGeB6iueUgDbpFTVyUyCFTMWrFHT55MaEbkrrmfPxjsJghR9FSlnNJmdVhFbtacjrPQMXaOAqkS43Dow88HcoHsZ8SAkEpoC3HcXJfb08Ywg9Q0AconXFBgJvUxx%2Bj2w097OSMi%2FDqCzuFoHqR44y0gmu99JWqtdii4v9a8%2FtpYavvIkX52eMh6WFiaisujVgsy5KvaxDrIg36WPQf40MPdjpnz%2Fge5H89OPiusAk2ugiPfxLnF0fdX0%3D%7Ctkp%3ABk9SR_KCge6KaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/utMAAeSwvSNqlNwq/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1788164023217,
+        "lastSeen": 1788164023217
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 8274159,
+          "saleDate": "2026-08-30",
+          "priceC": 59663,
+          "title": "Pokemon PSA 8 Latios Ex #94 Holo EX Dragon 2003 English",
+          "url": "https://www.ebay.com/itm/287532632551?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8274158,
+          "saleDate": "2026-08-30",
+          "priceC": 54829,
+          "title": "Pokemon Card - Latios EX 94/97 - Ex Dragon - Cracked from PSA 8 (Cleaned) 94/97",
+          "url": "https://www.ebay.com/itm/287534417631?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 4973988,
           "saleDate": "2026-08-24",
@@ -1677,32 +1718,6 @@
           "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 491958,
-          "saleDate": "2026-05-14",
-          "priceC": 18000,
-          "title": "2003 Pokemon EX Latios EX Holo Dragon PSA 1 Ships Fast",
-          "url": "https://www.ebay.com/itm/366379922519?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 1,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 491779,
-          "saleDate": "2026-05-14",
-          "priceC": 115000,
-          "title": "2003 POKEMON EX DRAGON #94 LATIOS EX-HOLO PSA 9 #94",
-          "url": "https://www.ebay.com/itm/178076318248?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1797,9 +1812,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 316,
+      "englishSaleCount": 318,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787904775898
+      "lastCapturedAt": 1788163840929
     }
   }
 }

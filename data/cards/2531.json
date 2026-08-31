@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 2531,
@@ -19,7 +19,7 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/461f3a9552af9639f6defed114f24d79e20bd383ceb915edac719e10a5f04843/1600.jpg",
       "popularityScore": 78,
       "market": {
-        "ungradedC": 18650,
+        "ungradedC": 17300,
         "grade9C": 69200,
         "grade95C": 81300,
         "cgc10C": 49800,
@@ -30,7 +30,7 @@
         "psa10Pop": 8,
         "cgc10Pop": 4,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 3 sales per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787904043554
+        "fetchedAt": 1788163134787
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -52,11 +52,11 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787904043554
+      "updatedAt": 1788163134787
     },
     "prices": {
       "variantId": 2531,
-      "ungradedC": 18650,
+      "ungradedC": 17300,
       "grade9C": 69200,
       "grade95C": 81300,
       "cgc10C": 49800,
@@ -67,23 +67,23 @@
       "cgc10Pop": 4,
       "bgs10C": 107900,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\",\"volume: 3 sales per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787904043554
+      "fetchedAt": 1788163134787
     },
     "listings": [
       {
         "itemId": "318776518301",
         "title": "CGC 10 Wooper Aquapolis 117/147 Reverse Holo Pokémon TCG Card 2003 EnglishOpens in a new window or tab",
-        "priceC": 25800,
-        "shippingC": 540,
-        "landedC": 26340,
-        "url": "https://www.ebay.com/itm/318776518301?_skw=%28wooper%29+%28117%2Caquapolis%29+%28CGC%2CPSA%29&epid=20043376668&itmmeta=01M18V495BE3V0CC2X88999ME6&hash=item4a388fa69d:g:8gMAAeSwNuRqjVV5&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCirs4JpW9jT5AfWB4am9NFYIUgZYo6D4hy%2BSyk%2Fs0Qk%2B48qsh2ANGwjK8W1fr9XbqVx8pGDBtAvtQS2StvV74T4uWXFWJC%2FX3MMrx5eLeqv8H7IeycalQ3EYJ5nCjZ7tZDAKA%2FMOSzkXIkzC4%2Fg5He%2B3%2BGoqVZrif6rkgwVUDzOiIKAognNKorpwpBWzgVW7RX%2FM8imfjfbqi%2Ba%2Btuzfq%2BQQd0pq%2BEXXEun0YoGB7BOYF6o9oVbHt6K6HP4JFkB9KEfJb1SANyvMQ63R3fJMj3%7Ctkp%3ABk9SR_CSkZuKaA",
+        "priceC": 31500,
+        "shippingC": 562,
+        "landedC": 32062,
+        "url": "https://www.ebay.com/itm/318776518301?_skw=%28wooper%29+%28117%2Caquapolis%29+%28CGC%2CPSA%29&epid=20043376668&itmmeta=01M1BDBF5DR8CWT7MSRN5RES38&hash=item4a388fa69d:g:8gMAAeSwNuRqjVV5&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCirs4JpW9jT5AfWB4am9NFYIUgZYo6D4hy%2BSyk%2Fs0Qk%2Fh5SxhYJmzulW0L%2BEbfImEr32uNBj8ZWlXWDGxmMbPvgru05J0P2tflzw4Obp9s%2BRQ1xn4ynEPaWLp6D0aocj6X%2FqC2DHIq82F34i5OS5gxZfwScjfcWQKaIUz2i--XK%2FIVYfnFEqSp%2Bxz1xizuhlHpvX8KiO76dt0dJiXtkOdV2FWFviI7ds4IY7SN9M8khoxj9KMgcy9WvJQIpcHzsves6VXaoGTxKZgQQlzT8X6w%7Ctkp%3ABk9SR_byre2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/8gMAAeSwNuRqjVV5/s-l500.webp",
         "listingType": "auction",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787730930244,
-        "lastSeen": 1788077121012
+        "lastSeen": 1788163324416
       }
     ],
     "marketHistory": {
@@ -1013,7 +1013,7 @@
       ],
       "englishSaleCount": 70,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787904042009
+      "lastCapturedAt": 1788163133016
     }
   }
 }

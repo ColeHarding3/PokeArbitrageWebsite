@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 5013,
@@ -20,8 +20,8 @@
       "popularityScore": 95,
       "market": {
         "ungradedC": 181300,
-        "grade9C": 1562424,
-        "grade95C": 1569940,
+        "grade9C": 1546837,
+        "grade95C": 1701500,
         "cgc10C": 1150000,
         "cgc10PristineC": 2070000,
         "psa10C": 7812500,
@@ -30,7 +30,7 @@
         "psa10Pop": 127,
         "cgc10Pop": null,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787906602880
+        "fetchedAt": 1788165755139
       },
       "bestCgc10": {
         "itemId": "267732711789",
@@ -38,14 +38,14 @@
         "priceC": 2988800,
         "shippingC": 0,
         "landedC": 2988800,
-        "url": "https://www.ebay.com/itm/267732711789?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M18X4BYJYR2YXVT64TBS54YR&hash=item3e561cf96d:g:tMwAAeSwe41qXURG&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCprvGh%2FeLrrIkpVcZyENrvy4UASBaRdDqAWqpMKSFz6MQXmh2fzyIUUAQUICZTW3YOrgdZBCccVSRcy6Fx5GAru2Rq05tQtAx1TQbHdP15WZz4v8H1ZjI2LTMl1fUSLZs6ILRBYbF0%2Fqi%2FnSc3Z7N0uMY0%2Bd2NPUM1l35rYsyg%2BfYT0wpsGpH7XAzK9thhnI4knptODqwpwWF%2FDAy3dztNfWiyrOaRiDCJM9PpkJI%2Fpclig1qodE%2FXW6alVFxrwZbdd07dNZj9FfWgOYBJQDy3Rh5YvsK8tSN7I9cWYyPVCzx3%2BzDFHpEihddpj9hgDq8hzA%2FyxWYKybcPuc%2FfZ3vs%7Ctkp%3ABk9SR8S_kZ2KaA",
+        "url": "https://www.ebay.com/itm/267732711789?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M1BFTY5Z5Q9BKN4DXF7FTV2E&hash=item3e561cf96d:g:tMwAAeSwe41qXURG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAvXVpOGCqgXWw4ImDhVLkmDZunRbWhg8lUX5Xky3lbEZLfhPs3dQbguNOlMWJ%2FopWjHREdv3lXfMfR2OyB50vC3XYdNrLYH8e%2FZPBj1J1k%2BBEeTTP9dqaRG5Q6kW0bc5Ghbqejt8rTii8qsXuL6ybLug72Km2qQvXw3v1i0wD4tP8j9A5rzdV%2FNFgJWLS58F%2FJJluItsudHNUn6sxe%2FW%2B2XhR5xmOUg6a12Z%2BiTEM6YMwgMBH5GD7ewTGm7G5q3Zx1GjFq%2FEKURRkbeyVuUX%2B4KhL%2BzMLjwE%2BKIXEsbM2m3Q%3D%3D%7Ctkp%3ABk9SR6Lj6--KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/tMwAAeSwe41qXURG/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1788079305482
+        "lastSeen": 1788165975910
       },
       "bestPsa10": {
         "itemId": "237037356253",
@@ -53,14 +53,14 @@
         "priceC": 21000000,
         "shippingC": 10000,
         "landedC": 21010000,
-        "url": "https://www.ebay.com/itm/237037356253?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M18X4BYKGCTZQK9TP7CGDC7Q&hash=item37308704dd:g:HvEAAeSw5Rdqkuqq&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC2krV3of%2BI%2FLBTqkV%2FcweYwdGYJFjA7H8JzftP9ozalcCgGR%2Bo%2B2GZzvC3RvOaCkc0ffHmuKtdDtqRkK8Xxc6RxQvScTi0Kcix8eNHHLO%2FFoq%2B%2FTpMaUdxA0pUjVsCXzaq9nSaV2CIilaGs6uXDF%2Fy0Bxn5GtatmNHwsR6RrNUb7JNcsTX1%2FPjHle%2BTEC9QLQrPfmi8WdANsJ7KCrQhh7Cxh3Pgw8n47VBcQOzNcndZdPfE9oCqILhZS%2BuJM7NTyin40N--%2BtLP%2Bx0vzO5eW4l8nXNRyE5uDfuuixjWT01OQ%3D%3D%7Ctkp%3ABk9SR8S_kZ2KaA",
+        "url": "https://www.ebay.com/itm/237037356253?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M1BFTY5ZKYVN6X5027RKNKEE&hash=item37308704dd:g:HvEAAeSw5Rdqkuqq&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAn7qVgIvgZ1DW%2BProVYE2Yf%2FhSeUVg41tPmflV28e%2Ffq7ncicfijszd7unkPl%2BEInniI6ziMuE7ZCZu%2Bu2Q1S4skuhs3bWKiqBJfP5n%2FKMZ7L7mrAAZPXI5CgMcFIXwLNaGJgHcnYx5D8AbhpxUbN6yQFtIqyVcy8Iq%2Bk7fAyfBvOrmV3dpJBQ3npx1h8tRQMShle1apbDUhUK9lfowNlDl0nBWlKyRzPsQl0g%2B58ZbthNpJzR%2BV8hPfzXlk8jh67G1maibb%2B2DO7QKp%2B%2Fb6BqusSkqhUC474dgYpUDVxUo4Pj1JCK%2Fefvn0BylKiUTY8PQhjCG37APTxLp8%2BZPeoQ%7Ctkp%3ABk9SR6Tj6--KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HvEAAeSw5Rdqkuqq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1788079305482,
-        "lastSeen": 1788079305482
+        "lastSeen": 1788165975910
       },
       "bestPsa9": {
         "itemId": "127876487879",
@@ -68,17 +68,17 @@
         "priceC": 3000000,
         "shippingC": 5000,
         "landedC": 3005000,
-        "url": "https://www.ebay.com/itm/127876487879?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M18X4BYJ92MJHCQYR76BRRJS&hash=item1dc6085ac7:g:J4QAAeSwZqJp7Vos&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDbC%2BmYtb9oaPwleV9fRPxTJPoiZsJubYmSIqyQYaP5gscYCR2FAwobCuw0RP3d%2F2%2F3Tg0BZrAdhi%2FQ0xLrH7%2BcQ8841FHFA0oEpOMUJSAhqqqYVqd6Abomc1AqLR4JM3FUjkLuUi8oxPAo7g4bYOqm8p%2FzPY6WWXay0EBlbEh6EHSyJasA2c8EwK7agQ%2BtsmXHI%2BQrlZiEqEiYsIvL24p6x7j%2BFE2jjw06thdUVufMe2PHXakFkmWRRwJ7hMq4ynXIqOdP9hIFwI0Y5yy5keB4a0qhOD8AdfrWsrFajQrrSA%3D%3D%7Ctkp%3ABk9SR8S_kZ2KaA",
+        "url": "https://www.ebay.com/itm/127876487879?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M1BFTY5Z03AF6S3KAYXP7J7B&hash=item1dc6085ac7:g:J4QAAeSwZqJp7Vos&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCpYTznnHihJjI0TjY0qw5UXfMC8hZx%2BUjTUVqKwvGm16hfvvBOL6NOaNZGWG2OmP4fjPIdwPjRJFd0Q9zFD6J9q%2Bb5HDCTKuUUb8ZWLwphhLMySw6VJX1kzcX76lDN%2B39guGYiVjvjmCmURJJ0CsLaPNF3yljuBkwWu1HsCSouqtssDivigS8spNfvtgoEK4Igxa6tGqlHjNe26YLqe9epnnMMG17%2FN28sYEbP4kMHrTktckHe2fIJMMX8uKLcvUa9j6qZK40lCrBxY3WwRDd253NBkm25xP%2F4odIUYkfSKefNOAIIQo8pHHuBKaqTKJzZaEWyvYVvQrpQ68YGD4Y%2B%7Ctkp%3ABk9SR6Lj6--KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/J4QAAeSwZqJp7Vos/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1788079305482
+        "lastSeen": 1788165975910
       },
       "counts": {
-        "cgc10Bin": 2,
+        "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 2,
@@ -107,16 +107,16 @@
           "priceC": 2988800,
           "shippingC": 0,
           "landedC": 2988800,
-          "url": "https://www.ebay.com/itm/267732711789?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M18X4BYJYR2YXVT64TBS54YR&hash=item3e561cf96d:g:tMwAAeSwe41qXURG&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCprvGh%2FeLrrIkpVcZyENrvy4UASBaRdDqAWqpMKSFz6MQXmh2fzyIUUAQUICZTW3YOrgdZBCccVSRcy6Fx5GAru2Rq05tQtAx1TQbHdP15WZz4v8H1ZjI2LTMl1fUSLZs6ILRBYbF0%2Fqi%2FnSc3Z7N0uMY0%2Bd2NPUM1l35rYsyg%2BfYT0wpsGpH7XAzK9thhnI4knptODqwpwWF%2FDAy3dztNfWiyrOaRiDCJM9PpkJI%2Fpclig1qodE%2FXW6alVFxrwZbdd07dNZj9FfWgOYBJQDy3Rh5YvsK8tSN7I9cWYyPVCzx3%2BzDFHpEihddpj9hgDq8hzA%2FyxWYKybcPuc%2FfZ3vs%7Ctkp%3ABk9SR8S_kZ2KaA",
+          "url": "https://www.ebay.com/itm/267732711789?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M1BFTY5Z5Q9BKN4DXF7FTV2E&hash=item3e561cf96d:g:tMwAAeSwe41qXURG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAvXVpOGCqgXWw4ImDhVLkmDZunRbWhg8lUX5Xky3lbEZLfhPs3dQbguNOlMWJ%2FopWjHREdv3lXfMfR2OyB50vC3XYdNrLYH8e%2FZPBj1J1k%2BBEeTTP9dqaRG5Q6kW0bc5Ghbqejt8rTii8qsXuL6ybLug72Km2qQvXw3v1i0wD4tP8j9A5rzdV%2FNFgJWLS58F%2FJJluItsudHNUn6sxe%2FW%2B2XhR5xmOUg6a12Z%2BiTEM6YMwgMBH5GD7ewTGm7G5q3Zx1GjFq%2FEKURRkbeyVuUX%2B4KhL%2BzMLjwE%2BKIXEsbM2m3Q%3D%3D%7Ctkp%3ABk9SR6Lj6--KaA",
           "imageUrl": "https://i.ebayimg.com/images/g/tMwAAeSwe41qXURG/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787092753589,
-          "lastSeen": 1788079305482
+          "lastSeen": 1788165975910
         },
-        "cgc10Bin": 2,
+        "cgc10Bin": 1,
         "cgc10Auction": 0,
         "ratio": {
           "ok": true,
@@ -136,13 +136,13 @@
         "firstOpportunityAt": 1787092753589
       },
       "firstOpportunityAt": 1787092753589,
-      "updatedAt": 1788079305482
+      "updatedAt": 1788165975910
     },
     "prices": {
       "variantId": 5013,
       "ungradedC": 181300,
-      "grade9C": 1562424,
-      "grade95C": 1569940,
+      "grade9C": 1546837,
+      "grade95C": 1701500,
       "cgc10C": 1150000,
       "cgc10PristineC": 2070000,
       "psa10C": 7812500,
@@ -151,7 +151,7 @@
       "cgc10Pop": null,
       "bgs10C": 10156300,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787906602880
+      "fetchedAt": 1788165755139
     },
     "listings": [
       {
@@ -160,29 +160,14 @@
         "priceC": 2988800,
         "shippingC": 0,
         "landedC": 2988800,
-        "url": "https://www.ebay.com/itm/267732711789?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M18X4BYJYR2YXVT64TBS54YR&hash=item3e561cf96d:g:tMwAAeSwe41qXURG&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCprvGh%2FeLrrIkpVcZyENrvy4UASBaRdDqAWqpMKSFz6MQXmh2fzyIUUAQUICZTW3YOrgdZBCccVSRcy6Fx5GAru2Rq05tQtAx1TQbHdP15WZz4v8H1ZjI2LTMl1fUSLZs6ILRBYbF0%2Fqi%2FnSc3Z7N0uMY0%2Bd2NPUM1l35rYsyg%2BfYT0wpsGpH7XAzK9thhnI4knptODqwpwWF%2FDAy3dztNfWiyrOaRiDCJM9PpkJI%2Fpclig1qodE%2FXW6alVFxrwZbdd07dNZj9FfWgOYBJQDy3Rh5YvsK8tSN7I9cWYyPVCzx3%2BzDFHpEihddpj9hgDq8hzA%2FyxWYKybcPuc%2FfZ3vs%7Ctkp%3ABk9SR8S_kZ2KaA",
+        "url": "https://www.ebay.com/itm/267732711789?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M1BFTY5Z5Q9BKN4DXF7FTV2E&hash=item3e561cf96d:g:tMwAAeSwe41qXURG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAvXVpOGCqgXWw4ImDhVLkmDZunRbWhg8lUX5Xky3lbEZLfhPs3dQbguNOlMWJ%2FopWjHREdv3lXfMfR2OyB50vC3XYdNrLYH8e%2FZPBj1J1k%2BBEeTTP9dqaRG5Q6kW0bc5Ghbqejt8rTii8qsXuL6ybLug72Km2qQvXw3v1i0wD4tP8j9A5rzdV%2FNFgJWLS58F%2FJJluItsudHNUn6sxe%2FW%2B2XhR5xmOUg6a12Z%2BiTEM6YMwgMBH5GD7ewTGm7G5q3Zx1GjFq%2FEKURRkbeyVuUX%2B4KhL%2BzMLjwE%2BKIXEsbM2m3Q%3D%3D%7Ctkp%3ABk9SR6Lj6--KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/tMwAAeSwe41qXURG/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1788079305482
-      },
-      {
-        "itemId": "298589001546",
-        "title": "2006 POKEMON EX HOLON PHANTOMS SHINY MEWTWO GOLD STAR #103/110 HOLO CGC 10 GMOpens in a new window or tab",
-        "priceC": 2999999,
-        "shippingC": 599,
-        "landedC": 3000598,
-        "url": "https://www.ebay.com/itm/298589001546?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M18X4BYJ2EYW8V7YVNK1DDW9&hash=item45854a974a:g:zFEAAeSwxNpqTU9c&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDWMwKH7bBenuhTGGYrwHdF80jgpI2kKy6nCt%2FLVMyYNpNw0uHj0F4wt8ck27NzOOSXQmvkGge9K1FVQqD9chl8gW1w%2FJqtwoyBhEprZd1EvCg0%2BUNd5xuoGKHd%2Bm7N7QK3EaW6%2FVdFfJBeKEv7YbOHhMS2ojToJoprKc93Q7sA4KrL3F7tVPtuH%2BIiPYl98uoW3j%2Fbp8Lx78pqfyF4Py3JtxYNYIavWz3ZiUz7U0r7c5uBLAVr0UB%2FjzuiuiGE%2F0zBkVeH1npj9FVdhXVVBKYI%2FSUYlx6b8i9VyrCOhI0g3J0L--EMfE7Qe3xozE3Cj7U56nhVVHcsfbBDm3Hib32w%7Ctkp%3ABk9SR8S_kZ2KaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/zFEAAeSwxNpqTU9c/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "gemMint10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787092753589,
-        "lastSeen": 1788079305482
+        "lastSeen": 1788165975910
       },
       {
         "itemId": "127876487879",
@@ -190,14 +175,14 @@
         "priceC": 3000000,
         "shippingC": 5000,
         "landedC": 3005000,
-        "url": "https://www.ebay.com/itm/127876487879?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M18X4BYJ92MJHCQYR76BRRJS&hash=item1dc6085ac7:g:J4QAAeSwZqJp7Vos&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDbC%2BmYtb9oaPwleV9fRPxTJPoiZsJubYmSIqyQYaP5gscYCR2FAwobCuw0RP3d%2F2%2F3Tg0BZrAdhi%2FQ0xLrH7%2BcQ8841FHFA0oEpOMUJSAhqqqYVqd6Abomc1AqLR4JM3FUjkLuUi8oxPAo7g4bYOqm8p%2FzPY6WWXay0EBlbEh6EHSyJasA2c8EwK7agQ%2BtsmXHI%2BQrlZiEqEiYsIvL24p6x7j%2BFE2jjw06thdUVufMe2PHXakFkmWRRwJ7hMq4ynXIqOdP9hIFwI0Y5yy5keB4a0qhOD8AdfrWsrFajQrrSA%3D%3D%7Ctkp%3ABk9SR8S_kZ2KaA",
+        "url": "https://www.ebay.com/itm/127876487879?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M1BFTY5Z03AF6S3KAYXP7J7B&hash=item1dc6085ac7:g:J4QAAeSwZqJp7Vos&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCpYTznnHihJjI0TjY0qw5UXfMC8hZx%2BUjTUVqKwvGm16hfvvBOL6NOaNZGWG2OmP4fjPIdwPjRJFd0Q9zFD6J9q%2Bb5HDCTKuUUb8ZWLwphhLMySw6VJX1kzcX76lDN%2B39guGYiVjvjmCmURJJ0CsLaPNF3yljuBkwWu1HsCSouqtssDivigS8spNfvtgoEK4Igxa6tGqlHjNe26YLqe9epnnMMG17%2FN28sYEbP4kMHrTktckHe2fIJMMX8uKLcvUa9j6qZK40lCrBxY3WwRDd253NBkm25xP%2F4odIUYkfSKefNOAIIQo8pHHuBKaqTKJzZaEWyvYVvQrpQ68YGD4Y%2B%7Ctkp%3ABk9SR6Lj6--KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/J4QAAeSwZqJp7Vos/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1788079305482
+        "lastSeen": 1788165975910
       },
       {
         "itemId": "286725260042",
@@ -205,14 +190,14 @@
         "priceC": 3850000,
         "shippingC": 1952,
         "landedC": 3851952,
-        "url": "https://www.ebay.com/itm/286725260042?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M18X4BYJN7Z21X4KGTAZ1SRW&hash=item42c228430a:g:gAUAAeSwVzdqj72p&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAfOQ7bcF6x8YDDsA60hq3Tmk5bcGPBdyiGea2%2FsyQMeCOCBfZ6cebH%2FPsYgDajsQ0%2F3ymBaOQ%2FbOtZa97YxxeWPGL%2BRiwE2uM8mQjOHRDDgPATyEKJY3K2%2B3HN1bmZlCBR5%2FdvmbMDU8ol1vHTESFwvCkgmUUNWCEbP5%2F6bHtWw109TifbPoV4CfF3gRMl6FsEVFlYTqCJ4926KnEtl8BYYcGx4G8xiKxgKPPRGOIdGG%2B0KPkeq3eSoIZVTrPh%2Bb%2BDuztYcHTl%2BypSOpezRGpbeUEXTUpeM6R63FHbDNMF7jD%2FNB%2Ff0eX%2BZ1qSASLwEcYQJ05SLjgt2AINIlyZ9IGa%7Ctkp%3ABk9SR8S_kZ2KaA",
+        "url": "https://www.ebay.com/itm/286725260042?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M1BFTY5ZKNG33Y3KHCNGQJCX&hash=item42c228430a:g:gAUAAeSwVzdqj72p&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAYeXPkbqyZbHv777GKTKwQ2TQQHc66qYJLySHGaH69VqAXXPoOkAHf%2BsY9IUzieR5HcIQk4pCNBvUIG5f1JyM9zLIAAoHWEndFHbh396FIGE%2FYSqq26cQVFQ8%2FcdAT2gMely7mijSA2PsRcY1Mzbu5%2B3pvgDufIFhiUXIqEPDMi%2BLtO1MHsHxUUTbomoo0G6gNu2FdwB8vK%2F76ZbIXNmmwcm2ZB6enfARn6t2rJwd1ogz0rtEQ--cMjq0mgwpiKDUpY0nbesHXHWQizIZKr4clGg8uouuqX5lG3ADfJL%2FqdA%3D%3D%7Ctkp%3ABk9SR6Lj6--KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/gAUAAeSwVzdqj72p/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1788079305482
+        "lastSeen": 1788165975910
       },
       {
         "itemId": "237037356253",
@@ -220,14 +205,14 @@
         "priceC": 21000000,
         "shippingC": 10000,
         "landedC": 21010000,
-        "url": "https://www.ebay.com/itm/237037356253?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M18X4BYKGCTZQK9TP7CGDC7Q&hash=item37308704dd:g:HvEAAeSw5Rdqkuqq&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC2krV3of%2BI%2FLBTqkV%2FcweYwdGYJFjA7H8JzftP9ozalcCgGR%2Bo%2B2GZzvC3RvOaCkc0ffHmuKtdDtqRkK8Xxc6RxQvScTi0Kcix8eNHHLO%2FFoq%2B%2FTpMaUdxA0pUjVsCXzaq9nSaV2CIilaGs6uXDF%2Fy0Bxn5GtatmNHwsR6RrNUb7JNcsTX1%2FPjHle%2BTEC9QLQrPfmi8WdANsJ7KCrQhh7Cxh3Pgw8n47VBcQOzNcndZdPfE9oCqILhZS%2BuJM7NTyin40N--%2BtLP%2Bx0vzO5eW4l8nXNRyE5uDfuuixjWT01OQ%3D%3D%7Ctkp%3ABk9SR8S_kZ2KaA",
+        "url": "https://www.ebay.com/itm/237037356253?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M1BFTY5ZKYVN6X5027RKNKEE&hash=item37308704dd:g:HvEAAeSw5Rdqkuqq&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAn7qVgIvgZ1DW%2BProVYE2Yf%2FhSeUVg41tPmflV28e%2Ffq7ncicfijszd7unkPl%2BEInniI6ziMuE7ZCZu%2Bu2Q1S4skuhs3bWKiqBJfP5n%2FKMZ7L7mrAAZPXI5CgMcFIXwLNaGJgHcnYx5D8AbhpxUbN6yQFtIqyVcy8Iq%2Bk7fAyfBvOrmV3dpJBQ3npx1h8tRQMShle1apbDUhUK9lfowNlDl0nBWlKyRzPsQl0g%2B58ZbthNpJzR%2BV8hPfzXlk8jh67G1maibb%2B2DO7QKp%2B%2Fb6BqusSkqhUC474dgYpUDVxUo4Pj1JCK%2Fefvn0BylKiUTY8PQhjCG37APTxLp8%2BZPeoQ%7Ctkp%3ABk9SR6Tj6--KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HvEAAeSw5Rdqkuqq/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1788079305482,
-        "lastSeen": 1788079305482
+        "lastSeen": 1788165975910
       },
       {
         "itemId": "375998836422",
@@ -235,18 +220,44 @@
         "priceC": 35000000,
         "shippingC": 0,
         "landedC": 35000000,
-        "url": "https://www.ebay.com/itm/375998836422?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M18X4BYKWZZGCEMVPHSXGNN8&hash=item578b46eec6:g:uEUAAOSwaZNnsSZn&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDAjFSw5FTJxf7WTJWwr7xxDIHolK%2B3uGCAR5h2hvwpXLGnw1%2Fxw5v9LF841VEKxY0W7Y6xjSkqiWEvbjZXse6yKT%2BpK2SCfKA6mAlvweoPTnJqN9ckVBI2jRkqradXtRYAQstwN9fT42017%2F1A37yNRZcNmHVhzCsGdVJFtr49qSqE2pfg%2BSHn1pLOP2FXE0Qs7zfULGftU2d8l2UYwpU%2BKLdCuzbpdMKpirj72xDG0ydC7p0BmsMKUBuaXVHUcgyAXkiOLHBGIAu1YYvyAWXARKSoEHIigwKFobZXEfTkAy4mxKemb4zUfLpeGQ4VZNcjSqVHaibuf8makyTuSwA8%7Ctkp%3ABk9SR8S_kZ2KaA",
+        "url": "https://www.ebay.com/itm/375998836422?_skw=%28mewtwo%2Cgold%2Cstar%29+%28103%2Cholon%2Cphantoms%29+%28CGC%2CPSA%29&epid=23043383715&itmmeta=01M1BFTY600MEJZ0HZF7DVWEMH&hash=item578b46eec6:g:uEUAAOSwaZNnsSZn&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDjkl5xezuIr46g72TDrkMpkPlQccVUUavHxmuyK2yvZ%2BCtlWaHPCuvztQCADkiUgb8rVAKbmg71b0m%2ByA8ta7%2FpY4q8ZheaZRqQCEHNQhXiAfwg%2FRnsmGU2IJv%2B6Iqb3ANlIy8YSIycH%2BdXOkdfn%2B04oOE0hWKdqvlJHH8ojfQyzvJuLef6D6txIVvbxhfT7xxCRIjIUJWywRAPA7GCp5DMCC7IBB%2BlnpbaYzNLFV9Y7B91PiicR8NRGluHxxAPWrHu81NQn3CwpRSMMOStK4IbCJQOx3dy0mf508ALp2A0Q%3D%3D%7Ctkp%3ABk9SR6Tj6--KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/uEUAAOSwaZNnsSZn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787092753589,
-        "lastSeen": 1788079305482
+        "lastSeen": 1788165975910
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 8463237,
+          "saleDate": "2026-08-31",
+          "priceC": 1254900,
+          "title": "Pokemon Mewtwo Gold Star Holo EX Holon Phantoms 103/110 PSA 8 103/110",
+          "url": "https://www.ebay.com/itm/287538830624?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8463238,
+          "saleDate": "2026-08-30",
+          "priceC": 830000,
+          "title": "Pokemon Mewtwo Gold Star Holo R EX Holon Phantoms 103 BGS 8.5 #103",
+          "url": "https://www.ebay.com/itm/287541276321?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "BGS",
+          "gradingGrade": 8.5,
+          "gradingDesignation": null,
+          "agreementStatus": "mismatch"
+        },
         {
           "id": 7227897,
           "saleDate": "2026-08-26",
@@ -1780,32 +1791,6 @@
           "gradingGrade": 4,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 650860,
-          "saleDate": "2026-05-06",
-          "priceC": 450000,
-          "title": "CGC 8 Mewtwo Gold Star 2006 EX Holon Phantoms 103/110 Holo Pokemon Card",
-          "url": "https://www.ebay.com/itm/327061828199?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 650861,
-          "saleDate": "2026-05-05",
-          "priceC": 705000,
-          "title": "2006 Pokemon Gold Star EX Holon Phantoms #103 Mewtwo Holo PSA 8 NM-MT",
-          "url": "https://www.ebay.com/itm/366373442543?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1910,9 +1895,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 333,
+      "englishSaleCount": 335,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787906600736
+      "lastCapturedAt": 1788165753422
     }
   }
 }

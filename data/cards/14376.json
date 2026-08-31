@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 14376,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/ee087b3d5d2a09622c25dab486cd65efc9ecd80bc322038342c6b309061cd3d5/1600.jpg",
       "popularityScore": 88,
       "market": {
-        "ungradedC": 5955,
-        "grade9C": 71876,
-        "grade95C": 79100,
-        "cgc10C": 517800,
-        "cgc10PristineC": 932000,
-        "psa10C": 863007,
-        "bgs10C": 1121900,
+        "ungradedC": 6430,
+        "grade9C": 64870,
+        "grade95C": 71400,
+        "cgc10C": 592800,
+        "cgc10PristineC": 1067000,
+        "psa10C": 988000,
+        "bgs10C": 1284400,
         "psa9Pop": null,
         "psa10Pop": null,
         "cgc10Pop": null,
-        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\"}",
-        "fetchedAt": 1787909737812
+        "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\"}",
+        "fetchedAt": 1788168900245
       },
       "bestCgc10": {
         "itemId": "358856312100",
@@ -38,52 +38,38 @@
         "priceC": 8000000,
         "shippingC": 0,
         "landedC": 8000000,
-        "url": "https://www.ebay.com/itm/358856312100?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=8043378166&itmmeta=01M18ZSQC92XK1RDED8298YEKE&hash=item538d80c524:g:vkEAAeSwdJpqaWZu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDenqfarpQKtWiJAfgFcwOqEW9taRBfRns2%2Bp6Ief5u4mXKd3D19g3K%2BaJ3%2B%2BjKsECAbJDbWExqjU%2FaTvhEcHyg1o8vtH3LKuJ%2B2KMfuSYMriYhRylHnwUmJ9yW944wTcUgoK6nrKlOnLZiJ6nC0UtWYVsVlfQ2JfUBfluEx%2BZvOvL4UzNYkdzQkyvonDyqfniqZ1TH%2B%2FS6UAHeCnUmvxnrr%2BTqYn84a2KF7v7B0vz0aT7ulEH5KUvBAp3DNpKEgwtV7gNWw7CoZDFL9THeEmCkG9uMxW896Mgol%2B5%2FVpJL%2Fw%3D%3D%7Ctkp%3ABk9SR6z25p-KaA",
+        "url": "https://www.ebay.com/itm/358856312100?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=8043378166&itmmeta=01M1BJWC1YNFZDFPG515RMG9W7&hash=item538d80c524:g:vkEAAeSwdJpqaWZu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDenqfarpQKtWiJAfgFcwOqEW9taRBfRns2%2Bp6Ief5u4jw8ANp%2Fa4KsqSKEc1WYgYu7VYngW%2B0brcX2Iy7L9vRxMjDC0%2FLrfq2xKBFc84C2nCXcKpJz1VpAwvJvdh5Vh%2F0SuPBcD8r0W3NXSoWrKbG2JXBolXHzdPkjAOVz13m7vCA9wpysCfAI4FcQbOwcs1oG%2FfKVZIe25upGoN3mMnJEZuDIXZBcxAji0GpfGTX5UlK112Y1o8r26cim%2BAB8DOdd5w1JkxvE9eljZB7Fa8vXUljIRG8tsOmJp2NGsAn9nA%3D%3D%7Ctkp%3ABk9SR5zB8fKKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/vkEAAeSwdJpqaWZu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220917787,
-        "lastSeen": 1788081937100
+        "lastSeen": 1788169050571
       },
-      "bestPsa10": {
-        "itemId": "800145336831",
-        "title": "PSA 10 Arceus Lv.X 011 - Grass And Fire Holo DeckOpens in a new window or tab",
-        "priceC": 250000,
-        "shippingC": 517,
-        "landedC": 250517,
-        "url": "https://www.ebay.com/itm/800145336831?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=14074140194&itmmeta=01M18ZSHWFZHAJS5YEYVN9SR0S&hash=itemba4c60e9ff:g:nawAAeSw3fZqIGlh&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCqv4ToMR5bOXsU6%2FdwmwegYwiGXnR%2FR3ScRI9MBTwmgrzLaEChN74wTj%2BBQa4VLwrNZkAnehyfujrHchuXttDAt2jKcGyeaSfFK0z0onDowmyQ5D5xKTffGt4bFiAmSp3twBv%2BmtDl4lXKyhCsROKXs8j8pbGQ2gXnPblT8QAb9EMhy9iQ%2BWdmvWHZUF4qUmmftgnBnfWgS9YwVYAE6J8ZlAM%2BtAvKsYMVmxuv2%2BKCkum5Vr21u4YN8ThSpgll8uAvJ1PcIV04xLa6yPYiIwoYEQjHeHluueL4SAuOlxVltw%3D%3D%7Ctkp%3ABk9SR8ie5p-KaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/nawAAeSw3fZqIGlh/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787223812447,
-        "lastSeen": 1788081937100
-      },
+      "bestPsa10": null,
       "bestPsa9": {
         "itemId": "158065929262",
         "title": "2008 POKEMON DIAMOND & PEARL STORMFRONT #98 MACHAMP LV.X-HOLO PSA 9 Mint VintageOpens in a new window or tab",
         "priceC": 93689,
         "shippingC": 624,
         "landedC": 94313,
-        "url": "https://www.ebay.com/itm/158065929262?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=3043379988&itmmeta=01M18ZSHWEZ2EKQZ85VEQ33ZE7&hash=item24cd76ac2e:g:KMgAAeSwKA1qTgsG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBB2TDGrWdUCoqiGhuoh4hUx342CZnN5r%2BZ5xD6fLgHgHtfY%2BPegp4%2B7LMPw5Hfu%2FaagudOmx1L5tkrWUG1MdFwGdhhmaH6xvDCwt%2BBWBcQpW2tz9r5%2BA5nfjXwhzvQEelCeQDoS8VP94hcDpODBpWMGcBdqBT7%2Bp5zWm2EzkRdU0o2hZl2MB3P9lPbusZZxD4OwuzCQDfA9yWPxYMW%2FEEZ%2B9XoWqgVagC9Jdag%2BbM%2BS8YwGRrrhlwSoY%2BuT%2BIEEdM9nrK8vYDUnsntPV5EzE%2BpXxrONfSgZW76ZWf2WfN9oQ%3D%3D%7Ctkp%3ABk9SR8Se5p-KaA",
+        "url": "https://www.ebay.com/itm/158065929262?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=3043379988&itmmeta=01M1BJW7CJKTB742AHHN4H6ZE4&hash=item24cd76ac2e:g:KMgAAeSwKA1qTgsG&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAHKs7dd0%2BMOzROS2GLaUm52Fl08G1lbZaocrQlNCZT%2Fi7Boh9P6bqVaLb7P7C7rtiQ%2BwXdU%2BWYxZ2nzYphKQZRSiVCSN5oR3x1A2%2Bm0sHXWHhdzc81egH3Gqp3neqsw5NuwWO9TSrchZhigry0bUKwfbPPLxqdazU3%2FjjowwDjpt8sdQ72fkqzezc9v%2B4wZYPAjOhAOcsQiKdue4a0kiQSdI9M8GDb%2FSkbq0kq%2FSHppb1J0gQqAP8JM5Wp1oQx%2F5HcZF3CMz1duGaEYZp%2Bv%2FZb2gn3cJweJiWR0w5bGEJCXRLgUD7WJ5nKfZlk2H864EBcgGKlUAd%2F4mlZJ7%2FzAph4%7Ctkp%3ABk9SR8728PKKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/KMgAAeSwKA1qTgsG/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220917787,
-        "lastSeen": 1788081937100
+        "lastSeen": 1788169050571
       },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 2,
+        "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 3
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -97,8 +83,8 @@
         "cgc10CostC": 8000000,
         "submissionFeeC": 59900,
         "totalCostC": 8059900,
-        "psa10ValueC": 863007,
-        "ratio": 0.10707415724760853
+        "psa10ValueC": 988000,
+        "ratio": 0.12258216603183662
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -107,14 +93,14 @@
           "priceC": 8000000,
           "shippingC": 0,
           "landedC": 8000000,
-          "url": "https://www.ebay.com/itm/358856312100?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=8043378166&itmmeta=01M18ZSQC92XK1RDED8298YEKE&hash=item538d80c524:g:vkEAAeSwdJpqaWZu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDenqfarpQKtWiJAfgFcwOqEW9taRBfRns2%2Bp6Ief5u4mXKd3D19g3K%2BaJ3%2B%2BjKsECAbJDbWExqjU%2FaTvhEcHyg1o8vtH3LKuJ%2B2KMfuSYMriYhRylHnwUmJ9yW944wTcUgoK6nrKlOnLZiJ6nC0UtWYVsVlfQ2JfUBfluEx%2BZvOvL4UzNYkdzQkyvonDyqfniqZ1TH%2B%2FS6UAHeCnUmvxnrr%2BTqYn84a2KF7v7B0vz0aT7ulEH5KUvBAp3DNpKEgwtV7gNWw7CoZDFL9THeEmCkG9uMxW896Mgol%2B5%2FVpJL%2Fw%3D%3D%7Ctkp%3ABk9SR6z25p-KaA",
+          "url": "https://www.ebay.com/itm/358856312100?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=8043378166&itmmeta=01M1BJWC1YNFZDFPG515RMG9W7&hash=item538d80c524:g:vkEAAeSwdJpqaWZu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDenqfarpQKtWiJAfgFcwOqEW9taRBfRns2%2Bp6Ief5u4jw8ANp%2Fa4KsqSKEc1WYgYu7VYngW%2B0brcX2Iy7L9vRxMjDC0%2FLrfq2xKBFc84C2nCXcKpJz1VpAwvJvdh5Vh%2F0SuPBcD8r0W3NXSoWrKbG2JXBolXHzdPkjAOVz13m7vCA9wpysCfAI4FcQbOwcs1oG%2FfKVZIe25upGoN3mMnJEZuDIXZBcxAji0GpfGTX5UlK112Y1o8r26cim%2BAB8DOdd5w1JkxvE9eljZB7Fa8vXUljIRG8tsOmJp2NGsAn9nA%3D%3D%7Ctkp%3ABk9SR5zB8fKKaA",
           "imageUrl": "https://i.ebayimg.com/images/g/vkEAAeSwdJpqaWZu/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787220917787,
-          "lastSeen": 1788081937100
+          "lastSeen": 1788169050571
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -130,28 +116,28 @@
           "cgc10CostC": 8000000,
           "submissionFeeC": 59900,
           "totalCostC": 8059900,
-          "psa10ValueC": 863007,
-          "ratio": 0.10707415724760853
+          "psa10ValueC": 988000,
+          "ratio": 0.12258216603183662
         },
         "firstOpportunityAt": 1787220917787
       },
       "firstOpportunityAt": 1787220917787,
-      "updatedAt": 1788081937100
+      "updatedAt": 1788169050571
     },
     "prices": {
       "variantId": 14376,
-      "ungradedC": 5955,
-      "grade9C": 71876,
-      "grade95C": 79100,
-      "cgc10C": 517800,
-      "cgc10PristineC": 932000,
-      "psa10C": 863007,
+      "ungradedC": 6430,
+      "grade9C": 64870,
+      "grade95C": 71400,
+      "cgc10C": 592800,
+      "cgc10PristineC": 1067000,
+      "psa10C": 988000,
       "psa9Pop": null,
       "psa10Pop": null,
       "cgc10Pop": null,
-      "bgs10C": 1121900,
-      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\"}",
-      "fetchedAt": 1787909737812
+      "bgs10C": 1284400,
+      "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    6 sales per year\"}",
+      "fetchedAt": 1788168900245
     },
     "listings": [
       {
@@ -160,74 +146,14 @@
         "priceC": 93689,
         "shippingC": 624,
         "landedC": 94313,
-        "url": "https://www.ebay.com/itm/158065929262?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=3043379988&itmmeta=01M18ZSHWEZ2EKQZ85VEQ33ZE7&hash=item24cd76ac2e:g:KMgAAeSwKA1qTgsG&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBB2TDGrWdUCoqiGhuoh4hUx342CZnN5r%2BZ5xD6fLgHgHtfY%2BPegp4%2B7LMPw5Hfu%2FaagudOmx1L5tkrWUG1MdFwGdhhmaH6xvDCwt%2BBWBcQpW2tz9r5%2BA5nfjXwhzvQEelCeQDoS8VP94hcDpODBpWMGcBdqBT7%2Bp5zWm2EzkRdU0o2hZl2MB3P9lPbusZZxD4OwuzCQDfA9yWPxYMW%2FEEZ%2B9XoWqgVagC9Jdag%2BbM%2BS8YwGRrrhlwSoY%2BuT%2BIEEdM9nrK8vYDUnsntPV5EzE%2BpXxrONfSgZW76ZWf2WfN9oQ%3D%3D%7Ctkp%3ABk9SR8Se5p-KaA",
+        "url": "https://www.ebay.com/itm/158065929262?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=3043379988&itmmeta=01M1BJW7CJKTB742AHHN4H6ZE4&hash=item24cd76ac2e:g:KMgAAeSwKA1qTgsG&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAHKs7dd0%2BMOzROS2GLaUm52Fl08G1lbZaocrQlNCZT%2Fi7Boh9P6bqVaLb7P7C7rtiQ%2BwXdU%2BWYxZ2nzYphKQZRSiVCSN5oR3x1A2%2Bm0sHXWHhdzc81egH3Gqp3neqsw5NuwWO9TSrchZhigry0bUKwfbPPLxqdazU3%2FjjowwDjpt8sdQ72fkqzezc9v%2B4wZYPAjOhAOcsQiKdue4a0kiQSdI9M8GDb%2FSkbq0kq%2FSHppb1J0gQqAP8JM5Wp1oQx%2F5HcZF3CMz1duGaEYZp%2Bv%2FZb2gn3cJweJiWR0w5bGEJCXRLgUD7WJ5nKfZlk2H864EBcgGKlUAd%2F4mlZJ7%2FzAph4%7Ctkp%3ABk9SR8728PKKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/KMgAAeSwKA1qTgsG/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220917787,
-        "lastSeen": 1788081937100
-      },
-      {
-        "itemId": "318288331290",
-        "title": "Arceus LV.X HOLO PLATINUM POKEMON MINT PSA 9Opens in a new window or tab",
-        "priceC": 138639,
-        "shippingC": 0,
-        "landedC": 138639,
-        "url": "https://www.ebay.com/itm/318288331290?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=14043371478&itmmeta=01M18ZSHWF4M1N29BRFSDWBPP4&hash=item4a1b76821a:g:1SsAAeSw4ABqAoHA&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAypF13Tez1hyNkDp9MSoVRKtHDXhzpwOWlcfJDRD%2By3XfNhfp%2FQ2N1ytIfDsWhXDIjTVMCIuIA6oST92WWP0NdaNG5mzK8cINdw5XWyrT7eAAuBL35D46Cc8L2Ygr%2BRMV4IgEGEmzsPcUzNBIYq1dIAooWb%2F3ol7C77VUVcg%2FW%2BdwJhFcSSbt3zj%2FAEUccCP60UCSOAmSYRRr7u%2FQmXpM00JurC4UsuaBGPTIy1mgbpTjqsn%2FjOxNz8wwGhvqbqTFa0TJFqoP7y4XQStxw5iAfWpVKm1CBXmtSd4EeySnaGqCRfNwwkQOdxUYA%2BO8qIYcOhtXrWIj6rNiRmTMZCF13%7Ctkp%3ABk9SR8ae5p-KaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/1SsAAeSw4ABqAoHA/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787222267288,
-        "lastSeen": 1788081937100
-      },
-      {
-        "itemId": "800145336831",
-        "title": "PSA 10 Arceus Lv.X 011 - Grass And Fire Holo DeckOpens in a new window or tab",
-        "priceC": 250000,
-        "shippingC": 517,
-        "landedC": 250517,
-        "url": "https://www.ebay.com/itm/800145336831?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=14074140194&itmmeta=01M18ZSHWFZHAJS5YEYVN9SR0S&hash=itemba4c60e9ff:g:nawAAeSw3fZqIGlh&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCqv4ToMR5bOXsU6%2FdwmwegYwiGXnR%2FR3ScRI9MBTwmgrzLaEChN74wTj%2BBQa4VLwrNZkAnehyfujrHchuXttDAt2jKcGyeaSfFK0z0onDowmyQ5D5xKTffGt4bFiAmSp3twBv%2BmtDl4lXKyhCsROKXs8j8pbGQ2gXnPblT8QAb9EMhy9iQ%2BWdmvWHZUF4qUmmftgnBnfWgS9YwVYAE6J8ZlAM%2BtAvKsYMVmxuv2%2BKCkum5Vr21u4YN8ThSpgll8uAvJ1PcIV04xLa6yPYiIwoYEQjHeHluueL4SAuOlxVltw%3D%3D%7Ctkp%3ABk9SR8ie5p-KaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/nawAAeSw3fZqIGlh/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787223812447,
-        "lastSeen": 1788081937100
-      },
-      {
-        "itemId": "277410602577",
-        "title": "Arceus LV.X DP56 Diamond and Pearl Holo PSA 9 MINT POP 44Opens in a new window or tab",
-        "priceC": 499900,
-        "shippingC": 0,
-        "landedC": 499900,
-        "url": "https://www.ebay.com/itm/277410602577?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=11046729529&itmmeta=01M18ZSHWG81Z52540E6M3EVX2&hash=item4096f5de51:g:QvgAAeSwwc1o13aw&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDeBpwEwbMclvS%2FyBR5bS5GVvMXqA0%2Be8zb2JJaSlqOxBmvaCAekpdn3UxoQiDmi5PTrQHtnpyxmMmgEYip4VBqgD9ixc%2B5Sz66s64TMarRUu%2FnhCxxqLEE2WmLk3qCVS%2BFJkGaj1G1jeSUVnmptalUKX6hMqjsO7qpVVEBApC%2FPoboNBtA1ZdQo8hLR3ol%2FzrT4yxa6ziUpAbwFNicV9Z%2BmZjos8Xd74BhXMF8g9ZIovp3CP%2BH4L2SkT70dXjc39frS7%2FdByxUKwMAXj8fScgAArsCIjcPiuFN7YWJd2JtbnowqwKoOVFtGBSASQLP4QDB2oNLehr6poC%2FIBHz%2Fd9z%7Ctkp%3ABk9SR8ie5p-KaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/QvgAAeSwwc1o13aw/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787219911031,
-        "lastSeen": 1788081937100
-      },
-      {
-        "itemId": "287519693618",
-        "title": "Pokemon Arceus LV.X Holo Platinum Arceus 94 PSA 10 Gem MintOpens in a new window or tab",
-        "priceC": 2499900,
-        "shippingC": 999,
-        "landedC": 2500899,
-        "url": "https://www.ebay.com/itm/287519693618?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=16043370148&itmmeta=01M18ZSQC9259JXJ4RRCR4RFMZ&hash=item42f1825b32:g:RhsAAeSwQOlqe8LR&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDxWc54adz2BIKvtQ%2FM%2FeK0FEozhMveiRjS1nxoquSsVZ%2FgDWF3QYEfQwrtFm9COuz9blNh%2BNGc4C1KDZQ19K0crxpxFmfr10n4GXYqcXMy9%2BaKxgMCb%2BHOBJsplE%2FE7yG7ftgbCqLiww7SuzA9vflv8XDGr5M7M36eeD9VYelk7q3FmR994StIr%2F2Nz3XBliZ%2BFTwE9JjcwgY6fF259NcevIDM9BKPF%2Brw%2BvrCLhbds99g28ZjC%2FjAxfbfIk9M7018M6KxUImFxQNeKh2T0QUyazM1CElrVyNbXLHrtloiPNToJOOa%2BeUzCGZmYwwLJbJPFlqmiEjvkoy%2BhP2Q0Tmy%7Ctkp%3ABk9SR6z25p-KaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/RhsAAeSwQOlqe8LR/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787222267288,
-        "lastSeen": 1788081937100
+        "lastSeen": 1788169050571
       },
       {
         "itemId": "358856312100",
@@ -235,14 +161,14 @@
         "priceC": 8000000,
         "shippingC": 0,
         "landedC": 8000000,
-        "url": "https://www.ebay.com/itm/358856312100?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=8043378166&itmmeta=01M18ZSQC92XK1RDED8298YEKE&hash=item538d80c524:g:vkEAAeSwdJpqaWZu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDenqfarpQKtWiJAfgFcwOqEW9taRBfRns2%2Bp6Ief5u4mXKd3D19g3K%2BaJ3%2B%2BjKsECAbJDbWExqjU%2FaTvhEcHyg1o8vtH3LKuJ%2B2KMfuSYMriYhRylHnwUmJ9yW944wTcUgoK6nrKlOnLZiJ6nC0UtWYVsVlfQ2JfUBfluEx%2BZvOvL4UzNYkdzQkyvonDyqfniqZ1TH%2B%2FS6UAHeCnUmvxnrr%2BTqYn84a2KF7v7B0vz0aT7ulEH5KUvBAp3DNpKEgwtV7gNWw7CoZDFL9THeEmCkG9uMxW896Mgol%2B5%2FVpJL%2Fw%3D%3D%7Ctkp%3ABk9SR6z25p-KaA",
+        "url": "https://www.ebay.com/itm/358856312100?_skw=%28salamence%2Clv%2Cx%29+%2898%2Carceus%29+%28CGC%2CPSA%29&epid=8043378166&itmmeta=01M1BJWC1YNFZDFPG515RMG9W7&hash=item538d80c524:g:vkEAAeSwdJpqaWZu&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDenqfarpQKtWiJAfgFcwOqEW9taRBfRns2%2Bp6Ief5u4jw8ANp%2Fa4KsqSKEc1WYgYu7VYngW%2B0brcX2Iy7L9vRxMjDC0%2FLrfq2xKBFc84C2nCXcKpJz1VpAwvJvdh5Vh%2F0SuPBcD8r0W3NXSoWrKbG2JXBolXHzdPkjAOVz13m7vCA9wpysCfAI4FcQbOwcs1oG%2FfKVZIe25upGoN3mMnJEZuDIXZBcxAji0GpfGTX5UlK112Y1o8r26cim%2BAB8DOdd5w1JkxvE9eljZB7Fa8vXUljIRG8tsOmJp2NGsAn9nA%3D%3D%7Ctkp%3ABk9SR5zB8fKKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/vkEAAeSwdJpqaWZu/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787220917787,
-        "lastSeen": 1788081937100
+        "lastSeen": 1788169050571
       }
     ],
     "marketHistory": {
@@ -1522,7 +1448,7 @@
       ],
       "englishSaleCount": 95,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787909735791
+      "lastCapturedAt": 1788168898475
     }
   }
 }

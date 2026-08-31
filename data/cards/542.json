@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 542,
@@ -19,10 +19,10 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/23c0089693821361673f1e5a5165cb400491754f0c54769391f7966abd8eaa93/1600.jpg",
       "popularityScore": 90,
       "market": {
-        "ungradedC": 5578,
-        "grade9C": 25013,
-        "grade95C": 29927,
-        "cgc10C": 40699,
+        "ungradedC": 6826,
+        "grade9C": 25500,
+        "grade95C": 30000,
+        "cgc10C": 40694,
         "cgc10PristineC": 111500,
         "psa10C": 173285,
         "bgs10C": 225300,
@@ -30,7 +30,7 @@
         "psa10Pop": 529,
         "cgc10Pop": 105,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 3 sales per week\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787901527722
+        "fetchedAt": 1788160588411
       },
       "bestCgc10": {
         "itemId": "188824194066",
@@ -38,14 +38,14 @@
         "priceC": 62500,
         "shippingC": 0,
         "landedC": 62500,
-        "url": "https://www.ebay.com/itm/188824194066?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M191W4V4VZM2Z1VKVZR0PXHM&hash=item2bf6cc8c12:g:GFoAAeSwZuRqh28S&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA4iPyk2sPobjsH6g7iSUc5Hp8lYCFBaNdtDMUq9N0Yb9a%2BrAthOl2116JZMOgj3Cdzp72K0tDaW%2BDi8ACjMRnhyKdAqEzY7jxgqR0SYiQuPBzvRzGChglj2Iv9XEppMLujaEN9OCbnXWOFBP%2FXo9mChOrg2%2F95ZvjVw5q3XXyJaZYDzhpQM2ZVRDzcmr03mto6IBWw1qA4lVsP8JMnJRfoyjofXYGapGD1yXsR%2F7vdaWVrqoHqhcQnP9y7xP4Et3LObKAS8YDYmQ3e7gR6Ccv6TUUkSVhh%2B6j9O4u99JGD3etaJrGjDFhx2RsKC6Khc4s%3D%7Ctkp%3ABk9SR-TN8KGKaA",
+        "url": "https://www.ebay.com/itm/188824194066?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M1BNDJG0S4SSNJ65JCGPQ670&hash=item2bf6cc8c12:g:GFoAAeSwZuRqh28S&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCmfDNwlh78jP%2FkF7XGuhQ%2FtFlaDwzEwDpIlm1ZfdDRZy1BlpRVTPGo1R39RVRHQukBYnurOiFichLn5BP2UkuA0a6hqm7ULes9pqX2ujekGTuquvyv8OOHbQ4fHTnV8mY5KoFjLCC0l39dDMtGKpg93BUcDJLUELD8RzSAu8%2BO61vM6Ab0ogeqLiQbKJyFnGmpRxeYoEbKAtuD%2B%2F08GPFSDcY6vcgbsPP52kXWrhMbmNlhgyjtRMXj00aCMLNS%2BxqEIXEVjGyAeOxk8P35Jx6t%7Ctkp%3ABk9SR6iotvWKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GFoAAeSwZuRqh28S/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787296605948,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       "bestPsa10": {
         "itemId": "206513137279",
@@ -68,22 +68,22 @@
         "priceC": 29999,
         "shippingC": 0,
         "landedC": 29999,
-        "url": "https://www.ebay.com/itm/366462470830?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M191W4V31X0540NAYG3Q9BSG&hash=item5552dd8aae:g:CEgAAeSw26BqJcNP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC4AnTEGg8c3LaBGaDzj5Uwsejh2T16%2B1LUn2SwxRx4Xou%2Bglxubv76%2FCbcAz3PQ6G8scnHtyWUdSy68qDeMAcgXLfVlLSlfnLXDdz%2BmOCaBm8E80al5GactaCobMgIIcFBBUmkWnybd5EXWjmsoQUEBGxOekfiay5fqEwt7cr%2FhYQ9uBAnbciAIURG4OLcmoqOriuMZpL0%2B4hMFfyIIvnW7H7UlITWU6Mw2NKfUHO%2BjVZlBMpAOZfh4ud8QXy9p7dOS5TD2fQ3AwZUxU2AE%2FSLL3S0NzeYUvwBP7FcDMKBG78V1%2FXqEM0lM5HzEcV2C0E%3D%7Ctkp%3ABk9SR-DN8KGKaA",
+        "url": "https://www.ebay.com/itm/366462470830?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M1BNDJFTJFWY8PJ0MKK6GERQ&hash=item5552dd8aae:g:CEgAAeSw26BqJcNP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC4AnTEGg8c3LaBGaDzj5Uwsejh2T16%2B1LUn2SwxRx4Xou%2Bglxubv76%2FCbcAz3PQ6G8scnHtyWUdSy68qDeMAcgXLfVlLSlfnLXDdz%2BmOCaBm8E80al5GactaCobMgIIcHQ0C%2Bhujt%2FjfzMSHs%2Fcg8bdwqabZBpgI8FeiTCllH247VTR2TzlFF3obFxyd23n9a1DDtdG%2Bexm9HAhnQwO9JRwI0WfGymNtmHrzUCkXf9FQ2Vo40n0WDbXFkXxqkb1Yw0bR6e7K0saAudDwxxmbPYrbyU9nFNver9Gc54tXxz6EG12aV6YjUbm4d00Vlj2iM%3D%7Ctkp%3ABk9SR6CotvWKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/CEgAAeSw26BqJcNP/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
-        "psa10Bin": 4,
+        "psa10Bin": 2,
         "psa10Auction": 0,
-        "psa9Bin": 4
+        "psa9Bin": 3
       },
       "ratio": {
         "ok": true,
@@ -107,14 +107,14 @@
           "priceC": 62500,
           "shippingC": 0,
           "landedC": 62500,
-          "url": "https://www.ebay.com/itm/188824194066?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M191W4V4VZM2Z1VKVZR0PXHM&hash=item2bf6cc8c12:g:GFoAAeSwZuRqh28S&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA4iPyk2sPobjsH6g7iSUc5Hp8lYCFBaNdtDMUq9N0Yb9a%2BrAthOl2116JZMOgj3Cdzp72K0tDaW%2BDi8ACjMRnhyKdAqEzY7jxgqR0SYiQuPBzvRzGChglj2Iv9XEppMLujaEN9OCbnXWOFBP%2FXo9mChOrg2%2F95ZvjVw5q3XXyJaZYDzhpQM2ZVRDzcmr03mto6IBWw1qA4lVsP8JMnJRfoyjofXYGapGD1yXsR%2F7vdaWVrqoHqhcQnP9y7xP4Et3LObKAS8YDYmQ3e7gR6Ccv6TUUkSVhh%2B6j9O4u99JGD3etaJrGjDFhx2RsKC6Khc4s%3D%7Ctkp%3ABk9SR-TN8KGKaA",
+          "url": "https://www.ebay.com/itm/188824194066?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M1BNDJG0S4SSNJ65JCGPQ670&hash=item2bf6cc8c12:g:GFoAAeSwZuRqh28S&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCmfDNwlh78jP%2FkF7XGuhQ%2FtFlaDwzEwDpIlm1ZfdDRZy1BlpRVTPGo1R39RVRHQukBYnurOiFichLn5BP2UkuA0a6hqm7ULes9pqX2ujekGTuquvyv8OOHbQ4fHTnV8mY5KoFjLCC0l39dDMtGKpg93BUcDJLUELD8RzSAu8%2BO61vM6Ab0ogeqLiQbKJyFnGmpRxeYoEbKAtuD%2B%2F08GPFSDcY6vcgbsPP52kXWrhMbmNlhgyjtRMXj00aCMLNS%2BxqEIXEVjGyAeOxk8P35Jx6t%7Ctkp%3ABk9SR6iotvWKaA",
           "imageUrl": "https://i.ebayimg.com/images/g/GFoAAeSwZuRqh28S/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787296605948,
-          "lastSeen": 1788085138535
+          "lastSeen": 1788173447462
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -136,14 +136,14 @@
         "firstOpportunityAt": 1787296605948
       },
       "firstOpportunityAt": 1787296605948,
-      "updatedAt": 1788085138535
+      "updatedAt": 1788173447462
     },
     "prices": {
       "variantId": 542,
-      "ungradedC": 5578,
-      "grade9C": 25013,
-      "grade95C": 29927,
-      "cgc10C": 40699,
+      "ungradedC": 6826,
+      "grade9C": 25500,
+      "grade95C": 30000,
+      "cgc10C": 40694,
       "cgc10PristineC": 111500,
       "psa10C": 173285,
       "psa9Pop": 1310,
@@ -151,7 +151,7 @@
       "cgc10Pop": 105,
       "bgs10C": 225300,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 3 sales per week\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787901527722
+      "fetchedAt": 1788160588411
     },
     "listings": [
       {
@@ -175,14 +175,14 @@
         "priceC": 29999,
         "shippingC": 0,
         "landedC": 29999,
-        "url": "https://www.ebay.com/itm/366462470830?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M191W4V31X0540NAYG3Q9BSG&hash=item5552dd8aae:g:CEgAAeSw26BqJcNP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC4AnTEGg8c3LaBGaDzj5Uwsejh2T16%2B1LUn2SwxRx4Xou%2Bglxubv76%2FCbcAz3PQ6G8scnHtyWUdSy68qDeMAcgXLfVlLSlfnLXDdz%2BmOCaBm8E80al5GactaCobMgIIcFBBUmkWnybd5EXWjmsoQUEBGxOekfiay5fqEwt7cr%2FhYQ9uBAnbciAIURG4OLcmoqOriuMZpL0%2B4hMFfyIIvnW7H7UlITWU6Mw2NKfUHO%2BjVZlBMpAOZfh4ud8QXy9p7dOS5TD2fQ3AwZUxU2AE%2FSLL3S0NzeYUvwBP7FcDMKBG78V1%2FXqEM0lM5HzEcV2C0E%3D%7Ctkp%3ABk9SR-DN8KGKaA",
+        "url": "https://www.ebay.com/itm/366462470830?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M1BNDJFTJFWY8PJ0MKK6GERQ&hash=item5552dd8aae:g:CEgAAeSw26BqJcNP&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC4AnTEGg8c3LaBGaDzj5Uwsejh2T16%2B1LUn2SwxRx4Xou%2Bglxubv76%2FCbcAz3PQ6G8scnHtyWUdSy68qDeMAcgXLfVlLSlfnLXDdz%2BmOCaBm8E80al5GactaCobMgIIcHQ0C%2Bhujt%2FjfzMSHs%2Fcg8bdwqabZBpgI8FeiTCllH247VTR2TzlFF3obFxyd23n9a1DDtdG%2Bexm9HAhnQwO9JRwI0WfGymNtmHrzUCkXf9FQ2Vo40n0WDbXFkXxqkb1Yw0bR6e7K0saAudDwxxmbPYrbyU9nFNver9Gc54tXxz6EG12aV6YjUbm4d00Vlj2iM%3D%7Ctkp%3ABk9SR6CotvWKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/CEgAAeSw26BqJcNP/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "318569931653",
@@ -200,49 +200,34 @@
         "lastSeen": 1787814891499
       },
       {
+        "itemId": "117387012352",
+        "title": "Pokemon - Dragonite 19/62 Fossil 1st Edition PSA 9Opens in a new window or tab",
+        "priceC": 29999,
+        "shippingC": 790,
+        "landedC": 30789,
+        "url": "https://www.ebay.com/itm/117387012352?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&itmmeta=01M1BNDJFVHK2BK2FY2XVJJV5M&hash=item1b54cfa900:g:xrAAAeSwTclqlK~Q&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCzCv2KzjJJ5dS%2FxGE4FJ7GEcy%2BlX75OHCjOCwGNMTFWQebC8IerDreQZq4h%2BDKBQ7YA65U%2BB6mav8t9CIDgHu27eVpNQ%2FWxdmdway60s%2BSeyeHrlCwHhdxaVJyzspIEzk11GbhgCvR%2Fg13Zk3AfXNBwIdYKGbrgqU0SUgvjkot6FPAAN6UzK36jVYYB346Wr3qDDT5IKwBmuVCdrPd3S5NqYZhSum8C09vjE56vsFA3%2BkYyWSxGmbNi8cyySA6pvssqO4rsY7uHlBuwyhoD%2BiJ%7Ctkp%3ABk9SR6CotvWKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/xrAAAeSwTclqlK~Q/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1788160774374,
+        "lastSeen": 1788173447462
+      },
+      {
         "itemId": "128047985062",
         "title": "Dragonite 1st Edition PSA 9 Pokemon Fossil 19/62 Rare CardOpens in a new window or tab",
         "priceC": 34500,
         "shippingC": 478,
         "landedC": 34978,
-        "url": "https://www.ebay.com/itm/128047985062?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M191W4V3AFNVPZ1B57R08MHK&hash=item1dd04131a6:g:O08AAeSwzGVp68Wn&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDlMVvTMCcXI5zku94h%2BwY7ooNEwHAaaFs3OhF4tNIgsO77%2B%2FmfHVR1s1IIW%2FwcknkY%2FVaJeriEYr8VmLLyOHbh%2B5gf0F7vYF42ej8O08tUfoMSiUngONz8VtwM%2BEStNoLzHcYfOimNZ9wZe36Beg3If46WHwnjw2q9jHWS4X5U2Xc0pqnVLrGuTfNN%2FRpo0UzcBFNIHhFAP3cR2WHpLSPukOhYrsMurby9Ltgh%2Bq9uq03d8wfmgcXAhfLZqplHWWSLRE8wuZbujnZ%2BMtIqO5WW%7Ctkp%3ABk9SR-DN8KGKaA",
+        "url": "https://www.ebay.com/itm/128047985062?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M1BNDJFW4B4EY3BW203MZ2TP&hash=item1dd04131a6:g:O08AAeSwzGVp68Wn&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xC4MAjkQiDpdcGyiDLgpaPOQxOYUjSMTuJxy0RBDhJYpZ8RRnpi5tB%2B%2FOjAvZG0R90rMooET79vGmKnyceCl0306KGezj40t7l40eb5Y8YQRA0wgkddwpnIhk47du%2BoE4Exwu5R5mp5uIKdctdWsQy2JyAjomGCMe9Ops3QW9j%2FeNuwTTyPs%2BaiUCqUHIuAfVtf0wpeS5v4Wo6kgTokcyPR1bVangPpl5jdhglyTK7zrj64xaIADxJjIpo3ao7HgozLMX3xjW5FAgKzexHa6YTc2AtnE4Jn0eS8D1VYdHvF9L4Ecp%2BwTDQHabZVaUi%2BY3Y%3D%7Ctkp%3ABk9SR6KotvWKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/O08AAeSwzGVp68Wn/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787901772844,
-        "lastSeen": 1788085138535
-      },
-      {
-        "itemId": "336626847348",
-        "title": "PSA 9 MINT 1999 Pokemon Game 1st Edition Fossil Dragonite 19Opens in a new window or tab",
-        "priceC": 37500,
-        "shippingC": 0,
-        "landedC": 37500,
-        "url": "https://www.ebay.com/itm/336626847348?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M191W4V37166Y92DJCGZ1DR7&hash=item4e60860e74:g:qLcAAeSwZM9qJhXL&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xALWoQ3tv6zqX%2BsvuygZTy4%2FAoWHhmdgB88XGwTnNrtnYz9zeaMiyJWKriLeUmRoksjvh8Br5FSi3KZnWAJt6IwSXxpa8fg%2BJNJTR0DA8XQ4ss98QSqOxWM9GG%2BF9%2FsklxlYipmSKg%2FmshD1mthqqae9RJ4L%2BJQNrzKUeseuyYFY3XzqGXc7z7rsAfNGILasktQHJbo%2BJjgn3%2BgmlxOzMoJRUlQSy63jC7rY0i5w3R7MfTCU9EW5cuUk3BJ3JWHMpEB6xF22qqfx9bMVXiBH48YyU%2Fpbk6LFTsSxP%2B4Nxh3qHenYIHBfFyEewaEAJ9%2Bs%2B8%3D%7Ctkp%3ABk9SR-LN8KGKaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/qLcAAeSwZM9qJhXL/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
-      },
-      {
-        "itemId": "397572402430",
-        "title": "Pokémon Dragonite Fossil 1st Edition PSA 9 English CardOpens in a new window or tab",
-        "priceC": 50000,
-        "shippingC": 562,
-        "landedC": 50562,
-        "url": "https://www.ebay.com/itm/397572402430?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M191W4V46G22RVNH3T75F9Q5&hash=item5c91296cfe:g:DGoAAeSwHzNphAwp&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDlLRwKWVVJiqypRWDoWleoGDU6yfUs3e20oR4ENJem16cn3t2bWcoPTeI7dpvAY%2FYvcwjsSSS8hky0Hd9%2B9w%2FwdzCTVtuvftawe3TZO%2FA7csD2cqugcJzcmmzjfyS%2BG74iJxcMC0tJBgFo51LQyMQSIDiXBeWx0r5IxIUI%2FKT%2FuPLRlK2hTvTdEEk5CjBYvyRtC0srzRDmsQwxhNqnT9%2FnPF3lpnaw43sXiOEIw2tO8KPJk2axPgpDV7owDfbAaJX1c%2BonyB5H6UxappDqBhSz%7Ctkp%3ABk9SR-LN8KGKaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/DGoAAeSwHzNphAwp/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "188824194066",
@@ -250,14 +235,14 @@
         "priceC": 62500,
         "shippingC": 0,
         "landedC": 62500,
-        "url": "https://www.ebay.com/itm/188824194066?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M191W4V4VZM2Z1VKVZR0PXHM&hash=item2bf6cc8c12:g:GFoAAeSwZuRqh28S&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA4iPyk2sPobjsH6g7iSUc5Hp8lYCFBaNdtDMUq9N0Yb9a%2BrAthOl2116JZMOgj3Cdzp72K0tDaW%2BDi8ACjMRnhyKdAqEzY7jxgqR0SYiQuPBzvRzGChglj2Iv9XEppMLujaEN9OCbnXWOFBP%2FXo9mChOrg2%2F95ZvjVw5q3XXyJaZYDzhpQM2ZVRDzcmr03mto6IBWw1qA4lVsP8JMnJRfoyjofXYGapGD1yXsR%2F7vdaWVrqoHqhcQnP9y7xP4Et3LObKAS8YDYmQ3e7gR6Ccv6TUUkSVhh%2B6j9O4u99JGD3etaJrGjDFhx2RsKC6Khc4s%3D%7Ctkp%3ABk9SR-TN8KGKaA",
+        "url": "https://www.ebay.com/itm/188824194066?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M1BNDJG0S4SSNJ65JCGPQ670&hash=item2bf6cc8c12:g:GFoAAeSwZuRqh28S&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCmfDNwlh78jP%2FkF7XGuhQ%2FtFlaDwzEwDpIlm1ZfdDRZy1BlpRVTPGo1R39RVRHQukBYnurOiFichLn5BP2UkuA0a6hqm7ULes9pqX2ujekGTuquvyv8OOHbQ4fHTnV8mY5KoFjLCC0l39dDMtGKpg93BUcDJLUELD8RzSAu8%2BO61vM6Ab0ogeqLiQbKJyFnGmpRxeYoEbKAtuD%2B%2F08GPFSDcY6vcgbsPP52kXWrhMbmNlhgyjtRMXj00aCMLNS%2BxqEIXEVjGyAeOxk8P35Jx6t%7Ctkp%3ABk9SR6iotvWKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GFoAAeSwZuRqh28S/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787296605948,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "117366903569",
@@ -295,44 +280,14 @@
         "priceC": 199900,
         "shippingC": 562,
         "landedC": 200462,
-        "url": "https://www.ebay.com/itm/198603949563?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M191WFF31MB6996DQ73CD7K8&hash=item2e3db7c5fb:g:GKwAAeSw92lqkxh8&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xASKWFRwm4DG%2FxEmyz2dczB4%2BsK68LQ%2FCcSdIX%2FzeeddUlM9htNjE6UaXlsDsr3E6zR0pyUixiLpDjSABoOudNbRJGDNoIVcOgo92cTwUIpwYyqnWUwq4dFah9JLZdiBgqqssKoB50BaJESrylhQN%2BEGPYL%2FvUGOjBO2HLC1k0gYCs5i9h1LFbYw7vKBamhpDuNWiZXoDFfinM3HZf%2BhBJQCpHH606qKMOL1bbiatOPIPDF8oysmx5Lcl8InDlLfg%2B9JQLtVQwvqujpiip3BJbz1rzF4KngpIV8UQiEwPIZ8v3cyodfa1rRroGiz7Lui6k%3D%7Ctkp%3ABk9SR_738aGKaA",
+        "url": "https://www.ebay.com/itm/198603949563?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M1BNDZ2RTX44B7HEH0QC5M1Z&hash=item2e3db7c5fb:g:GKwAAeSw92lqkxh8&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDuFyxHK1A9Hio10ka9EoldCofsJwTCa2jwXU8YeAQSNLZG%2BfC3shLIRDGFekle6QQv3UU9rUdkhucN4CgXOsx%2FqLGHn9i8iRPi7EfjuegoNg21quV%2B2%2FRNq73IDusSgzDzkp58Xzt%2FEhIEq31ivuRlmHDCfS9KMF0fK%2F5FjIsNy2CEjWzEKydUyHdM%2BLuDZPYFYzMRUmo4w7EmRC2DGSFZPAceq6zUECDmCnV16IIXmyE2OjP%2FbpoirnKSe9BZG1J%2BgrUKnxFHo9yJW4cVBA6Q%7Ctkp%3ABk9SR9zxt_WKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GKwAAeSw92lqkxh8/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1788074912493,
-        "lastSeen": 1788085138535
-      },
-      {
-        "itemId": "406926709449",
-        "title": "Pokémon Fossil 1st Edition Dragonite Non-Holo PSA 10Opens in a new window or tab",
-        "priceC": 220000,
-        "shippingC": 499,
-        "landedC": 220499,
-        "url": "https://www.ebay.com/itm/406926709449?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=4043367746&itmmeta=01M191WFF3XNGNCDDSG7086PMZ&hash=item5ebeb8d2c9:g:vmIAAeSwJCdpljOh&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDbqcfQugOyZJe%2BRnTLdaJjgtSFlSq03hqH5YS%2Ba9TlkWMgoUbHR1BgWRd1V%2B3JoXl2mbayT%2F6Nj6WoK%2F9XX1jP1igmUBU6pHKWRHEIkFqiBPWwKUd%2FbzVwLXPlX8qUqOvC4dS0mrKFv7wed37GB9TKmiRizAyJ67cUft%2BS5wFntu2%2BpxXqmXpWY5sWmnI6E64lAmQi%2B2rjqzCNhnUTzUd3dYzzpLUUkPUK5jZ%2BLfI1BPcjV4tmJT7Vi7L%2FuGed3Xcd2okjm1cp7g%2BncgjbIk49%7Ctkp%3ABk9SR4D48aGKaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/vmIAAeSwJCdpljOh/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
-      },
-      {
-        "itemId": "397803034471",
-        "title": "Pokémon 1st edition Dragonite Holo Fossil PSA 10Opens in a new window or tab",
-        "priceC": 2999900,
-        "shippingC": 0,
-        "landedC": 2999900,
-        "url": "https://www.ebay.com/itm/397803034471?_skw=%28dragonite%29+%2819%2Cfossil%29+%28CGC%2CPSA%29&epid=18043374132&itmmeta=01M191WFF541H4F4F2DX5XQ2TH&hash=item5c9ee89767:g:LowAAeSwlK5p0Ztp&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBBotu1oE0BawcLNN%2BCX6EtkCSPDdeR0H%2Fz80VkK3%2BtPP91EONfkP5ZgLSzna3bdDdo5B3YNnIEGmtaV5bHoq6cUJaOoBfwtRNSQRPKiz83%2Bbx5NK0QGsFLaOv23YKtFFE1FDK%2FJKspnnxfwI7FB00eHh0cBmCLSep8BhHc0DLCWvSUo4FWG76wwGLflm2T7848oZfXMxlmsjR%2FF6LcPDyx6A6kW8PWTgU7moYldIgpe7KsVw4zqFQu38fdQ4hYMZjtfiSXGN3myCULKohFVc08%7Ctkp%3ABk9SR4b48aGKaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/LowAAeSwlK5p0Ztp/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       }
     ],
     "marketHistory": {
@@ -347,6 +302,19 @@
           "gradingStatus": "graded",
           "gradingCompany": "PSA",
           "gradingGrade": 9,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7874832,
+          "saleDate": "2026-08-27",
+          "priceC": 13109,
+          "title": "Dragonite (19) #19 Near Mint English 1st Edition",
+          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F44427%2F-&sharedId=web&subId1=completed",
+          "sourceMarketplace": "TCGPlayer",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -620,6 +588,19 @@
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 7875037,
+          "saleDate": "2026-08-10",
+          "priceC": 36000,
+          "title": "Dragonite 4/62 1st Edition Holo Rare Fossil *MISLABEL* Pokemon PSA 6 *194 19/62",
+          "url": "https://www.ebay.com/itm/287488045386?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 6,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1870,32 +1851,6 @@
           "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 113139,
-          "saleDate": "2026-06-29",
-          "priceC": 22000,
-          "title": "Pokemon 1999 Dragonite 19/62 1st Edition Fossil PSA 9 19/62",
-          "url": "https://www.ebay.com/itm/407012167562?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 113168,
-          "saleDate": "2026-06-28",
-          "priceC": 95000,
-          "title": "Pokémon TCG Dragonite Fossil 4/62 Holo 1st Edition Holo Rare Beckett 8.5 NM-MINT #19",
-          "url": "https://www.ebay.com/itm/126993865636?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "BGS",
-          "gradingGrade": 8.5,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "mismatch"
         }
       ],
       "monthlyPsa10": [
@@ -1925,9 +1880,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 302,
+      "englishSaleCount": 304,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787901525526
+      "lastCapturedAt": 1788160586336
     }
   }
 }

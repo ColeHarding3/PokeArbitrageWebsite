@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 1786,
@@ -20,7 +20,7 @@
       "popularityScore": 80,
       "market": {
         "ungradedC": 1999,
-        "grade9C": 9030,
+        "grade9C": 9007,
         "grade95C": 9900,
         "cgc10C": 24700,
         "cgc10PristineC": 44500,
@@ -30,7 +30,7 @@
         "psa10Pop": 52,
         "cgc10Pop": 16,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per month\",\"volume: 2 sales per month\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787903157283
+        "fetchedAt": 1788162242394
       },
       "bestCgc10": {
         "itemId": "178204821948",
@@ -38,44 +38,44 @@
         "priceC": 25000,
         "shippingC": 597,
         "landedC": 25597,
-        "url": "https://www.ebay.com/itm/178204821948?_skw=%28light%2Cazumarill%29+%2813%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=3043379746&itmmeta=01M18TDB75K149N83K67WRBSBB&hash=item297dd5c9bc:g:-HkAAeSw2dNqJxbg&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCL9%2FQ%2FERAWcWE4MrQ1EUStMrmit%2F7yy6IXr64Hgtm7pA%2BIXiuNBRg5jcBIli2Twi9z1E74zL2z5t9W3ghR7tdnxo5U%2Ff6z%2B%2FRavDss35LyVFbhLtlKLSo7Dyt7QjWfPta%2BgVaBhzHajfb2bYoBIPgZfo34bGK9ycjTqLf0Ivozj7YMZjXX1MkUAseI4rIlGdiXPKhZl0htRO6fS72dnBqA41X%2Bp7h4MR3NwqPrUIe8GpqUhM5W4Sgknac%2FZVj5aI%2BNtTsV6kMWkNrsKnWhq6rOF%2FXzCXqucwMQueFc%2F4mjGwMCECmzs5Dz%2BQJ%2BMtmb5nfXaBmmCh%2Bp%2BtMVvcQiOhvI%7Ctkp%3ABk9SR_SztZqKaA",
+        "url": "https://www.ebay.com/itm/178204821948?_skw=%28light%2Cazumarill%29+%2813%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=3043379746&itmmeta=01M1BCGBK9TQY2ZEW439S90Y44&hash=item297dd5c9bc:g:-HkAAeSw2dNqJxbg&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAV6aB4t0GZmrcgHd6dgnu8YyWz7uXNjEAr%2B0xKRsNeH5mhdxaoVZy350GjIXhEFy4AQ5NhtH3LUomlA4v0UhykKsFFGmpXzm%2BjefiplLZV%2Bq65C2mmpfhjwi6AamS7Wx508Ef0EJ7VZK844KyXhC28OrX4G6RWbzip9WbbKUl%2BOLpBDL8HdLvkjfNhpWPHtlMA47Uql7pVMSnJpOt0%2BBSP4sWawRP7TVGWaPob6eNc283abXMYLL%2F3JLnp27v%2BjIs8yJ6J%2F21Wn12NzvDVP3SFbkts4fpA7eRtvaLNK1lVsg%3D%3D%7Ctkp%3ABk9SR_y5weyKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-HkAAeSw2dNqJxbg/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094604788,
-        "lastSeen": 1788076458155
+        "lastSeen": 1788162510887
       },
       "bestPsa10": {
         "itemId": "305595459198",
         "title": "Pokémon TCG - Light Azumarill Neo Destiny 13/105 Holo Rare - Likely PSA 10 MintOpens in a new window or tab",
         "priceC": 25000,
-        "shippingC": 895,
-        "landedC": 25895,
-        "url": "https://www.ebay.com/itm/305595459198?_skw=%28light%2Cazumarill%29+%2813%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=3043379746&itmmeta=01M18TDB75HR4AHRSPFZC2MCH6&hash=item4726e8a67e:g:qMsAAOSwnipmWjmW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAoXOUYshK0AAwrPgr9Sbowa59uFVOBIzvcR3bWtYydz3NoAwuncH%2FnMVr1OoKSIweo2TdawmyuWbhxjrnTmf6prjN5HIabHA6qfU1KWatCr86lS3CnYBNx18cOwe%2BTgbfe5mRWGgcu4EMI7bdZ4jxJV0mykhEBcA%2FB0KJGQM3N0UFDBONhmfjpyWZqIvfUbXaYeMHCb%2BM9%2BMiB%2FWbNIbuLPMTGvMaXkwhnqj87v9IL2TcfINp8PKi1Clop3J2BZI18GXyhOw35JtBR73%2B6FzcrIjRKRzODgcxAwU2kpeRDwtfHBhbaibs7Zb0Vt92PN1EFfY7I11vwlBpKb8ACHbu2%7Ctkp%3ABk9SR_SztZqKaA",
+        "shippingC": 860,
+        "landedC": 25860,
+        "url": "https://www.ebay.com/itm/305595459198?_skw=%28light%2Cazumarill%29+%2813%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=3043379746&itmmeta=01M1BCGBK95QQCYA6HS9FWKX4R&hash=item4726e8a67e:g:qMsAAOSwnipmWjmW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAoXOUYshK0AAwrPgr9Sbowa59uFVOBIzvcR3bWtYydz3NoAwuncH%2FnMVr1OoKSIweo2TdawmyuWbhxjrnTmf6prjN5HIabHA6qfU1KWatCr86lS3CnYBNx18cOwe%2BTgbfr2zJP8oDs6JU0vjWp5gSdmOue1qV9UXK%2BGf4H9JiLRwDOpScqeZ2wFO2b%2BqM7JktqdzwSLy3nv6YcGKcAhRt%2BrHnu5GtvQp0RGfp9lM95478Cac84AHAwGFCEfENYxJ2owgrslEZB21ZN0Kyoq5klKKWjKFMQFPvKH5qwXc3Po9HwpXdYXZtNMir1SvZMKvopM3aorrBHFq5IuXYHn08l%7Ctkp%3ABk9SR_y5weyKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/qMsAAOSwnipmWjmW/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1788076458155
+        "lastSeen": 1788162510887
       },
       "bestPsa9": {
         "itemId": "327125326060",
         "title": "2002 Neo Destiny Light Azumarill Holo #13 PSA 9 Vintage PokemonOpens in a new window or tab",
         "priceC": 14500,
-        "shippingC": 624,
-        "landedC": 15124,
-        "url": "https://www.ebay.com/itm/327125326060?_skw=%28light%2Cazumarill%29+%2813%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=3043379746&itmmeta=01M18TDB723R6HN193NYH0MPGX&hash=item4c2a3058ec:g:5dsAAeSwzANp7rVD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB6KDh8ufeAQEGTxzohHfIVVlnzcSWKVrmLIcxMAGmpNsiyoLj%2BrghpnEioyztDCQp7BbvbygIG%2BuP92oIkMD32fzxWPUHBVuQmrv8oksAb%2BUKkEmNkTrih%2FOeggqN11T3%2FRxcrQ9EJJY6DE5FLVjSjo8Cvrxh6ct8KPKmLg9fo6kPkGqwPt61jxtmeK0fQw%2FUAQx9CO%2FCts89EutcMVeqoPRulaUv5A96bSKaIV1pLMXP1%2BUnt%2FtWoM47vi0V4kPBfy7REme4ux%2B4oUYDhoEcVk6hWXnNBPIUlwKi84e9Jm%2FtevZrUXsfBS1AQUla7nX5hRWROrefTTlm8jarcSfab%7Ctkp%3ABk9SR-yztZqKaA",
+        "shippingC": 607,
+        "landedC": 15107,
+        "url": "https://www.ebay.com/itm/327125326060?_skw=%28light%2Cazumarill%29+%2813%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=3043379746&itmmeta=01M1BCGBK7MEHJSBQPZ2C5N46C&hash=item4c2a3058ec:g:5dsAAeSwzANp7rVD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA1%2BwPyk0prGQIzCaK2x7BpXVb%2BKalD4Yy9Bx7tgeINhefOXkGk15D2qwvpzguZD6cydQq3U0PfHtSeABogwunfBOZGlBgFCY8OboyXU3MfgsOPzqDnqyb63GCA%2BYZowSKfIqewd5C3SYd9viQLC%2FCg2vbumjSIvkks3ACHGHUoH%2BnGyDJgCgKOtUBSVnu57IzPLCZLEXxcqzcdlkvYnURD0o6tiqPyluHUBybyYs74GDWv48XVeRY9ZB9l%2FsP1LLVQGdY32tKizMUAv8E1bmEiI8ctBu8tKIuXYpVbiB46VA%3D%3D%7Ctkp%3ABk9SR_S5weyKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/5dsAAeSwzANp7rVD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1788076458155
+        "lastSeen": 1788162510887
       },
       "counts": {
         "cgc10Bin": 1,
@@ -108,12 +108,12 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787094604788,
-      "updatedAt": 1788076458155
+      "updatedAt": 1788162510887
     },
     "prices": {
       "variantId": 1786,
       "ungradedC": 1999,
-      "grade9C": 9030,
+      "grade9C": 9007,
       "grade95C": 9900,
       "cgc10C": 24700,
       "cgc10PristineC": 44500,
@@ -123,23 +123,23 @@
       "cgc10Pop": 16,
       "bgs10C": 195600,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per month\",\"volume: 2 sales per month\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787903157283
+      "fetchedAt": 1788162242394
     },
     "listings": [
       {
         "itemId": "327125326060",
         "title": "2002 Neo Destiny Light Azumarill Holo #13 PSA 9 Vintage PokemonOpens in a new window or tab",
         "priceC": 14500,
-        "shippingC": 624,
-        "landedC": 15124,
-        "url": "https://www.ebay.com/itm/327125326060?_skw=%28light%2Cazumarill%29+%2813%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=3043379746&itmmeta=01M18TDB723R6HN193NYH0MPGX&hash=item4c2a3058ec:g:5dsAAeSwzANp7rVD&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB6KDh8ufeAQEGTxzohHfIVVlnzcSWKVrmLIcxMAGmpNsiyoLj%2BrghpnEioyztDCQp7BbvbygIG%2BuP92oIkMD32fzxWPUHBVuQmrv8oksAb%2BUKkEmNkTrih%2FOeggqN11T3%2FRxcrQ9EJJY6DE5FLVjSjo8Cvrxh6ct8KPKmLg9fo6kPkGqwPt61jxtmeK0fQw%2FUAQx9CO%2FCts89EutcMVeqoPRulaUv5A96bSKaIV1pLMXP1%2BUnt%2FtWoM47vi0V4kPBfy7REme4ux%2B4oUYDhoEcVk6hWXnNBPIUlwKi84e9Jm%2FtevZrUXsfBS1AQUla7nX5hRWROrefTTlm8jarcSfab%7Ctkp%3ABk9SR-yztZqKaA",
+        "shippingC": 607,
+        "landedC": 15107,
+        "url": "https://www.ebay.com/itm/327125326060?_skw=%28light%2Cazumarill%29+%2813%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=3043379746&itmmeta=01M1BCGBK7MEHJSBQPZ2C5N46C&hash=item4c2a3058ec:g:5dsAAeSwzANp7rVD&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA1%2BwPyk0prGQIzCaK2x7BpXVb%2BKalD4Yy9Bx7tgeINhefOXkGk15D2qwvpzguZD6cydQq3U0PfHtSeABogwunfBOZGlBgFCY8OboyXU3MfgsOPzqDnqyb63GCA%2BYZowSKfIqewd5C3SYd9viQLC%2FCg2vbumjSIvkks3ACHGHUoH%2BnGyDJgCgKOtUBSVnu57IzPLCZLEXxcqzcdlkvYnURD0o6tiqPyluHUBybyYs74GDWv48XVeRY9ZB9l%2FsP1LLVQGdY32tKizMUAv8E1bmEiI8ctBu8tKIuXYpVbiB46VA%3D%3D%7Ctkp%3ABk9SR_S5weyKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/5dsAAeSwzANp7rVD/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1788076458155
+        "lastSeen": 1788162510887
       },
       {
         "itemId": "155654546054",
@@ -147,14 +147,14 @@
         "priceC": 17999,
         "shippingC": 995,
         "landedC": 18994,
-        "url": "https://www.ebay.com/itm/155654546054?_skw=%28light%2Cazumarill%29+%2813%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=3043379746&itmmeta=01M18TDB74DEJ7FFGXHW6YEZYC&hash=item243dbbe286:g:mK0AAOSwyt1k0JCZ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAzYQXFQnHI9qqoAkar9SkMZ%2FFxVfTc3jPQ8eo3mHwlpTPDldDJUIJ3IlKMV6q9lzZXpkJ8eciw4ypqxwSMP9%2BPcbb1tgsnVU7Acbu7%2BSJG1XjejCHp4BxR3VHMH3ozSQW8K9hrpr7E--aPcxECqCniyJTg%2BTee0GV09sA21W8MUVb0RwkoQ4tdx0hFwKC%2BiXRTC8Be3hMKnzujof4EbvcbwP%2FwASoEBIfH%2BuE6KEMfPYsSItCybbQ6383X9sOVS%2Bh9cpcX5elKve9B6AKzQ9Z24i08sKtGU%2BV3ulGBuD8yfuS6sMUbuasRaqM995iQEGdMF%2BdLWHKAhaknew4kR6K3%7Ctkp%3ABk9SR-6ztZqKaA",
+        "url": "https://www.ebay.com/itm/155654546054?_skw=%28light%2Cazumarill%29+%2813%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=3043379746&itmmeta=01M1BCGBK8V8SM5XH45CKA36Q6&hash=item243dbbe286:g:mK0AAOSwyt1k0JCZ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAzYQXFQnHI9qqoAkar9SkMZ%2FFxVfTc3jPQ8eo3mHwlpTPDldDJUIJ3IlKMV6q9lzZXpkJ8eciw4ypqxwSMP9%2BPcbb1tgsnVU7Acbu7%2BSJG1XjejCHp4BxR3VHMH3ozSQWV3yPs3kpHLtJZiCXkqYBKs4%2BtgxVLmPlJxDfeIp5D3M0dMYhlyQcPM38KvrNfatu9qzybKISnbVYBTOkLrPpScZMtZKQMLXywRgSGL56yUhZvLPxy36hG56va3pYDVCCBZc%2Fi3Q%2FVKfVolL3UUIaS3GtSSywMhbAXlzlpc88KyRv0BrZQy3OZV192GModWRSg5kCbhwoHuPjJASc%2FnJi9%7Ctkp%3ABk9SR_i5weyKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/mK0AAOSwyt1k0JCZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1788076458155
+        "lastSeen": 1788162510887
       },
       {
         "itemId": "178204821948",
@@ -162,29 +162,29 @@
         "priceC": 25000,
         "shippingC": 597,
         "landedC": 25597,
-        "url": "https://www.ebay.com/itm/178204821948?_skw=%28light%2Cazumarill%29+%2813%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=3043379746&itmmeta=01M18TDB75K149N83K67WRBSBB&hash=item297dd5c9bc:g:-HkAAeSw2dNqJxbg&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCL9%2FQ%2FERAWcWE4MrQ1EUStMrmit%2F7yy6IXr64Hgtm7pA%2BIXiuNBRg5jcBIli2Twi9z1E74zL2z5t9W3ghR7tdnxo5U%2Ff6z%2B%2FRavDss35LyVFbhLtlKLSo7Dyt7QjWfPta%2BgVaBhzHajfb2bYoBIPgZfo34bGK9ycjTqLf0Ivozj7YMZjXX1MkUAseI4rIlGdiXPKhZl0htRO6fS72dnBqA41X%2Bp7h4MR3NwqPrUIe8GpqUhM5W4Sgknac%2FZVj5aI%2BNtTsV6kMWkNrsKnWhq6rOF%2FXzCXqucwMQueFc%2F4mjGwMCECmzs5Dz%2BQJ%2BMtmb5nfXaBmmCh%2Bp%2BtMVvcQiOhvI%7Ctkp%3ABk9SR_SztZqKaA",
+        "url": "https://www.ebay.com/itm/178204821948?_skw=%28light%2Cazumarill%29+%2813%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=3043379746&itmmeta=01M1BCGBK9TQY2ZEW439S90Y44&hash=item297dd5c9bc:g:-HkAAeSw2dNqJxbg&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAV6aB4t0GZmrcgHd6dgnu8YyWz7uXNjEAr%2B0xKRsNeH5mhdxaoVZy350GjIXhEFy4AQ5NhtH3LUomlA4v0UhykKsFFGmpXzm%2BjefiplLZV%2Bq65C2mmpfhjwi6AamS7Wx508Ef0EJ7VZK844KyXhC28OrX4G6RWbzip9WbbKUl%2BOLpBDL8HdLvkjfNhpWPHtlMA47Uql7pVMSnJpOt0%2BBSP4sWawRP7TVGWaPob6eNc283abXMYLL%2F3JLnp27v%2BjIs8yJ6J%2F21Wn12NzvDVP3SFbkts4fpA7eRtvaLNK1lVsg%3D%3D%7Ctkp%3ABk9SR_y5weyKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-HkAAeSw2dNqJxbg/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094604788,
-        "lastSeen": 1788076458155
+        "lastSeen": 1788162510887
       },
       {
         "itemId": "305595459198",
         "title": "Pokémon TCG - Light Azumarill Neo Destiny 13/105 Holo Rare - Likely PSA 10 MintOpens in a new window or tab",
         "priceC": 25000,
-        "shippingC": 895,
-        "landedC": 25895,
-        "url": "https://www.ebay.com/itm/305595459198?_skw=%28light%2Cazumarill%29+%2813%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=3043379746&itmmeta=01M18TDB75HR4AHRSPFZC2MCH6&hash=item4726e8a67e:g:qMsAAOSwnipmWjmW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAoXOUYshK0AAwrPgr9Sbowa59uFVOBIzvcR3bWtYydz3NoAwuncH%2FnMVr1OoKSIweo2TdawmyuWbhxjrnTmf6prjN5HIabHA6qfU1KWatCr86lS3CnYBNx18cOwe%2BTgbfe5mRWGgcu4EMI7bdZ4jxJV0mykhEBcA%2FB0KJGQM3N0UFDBONhmfjpyWZqIvfUbXaYeMHCb%2BM9%2BMiB%2FWbNIbuLPMTGvMaXkwhnqj87v9IL2TcfINp8PKi1Clop3J2BZI18GXyhOw35JtBR73%2B6FzcrIjRKRzODgcxAwU2kpeRDwtfHBhbaibs7Zb0Vt92PN1EFfY7I11vwlBpKb8ACHbu2%7Ctkp%3ABk9SR_SztZqKaA",
+        "shippingC": 860,
+        "landedC": 25860,
+        "url": "https://www.ebay.com/itm/305595459198?_skw=%28light%2Cazumarill%29+%2813%2Cneo%2Cdestiny%29+%28CGC%2CPSA%29&epid=3043379746&itmmeta=01M1BCGBK95QQCYA6HS9FWKX4R&hash=item4726e8a67e:g:qMsAAOSwnipmWjmW&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAoXOUYshK0AAwrPgr9Sbowa59uFVOBIzvcR3bWtYydz3NoAwuncH%2FnMVr1OoKSIweo2TdawmyuWbhxjrnTmf6prjN5HIabHA6qfU1KWatCr86lS3CnYBNx18cOwe%2BTgbfr2zJP8oDs6JU0vjWp5gSdmOue1qV9UXK%2BGf4H9JiLRwDOpScqeZ2wFO2b%2BqM7JktqdzwSLy3nv6YcGKcAhRt%2BrHnu5GtvQp0RGfp9lM95478Cac84AHAwGFCEfENYxJ2owgrslEZB21ZN0Kyoq5klKKWjKFMQFPvKH5qwXc3Po9HwpXdYXZtNMir1SvZMKvopM3aorrBHFq5IuXYHn08l%7Ctkp%3ABk9SR_y5weyKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/qMsAAOSwnipmWjmW/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787049693356,
-        "lastSeen": 1788076458155
+        "lastSeen": 1788162510887
       }
     ],
     "marketHistory": {
@@ -1859,7 +1859,7 @@
       ],
       "englishSaleCount": 250,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787903155414
+      "lastCapturedAt": 1788162240540
     }
   }
 }

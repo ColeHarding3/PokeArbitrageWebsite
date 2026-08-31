@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 2212,
@@ -19,9 +19,9 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/b83dce547db5fd278d0cec4cb0f2401d845dfe7fd05d53c0fb9dc4afc58549c7/1600.jpg",
       "popularityScore": 91,
       "market": {
-        "ungradedC": 27804,
-        "grade9C": 100000,
-        "grade95C": 110000,
+        "ungradedC": 27635,
+        "grade9C": 130000,
+        "grade95C": 143000,
         "cgc10C": 134600,
         "cgc10PristineC": 242300,
         "psa10C": 694652,
@@ -30,22 +30,22 @@
         "psa10Pop": 43,
         "cgc10Pop": 23,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    6 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787903660905
+        "fetchedAt": 1788162751621
       },
       "bestCgc10": {
         "itemId": "820028741463",
         "title": "Pokémon TCG Gengar 48/165 Expedition Reverse Holo CGC 10 (2002) Low PopOpens in a new window or tab",
         "priceC": 800000,
-        "shippingC": 548,
-        "landedC": 800548,
-        "url": "https://www.ebay.com/itm/820028741463?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379238&itmmeta=01M192FBFKETVRD960E4STD7FG&hash=itembeed859757:g:1ZsAAeSw9SVqh4ax&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC2l2EWF4JaB%2BXPacC6XY8XeCnChPKfdGWg%2Bl7hRKrFErAcEnnauNPm8f6dhBsnV%2B0Wa%2BwklSk7SyKF%2B91kelvFjZknAEguNek5o20bAUKC9ofOmZOMWjlHGO8LiW8%2FiSx1iHMlNOHN1NKRa3%2FRH%2BvfNpXVqpGkRhIQqhpPJcO6bu7UPL5PNabbSmqP189kVatHZUZs3kwEF776SYnYaPVe0sZl3k66GfOVPa4fyMnTO9OIVJrtpjNUjN4xuF8FleekyYNTbpqcAH2NzZVynKb5q8SR8r7%2FK4KvL4IcE2F2SrAXOyjYjzmsDCUIlzDBQWxcz5oepmfYwqgVR4YSWooD%7Ctkp%3ABk9SR7q4vaKKaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/820028741463?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379238&itmmeta=01M1BD46NWM0XPJ9EA2GMAB86K&hash=itembeed859757:g:1ZsAAeSw9SVqh4ax&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC2l2EWF4JaB%2BXPacC6XY8XeCnChPKfdGWg%2Bl7hRKrFErAcEnnauNPm8f6dhBsnV%2B0Wa%2BwklSk7SyKF%2B91kelvFjZknAEguNek5o20bAUKC9ofOmZOMWjlHGO8LiW8%2FiSzGvsaNKnt4tJYAi56MgoTRThzOjnyk8k%2BLiFK6JhCN91CDE%2BxrHUA%2FGbdN8A0R3aHsbjBI2giMR%2BHJR4tQ8e5DP0t5TvyP4gKgu6gl26jyiG0jSxMObRYNDVKkfRFvQi37XMDNyD%2BHUpjSlaAkQGh6y%2FnNp9Kk3ni9rtqzkPTRgZTwawjUIqEJWTSnsu6aW7QfTiNSIeBSyg5NQGEsjbcR%7Ctkp%3ABk9SR4LrkO2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/1ZsAAeSw9SVqh4ax/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787299540326,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788163048915
       },
       "bestPsa10": null,
       "bestPsa9": {
@@ -71,64 +71,36 @@
         "psa10Auction": 0,
         "psa9Bin": 2
       },
-      "ratio": {
-        "ok": true,
-        "tier": {
-          "id": "walkThrough",
-          "label": "Walk-Through",
-          "feeC": 59900,
-          "declaredValueCapC": 1000000,
-          "turnaroundBizDays": 10
-        },
-        "cgc10CostC": 800548,
-        "submissionFeeC": 59900,
-        "totalCostC": 860448,
-        "psa10ValueC": 694652,
-        "ratio": 0.8073143292796311
-      },
+      "ratio": null,
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "820028741463",
           "title": "Pokémon TCG Gengar 48/165 Expedition Reverse Holo CGC 10 (2002) Low PopOpens in a new window or tab",
           "priceC": 800000,
-          "shippingC": 548,
-          "landedC": 800548,
-          "url": "https://www.ebay.com/itm/820028741463?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379238&itmmeta=01M192FBFKETVRD960E4STD7FG&hash=itembeed859757:g:1ZsAAeSw9SVqh4ax&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC2l2EWF4JaB%2BXPacC6XY8XeCnChPKfdGWg%2Bl7hRKrFErAcEnnauNPm8f6dhBsnV%2B0Wa%2BwklSk7SyKF%2B91kelvFjZknAEguNek5o20bAUKC9ofOmZOMWjlHGO8LiW8%2FiSx1iHMlNOHN1NKRa3%2FRH%2BvfNpXVqpGkRhIQqhpPJcO6bu7UPL5PNabbSmqP189kVatHZUZs3kwEF776SYnYaPVe0sZl3k66GfOVPa4fyMnTO9OIVJrtpjNUjN4xuF8FleekyYNTbpqcAH2NzZVynKb5q8SR8r7%2FK4KvL4IcE2F2SrAXOyjYjzmsDCUIlzDBQWxcz5oepmfYwqgVR4YSWooD%7Ctkp%3ABk9SR7q4vaKKaA",
+          "shippingC": null,
+          "landedC": null,
+          "url": "https://www.ebay.com/itm/820028741463?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379238&itmmeta=01M1BD46NWM0XPJ9EA2GMAB86K&hash=itembeed859757:g:1ZsAAeSw9SVqh4ax&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC2l2EWF4JaB%2BXPacC6XY8XeCnChPKfdGWg%2Bl7hRKrFErAcEnnauNPm8f6dhBsnV%2B0Wa%2BwklSk7SyKF%2B91kelvFjZknAEguNek5o20bAUKC9ofOmZOMWjlHGO8LiW8%2FiSzGvsaNKnt4tJYAi56MgoTRThzOjnyk8k%2BLiFK6JhCN91CDE%2BxrHUA%2FGbdN8A0R3aHsbjBI2giMR%2BHJR4tQ8e5DP0t5TvyP4gKgu6gl26jyiG0jSxMObRYNDVKkfRFvQi37XMDNyD%2BHUpjSlaAkQGh6y%2FnNp9Kk3ni9rtqzkPTRgZTwawjUIqEJWTSnsu6aW7QfTiNSIeBSyg5NQGEsjbcR%7Ctkp%3ABk9SR4LrkO2KaA",
           "imageUrl": "https://i.ebayimg.com/images/g/1ZsAAeSw9SVqh4ax/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787299540326,
-          "lastSeen": 1788085138535
+          "lastSeen": 1788163048915
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
-        "ratio": {
-          "ok": true,
-          "tier": {
-            "id": "walkThrough",
-            "label": "Walk-Through",
-            "feeC": 59900,
-            "declaredValueCapC": 1000000,
-            "turnaroundBizDays": 10
-          },
-          "cgc10CostC": 800548,
-          "submissionFeeC": 59900,
-          "totalCostC": 860448,
-          "psa10ValueC": 694652,
-          "ratio": 0.8073143292796311
-        },
+        "ratio": null,
         "firstOpportunityAt": 1787299540326
       },
       "firstOpportunityAt": 1787299540326,
-      "updatedAt": 1788085138535
+      "updatedAt": 1788163048915
     },
     "prices": {
       "variantId": 2212,
-      "ungradedC": 27804,
-      "grade9C": 100000,
-      "grade95C": 110000,
+      "ungradedC": 27635,
+      "grade9C": 130000,
+      "grade95C": 143000,
       "cgc10C": 134600,
       "cgc10PristineC": 242300,
       "psa10C": 694652,
@@ -137,7 +109,7 @@
       "cgc10Pop": 23,
       "bgs10C": 903000,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    6 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787903660905
+      "fetchedAt": 1788162751621
     },
     "listings": [
       {
@@ -176,29 +148,29 @@
         "priceC": 395000,
         "shippingC": 562,
         "landedC": 395562,
-        "url": "https://www.ebay.com/itm/237027332430?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379238&itmmeta=01M192FBFJRSMDBVWCAFY516E1&hash=item372fee114e:g:b7EAAeSwrhNqYaiJ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xATpBqUAg%2BRzSTM3N1DXtl7pc6IQtsfozathZxovv3KTV1JgOub5axwETyQHTrUgDeJKesB3EO7Nnh0uUYDXIeaOYZXViwmKEGsIesoq0%2FDaGru9l9pZeqdDDeZNr8szpCegJDAJNC8%2Fwq0YFRiTl6UDhSQ02fgRl3c%2F4xGpOfFlsRojBJdDX1cVc6BUU%2FwCoFPUrDlFaU9JqPYHSgpSjy35aOnXXBXLBjdlgwBZJy5hSEedW%2B9VR5nWe%2B53kbZH6XprXCJn7qIBnKLsUSDKbdxOxWprsS6QdeEG58MBIwkhQ%3D%3D%7Ctkp%3ABk9SR7a4vaKKaA",
+        "url": "https://www.ebay.com/itm/237027332430?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379238&itmmeta=01M1BMK8SRBP5Q2M392BQNDXVY&hash=item372fee114e:g:b7EAAeSwrhNqYaiJ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xA1NSa6ibj226p2SIkM794D3ukI%2BMSxaF%2B%2F59iaOd2%2FpjKB2NMZmVetD47RJYcKPQTlze4UPgNMuH%2Bc5zV%2F94Fhoy8RFELnzePiruIaKGKTeTjgxSKH6HqrGlQyrKdF%2Bj3ZhrGMD2iWrp0OFKxjdr%2B2LlCSCKUxPalTgjkP2QQkmFZ56Udv1zwRPZBPTalkzIhYf93S6AfP67oxpJqddaaPIDZOxWrXJEg2CLKUVvXAO%2BaHo0OysWptW%2FkTIX81a1LpY%2FsjVYZVanqyoQgXng2upkcUegH19WUGBHcO%2FZ3SiESVWobolN9k5q5dcfeFlj%2BbF5rog%2F1jJg0cfDuhn1yt%7Ctkp%3ABk9SR46NzfSKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/b7EAAeSwrhNqYaiJ/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787645049763,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "820028741463",
         "title": "Pokémon TCG Gengar 48/165 Expedition Reverse Holo CGC 10 (2002) Low PopOpens in a new window or tab",
         "priceC": 800000,
-        "shippingC": 548,
-        "landedC": 800548,
-        "url": "https://www.ebay.com/itm/820028741463?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379238&itmmeta=01M192FBFKETVRD960E4STD7FG&hash=itembeed859757:g:1ZsAAeSw9SVqh4ax&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC2l2EWF4JaB%2BXPacC6XY8XeCnChPKfdGWg%2Bl7hRKrFErAcEnnauNPm8f6dhBsnV%2B0Wa%2BwklSk7SyKF%2B91kelvFjZknAEguNek5o20bAUKC9ofOmZOMWjlHGO8LiW8%2FiSx1iHMlNOHN1NKRa3%2FRH%2BvfNpXVqpGkRhIQqhpPJcO6bu7UPL5PNabbSmqP189kVatHZUZs3kwEF776SYnYaPVe0sZl3k66GfOVPa4fyMnTO9OIVJrtpjNUjN4xuF8FleekyYNTbpqcAH2NzZVynKb5q8SR8r7%2FK4KvL4IcE2F2SrAXOyjYjzmsDCUIlzDBQWxcz5oepmfYwqgVR4YSWooD%7Ctkp%3ABk9SR7q4vaKKaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/820028741463?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379238&itmmeta=01M1BD46NWM0XPJ9EA2GMAB86K&hash=itembeed859757:g:1ZsAAeSw9SVqh4ax&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xC2l2EWF4JaB%2BXPacC6XY8XeCnChPKfdGWg%2Bl7hRKrFErAcEnnauNPm8f6dhBsnV%2B0Wa%2BwklSk7SyKF%2B91kelvFjZknAEguNek5o20bAUKC9ofOmZOMWjlHGO8LiW8%2FiSzGvsaNKnt4tJYAi56MgoTRThzOjnyk8k%2BLiFK6JhCN91CDE%2BxrHUA%2FGbdN8A0R3aHsbjBI2giMR%2BHJR4tQ8e5DP0t5TvyP4gKgu6gl26jyiG0jSxMObRYNDVKkfRFvQi37XMDNyD%2BHUpjSlaAkQGh6y%2FnNp9Kk3ni9rtqzkPTRgZTwawjUIqEJWTSnsu6aW7QfTiNSIeBSyg5NQGEsjbcR%7Ctkp%3ABk9SR4LrkO2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/1ZsAAeSw9SVqh4ax/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787299540326,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788163048915
       }
     ],
     "marketHistory": {
@@ -308,6 +280,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 8149343,
+          "saleDate": "2026-08-08",
+          "priceC": 15150,
+          "title": "Vintage Rare 48/165 - Pokemon Expedition Non-Holo Psychic-Type 48/165",
+          "url": "https://www.ebay.com/itm/168579259432?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 368538,
           "saleDate": "2026-08-07",
           "priceC": 34200,
@@ -356,6 +341,19 @@
           "gradingStatus": "graded",
           "gradingCompany": "PSA",
           "gradingGrade": 6,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8149406,
+          "saleDate": "2026-07-19",
+          "priceC": 250000,
+          "title": "2002 POKEMON EXPEDITION #48 GENGAR-REVERSE FOIL PSA 9 #48",
+          "url": "https://www.ebay.com/itm/287232232332?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1736,32 +1734,6 @@
           "gradingGrade": 10,
           "gradingDesignation": "gem-mint",
           "agreementStatus": "match"
-        },
-        {
-          "id": 368657,
-          "saleDate": "2025-07-28",
-          "priceC": 19999,
-          "title": "Pokemon Gengar Expedition Reverse Holo Rare #48 PSA 8 #48",
-          "url": "https://www.ebay.com/itm/197552077549?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 368612,
-          "saleDate": "2025-07-27",
-          "priceC": 27999,
-          "title": "Pokemon Gengar Expedition Reverse Holo Rare #48 PSA 9 Mint",
-          "url": "https://www.ebay.com/itm/286481460812?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1851,9 +1823,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 187,
+      "englishSaleCount": 189,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787903659299
+      "lastCapturedAt": 1788162749810
     }
   }
 }

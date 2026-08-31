@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 1640,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/090c1b32ed3e1a17e613bb609e9181fea58a4abf34195f4db504b94581a13cdd/1600.jpg",
       "popularityScore": 75,
       "market": {
-        "ungradedC": 11941,
+        "ungradedC": 11719,
         "grade9C": 60000,
         "grade95C": 66000,
-        "cgc10C": 234235,
-        "cgc10PristineC": 421600,
+        "cgc10C": 233759,
+        "cgc10PristineC": 284735,
         "psa10C": 316877,
         "bgs10C": 411900,
         "psa9Pop": 404,
         "psa10Pop": 43,
         "cgc10Pop": 14,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787902997742
+        "fetchedAt": 1788162083564
       },
       "bestCgc10": {
         "itemId": "336759706343",
@@ -38,24 +38,38 @@
         "priceC": 118999,
         "shippingC": 0,
         "landedC": 118999,
-        "url": "https://www.ebay.com/itm/336759706343?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M18T8X79W3JGWFXWER2YNAKJ&hash=item4e687152e7:g:9BUAAeSwBO5qjMN0&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAx%2Bstd7qklCHFl%2ByVLh8rZFJn4WONC2lAJGGLN9CCaqYiNo9lKCK8DfvUXzVHbB9MjuBmH9C%2Fh6o9QMRlExov5fT5PD0pAt5gDMtw02t2--GcraKE%2F6sIlRTNraU7R4UaDmfovRQ4mkBevuPMPUuytUwOluhPV5946%2FRP0CKEIT2uiRI4sC%2BdYJCFphZq3W5I6yPq7UYvg%2FnAZ0%2FhJ84Dn2tmgov6dol1aOJm09mQ5DLXOHDdLxz%2FrbG49sk19C7mZew0qRuRh%2FirD1xLPAT0y%7Ctkp%3ABk9SR_bTo5qKaA",
+        "url": "https://www.ebay.com/itm/336759706343?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M1BP0WGXA97ZB75NJ83G4TMN&hash=item4e687152e7:g:9BUAAeSwBO5qjMN0&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAx%2Bstd7qklCHFl%2ByVLh8rZFJn4WONC2lAJGGLN9CCaqfMt6HuhPOQZ55VIbKIC2qfFqk7YNvU5qy7KeToWQHD4UsZ7ay0BobFASaMj%2F5e5VyKEAMH%2FcQUc8QygTEPF2QGus2dTfurf4vBpE2ngqktq031mGLUqjmuW2S4mu%2BhlAHmf0cnEB7b0Bk3mzQxXMRGvftUOCmTtxKRxRcN6cDbVsW2PWlloO8XA5qoHtzXm2cUD2JY37PnbOQ%2FKewFAYQ1yhUR%2BS%2Buja%2BkP1iNyExnH%7Ctkp%3ABk9SR-DIg_aKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/9BUAAeSwBO5qjMN0/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787643825961,
-        "lastSeen": 1788076206784
+        "lastSeen": 1788173447462
       },
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "287416431145",
+        "title": "Pokemon Celebi Holo Neo Revelation Unlimited 3/64 PSA 9Opens in a new window or tab",
+        "priceC": 59999,
+        "shippingC": 999,
+        "landedC": 60998,
+        "url": "https://www.ebay.com/itm/287416431145?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M1BP0DP78ZK9W162ZF92V4AS&hash=item42eb5ab229:g:GjEAAeSwEiJqPCAf&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCRThV%2FgLIfFx0ZsVFViKUdyNBCSzjYS9IWuG4p9Z4y4bWZK5g2eqrz8kaT61dYidx8VeUU0bROkqctz3xPaqpoh%2Fo30actWPuYsbw4auW0acDqS%2F8uWKoWAucLngx5tg8LljgkNOVWVcpBMKDu0dmTQfLr0%2Fd%2F4c4Z%2FfIaAQNPr3vjtdq7oiZlar2cv4SSS01oTQnMtwroCeyj1wrASjEK01d7VXudfm2Kj0bMsp133TI1NMdwDoZbze7YzXN82GY4YHrU5B0VRh7PpsYbyxWyMWR5YeAQEMzVvIaEzOEWl2osi1mF7NwUhYkpsNw8nmo%3D%7Ctkp%3ABk9SR7rbgfaKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/GjEAAeSwEiJqPCAf/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787048058606,
+        "lastSeen": 1788173447462
+      },
       "counts": {
-        "cgc10Bin": 2,
+        "cgc10Bin": 4,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 2
       },
       "ratio": {
         "ok": true,
@@ -79,16 +93,16 @@
           "priceC": 118999,
           "shippingC": 0,
           "landedC": 118999,
-          "url": "https://www.ebay.com/itm/336759706343?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M18T8X79W3JGWFXWER2YNAKJ&hash=item4e687152e7:g:9BUAAeSwBO5qjMN0&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAx%2Bstd7qklCHFl%2ByVLh8rZFJn4WONC2lAJGGLN9CCaqYiNo9lKCK8DfvUXzVHbB9MjuBmH9C%2Fh6o9QMRlExov5fT5PD0pAt5gDMtw02t2--GcraKE%2F6sIlRTNraU7R4UaDmfovRQ4mkBevuPMPUuytUwOluhPV5946%2FRP0CKEIT2uiRI4sC%2BdYJCFphZq3W5I6yPq7UYvg%2FnAZ0%2FhJ84Dn2tmgov6dol1aOJm09mQ5DLXOHDdLxz%2FrbG49sk19C7mZew0qRuRh%2FirD1xLPAT0y%7Ctkp%3ABk9SR_bTo5qKaA",
+          "url": "https://www.ebay.com/itm/336759706343?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M1BP0WGXA97ZB75NJ83G4TMN&hash=item4e687152e7:g:9BUAAeSwBO5qjMN0&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAx%2Bstd7qklCHFl%2ByVLh8rZFJn4WONC2lAJGGLN9CCaqfMt6HuhPOQZ55VIbKIC2qfFqk7YNvU5qy7KeToWQHD4UsZ7ay0BobFASaMj%2F5e5VyKEAMH%2FcQUc8QygTEPF2QGus2dTfurf4vBpE2ngqktq031mGLUqjmuW2S4mu%2BhlAHmf0cnEB7b0Bk3mzQxXMRGvftUOCmTtxKRxRcN6cDbVsW2PWlloO8XA5qoHtzXm2cUD2JY37PnbOQ%2FKewFAYQ1yhUR%2BS%2Buja%2BkP1iNyExnH%7Ctkp%3ABk9SR-DIg_aKaA",
           "imageUrl": "https://i.ebayimg.com/images/g/9BUAAeSwBO5qjMN0/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787643825961,
-          "lastSeen": 1788076206784
+          "lastSeen": 1788173447462
         },
-        "cgc10Bin": 2,
+        "cgc10Bin": 3,
         "cgc10Auction": 0,
         "ratio": {
           "ok": true,
@@ -108,38 +122,83 @@
         "firstOpportunityAt": 1787643825961
       },
       "firstOpportunityAt": 1787643825961,
-      "updatedAt": 1788076206784
+      "updatedAt": 1788173447462
     },
     "prices": {
       "variantId": 1640,
-      "ungradedC": 11941,
+      "ungradedC": 11719,
       "grade9C": 60000,
       "grade95C": 66000,
-      "cgc10C": 234235,
-      "cgc10PristineC": 421600,
+      "cgc10C": 233759,
+      "cgc10PristineC": 284735,
       "psa10C": 316877,
       "psa9Pop": 404,
       "psa10Pop": 43,
       "cgc10Pop": 14,
       "bgs10C": 411900,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787902997742
+      "fetchedAt": 1788162083564
     },
     "listings": [
+      {
+        "itemId": "800568677026",
+        "title": "2010 POKEMON CELEBI-HOLO TRIUMPHANT HEARTGOLD & SOULSILVER #3 PSA 9Opens in a new window or tab",
+        "priceC": 1775,
+        "shippingC": 795,
+        "landedC": 2570,
+        "url": "https://www.ebay.com/itm/800568677026?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=2314420057&itmmeta=01M1BP0DN77G49R1YWAA1YP61P&hash=itemba659c92a2:g:NyYAAeSwKX9qj46l&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBr6yDKFStrqusHjv6N0ggHZS%2Bqq7SDs0NNMn4nxbWRQYAZMHC11riP5BopF%2FyeuSIJMV707gaDwQrA4uCWIKqlj78kX5pndOhwIabOpAy39eq5Duq3H484QUwMQAZ8LHGnbmlTkddTIDCdFFsyl07I8CLxx467Fbnq0znnO9%2FVvoFkqRPy5cOCSbPu58xmlgegKA%2FQA2nAWOWgKydDraFwJdvN%2Be4tbOYUlfDE3c89xZOd%2FCV%2F8voj%2FvZ30nTFPd9I%2FZ%2Fe6QUyEhkSld5zd5PsZ8bkMWE42mBf7HqPVFfnbpj995BC1aJ0BryTUhCc1pQ%3D%7Ctkp%3ABk9SR6zbgfaKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/NyYAAeSwKX9qj46l/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787816349365,
+        "lastSeen": 1788173447462
+      },
+      {
+        "itemId": "287416431145",
+        "title": "Pokemon Celebi Holo Neo Revelation Unlimited 3/64 PSA 9Opens in a new window or tab",
+        "priceC": 59999,
+        "shippingC": 999,
+        "landedC": 60998,
+        "url": "https://www.ebay.com/itm/287416431145?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M1BP0DP78ZK9W162ZF92V4AS&hash=item42eb5ab229:g:GjEAAeSwEiJqPCAf&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCRThV%2FgLIfFx0ZsVFViKUdyNBCSzjYS9IWuG4p9Z4y4bWZK5g2eqrz8kaT61dYidx8VeUU0bROkqctz3xPaqpoh%2Fo30actWPuYsbw4auW0acDqS%2F8uWKoWAucLngx5tg8LljgkNOVWVcpBMKDu0dmTQfLr0%2Fd%2F4c4Z%2FfIaAQNPr3vjtdq7oiZlar2cv4SSS01oTQnMtwroCeyj1wrASjEK01d7VXudfm2Kj0bMsp133TI1NMdwDoZbze7YzXN82GY4YHrU5B0VRh7PpsYbyxWyMWR5YeAQEMzVvIaEzOEWl2osi1mF7NwUhYkpsNw8nmo%3D%7Ctkp%3ABk9SR7rbgfaKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/GjEAAeSwEiJqPCAf/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787048058606,
+        "lastSeen": 1788173447462
+      },
+      {
+        "itemId": "267771652628",
+        "title": "Pokémon Celebi Neo Revelation Holo PSA 9Opens in a new window or tab",
+        "priceC": 75000,
+        "shippingC": 597,
+        "landedC": 75597,
+        "url": "https://www.ebay.com/itm/267771652628?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&itmmeta=01M1BP0DP8E99XSSVS7HKBQ6BN&hash=item3e586f2a14:g:SGsAAeSww-FqlMVS&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xB492y6j%2FxtvBnVzqiHzyNje06bnsilsItVilA8bHTKtsXFfkycAdzWJuQkLQ%2Bw%2FOMeT%2BRXJeG5bTBk3qwVJicMg1xWew0kkXRUpkgKBxtRdnhjfNjhcZj06XSY%2BAcHtHsx7Kt8gY%2B5tQcOkrZaon2L%2FyaXjcK1Q%2BSVQ3NApUhw%2BYGeyGz%2FTVGpPlqJtSg%2FNNF%2BPocbx1HW0TCbrSiPiVrZiEfpIxkcfDJ30gGkOBC6eFLmKbl6b9pWCTX6HBdItX8OI6xDGWRfp9wNKEOTRRQjWeUCUdN13ZkHO5iPfe2Sy4WqVeIysNFX%2F%2B98CuOASWo%3D%7Ctkp%3ABk9SR7zbgfaKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/SGsAAeSww-FqlMVS/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1788162220901,
+        "lastSeen": 1788173447462
+      },
       {
         "itemId": "336759706343",
         "title": "CGC 10 GEM MINT Celebi Neo Revelation 3/64 Holo Pokemon CardOpens in a new window or tab",
         "priceC": 118999,
         "shippingC": 0,
         "landedC": 118999,
-        "url": "https://www.ebay.com/itm/336759706343?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M18T8X79W3JGWFXWER2YNAKJ&hash=item4e687152e7:g:9BUAAeSwBO5qjMN0&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAx%2Bstd7qklCHFl%2ByVLh8rZFJn4WONC2lAJGGLN9CCaqYiNo9lKCK8DfvUXzVHbB9MjuBmH9C%2Fh6o9QMRlExov5fT5PD0pAt5gDMtw02t2--GcraKE%2F6sIlRTNraU7R4UaDmfovRQ4mkBevuPMPUuytUwOluhPV5946%2FRP0CKEIT2uiRI4sC%2BdYJCFphZq3W5I6yPq7UYvg%2FnAZ0%2FhJ84Dn2tmgov6dol1aOJm09mQ5DLXOHDdLxz%2FrbG49sk19C7mZew0qRuRh%2FirD1xLPAT0y%7Ctkp%3ABk9SR_bTo5qKaA",
+        "url": "https://www.ebay.com/itm/336759706343?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M1BP0WGXA97ZB75NJ83G4TMN&hash=item4e687152e7:g:9BUAAeSwBO5qjMN0&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAx%2Bstd7qklCHFl%2ByVLh8rZFJn4WONC2lAJGGLN9CCaqfMt6HuhPOQZ55VIbKIC2qfFqk7YNvU5qy7KeToWQHD4UsZ7ay0BobFASaMj%2F5e5VyKEAMH%2FcQUc8QygTEPF2QGus2dTfurf4vBpE2ngqktq031mGLUqjmuW2S4mu%2BhlAHmf0cnEB7b0Bk3mzQxXMRGvftUOCmTtxKRxRcN6cDbVsW2PWlloO8XA5qoHtzXm2cUD2JY37PnbOQ%2FKewFAYQ1yhUR%2BS%2Buja%2BkP1iNyExnH%7Ctkp%3ABk9SR-DIg_aKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/9BUAAeSwBO5qjMN0/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787643825961,
-        "lastSeen": 1788076206784
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "278301864061",
@@ -147,18 +206,74 @@
         "priceC": 130000,
         "shippingC": 0,
         "landedC": 130000,
-        "url": "https://www.ebay.com/itm/278301864061?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M18T8X7974RV9XX4GK44E3MF&hash=item40cc15707d:g:~jcAAeSwb-JqDzO2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA8MZillYvLSdheG%2B1TIbkZhK8BUejYVvLhWKx%2BeKJrJp8HcpRq4oui1hGf5YJTa8JG8KJB11vm%2FiwNKj%2FpdDxaCpAMLSp70T%2BpEkwxm9F1sU8lrUVIznMmhrQHjVqK45hUKl2pSNgy9JZ%2FIWu6vBS7Saio5n5ZxMUJntCGyRBuT2nQ1K9%2BYce%2BNA7wzhT9KyxFcFyeSIi01jN9%2BdEyA8GDsI3GGsawn3lHRopu5nso9tD6wkWcBc5elgsR%2BFV%2Fh1SShB87Ai%2Bi3eNOoMUlXUJZ%7Ctkp%3ABk9SR_bTo5qKaA",
+        "url": "https://www.ebay.com/itm/278301864061?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M1BP0WGYXB2DCGM4G05RS9R9&hash=item40cc15707d:g:~jcAAeSwb-JqDzO2&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA8MZillYvLSdheG%2B1TIbkZhK8BUejYVvLhWKx%2BeKJrJjCz5YGw3S35eL7bumR9%2BGyzUdkiXjnnsLRolQmpbwCHhYkPYVlk5u9s7YXz4m%2F7qRmhvASZXtgG6IAyNhFi%2BJco%2Btn5rfe9uGEVYEl%2BHzFs8E48oqfcOJa2Ry8gSH3IMCYBrU4q6uj%2FXE1KvL%2BaX3%2B1y7d1eYjuWbUg6go916QoHhfUA%2BsVNORnAfpj9LDcaX1UaEzGXsUGW%2F2rigwXvEVlJG%2BsTy%2BMJZ4x15T62C4t%7Ctkp%3ABk9SR-LIg_aKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/~jcAAeSwb-JqDzO2/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787384323776,
-        "lastSeen": 1788076206784
+        "lastSeen": 1788173447462
+      },
+      {
+        "itemId": "287136299629",
+        "title": "Pokemon Celebi Neo Revelation Unlimited Holo Rare #3 CGC 10 Gem MintOpens in a new window or tab",
+        "priceC": 150000,
+        "shippingC": 999,
+        "landedC": 150999,
+        "url": "https://www.ebay.com/itm/287136299629?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M1BP0WGY4E8F3YDXQH2CSBVS&hash=item42daa83a6d:g:U-kAAeSwDwtpjM~B&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCEpxl8axrbmi8r7SSJKWdGVCizOfoX7rwTMyQ3wZMmVv2PFtJxkrKPpj7sDQbtfyxWd1UBdB%2BUQgxAFStYd3b6LnUWJytt8Dcmq4ogMvkhCOs5FAL%2BLSRY3rGrtaLy%2FyUGoGxuitp2pqjc%2F4H4oYIUYCuns3Hi5P0O2wN2K74WXpKbeosniFKrHun5xt4cGWXfS%2Fd4PKFoxAS%2B3XdYYILk6XTnpNYVzHv8FETckHeZexNTDZB2ZWhgQIbMj7z4dIzzdX5CurYvapSTohO7OHqU%7Ctkp%3ABk9SR-TIg_aKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/U-kAAeSwDwtpjM~B/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787048058606,
+        "lastSeen": 1788173447462
+      },
+      {
+        "itemId": "318643630210",
+        "title": "CGC 9.5 CELEBI DOUBLE HOLO BLEED ERROR 2001 POKEMON NEO REVELATION #3 MINT POP 5Opens in a new window or tab",
+        "priceC": 250000,
+        "shippingC": 1500,
+        "landedC": 251500,
+        "url": "https://www.ebay.com/itm/318643630210?_skw=%28celebi%29+%283%2Cneo%2Crevelation%29+%28CGC%2CPSA%29&epid=26043383758&itmmeta=01M1BP0WGZ16310RB0M8H85CV1&hash=item4a30a3f082:g:W54AAeSwzOhqZ9uJ&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCvQMU982qdN0KzSx%2FxaidJFRAtcK8raNsr9IkUoP8pDIHshsu0Nu2EG7F%2BlTSzMZP41P5qqpnGKTm50XZnPNsfyNSLQgFMNJjp%2F38mYRVmUdnzXCuveGCJ7M%2F8GnXpSeVu%2Bhr7sFThi%2BMu46i%2FLFXgdkAA%2BlNYu1NgrSiaaLdItgfqZtepgmR4Rsz%2BzGvR6cDkg6Ajkd9M41CASTq4tnc89X2kMkhVh8galtW8JffRJqMOBNMKQ%2F9s%2Fiof6qIqlOCshsmMypx2wqIsteB6pAaX%7Ctkp%3ABk9SR-bIg_aKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/W54AAeSwzOhqZ9uJ/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "gemMint10",
+        "legacyCgc95": true,
+        "freshness": "live",
+        "firstSeen": 1787094602715,
+        "lastSeen": 1788173447462
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 8045725,
+          "saleDate": "2026-08-30",
+          "priceC": 18339,
+          "title": "2001 POKEMON NEO REVELATION #3/64 CELEBI HOLO RARE PSA 6 3/64",
+          "url": "https://www.ebay.com/itm/206509504566?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 6,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8045552,
+          "saleDate": "2026-08-30",
+          "priceC": 10351,
+          "title": "2001 Pokemon Neo Revelation Celebi Holo #3/64",
+          "url": "https://www.ebay.com/itm/128042388428?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 5719369,
           "saleDate": "2026-08-25",
@@ -1692,32 +1807,6 @@
           "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 283610,
-          "saleDate": "2026-04-20",
-          "priceC": 39000,
-          "title": "Celebi 3/64 Neo Revelation Holo #3 PSA Mint 9 🔥 Vintage Pokemon LOW POP!!! 3/64",
-          "url": "https://www.ebay.com/itm/188057401421?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 283646,
-          "saleDate": "2026-04-19",
-          "priceC": 30400,
-          "title": "CELEBI-HOLO 1ST EDITION POKEMON NEO REVELATION 2001 3 PSA 8",
-          "url": "https://www.ebay.com/itm/137207460405?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1822,9 +1911,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 275,
+      "englishSaleCount": 277,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787902995870
+      "lastCapturedAt": 1788162081538
     }
   }
 }

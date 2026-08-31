@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 2472,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/792c85b2a7e25172f15b96be8ca680ec558f728100b6e817800cdfb5a737d5df/1600.jpg",
       "popularityScore": 88,
       "market": {
-        "ungradedC": 16950,
-        "grade9C": 69313,
-        "grade95C": 76200,
+        "ungradedC": 16704,
+        "grade9C": 68981,
+        "grade95C": 75900,
         "cgc10C": 61000,
         "cgc10PristineC": 177250,
-        "psa10C": 172792,
-        "bgs10C": 224600,
+        "psa10C": 172289,
+        "bgs10C": 224000,
         "psa9Pop": 141,
         "psa10Pop": 57,
         "cgc10Pop": 51,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787904018506
+        "fetchedAt": 1788163111807
       },
       "bestCgc10": {
         "itemId": "206453660843",
@@ -38,14 +38,14 @@
         "priceC": 100000,
         "shippingC": 599,
         "landedC": 100599,
-        "url": "https://www.ebay.com/itm/206453660843?_skw=%28psyduck%29+%28104%2Caquapolis%29+%28CGC%2CPSA%29&epid=9043353349&itmmeta=01M18V3XX9VHGM05N4BBMX8HXA&hash=item301198dcab:g:7osAAeSw3Qtqa9PG&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDjtgjlL5OWQ1UTxHQjkwUHTidfVPcblUOt4M%2FMR12jQS1tf7PMagCtzI%2Fvn78nZfdK%2FMlhT1Jq3IcqvmqRyr%2BcDJwmhaOvrEiVnH2bRuRDNBp5K4a9IlyKLgnwPmZvONBEIWiRXv2GBolskp3HKIhmJjdf4GH4AhmtbsuEXfg%2BgkwYXTngLlk5G31zLIzAe18u0lMRn2CBmqeDXD5G7sJtdC5fbvr70zrzu6CblK40n0bUG7hVuw%2BxLbmNGQXfxCADOGAkPxParUNt6AOjT0u1%2BQNnF1fBubEztO8XcTXmx5%2B1nZEmWZDREzd8uVva2B0%3D%7Ctkp%3ABk9SR-7ej5uKaA",
+        "url": "https://www.ebay.com/itm/206453660843?_skw=%28psyduck%29+%28104%2Caquapolis%29+%28CGC%2CPSA%29&epid=9043353349&itmmeta=01M1BDB5PMDH31TADAD7CKV1WA&hash=item301198dcab:g:7osAAeSw3Qtqa9PG&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDjtgjlL5OWQ1UTxHQjkwUHTidfVPcblUOt4M%2FMR12jQS1tf7PMagCtzI%2Fvn78nZfdK%2FMlhT1Jq3IcqvmqRyr%2BcDJwmhaOvrEiVnH2bRuRDNBp5K4a9IlyKLgnwPmZvONBNT7FgKnYsXD6NW0biBbqQC7scWoY%2FNR9cWOTkgy4shCMMs--u3CWRRVIupOIQGauQD1cu8qAErW8O3Ux%2B8pKaYudEeIUmYFLZ0czkaLckRqfjyUcrgpLSd9Mz2T48PO8fK7wvnx9727%2BBKM60OGLLtU%2Bqprn0tHqO9xvKR0FTOYPgvkQAxcitxPoGu83OQGU%3D%7Ctkp%3ABk9SR8TbrO2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7osAAeSw3Qtqa9PG/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
-        "lastSeen": 1788077121012
+        "lastSeen": 1788163324416
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -69,8 +69,8 @@
         "cgc10CostC": 100599,
         "submissionFeeC": 14900,
         "totalCostC": 115499,
-        "psa10ValueC": 172792,
-        "ratio": 1.4960475848275743
+        "psa10ValueC": 172289,
+        "ratio": 1.4916925687668292
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -79,14 +79,14 @@
           "priceC": 100000,
           "shippingC": 599,
           "landedC": 100599,
-          "url": "https://www.ebay.com/itm/206453660843?_skw=%28psyduck%29+%28104%2Caquapolis%29+%28CGC%2CPSA%29&epid=9043353349&itmmeta=01M18V3XX9VHGM05N4BBMX8HXA&hash=item301198dcab:g:7osAAeSw3Qtqa9PG&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDjtgjlL5OWQ1UTxHQjkwUHTidfVPcblUOt4M%2FMR12jQS1tf7PMagCtzI%2Fvn78nZfdK%2FMlhT1Jq3IcqvmqRyr%2BcDJwmhaOvrEiVnH2bRuRDNBp5K4a9IlyKLgnwPmZvONBEIWiRXv2GBolskp3HKIhmJjdf4GH4AhmtbsuEXfg%2BgkwYXTngLlk5G31zLIzAe18u0lMRn2CBmqeDXD5G7sJtdC5fbvr70zrzu6CblK40n0bUG7hVuw%2BxLbmNGQXfxCADOGAkPxParUNt6AOjT0u1%2BQNnF1fBubEztO8XcTXmx5%2B1nZEmWZDREzd8uVva2B0%3D%7Ctkp%3ABk9SR-7ej5uKaA",
+          "url": "https://www.ebay.com/itm/206453660843?_skw=%28psyduck%29+%28104%2Caquapolis%29+%28CGC%2CPSA%29&epid=9043353349&itmmeta=01M1BDB5PMDH31TADAD7CKV1WA&hash=item301198dcab:g:7osAAeSw3Qtqa9PG&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDjtgjlL5OWQ1UTxHQjkwUHTidfVPcblUOt4M%2FMR12jQS1tf7PMagCtzI%2Fvn78nZfdK%2FMlhT1Jq3IcqvmqRyr%2BcDJwmhaOvrEiVnH2bRuRDNBp5K4a9IlyKLgnwPmZvONBNT7FgKnYsXD6NW0biBbqQC7scWoY%2FNR9cWOTkgy4shCMMs--u3CWRRVIupOIQGauQD1cu8qAErW8O3Ux%2B8pKaYudEeIUmYFLZ0czkaLckRqfjyUcrgpLSd9Mz2T48PO8fK7wvnx9727%2BBKM60OGLLtU%2Bqprn0tHqO9xvKR0FTOYPgvkQAxcitxPoGu83OQGU%3D%7Ctkp%3ABk9SR8TbrO2KaA",
           "imageUrl": "https://i.ebayimg.com/images/g/7osAAeSw3Qtqa9PG/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787054322608,
-          "lastSeen": 1788077121012
+          "lastSeen": 1788163324416
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -102,28 +102,28 @@
           "cgc10CostC": 100599,
           "submissionFeeC": 14900,
           "totalCostC": 115499,
-          "psa10ValueC": 172792,
-          "ratio": 1.4960475848275743
+          "psa10ValueC": 172289,
+          "ratio": 1.4916925687668292
         },
         "firstOpportunityAt": 1787054322608
       },
       "firstOpportunityAt": 1787054322608,
-      "updatedAt": 1788077121012
+      "updatedAt": 1788163324416
     },
     "prices": {
       "variantId": 2472,
-      "ungradedC": 16950,
-      "grade9C": 69313,
-      "grade95C": 76200,
+      "ungradedC": 16704,
+      "grade9C": 68981,
+      "grade95C": 75900,
       "cgc10C": 61000,
       "cgc10PristineC": 177250,
-      "psa10C": 172792,
+      "psa10C": 172289,
       "psa9Pop": 141,
       "psa10Pop": 57,
       "cgc10Pop": 51,
-      "bgs10C": 224600,
+      "bgs10C": 224000,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787904018506
+      "fetchedAt": 1788163111807
     },
     "listings": [
       {
@@ -132,18 +132,44 @@
         "priceC": 100000,
         "shippingC": 599,
         "landedC": 100599,
-        "url": "https://www.ebay.com/itm/206453660843?_skw=%28psyduck%29+%28104%2Caquapolis%29+%28CGC%2CPSA%29&epid=9043353349&itmmeta=01M18V3XX9VHGM05N4BBMX8HXA&hash=item301198dcab:g:7osAAeSw3Qtqa9PG&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDjtgjlL5OWQ1UTxHQjkwUHTidfVPcblUOt4M%2FMR12jQS1tf7PMagCtzI%2Fvn78nZfdK%2FMlhT1Jq3IcqvmqRyr%2BcDJwmhaOvrEiVnH2bRuRDNBp5K4a9IlyKLgnwPmZvONBEIWiRXv2GBolskp3HKIhmJjdf4GH4AhmtbsuEXfg%2BgkwYXTngLlk5G31zLIzAe18u0lMRn2CBmqeDXD5G7sJtdC5fbvr70zrzu6CblK40n0bUG7hVuw%2BxLbmNGQXfxCADOGAkPxParUNt6AOjT0u1%2BQNnF1fBubEztO8XcTXmx5%2B1nZEmWZDREzd8uVva2B0%3D%7Ctkp%3ABk9SR-7ej5uKaA",
+        "url": "https://www.ebay.com/itm/206453660843?_skw=%28psyduck%29+%28104%2Caquapolis%29+%28CGC%2CPSA%29&epid=9043353349&itmmeta=01M1BDB5PMDH31TADAD7CKV1WA&hash=item301198dcab:g:7osAAeSw3Qtqa9PG&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDjtgjlL5OWQ1UTxHQjkwUHTidfVPcblUOt4M%2FMR12jQS1tf7PMagCtzI%2Fvn78nZfdK%2FMlhT1Jq3IcqvmqRyr%2BcDJwmhaOvrEiVnH2bRuRDNBp5K4a9IlyKLgnwPmZvONBNT7FgKnYsXD6NW0biBbqQC7scWoY%2FNR9cWOTkgy4shCMMs--u3CWRRVIupOIQGauQD1cu8qAErW8O3Ux%2B8pKaYudEeIUmYFLZ0czkaLckRqfjyUcrgpLSd9Mz2T48PO8fK7wvnx9727%2BBKM60OGLLtU%2Bqprn0tHqO9xvKR0FTOYPgvkQAxcitxPoGu83OQGU%3D%7Ctkp%3ABk9SR8TbrO2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/7osAAeSw3Qtqa9PG/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787054322608,
-        "lastSeen": 1788077121012
+        "lastSeen": 1788163324416
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 8181210,
+          "saleDate": "2026-08-31",
+          "priceC": 26001,
+          "title": "Pokemon Aquapolis Psyduck 104/147 104/147",
+          "url": "https://www.ebay.com/itm/800563761135?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8181343,
+          "saleDate": "2026-08-30",
+          "priceC": 76000,
+          "title": "Pokemon Psyduck Aquapolis 104/147 PSA 8 104/147",
+          "url": "https://www.ebay.com/itm/287541277653?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 6945686,
           "saleDate": "2026-08-28",
@@ -1677,32 +1703,6 @@
           "gradingGrade": null,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 399654,
-          "saleDate": "2026-02-22",
-          "priceC": 13999,
-          "title": "Psyduck #104 Near Mint English",
-          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F88435%2F-&sharedId=web&subId1=completed",
-          "sourceMarketplace": "TCGPlayer",
-          "gradingStatus": "raw",
-          "gradingCompany": null,
-          "gradingGrade": null,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 399674,
-          "saleDate": "2026-02-16",
-          "priceC": 120000,
-          "title": "2003 Pokemon Aquapolis E-Reader Psyduck 104/147 Regular Common PSA 10 LOW POP 104/147",
-          "url": "https://www.ebay.com/itm/198066911627?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1792,9 +1792,9 @@
           "count": 4
         }
       ],
-      "englishSaleCount": 179,
+      "englishSaleCount": 181,
       "excludedLanguageCount": 2,
-      "lastCapturedAt": 1787904016745
+      "lastCapturedAt": 1788163109393
     }
   }
 }

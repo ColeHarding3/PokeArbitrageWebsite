@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 5697,
@@ -19,7 +19,7 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/36ca60c5581744cf9b61cef3169b95a467e8237d6fabebc286bbb024a85f0793/1600.jpg",
       "popularityScore": 93,
       "market": {
-        "ungradedC": 15529,
+        "ungradedC": 15521,
         "grade9C": 47050,
         "grade95C": 51800,
         "cgc10C": 69900,
@@ -30,7 +30,7 @@
         "psa10Pop": 69,
         "cgc10Pop": 27,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per month\",\"volume: 2 sales per week\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787907033296
+        "fetchedAt": 1788166194073
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -52,11 +52,11 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787907033296
+      "updatedAt": 1788166194073
     },
     "prices": {
       "variantId": 5697,
-      "ungradedC": 15529,
+      "ungradedC": 15521,
       "grade9C": 47050,
       "grade95C": 51800,
       "cgc10C": 69900,
@@ -67,7 +67,7 @@
       "cgc10Pop": 27,
       "bgs10C": 478900,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per month\",\"volume: 2 sales per week\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787907033296
+      "fetchedAt": 1788166194073
     },
     "listings": [
       {
@@ -1768,7 +1768,7 @@
       ],
       "englishSaleCount": 242,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787907031745
+      "lastCapturedAt": 1788166192186
     }
   }
 }

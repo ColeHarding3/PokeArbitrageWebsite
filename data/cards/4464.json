@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 4464,
@@ -19,25 +19,25 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/4858ce6542c5864e464c16a7b2d3216cd48de493a1dd8ee8781903f5ebaee7b1/1600.jpg",
       "popularityScore": 90,
       "market": {
-        "ungradedC": 1500,
+        "ungradedC": 1415,
         "grade9C": 19000,
         "grade95C": 20900,
-        "cgc10C": 9743,
+        "cgc10C": 9315,
         "cgc10PristineC": 9999,
-        "psa10C": 104758,
-        "bgs10C": 136200,
+        "psa10C": 106071,
+        "bgs10C": 137900,
         "psa9Pop": 26,
         "psa10Pop": 7,
         "cgc10Pop": 34,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787905663051
+        "fetchedAt": 1788164804675
       },
       "bestCgc10": null,
       "bestPsa10": null,
       "bestPsa9": null,
       "counts": {
         "cgc10Bin": 0,
-        "cgc10Auction": 1,
+        "cgc10Auction": 2,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
@@ -47,27 +47,27 @@
       "withoutLegacyCgc95": {
         "bestCgc10": null,
         "cgc10Bin": 0,
-        "cgc10Auction": 0,
+        "cgc10Auction": 1,
         "ratio": null,
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787905663051
+      "updatedAt": 1788164804675
     },
     "prices": {
       "variantId": 4464,
-      "ungradedC": 1500,
+      "ungradedC": 1415,
       "grade9C": 19000,
       "grade95C": 20900,
-      "cgc10C": 9743,
+      "cgc10C": 9315,
       "cgc10PristineC": 9999,
-      "psa10C": 104758,
+      "psa10C": 106071,
       "psa9Pop": 26,
       "psa10Pop": 7,
       "cgc10Pop": 34,
-      "bgs10C": 136200,
+      "bgs10C": 137900,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    5 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787905663051
+      "fetchedAt": 1788164804675
     },
     "listings": [
       {
@@ -99,10 +99,64 @@
         "freshness": "live",
         "firstSeen": 1787905821032,
         "lastSeen": 1788085138535
+      },
+      {
+        "itemId": "287552951690",
+        "title": "Pokemon Deoxys EX Deoxys 16/107 Regional Championships CGC 10 Gem MintOpens in a new window or tab",
+        "priceC": 225,
+        "shippingC": 999,
+        "landedC": 1224,
+        "url": "https://www.ebay.com/itm/287552951690?_skw=%28deoxys%29+%2816%2Cdeoxys%29+%28CGC%2CPSA%29&epid=26043384026&itmmeta=01M1BPMZV9Z0ACNWCK0S0F81N8&hash=item42f37dd58a:g:ZAgAAeSwrWpqkyHp&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAhPqVB5DztRBfZqhnSkf3Fm36%2F1Upao3mT%2FnO8wHV9Z7V0t18hvp3tY8NB1p7JOngBdL23yglFcCCUBkWSfBkM0QZrln6ltLkv4Q17U%2BQ82Yiygd%2FIlVYqBBbQA5wC97oVBfIs%2FAyO7%2BdiGuYahXO%2B4KoSCJjUPxMc1PXKdJ7UjL0JkrMO8tRvRKY3%2FhuG6SZ7Kr0ZxqPUY6t5%2BA4f3fOooBUe%2FiezspDZ9lLzFmJPkUg3Oaflbe40BczeAjGRH4SMmBOA5tbs9xuZGGYGa0cp%7Ctkp%3ABk9SR_b90_aKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/ZAgAAeSwrWpqkyHp/s-l500.webp",
+        "listingType": "auction",
+        "bucket": "gemMint10",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1788164962855,
+        "lastSeen": 1788173447462
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 8366057,
+          "saleDate": "2026-08-30",
+          "priceC": 7600,
+          "title": "Pokemon Deoxys EX Deoxys 16/107 CGC 10 Gem Mint 16/107",
+          "url": "https://www.ebay.com/itm/287541278388?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "CGC",
+          "gradingGrade": 10,
+          "gradingDesignation": "gem-mint",
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8365988,
+          "saleDate": "2026-08-30",
+          "priceC": 225,
+          "title": "Pokémon TCG Deoxys Non Holo Rare EX Deoxys 16/107 Heavy Play 16/107",
+          "url": "https://www.ebay.com/itm/257698095566?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8365989,
+          "saleDate": "2026-08-28",
+          "priceC": 250,
+          "title": "The Pokemon Company Deoxys 16/107 EX Deoxys Rare 70 HP Eng 2005 16/107",
+          "url": "https://www.ebay.com/itm/377439481860?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 5992598,
           "saleDate": "2026-08-25",
@@ -260,11 +314,50 @@
           "agreementStatus": "match"
         },
         {
+          "id": 8366002,
+          "saleDate": "2026-08-12",
+          "priceC": 3199,
+          "title": "Nintendo Pokémon TCG Deoxys 16/107 EX Deoxys Holo Rare Exclusive Card LP 2005 16/107",
+          "url": "https://www.ebay.com/itm/227397617897?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8366001,
+          "saleDate": "2026-08-12",
+          "priceC": 2600,
+          "title": "Pokemon TCG Deoxys 16/107 Deoxys Set Rare Holo 70HP Basic EN 2005 16/107",
+          "url": "https://www.ebay.com/itm/287521361944?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 597108,
           "saleDate": "2026-08-11",
           "priceC": 886,
           "title": "Deoxys 16/107 Rare Deoxys Pokemon Near Mint 16/107",
           "url": "https://www.ebay.com/itm/398275040370?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8366007,
+          "saleDate": "2026-08-10",
+          "priceC": 2499,
+          "title": "The Pokémon Company Deoxys 16/107 Deck Exclusives Holo Rare 70 HP English 2005 16/107",
+          "url": "https://www.ebay.com/itm/137602888229?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1584,84 +1677,6 @@
           "gradingGrade": 10,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 597154,
-          "saleDate": "2025-10-05",
-          "priceC": 17750,
-          "title": "Pokemon Deoxys EX Deoxys Rare #16 PSA 10 Gem Mint",
-          "url": "https://www.ebay.com/itm/286840291178?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 597193,
-          "saleDate": "2025-10-02",
-          "priceC": 4000,
-          "title": "Deoxys 2005 Pokemon Ex Deoxys PSA 9 Graded Card Mint #16/107 #16",
-          "url": "https://www.ebay.com/itm/406187927588?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 597173,
-          "saleDate": "2025-09-28",
-          "priceC": 8600,
-          "title": "2005 Pokemon EX Deoxys Regional Champion #16/107 CGC 10",
-          "url": "https://www.ebay.com/itm/376568211333?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 597155,
-          "saleDate": "2025-09-24",
-          "priceC": 15250,
-          "title": "2005 POKEMON EX DEOXYS #16 DEOXYS PSA 10 #16",
-          "url": "https://www.ebay.com/itm/306500427981?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 597225,
-          "saleDate": "2025-09-22",
-          "priceC": 2799,
-          "title": "2005 POKEMON EX DEOXYS #16/107 DEOXYS CGC 8",
-          "url": "https://www.ebay.com/itm/116699280247?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 597226,
-          "saleDate": "2025-09-21",
-          "priceC": 3935,
-          "title": "Pokemon PSA 8 Deoxys #16 Holo Starcharge TD 2005 English",
-          "url": "https://www.ebay.com/itm/286813244908?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1756,9 +1771,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 193,
+      "englishSaleCount": 199,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787905661104
+      "lastCapturedAt": 1788164802545
     }
   }
 }

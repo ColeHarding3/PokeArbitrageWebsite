@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 546,
@@ -21,16 +21,16 @@
       "market": {
         "ungradedC": 9050,
         "grade9C": 33400,
-        "grade95C": 37019,
-        "cgc10C": 65427,
+        "grade95C": 36609,
+        "cgc10C": 65407,
         "cgc10PristineC": 180000,
-        "psa10C": 298452,
-        "bgs10C": 388000,
+        "psa10C": 298631,
+        "bgs10C": 388200,
         "psa9Pop": null,
         "psa10Pop": null,
         "cgc10Pop": 126,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 3 sales per week\":\"volume: \\n    5 sales per year\"}",
-        "fetchedAt": 1787901531657
+        "fetchedAt": 1788160588643
       },
       "bestCgc10": {
         "itemId": "206403783890",
@@ -38,14 +38,14 @@
         "priceC": 199900,
         "shippingC": 1748,
         "landedC": 201648,
-        "url": "https://www.ebay.com/itm/206403783890?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M191WCNEGY04ZY2Z3TFB134B&hash=item300e9fccd2:g:GiIAAeSwzMlqTtyq&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAOdfG1tqp2ilF4EUf0meo7%2BJqlZpLLjOIfF2%2B1Pu0aTtuBP5Qpjc9M%2FWliTxy23VSae76XmEnzIHTrNN5Y7xdoDEgxmmx%2BR6Nll27%2Bmnp4uUaCOUmd%2BY4EMXfqzBwLyqF7XEViT03Pkynv70v6EthGrm1KsLX2vDRBiUFFvKvREt%2BkOoUS7CdEpmDSE472rs7CLvh8mI%2BwpsP1mPgFwlXJ9H%2B4T8czvbIcdUD0kMOQXqxj5NNlV%2BF9rWfkAGAwnusn%2BWZzoTjYVJwnFttgY1ja%7Ctkp%3ABk9SR47L8aGKaA",
+        "url": "https://www.ebay.com/itm/206403783890?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M1BNDV7WW3G6R4ZMXTSWRWW4&hash=item300e9fccd2:g:GiIAAeSwzMlqTtyq&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDRMFuZ7muJvjPR6QAwI3w8n6E3Dh%2BGB8zioz5WU%2BtczsBDlZnSTvgEq%2BfBFXCyObEht8SvgqiHljI8oP1kGx35cUkomFTp0dJJw7vi4Rl9K%2Fzq%2BZ%2Fwov3bVS2L%2B%2FsowWVJeq7v780%2Flf2Cw2fyxpaRtNOYh8urp0Mm4cWIPILJG9mcdnvf8YrYUHnjXpJDK1fg3fcH8BQTV0gXzTIW5J8UnwbXf5gtBUNd71Crq7VsSHJVS%2F7vVYo0RyE1yGxU687Lwb18V9RXtA6YNTYzlonMZ9Dsih3kdrkl8kWz6UjR%2BY7zOywyeOH9zrJvqcLePZs%3D%7Ctkp%3ABk9SR6y0t_WKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GiIAAeSwzMlqTtyq/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       "bestPsa10": {
         "itemId": "298463734240",
@@ -53,14 +53,14 @@
         "priceC": 400000,
         "shippingC": 572,
         "landedC": 400572,
-        "url": "https://www.ebay.com/itm/298463734240?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M190NP8ZQGE61JKE6HN0HQ2B&hash=item457dd329e0:g:E0cAAeSwh4tqQnd0&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD%2FvECpupIXbWXvHiBV8F1eQsT1P%2BARrBXKEw7vPpVhDajPR4yNAIUMUu5RF9Z14%2Bmn17gNFiFWrLKRlM7C8wtt2Vhdm4pd8g0AB%2BPuK%2FcSVwq6LQA%2F3Mi1KmtzWzPHfuSW%2FWehP4%2BvVajiBoMqTacaqZJkK5nb7M5UgC1fNf9R0e0i1ZZURD24OPlIOItlXIiRCVJLF6C%2B%2FLLLhb6g8Kyf6nOqUriMOXN9q7Fl2l%2FfGwO9Oe29zjzp3YUVmrVcN9qakjcXAmQIeV3tNlyIkQC1FVSOfjUDuYHBPdnXaAyjXULn4cCgvvTX0q8GbCz6NMI%3D%7Ctkp%3ABk9SR9Tk1qCKaA",
+        "url": "https://www.ebay.com/itm/298463734240?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M1BNDV7X730VNZD38GMY6RJX&hash=item457dd329e0:g:E0cAAeSwh4tqQnd0&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD%2FvECpupIXbWXvHiBV8F1eQsT1P%2BARrBXKEw7vPpVhDajPR4yNAIUMUu5RF9Z14%2Bmn17gNFiFWrLKRlM7C8wtt2Vhdm4pd8g0AB%2BPuK%2FcSVwq6LQA%2F3Mi1KmtzWzPHfuROGvU9rtA4L%2BLhH%2BlcZGwnpYvp8dLv2nlbRsnJPyHXV6z%2FoHGHs%2BxtJmumLmbbbH5rE5xKdMzED7mXHukkgalQU0iu3O%2FL8GkLxI%2BmYwoJRo%2FKYr70pOM3iks4IOCmRTWZ4rcw6%2B6Ls219GGnNQgq3ENuIZvMjNfT5XOT7RoeT8ayYrwtsZR2kKTtMiBuGvNU%3D%7Ctkp%3ABk9SR660t_WKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/E0cAAeSwh4tqQnd0/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       "bestPsa9": {
         "itemId": "128044066221",
@@ -83,7 +83,7 @@
         "pristine10": 0,
         "psa10Bin": 4,
         "psa10Auction": 0,
-        "psa9Bin": 6
+        "psa9Bin": 5
       },
       "ratio": {
         "ok": true,
@@ -97,8 +97,8 @@
         "cgc10CostC": 201648,
         "submissionFeeC": 34900,
         "totalCostC": 236548,
-        "psa10ValueC": 298452,
-        "ratio": 1.2616974144782453
+        "psa10ValueC": 298631,
+        "ratio": 1.26245413193094
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -107,14 +107,14 @@
           "priceC": 199900,
           "shippingC": 1748,
           "landedC": 201648,
-          "url": "https://www.ebay.com/itm/206403783890?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M191WCNEGY04ZY2Z3TFB134B&hash=item300e9fccd2:g:GiIAAeSwzMlqTtyq&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAOdfG1tqp2ilF4EUf0meo7%2BJqlZpLLjOIfF2%2B1Pu0aTtuBP5Qpjc9M%2FWliTxy23VSae76XmEnzIHTrNN5Y7xdoDEgxmmx%2BR6Nll27%2Bmnp4uUaCOUmd%2BY4EMXfqzBwLyqF7XEViT03Pkynv70v6EthGrm1KsLX2vDRBiUFFvKvREt%2BkOoUS7CdEpmDSE472rs7CLvh8mI%2BwpsP1mPgFwlXJ9H%2B4T8czvbIcdUD0kMOQXqxj5NNlV%2BF9rWfkAGAwnusn%2BWZzoTjYVJwnFttgY1ja%7Ctkp%3ABk9SR47L8aGKaA",
+          "url": "https://www.ebay.com/itm/206403783890?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M1BNDV7WW3G6R4ZMXTSWRWW4&hash=item300e9fccd2:g:GiIAAeSwzMlqTtyq&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDRMFuZ7muJvjPR6QAwI3w8n6E3Dh%2BGB8zioz5WU%2BtczsBDlZnSTvgEq%2BfBFXCyObEht8SvgqiHljI8oP1kGx35cUkomFTp0dJJw7vi4Rl9K%2Fzq%2BZ%2Fwov3bVS2L%2B%2FsowWVJeq7v780%2Flf2Cw2fyxpaRtNOYh8urp0Mm4cWIPILJG9mcdnvf8YrYUHnjXpJDK1fg3fcH8BQTV0gXzTIW5J8UnwbXf5gtBUNd71Crq7VsSHJVS%2F7vVYo0RyE1yGxU687Lwb18V9RXtA6YNTYzlonMZ9Dsih3kdrkl8kWz6UjR%2BY7zOywyeOH9zrJvqcLePZs%3D%7Ctkp%3ABk9SR6y0t_WKaA",
           "imageUrl": "https://i.ebayimg.com/images/g/GiIAAeSwzMlqTtyq/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787040561909,
-          "lastSeen": 1788085138535
+          "lastSeen": 1788173447462
         },
         "cgc10Bin": 2,
         "cgc10Auction": 0,
@@ -130,28 +130,28 @@
           "cgc10CostC": 201648,
           "submissionFeeC": 34900,
           "totalCostC": 236548,
-          "psa10ValueC": 298452,
-          "ratio": 1.2616974144782453
+          "psa10ValueC": 298631,
+          "ratio": 1.26245413193094
         },
         "firstOpportunityAt": 1787040561909
       },
       "firstOpportunityAt": 1787040561909,
-      "updatedAt": 1788085138535
+      "updatedAt": 1788173447462
     },
     "prices": {
       "variantId": 546,
       "ungradedC": 9050,
       "grade9C": 33400,
-      "grade95C": 37019,
-      "cgc10C": 65427,
+      "grade95C": 36609,
+      "cgc10C": 65407,
       "cgc10PristineC": 180000,
-      "psa10C": 298452,
+      "psa10C": 298631,
       "psa9Pop": null,
       "psa10Pop": null,
       "cgc10Pop": 126,
-      "bgs10C": 388000,
+      "bgs10C": 388200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per week\",\"volume: 3 sales per week\":\"volume: \\n    5 sales per year\"}",
-      "fetchedAt": 1787901531657
+      "fetchedAt": 1788160588643
     },
     "listings": [
       {
@@ -172,17 +172,17 @@
       {
         "itemId": "800573152334",
         "title": "1999 POKEMON HAUNTER-HOLO 1ST EDITION FOSSIL #6 PSA 9Opens in a new window or tab",
-        "priceC": 34500,
+        "priceC": 37500,
         "shippingC": 795,
-        "landedC": 35295,
-        "url": "https://www.ebay.com/itm/800573152334?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M191WCNCBHBK0GCVZ56TXNDW&hash=itemba65e0dc4e:g:3G4AAeSwR7pqjtxK&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDZeNuBS4a3cNd0xtIBu66XIiskF4sytpbXHHQ0WNDFBIFjJvXHJsWdZa%2BiwRfMET8gEW%2BmcnSP4r%2B3LaEhJjRvng5Q2CDpbSVwIf6dZyNL6f7YcLGkqmunxy92U9EkKFZ3VXSKs%2BeH%2F%2BqwSc8AM%2FHAe08Z0RUy1zYT513kJcPSUq4wkhEZ%2FsqImqLEV2TiXFxgIFupqkOcWJ4lWwQZ3flCEVRJBF6v7rTuKc%2B4TvOaxnjpJRROTgyWzWEteAcCl%2FY9VR0VbSWSSDxBxSUtNixVsrL40zo8LL25o09U1AJdBe4MdD6sFmqTqlcYWNcvDNg%3D%7Ctkp%3ABk9SR4rL8aGKaA",
+        "landedC": 38295,
+        "url": "https://www.ebay.com/itm/800573152334?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M1BNDV7V1RYCPVVHBY5SGFHD&hash=itemba65e0dc4e:g:3G4AAeSwR7pqjtxK&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDZeNuBS4a3cNd0xtIBu66XIiskF4sytpbXHHQ0WNDFBIFjJvXHJsWdZa%2BiwRfMET8gEW%2BmcnSP4r%2B3LaEhJjRvng5Q2CDpbSVwIf6dZyNL6f7YcLGkqmunxy92U9EkKFbzxw0t%2FSi9MS4piKGB5gOyz%2Fw8QXD1TiuB0dtUZI7RP2ijnk3K3N6xkZXy6E%2Bxvio5G%2BehGDSE%2Bdp%2BPew3GFeTJGMIgR1eunzM9NX7W75MTTKz%2FCakoRdaqgZp2kCR2ikJqPG8%2FZaF33zgVfyy0zuD7jgEJFgCJUdO17Twktfmj%2B4cpuWyHBaWX9W9lS4eYZQ%3D%7Ctkp%3ABk9SR6i0t_WKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/3G4AAeSwR7pqjtxK/s-l500.webp",
         "listingType": "auction",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787901772844,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "128044066221",
@@ -205,14 +205,14 @@
         "priceC": 45000,
         "shippingC": 0,
         "landedC": 45000,
-        "url": "https://www.ebay.com/itm/318569787890?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M191WCNCEJFA6WNCAFB8ZSNG&hash=item4a2c3d31f2:g:tWIAAeSwUC5qUisR&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBszPYG6Oo39gOjBLekcOE1uxf5jpQBCRjgPV6Wlp8LEO95N9FZV9rQsiJWIywkmgUW7%2FULhvFqZPt530wdUoNkoXbJVjwsyGttXnsR%2Fssh%2F3BC4N%2FDa37NsP2Nfxic%2Fv1GUjjqcqLljkPbRgrg7oX7NkPXsf5wMbB177%2FGs8xsQSOD4ckpfDGSnctSnT%2F18NDDQ%2F2GDFKmXz0AWS0KomAOoyVrW5XYyt2TfYEms46XlNNZacPOcbGtkNuYxx0KoPqXRkOct0GwLo41BJNSFMqw%7Ctkp%3ABk9SR4rL8aGKaA",
+        "url": "https://www.ebay.com/itm/318569787890?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M1BNDV7V3ZYYMS9PW5GHTMEH&hash=item4a2c3d31f2:g:tWIAAeSwUC5qUisR&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBszPYG6Oo39gOjBLekcOE1uxf5jpQBCRjgPV6Wlp8LEFtrR5sL%2BBsNokzJC88u1a0pSpygg11WWWX4CT1AZGeh%2FE2GlzWCMYLghSvvl548ojM7MS%2BR%2F6T9Z%2BB2AgeElnqZK5ZgtLfohDRd9SsFcbIbqrfIV5ZilEfHQLPPRGLScqXvrTDj6E5ESw6c1iaW3lc2Zr9mQ%2B0RDyfFrHvFrPS0JBXrcFOuLUxu0wk0kaQSxxl4i0BoU5DA4h74whGrQshK9RwGFBJggUkvgQvn7vlK%7Ctkp%3ABk9SR6i0t_WKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/tWIAAeSwUC5qUisR/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "398231107442",
@@ -225,7 +225,7 @@
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787040561909,
         "lastSeen": 1787912759000
       },
@@ -250,14 +250,14 @@
         "priceC": 59999,
         "shippingC": 517,
         "landedC": 60516,
-        "url": "https://www.ebay.com/itm/358535841506?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M191WCNCC420RMB1XCR4NGA8&hash=item537a66c6e2:g:mJAAAeSw0k5p~tP7&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBH9nbeEUu2oEUJPl74THA%2BNT52fsspQF%2F7m8qrE1SZ774biTtivhPbsvkbri9w4xUOxp1xeqzE7LSlWf8A2giWqOe%2F%2BhPvHOwJd4PxotrAiBzXCWLTIOdwJXivXXLEhXzIs24X0M%2BFi38sEqNtyh1jSxFxEXeyY8%2BRTgAmb7ihHXh4upq6VMCQM8Wna6%2BJZswiSanR17LNmLTmgQzYqbdrmovDty811VfrFiiQNIF85qDUjSul6Ddm8hQr6MBSisM%2FEqqBs%2FWfD8pSICRQxMEZpXBfWDxljCt4vIU5zqGfC2nr2OYnmO641awjDjdHPKA%3D%7Ctkp%3ABk9SR4zL8aGKaA",
+        "url": "https://www.ebay.com/itm/358535841506?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M1BNDV7VQ5FSXV3MEKRAF5AW&hash=item537a66c6e2:g:mJAAAeSw0k5p~tP7&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBAQiUpDsjglCwTprRd7jeY9HwNQ4%2Bc2kdpYpTCKRzvbUsJ3NO2LPRNA6UJr19b5G%2Fa2AbrDeapR3LZ%2BPewgA5aYh5lX95YuGJC8XUT7aLZYDzVySANsysnhYWMu9ddTaugdFojm21kHY1BqHPumUm%2F89IYbaHrGvZztaoC6ywWCGgmbco35G8%2BDEVSr6RmJzlQm2mbyH%2BNWSzsIc1fwAQ9CKQ4UoBAowfX2JP4d2zsPv41SDXMGgyD5qyyj9B2ooZtbrJ%2BliEoB2bFNbo0HJ00%7Ctkp%3ABk9SR6i0t_WKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/mJAAAeSw0k5p~tP7/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "366360511025",
@@ -265,29 +265,14 @@
         "priceC": 80000,
         "shippingC": 860,
         "landedC": 80860,
-        "url": "https://www.ebay.com/itm/366360511025?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M191WCND0VZ4AE6K1MWJ2ZJ0&hash=item554cc9c231:g:FBkAAeSwZK1p53yg&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDQLO9jlF0oajt%2BrYCSu0iMH%2FRY%2Bfh7lJRArOsJk5N35Q4RNJ1cNQf0BHUlsC3LnccOwGgFVs6ISbvd%2BJKrmb%2BflJzWB9akltTjBbtx0XjXZN4RPGGlk3JCT%2BEcyEPKMF38OxxHzK5Z4EK7TzflueRJBIGPIc%2Byu%2Fy2f1QpF9%2FOd6mP%2FoVKuWeL3v8QaBxCI6TkhlTXne%2B9nKEuRBaXZp0%2FVuyALLUDHgrnG12aChU6ZwxcmMIfYqPMRtGbEsr%2FD6hAmAIPAW9QLLKiZBPSSElaQyOXPGEeDznXzmgMKVLyTAeoCeCfTIMh0xLoNOj%2BfZE%3D%7Ctkp%3ABk9SR4zL8aGKaA",
+        "url": "https://www.ebay.com/itm/366360511025?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M1BNDV7W8C0B8NQBSBZ12NGC&hash=item554cc9c231:g:FBkAAeSwZK1p53yg&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xDoJRNFc257aiYEcB1s5lZ16ZvX5gKUtuuHT4WiiqHs5L6gvkpRvf86HZm56Ni%2FQlQXK%2FANYWRHT4sIpuUAAi62hrw03nZqU4Gms2x%2B%2F7kUXXwJkDfpq%2BjQ9O37b2ZsDjCmd91uGDfv3bBowoDZrlQd3h0GAmssYpSo6NERKyWKLaGNNw4%2B3bhqBLkPxwWoyo5KhI9CC2gzQuKx3FVgkvn%2Ffr%2FuT8tpMSSM4de6JvhR5tGjCUntwod1XKVEHIY8%2Fg6PfsCQTJQs9z6E4b%2B1T80H%7Ctkp%3ABk9SR6q0t_WKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/FBkAAeSwZK1p53yg/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
-      },
-      {
-        "itemId": "127978755505",
-        "title": "Pokemon Haunter Fossil Holo Rare PSA 9 1st Edition 6/62 1999 EnglishOpens in a new window or tab",
-        "priceC": 90896,
-        "shippingC": 800,
-        "landedC": 91696,
-        "url": "https://www.ebay.com/itm/127978755505?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M191WCNDJFABD6RKYJ7Y0WDX&hash=item1dcc20d5b1:g:thAAAeSw1bNqWW6D&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xBfF2uWc9N17jl6DbttITMQY9TbvZ1up4FP9jVORMyWbOPyE%2BXiQoohDHRs9cJePoSXPw%2BBNjhs9eMl4%2FxJMdopMkpNjjKeiXWrjX2GJTPpclBOwsii1dIZU6iluuXd5mNY6Bt%2Byvtn3UtstGxzx1uF3QSip%2BrSQZSE7r9CMVtvsgD%2FqEFSpIOot1R6dWeWSOMfq%2BiVIxeIQJ2%2B3e7h7ES0%2Bt2aSWGzIS4dQQzawPH9NWhZkMSBNtH5lFip8g%2BjqUc8FHrnrMJaXV4w814CSBrappmYqnExHdhKnhtnZWxxk5fPuBPoKrlZgJmP1ih7tBQ%3D%7Ctkp%3ABk9SR4zL8aGKaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/thAAAeSw1bNqWW6D/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "407101907647",
@@ -303,6 +288,21 @@
         "freshness": "stale",
         "firstSeen": 1787040561909,
         "lastSeen": 1787307369320
+      },
+      {
+        "itemId": "127978755505",
+        "title": "Pokemon Haunter Fossil Holo Rare PSA 9 1st Edition 6/62 1999 EnglishOpens in a new window or tab",
+        "priceC": 98800,
+        "shippingC": 800,
+        "landedC": 99600,
+        "url": "https://www.ebay.com/itm/127978755505?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M1BNDV7W0CEQCEY3DMTB3D47&hash=item1dcc20d5b1:g:thAAAeSw1bNqWW6D&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xA5%2Fhu1z51F8zJCMqEfTY%2FKHRpSej1duZTLEqVEAfRWiVyI38JM7qhjzMGIYKMi5qt3xB%2BabEGDSQLDMIY11JNNg%2BUQM6HXbQE46QFSkx1zWxgPoCTvUpoRhchMUxKzN14cm9BvRTccY7bI1XkCjNqmvAtauXiz0e%2FiEqU7qZPpDny45dui0FiJoc7YvuvOHXhC4gt480tcnrfzvZR0cPLjnJ5%2FMU4SNCCJgXer%2Bj%2FIOMHvEyUzmvGXVFZfZ4L2S29siCZobHTLjyyqsQ4W7a3F%7Ctkp%3ABk9SR6q0t_WKaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/thAAAeSw1bNqWW6D/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787040561909,
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "147513358586",
@@ -325,14 +325,14 @@
         "priceC": 199900,
         "shippingC": 1748,
         "landedC": 201648,
-        "url": "https://www.ebay.com/itm/206403783890?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M191WCNEGY04ZY2Z3TFB134B&hash=item300e9fccd2:g:GiIAAeSwzMlqTtyq&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAOdfG1tqp2ilF4EUf0meo7%2BJqlZpLLjOIfF2%2B1Pu0aTtuBP5Qpjc9M%2FWliTxy23VSae76XmEnzIHTrNN5Y7xdoDEgxmmx%2BR6Nll27%2Bmnp4uUaCOUmd%2BY4EMXfqzBwLyqF7XEViT03Pkynv70v6EthGrm1KsLX2vDRBiUFFvKvREt%2BkOoUS7CdEpmDSE472rs7CLvh8mI%2BwpsP1mPgFwlXJ9H%2B4T8czvbIcdUD0kMOQXqxj5NNlV%2BF9rWfkAGAwnusn%2BWZzoTjYVJwnFttgY1ja%7Ctkp%3ABk9SR47L8aGKaA",
+        "url": "https://www.ebay.com/itm/206403783890?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M1BNDV7WW3G6R4ZMXTSWRWW4&hash=item300e9fccd2:g:GiIAAeSwzMlqTtyq&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDRMFuZ7muJvjPR6QAwI3w8n6E3Dh%2BGB8zioz5WU%2BtczsBDlZnSTvgEq%2BfBFXCyObEht8SvgqiHljI8oP1kGx35cUkomFTp0dJJw7vi4Rl9K%2Fzq%2BZ%2Fwov3bVS2L%2B%2FsowWVJeq7v780%2Flf2Cw2fyxpaRtNOYh8urp0Mm4cWIPILJG9mcdnvf8YrYUHnjXpJDK1fg3fcH8BQTV0gXzTIW5J8UnwbXf5gtBUNd71Crq7VsSHJVS%2F7vVYo0RyE1yGxU687Lwb18V9RXtA6YNTYzlonMZ9Dsih3kdrkl8kWz6UjR%2BY7zOywyeOH9zrJvqcLePZs%3D%7Ctkp%3ABk9SR6y0t_WKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/GiIAAeSwzMlqTtyq/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "327315075033",
@@ -370,14 +370,14 @@
         "priceC": 400000,
         "shippingC": 572,
         "landedC": 400572,
-        "url": "https://www.ebay.com/itm/298463734240?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M190NP8ZQGE61JKE6HN0HQ2B&hash=item457dd329e0:g:E0cAAeSwh4tqQnd0&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD%2FvECpupIXbWXvHiBV8F1eQsT1P%2BARrBXKEw7vPpVhDajPR4yNAIUMUu5RF9Z14%2Bmn17gNFiFWrLKRlM7C8wtt2Vhdm4pd8g0AB%2BPuK%2FcSVwq6LQA%2F3Mi1KmtzWzPHfuSW%2FWehP4%2BvVajiBoMqTacaqZJkK5nb7M5UgC1fNf9R0e0i1ZZURD24OPlIOItlXIiRCVJLF6C%2B%2FLLLhb6g8Kyf6nOqUriMOXN9q7Fl2l%2FfGwO9Oe29zjzp3YUVmrVcN9qakjcXAmQIeV3tNlyIkQC1FVSOfjUDuYHBPdnXaAyjXULn4cCgvvTX0q8GbCz6NMI%3D%7Ctkp%3ABk9SR9Tk1qCKaA",
+        "url": "https://www.ebay.com/itm/298463734240?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M1BNDV7X730VNZD38GMY6RJX&hash=item457dd329e0:g:E0cAAeSwh4tqQnd0&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xD%2FvECpupIXbWXvHiBV8F1eQsT1P%2BARrBXKEw7vPpVhDajPR4yNAIUMUu5RF9Z14%2Bmn17gNFiFWrLKRlM7C8wtt2Vhdm4pd8g0AB%2BPuK%2FcSVwq6LQA%2F3Mi1KmtzWzPHfuROGvU9rtA4L%2BLhH%2BlcZGwnpYvp8dLv2nlbRsnJPyHXV6z%2FoHGHs%2BxtJmumLmbbbH5rE5xKdMzED7mXHukkgalQU0iu3O%2FL8GkLxI%2BmYwoJRo%2FKYr70pOM3iks4IOCmRTWZ4rcw6%2B6Ls219GGnNQgq3ENuIZvMjNfT5XOT7RoeT8ayYrwtsZR2kKTtMiBuGvNU%3D%7Ctkp%3ABk9SR660t_WKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/E0cAAeSwh4tqQnd0/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "137342426433",
@@ -385,14 +385,14 @@
         "priceC": 449900,
         "shippingC": 1088,
         "landedC": 450988,
-        "url": "https://www.ebay.com/itm/137342426433?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M190NP8ZMRGT24FNA045D7NX&hash=item1ffa3f1d41:g:vgQAAeSw3cFqE71S&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAjl6LV46dSuGyaVB3%2BJicSt%2FcoVC37SEv%2FQOcDQMvU0mcOAzSOJ%2FVNQrKdt6UPtQZWH%2BGhtfQ9uJrQddprqOBFTIQWGevh6RuzL0gaPr4yibxrWc6bkDaiSrIQhTyxAIPUKsONaTrfUcyyAdB01sl8%2F1pFPGroNeW%2BySZgiZDuZ1suf3%2BnZGcxoH5h%2B1h%2BNuiyC43WWH28SFsZGUTb7t2HK72zEIn%2BIqNVIkv%2B6cOY7nS6%2FCcOA8yEdzRzf0jum5Q0tyO0xLzcGtb99opCQRdJ%7Ctkp%3ABk9SR9Tk1qCKaA",
+        "url": "https://www.ebay.com/itm/137342426433?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M1BNDV7XT6WQY4NP13JT1SDP&hash=item1ffa3f1d41:g:vgQAAeSw3cFqE71S&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAjl6LV46dSuGyaVB3%2BJicSt%2FcoVC37SEv%2FQOcDQMvU0heEGYTj4XvH8zcMfAeASDUgoHQIS%2Fk7aLGLGSyEwizTPZXUuay3VufmpV73eb4vOMtcV2JGEtqx3MlMLc5cs2PdieZdlBR8w6C4TE7WusOkxe2I8CSaWEG%2F9eL2T86Ub8xEaVVNS0SfCUTD%2F3cOpltw9VuJZrAIdIZw%2Ffx2%2FM27VR7w4tfOcLBF7Y8AInrqFg5YIPIv1S1Cc%2F6ducL19Q%2BxMK5gLAq3DczGGXi8ZoDK%7Ctkp%3ABk9SR660t_WKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/vgQAAeSw3cFqE71S/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "298124699707",
@@ -400,14 +400,14 @@
         "priceC": 799999,
         "shippingC": 999,
         "landedC": 800998,
-        "url": "https://www.ebay.com/itm/298124699707?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M190NP8Z1DTZXATP2ZJYFSPB&hash=item45699de83b:g:YtkAAeSwM7JpthR0&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xAN1lxDMtn0JrhVRWzU4Svw6z3pT%2Bu6%2BB8I5AIRhT18zruLpGFR3mnTCS9XUeCYmNoRuos7ez2F1%2Fr4I8WUuZ08muA5bMr0KtacZqFqRa579B77m5o8Tn0LzojxiabC3jTPDuEABhiEAjhNgf2nqUj9HWCUK%2Fy5OEkLj%2Bpi9GDO8fRU%2BuqSNnISCUY97W5tURM36ELKc5CQpq8zfCWtkMNCOojFtwYQCRe5it2JpoMZwcOs2DIKU56xpq78Yl%2B74WkqWO9Wv9Wt%2F8Ad4D%2FhPPGJlc8R6VMH4rKQodhVuSdO0wPERROonqZ4sSxjB0UL71s%3D%7Ctkp%3ABk9SR9bk1qCKaA",
+        "url": "https://www.ebay.com/itm/298124699707?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M1BNEAERP3TXBA601PBXMZPD&hash=item45699de83b:g:YtkAAeSwM7JpthR0&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBimi4ffE8BLmmKmcg5L8zSu3tCSzyMVeZlestOAVlcxfumqsIzeAJG%2FLwsU0cXybNPaqY3CD6uTJrNSvpin%2FzLL3BX6uDbajhct5AszSiuyLXdczc82T%2FypqblXHJF5MBJ1awBmNLhU0En9sqLplcTZhUD0QhwpZ9DEsjNI3THTEssAo346N%2FD6vtk0iXBauvNA5tLrB5X%2B%2FS852RfTMEBCTvaZHJGh2u2D5WB3Eb53%2B6uf3ljcxLmTHsPd2TtXpz%2BqVyih1OIp0YYCRM071aj%7Ctkp%3ABk9SR8ynufWKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/YtkAAeSwM7JpthR0/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "164380166927",
@@ -415,14 +415,14 @@
         "priceC": 999995,
         "shippingC": 0,
         "landedC": 999995,
-        "url": "https://www.ebay.com/itm/164380166927?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M190NP8ZR5SQRQRBHY7W7DDD&hash=item2645d24b0f:g:YVcAAOSwV4BfXHnM&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCKRtqw1wKEUAcUYbcW6CZIOKx9ctYs7BpPGVCIHRvobZiShxeXM7rpL4njpOok%2BJo39goo1bL7DhKXnKRwyYPVZFfrdg1YArOYvFg41czZOv--5%2F%2BIZOJc3R52T1x6k7zr7qI8IfPOPrU0GoB%2BJqiLpriBzTJJpQv0IinO1KtIG12rJrqelIXOYaqsT6HmRCATkiU5FN1dLPK12dWf9%2BFtE0VzgaYphuVexCtUgv5ETI37ubYZ46Q0%2BGzDBQfoFXdgv5DnITZAllfKhNMMTF2d5ztR0jCbpQZZOeFI0vIw5CiiSXHzeedmaCH6ybkkm4o%3D%7Ctkp%3ABk9SR9bk1qCKaA",
+        "url": "https://www.ebay.com/itm/164380166927?_skw=%28haunter%29+%286%2Cfossil%29+%28CGC%2CPSA%29&epid=22043374585&itmmeta=01M1BNEAERE8ZHNQM8RGW4DEHD&hash=item2645d24b0f:g:YVcAAOSwV4BfXHnM&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xAB4A7UAUjVm27TNXSi0YzgFGOkEsIAJR8DCtYmWbiSJzzAzLlq5mAEmAf9UWS7Tg0bOmL3pCsaPFyPzKiLK%2F6OriBQ4uP%2BnJS%2BdSH3R3krJa%2FvBtnA%2BY2tDky9ZZAbDGi4jAEzpsGfAlOu0VRLAx22JbnXQyG5GxksC53%2FNbsZzYPRmttgGFqr9yUTykZFy1kiPRknqZ6bn2RhxdzM4ay5n4A4q4v2JiVdYv%2BtXg8x8byAoP0yB1ELLiNIbVX31VMstozuFKdbn8%2FmKhdW3tii%7Ctkp%3ABk9SR8ynufWKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/YVcAAOSwV4BfXHnM/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787040561909,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "317611468335",
@@ -2052,7 +2052,7 @@
       ],
       "englishSaleCount": 326,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787901526421
+      "lastCapturedAt": 1788160587013
     }
   }
 }

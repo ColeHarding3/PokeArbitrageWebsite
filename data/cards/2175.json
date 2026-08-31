@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 2175,
@@ -20,9 +20,9 @@
       "popularityScore": 91,
       "market": {
         "ungradedC": 15500,
-        "grade9C": 31040,
+        "grade9C": 30850,
         "grade95C": 36633,
-        "cgc10C": 29375,
+        "cgc10C": 29356,
         "cgc10PristineC": 30000,
         "psa10C": 224030,
         "bgs10C": 291200,
@@ -30,7 +30,7 @@
         "psa10Pop": 132,
         "cgc10Pop": 51,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787903645695
+        "fetchedAt": 1788162736922
       },
       "bestCgc10": {
         "itemId": "398141100630",
@@ -38,24 +38,38 @@
         "priceC": 770000,
         "shippingC": 0,
         "landedC": 770000,
-        "url": "https://www.ebay.com/itm/398141100630?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379488&itmmeta=01M192FBFKGHY47G0C91P3D535&hash=item5cb30f1256:g:5yYAAeSwumhpEnAX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAWUr9mByBnwJy4ia2ehSfET1LyRuj7ayhnohqlsBpbdW74xVrEyM85oAegCBN3tC2gsQG%2BOb%2Fhrie5lWcVN0jf9QcnhylW1zQ7WFjiKBG2NEYY%2FhHxVx1UAndHXduQE%2FIbtx%2F2ow%2BiL6%2FBm6iT4fJ8yh5m11c9rDQv5R62SJIUHmX0G%2FW2dihU1S0GQR1jZg3gR80dzSJ4lIZpxMWtaQu9jUuINlAFxn2EcnfcB%2FLPH3Kw8pZgNxUba8YkCTXLR0imrxvT2joVu%2FuPjRBK%2BVB7tzwV%2BuSsOgEkaqwJ5X92Wg%3D%3D%7Ctkp%3ABk9SR7q4vaKKaA",
+        "url": "https://www.ebay.com/itm/398141100630?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379488&itmmeta=01M1BD0902SRTEG1YQQC6KPET1&hash=item5cb30f1256:g:5yYAAeSwumhpEnAX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAWUr9mByBnwJy4ia2ehSfET1LyRuj7ayhnohqlsBpbdbX0Z5Ska%2BhnHjDo25fWxs%2FFxTChYPqNT3f9WL8e4TRueo29y6GJLEhvW193An1pAukJuK3YB7%2FsHmoe6P8cc%2F0CumbmVnJ18gh9YF%2BoOhxi7vbLJwe2NYksi0L3iY%2BQSHNW4upLSOsql5pRtFZTPQQwa1uYegm6UIpgmolHOhDPNyamo2zorKksZI1ZtmJHrp3hiICuQnAKkmOiuiwGN7VU4zLFPAzNQkEetX3CCANaSOyhgtgNYgEokZ7iaM%2BawQ%3D%3D%7Ctkp%3ABk9SR6aQge2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/5yYAAeSwumhpEnAX/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094572177,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788163048915
       },
       "bestPsa10": null,
-      "bestPsa9": null,
+      "bestPsa9": {
+        "itemId": "157944982331",
+        "title": "Gengar 48/165 Expedition PSA Graded 9 English Pokemon TCGOpens in a new window or tab",
+        "priceC": 59999,
+        "shippingC": 5799,
+        "landedC": 65798,
+        "url": "https://www.ebay.com/itm/157944982331?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379488&itmmeta=01M1BD434WNPZRTAC5CQ6H3BNE&hash=item24c6412b3b:g:eSQAAeSwD~1qkkem&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCnurPCkehSwWVrYs%2F4OkW211Kfg6qwU2u85VNye1I8%2BqTAbpku5yzFv4zW5gYIlbiiSfwhU3UC0ipTRHDztj4yxw%2FzamhkeLxnyf26O5aW7QrWXoNE2LllsVCw1fdLVP4NlJ2R0%2BIn%2FaROLggyxlShfEQTv6pCj3OmJcs6m7oyG8VPsm9L5yrm2bHaTRz7kTZHvR%2BCZZSIDClEEnfeJ2M5H61Srl3kkBcijyJGzS7aD3%2F%2BcZLz44vDqiweS5QwsrNZqHQF2Y3%2F4xl31AAE3woxYagpThNn44A6yMU3elJhZaxAesoUFA%2Fbm%2FIlEq1H7vgv7muCHNnaQRiYonjDjQDj%7Ctkp%3ABk9SR8qykO2KaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/eSQAAeSwD~1qkkem/s-l500.webp",
+        "listingType": "bin",
+        "bucket": "psa9",
+        "legacyCgc95": false,
+        "freshness": "live",
+        "firstSeen": 1787165573087,
+        "lastSeen": 1788163048915
+      },
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 1,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 0
+        "psa9Bin": 1
       },
       "ratio": {
         "ok": true,
@@ -80,14 +94,14 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787094572177,
-      "updatedAt": 1788085138535
+      "updatedAt": 1788163048915
     },
     "prices": {
       "variantId": 2175,
       "ungradedC": 15500,
-      "grade9C": 31040,
+      "grade9C": 30850,
       "grade95C": 36633,
-      "cgc10C": 29375,
+      "cgc10C": 29356,
       "cgc10PristineC": 30000,
       "psa10C": 224030,
       "psa9Pop": 234,
@@ -95,7 +109,7 @@
       "cgc10Pop": 51,
       "bgs10C": 291200,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787903645695
+      "fetchedAt": 1788162736922
     },
     "listings": [
       {
@@ -104,14 +118,14 @@
         "priceC": 5890,
         "shippingC": 750,
         "landedC": 6640,
-        "url": "https://www.ebay.com/itm/127083074409?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21073651482&itmmeta=01M192EWBBCRTRM1TKKMAN7HSZ&hash=item1d96bdd369:g:XToAAeSwvOxoJTK6&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAHs9dFupsPPGRbjuScVRy0AL%2Fn3i0ZxUK51cp4tLTiDrxLPBVSREcQn2YnFIldfEAvgaGk6kdXbbe3TBkUUjuf50ZMGCV0F76CZ4FbNzQ8v4h9ZI3LNaBw8AeqH10RK8LUfO%2FdpPw7zz1xewDDrMOonC4F%2BEIcBJkytNw4V6espxd6ewyEMfmMFMyd6FXrGcvAlgrcNjZHtnj%2FZ3XkBo16RLSMjaVen6offN0GI0RUyy%2FGR9g2c%2F1RA3tFimMhRxt%2BlAc95BxzxaQ7uE2TrsAT6A3kmGjSjxvw%2BWrNXsdnJ5Ri36NJ80D9Rp09xffJDTy2gVULKILXkEjI8b23nQP9%7Ctkp%3ABk9SR4DGu6KKaA",
+        "url": "https://www.ebay.com/itm/127083074409?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=21073651482&itmmeta=01M1BP7MHPE9D9QGAGH7Z7CABX&hash=item1d96bdd369:g:XToAAeSwvOxoJTK6&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA%2FoHhfTYATzvuWQisFfA6ub5tMrmcBWK2Y8jx07LNVr1g2Rjou31TDCTAmYfZPpJ%2BuivuuAGu0ve%2FBvgC1FCN%2F5CQLJwraTe5y0bnrAZMeTUSc42fGKUI2FOQP3htsnimFcWj4qCN4vObFYxyW7%2BhQBQJzDD1In%2ByOzhYiGz4a8gOxHLazP0%2BKOJZWlW6ZR5DDSgGtFFYPacn%2FiabdO%2F%2BxAISFYifDmp5dfYu7pnYqnpmj%2BTEufAiHZK2AhlVW%2FPLI0bdqQQOO2PeGPYYvj7QEfi%2FR0SSdYOE6J2ruHBU%2Frg%3D%3D%7Ctkp%3ABk9SR5bKnvaKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/XToAAeSwvOxoJTK6/s-l500.webp",
         "listingType": "bin",
         "bucket": "pristine10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787052902664,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788173447462
       },
       {
         "itemId": "287541279997",
@@ -124,7 +138,7 @@
         "listingType": "auction",
         "bucket": "psa9",
         "legacyCgc95": false,
-        "freshness": "live",
+        "freshness": "stale",
         "firstSeen": 1787557807297,
         "lastSeen": 1787903960554
       },
@@ -162,16 +176,16 @@
         "itemId": "157944982331",
         "title": "Gengar 48/165 Expedition PSA Graded 9 English Pokemon TCGOpens in a new window or tab",
         "priceC": 59999,
-        "shippingC": 0,
-        "landedC": 59999,
-        "url": "https://www.ebay.com/itm/157944982331?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379488&itmmeta=01M0YR6RR1R8G39WA3SGSNC391&hash=item24c6412b3b:g:aSMAAeSwcg9qFlSC&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCnurPCkehSwWVrYs%2F4OkW211Kfg6qwU2u85VNye1I8%2BqTAbpku5yzFv4zW5gYIlbiiSfwhU3UC0ipTRHDztj4yxw%2FzamhkeLxnyf26O5aW7QrWXoNE2LllsVCw1fdLVP7mMZ39zMzZoJBz9tXWLNXqb1g5LgnFavvRMYcweVE2NLxVteZXoeKmWEha393u0KTMh8e5sS5WZiGwmfH1xRgBXUTf1PL4eZvhoyTFUtFr6%2Buade8xwfrWBW3vCKpxsE9WqOeq%2BNTpxa2mvri6OAgejDnIpzbjdAEQrrgtdzHrL4PnVIH7U66QTw7PsnvR7EZYrqsw772l%2Fw7%2Fj22f018G%7Ctkp%3ABk9SR76Mm9iHaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/aSMAAeSwcg9qFlSC/s-l500.webp",
+        "shippingC": 5799,
+        "landedC": 65798,
+        "url": "https://www.ebay.com/itm/157944982331?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379488&itmmeta=01M1BD434WNPZRTAC5CQ6H3BNE&hash=item24c6412b3b:g:eSQAAeSwD~1qkkem&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xCnurPCkehSwWVrYs%2F4OkW211Kfg6qwU2u85VNye1I8%2BqTAbpku5yzFv4zW5gYIlbiiSfwhU3UC0ipTRHDztj4yxw%2FzamhkeLxnyf26O5aW7QrWXoNE2LllsVCw1fdLVP4NlJ2R0%2BIn%2FaROLggyxlShfEQTv6pCj3OmJcs6m7oyG8VPsm9L5yrm2bHaTRz7kTZHvR%2BCZZSIDClEEnfeJ2M5H61Srl3kkBcijyJGzS7aD3%2F%2BcZLz44vDqiweS5QwsrNZqHQF2Y3%2F4xl31AAE3woxYagpThNn44A6yMU3elJhZaxAesoUFA%2Fbm%2FIlEq1H7vgv7muCHNnaQRiYonjDjQDj%7Ctkp%3ABk9SR8qykO2KaA",
+        "imageUrl": "https://i.ebayimg.com/images/g/eSQAAeSwD~1qkkem/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
-        "freshness": "stale",
+        "freshness": "live",
         "firstSeen": 1787165573087,
-        "lastSeen": 1787738656916
+        "lastSeen": 1788163048915
       },
       {
         "itemId": "298603327957",
@@ -194,18 +208,44 @@
         "priceC": 770000,
         "shippingC": 0,
         "landedC": 770000,
-        "url": "https://www.ebay.com/itm/398141100630?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379488&itmmeta=01M192FBFKGHY47G0C91P3D535&hash=item5cb30f1256:g:5yYAAeSwumhpEnAX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAWUr9mByBnwJy4ia2ehSfET1LyRuj7ayhnohqlsBpbdW74xVrEyM85oAegCBN3tC2gsQG%2BOb%2Fhrie5lWcVN0jf9QcnhylW1zQ7WFjiKBG2NEYY%2FhHxVx1UAndHXduQE%2FIbtx%2F2ow%2BiL6%2FBm6iT4fJ8yh5m11c9rDQv5R62SJIUHmX0G%2FW2dihU1S0GQR1jZg3gR80dzSJ4lIZpxMWtaQu9jUuINlAFxn2EcnfcB%2FLPH3Kw8pZgNxUba8YkCTXLR0imrxvT2joVu%2FuPjRBK%2BVB7tzwV%2BuSsOgEkaqwJ5X92Wg%3D%3D%7Ctkp%3ABk9SR7q4vaKKaA",
+        "url": "https://www.ebay.com/itm/398141100630?_skw=%28gengar%29+%2848%2Cexpedition%2Cbase%2Cset%29+%28CGC%2CPSA%29&epid=7043379488&itmmeta=01M1BD0902SRTEG1YQQC6KPET1&hash=item5cb30f1256:g:5yYAAeSwumhpEnAX&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAWUr9mByBnwJy4ia2ehSfET1LyRuj7ayhnohqlsBpbdbX0Z5Ska%2BhnHjDo25fWxs%2FFxTChYPqNT3f9WL8e4TRueo29y6GJLEhvW193An1pAukJuK3YB7%2FsHmoe6P8cc%2F0CumbmVnJ18gh9YF%2BoOhxi7vbLJwe2NYksi0L3iY%2BQSHNW4upLSOsql5pRtFZTPQQwa1uYegm6UIpgmolHOhDPNyamo2zorKksZI1ZtmJHrp3hiICuQnAKkmOiuiwGN7VU4zLFPAzNQkEetX3CCANaSOyhgtgNYgEokZ7iaM%2BawQ%3D%3D%7Ctkp%3ABk9SR6aQge2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/5yYAAeSwumhpEnAX/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787094572177,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788163048915
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 8142975,
+          "saleDate": "2026-08-31",
+          "priceC": 37000,
+          "title": "Pokemon Gengar Expedition 48/165 DAMAGED SLAB PSA 9 Mint 48/165",
+          "url": "https://www.ebay.com/itm/287541279997?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
+          "gradingDesignation": "mint",
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8143035,
+          "saleDate": "2026-08-30",
+          "priceC": 19058,
+          "title": "2002 POKEMON EXPEDITION SET #48/165 GENGAR PSA 7 48/165",
+          "url": "https://www.ebay.com/itm/206509503910?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 7,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
         {
           "id": 4841942,
           "saleDate": "2026-08-24",
@@ -1312,6 +1352,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 8143059,
+          "saleDate": "2026-04-28",
+          "priceC": 72500,
+          "title": "Pokemon PSA 6 EX-MINT 2002 Gengar 13/165 Expedition Holo Rare Card with 1 SWIRL 48/165",
+          "url": "https://www.ebay.com/itm/389948887937?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 6,
+          "gradingDesignation": "excellent",
+          "agreementStatus": "match"
+        },
+        {
           "id": 361490,
           "saleDate": "2026-04-23",
           "priceC": 24999,
@@ -1726,45 +1779,6 @@
           "gradingGrade": 8,
           "gradingDesignation": "nm-mt",
           "agreementStatus": "match"
-        },
-        {
-          "id": 361361,
-          "saleDate": "2026-01-10",
-          "priceC": 91107,
-          "title": "Pokémon TCG Gengar 48/165 Expedition Non-Holo Rare WOTC 2002 PSA 10 GEM MINT 💎 48/165",
-          "url": "https://www.ebay.com/itm/205937723763?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 361347,
-          "saleDate": "2026-01-09",
-          "priceC": 16495,
-          "title": "Gengar #48 Near Mint English",
-          "url": "https://partner.tcgplayer.com/c/3029031/1780961/21018?u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F85673%2F-&sharedId=web&subId1=completed",
-          "sourceMarketplace": "TCGPlayer",
-          "gradingStatus": "raw",
-          "gradingCompany": null,
-          "gradingGrade": null,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 361362,
-          "saleDate": "2026-01-08",
-          "priceC": 99999,
-          "title": "2002 Pokemon Expedition #48 Gengar PSA 10 GEM MINT #48",
-          "url": "https://www.ebay.com/itm/177754006788?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1859,9 +1873,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 195,
+      "englishSaleCount": 198,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787903643561
+      "lastCapturedAt": 1788162735203
     }
   }
 }

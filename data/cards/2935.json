@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 2935,
@@ -30,7 +30,7 @@
         "psa10Pop": 41,
         "cgc10Pop": 11,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787904329323
+        "fetchedAt": 1788163424306
       },
       "bestCgc10": {
         "itemId": "318770079707",
@@ -38,38 +38,24 @@
         "priceC": 290000,
         "shippingC": 0,
         "landedC": 290000,
-        "url": "https://www.ebay.com/itm/318770079707?_skw=%28aerodactyl%29+%281%2Cskyridge%29+%28CGC%2CPSA%29&epid=4043368164&itmmeta=01M192K2RP4P5HTBE1WR4FG0HZ&hash=item4a382d67db:g:UIIAAeSwNz9qdO4t&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCso1D5esNAjWWBInFRh8he1RZb4FgqopMaDKhFj55ikKUJH048mJpXzlQlE8ou0zprTGgeBcT0f%2FXV1Qg3I3KhZYfpx1hmeIsBGrns%2BslLsVkdZBV3Y8bXjlgkxnQzbMNXRS4hkW3DaTml4N3biwlG6BhcsZHdggVrUMULCVQOURU%2BFhvklKfgSFQZdDUeVRjGPmQQr1NsUt3M4Nb%2Fc1ar0a4WpBioUnVBjHEyAMFrFndT%2F3u%2Fmc%2BK%2FmSAjVenE5f%2Blf%2BMXM%2FySzdDvpEEbt8y%7Ctkp%3ABk9SR8yszKKKaA",
+        "url": "https://www.ebay.com/itm/318770079707?_skw=%28aerodactyl%29+%281%2Cskyridge%29+%28CGC%2CPSA%29&epid=4043368164&itmmeta=01M1BDKC6V34FG47TB47JFWJC1&hash=item4a382d67db:g:UIIAAeSwNz9qdO4t&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCso1D5esNAjWWBInFRh8he1RZb4FgqopMaDKhFj55ikEEfqcNRMWOFOXSqOAtokvdQz2V9XtPpnPM9cc8BipoN6FljELItBsYePzrgBLC%2F8DSvMJKTwzYyUI0PEoAFz%2FpTG0MYIkWYYNqD%2FVa9FVyURi%2FgjRQeD1BMSoJZFn7lldkfBhrLbfxJCkHVoG38apJzbrfgE0%2FALWamZENBAhPJvhPyKAtvMnutJ%2F7GsI0%2BGWP%2FB2f63xE5i4K%2FCFLVtA6rHDAhzJ8TWfB0dPwhRB5I%7Ctkp%3ABk9SR-DDze2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/UIIAAeSwNz9qdO4t/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558299109,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788163555964
       },
       "bestPsa10": null,
-      "bestPsa9": {
-        "itemId": "298508991522",
-        "title": "2003 POKEMON SKYRIDGE #1 AERODACTYL-REVERSE FOIL PSA 9Opens in a new window or tab",
-        "priceC": 88800,
-        "shippingC": 599,
-        "landedC": 89399,
-        "url": "https://www.ebay.com/itm/298508991522?_skw=%28aerodactyl%29+%281%2Cskyridge%29+%28CGC%2CPSA%29&epid=4043368164&itmmeta=01M192K2RN785VEH7EQV9BGPD2&hash=item458085bc22:g:5jAAAeSwEIpqWJOI&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBAr7LvADMOmtwM%2FBvucjrjWz%2F6GZfJH%2FarcQY0uxVdrWFSmyZTdyCNoWVbyd%2BFqMbGsfjOGaqvwhdFkqmf%2BxjVOXPmUeZjuwLrTb4Oq7WSkQJqW10bCv327%2BuX8kH%2BrYgmRKETB0bHnhlTBZXphoWSzHAEHj4mj0ddpumcG0yDwm8FmHhfii50dNjIIMIi40KxS14fc2VGjsEZ79Huj%2B2tPZVGHYcvZBTAAJs4ppsIE1mtzePAzVaTixFlJU8h3vj1xwCvKTvxr6NcbqbWbRWQ%7Ctkp%3ABk9SR8qszKKKaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/5jAAAeSwEIpqWJOI/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787055777278,
-        "lastSeen": 1788085138535
-      },
+      "bestPsa9": null,
       "counts": {
         "cgc10Bin": 1,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
         "psa10Auction": 0,
-        "psa9Bin": 2
+        "psa9Bin": 0
       },
       "ratio": {
         "ok": true,
@@ -93,14 +79,14 @@
           "priceC": 290000,
           "shippingC": 0,
           "landedC": 290000,
-          "url": "https://www.ebay.com/itm/318770079707?_skw=%28aerodactyl%29+%281%2Cskyridge%29+%28CGC%2CPSA%29&epid=4043368164&itmmeta=01M192K2RP4P5HTBE1WR4FG0HZ&hash=item4a382d67db:g:UIIAAeSwNz9qdO4t&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCso1D5esNAjWWBInFRh8he1RZb4FgqopMaDKhFj55ikKUJH048mJpXzlQlE8ou0zprTGgeBcT0f%2FXV1Qg3I3KhZYfpx1hmeIsBGrns%2BslLsVkdZBV3Y8bXjlgkxnQzbMNXRS4hkW3DaTml4N3biwlG6BhcsZHdggVrUMULCVQOURU%2BFhvklKfgSFQZdDUeVRjGPmQQr1NsUt3M4Nb%2Fc1ar0a4WpBioUnVBjHEyAMFrFndT%2F3u%2Fmc%2BK%2FmSAjVenE5f%2Blf%2BMXM%2FySzdDvpEEbt8y%7Ctkp%3ABk9SR8yszKKKaA",
+          "url": "https://www.ebay.com/itm/318770079707?_skw=%28aerodactyl%29+%281%2Cskyridge%29+%28CGC%2CPSA%29&epid=4043368164&itmmeta=01M1BDKC6V34FG47TB47JFWJC1&hash=item4a382d67db:g:UIIAAeSwNz9qdO4t&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCso1D5esNAjWWBInFRh8he1RZb4FgqopMaDKhFj55ikEEfqcNRMWOFOXSqOAtokvdQz2V9XtPpnPM9cc8BipoN6FljELItBsYePzrgBLC%2F8DSvMJKTwzYyUI0PEoAFz%2FpTG0MYIkWYYNqD%2FVa9FVyURi%2FgjRQeD1BMSoJZFn7lldkfBhrLbfxJCkHVoG38apJzbrfgE0%2FALWamZENBAhPJvhPyKAtvMnutJ%2F7GsI0%2BGWP%2FB2f63xE5i4K%2FCFLVtA6rHDAhzJ8TWfB0dPwhRB5I%7Ctkp%3ABk9SR-DDze2KaA",
           "imageUrl": "https://i.ebayimg.com/images/g/UIIAAeSwNz9qdO4t/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787558299109,
-          "lastSeen": 1788085138535
+          "lastSeen": 1788163555964
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -122,7 +108,7 @@
         "firstOpportunityAt": 1787558299109
       },
       "firstOpportunityAt": 1787558299109,
-      "updatedAt": 1788085138535
+      "updatedAt": 1788163555964
     },
     "prices": {
       "variantId": 2935,
@@ -137,53 +123,23 @@
       "cgc10Pop": 11,
       "bgs10C": 185300,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787904329323
+      "fetchedAt": 1788163424306
     },
     "listings": [
-      {
-        "itemId": "298508991522",
-        "title": "2003 POKEMON SKYRIDGE #1 AERODACTYL-REVERSE FOIL PSA 9Opens in a new window or tab",
-        "priceC": 88800,
-        "shippingC": 599,
-        "landedC": 89399,
-        "url": "https://www.ebay.com/itm/298508991522?_skw=%28aerodactyl%29+%281%2Cskyridge%29+%28CGC%2CPSA%29&epid=4043368164&itmmeta=01M192K2RN785VEH7EQV9BGPD2&hash=item458085bc22:g:5jAAAeSwEIpqWJOI&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xBAr7LvADMOmtwM%2FBvucjrjWz%2F6GZfJH%2FarcQY0uxVdrWFSmyZTdyCNoWVbyd%2BFqMbGsfjOGaqvwhdFkqmf%2BxjVOXPmUeZjuwLrTb4Oq7WSkQJqW10bCv327%2BuX8kH%2BrYgmRKETB0bHnhlTBZXphoWSzHAEHj4mj0ddpumcG0yDwm8FmHhfii50dNjIIMIi40KxS14fc2VGjsEZ79Huj%2B2tPZVGHYcvZBTAAJs4ppsIE1mtzePAzVaTixFlJU8h3vj1xwCvKTvxr6NcbqbWbRWQ%7Ctkp%3ABk9SR8qszKKKaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/5jAAAeSwEIpqWJOI/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787055777278,
-        "lastSeen": 1788085138535
-      },
       {
         "itemId": "318770079707",
         "title": "CGC 10 2003 Pokémon Aerodactyl 1/144 Skyridge Reverse Foil Rare WOTC Low Pop!Opens in a new window or tab",
         "priceC": 290000,
         "shippingC": 0,
         "landedC": 290000,
-        "url": "https://www.ebay.com/itm/318770079707?_skw=%28aerodactyl%29+%281%2Cskyridge%29+%28CGC%2CPSA%29&epid=4043368164&itmmeta=01M192K2RP4P5HTBE1WR4FG0HZ&hash=item4a382d67db:g:UIIAAeSwNz9qdO4t&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCso1D5esNAjWWBInFRh8he1RZb4FgqopMaDKhFj55ikKUJH048mJpXzlQlE8ou0zprTGgeBcT0f%2FXV1Qg3I3KhZYfpx1hmeIsBGrns%2BslLsVkdZBV3Y8bXjlgkxnQzbMNXRS4hkW3DaTml4N3biwlG6BhcsZHdggVrUMULCVQOURU%2BFhvklKfgSFQZdDUeVRjGPmQQr1NsUt3M4Nb%2Fc1ar0a4WpBioUnVBjHEyAMFrFndT%2F3u%2Fmc%2BK%2FmSAjVenE5f%2Blf%2BMXM%2FySzdDvpEEbt8y%7Ctkp%3ABk9SR8yszKKKaA",
+        "url": "https://www.ebay.com/itm/318770079707?_skw=%28aerodactyl%29+%281%2Cskyridge%29+%28CGC%2CPSA%29&epid=4043368164&itmmeta=01M1BDKC6V34FG47TB47JFWJC1&hash=item4a382d67db:g:UIIAAeSwNz9qdO4t&itmprp=enc%3AAQALAAAA4GfYFPkwiKCW4ZNSs2u11xCso1D5esNAjWWBInFRh8he1RZb4FgqopMaDKhFj55ikEEfqcNRMWOFOXSqOAtokvdQz2V9XtPpnPM9cc8BipoN6FljELItBsYePzrgBLC%2F8DSvMJKTwzYyUI0PEoAFz%2FpTG0MYIkWYYNqD%2FVa9FVyURi%2FgjRQeD1BMSoJZFn7lldkfBhrLbfxJCkHVoG38apJzbrfgE0%2FALWamZENBAhPJvhPyKAtvMnutJ%2F7GsI0%2BGWP%2FB2f63xE5i4K%2FCFLVtA6rHDAhzJ8TWfB0dPwhRB5I%7Ctkp%3ABk9SR-DDze2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/UIIAAeSwNz9qdO4t/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787558299109,
-        "lastSeen": 1788085138535
-      },
-      {
-        "itemId": "307142402612",
-        "title": "2006 POKEMON EX LEGEND MAKER #1 AERODACTYL-REVERSE FOIL PSA 9Opens in a new window or tab",
-        "priceC": 1299900,
-        "shippingC": 599,
-        "landedC": 1300499,
-        "url": "https://www.ebay.com/itm/307142402612?_skw=%28aerodactyl%29+%281%2Cskyridge%29+%28CGC%2CPSA%29&epid=26043383487&itmmeta=01M192K2RPVHVS90X0JYSRDP91&hash=item47831d2234:g:bwkAAeSwi5ZpzVG5&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xDKWP4RGJMLcdRWk437kCsJtHF9mS7wY4R2BcH%2F0pV0izpYaztvRp3NdVah1kjeDXsZfsylNos8ONaHS29enwHZtxP3j97xX85NVXndiOKYKCZU7V%2B3P4xx2CTdg2XQbTHqQvhsQvu1dumLr%2Bk8K16XNkg2qyfD46%2BjmFQvykHAAFQybY4Sbg%2FNz2sK%2B8E1oqSWUtKshrx4VXjqEOrGU5L2OyOseq3i2qinCvz7ys65xANMTuSsIbiQlsEFe%2FO%2BI3j7W5NHbL8UQ%2FcL2L1msvkRTkEhZPVjDpSSZyed6OR4QYhnmj4VXv4cwj1of1IIJvo%3D%7Ctkp%3ABk9SR86szKKKaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/bwkAAeSwi5ZpzVG5/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "psa9",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787558299109,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788163555964
       }
     ],
     "marketHistory": {
@@ -211,6 +167,19 @@
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8233791,
+          "saleDate": "2026-08-10",
+          "priceC": 20000,
+          "title": "2003 Pokemon Skyridge #1 Aerodactyl Reverse Foil PSA 8",
+          "url": "https://www.ebay.com/itm/398125619937?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1652,9 +1621,9 @@
           "count": 2
         }
       ],
-      "englishSaleCount": 107,
+      "englishSaleCount": 108,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787904327817
+      "lastCapturedAt": 1788163422317
     }
   }
 }

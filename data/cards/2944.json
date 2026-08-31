@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 2944,
@@ -24,13 +24,13 @@
         "grade95C": 20500,
         "cgc10C": 12800,
         "cgc10PristineC": 23000,
-        "psa10C": 141090,
-        "bgs10C": 183400,
+        "psa10C": 139565,
+        "bgs10C": 181400,
         "psa9Pop": 68,
         "psa10Pop": 29,
         "cgc10Pop": 12,
         "salesVolumeJson": "{\"volume: 2 sales per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787904334221
+        "fetchedAt": 1788163439791
       },
       "bestCgc10": {
         "itemId": "117375529247",
@@ -38,14 +38,14 @@
         "priceC": 39999,
         "shippingC": 599,
         "landedC": 40598,
-        "url": "https://www.ebay.com/itm/117375529247?_skw=%28wigglytuff%29+%2834%2Cskyridge%29+%28CGC%2CPSA%29&epid=26043383394&itmmeta=01M18V9S4H9A9PMC0YW1VRMTSY&hash=item1b5420711f:g:HmsAAeSw~vdqjJx-&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCy0bGOSYsWa7SUsFInhcWYp7Zy2sVz4bUNfYx85LHHn4l0nMwe79KykmA%2BdVw3hew0qpM%2FHlZgd1KRtyiujvi6vjsFLGNNgQQsOHVBx4Es3Zg%2FFTNiA%2BHlPk2Tw6%2FuXbl0TTwtTCOmOj4jXIRi5BQSpsjgzhN%2BpGuXFBw4j%2Fk79ERjpJYizn5KPKYRRujxIdsWBT4Nacv3kYN1to0Afpn6gQk870yDEU65vesxR2lmzK3rNvCb39lGYJKfp32PaN%2F9BzUTb%2B5r%2FaLWPtYpkRmyCfQVrtDIUD0hjHIgK%2FofX%2FzSyvrUNcl4sj8eBaWK%2BNM%3D%7Ctkp%3ABk9SR9ySp5uKaA",
+        "url": "https://www.ebay.com/itm/117375529247?_skw=%28wigglytuff%29+%2834%2Cskyridge%29+%28CGC%2CPSA%29&epid=26043383394&itmmeta=01M1BDKM6XJD4J761GAS1XDEXM&hash=item1b5420711f:g:HmsAAeSw~vdqjJx-&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCy0bGOSYsWa7SUsFInhcWYp7Zy2sVz4bUNfYx85LHHn4l0nMwe79KykmA%2BdVw3hew0qpM%2FHlZgd1KRtyiujvi6vjsFLGNNgQQsOHVBx4Es3Zg%2FFTNiA%2BHlPk2Tw6%2FuXblaYxTJNk8sqc1ql1kM2qx%2BbXnxHV7CZmSZDGtThlcS%2Blm3tU%2BlxvZR4i3IAwkpwEqrxyDYKGdammsdpZgpW9FQi%2BMTJNgZGezRXdbIeRyEf4bY3FdkRDkFW539AzPTM6eH%2B3yNPk6eKR2N5F0a2GkRMsZkt7TuuBjwMHzZ4q5EfjatFvPXJB6X3LAr6rUVH7o%3D%7Ctkp%3ABk9SR9TDzu2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HmsAAeSw~vdqjJx-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787731157433,
-        "lastSeen": 1788077289663
+        "lastSeen": 1788163555964
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -69,8 +69,8 @@
         "cgc10CostC": 40598,
         "submissionFeeC": 7999,
         "totalCostC": 48597,
-        "psa10ValueC": 141090,
-        "ratio": 2.9032656336810914
+        "psa10ValueC": 139565,
+        "ratio": 2.871885095787806
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -79,14 +79,14 @@
           "priceC": 39999,
           "shippingC": 599,
           "landedC": 40598,
-          "url": "https://www.ebay.com/itm/117375529247?_skw=%28wigglytuff%29+%2834%2Cskyridge%29+%28CGC%2CPSA%29&epid=26043383394&itmmeta=01M18V9S4H9A9PMC0YW1VRMTSY&hash=item1b5420711f:g:HmsAAeSw~vdqjJx-&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCy0bGOSYsWa7SUsFInhcWYp7Zy2sVz4bUNfYx85LHHn4l0nMwe79KykmA%2BdVw3hew0qpM%2FHlZgd1KRtyiujvi6vjsFLGNNgQQsOHVBx4Es3Zg%2FFTNiA%2BHlPk2Tw6%2FuXbl0TTwtTCOmOj4jXIRi5BQSpsjgzhN%2BpGuXFBw4j%2Fk79ERjpJYizn5KPKYRRujxIdsWBT4Nacv3kYN1to0Afpn6gQk870yDEU65vesxR2lmzK3rNvCb39lGYJKfp32PaN%2F9BzUTb%2B5r%2FaLWPtYpkRmyCfQVrtDIUD0hjHIgK%2FofX%2FzSyvrUNcl4sj8eBaWK%2BNM%3D%7Ctkp%3ABk9SR9ySp5uKaA",
+          "url": "https://www.ebay.com/itm/117375529247?_skw=%28wigglytuff%29+%2834%2Cskyridge%29+%28CGC%2CPSA%29&epid=26043383394&itmmeta=01M1BDKM6XJD4J761GAS1XDEXM&hash=item1b5420711f:g:HmsAAeSw~vdqjJx-&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCy0bGOSYsWa7SUsFInhcWYp7Zy2sVz4bUNfYx85LHHn4l0nMwe79KykmA%2BdVw3hew0qpM%2FHlZgd1KRtyiujvi6vjsFLGNNgQQsOHVBx4Es3Zg%2FFTNiA%2BHlPk2Tw6%2FuXblaYxTJNk8sqc1ql1kM2qx%2BbXnxHV7CZmSZDGtThlcS%2Blm3tU%2BlxvZR4i3IAwkpwEqrxyDYKGdammsdpZgpW9FQi%2BMTJNgZGezRXdbIeRyEf4bY3FdkRDkFW539AzPTM6eH%2B3yNPk6eKR2N5F0a2GkRMsZkt7TuuBjwMHzZ4q5EfjatFvPXJB6X3LAr6rUVH7o%3D%7Ctkp%3ABk9SR9TDzu2KaA",
           "imageUrl": "https://i.ebayimg.com/images/g/HmsAAeSw~vdqjJx-/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787731157433,
-          "lastSeen": 1788077289663
+          "lastSeen": 1788163555964
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
@@ -102,13 +102,13 @@
           "cgc10CostC": 40598,
           "submissionFeeC": 7999,
           "totalCostC": 48597,
-          "psa10ValueC": 141090,
-          "ratio": 2.9032656336810914
+          "psa10ValueC": 139565,
+          "ratio": 2.871885095787806
         },
         "firstOpportunityAt": 1787731157433
       },
       "firstOpportunityAt": 1787731157433,
-      "updatedAt": 1788077289663
+      "updatedAt": 1788163555964
     },
     "prices": {
       "variantId": 2944,
@@ -117,13 +117,13 @@
       "grade95C": 20500,
       "cgc10C": 12800,
       "cgc10PristineC": 23000,
-      "psa10C": 141090,
+      "psa10C": 139565,
       "psa9Pop": 68,
       "psa10Pop": 29,
       "cgc10Pop": 12,
-      "bgs10C": 183400,
+      "bgs10C": 181400,
       "salesVolumeJson": "{\"volume: 2 sales per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787904334221
+      "fetchedAt": 1788163439791
     },
     "listings": [
       {
@@ -132,14 +132,14 @@
         "priceC": 39999,
         "shippingC": 599,
         "landedC": 40598,
-        "url": "https://www.ebay.com/itm/117375529247?_skw=%28wigglytuff%29+%2834%2Cskyridge%29+%28CGC%2CPSA%29&epid=26043383394&itmmeta=01M18V9S4H9A9PMC0YW1VRMTSY&hash=item1b5420711f:g:HmsAAeSw~vdqjJx-&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCy0bGOSYsWa7SUsFInhcWYp7Zy2sVz4bUNfYx85LHHn4l0nMwe79KykmA%2BdVw3hew0qpM%2FHlZgd1KRtyiujvi6vjsFLGNNgQQsOHVBx4Es3Zg%2FFTNiA%2BHlPk2Tw6%2FuXbl0TTwtTCOmOj4jXIRi5BQSpsjgzhN%2BpGuXFBw4j%2Fk79ERjpJYizn5KPKYRRujxIdsWBT4Nacv3kYN1to0Afpn6gQk870yDEU65vesxR2lmzK3rNvCb39lGYJKfp32PaN%2F9BzUTb%2B5r%2FaLWPtYpkRmyCfQVrtDIUD0hjHIgK%2FofX%2FzSyvrUNcl4sj8eBaWK%2BNM%3D%7Ctkp%3ABk9SR9ySp5uKaA",
+        "url": "https://www.ebay.com/itm/117375529247?_skw=%28wigglytuff%29+%2834%2Cskyridge%29+%28CGC%2CPSA%29&epid=26043383394&itmmeta=01M1BDKM6XJD4J761GAS1XDEXM&hash=item1b5420711f:g:HmsAAeSw~vdqjJx-&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xCy0bGOSYsWa7SUsFInhcWYp7Zy2sVz4bUNfYx85LHHn4l0nMwe79KykmA%2BdVw3hew0qpM%2FHlZgd1KRtyiujvi6vjsFLGNNgQQsOHVBx4Es3Zg%2FFTNiA%2BHlPk2Tw6%2FuXblaYxTJNk8sqc1ql1kM2qx%2BbXnxHV7CZmSZDGtThlcS%2Blm3tU%2BlxvZR4i3IAwkpwEqrxyDYKGdammsdpZgpW9FQi%2BMTJNgZGezRXdbIeRyEf4bY3FdkRDkFW539AzPTM6eH%2B3yNPk6eKR2N5F0a2GkRMsZkt7TuuBjwMHzZ4q5EfjatFvPXJB6X3LAr6rUVH7o%3D%7Ctkp%3ABk9SR9TDzu2KaA",
         "imageUrl": "https://i.ebayimg.com/images/g/HmsAAeSw~vdqjJx-/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787731157433,
-        "lastSeen": 1788077289663
+        "lastSeen": 1788163555964
       }
     ],
     "marketHistory": {
@@ -1468,7 +1468,7 @@
       ],
       "englishSaleCount": 98,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787904332215
+      "lastCapturedAt": 1788163438181
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 13142,
@@ -20,8 +20,8 @@
       "popularityScore": 95,
       "market": {
         "ungradedC": 7980,
-        "grade9C": 75340,
-        "grade95C": 82900,
+        "grade9C": 75099,
+        "grade95C": 82600,
         "cgc10C": 877300,
         "cgc10PristineC": 1579100,
         "psa10C": 1462132,
@@ -30,22 +30,22 @@
         "psa10Pop": 9,
         "cgc10Pop": 9,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\"}",
-        "fetchedAt": 1787908595435
+        "fetchedAt": 1788167762830
       },
       "bestCgc10": {
         "itemId": "336709401675",
         "title": "Pokémon Mewtwo 11/146 Legends Awakened Holo CGC 10 Pop 8Opens in a new window or tab",
         "priceC": 500000,
-        "shippingC": 562,
-        "landedC": 500562,
-        "url": "https://www.ebay.com/itm/336709401675?_skw=%28mewtwo%29+%2811%2Clegends%2Cawakened%29+%28CGC%2CPSA%29&epid=7043379587&itmmeta=01M18YY9STK7CPX0EWGNP2VSWT&hash=item4e6571bc4b:g:xTgAAeSwqrFqZkLF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCcYt6ApqBqZUw%2BfA3wihZN72HynEW5%2BPybf5GjYf%2BE%2FAWQqwRF7wJfXkiED2GgzvIrcTkdv0NpCqr%2BBV3YY%2F7jbXZbMoSdX7xDYn3ozPG19wVlQKv4ZoV8ij%2Bz9iX%2BnIQs4rLPqwA1FLK3BnwaCbeTkx%2FUMB2Bn2uzmuxKLmrPQTb%2FbxoDrhIl34K55otk2Du73B5QT2ihsV337Fi0jpOzGhlPl0hvJ9RiGSH%2Fwz%2Bjj0Bfv%2F8BzpVhLi212vVGl1ZoDPk6yxfrgM8eIYIZubxxT2V8ht40cF72OkEaBOVZ2A%3D%3D%7Ctkp%3ABk9SR5Sd-Z6KaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/336709401675?_skw=%28mewtwo%29+%2811%2Clegends%2Cawakened%29+%28CGC%2CPSA%29&epid=7043379587&itmmeta=01M1BHVHX9KY9DJ6XH4S8Q9YXY&hash=item4e6571bc4b:g:xTgAAeSwqrFqZkLF&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDVRaZdeXznxRDzQpfO0OkEIg3XUxM8XdIrckvhgdv%2Fl2rLEm0KSyJBqCYTwhody9gs6mAMlZCA1suAv0YSpiTLE5ZQIicj7dvUFCrxw3eYjNkEYgbPUNudRA2IqfTxTZw96IcyY9gvuFmSTkqD3dMU0lX6QAufP6h4%2F6rKpOSevdKfhsTrtPzQf0LPl6a2EXqxY%2BQyIUVRCtNvD9hAcBHmYhXH41%2F0qpIx4mNXZ%2Bt9D8eLee2OKZ1vfa%2BSFfwcHOiWhoaPM3m1Fir%2FWi1n9NofiGwVl2swKyjenxyEbmR06lj%2FZvdenzeLzxDxLcBS5vxZfxbEPyuLZIobY5b0xhuE%7Ctkp%3ABk9SR_Se7vGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/xTgAAeSwqrFqZkLF/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787221169196,
-        "lastSeen": 1788081043954
+        "lastSeen": 1788167975596
       },
       "bestPsa10": null,
       "bestPsa9": {
@@ -71,64 +71,36 @@
         "psa10Auction": 0,
         "psa9Bin": 3
       },
-      "ratio": {
-        "ok": true,
-        "tier": {
-          "id": "premium1",
-          "label": "Premium 1",
-          "feeC": 99900,
-          "declaredValueCapC": 2500000,
-          "turnaroundBizDays": 7
-        },
-        "cgc10CostC": 500562,
-        "submissionFeeC": 99900,
-        "totalCostC": 600462,
-        "psa10ValueC": 1462132,
-        "ratio": 2.4350117076517748
-      },
+      "ratio": null,
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "336709401675",
           "title": "Pokémon Mewtwo 11/146 Legends Awakened Holo CGC 10 Pop 8Opens in a new window or tab",
           "priceC": 500000,
-          "shippingC": 562,
-          "landedC": 500562,
-          "url": "https://www.ebay.com/itm/336709401675?_skw=%28mewtwo%29+%2811%2Clegends%2Cawakened%29+%28CGC%2CPSA%29&epid=7043379587&itmmeta=01M18YY9STK7CPX0EWGNP2VSWT&hash=item4e6571bc4b:g:xTgAAeSwqrFqZkLF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCcYt6ApqBqZUw%2BfA3wihZN72HynEW5%2BPybf5GjYf%2BE%2FAWQqwRF7wJfXkiED2GgzvIrcTkdv0NpCqr%2BBV3YY%2F7jbXZbMoSdX7xDYn3ozPG19wVlQKv4ZoV8ij%2Bz9iX%2BnIQs4rLPqwA1FLK3BnwaCbeTkx%2FUMB2Bn2uzmuxKLmrPQTb%2FbxoDrhIl34K55otk2Du73B5QT2ihsV337Fi0jpOzGhlPl0hvJ9RiGSH%2Fwz%2Bjj0Bfv%2F8BzpVhLi212vVGl1ZoDPk6yxfrgM8eIYIZubxxT2V8ht40cF72OkEaBOVZ2A%3D%3D%7Ctkp%3ABk9SR5Sd-Z6KaA",
+          "shippingC": null,
+          "landedC": null,
+          "url": "https://www.ebay.com/itm/336709401675?_skw=%28mewtwo%29+%2811%2Clegends%2Cawakened%29+%28CGC%2CPSA%29&epid=7043379587&itmmeta=01M1BHVHX9KY9DJ6XH4S8Q9YXY&hash=item4e6571bc4b:g:xTgAAeSwqrFqZkLF&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDVRaZdeXznxRDzQpfO0OkEIg3XUxM8XdIrckvhgdv%2Fl2rLEm0KSyJBqCYTwhody9gs6mAMlZCA1suAv0YSpiTLE5ZQIicj7dvUFCrxw3eYjNkEYgbPUNudRA2IqfTxTZw96IcyY9gvuFmSTkqD3dMU0lX6QAufP6h4%2F6rKpOSevdKfhsTrtPzQf0LPl6a2EXqxY%2BQyIUVRCtNvD9hAcBHmYhXH41%2F0qpIx4mNXZ%2Bt9D8eLee2OKZ1vfa%2BSFfwcHOiWhoaPM3m1Fir%2FWi1n9NofiGwVl2swKyjenxyEbmR06lj%2FZvdenzeLzxDxLcBS5vxZfxbEPyuLZIobY5b0xhuE%7Ctkp%3ABk9SR_Se7vGKaA",
           "imageUrl": "https://i.ebayimg.com/images/g/xTgAAeSwqrFqZkLF/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787221169196,
-          "lastSeen": 1788081043954
+          "lastSeen": 1788167975596
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
-        "ratio": {
-          "ok": true,
-          "tier": {
-            "id": "premium1",
-            "label": "Premium 1",
-            "feeC": 99900,
-            "declaredValueCapC": 2500000,
-            "turnaroundBizDays": 7
-          },
-          "cgc10CostC": 500562,
-          "submissionFeeC": 99900,
-          "totalCostC": 600462,
-          "psa10ValueC": 1462132,
-          "ratio": 2.4350117076517748
-        },
+        "ratio": null,
         "firstOpportunityAt": 1787221169196
       },
       "firstOpportunityAt": 1787221169196,
-      "updatedAt": 1788081043954
+      "updatedAt": 1788167975596
     },
     "prices": {
       "variantId": 13142,
       "ungradedC": 7980,
-      "grade9C": 75340,
-      "grade95C": 82900,
+      "grade9C": 75099,
+      "grade95C": 82600,
       "cgc10C": 877300,
       "cgc10PristineC": 1579100,
       "psa10C": 1462132,
@@ -137,7 +109,7 @@
       "cgc10Pop": 9,
       "bgs10C": 1900800,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    4 sales per year\"}",
-      "fetchedAt": 1787908595435
+      "fetchedAt": 1788167762830
     },
     "listings": [
       {
@@ -159,46 +131,46 @@
         "itemId": "287418443235",
         "title": "Pokemon Mewtwo Holo Legends Awakened 11/146 PSA 9 MintOpens in a new window or tab",
         "priceC": 200000,
-        "shippingC": 999,
-        "landedC": 200999,
-        "url": "https://www.ebay.com/itm/287418443235?_skw=%28mewtwo%29+%2811%2Clegends%2Cawakened%29+%28CGC%2CPSA%29&epid=7043379587&itmmeta=01M18YY9SS4TYC5BQHKNDRS9MZ&hash=item42eb7965e3:g:vPkAAeSw4BZqPVNM&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xA7sFVekJY3EZUXjs%2FfZ2xIIOFbogsCO%2F7AOS43QFjSd5IK9NMHlXrscjqV1OSfzmcB4LETTovkIbarGhauYSWGOVQOmFfu1AEAueFi5PdQ1O06Z%2BM3t6ue52Iw6Vkhq9MvGC2NaX016EUpKIkvHfLL3u1EwM8raqfBrj28Ijj3kZTr1Ic6PSqrF4nrAAyCwTGD7WPDEw8px9eqmCSFl%2FdQJ8f2KFchi0XZHr5VZyQ0xaoh432NpNMjcdzTTbgKzz9qqs8%2BAIcsgFi57O0Tb%2FiXH9WSvzSrnLSfu8GX8XZOfw%3D%3D%7Ctkp%3ABk9SR5Sd-Z6KaA",
+        "shippingC": 11858,
+        "landedC": 211858,
+        "url": "https://www.ebay.com/itm/287418443235?_skw=%28mewtwo%29+%2811%2Clegends%2Cawakened%29+%28CGC%2CPSA%29&epid=7043379587&itmmeta=01M1BHVHX6EAH9PW5ZG0ZQZPN3&hash=item42eb7965e3:g:vPkAAeSw4BZqPVNM&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDZvVrU7OXhys805FyK%2BYdOvqu3h7KSUZs%2FGNyJjPrxzl9GSfBdSSEOO5TuOYrpyTaSqWgO0mtOECfskeQ5AQTHyHWdy%2F5x1gxHADgIVBHaKG%2BFVudyltJUvYz%2BBYskGZWhXzWB2xKEpjbOvm2p7ZVYN4xoBerfYj9D%2BD5fcI5t8Rrf%2FfVl3ybdho79x9lLLidrAIiRp4VIhf52dKgZkI6AmpHlpooCZfH%2Ff0NlhAO3RbQDgQgVWR0fJOltFRtIT1MDirXMpqlHf2Nm3TMCIIvJX5w3cbDBls2wjBKHqInnmZqx1tp%2FpDFKpMldFTFVTZSaRCoQqBjTdyQmMPA%2BuHGS%7Ctkp%3ABk9SR-ie7vGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/vPkAAeSw4BZqPVNM/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787221169196,
-        "lastSeen": 1788081043954
+        "lastSeen": 1788167975596
       },
       {
         "itemId": "287525962401",
         "title": "Pokemon Mewtwo Holo Legends Awakened 11/146 PSA 9 Mint 💫 CRAZY SWIRL + BLEED🔥Opens in a new window or tab",
         "priceC": 295000,
-        "shippingC": 0,
-        "landedC": 295000,
-        "url": "https://www.ebay.com/itm/287525962401?_skw=%28mewtwo%29+%2811%2Clegends%2Cawakened%29+%28CGC%2CPSA%29&epid=7043379587&itmmeta=01M18YY9SS7W23FC0PB95QY6MM&hash=item42f1e202a1:g:qE8AAeSwG5pqf9yL&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDEIfUqS0XvBeN4dQchXtW18%2Bu7UsnKaSuXpgc2VeLY36kac7M7rxeUgej0XGdYBgvgncGmx794ElxkRgyVHii%2FXV0prA1pZ5bNnKXyouHr2W%2Btn%2BBdbLP0ncf7o%2FVEROK6mjfMuVTwIclKJVgwQ%2B%2FhAOLH5j4KolpZYvYrkDGWfJpajMqjjmRYHfWfz%2BbdCvuC31MYqyW6gEAUO00t%2BEa1hrcD9GLBjUSjyk%2FlgVr0UVgb9BdBs7VAvVFHlZqk8OnYMcSgvOqqwbFv8%2BIyJbR%2BgN2Zdfa%2BBcwNRJVtkDFgRM0PBgKGip7xaQ85ilsiKMLiiVsE9X5Z6n3ypy4Wu%2BmI%7Ctkp%3ABk9SR5Sd-Z6KaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/287525962401?_skw=%28mewtwo%29+%2811%2Clegends%2Cawakened%29+%28CGC%2CPSA%29&epid=7043379587&itmmeta=01M1BHVHX91A0KDW18WXTC601D&hash=item42f1e202a1:g:qE8AAeSwG5pqf9yL&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xBaxhL4lvxwA6WUGNoxWV0%2FKK5k6UCte3KHVLlFt7BBrcMySS2upL6Cuezv03upfkxEdWkiv94xMvv5HEiM4Zts3I8CKo7E1VfuygflkS5dwMvnNWFVQS1uwdLvY3PYYbdYJrsiEUYENFQ2aaMGkFI7ywKgsXpCCG7APK1blD04drycdWBeRwRy3skUPL3piUZA9HrE%2Bbmm2fkKSSDIqj%2FcjOnZ88k5J4GyM16KGTMdom%2FCEHH5f2Q5Bu9bGDw1nq%2BG8KYsDf2XglBG3xbdJr5D2PQ4RiUR2fAIO2vEJn7HrA%3D%3D%7Ctkp%3ABk9SR_Se7vGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/qE8AAeSwG5pqf9yL/s-l500.webp",
         "listingType": "bin",
         "bucket": "psa9",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787221169196,
-        "lastSeen": 1788081043954
+        "lastSeen": 1788167975596
       },
       {
         "itemId": "336709401675",
         "title": "Pokémon Mewtwo 11/146 Legends Awakened Holo CGC 10 Pop 8Opens in a new window or tab",
         "priceC": 500000,
-        "shippingC": 562,
-        "landedC": 500562,
-        "url": "https://www.ebay.com/itm/336709401675?_skw=%28mewtwo%29+%2811%2Clegends%2Cawakened%29+%28CGC%2CPSA%29&epid=7043379587&itmmeta=01M18YY9STK7CPX0EWGNP2VSWT&hash=item4e6571bc4b:g:xTgAAeSwqrFqZkLF&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xCcYt6ApqBqZUw%2BfA3wihZN72HynEW5%2BPybf5GjYf%2BE%2FAWQqwRF7wJfXkiED2GgzvIrcTkdv0NpCqr%2BBV3YY%2F7jbXZbMoSdX7xDYn3ozPG19wVlQKv4ZoV8ij%2Bz9iX%2BnIQs4rLPqwA1FLK3BnwaCbeTkx%2FUMB2Bn2uzmuxKLmrPQTb%2FbxoDrhIl34K55otk2Du73B5QT2ihsV337Fi0jpOzGhlPl0hvJ9RiGSH%2Fwz%2Bjj0Bfv%2F8BzpVhLi212vVGl1ZoDPk6yxfrgM8eIYIZubxxT2V8ht40cF72OkEaBOVZ2A%3D%3D%7Ctkp%3ABk9SR5Sd-Z6KaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/336709401675?_skw=%28mewtwo%29+%2811%2Clegends%2Cawakened%29+%28CGC%2CPSA%29&epid=7043379587&itmmeta=01M1BHVHX9KY9DJ6XH4S8Q9YXY&hash=item4e6571bc4b:g:xTgAAeSwqrFqZkLF&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDVRaZdeXznxRDzQpfO0OkEIg3XUxM8XdIrckvhgdv%2Fl2rLEm0KSyJBqCYTwhody9gs6mAMlZCA1suAv0YSpiTLE5ZQIicj7dvUFCrxw3eYjNkEYgbPUNudRA2IqfTxTZw96IcyY9gvuFmSTkqD3dMU0lX6QAufP6h4%2F6rKpOSevdKfhsTrtPzQf0LPl6a2EXqxY%2BQyIUVRCtNvD9hAcBHmYhXH41%2F0qpIx4mNXZ%2Bt9D8eLee2OKZ1vfa%2BSFfwcHOiWhoaPM3m1Fir%2FWi1n9NofiGwVl2swKyjenxyEbmR06lj%2FZvdenzeLzxDxLcBS5vxZfxbEPyuLZIobY5b0xhuE%7Ctkp%3ABk9SR_Se7vGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/xTgAAeSwqrFqZkLF/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787221169196,
-        "lastSeen": 1788081043954
+        "lastSeen": 1788167975596
       }
     ],
     "marketHistory": {
@@ -356,6 +328,19 @@
           "gradingStatus": "graded",
           "gradingCompany": "PSA",
           "gradingGrade": 7,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8610292,
+          "saleDate": "2026-08-02",
+          "priceC": 18500,
+          "title": "🔥💥✨ 2008 Pokemon - Mewtwo 11/146 Legends Awakened Holo ✨💥🔥 11/146",
+          "url": "https://www.ebay.com/itm/407108836814?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1749,19 +1734,6 @@
           "gradingGrade": 9,
           "gradingDesignation": "mint",
           "agreementStatus": "match"
-        },
-        {
-          "id": 1579371,
-          "saleDate": "2024-10-01",
-          "priceC": 13414,
-          "title": "Pokemon Cards: Legends Awakened Rare Holo: Mewtwo 11/146 PSA 9 #11",
-          "url": "https://www.ebay.com/itm/315159830847?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1776,9 +1748,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 150,
+      "englishSaleCount": 151,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787908593343
+      "lastCapturedAt": 1788167761201
     }
   }
 }

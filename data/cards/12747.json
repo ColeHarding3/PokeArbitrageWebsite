@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 12747,
@@ -19,42 +19,42 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/605d8d361cd84189b5cda2cc194111ac2003c436a6e4d40167c1672963953cd3/1600.jpg",
       "popularityScore": 78,
       "market": {
-        "ungradedC": 1788,
+        "ungradedC": 1793,
         "grade9C": 7500,
         "grade95C": 8300,
         "cgc10C": 120000,
         "cgc10PristineC": 216000,
-        "psa10C": 199950,
-        "bgs10C": 259900,
+        "psa10C": 200000,
+        "bgs10C": 260000,
         "psa9Pop": 115,
         "psa10Pop": 72,
         "cgc10Pop": 12,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-        "fetchedAt": 1787908250067
+        "fetchedAt": 1788167420834
       },
       "bestCgc10": {
         "itemId": "800546941271",
         "title": "CGC 9.5 Pokemon TCG EX Emerald Blaziken 1/106 Holo Rare 2005 EnglishOpens in a new window or tab",
-        "priceC": 15000,
-        "shippingC": 524,
-        "landedC": 15524,
-        "url": "https://www.ebay.com/itm/800546941271?_skw=%28blaziken%29+%281%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=2314420696&itmmeta=01M18YJ8CS6R5GDEC8KGMNZYKH&hash=itemba6450e957:g:OGoAAeSwgwRqiMKc&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC8wosCHp%2BsZigakXrwtwofq1RkS8ohPvcWzD1ohgsLtEh8%2F0LeGiHN4eY9XgnLDaTdSr2e7GpZVNd6s2Lp%2FuQQ6psG3akWjqOnRlLYyxNQVuyL3gv2Fm7u9hmT1nrnvH6EQzlI2KZ8u6P5EAk6gFs606zGnfl3L38NBr3sF8Uwc8rpzMzQ7gBLQ00xHkLO0wgy%2Bq39Q0t2Vc9Yicswr3mco57JscFDYYvyNfdfPUcHtWgskunlck3QpYa%2FEJJXUv2194qTeKm%2B9QiJBap4UgJ7phHco0kHXR6jmL%2FGjD9yEA%3D%3D%7Ctkp%3ABk9SR9aGyZ6KaA",
+        "priceC": 14500,
+        "shippingC": 540,
+        "landedC": 15040,
+        "url": "https://www.ebay.com/itm/800546941271?_skw=%28blaziken%29+%281%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=2314420696&itmmeta=01M1BHDMDR8KMX80Q84SVEHHAD&hash=itemba6450e957:g:OGoAAeSwgwRqiMKc&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBpJIQ4DB2TWHwlzIfscB%2BUgbUxlfMuAovVIe1ovYbO8m1jSKmSAiTGmzKoe6AAwebKONI64VT72JQi5hc43wCxHkwBr%2BHQGjOYBB56j6GEsBEd1l5NsG5RxAhrMnw5rBRiR076nUBjiW3p%2FW4Y9xIneAh6uzJxc9chshn3uqWitGe%2FujRFuagkbZhcXueXaK3L5eAcn3daVoao1iMT%2FohuleFfQ1C8%2BK0GXvMFnmUXevGFQbD0jrnXuKg3U1dHuxkuXEjvocv1K68OCIteqyxCO371aD7YYiayWa3Gmwa6Mk6Q7wSK3B%2FuD5faIUw8PoRzyK6Xm%2BqBUvfXBxNEyT08%7Ctkp%3ABk9SR6DHtvGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/OGoAAeSwgwRqiMKc/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787387099191,
-        "lastSeen": 1788080710508
+        "lastSeen": 1788167563800
       },
       "bestPsa10": null,
       "bestPsa9": null,
       "counts": {
-        "cgc10Bin": 3,
+        "cgc10Bin": 2,
         "cgc10Auction": 0,
         "pristine10": 0,
         "psa10Bin": 0,
-        "psa10Auction": 1,
+        "psa10Auction": 0,
         "psa9Bin": 0
       },
       "ratio": {
@@ -66,11 +66,11 @@
           "declaredValueCapC": 250000,
           "turnaroundBizDays": 30
         },
-        "cgc10CostC": 15524,
+        "cgc10CostC": 15040,
         "submissionFeeC": 14900,
-        "totalCostC": 30424,
-        "psa10ValueC": 199950,
-        "ratio": 6.572114120431238
+        "totalCostC": 29940,
+        "psa10ValueC": 200000,
+        "ratio": 6.680026720106881
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -79,16 +79,16 @@
           "priceC": 59999,
           "shippingC": 895,
           "landedC": 60894,
-          "url": "https://www.ebay.com/itm/267656595235?_skw=%28blaziken%29+%281%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=2314420696&itmmeta=01M18YJ8CVJNTC647TMR426W47&hash=item3e51938723:g:QnsAAeSwEpNp9ToZ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDvm517OK%2B%2B%2BWUdQia2d8V6G7OIEDx3b2fUlPiS2yaqfSrUmdMvpuknBLegFmEwpsUvInhI7Vbo%2BRrkHNyHolr1SyK87wOHF0Bz%2FhEyYEEz0AcpFaWNSdVf2XGBtIAcxG2WWIV2GIsG8aiz%2B%2B5zYhGRpEWrvd3XXa4PXdEEUbE3WxVqs3VSKHgNkV0QDVu9bp8AcyYvlXFNHjDUd%2B7uWP6rx%2FmYC6%2BIehj8kUzf51N3WZSp5DejVJ5CicluYOLxuQte5G5sI7D5rhrdbe2FoGeU7G9N0piQMpsYCyC4VfAaKt%2B07T9%2FYjN7%2FJDQyVN8Ypwohve%2Bn8g1iCLW2vBEI82P%7Ctkp%3ABk9SR9qGyZ6KaA",
+          "url": "https://www.ebay.com/itm/267656595235?_skw=%28blaziken%29+%281%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=2314420696&itmmeta=01M1BHDMDT7T0N74T2DM50TG9Y&hash=item3e51938723:g:QnsAAeSwEpNp9ToZ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC0I8KDXmo3F6VXVOkgT0HE15LrkiJ4keAf%2FhX1S5RT%2BBr5jxbI6B%2BC7BfZ6YZum%2Bexh4oF89hrCX3wVlDMz5xCyaEwP4laivtBu89dQdaqPrj%2Fx5a%2BVnYW0A8cSfQ4oq3xACy8anQS%2BlmUlj%2FhQnxtIXIP9LZMl5rwzd%2BOhgNCxYZF81DtvJmQNIZq0WbqqGkDxB%2FQC7S%2BhK7I%2B8yXguNEt5fL6OIOfYL2GbyoU58C7ahv68TP9f1RucI5xeIuz7Yxdp--lB8DM34Gn%2FlOdnOu%2FweHf15Tc8xn5V6jErwt6Q%3D%3D%7Ctkp%3ABk9SR6LHtvGKaA",
           "imageUrl": "https://i.ebayimg.com/images/g/QnsAAeSwEpNp9ToZ/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787064622165,
-          "lastSeen": 1788080710508
+          "lastSeen": 1788167563800
         },
-        "cgc10Bin": 2,
+        "cgc10Bin": 1,
         "cgc10Auction": 0,
         "ratio": {
           "ok": true,
@@ -102,44 +102,44 @@
           "cgc10CostC": 60894,
           "submissionFeeC": 14900,
           "totalCostC": 75794,
-          "psa10ValueC": 199950,
-          "ratio": 2.6380716151674277
+          "psa10ValueC": 200000,
+          "ratio": 2.6387312979919253
         },
         "firstOpportunityAt": 1787064622165
       },
       "firstOpportunityAt": 1787387099191,
-      "updatedAt": 1788080710508
+      "updatedAt": 1788167563800
     },
     "prices": {
       "variantId": 12747,
-      "ungradedC": 1788,
+      "ungradedC": 1793,
       "grade9C": 7500,
       "grade95C": 8300,
       "cgc10C": 120000,
       "cgc10PristineC": 216000,
-      "psa10C": 199950,
+      "psa10C": 200000,
       "psa9Pop": 115,
       "psa10Pop": 72,
       "cgc10Pop": 12,
-      "bgs10C": 259900,
+      "bgs10C": 260000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    2 sales per year\",\"volume: 1 sale per month\":\"volume: \\n    2 sales per year\"}",
-      "fetchedAt": 1787908250067
+      "fetchedAt": 1788167420834
     },
     "listings": [
       {
         "itemId": "800546941271",
         "title": "CGC 9.5 Pokemon TCG EX Emerald Blaziken 1/106 Holo Rare 2005 EnglishOpens in a new window or tab",
-        "priceC": 15000,
-        "shippingC": 524,
-        "landedC": 15524,
-        "url": "https://www.ebay.com/itm/800546941271?_skw=%28blaziken%29+%281%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=2314420696&itmmeta=01M18YJ8CS6R5GDEC8KGMNZYKH&hash=itemba6450e957:g:OGoAAeSwgwRqiMKc&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC8wosCHp%2BsZigakXrwtwofq1RkS8ohPvcWzD1ohgsLtEh8%2F0LeGiHN4eY9XgnLDaTdSr2e7GpZVNd6s2Lp%2FuQQ6psG3akWjqOnRlLYyxNQVuyL3gv2Fm7u9hmT1nrnvH6EQzlI2KZ8u6P5EAk6gFs606zGnfl3L38NBr3sF8Uwc8rpzMzQ7gBLQ00xHkLO0wgy%2Bq39Q0t2Vc9Yicswr3mco57JscFDYYvyNfdfPUcHtWgskunlck3QpYa%2FEJJXUv2194qTeKm%2B9QiJBap4UgJ7phHco0kHXR6jmL%2FGjD9yEA%3D%3D%7Ctkp%3ABk9SR9aGyZ6KaA",
+        "priceC": 14500,
+        "shippingC": 540,
+        "landedC": 15040,
+        "url": "https://www.ebay.com/itm/800546941271?_skw=%28blaziken%29+%281%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=2314420696&itmmeta=01M1BHDMDR8KMX80Q84SVEHHAD&hash=itemba6450e957:g:OGoAAeSwgwRqiMKc&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBpJIQ4DB2TWHwlzIfscB%2BUgbUxlfMuAovVIe1ovYbO8m1jSKmSAiTGmzKoe6AAwebKONI64VT72JQi5hc43wCxHkwBr%2BHQGjOYBB56j6GEsBEd1l5NsG5RxAhrMnw5rBRiR076nUBjiW3p%2FW4Y9xIneAh6uzJxc9chshn3uqWitGe%2FujRFuagkbZhcXueXaK3L5eAcn3daVoao1iMT%2FohuleFfQ1C8%2BK0GXvMFnmUXevGFQbD0jrnXuKg3U1dHuxkuXEjvocv1K68OCIteqyxCO371aD7YYiayWa3Gmwa6Mk6Q7wSK3B%2FuD5faIUw8PoRzyK6Xm%2BqBUvfXBxNEyT08%7Ctkp%3ABk9SR6DHtvGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/OGoAAeSwgwRqiMKc/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787387099191,
-        "lastSeen": 1788080710508
+        "lastSeen": 1788167563800
       },
       {
         "itemId": "267656595235",
@@ -147,48 +147,31 @@
         "priceC": 59999,
         "shippingC": 895,
         "landedC": 60894,
-        "url": "https://www.ebay.com/itm/267656595235?_skw=%28blaziken%29+%281%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=2314420696&itmmeta=01M18YJ8CVJNTC647TMR426W47&hash=item3e51938723:g:QnsAAeSwEpNp9ToZ&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDvm517OK%2B%2B%2BWUdQia2d8V6G7OIEDx3b2fUlPiS2yaqfSrUmdMvpuknBLegFmEwpsUvInhI7Vbo%2BRrkHNyHolr1SyK87wOHF0Bz%2FhEyYEEz0AcpFaWNSdVf2XGBtIAcxG2WWIV2GIsG8aiz%2B%2B5zYhGRpEWrvd3XXa4PXdEEUbE3WxVqs3VSKHgNkV0QDVu9bp8AcyYvlXFNHjDUd%2B7uWP6rx%2FmYC6%2BIehj8kUzf51N3WZSp5DejVJ5CicluYOLxuQte5G5sI7D5rhrdbe2FoGeU7G9N0piQMpsYCyC4VfAaKt%2B07T9%2FYjN7%2FJDQyVN8Ypwohve%2Bn8g1iCLW2vBEI82P%7Ctkp%3ABk9SR9qGyZ6KaA",
+        "url": "https://www.ebay.com/itm/267656595235?_skw=%28blaziken%29+%281%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=2314420696&itmmeta=01M1BHDMDT7T0N74T2DM50TG9Y&hash=item3e51938723:g:QnsAAeSwEpNp9ToZ&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xC0I8KDXmo3F6VXVOkgT0HE15LrkiJ4keAf%2FhX1S5RT%2BBr5jxbI6B%2BC7BfZ6YZum%2Bexh4oF89hrCX3wVlDMz5xCyaEwP4laivtBu89dQdaqPrj%2Fx5a%2BVnYW0A8cSfQ4oq3xACy8anQS%2BlmUlj%2FhQnxtIXIP9LZMl5rwzd%2BOhgNCxYZF81DtvJmQNIZq0WbqqGkDxB%2FQC7S%2BhK7I%2B8yXguNEt5fL6OIOfYL2GbyoU58C7ahv68TP9f1RucI5xeIuz7Yxdp--lB8DM34Gn%2FlOdnOu%2FweHf15Tc8xn5V6jErwt6Q%3D%3D%7Ctkp%3ABk9SR6LHtvGKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/QnsAAeSwEpNp9ToZ/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787064622165,
-        "lastSeen": 1788080710508
-      },
-      {
-        "itemId": "198552315014",
-        "title": "Pokemon Blaziken #1 Holo EX Emerald 2005 - CGC 10 Gem Mint Vintage 1/106Opens in a new window or tab",
-        "priceC": 65000,
-        "shippingC": 624,
-        "landedC": 65624,
-        "url": "https://www.ebay.com/itm/198552315014?_skw=%28blaziken%29+%281%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=2314420696&itmmeta=01M18YJ8CV3Y3VCNWN6ZRSV3K5&hash=item2e3aa3e486:g:jaAAAeSwgnNqHa1-&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xByb4g9bkCXz0QMVEtXspbDXIo0d1D3tjloxB%2FNLjuTukeZCoNgQXrJTOUJyq7jkPIlF4JHiPAfnkFa%2BHEdk8odayv3uownjIdG0tlVfmWdDGUty53x6clIuQxRvLFGSDKyuaGAMMrFbx%2BY%2BFFEQxr%2BMLXpw005nXtmyA%2Fv0KOSzb9LXTlxf%2Ft08GOl1CG35gF2LFBl--ydspU5PFCxYuewM6CWhXLRvjSgrJ9KCM885h79ls0eArf97v%2Bn2xZRdBpC7GXTlQBmqeKcXoQaEV5InhZnFatxui%2BOeQVmhem%2BVg%3D%3D%7Ctkp%3ABk9SR9qGyZ6KaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/jaAAAeSwgnNqHa1-/s-l500.webp",
-        "listingType": "bin",
-        "bucket": "gemMint10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787064622165,
-        "lastSeen": 1788080710508
-      },
-      {
-        "itemId": "287541280864",
-        "title": "Pokemon Blaziken Holo Great Encounters 1/106 PSA 10 Gem MintOpens in a new window or tab",
-        "priceC": 167500,
-        "shippingC": 699,
-        "landedC": 168199,
-        "url": "https://www.ebay.com/itm/287541280864?_skw=%28blaziken%29+%281%2Cgreat%2Cencounters%29+%28CGC%2CPSA%29&epid=11043366025&itmmeta=01M18YJ8CVK3XJCAER7Z9NV1NT&hash=item42f2cbc060:g:f5IAAeSwiCJqiuAs&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBQ40PtYY5PZRZmPvJHCDmkS8wUknGktUxmLUJGZqIW37QyPo7F87cERKKgabrW5WdLcqG%2B4WCHhYksiNymKLre2rA5Ka5Y76tFh8k9v3V6HDf49UL0crFLRsAo2dJtwceSBOGBZpECt4FH%2BNZFUYMo4EzsGkJYqo2cEbcKfeLslQk3yZBJd%2BG4iRSDbRZYnn8aDtifZpaUXbPLB%2Ffz%2Fmp5tw9INjk%2BK9TvrPxvwTwHQWULEzEuyo%2FKquiSlgebCQpiKAIiBroKFvkdLM3JNL11JRczYl%2BrNTLHckpJfEqbpumxzaRQLrkrvxQrjlpSB45DuMfmolMRhPljY2jv5qOd%7Ctkp%3ABk9SR9qGyZ6KaA",
-        "imageUrl": "https://i.ebayimg.com/images/g/f5IAAeSwiCJqiuAs/s-l500.webp",
-        "listingType": "auction",
-        "bucket": "psa10",
-        "legacyCgc95": false,
-        "freshness": "live",
-        "firstSeen": 1787559754294,
-        "lastSeen": 1788080710508
+        "lastSeen": 1788167563800
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 8584828,
+          "saleDate": "2026-08-30",
+          "priceC": 385000,
+          "title": "Pokemon Blaziken Holo Great Encounters 1/106 PSA 10 Gem Mint 1/106",
+          "url": "https://www.ebay.com/itm/287541280864?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 10,
+          "gradingDesignation": "gem-mint",
+          "agreementStatus": "match"
+        },
         {
           "id": 7347650,
           "saleDate": "2026-08-24",
@@ -1735,19 +1718,6 @@
           "gradingGrade": 9,
           "gradingDesignation": "mint",
           "agreementStatus": "match"
-        },
-        {
-          "id": 1554022,
-          "saleDate": "2025-02-14",
-          "priceC": 22999,
-          "title": "Blaziken D & P Great Encounters Holo Rare Pokemon Card 1/106 PSA 10 GEM MINT TCG 1/106",
-          "url": "https://www.ebay.com/itm/176802723467?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 10,
-          "gradingDesignation": "gem-mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1843,13 +1813,13 @@
         },
         {
           "month": "2026-08",
-          "medianC": 250000,
-          "count": 1
+          "medianC": 317500,
+          "count": 2
         }
       ],
-      "englishSaleCount": 157,
+      "englishSaleCount": 158,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787908247878
+      "lastCapturedAt": 1788167418741
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 1974,
@@ -21,16 +21,16 @@
       "market": {
         "ungradedC": 39644,
         "grade9C": 374850,
-        "grade95C": 412529,
-        "cgc10C": 1640200,
+        "grade95C": 410049,
+        "cgc10C": 1499900,
         "cgc10PristineC": 2211616,
-        "psa10C": 2733611,
-        "bgs10C": 3553700,
+        "psa10C": 2499900,
+        "bgs10C": 3249900,
         "psa9Pop": 234,
         "psa10Pop": 27,
         "cgc10Pop": 20,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 2 sales per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787903437974
+        "fetchedAt": 1788162533152
       },
       "bestCgc10": {
         "itemId": "287520981546",
@@ -38,14 +38,14 @@
         "priceC": 725000,
         "shippingC": 999,
         "landedC": 725999,
-        "url": "https://www.ebay.com/itm/287520981546?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1916R7W83TAJ5CGJ3Z35EMD&hash=item42f196022a:g:zHQAAeSwcflqfLcA&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDjnpyFImOkGYQe3IVhyzFsgud7VfkY8eb%2FTVSNtM%2Fd%2BfeoSiKcaqZRNqDAh%2BcsqOL1gNTh1SP2djecWHdTwC0qAtN8OMRIbk2ZO6noal1X3sY6volwUnuUyM5X%2BQ2R7pxzhCR1v9xASsnduni3RPtU4eVIODhOXqiSKs9giAap29hVpgxxq7J3ukyfJHpZmBL0Vnagn2xLBNC17HXrudsoJ1%2Flu60hDAjm9lRMTdTUOJY7oYj00BCiXpyRX%2FgSbbh6%2BzS84YCBcSii85SrRbz%2FS%2BOPMbNQKHlwAVp1TcvcVQ%3D%3D%7Ctkp%3ABk9SR6KEm6GKaA",
+        "url": "https://www.ebay.com/itm/287520981546?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1BCRTEAX836544EWEPZN373&hash=item42f196022a:g:zHQAAeSwcflqfLcA&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAGH4zh1rQjaff3EtS1NtbUkzvVPK2uqb3igpmZgTdgowWTCHOXRCGMbvK3CQ58LsWaNbS1wShh5p5cmW0UPc2aHuDW%2B6m166D5cRGIQU9r7blhUSl2KhemTZwv%2B04RWh9kWTqsiqBTgTMnVC90lqk3m4XyT7LZe4y%2Bosrx4Feoi1LHzp555T%2F1LUcZY2ub64V6RgY7o2mELefAuLkMgVen9LWRUTvO%2BuT23g7ZVE7MVoXVBasdEWC1CXJM3mmN2WBLEIwentpjca2fn%2FzJdVdLItJcdun46ahpLuE4CEDYYlfKW3M8pX0%2BHGLPbcbmI8D14%2F5jmjrActCcRdSrtUti%7Ctkp%3ABk9SR8Sn4-yKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/zHQAAeSwcflqfLcA/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787989935545,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788162717393
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -60,17 +60,17 @@
       "ratio": {
         "ok": true,
         "tier": {
-          "id": "premium2",
-          "label": "Premium 2",
-          "feeC": 199900,
-          "declaredValueCapC": 5000000,
+          "id": "premium1",
+          "label": "Premium 1",
+          "feeC": 99900,
+          "declaredValueCapC": 2500000,
           "turnaroundBizDays": 7
         },
         "cgc10CostC": 725999,
-        "submissionFeeC": 199900,
-        "totalCostC": 925899,
-        "psa10ValueC": 2733611,
-        "ratio": 2.952385735377185
+        "submissionFeeC": 99900,
+        "totalCostC": 825899,
+        "psa10ValueC": 2499900,
+        "ratio": 3.0268834324778213
       },
       "withoutLegacyCgc95": {
         "bestCgc10": {
@@ -79,51 +79,51 @@
           "priceC": 725000,
           "shippingC": 999,
           "landedC": 725999,
-          "url": "https://www.ebay.com/itm/287520981546?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1916R7W83TAJ5CGJ3Z35EMD&hash=item42f196022a:g:zHQAAeSwcflqfLcA&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDjnpyFImOkGYQe3IVhyzFsgud7VfkY8eb%2FTVSNtM%2Fd%2BfeoSiKcaqZRNqDAh%2BcsqOL1gNTh1SP2djecWHdTwC0qAtN8OMRIbk2ZO6noal1X3sY6volwUnuUyM5X%2BQ2R7pxzhCR1v9xASsnduni3RPtU4eVIODhOXqiSKs9giAap29hVpgxxq7J3ukyfJHpZmBL0Vnagn2xLBNC17HXrudsoJ1%2Flu60hDAjm9lRMTdTUOJY7oYj00BCiXpyRX%2FgSbbh6%2BzS84YCBcSii85SrRbz%2FS%2BOPMbNQKHlwAVp1TcvcVQ%3D%3D%7Ctkp%3ABk9SR6KEm6GKaA",
+          "url": "https://www.ebay.com/itm/287520981546?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1BCRTEAX836544EWEPZN373&hash=item42f196022a:g:zHQAAeSwcflqfLcA&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAGH4zh1rQjaff3EtS1NtbUkzvVPK2uqb3igpmZgTdgowWTCHOXRCGMbvK3CQ58LsWaNbS1wShh5p5cmW0UPc2aHuDW%2B6m166D5cRGIQU9r7blhUSl2KhemTZwv%2B04RWh9kWTqsiqBTgTMnVC90lqk3m4XyT7LZe4y%2Bosrx4Feoi1LHzp555T%2F1LUcZY2ub64V6RgY7o2mELefAuLkMgVen9LWRUTvO%2BuT23g7ZVE7MVoXVBasdEWC1CXJM3mmN2WBLEIwentpjca2fn%2FzJdVdLItJcdun46ahpLuE4CEDYYlfKW3M8pX0%2BHGLPbcbmI8D14%2F5jmjrActCcRdSrtUti%7Ctkp%3ABk9SR8Sn4-yKaA",
           "imageUrl": "https://i.ebayimg.com/images/g/zHQAAeSwcflqfLcA/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787989935545,
-          "lastSeen": 1788085138535
+          "lastSeen": 1788162717393
         },
         "cgc10Bin": 4,
         "cgc10Auction": 0,
         "ratio": {
           "ok": true,
           "tier": {
-            "id": "premium2",
-            "label": "Premium 2",
-            "feeC": 199900,
-            "declaredValueCapC": 5000000,
+            "id": "premium1",
+            "label": "Premium 1",
+            "feeC": 99900,
+            "declaredValueCapC": 2500000,
             "turnaroundBizDays": 7
           },
           "cgc10CostC": 725999,
-          "submissionFeeC": 199900,
-          "totalCostC": 925899,
-          "psa10ValueC": 2733611,
-          "ratio": 2.952385735377185
+          "submissionFeeC": 99900,
+          "totalCostC": 825899,
+          "psa10ValueC": 2499900,
+          "ratio": 3.0268834324778213
         },
         "firstOpportunityAt": 1787989935545
       },
       "firstOpportunityAt": 1787989935545,
-      "updatedAt": 1788085138535
+      "updatedAt": 1788162717393
     },
     "prices": {
       "variantId": 1974,
       "ungradedC": 39644,
       "grade9C": 374850,
-      "grade95C": 412529,
-      "cgc10C": 1640200,
+      "grade95C": 410049,
+      "cgc10C": 1499900,
       "cgc10PristineC": 2211616,
-      "psa10C": 2733611,
+      "psa10C": 2499900,
       "psa9Pop": 234,
       "psa10Pop": 27,
       "cgc10Pop": 20,
-      "bgs10C": 3553700,
+      "bgs10C": 3249900,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 2 sales per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787903437974
+      "fetchedAt": 1788162533152
     },
     "listings": [
       {
@@ -132,14 +132,14 @@
         "priceC": 725000,
         "shippingC": 999,
         "landedC": 725999,
-        "url": "https://www.ebay.com/itm/287520981546?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1916R7W83TAJ5CGJ3Z35EMD&hash=item42f196022a:g:zHQAAeSwcflqfLcA&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDjnpyFImOkGYQe3IVhyzFsgud7VfkY8eb%2FTVSNtM%2Fd%2BfeoSiKcaqZRNqDAh%2BcsqOL1gNTh1SP2djecWHdTwC0qAtN8OMRIbk2ZO6noal1X3sY6volwUnuUyM5X%2BQ2R7pxzhCR1v9xASsnduni3RPtU4eVIODhOXqiSKs9giAap29hVpgxxq7J3ukyfJHpZmBL0Vnagn2xLBNC17HXrudsoJ1%2Flu60hDAjm9lRMTdTUOJY7oYj00BCiXpyRX%2FgSbbh6%2BzS84YCBcSii85SrRbz%2FS%2BOPMbNQKHlwAVp1TcvcVQ%3D%3D%7Ctkp%3ABk9SR6KEm6GKaA",
+        "url": "https://www.ebay.com/itm/287520981546?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1BCRTEAX836544EWEPZN373&hash=item42f196022a:g:zHQAAeSwcflqfLcA&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAGH4zh1rQjaff3EtS1NtbUkzvVPK2uqb3igpmZgTdgowWTCHOXRCGMbvK3CQ58LsWaNbS1wShh5p5cmW0UPc2aHuDW%2B6m166D5cRGIQU9r7blhUSl2KhemTZwv%2B04RWh9kWTqsiqBTgTMnVC90lqk3m4XyT7LZe4y%2Bosrx4Feoi1LHzp555T%2F1LUcZY2ub64V6RgY7o2mELefAuLkMgVen9LWRUTvO%2BuT23g7ZVE7MVoXVBasdEWC1CXJM3mmN2WBLEIwentpjca2fn%2FzJdVdLItJcdun46ahpLuE4CEDYYlfKW3M8pX0%2BHGLPbcbmI8D14%2F5jmjrActCcRdSrtUti%7Ctkp%3ABk9SR8Sn4-yKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/zHQAAeSwcflqfLcA/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787989935545,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788162717393
       },
       {
         "itemId": "127842435942",
@@ -147,14 +147,14 @@
         "priceC": 1600000,
         "shippingC": 0,
         "landedC": 1600000,
-        "url": "https://www.ebay.com/itm/127842435942?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1916R7XHGVF6AKCAMSNQNEE&hash=item1dc400c366:g:L~AAAeSwKxhqP48F&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAbq0VUCGafnoBHmktv0IYX6C2po9M2Bd5sPUB5ErMDfi6fGHAvIdZUpAGVsOFw0SIRXFCVNZCbWsHy1NoppjLLOR95aFp5EKMSO5fL14NeHvElqlWlJXDD5qt%2BhlMlxjkw5J7OtGx5GXRKNFVSBbMKmMQwkHduan1q5ipUvs1QZ0R6Er51XcICumZdHiKw4rUVZIZgj05oKXvgu28hiQ%2BLu5QzwSOmXB87v%2Bq8Kg8wC33%2Flhe3xeVigFDmMEY%2BV02%2FadcCj2uEnbe8M1zEASTxqWNbvjD%2BrC%2FcTRexswWw%2BfHDtRvrh79V45zvN26P0UfMo7MHLnzCQNzt6r%2BOOdUM%7Ctkp%3ABk9SR6KEm6GKaA",
+        "url": "https://www.ebay.com/itm/127842435942?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1BCRTEAMMGG8N1YT3614HB6&hash=item1dc400c366:g:L~AAAeSwKxhqP48F&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAbq0VUCGafnoBHmktv0IYX6C2po9M2Bd5sPUB5ErMDfi6fGHAvIdZUpAGVsOFw0SIRXFCVNZCbWsHy1NoppjLLOR95aFp5EKMSO5fL14NeHvElqlWlJXDD5qt%2BhlMlxjkPCjKdo%2F30Jb6o19Eit0zeL2o%2BV4H%2FzOZrRCUYyZlL%2B2EdVf3SBvTRD5FO2gh%2F3m1zx8m3cDGURIuj5uJtw0VynnqOKgmxBXYl0MkrxlDG7UHANR05vYDe4IECvNBx6vWkcswbcgOps162vUsQr%2BhMy5aJ8%2FuU5SU%2FsLcvDkhU8DvpNRuswtgJxWbCoPtEFlneyVe1M6yaeuiNmW5n6SVu%7Ctkp%3ABk9SR8Sn4-yKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/L~AAAeSwKxhqP48F/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788162717393
       },
       {
         "itemId": "227376332827",
@@ -162,29 +162,29 @@
         "priceC": 2300000,
         "shippingC": 0,
         "landedC": 2300000,
-        "url": "https://www.ebay.com/itm/227376332827?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1916R7XRRAVM4R505QC0F5J&hash=item34f0af801b:g:fokAAeSwPZdqJOC5&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xAKkf1ljyOIb1qeNdQhuVujKODiOW37RzSXjv%2FKVEFqo9C%2Fqa03HAJyYAHLUcbs5C%2Bo4%2BS%2BtHH9EOAXXATUqPtFw3C0xkOsNOQPOTFW1S4%2BA9jFqFx%2Bb7qUYSodeoagV6Dh6zJ8jC3Vr3KKFuZS6w34sM3fAfKA4TgBfpjidDh%2FtR5oaNFYydT%2FggEKbWFonFRkk5Kvzv0qG1iDk2eGNNFUB7hLbW%2FU8WnMzwHwQYIfIPGwVJYsnCo%2FV5D40NZnMIgoMl%2FTBRLh%2B3pciWIy7Vn%2B5SpiSmFsfgC6jne4D1ITVg%3D%3D%7Ctkp%3ABk9SR6KEm6GKaA",
+        "url": "https://www.ebay.com/itm/227376332827?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1BCRTEA3SZ0EBGBDMQWAJCE&hash=item34f0af801b:g:fokAAeSwPZdqJOC5&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xB5KNbjxVLcP8i%2F558hyb9FUnSnSAdCKlfLvVJlwj0e9XTk7L2b8mhY%2F5kO%2F2jMvr%2BTUiqWl%2BADuAr%2BtTDrTIa31%2BX8buOQPy0PkD2%2FaD%2FZaxkr1V5y1iZooRV%2FPVI%2B0vRnsfdZUdsYgG9z2eCBdp5dNH2cVVz2soxp0E6nycgn%2FxI%2FUmbqZXgWeZoQvOYuPocR%2BvVlhT6dJl7VUqLNr5nGdBgheMuiH%2B5O073vua9CDqe3aVHpdUAL70F0sAhzeS4jR%2FiFFXjDLQj2ZLyslQQzwdjh89xcUeuGeTtYyOUygi18tUp5MzVfMEHDHvO79nk9NvJk5o5O5H2wDFbWjeB0%7Ctkp%3ABk9SR8Sn4-yKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/fokAAeSwPZdqJOC5/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788162717393
       },
       {
         "itemId": "376782309672",
         "title": "💎🐾 CGC 10 | Eevee 74/110 Reverse Holo | Legendary Collection 2002Opens in a new window or tab",
         "priceC": 2499995,
-        "shippingC": 597,
-        "landedC": 2500592,
-        "url": "https://www.ebay.com/itm/376782309672?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1916R7XAEHNVVQDQAX87AGA&hash=item57b9f9c928:g:fDMAAeSwYNZpQb-q&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xB0LTEPZpPePIIAVZ1DYsP30m0BGEj9OWEEvFk1zlbvrI69avzdwAPNDTY43FPDzM3znJsF%2FZWWDt%2BR5pP7xZ6igaHBMNiVLDjk02zCB3fZB1HllGCku%2BGfemDxuRFz%2FGLcNqgHTP98i3Ha8L2iulf4ELFdSvn2SUPLxBfPC3N%2FY94Tu%2BD9JhA9Tw%2BlUJ%2FdR74piAPOSUaNG3qS9R6H6wpIaR8%2BEkZVz8Iyvdjl%2BofOqAB%2FfnVnF7V5rTGYW4aCkBcTQ2iOLIqlza%2BR6YNi8%2BgAKhXA5KcguWIawq5%2FkeOwEg%3D%3D%7Ctkp%3ABk9SR6KEm6GKaA",
+        "shippingC": 573,
+        "landedC": 2500568,
+        "url": "https://www.ebay.com/itm/376782309672?_skw=%28eevee%29+%2874%2Clegendary%2Ccollection%29+%28CGC%2CPSA%29&epid=16043369491&itmmeta=01M1BCRTEAZ3G0AE54AYDQMPR1&hash=item57b9f9c928:g:fDMAAeSwYNZpQb-q&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xAMSSvh5yFTwQeYP7%2FTrk3KqaO1xg2ESE%2FrwWWz87emlYBNQNk0eHYM%2BSEaGUmrsA%2FCS6e4s5pkF8UxNZTDVeR7m9k39qGJmYy3BMrnnvas2dKGnQmdkPGbzNxURbXTQUJ4okmaaa%2BNfwkspUWHBAcyi%2FwED%2Fdq2vcQI%2B4THs3ukFIi25z%2Fv8xX51Tu6Bgto9s38qKwfKZ9wtedA7EU%2FKg%2BdM%2FcDkqYYVQ3RYIeidVndb0eBTTY9J7K0TFe3gyYsM%2BQI%2FIWRbZMpwfbbtxncsYtWobz8knI2cQFcvKGfUtU%2BF43O87fH9tLQ79VjW43nkbkIATIWb0FQkm1AGLreucG%7Ctkp%3ABk9SR8Sn4-yKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/fDMAAeSwYNZpQb-q/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787050911353,
-        "lastSeen": 1788085138535
+        "lastSeen": 1788162717393
       }
     ],
     "marketHistory": {
@@ -667,6 +667,19 @@
           "gradingStatus": "graded",
           "gradingCompany": "PSA",
           "gradingGrade": 9,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8111670,
+          "saleDate": "2026-06-23",
+          "priceC": 84999,
+          "title": "PSA 5 Eevee Reverse Holo Foil #74 Legendary Collection 2002 Pokémon WoTC EX #74",
+          "url": "https://www.ebay.com/itm/178101209163?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 5,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1581,6 +1594,19 @@
           "agreementStatus": "match"
         },
         {
+          "id": 8111537,
+          "saleDate": "2026-01-01",
+          "priceC": 1000000,
+          "title": "Pokemon Eevee Legendary Coll. Reverse Holo #74 PSA 10 Gem Mint",
+          "url": "https://www.ebay.com/itm/286883083485?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 10,
+          "gradingDesignation": "gem-mint",
+          "agreementStatus": "match"
+        },
+        {
           "id": 330248,
           "saleDate": "2025-12-27",
           "priceC": 34000,
@@ -1722,32 +1748,6 @@
           "gradingGrade": 4,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 330277,
-          "saleDate": "2025-11-05",
-          "priceC": 28000,
-          "title": "Pokémon TCG Eevee Legendary Collection Reverse Holo Card #74 TAG 6 Graded POP 2 #74",
-          "url": "https://www.ebay.com/itm/336208902642?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "TAG",
-          "gradingGrade": 6,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 330195,
-          "saleDate": "2025-10-19",
-          "priceC": 66000,
-          "title": "2002 Pokemon Legendary Collection #74 Eevee C Reverse Foil BGS 9 MINT",
-          "url": "https://www.ebay.com/itm/389091907941?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "BGS",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1762,14 +1762,19 @@
           "count": 1
         },
         {
+          "month": "2026-01",
+          "medianC": 1000000,
+          "count": 1
+        },
+        {
           "month": "2026-03",
           "medianC": 2749900,
           "count": 2
         }
       ],
-      "englishSaleCount": 221,
+      "englishSaleCount": 223,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787903436190
+      "lastCapturedAt": 1788162531108
     }
   }
 }

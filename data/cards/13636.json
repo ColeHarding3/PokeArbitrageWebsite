@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 13636,
@@ -19,18 +19,18 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/fd2edd3929a6e74b6c8edfd48b822a6723d343da03fb575c1d1cf69462beef35/1600.jpg",
       "popularityScore": 88,
       "market": {
-        "ungradedC": 9230,
-        "grade9C": 116857,
-        "grade95C": 128500,
-        "cgc10C": 99000,
-        "cgc10PristineC": 178200,
-        "psa10C": 164994,
-        "bgs10C": 214500,
+        "ungradedC": 9000,
+        "grade9C": 169990,
+        "grade95C": 187000,
+        "cgc10C": 122400,
+        "cgc10PristineC": 220300,
+        "psa10C": 204000,
+        "bgs10C": 265200,
         "psa9Pop": 4,
         "psa10Pop": null,
         "cgc10Pop": 2,
-        "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per year\",\"volume: 4 sales per year\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787909024335
+        "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per year\",\"volume: 3 sales per year\":\"volume: \\n    1 sale per year\"}",
+        "fetchedAt": 1788168187509
       },
       "bestCgc10": {
         "itemId": "287520981565",
@@ -38,14 +38,14 @@
         "priceC": 325000,
         "shippingC": 999,
         "landedC": 325999,
-        "url": "https://www.ebay.com/itm/287520981565?_skw=%28psyduck%29+%2887%2Cplatinum%29+%28CGC%2CPSA%29&epid=12043364978&itmmeta=01M18Z5VA6706P774BGCKR7KHH&hash=item42f196023d:g:-8UAAeSw-h9qfLb6&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA53CVjOx2UYiNiG3G9pdt2rpaAOEoUbtz3lE6G8ixVma%2FobHfrds5p3y1%2BOyS1M%2B5KI8cnHZYRpos3O7E%2BGTOxDxM3MUg3xZRUVJROXC4uQlQ8vBozX0sfkkDRoas6b%2FBiB2cfXNMNL4P0yS5cJW1SsfhJRJ%2BxO7RnbQgejhIclrxNXtDWsUK5IhDl7X%2BL0dvJ%2BvKPXuiK%2BoXQAun8MO2gKWBuHFesz0haWLu0We2WK1bRNU4tEA0exIaqFemLAG5frO3AQS2yGIRAxIyFe0Y8yNCy15nUpn441Iy3m6Q7gAKTmPbS2B0ebw%2BePpibelQ%3D%7Ctkp%3ABk9SR6S1l5-KaA",
+        "url": "https://www.ebay.com/itm/287520981565?_skw=%28psyduck%29+%2887%2Cplatinum%29+%28CGC%2CPSA%29&epid=12043364978&itmmeta=01M1BJ57ZEZXPBS36NQSJDBAR7&hash=item42f196023d:g:-8UAAeSw-h9qfLb6&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA53CVjOx2UYiNiG3G9pdt2rpaAOEoUbtz3lE6G8ixVma%2FobHfrds5p3y1%2BOyS1M%2B5KI8cnHZYRpos3O7E%2BGTOxDxM3MUg3xZRUVJROXC4uQlQ8vBozX0sfkkDRoas6b%2FCoE0JTv7Ws%2B9GbFWfxzP1bFBWmwcUolddvzyQp%2BXPadVmejMlaQ2oJOauQNZPacyiuEJsUe%2FVUul6S1jSz2fw%2BODfy3haBSSFx9poSwuJV8bY7%2FwADWznS52mPBe0qov2vnHbZiNCX0US1B0z1SjhIO7NrEgmgb5MrbuVfvNNsNgxChUE%2Ff1bkQyeXbudWC2M%3D%7Ctkp%3ABk9SR_T_lPKKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-8UAAeSw-h9qfLb6/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787222267288,
-        "lastSeen": 1788081405184
+        "lastSeen": 1788168390364
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -69,8 +69,8 @@
         "cgc10CostC": 325999,
         "submissionFeeC": 14900,
         "totalCostC": 340899,
-        "psa10ValueC": 164994,
-        "ratio": 0.4839967263030986
+        "psa10ValueC": 204000,
+        "ratio": 0.5984177131643097
       },
       "withoutLegacyCgc95": {
         "bestCgc10": null,
@@ -80,22 +80,22 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787222267288,
-      "updatedAt": 1788081405184
+      "updatedAt": 1788168390364
     },
     "prices": {
       "variantId": 13636,
-      "ungradedC": 9230,
-      "grade9C": 116857,
-      "grade95C": 128500,
-      "cgc10C": 99000,
-      "cgc10PristineC": 178200,
-      "psa10C": 164994,
+      "ungradedC": 9000,
+      "grade9C": 169990,
+      "grade95C": 187000,
+      "cgc10C": 122400,
+      "cgc10PristineC": 220300,
+      "psa10C": 204000,
       "psa9Pop": 4,
       "psa10Pop": null,
       "cgc10Pop": 2,
-      "bgs10C": 214500,
-      "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per year\",\"volume: 4 sales per year\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787909024335
+      "bgs10C": 265200,
+      "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per year\",\"volume: 3 sales per year\":\"volume: \\n    1 sale per year\"}",
+      "fetchedAt": 1788168187509
     },
     "listings": [
       {
@@ -104,14 +104,14 @@
         "priceC": 325000,
         "shippingC": 999,
         "landedC": 325999,
-        "url": "https://www.ebay.com/itm/287520981565?_skw=%28psyduck%29+%2887%2Cplatinum%29+%28CGC%2CPSA%29&epid=12043364978&itmmeta=01M18Z5VA6706P774BGCKR7KHH&hash=item42f196023d:g:-8UAAeSw-h9qfLb6&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA53CVjOx2UYiNiG3G9pdt2rpaAOEoUbtz3lE6G8ixVma%2FobHfrds5p3y1%2BOyS1M%2B5KI8cnHZYRpos3O7E%2BGTOxDxM3MUg3xZRUVJROXC4uQlQ8vBozX0sfkkDRoas6b%2FBiB2cfXNMNL4P0yS5cJW1SsfhJRJ%2BxO7RnbQgejhIclrxNXtDWsUK5IhDl7X%2BL0dvJ%2BvKPXuiK%2BoXQAun8MO2gKWBuHFesz0haWLu0We2WK1bRNU4tEA0exIaqFemLAG5frO3AQS2yGIRAxIyFe0Y8yNCy15nUpn441Iy3m6Q7gAKTmPbS2B0ebw%2BePpibelQ%3D%7Ctkp%3ABk9SR6S1l5-KaA",
+        "url": "https://www.ebay.com/itm/287520981565?_skw=%28psyduck%29+%2887%2Cplatinum%29+%28CGC%2CPSA%29&epid=12043364978&itmmeta=01M1BJ57ZEZXPBS36NQSJDBAR7&hash=item42f196023d:g:-8UAAeSw-h9qfLb6&itmprp=enc%3AAQALAAABAGfYFPkwiKCW4ZNSs2u11xA53CVjOx2UYiNiG3G9pdt2rpaAOEoUbtz3lE6G8ixVma%2FobHfrds5p3y1%2BOyS1M%2B5KI8cnHZYRpos3O7E%2BGTOxDxM3MUg3xZRUVJROXC4uQlQ8vBozX0sfkkDRoas6b%2FCoE0JTv7Ws%2B9GbFWfxzP1bFBWmwcUolddvzyQp%2BXPadVmejMlaQ2oJOauQNZPacyiuEJsUe%2FVUul6S1jSz2fw%2BODfy3haBSSFx9poSwuJV8bY7%2FwADWznS52mPBe0qov2vnHbZiNCX0US1B0z1SjhIO7NrEgmgb5MrbuVfvNNsNgxChUE%2Ff1bkQyeXbudWC2M%3D%7Ctkp%3ABk9SR_T_lPKKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-8UAAeSw-h9qfLb6/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787222267288,
-        "lastSeen": 1788081405184
+        "lastSeen": 1788168390364
       }
     ],
     "marketHistory": {
@@ -139,6 +139,19 @@
           "gradingStatus": "raw",
           "gradingCompany": null,
           "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8639648,
+          "saleDate": "2026-08-01",
+          "priceC": 370000,
+          "title": "Psyduck 87/127 Platinum Reverse Holo Pokemon 2009 POP 4 PSA 9 87/127",
+          "url": "https://www.ebay.com/itm/366579317692?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -820,9 +833,9 @@
         }
       ],
       "monthlyPsa10": [],
-      "englishSaleCount": 54,
+      "englishSaleCount": 55,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787909022348
+      "lastCapturedAt": 1788168185441
     }
   }
 }

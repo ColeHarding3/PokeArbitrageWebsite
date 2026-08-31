@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 5727,
@@ -19,7 +19,7 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/4870e0c0b7617dd55bb443487b7bcaf43fd842cbed0042f00adccb3ea946ec80/1600.jpg",
       "popularityScore": 80,
       "market": {
-        "ungradedC": 5480,
+        "ungradedC": 5568,
         "grade9C": 35000,
         "grade95C": 38500,
         "cgc10C": 1020000,
@@ -30,7 +30,7 @@
         "psa10Pop": 15,
         "cgc10Pop": 7,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787907046535
+        "fetchedAt": 1788166205809
       },
       "bestCgc10": {
         "itemId": "366621292341",
@@ -38,14 +38,14 @@
         "priceC": 100000,
         "shippingC": 500,
         "landedC": 100500,
-        "url": "https://www.ebay.com/itm/366621292341?_skw=%28altaria%2Cdelta%29+%2890%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=23043384397&itmmeta=01M18XJTTSAA12Q0MX6V6QKAK4&hash=item555c54f735:g:EjgAAeSw5AhqFwgE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDx74TpyeKZNYLIhTOdX10KU6y7OyjZd7xVfsErZY0SiAK560mqYSQG8DXvk9thYYoR8TJQytJTKRVzBgLT49YuTazaAO8oQ8Ak8CuYm5h5GJ2oFabzevZS2%2Bh%2BBgx1BUj9up15bi6o4WEvRl3B%2Ba7bLqX0W3edhb8bwgNfze1apEcvvi89lZFXZ%2BlmMLBznGwJcHval6h0YSoswxrlIcQ%2FBJZyZwvVwQhSfvPGexzcNOjVCI8jOIyuyEYvWi%2B0h3UWK1UnjBWgKh0zsczmIHVqNISmd3le2FOpWEj8wPVaJA%3D%3D%7Ctkp%3ABk9SR9ity52KaA",
+        "url": "https://www.ebay.com/itm/366621292341?_skw=%28altaria%2Cdelta%29+%2890%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=23043384397&itmmeta=01M1BG9ACB5C1VS3D9F5074WNS&hash=item555c54f735:g:EjgAAeSw5AhqFwgE&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDf1p7tjwpYc8koe%2BgcRztnWNfW1Fbnj4zjzqPFoBWylAnfiXYGU5%2FK5mb52PONJCg74l2iUsJe7UCJEGp%2F8Ai8FALoyvJRq0JqoYHbre1Z2deQwpw0UGm9%2FOagtaB5lBMO0XoIR%2FLk6H9FqAxk2gEsc88Teo6i06jlfTc7nc5TGyG9yWHGHkdgPYLKOqVpmF%2FS7SzIbgKC7CM3UA%2B%2BJmTN4UpDr9Xf0%2BoBMnWDiuaZ6K9O4Rk4mLLKEp7Tp2qOJ8t8EUoTBXaqwfdNXzvPVqinDqGteMGg0v6jbvF9M8fT%2FeCzveA3Mciq2NAN4PnejrASjTMu5i8rzUwmw0yazCIb%7Ctkp%3ABk9SR76mpfCKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EjgAAeSw5AhqFwgE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787388511745,
-        "lastSeen": 1788079814072
+        "lastSeen": 1788166499964
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -80,11 +80,11 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": 1787388511745,
-      "updatedAt": 1788079814072
+      "updatedAt": 1788166499964
     },
     "prices": {
       "variantId": 5727,
-      "ungradedC": 5480,
+      "ungradedC": 5568,
       "grade9C": 35000,
       "grade95C": 38500,
       "cgc10C": 1020000,
@@ -95,7 +95,7 @@
       "cgc10Pop": 7,
       "bgs10C": 2210000,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per month\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787907046535
+      "fetchedAt": 1788166205809
     },
     "listings": [
       {
@@ -104,18 +104,31 @@
         "priceC": 100000,
         "shippingC": 500,
         "landedC": 100500,
-        "url": "https://www.ebay.com/itm/366621292341?_skw=%28altaria%2Cdelta%29+%2890%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=23043384397&itmmeta=01M18XJTTSAA12Q0MX6V6QKAK4&hash=item555c54f735:g:EjgAAeSw5AhqFwgE&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDx74TpyeKZNYLIhTOdX10KU6y7OyjZd7xVfsErZY0SiAK560mqYSQG8DXvk9thYYoR8TJQytJTKRVzBgLT49YuTazaAO8oQ8Ak8CuYm5h5GJ2oFabzevZS2%2Bh%2BBgx1BUj9up15bi6o4WEvRl3B%2Ba7bLqX0W3edhb8bwgNfze1apEcvvi89lZFXZ%2BlmMLBznGwJcHval6h0YSoswxrlIcQ%2FBJZyZwvVwQhSfvPGexzcNOjVCI8jOIyuyEYvWi%2B0h3UWK1UnjBWgKh0zsczmIHVqNISmd3le2FOpWEj8wPVaJA%3D%3D%7Ctkp%3ABk9SR9ity52KaA",
+        "url": "https://www.ebay.com/itm/366621292341?_skw=%28altaria%2Cdelta%29+%2890%2Cdragon%2Cfrontiers%29+%28CGC%2CPSA%29&epid=23043384397&itmmeta=01M1BG9ACB5C1VS3D9F5074WNS&hash=item555c54f735:g:EjgAAeSw5AhqFwgE&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xDf1p7tjwpYc8koe%2BgcRztnWNfW1Fbnj4zjzqPFoBWylAnfiXYGU5%2FK5mb52PONJCg74l2iUsJe7UCJEGp%2F8Ai8FALoyvJRq0JqoYHbre1Z2deQwpw0UGm9%2FOagtaB5lBMO0XoIR%2FLk6H9FqAxk2gEsc88Teo6i06jlfTc7nc5TGyG9yWHGHkdgPYLKOqVpmF%2FS7SzIbgKC7CM3UA%2B%2BJmTN4UpDr9Xf0%2BoBMnWDiuaZ6K9O4Rk4mLLKEp7Tp2qOJ8t8EUoTBXaqwfdNXzvPVqinDqGteMGg0v6jbvF9M8fT%2FeCzveA3Mciq2NAN4PnejrASjTMu5i8rzUwmw0yazCIb%7Ctkp%3ABk9SR76mpfCKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/EjgAAeSw5AhqFwgE/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": true,
         "freshness": "live",
         "firstSeen": 1787388511745,
-        "lastSeen": 1788079814072
+        "lastSeen": 1788166499964
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 8506867,
+          "saleDate": "2026-08-28",
+          "priceC": 31550,
+          "title": "2006 POKEMON ALTARIA EX-HOLO EX DRAGON FRONTIERS #90 PSA 8 NM-MT #90",
+          "url": "https://www.ebay.com/itm/366619436920?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": "nm-mt",
+          "agreementStatus": "match"
+        },
         {
           "id": 4248418,
           "saleDate": "2026-08-23",
@@ -1662,19 +1675,6 @@
           "gradingGrade": 1,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 1477178,
-          "saleDate": "2025-01-11",
-          "priceC": 19999,
-          "title": "PSA 9 MINT Altaria EX 2006 EX Dragon Frontiers #90/101 HOLO Pokemon Card 90/101",
-          "url": "https://www.ebay.com/itm/326401230745?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1689,9 +1689,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 173,
+      "englishSaleCount": 174,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787907044879
+      "lastCapturedAt": 1788166203773
     }
   }
 }

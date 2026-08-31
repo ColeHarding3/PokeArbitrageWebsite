@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 12000,
@@ -19,33 +19,33 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/siyrkhyxsuykjyog/1600.jpg",
       "popularityScore": 84,
       "market": {
-        "ungradedC": 890,
-        "grade9C": 21200,
-        "grade95C": 23300,
+        "ungradedC": 988,
+        "grade9C": 20900,
+        "grade95C": 23000,
         "cgc10C": 99900,
         "cgc10PristineC": 179800,
-        "psa10C": 959759,
-        "bgs10C": 1247700,
+        "psa10C": 976000,
+        "bgs10C": 1268800,
         "psa9Pop": 142,
         "psa10Pop": 63,
         "cgc10Pop": 3,
         "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-        "fetchedAt": 1787907639390
+        "fetchedAt": 1788166796425
       },
       "bestCgc10": {
         "itemId": "227353341547",
         "title": "2007 Infernape Holo Rare Diamond & Pearl 5/130 CGC 10 Opens in a new window or tab",
         "priceC": 299999,
-        "shippingC": 790,
-        "landedC": 300789,
-        "url": "https://www.ebay.com/itm/227353341547?_skw=%28infernape%29+%285%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=9043370957&itmmeta=01M18Y30JAK66D93E8KR8W6T5M&hash=item34ef50ae6b:g:-bQAAeSwN8dqD4KU&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBE%2FxfaUY%2BZPe6dbaaCT%2FqzS%2FyoT949K60lW5ws4xMh%2BRihUsc1ClnVClk0QTCwtySQLJmQcYVF2rpAdWuS4VDKwQcJDXPga5EhcBdiwqC4gQu%2FTiG%2BfRAzI9UQTOOMr26HTXDz6jsqHojh2WSoQuDvOi%2Fo6Dkcfc4zYQSRZYkRVGSVw9TLdyU7YV7B%2B1Q2SSZmglMp%2BQnnaszIJXxi0G6qsxhA5FkHwDOd2OuGKR2RSaVfgf9qUwm%2FU3NotnBYbnUXDyudX7awVzN%2BezxRVEWGrljcwMkK5YmihPvWR5qWO6p7%2BytV%2Buf5nbfI9OgA0SG7IiwexOH%2F2hIRhlOg9Ehr%7Ctkp%3ABk9SR7SJjJ6KaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/227353341547?_skw=%28infernape%29+%285%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=9043370957&itmmeta=01M1BGV60M5MJV2FKA7G0W8H96&hash=item34ef50ae6b:g:-bQAAeSwN8dqD4KU&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDo1W0%2FcQwu4FrFJeSN1yblh54Xn2Vj%2Ffzu8NnMvo5bGEEhKBiIt6Q2R4BXG%2BycdQ5QC9M79nVk%2FaptC9eoyZw2fi5zGx%2BxaqaqtIF1Aqhi2fzRh%2BHq%2BKN2MjnUl5OFZ1yT086lzki2PCfhLxRSxbrgXlw5XzCSF8yziZ6DqNvI%2BqlIiwPNdhzfo%2BVfNL3vc7syW2rlPktydbpQ1ua4CbPpXrlXh8I%2F9ZY4vtFVT8L2VoZsy3EDboCqlX4TYVpIXTRK3IOI0j1APkFyrSS%2BxLz2NoxHgvqUma81hioqrpUnSA%3D%3D%7Ctkp%3ABk9SR8Tg7PCKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-bQAAeSwN8dqD4KU/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787219911031,
-        "lastSeen": 1788080236635
+        "lastSeen": 1788166977567
       },
       "bestPsa10": null,
       "bestPsa9": null,
@@ -57,93 +57,117 @@
         "psa10Auction": 0,
         "psa9Bin": 0
       },
-      "ratio": {
-        "ok": true,
-        "tier": {
-          "id": "walkThrough",
-          "label": "Walk-Through",
-          "feeC": 59900,
-          "declaredValueCapC": 1000000,
-          "turnaroundBizDays": 10
-        },
-        "cgc10CostC": 300789,
-        "submissionFeeC": 59900,
-        "totalCostC": 360689,
-        "psa10ValueC": 959759,
-        "ratio": 2.6609045465761363
-      },
+      "ratio": null,
       "withoutLegacyCgc95": {
         "bestCgc10": {
           "itemId": "227353341547",
           "title": "2007 Infernape Holo Rare Diamond & Pearl 5/130 CGC 10 Opens in a new window or tab",
           "priceC": 299999,
-          "shippingC": 790,
-          "landedC": 300789,
-          "url": "https://www.ebay.com/itm/227353341547?_skw=%28infernape%29+%285%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=9043370957&itmmeta=01M18Y30JAK66D93E8KR8W6T5M&hash=item34ef50ae6b:g:-bQAAeSwN8dqD4KU&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBE%2FxfaUY%2BZPe6dbaaCT%2FqzS%2FyoT949K60lW5ws4xMh%2BRihUsc1ClnVClk0QTCwtySQLJmQcYVF2rpAdWuS4VDKwQcJDXPga5EhcBdiwqC4gQu%2FTiG%2BfRAzI9UQTOOMr26HTXDz6jsqHojh2WSoQuDvOi%2Fo6Dkcfc4zYQSRZYkRVGSVw9TLdyU7YV7B%2B1Q2SSZmglMp%2BQnnaszIJXxi0G6qsxhA5FkHwDOd2OuGKR2RSaVfgf9qUwm%2FU3NotnBYbnUXDyudX7awVzN%2BezxRVEWGrljcwMkK5YmihPvWR5qWO6p7%2BytV%2Buf5nbfI9OgA0SG7IiwexOH%2F2hIRhlOg9Ehr%7Ctkp%3ABk9SR7SJjJ6KaA",
+          "shippingC": null,
+          "landedC": null,
+          "url": "https://www.ebay.com/itm/227353341547?_skw=%28infernape%29+%285%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=9043370957&itmmeta=01M1BGV60M5MJV2FKA7G0W8H96&hash=item34ef50ae6b:g:-bQAAeSwN8dqD4KU&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDo1W0%2FcQwu4FrFJeSN1yblh54Xn2Vj%2Ffzu8NnMvo5bGEEhKBiIt6Q2R4BXG%2BycdQ5QC9M79nVk%2FaptC9eoyZw2fi5zGx%2BxaqaqtIF1Aqhi2fzRh%2BHq%2BKN2MjnUl5OFZ1yT086lzki2PCfhLxRSxbrgXlw5XzCSF8yziZ6DqNvI%2BqlIiwPNdhzfo%2BVfNL3vc7syW2rlPktydbpQ1ua4CbPpXrlXh8I%2F9ZY4vtFVT8L2VoZsy3EDboCqlX4TYVpIXTRK3IOI0j1APkFyrSS%2BxLz2NoxHgvqUma81hioqrpUnSA%3D%3D%7Ctkp%3ABk9SR8Tg7PCKaA",
           "imageUrl": "https://i.ebayimg.com/images/g/-bQAAeSwN8dqD4KU/s-l500.webp",
           "listingType": "bin",
           "bucket": "gemMint10",
           "legacyCgc95": false,
           "freshness": "live",
           "firstSeen": 1787219911031,
-          "lastSeen": 1788080236635
+          "lastSeen": 1788166977567
         },
         "cgc10Bin": 1,
         "cgc10Auction": 0,
-        "ratio": {
-          "ok": true,
-          "tier": {
-            "id": "walkThrough",
-            "label": "Walk-Through",
-            "feeC": 59900,
-            "declaredValueCapC": 1000000,
-            "turnaroundBizDays": 10
-          },
-          "cgc10CostC": 300789,
-          "submissionFeeC": 59900,
-          "totalCostC": 360689,
-          "psa10ValueC": 959759,
-          "ratio": 2.6609045465761363
-        },
+        "ratio": null,
         "firstOpportunityAt": 1787219911031
       },
       "firstOpportunityAt": 1787219911031,
-      "updatedAt": 1788080236635
+      "updatedAt": 1788166977567
     },
     "prices": {
       "variantId": 12000,
-      "ungradedC": 890,
-      "grade9C": 21200,
-      "grade95C": 23300,
+      "ungradedC": 988,
+      "grade9C": 20900,
+      "grade95C": 23000,
       "cgc10C": 99900,
       "cgc10PristineC": 179800,
-      "psa10C": 959759,
+      "psa10C": 976000,
       "psa9Pop": 142,
       "psa10Pop": 63,
       "cgc10Pop": 3,
-      "bgs10C": 1247700,
+      "bgs10C": 1268800,
       "salesVolumeJson": "{\"volume: 2 sales per week\":\"volume: \\n    1 sale per month\",\"volume: 1 sale per month\":\"volume: \\n    1 sale per year\"}",
-      "fetchedAt": 1787907639390
+      "fetchedAt": 1788166796425
     },
     "listings": [
       {
         "itemId": "227353341547",
         "title": "2007 Infernape Holo Rare Diamond & Pearl 5/130 CGC 10 Opens in a new window or tab",
         "priceC": 299999,
-        "shippingC": 790,
-        "landedC": 300789,
-        "url": "https://www.ebay.com/itm/227353341547?_skw=%28infernape%29+%285%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=9043370957&itmmeta=01M18Y30JAK66D93E8KR8W6T5M&hash=item34ef50ae6b:g:-bQAAeSwN8dqD4KU&itmprp=enc%3AAQALAAABEGfYFPkwiKCW4ZNSs2u11xBE%2FxfaUY%2BZPe6dbaaCT%2FqzS%2FyoT949K60lW5ws4xMh%2BRihUsc1ClnVClk0QTCwtySQLJmQcYVF2rpAdWuS4VDKwQcJDXPga5EhcBdiwqC4gQu%2FTiG%2BfRAzI9UQTOOMr26HTXDz6jsqHojh2WSoQuDvOi%2Fo6Dkcfc4zYQSRZYkRVGSVw9TLdyU7YV7B%2B1Q2SSZmglMp%2BQnnaszIJXxi0G6qsxhA5FkHwDOd2OuGKR2RSaVfgf9qUwm%2FU3NotnBYbnUXDyudX7awVzN%2BezxRVEWGrljcwMkK5YmihPvWR5qWO6p7%2BytV%2Buf5nbfI9OgA0SG7IiwexOH%2F2hIRhlOg9Ehr%7Ctkp%3ABk9SR7SJjJ6KaA",
+        "shippingC": null,
+        "landedC": null,
+        "url": "https://www.ebay.com/itm/227353341547?_skw=%28infernape%29+%285%2Cdiamond%2Cpearl%29+%28CGC%2CPSA%29&epid=9043370957&itmmeta=01M1BGV60M5MJV2FKA7G0W8H96&hash=item34ef50ae6b:g:-bQAAeSwN8dqD4KU&itmprp=enc%3AAQALAAAA8GfYFPkwiKCW4ZNSs2u11xDo1W0%2FcQwu4FrFJeSN1yblh54Xn2Vj%2Ffzu8NnMvo5bGEEhKBiIt6Q2R4BXG%2BycdQ5QC9M79nVk%2FaptC9eoyZw2fi5zGx%2BxaqaqtIF1Aqhi2fzRh%2BHq%2BKN2MjnUl5OFZ1yT086lzki2PCfhLxRSxbrgXlw5XzCSF8yziZ6DqNvI%2BqlIiwPNdhzfo%2BVfNL3vc7syW2rlPktydbpQ1ua4CbPpXrlXh8I%2F9ZY4vtFVT8L2VoZsy3EDboCqlX4TYVpIXTRK3IOI0j1APkFyrSS%2BxLz2NoxHgvqUma81hioqrpUnSA%3D%3D%7Ctkp%3ABk9SR8Tg7PCKaA",
         "imageUrl": "https://i.ebayimg.com/images/g/-bQAAeSwN8dqD4KU/s-l500.webp",
         "listingType": "bin",
         "bucket": "gemMint10",
         "legacyCgc95": false,
         "freshness": "live",
         "firstSeen": 1787219911031,
-        "lastSeen": 1788080236635
+        "lastSeen": 1788166977567
       }
     ],
     "marketHistory": {
       "recentSales": [
+        {
+          "id": 8538811,
+          "saleDate": "2026-08-31",
+          "priceC": 325,
+          "title": "2007 Pokemon Diamond and Pearl Infernape Holo Rare #5/130 5/130",
+          "url": "https://www.ebay.com/itm/188831805342?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8538812,
+          "saleDate": "2026-08-30",
+          "priceC": 1942,
+          "title": "2007 POKEMON DIAMOND & PEARL #121/130 INFERNAPE LV.X HOLO RARE 121/130",
+          "url": "https://www.ebay.com/itm/206509504152?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8538813,
+          "saleDate": "2026-08-29",
+          "priceC": 234,
+          "title": "2007 POKEMON DIAMOND & PEARL #5/130 INFERNAPE HOLO RARE 5/130",
+          "url": "https://www.ebay.com/itm/206509503961?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8538954,
+          "saleDate": "2026-08-28",
+          "priceC": 1050,
+          "title": "2007 Pokémon Diamond & Pearl Infernape #5 SGC 6 EX - NM",
+          "url": "https://www.ebay.com/itm/398312438665?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "SGC",
+          "gradingGrade": 6,
+          "gradingDesignation": "excellent",
+          "agreementStatus": "match"
+        },
         {
           "id": 7302446,
           "saleDate": "2026-08-28",
@@ -189,6 +213,19 @@
           "priceC": 1799,
           "title": "2008 Infernape Diamond & Pearl Stormfront Holo 3/100 Pokemon 3/100",
           "url": "https://www.ebay.com/itm/398243308607?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8538819,
+          "saleDate": "2026-08-26",
+          "priceC": 450,
+          "title": "Pokemon TCG Infernape 5/130 Diamond & Pearl Holo Rare English Stage 2 100HP 5/130",
+          "url": "https://www.ebay.com/itm/800552452232?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -379,6 +416,45 @@
           "agreementStatus": "match"
         },
         {
+          "id": 8538897,
+          "saleDate": "2026-08-14",
+          "priceC": 7650,
+          "title": "2007 POKEMON DIAMOND & PEARL INFERNAPE LV. 40 5/130 RARE HOLO FOIL PSA 8 A E8 5/130",
+          "url": "https://www.ebay.com/itm/358865889945?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "graded",
+          "gradingCompany": "PSA",
+          "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8538895,
+          "saleDate": "2026-08-14",
+          "priceC": 240471,
+          "title": "Pokémon TCG Diamond & Pearl Collector's Tin Infernape LV.X Factory Sealed",
+          "url": "https://www.ebay.com/itm/318687852007?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "mismatch"
+        },
+        {
+          "id": 8538831,
+          "saleDate": "2026-08-14",
+          "priceC": 2450,
+          "title": "Pokémon Infernape LV.X Diamond & Pearl 121/130 Ultra Rare Holo Foil MP 121/130",
+          "url": "https://www.ebay.com/itm/318694900378?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 1509166,
           "saleDate": "2026-08-14",
           "priceC": 8300,
@@ -388,6 +464,19 @@
           "gradingStatus": "graded",
           "gradingCompany": "PSA",
           "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8538832,
+          "saleDate": "2026-08-13",
+          "priceC": 11209,
+          "title": "Infernape LV.X DP10 Holo Swirl Diamond and Pearl Pokémon #DP10",
+          "url": "https://www.ebay.com/itm/377399360045?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -1586,123 +1675,6 @@
           "gradingGrade": 1,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 1509188,
-          "saleDate": "2026-05-04",
-          "priceC": 6000,
-          "title": "Pokemon 2007 Infernape 5/130 Holo Diamond & Pearl PSA 8 5/130",
-          "url": "https://www.ebay.com/itm/406895704880?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1509187,
-          "saleDate": "2026-05-04",
-          "priceC": 3800,
-          "title": "2007 Pokemon Infernape LV.40 Holo Diamond and Pearl PSA 8 5/130",
-          "url": "https://www.ebay.com/itm/227054427256?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1509142,
-          "saleDate": "2026-05-02",
-          "priceC": 91986,
-          "title": "PSA 9 2007 Pokemon Infernape LV.X- HOLO Diamond & Pearl 121/130",
-          "url": "https://www.ebay.com/itm/227306574855?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1509189,
-          "saleDate": "2026-04-30",
-          "priceC": 42500,
-          "title": "2007 Pokemon Diamond & Pearl #121 Infernape LV.X Holo PSA 8 NM-MT",
-          "url": "https://www.ebay.com/itm/377134236488?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": "nm-mt",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1509143,
-          "saleDate": "2026-04-29",
-          "priceC": 8500,
-          "title": "CGC 9 MINT Infernape 2007 Diamond & Pearl 5/130 Holo Pokemon Card 5/130",
-          "url": "https://www.ebay.com/itm/326764776864?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "CGC",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1509190,
-          "saleDate": "2026-04-28",
-          "priceC": 6000,
-          "title": "Pokemon Infernape 5/130 Diamond and Pearl Holo PSA 8 5/130",
-          "url": "https://www.ebay.com/itm/318140276302?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1509268,
-          "saleDate": "2026-04-27",
-          "priceC": 3000,
-          "title": "Pokémon TCG Infernape LV.X Holo Rare Card Diamond & Pearl 121/130 PSA 4 121/130",
-          "url": "https://www.ebay.com/itm/206235202473?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 4,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1509201,
-          "saleDate": "2026-04-26",
-          "priceC": 15000,
-          "title": "Pokémon TCG Infernape LV.X Holo Rare Card Diamond & Pearl 121/130 PSA 7 #121",
-          "url": "https://www.ebay.com/itm/227293501310?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 7,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 1509225,
-          "saleDate": "2026-04-20",
-          "priceC": 9000,
-          "title": "2007 POKEMON DIAMOND & PEARL #121 INFERNAPE LV.X-HOLO PSA 6 #121",
-          "url": "https://www.ebay.com/itm/117148446218?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 6,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1747,9 +1719,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 223,
+      "englishSaleCount": 232,
       "excludedLanguageCount": 1,
-      "lastCapturedAt": 1787907637306
+      "lastCapturedAt": 1788166793756
     }
   }
 }

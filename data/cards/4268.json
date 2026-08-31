@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotId": "20260830T102123506Z-b907ba6b0e",
-  "generatedAt": 1788085283506,
+  "snapshotId": "20260831T105821641Z-e46c252800",
+  "generatedAt": 1788173901641,
   "data": {
     "deal": {
       "variantId": 4268,
@@ -19,8 +19,8 @@
       "imageUrl": "https://storage.googleapis.com/images.pricecharting.com/a97d066a1cac0deab4cd5bc566d2f1ba602b57246ab083eeddf3addd94bc2831/1600.jpg",
       "popularityScore": 63,
       "market": {
-        "ungradedC": 3000,
-        "grade9C": 11857,
+        "ungradedC": 3124,
+        "grade9C": 11816,
         "grade95C": 28651,
         "cgc10C": 11001,
         "cgc10PristineC": 57900,
@@ -30,7 +30,7 @@
         "psa10Pop": 33,
         "cgc10Pop": 27,
         "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 6 sales per year\":\"volume: \\n    3 sales per year\"}",
-        "fetchedAt": 1787905536912
+        "fetchedAt": 1788164674676
       },
       "bestCgc10": null,
       "bestPsa10": null,
@@ -52,12 +52,12 @@
         "firstOpportunityAt": null
       },
       "firstOpportunityAt": null,
-      "updatedAt": 1787905536912
+      "updatedAt": 1788164674676
     },
     "prices": {
       "variantId": 4268,
-      "ungradedC": 3000,
-      "grade9C": 11857,
+      "ungradedC": 3124,
+      "grade9C": 11816,
       "grade95C": 28651,
       "cgc10C": 11001,
       "cgc10PristineC": 57900,
@@ -67,7 +67,7 @@
       "cgc10Pop": 27,
       "bgs10C": 148800,
       "salesVolumeJson": "{\"volume: 1 sale per week\":\"volume: \\n    3 sales per year\",\"volume: 6 sales per year\":\"volume: \\n    3 sales per year\"}",
-      "fetchedAt": 1787905536912
+      "fetchedAt": 1788164674676
     },
     "listings": [
       {
@@ -89,6 +89,19 @@
     "marketHistory": {
       "recentSales": [
         {
+          "id": 8362945,
+          "saleDate": "2026-08-30",
+          "priceC": 4061,
+          "title": "Dark Ariados 30/109 🔥 LP 🔥 Team Rocket Returns Reverse Holo Stamp Pokemon TCG 30/109",
+          "url": "https://www.ebay.com/itm/267765243814?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
           "id": 4105320,
           "saleDate": "2026-08-23",
           "priceC": 7267,
@@ -98,6 +111,19 @@
           "gradingStatus": "graded",
           "gradingCompany": "PSA",
           "gradingGrade": 8,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8362946,
+          "saleDate": "2026-08-15",
+          "priceC": 6900,
+          "title": "Dark Ariados 30/109 Reverse Holo Stamp Team Rocket Returns Pokemon English NM 30/109",
+          "url": "https://www.ebay.com/itm/377421091257?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
           "gradingDesignation": null,
           "agreementStatus": "match"
         },
@@ -250,6 +276,19 @@
           "priceC": 2500,
           "title": "Dark Ariados 30/109 Reverse Holo Stamped Team Rocket Returns Pokémon Card 30/109",
           "url": "https://www.ebay.com/itm/336637746288?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
+          "sourceMarketplace": "eBay",
+          "gradingStatus": "raw",
+          "gradingCompany": null,
+          "gradingGrade": null,
+          "gradingDesignation": null,
+          "agreementStatus": "match"
+        },
+        {
+          "id": 8362956,
+          "saleDate": "2026-06-13",
+          "priceC": 6999,
+          "title": "Dark Ariados 30/109 Reverse Holo Stamp Team Rocket Returns Pokemon English NM 30/109",
+          "url": "https://www.ebay.com/itm/188484831781?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
           "sourceMarketplace": "eBay",
           "gradingStatus": "raw",
           "gradingCompany": null,
@@ -1608,45 +1647,6 @@
           "gradingGrade": 9,
           "gradingDesignation": null,
           "agreementStatus": "match"
-        },
-        {
-          "id": 579481,
-          "saleDate": "2023-02-06",
-          "priceC": 2600,
-          "title": "PSA 8 Reverse Holo Dark Ariados Pokemon EX Team Rocket Returns 30/109",
-          "url": "https://www.ebay.com/itm/314358540984?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 579482,
-          "saleDate": "2023-01-16",
-          "priceC": 3200,
-          "title": "PSA 8 Reverse Holo Dark Ariados Pokemon EX Team Rocket Returns 30/109",
-          "url": "https://www.ebay.com/itm/314312599126?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 8,
-          "gradingDesignation": null,
-          "agreementStatus": "match"
-        },
-        {
-          "id": 579458,
-          "saleDate": "2022-12-12",
-          "priceC": 4188,
-          "title": "PSA 9 MINT Reverse Holo Dark Ariados Pokemon EX Team Rocket Returns 30/109",
-          "url": "https://www.ebay.com/itm/314259131594?nordt=true&rt=nc&mkevt=1&mkcid=1&mkrid=711-53200-19255-0&campid=5338999485&customid=noId&toolid=10001",
-          "sourceMarketplace": "eBay",
-          "gradingStatus": "graded",
-          "gradingCompany": "PSA",
-          "gradingGrade": 9,
-          "gradingDesignation": "mint",
-          "agreementStatus": "match"
         }
       ],
       "monthlyPsa10": [
@@ -1716,9 +1716,9 @@
           "count": 1
         }
       ],
-      "englishSaleCount": 127,
+      "englishSaleCount": 130,
       "excludedLanguageCount": 0,
-      "lastCapturedAt": 1787905534879
+      "lastCapturedAt": 1788164673054
     }
   }
 }
